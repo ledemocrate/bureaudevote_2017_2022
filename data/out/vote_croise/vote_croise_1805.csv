@@ -1,0 +1,667 @@
+from,to,vote_commun,loi_commun
+Lassalle   Jean,Favennec-Bécot   Yannick,0,1
+Lassalle   Jean,Door   Jean-Pierre,0,1
+Lassalle   Jean,Grelier   Jean-Carles,0,1
+Lassalle   Jean,Firmin Le Bodo   Agnès,0,1
+Lassalle   Jean,Touraine   Jean-Louis,1,1
+Lassalle   Jean,Lecoq   Jean-Paul,0,1
+Lassalle   Jean,Brindeau   Pascal,0,1
+Lassalle   Jean,Biémouret   Gisèle,0,1
+Lassalle   Jean,Christophe   Paul,0,1
+Lassalle   Jean,Delatte   Marc,1,1
+Lassalle   Jean,Bagarry   Delphine,1,1
+Lassalle   Jean,Bouyx   Bertrand,1,1
+Lassalle   Jean,Mesnier   Thomas,1,1
+Lassalle   Jean,Fabre   Catherine,1,1
+Lassalle   Jean,Ménard   Emmanuelle,0,1
+Lassalle   Jean,Cloarec-Le Nabour   Christine,1,1
+Lassalle   Jean,Abadie   Caroline,1,1
+Lassalle   Jean,Borowczyk   Julien,1,1
+Lassalle   Jean,Dufeu   Audrey,1,1
+Lassalle   Jean,Rist   Stéphanie,1,1
+Lassalle   Jean,Janvier   Caroline,1,1
+Lassalle   Jean,Parmentier-Lecocq   Charlotte,1,1
+Lassalle   Jean,Michels   Thierry,1,1
+Lassalle   Jean,Da Silva   Dominique,1,1
+Lassalle   Jean,Benin   Justine,1,1
+Lassalle   Jean,Sanquer   Nicole,0,1
+Lassalle   Jean,Gaillot   Albane,1,1
+Lassalle   Jean,Fontenel-Personne   Pascale,1,1
+Lassalle   Jean,Fauvergue   Jean-Michel,1,1
+Lassalle   Jean,Peyron   Michèle,1,1
+Lassalle   Jean,de Vaucouleurs   Michèle,1,1
+Lassalle   Jean,Romeiro Dias   Laëtitia,1,1
+Lassalle   Jean,Granjus   Florence,1,1
+Lassalle   Jean,Vidal   Annie,1,1
+Lassalle   Jean,Fiévet   Jean-Marie,1,1
+Lassalle   Jean,Isaac-Sibille   Cyrille,1,1
+Favennec-Bécot   Yannick,Door   Jean-Pierre,1,1
+Favennec-Bécot   Yannick,Grelier   Jean-Carles,1,1
+Favennec-Bécot   Yannick,Firmin Le Bodo   Agnès,1,1
+Favennec-Bécot   Yannick,Touraine   Jean-Louis,0,1
+Favennec-Bécot   Yannick,Lecoq   Jean-Paul,1,1
+Favennec-Bécot   Yannick,Brindeau   Pascal,1,1
+Favennec-Bécot   Yannick,Biémouret   Gisèle,1,1
+Favennec-Bécot   Yannick,Christophe   Paul,1,1
+Favennec-Bécot   Yannick,Delatte   Marc,0,1
+Favennec-Bécot   Yannick,Bagarry   Delphine,0,1
+Favennec-Bécot   Yannick,Bouyx   Bertrand,0,1
+Favennec-Bécot   Yannick,Mesnier   Thomas,0,1
+Favennec-Bécot   Yannick,Fabre   Catherine,0,1
+Favennec-Bécot   Yannick,Ménard   Emmanuelle,1,1
+Favennec-Bécot   Yannick,Cloarec-Le Nabour   Christine,0,1
+Favennec-Bécot   Yannick,Abadie   Caroline,0,1
+Favennec-Bécot   Yannick,Borowczyk   Julien,0,1
+Favennec-Bécot   Yannick,Dufeu   Audrey,0,1
+Favennec-Bécot   Yannick,Rist   Stéphanie,0,1
+Favennec-Bécot   Yannick,Janvier   Caroline,0,1
+Favennec-Bécot   Yannick,Parmentier-Lecocq   Charlotte,0,1
+Favennec-Bécot   Yannick,Michels   Thierry,0,1
+Favennec-Bécot   Yannick,Da Silva   Dominique,0,1
+Favennec-Bécot   Yannick,Benin   Justine,0,1
+Favennec-Bécot   Yannick,Sanquer   Nicole,1,1
+Favennec-Bécot   Yannick,Gaillot   Albane,0,1
+Favennec-Bécot   Yannick,Fontenel-Personne   Pascale,0,1
+Favennec-Bécot   Yannick,Fauvergue   Jean-Michel,0,1
+Favennec-Bécot   Yannick,Peyron   Michèle,0,1
+Favennec-Bécot   Yannick,de Vaucouleurs   Michèle,0,1
+Favennec-Bécot   Yannick,Romeiro Dias   Laëtitia,0,1
+Favennec-Bécot   Yannick,Granjus   Florence,0,1
+Favennec-Bécot   Yannick,Vidal   Annie,0,1
+Favennec-Bécot   Yannick,Fiévet   Jean-Marie,0,1
+Favennec-Bécot   Yannick,Isaac-Sibille   Cyrille,0,1
+Door   Jean-Pierre,Grelier   Jean-Carles,1,1
+Door   Jean-Pierre,Firmin Le Bodo   Agnès,1,1
+Door   Jean-Pierre,Touraine   Jean-Louis,0,1
+Door   Jean-Pierre,Lecoq   Jean-Paul,1,1
+Door   Jean-Pierre,Brindeau   Pascal,1,1
+Door   Jean-Pierre,Biémouret   Gisèle,1,1
+Door   Jean-Pierre,Christophe   Paul,1,1
+Door   Jean-Pierre,Delatte   Marc,0,1
+Door   Jean-Pierre,Bagarry   Delphine,0,1
+Door   Jean-Pierre,Bouyx   Bertrand,0,1
+Door   Jean-Pierre,Mesnier   Thomas,0,1
+Door   Jean-Pierre,Fabre   Catherine,0,1
+Door   Jean-Pierre,Ménard   Emmanuelle,1,1
+Door   Jean-Pierre,Cloarec-Le Nabour   Christine,0,1
+Door   Jean-Pierre,Abadie   Caroline,0,1
+Door   Jean-Pierre,Borowczyk   Julien,0,1
+Door   Jean-Pierre,Dufeu   Audrey,0,1
+Door   Jean-Pierre,Rist   Stéphanie,0,1
+Door   Jean-Pierre,Janvier   Caroline,0,1
+Door   Jean-Pierre,Parmentier-Lecocq   Charlotte,0,1
+Door   Jean-Pierre,Michels   Thierry,0,1
+Door   Jean-Pierre,Da Silva   Dominique,0,1
+Door   Jean-Pierre,Benin   Justine,0,1
+Door   Jean-Pierre,Sanquer   Nicole,1,1
+Door   Jean-Pierre,Gaillot   Albane,0,1
+Door   Jean-Pierre,Fontenel-Personne   Pascale,0,1
+Door   Jean-Pierre,Fauvergue   Jean-Michel,0,1
+Door   Jean-Pierre,Peyron   Michèle,0,1
+Door   Jean-Pierre,de Vaucouleurs   Michèle,0,1
+Door   Jean-Pierre,Romeiro Dias   Laëtitia,0,1
+Door   Jean-Pierre,Granjus   Florence,0,1
+Door   Jean-Pierre,Vidal   Annie,0,1
+Door   Jean-Pierre,Fiévet   Jean-Marie,0,1
+Door   Jean-Pierre,Isaac-Sibille   Cyrille,0,1
+Grelier   Jean-Carles,Firmin Le Bodo   Agnès,1,1
+Grelier   Jean-Carles,Touraine   Jean-Louis,0,1
+Grelier   Jean-Carles,Lecoq   Jean-Paul,1,1
+Grelier   Jean-Carles,Brindeau   Pascal,1,1
+Grelier   Jean-Carles,Biémouret   Gisèle,1,1
+Grelier   Jean-Carles,Christophe   Paul,1,1
+Grelier   Jean-Carles,Delatte   Marc,0,1
+Grelier   Jean-Carles,Bagarry   Delphine,0,1
+Grelier   Jean-Carles,Bouyx   Bertrand,0,1
+Grelier   Jean-Carles,Mesnier   Thomas,0,1
+Grelier   Jean-Carles,Fabre   Catherine,0,1
+Grelier   Jean-Carles,Ménard   Emmanuelle,1,1
+Grelier   Jean-Carles,Cloarec-Le Nabour   Christine,0,1
+Grelier   Jean-Carles,Abadie   Caroline,0,1
+Grelier   Jean-Carles,Borowczyk   Julien,0,1
+Grelier   Jean-Carles,Dufeu   Audrey,0,1
+Grelier   Jean-Carles,Rist   Stéphanie,0,1
+Grelier   Jean-Carles,Janvier   Caroline,0,1
+Grelier   Jean-Carles,Parmentier-Lecocq   Charlotte,0,1
+Grelier   Jean-Carles,Michels   Thierry,0,1
+Grelier   Jean-Carles,Da Silva   Dominique,0,1
+Grelier   Jean-Carles,Benin   Justine,0,1
+Grelier   Jean-Carles,Sanquer   Nicole,1,1
+Grelier   Jean-Carles,Gaillot   Albane,0,1
+Grelier   Jean-Carles,Fontenel-Personne   Pascale,0,1
+Grelier   Jean-Carles,Fauvergue   Jean-Michel,0,1
+Grelier   Jean-Carles,Peyron   Michèle,0,1
+Grelier   Jean-Carles,de Vaucouleurs   Michèle,0,1
+Grelier   Jean-Carles,Romeiro Dias   Laëtitia,0,1
+Grelier   Jean-Carles,Granjus   Florence,0,1
+Grelier   Jean-Carles,Vidal   Annie,0,1
+Grelier   Jean-Carles,Fiévet   Jean-Marie,0,1
+Grelier   Jean-Carles,Isaac-Sibille   Cyrille,0,1
+Firmin Le Bodo   Agnès,Touraine   Jean-Louis,0,1
+Firmin Le Bodo   Agnès,Lecoq   Jean-Paul,1,1
+Firmin Le Bodo   Agnès,Brindeau   Pascal,1,1
+Firmin Le Bodo   Agnès,Biémouret   Gisèle,1,1
+Firmin Le Bodo   Agnès,Christophe   Paul,1,1
+Firmin Le Bodo   Agnès,Delatte   Marc,0,1
+Firmin Le Bodo   Agnès,Bagarry   Delphine,0,1
+Firmin Le Bodo   Agnès,Bouyx   Bertrand,0,1
+Firmin Le Bodo   Agnès,Mesnier   Thomas,0,1
+Firmin Le Bodo   Agnès,Fabre   Catherine,0,1
+Firmin Le Bodo   Agnès,Ménard   Emmanuelle,1,1
+Firmin Le Bodo   Agnès,Cloarec-Le Nabour   Christine,0,1
+Firmin Le Bodo   Agnès,Abadie   Caroline,0,1
+Firmin Le Bodo   Agnès,Borowczyk   Julien,0,1
+Firmin Le Bodo   Agnès,Dufeu   Audrey,0,1
+Firmin Le Bodo   Agnès,Rist   Stéphanie,0,1
+Firmin Le Bodo   Agnès,Janvier   Caroline,0,1
+Firmin Le Bodo   Agnès,Parmentier-Lecocq   Charlotte,0,1
+Firmin Le Bodo   Agnès,Michels   Thierry,0,1
+Firmin Le Bodo   Agnès,Da Silva   Dominique,0,1
+Firmin Le Bodo   Agnès,Benin   Justine,0,1
+Firmin Le Bodo   Agnès,Sanquer   Nicole,1,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,0,1
+Firmin Le Bodo   Agnès,Fontenel-Personne   Pascale,0,1
+Firmin Le Bodo   Agnès,Fauvergue   Jean-Michel,0,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,0,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,0,1
+Firmin Le Bodo   Agnès,Romeiro Dias   Laëtitia,0,1
+Firmin Le Bodo   Agnès,Granjus   Florence,0,1
+Firmin Le Bodo   Agnès,Vidal   Annie,0,1
+Firmin Le Bodo   Agnès,Fiévet   Jean-Marie,0,1
+Firmin Le Bodo   Agnès,Isaac-Sibille   Cyrille,0,1
+Touraine   Jean-Louis,Lecoq   Jean-Paul,0,1
+Touraine   Jean-Louis,Brindeau   Pascal,0,1
+Touraine   Jean-Louis,Biémouret   Gisèle,0,1
+Touraine   Jean-Louis,Christophe   Paul,0,1
+Touraine   Jean-Louis,Delatte   Marc,1,1
+Touraine   Jean-Louis,Bagarry   Delphine,1,1
+Touraine   Jean-Louis,Bouyx   Bertrand,1,1
+Touraine   Jean-Louis,Mesnier   Thomas,1,1
+Touraine   Jean-Louis,Fabre   Catherine,1,1
+Touraine   Jean-Louis,Ménard   Emmanuelle,0,1
+Touraine   Jean-Louis,Cloarec-Le Nabour   Christine,1,1
+Touraine   Jean-Louis,Abadie   Caroline,1,1
+Touraine   Jean-Louis,Borowczyk   Julien,1,1
+Touraine   Jean-Louis,Dufeu   Audrey,1,1
+Touraine   Jean-Louis,Rist   Stéphanie,1,1
+Touraine   Jean-Louis,Janvier   Caroline,1,1
+Touraine   Jean-Louis,Parmentier-Lecocq   Charlotte,1,1
+Touraine   Jean-Louis,Michels   Thierry,1,1
+Touraine   Jean-Louis,Da Silva   Dominique,1,1
+Touraine   Jean-Louis,Benin   Justine,1,1
+Touraine   Jean-Louis,Sanquer   Nicole,0,1
+Touraine   Jean-Louis,Gaillot   Albane,1,1
+Touraine   Jean-Louis,Fontenel-Personne   Pascale,1,1
+Touraine   Jean-Louis,Fauvergue   Jean-Michel,1,1
+Touraine   Jean-Louis,Peyron   Michèle,1,1
+Touraine   Jean-Louis,de Vaucouleurs   Michèle,1,1
+Touraine   Jean-Louis,Romeiro Dias   Laëtitia,1,1
+Touraine   Jean-Louis,Granjus   Florence,1,1
+Touraine   Jean-Louis,Vidal   Annie,1,1
+Touraine   Jean-Louis,Fiévet   Jean-Marie,1,1
+Touraine   Jean-Louis,Isaac-Sibille   Cyrille,1,1
+Lecoq   Jean-Paul,Brindeau   Pascal,1,1
+Lecoq   Jean-Paul,Biémouret   Gisèle,1,1
+Lecoq   Jean-Paul,Christophe   Paul,1,1
+Lecoq   Jean-Paul,Delatte   Marc,0,1
+Lecoq   Jean-Paul,Bagarry   Delphine,0,1
+Lecoq   Jean-Paul,Bouyx   Bertrand,0,1
+Lecoq   Jean-Paul,Mesnier   Thomas,0,1
+Lecoq   Jean-Paul,Fabre   Catherine,0,1
+Lecoq   Jean-Paul,Ménard   Emmanuelle,1,1
+Lecoq   Jean-Paul,Cloarec-Le Nabour   Christine,0,1
+Lecoq   Jean-Paul,Abadie   Caroline,0,1
+Lecoq   Jean-Paul,Borowczyk   Julien,0,1
+Lecoq   Jean-Paul,Dufeu   Audrey,0,1
+Lecoq   Jean-Paul,Rist   Stéphanie,0,1
+Lecoq   Jean-Paul,Janvier   Caroline,0,1
+Lecoq   Jean-Paul,Parmentier-Lecocq   Charlotte,0,1
+Lecoq   Jean-Paul,Michels   Thierry,0,1
+Lecoq   Jean-Paul,Da Silva   Dominique,0,1
+Lecoq   Jean-Paul,Benin   Justine,0,1
+Lecoq   Jean-Paul,Sanquer   Nicole,1,1
+Lecoq   Jean-Paul,Gaillot   Albane,0,1
+Lecoq   Jean-Paul,Fontenel-Personne   Pascale,0,1
+Lecoq   Jean-Paul,Fauvergue   Jean-Michel,0,1
+Lecoq   Jean-Paul,Peyron   Michèle,0,1
+Lecoq   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Lecoq   Jean-Paul,Romeiro Dias   Laëtitia,0,1
+Lecoq   Jean-Paul,Granjus   Florence,0,1
+Lecoq   Jean-Paul,Vidal   Annie,0,1
+Lecoq   Jean-Paul,Fiévet   Jean-Marie,0,1
+Lecoq   Jean-Paul,Isaac-Sibille   Cyrille,0,1
+Brindeau   Pascal,Biémouret   Gisèle,1,1
+Brindeau   Pascal,Christophe   Paul,1,1
+Brindeau   Pascal,Delatte   Marc,0,1
+Brindeau   Pascal,Bagarry   Delphine,0,1
+Brindeau   Pascal,Bouyx   Bertrand,0,1
+Brindeau   Pascal,Mesnier   Thomas,0,1
+Brindeau   Pascal,Fabre   Catherine,0,1
+Brindeau   Pascal,Ménard   Emmanuelle,1,1
+Brindeau   Pascal,Cloarec-Le Nabour   Christine,0,1
+Brindeau   Pascal,Abadie   Caroline,0,1
+Brindeau   Pascal,Borowczyk   Julien,0,1
+Brindeau   Pascal,Dufeu   Audrey,0,1
+Brindeau   Pascal,Rist   Stéphanie,0,1
+Brindeau   Pascal,Janvier   Caroline,0,1
+Brindeau   Pascal,Parmentier-Lecocq   Charlotte,0,1
+Brindeau   Pascal,Michels   Thierry,0,1
+Brindeau   Pascal,Da Silva   Dominique,0,1
+Brindeau   Pascal,Benin   Justine,0,1
+Brindeau   Pascal,Sanquer   Nicole,1,1
+Brindeau   Pascal,Gaillot   Albane,0,1
+Brindeau   Pascal,Fontenel-Personne   Pascale,0,1
+Brindeau   Pascal,Fauvergue   Jean-Michel,0,1
+Brindeau   Pascal,Peyron   Michèle,0,1
+Brindeau   Pascal,de Vaucouleurs   Michèle,0,1
+Brindeau   Pascal,Romeiro Dias   Laëtitia,0,1
+Brindeau   Pascal,Granjus   Florence,0,1
+Brindeau   Pascal,Vidal   Annie,0,1
+Brindeau   Pascal,Fiévet   Jean-Marie,0,1
+Brindeau   Pascal,Isaac-Sibille   Cyrille,0,1
+Biémouret   Gisèle,Christophe   Paul,1,1
+Biémouret   Gisèle,Delatte   Marc,0,1
+Biémouret   Gisèle,Bagarry   Delphine,0,1
+Biémouret   Gisèle,Bouyx   Bertrand,0,1
+Biémouret   Gisèle,Mesnier   Thomas,0,1
+Biémouret   Gisèle,Fabre   Catherine,0,1
+Biémouret   Gisèle,Ménard   Emmanuelle,1,1
+Biémouret   Gisèle,Cloarec-Le Nabour   Christine,0,1
+Biémouret   Gisèle,Abadie   Caroline,0,1
+Biémouret   Gisèle,Borowczyk   Julien,0,1
+Biémouret   Gisèle,Dufeu   Audrey,0,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Janvier   Caroline,0,1
+Biémouret   Gisèle,Parmentier-Lecocq   Charlotte,0,1
+Biémouret   Gisèle,Michels   Thierry,0,1
+Biémouret   Gisèle,Da Silva   Dominique,0,1
+Biémouret   Gisèle,Benin   Justine,0,1
+Biémouret   Gisèle,Sanquer   Nicole,1,1
+Biémouret   Gisèle,Gaillot   Albane,0,1
+Biémouret   Gisèle,Fontenel-Personne   Pascale,0,1
+Biémouret   Gisèle,Fauvergue   Jean-Michel,0,1
+Biémouret   Gisèle,Peyron   Michèle,0,1
+Biémouret   Gisèle,de Vaucouleurs   Michèle,0,1
+Biémouret   Gisèle,Romeiro Dias   Laëtitia,0,1
+Biémouret   Gisèle,Granjus   Florence,0,1
+Biémouret   Gisèle,Vidal   Annie,0,1
+Biémouret   Gisèle,Fiévet   Jean-Marie,0,1
+Biémouret   Gisèle,Isaac-Sibille   Cyrille,0,1
+Christophe   Paul,Delatte   Marc,0,1
+Christophe   Paul,Bagarry   Delphine,0,1
+Christophe   Paul,Bouyx   Bertrand,0,1
+Christophe   Paul,Mesnier   Thomas,0,1
+Christophe   Paul,Fabre   Catherine,0,1
+Christophe   Paul,Ménard   Emmanuelle,1,1
+Christophe   Paul,Cloarec-Le Nabour   Christine,0,1
+Christophe   Paul,Abadie   Caroline,0,1
+Christophe   Paul,Borowczyk   Julien,0,1
+Christophe   Paul,Dufeu   Audrey,0,1
+Christophe   Paul,Rist   Stéphanie,0,1
+Christophe   Paul,Janvier   Caroline,0,1
+Christophe   Paul,Parmentier-Lecocq   Charlotte,0,1
+Christophe   Paul,Michels   Thierry,0,1
+Christophe   Paul,Da Silva   Dominique,0,1
+Christophe   Paul,Benin   Justine,0,1
+Christophe   Paul,Sanquer   Nicole,1,1
+Christophe   Paul,Gaillot   Albane,0,1
+Christophe   Paul,Fontenel-Personne   Pascale,0,1
+Christophe   Paul,Fauvergue   Jean-Michel,0,1
+Christophe   Paul,Peyron   Michèle,0,1
+Christophe   Paul,de Vaucouleurs   Michèle,0,1
+Christophe   Paul,Romeiro Dias   Laëtitia,0,1
+Christophe   Paul,Granjus   Florence,0,1
+Christophe   Paul,Vidal   Annie,0,1
+Christophe   Paul,Fiévet   Jean-Marie,0,1
+Christophe   Paul,Isaac-Sibille   Cyrille,0,1
+Delatte   Marc,Bagarry   Delphine,1,1
+Delatte   Marc,Bouyx   Bertrand,1,1
+Delatte   Marc,Mesnier   Thomas,1,1
+Delatte   Marc,Fabre   Catherine,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,Cloarec-Le Nabour   Christine,1,1
+Delatte   Marc,Abadie   Caroline,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Dufeu   Audrey,1,1
+Delatte   Marc,Rist   Stéphanie,1,1
+Delatte   Marc,Janvier   Caroline,1,1
+Delatte   Marc,Parmentier-Lecocq   Charlotte,1,1
+Delatte   Marc,Michels   Thierry,1,1
+Delatte   Marc,Da Silva   Dominique,1,1
+Delatte   Marc,Benin   Justine,1,1
+Delatte   Marc,Sanquer   Nicole,0,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Fontenel-Personne   Pascale,1,1
+Delatte   Marc,Fauvergue   Jean-Michel,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Romeiro Dias   Laëtitia,1,1
+Delatte   Marc,Granjus   Florence,1,1
+Delatte   Marc,Vidal   Annie,1,1
+Delatte   Marc,Fiévet   Jean-Marie,1,1
+Delatte   Marc,Isaac-Sibille   Cyrille,1,1
+Bagarry   Delphine,Bouyx   Bertrand,1,1
+Bagarry   Delphine,Mesnier   Thomas,1,1
+Bagarry   Delphine,Fabre   Catherine,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,Cloarec-Le Nabour   Christine,1,1
+Bagarry   Delphine,Abadie   Caroline,1,1
+Bagarry   Delphine,Borowczyk   Julien,1,1
+Bagarry   Delphine,Dufeu   Audrey,1,1
+Bagarry   Delphine,Rist   Stéphanie,1,1
+Bagarry   Delphine,Janvier   Caroline,1,1
+Bagarry   Delphine,Parmentier-Lecocq   Charlotte,1,1
+Bagarry   Delphine,Michels   Thierry,1,1
+Bagarry   Delphine,Da Silva   Dominique,1,1
+Bagarry   Delphine,Benin   Justine,1,1
+Bagarry   Delphine,Sanquer   Nicole,0,1
+Bagarry   Delphine,Gaillot   Albane,1,1
+Bagarry   Delphine,Fontenel-Personne   Pascale,1,1
+Bagarry   Delphine,Fauvergue   Jean-Michel,1,1
+Bagarry   Delphine,Peyron   Michèle,1,1
+Bagarry   Delphine,de Vaucouleurs   Michèle,1,1
+Bagarry   Delphine,Romeiro Dias   Laëtitia,1,1
+Bagarry   Delphine,Granjus   Florence,1,1
+Bagarry   Delphine,Vidal   Annie,1,1
+Bagarry   Delphine,Fiévet   Jean-Marie,1,1
+Bagarry   Delphine,Isaac-Sibille   Cyrille,1,1
+Bouyx   Bertrand,Mesnier   Thomas,1,1
+Bouyx   Bertrand,Fabre   Catherine,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,0,1
+Bouyx   Bertrand,Cloarec-Le Nabour   Christine,1,1
+Bouyx   Bertrand,Abadie   Caroline,1,1
+Bouyx   Bertrand,Borowczyk   Julien,1,1
+Bouyx   Bertrand,Dufeu   Audrey,1,1
+Bouyx   Bertrand,Rist   Stéphanie,1,1
+Bouyx   Bertrand,Janvier   Caroline,1,1
+Bouyx   Bertrand,Parmentier-Lecocq   Charlotte,1,1
+Bouyx   Bertrand,Michels   Thierry,1,1
+Bouyx   Bertrand,Da Silva   Dominique,1,1
+Bouyx   Bertrand,Benin   Justine,1,1
+Bouyx   Bertrand,Sanquer   Nicole,0,1
+Bouyx   Bertrand,Gaillot   Albane,1,1
+Bouyx   Bertrand,Fontenel-Personne   Pascale,1,1
+Bouyx   Bertrand,Fauvergue   Jean-Michel,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,1,1
+Bouyx   Bertrand,Romeiro Dias   Laëtitia,1,1
+Bouyx   Bertrand,Granjus   Florence,1,1
+Bouyx   Bertrand,Vidal   Annie,1,1
+Bouyx   Bertrand,Fiévet   Jean-Marie,1,1
+Bouyx   Bertrand,Isaac-Sibille   Cyrille,1,1
+Mesnier   Thomas,Fabre   Catherine,1,1
+Mesnier   Thomas,Ménard   Emmanuelle,0,1
+Mesnier   Thomas,Cloarec-Le Nabour   Christine,1,1
+Mesnier   Thomas,Abadie   Caroline,1,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Dufeu   Audrey,1,1
+Mesnier   Thomas,Rist   Stéphanie,1,1
+Mesnier   Thomas,Janvier   Caroline,1,1
+Mesnier   Thomas,Parmentier-Lecocq   Charlotte,1,1
+Mesnier   Thomas,Michels   Thierry,1,1
+Mesnier   Thomas,Da Silva   Dominique,1,1
+Mesnier   Thomas,Benin   Justine,1,1
+Mesnier   Thomas,Sanquer   Nicole,0,1
+Mesnier   Thomas,Gaillot   Albane,1,1
+Mesnier   Thomas,Fontenel-Personne   Pascale,1,1
+Mesnier   Thomas,Fauvergue   Jean-Michel,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,de Vaucouleurs   Michèle,1,1
+Mesnier   Thomas,Romeiro Dias   Laëtitia,1,1
+Mesnier   Thomas,Granjus   Florence,1,1
+Mesnier   Thomas,Vidal   Annie,1,1
+Mesnier   Thomas,Fiévet   Jean-Marie,1,1
+Mesnier   Thomas,Isaac-Sibille   Cyrille,1,1
+Fabre   Catherine,Ménard   Emmanuelle,0,1
+Fabre   Catherine,Cloarec-Le Nabour   Christine,1,1
+Fabre   Catherine,Abadie   Caroline,1,1
+Fabre   Catherine,Borowczyk   Julien,1,1
+Fabre   Catherine,Dufeu   Audrey,1,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Janvier   Caroline,1,1
+Fabre   Catherine,Parmentier-Lecocq   Charlotte,1,1
+Fabre   Catherine,Michels   Thierry,1,1
+Fabre   Catherine,Da Silva   Dominique,1,1
+Fabre   Catherine,Benin   Justine,1,1
+Fabre   Catherine,Sanquer   Nicole,0,1
+Fabre   Catherine,Gaillot   Albane,1,1
+Fabre   Catherine,Fontenel-Personne   Pascale,1,1
+Fabre   Catherine,Fauvergue   Jean-Michel,1,1
+Fabre   Catherine,Peyron   Michèle,1,1
+Fabre   Catherine,de Vaucouleurs   Michèle,1,1
+Fabre   Catherine,Romeiro Dias   Laëtitia,1,1
+Fabre   Catherine,Granjus   Florence,1,1
+Fabre   Catherine,Vidal   Annie,1,1
+Fabre   Catherine,Fiévet   Jean-Marie,1,1
+Fabre   Catherine,Isaac-Sibille   Cyrille,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Abadie   Caroline,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Dufeu   Audrey,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Janvier   Caroline,0,1
+Ménard   Emmanuelle,Parmentier-Lecocq   Charlotte,0,1
+Ménard   Emmanuelle,Michels   Thierry,0,1
+Ménard   Emmanuelle,Da Silva   Dominique,0,1
+Ménard   Emmanuelle,Benin   Justine,0,1
+Ménard   Emmanuelle,Sanquer   Nicole,1,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Fontenel-Personne   Pascale,0,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,0,1
+Ménard   Emmanuelle,Peyron   Michèle,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Romeiro Dias   Laëtitia,0,1
+Ménard   Emmanuelle,Granjus   Florence,0,1
+Ménard   Emmanuelle,Vidal   Annie,0,1
+Ménard   Emmanuelle,Fiévet   Jean-Marie,0,1
+Ménard   Emmanuelle,Isaac-Sibille   Cyrille,0,1
+Cloarec-Le Nabour   Christine,Abadie   Caroline,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dufeu   Audrey,1,1
+Cloarec-Le Nabour   Christine,Rist   Stéphanie,1,1
+Cloarec-Le Nabour   Christine,Janvier   Caroline,1,1
+Cloarec-Le Nabour   Christine,Parmentier-Lecocq   Charlotte,1,1
+Cloarec-Le Nabour   Christine,Michels   Thierry,1,1
+Cloarec-Le Nabour   Christine,Da Silva   Dominique,1,1
+Cloarec-Le Nabour   Christine,Benin   Justine,1,1
+Cloarec-Le Nabour   Christine,Sanquer   Nicole,0,1
+Cloarec-Le Nabour   Christine,Gaillot   Albane,1,1
+Cloarec-Le Nabour   Christine,Fontenel-Personne   Pascale,1,1
+Cloarec-Le Nabour   Christine,Fauvergue   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Peyron   Michèle,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,1,1
+Cloarec-Le Nabour   Christine,Romeiro Dias   Laëtitia,1,1
+Cloarec-Le Nabour   Christine,Granjus   Florence,1,1
+Cloarec-Le Nabour   Christine,Vidal   Annie,1,1
+Cloarec-Le Nabour   Christine,Fiévet   Jean-Marie,1,1
+Cloarec-Le Nabour   Christine,Isaac-Sibille   Cyrille,1,1
+Abadie   Caroline,Borowczyk   Julien,1,1
+Abadie   Caroline,Dufeu   Audrey,1,1
+Abadie   Caroline,Rist   Stéphanie,1,1
+Abadie   Caroline,Janvier   Caroline,1,1
+Abadie   Caroline,Parmentier-Lecocq   Charlotte,1,1
+Abadie   Caroline,Michels   Thierry,1,1
+Abadie   Caroline,Da Silva   Dominique,1,1
+Abadie   Caroline,Benin   Justine,1,1
+Abadie   Caroline,Sanquer   Nicole,0,1
+Abadie   Caroline,Gaillot   Albane,1,1
+Abadie   Caroline,Fontenel-Personne   Pascale,1,1
+Abadie   Caroline,Fauvergue   Jean-Michel,1,1
+Abadie   Caroline,Peyron   Michèle,1,1
+Abadie   Caroline,de Vaucouleurs   Michèle,1,1
+Abadie   Caroline,Romeiro Dias   Laëtitia,1,1
+Abadie   Caroline,Granjus   Florence,1,1
+Abadie   Caroline,Vidal   Annie,1,1
+Abadie   Caroline,Fiévet   Jean-Marie,1,1
+Abadie   Caroline,Isaac-Sibille   Cyrille,1,1
+Borowczyk   Julien,Dufeu   Audrey,1,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Janvier   Caroline,1,1
+Borowczyk   Julien,Parmentier-Lecocq   Charlotte,1,1
+Borowczyk   Julien,Michels   Thierry,1,1
+Borowczyk   Julien,Da Silva   Dominique,1,1
+Borowczyk   Julien,Benin   Justine,1,1
+Borowczyk   Julien,Sanquer   Nicole,0,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Fontenel-Personne   Pascale,1,1
+Borowczyk   Julien,Fauvergue   Jean-Michel,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Romeiro Dias   Laëtitia,1,1
+Borowczyk   Julien,Granjus   Florence,1,1
+Borowczyk   Julien,Vidal   Annie,1,1
+Borowczyk   Julien,Fiévet   Jean-Marie,1,1
+Borowczyk   Julien,Isaac-Sibille   Cyrille,1,1
+Dufeu   Audrey,Rist   Stéphanie,1,1
+Dufeu   Audrey,Janvier   Caroline,1,1
+Dufeu   Audrey,Parmentier-Lecocq   Charlotte,1,1
+Dufeu   Audrey,Michels   Thierry,1,1
+Dufeu   Audrey,Da Silva   Dominique,1,1
+Dufeu   Audrey,Benin   Justine,1,1
+Dufeu   Audrey,Sanquer   Nicole,0,1
+Dufeu   Audrey,Gaillot   Albane,1,1
+Dufeu   Audrey,Fontenel-Personne   Pascale,1,1
+Dufeu   Audrey,Fauvergue   Jean-Michel,1,1
+Dufeu   Audrey,Peyron   Michèle,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,1,1
+Dufeu   Audrey,Romeiro Dias   Laëtitia,1,1
+Dufeu   Audrey,Granjus   Florence,1,1
+Dufeu   Audrey,Vidal   Annie,1,1
+Dufeu   Audrey,Fiévet   Jean-Marie,1,1
+Dufeu   Audrey,Isaac-Sibille   Cyrille,1,1
+Rist   Stéphanie,Janvier   Caroline,1,1
+Rist   Stéphanie,Parmentier-Lecocq   Charlotte,1,1
+Rist   Stéphanie,Michels   Thierry,1,1
+Rist   Stéphanie,Da Silva   Dominique,1,1
+Rist   Stéphanie,Benin   Justine,1,1
+Rist   Stéphanie,Sanquer   Nicole,0,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Fontenel-Personne   Pascale,1,1
+Rist   Stéphanie,Fauvergue   Jean-Michel,1,1
+Rist   Stéphanie,Peyron   Michèle,1,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,1,1
+Rist   Stéphanie,Romeiro Dias   Laëtitia,1,1
+Rist   Stéphanie,Granjus   Florence,1,1
+Rist   Stéphanie,Vidal   Annie,1,1
+Rist   Stéphanie,Fiévet   Jean-Marie,1,1
+Rist   Stéphanie,Isaac-Sibille   Cyrille,1,1
+Janvier   Caroline,Parmentier-Lecocq   Charlotte,1,1
+Janvier   Caroline,Michels   Thierry,1,1
+Janvier   Caroline,Da Silva   Dominique,1,1
+Janvier   Caroline,Benin   Justine,1,1
+Janvier   Caroline,Sanquer   Nicole,0,1
+Janvier   Caroline,Gaillot   Albane,1,1
+Janvier   Caroline,Fontenel-Personne   Pascale,1,1
+Janvier   Caroline,Fauvergue   Jean-Michel,1,1
+Janvier   Caroline,Peyron   Michèle,1,1
+Janvier   Caroline,de Vaucouleurs   Michèle,1,1
+Janvier   Caroline,Romeiro Dias   Laëtitia,1,1
+Janvier   Caroline,Granjus   Florence,1,1
+Janvier   Caroline,Vidal   Annie,1,1
+Janvier   Caroline,Fiévet   Jean-Marie,1,1
+Janvier   Caroline,Isaac-Sibille   Cyrille,1,1
+Parmentier-Lecocq   Charlotte,Michels   Thierry,1,1
+Parmentier-Lecocq   Charlotte,Da Silva   Dominique,1,1
+Parmentier-Lecocq   Charlotte,Benin   Justine,1,1
+Parmentier-Lecocq   Charlotte,Sanquer   Nicole,0,1
+Parmentier-Lecocq   Charlotte,Gaillot   Albane,1,1
+Parmentier-Lecocq   Charlotte,Fontenel-Personne   Pascale,1,1
+Parmentier-Lecocq   Charlotte,Fauvergue   Jean-Michel,1,1
+Parmentier-Lecocq   Charlotte,Peyron   Michèle,1,1
+Parmentier-Lecocq   Charlotte,de Vaucouleurs   Michèle,1,1
+Parmentier-Lecocq   Charlotte,Romeiro Dias   Laëtitia,1,1
+Parmentier-Lecocq   Charlotte,Granjus   Florence,1,1
+Parmentier-Lecocq   Charlotte,Vidal   Annie,1,1
+Parmentier-Lecocq   Charlotte,Fiévet   Jean-Marie,1,1
+Parmentier-Lecocq   Charlotte,Isaac-Sibille   Cyrille,1,1
+Michels   Thierry,Da Silva   Dominique,1,1
+Michels   Thierry,Benin   Justine,1,1
+Michels   Thierry,Sanquer   Nicole,0,1
+Michels   Thierry,Gaillot   Albane,1,1
+Michels   Thierry,Fontenel-Personne   Pascale,1,1
+Michels   Thierry,Fauvergue   Jean-Michel,1,1
+Michels   Thierry,Peyron   Michèle,1,1
+Michels   Thierry,de Vaucouleurs   Michèle,1,1
+Michels   Thierry,Romeiro Dias   Laëtitia,1,1
+Michels   Thierry,Granjus   Florence,1,1
+Michels   Thierry,Vidal   Annie,1,1
+Michels   Thierry,Fiévet   Jean-Marie,1,1
+Michels   Thierry,Isaac-Sibille   Cyrille,1,1
+Da Silva   Dominique,Benin   Justine,1,1
+Da Silva   Dominique,Sanquer   Nicole,0,1
+Da Silva   Dominique,Gaillot   Albane,1,1
+Da Silva   Dominique,Fontenel-Personne   Pascale,1,1
+Da Silva   Dominique,Fauvergue   Jean-Michel,1,1
+Da Silva   Dominique,Peyron   Michèle,1,1
+Da Silva   Dominique,de Vaucouleurs   Michèle,1,1
+Da Silva   Dominique,Romeiro Dias   Laëtitia,1,1
+Da Silva   Dominique,Granjus   Florence,1,1
+Da Silva   Dominique,Vidal   Annie,1,1
+Da Silva   Dominique,Fiévet   Jean-Marie,1,1
+Da Silva   Dominique,Isaac-Sibille   Cyrille,1,1
+Benin   Justine,Sanquer   Nicole,0,1
+Benin   Justine,Gaillot   Albane,1,1
+Benin   Justine,Fontenel-Personne   Pascale,1,1
+Benin   Justine,Fauvergue   Jean-Michel,1,1
+Benin   Justine,Peyron   Michèle,1,1
+Benin   Justine,de Vaucouleurs   Michèle,1,1
+Benin   Justine,Romeiro Dias   Laëtitia,1,1
+Benin   Justine,Granjus   Florence,1,1
+Benin   Justine,Vidal   Annie,1,1
+Benin   Justine,Fiévet   Jean-Marie,1,1
+Benin   Justine,Isaac-Sibille   Cyrille,1,1
+Sanquer   Nicole,Gaillot   Albane,0,1
+Sanquer   Nicole,Fontenel-Personne   Pascale,0,1
+Sanquer   Nicole,Fauvergue   Jean-Michel,0,1
+Sanquer   Nicole,Peyron   Michèle,0,1
+Sanquer   Nicole,de Vaucouleurs   Michèle,0,1
+Sanquer   Nicole,Romeiro Dias   Laëtitia,0,1
+Sanquer   Nicole,Granjus   Florence,0,1
+Sanquer   Nicole,Vidal   Annie,0,1
+Sanquer   Nicole,Fiévet   Jean-Marie,0,1
+Sanquer   Nicole,Isaac-Sibille   Cyrille,0,1
+Gaillot   Albane,Fontenel-Personne   Pascale,1,1
+Gaillot   Albane,Fauvergue   Jean-Michel,1,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,1,1
+Gaillot   Albane,Romeiro Dias   Laëtitia,1,1
+Gaillot   Albane,Granjus   Florence,1,1
+Gaillot   Albane,Vidal   Annie,1,1
+Gaillot   Albane,Fiévet   Jean-Marie,1,1
+Gaillot   Albane,Isaac-Sibille   Cyrille,1,1
+Fontenel-Personne   Pascale,Fauvergue   Jean-Michel,1,1
+Fontenel-Personne   Pascale,Peyron   Michèle,1,1
+Fontenel-Personne   Pascale,de Vaucouleurs   Michèle,1,1
+Fontenel-Personne   Pascale,Romeiro Dias   Laëtitia,1,1
+Fontenel-Personne   Pascale,Granjus   Florence,1,1
+Fontenel-Personne   Pascale,Vidal   Annie,1,1
+Fontenel-Personne   Pascale,Fiévet   Jean-Marie,1,1
+Fontenel-Personne   Pascale,Isaac-Sibille   Cyrille,1,1
+Fauvergue   Jean-Michel,Peyron   Michèle,1,1
+Fauvergue   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Fauvergue   Jean-Michel,Romeiro Dias   Laëtitia,1,1
+Fauvergue   Jean-Michel,Granjus   Florence,1,1
+Fauvergue   Jean-Michel,Vidal   Annie,1,1
+Fauvergue   Jean-Michel,Fiévet   Jean-Marie,1,1
+Fauvergue   Jean-Michel,Isaac-Sibille   Cyrille,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Romeiro Dias   Laëtitia,1,1
+Peyron   Michèle,Granjus   Florence,1,1
+Peyron   Michèle,Vidal   Annie,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Isaac-Sibille   Cyrille,1,1
+de Vaucouleurs   Michèle,Romeiro Dias   Laëtitia,1,1
+de Vaucouleurs   Michèle,Granjus   Florence,1,1
+de Vaucouleurs   Michèle,Vidal   Annie,1,1
+de Vaucouleurs   Michèle,Fiévet   Jean-Marie,1,1
+de Vaucouleurs   Michèle,Isaac-Sibille   Cyrille,1,1
+Romeiro Dias   Laëtitia,Granjus   Florence,1,1
+Romeiro Dias   Laëtitia,Vidal   Annie,1,1
+Romeiro Dias   Laëtitia,Fiévet   Jean-Marie,1,1
+Romeiro Dias   Laëtitia,Isaac-Sibille   Cyrille,1,1
+Granjus   Florence,Vidal   Annie,1,1
+Granjus   Florence,Fiévet   Jean-Marie,1,1
+Granjus   Florence,Isaac-Sibille   Cyrille,1,1
+Vidal   Annie,Fiévet   Jean-Marie,1,1
+Vidal   Annie,Isaac-Sibille   Cyrille,1,1
+Fiévet   Jean-Marie,Isaac-Sibille   Cyrille,1,1

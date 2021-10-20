@@ -1,0 +1,1771 @@
+from,to,vote_commun,loi_commun
+David   Alain,Dumont   Laurence,1,1
+David   Alain,Le Fur   Marc,1,1
+David   Alain,Mélenchon   Jean-Luc,1,1
+David   Alain,Saulignac   Hervé,1,1
+David   Alain,Bricout   Jean-Louis,1,1
+David   Alain,Lambert   François-Michel,1,1
+David   Alain,Ferrand   Richard,0,1
+David   Alain,Boudié   Florent,0,1
+David   Alain,Pires Beaune   Christine,1,1
+David   Alain,Dubié   Jeanine,1,1
+David   Alain,Hetzel   Patrick,1,1
+David   Alain,Tolmont   Sylvie,1,1
+David   Alain,Bothorel   Éric,0,1
+David   Alain,Becht   Olivier,1,1
+David   Alain,Questel   Bruno,0,1
+David   Alain,Dufrègne   Jean-Paul,1,1
+David   Alain,Khattabi   Fadila,0,1
+David   Alain,Gouttefarde   Fabien,0,1
+David   Alain,Ménard   Emmanuelle,0,1
+David   Alain,Euzet   Christophe,0,1
+David   Alain,Dubost   Coralie,0,1
+David   Alain,Thillaye   Sabine,0,1
+David   Alain,Brulebois   Danielle,0,1
+David   Alain,Kamowski   Catherine,0,1
+David   Alain,Oppelt   Valérie,0,1
+David   Alain,Grandjean   Carole,0,1
+David   Alain,Girardin   Éric,0,1
+David   Alain,Fiat   Caroline,1,1
+David   Alain,Zannier   Hélène,0,1
+David   Alain,Le Peih   Nicole,0,1
+David   Alain,Di Filippo   Fabien,1,1
+David   Alain,Bernalicis   Ugo,1,1
+David   Alain,Le Pen   Marine,0,1
+David   Alain,Bureau-Bonnard   Carole,0,1
+David   Alain,Minot   Maxime,1,1
+David   Alain,Bilde   Bruno,0,1
+David   Alain,Mbaye   Jean François,0,1
+David   Alain,Saint-Martin   Laurent,0,1
+David   Alain,Taché   Aurélien,0,1
+David   Alain,Sanquer   Nicole,1,1
+David   Alain,Petit   Frédéric,0,1
+David   Alain,Coquerel   Éric,1,1
+David   Alain,Charrière   Sylvie,0,1
+David   Alain,Vuilletet   Guillaume,0,1
+David   Alain,Ramadier   Alain,1,1
+David   Alain,Kuster   Brigitte,1,1
+David   Alain,Verdier-Jouclas   Marie-Christine,0,1
+David   Alain,Rupin   Pacôme,0,1
+David   Alain,Michel-Kleisbauer   Philippe,0,1
+David   Alain,Baichère   Didier,0,1
+David   Alain,Guévenoux   Marie,0,1
+David   Alain,Pouzyreff   Natalia,0,1
+David   Alain,Marilossian   Jacques,0,1
+David   Alain,Millienne   Bruno,0,1
+David   Alain,Houlié   Sacha,0,1
+David   Alain,Jumel   Sébastien,1,1
+David   Alain,Leclabart   Jean-Claude,0,1
+David   Alain,Villani   Cédric,0,1
+David   Alain,Fugit   Jean-Luc,0,1
+Dumont   Laurence,Le Fur   Marc,1,1
+Dumont   Laurence,Mélenchon   Jean-Luc,1,1
+Dumont   Laurence,Saulignac   Hervé,1,1
+Dumont   Laurence,Bricout   Jean-Louis,1,1
+Dumont   Laurence,Lambert   François-Michel,1,1
+Dumont   Laurence,Ferrand   Richard,0,1
+Dumont   Laurence,Boudié   Florent,0,1
+Dumont   Laurence,Pires Beaune   Christine,1,1
+Dumont   Laurence,Dubié   Jeanine,1,1
+Dumont   Laurence,Hetzel   Patrick,1,1
+Dumont   Laurence,Tolmont   Sylvie,1,1
+Dumont   Laurence,Bothorel   Éric,0,1
+Dumont   Laurence,Becht   Olivier,1,1
+Dumont   Laurence,Questel   Bruno,0,1
+Dumont   Laurence,Dufrègne   Jean-Paul,1,1
+Dumont   Laurence,Khattabi   Fadila,0,1
+Dumont   Laurence,Gouttefarde   Fabien,0,1
+Dumont   Laurence,Ménard   Emmanuelle,0,1
+Dumont   Laurence,Euzet   Christophe,0,1
+Dumont   Laurence,Dubost   Coralie,0,1
+Dumont   Laurence,Thillaye   Sabine,0,1
+Dumont   Laurence,Brulebois   Danielle,0,1
+Dumont   Laurence,Kamowski   Catherine,0,1
+Dumont   Laurence,Oppelt   Valérie,0,1
+Dumont   Laurence,Grandjean   Carole,0,1
+Dumont   Laurence,Girardin   Éric,0,1
+Dumont   Laurence,Fiat   Caroline,1,1
+Dumont   Laurence,Zannier   Hélène,0,1
+Dumont   Laurence,Le Peih   Nicole,0,1
+Dumont   Laurence,Di Filippo   Fabien,1,1
+Dumont   Laurence,Bernalicis   Ugo,1,1
+Dumont   Laurence,Le Pen   Marine,0,1
+Dumont   Laurence,Bureau-Bonnard   Carole,0,1
+Dumont   Laurence,Minot   Maxime,1,1
+Dumont   Laurence,Bilde   Bruno,0,1
+Dumont   Laurence,Mbaye   Jean François,0,1
+Dumont   Laurence,Saint-Martin   Laurent,0,1
+Dumont   Laurence,Taché   Aurélien,0,1
+Dumont   Laurence,Sanquer   Nicole,1,1
+Dumont   Laurence,Petit   Frédéric,0,1
+Dumont   Laurence,Coquerel   Éric,1,1
+Dumont   Laurence,Charrière   Sylvie,0,1
+Dumont   Laurence,Vuilletet   Guillaume,0,1
+Dumont   Laurence,Ramadier   Alain,1,1
+Dumont   Laurence,Kuster   Brigitte,1,1
+Dumont   Laurence,Verdier-Jouclas   Marie-Christine,0,1
+Dumont   Laurence,Rupin   Pacôme,0,1
+Dumont   Laurence,Michel-Kleisbauer   Philippe,0,1
+Dumont   Laurence,Baichère   Didier,0,1
+Dumont   Laurence,Guévenoux   Marie,0,1
+Dumont   Laurence,Pouzyreff   Natalia,0,1
+Dumont   Laurence,Marilossian   Jacques,0,1
+Dumont   Laurence,Millienne   Bruno,0,1
+Dumont   Laurence,Houlié   Sacha,0,1
+Dumont   Laurence,Jumel   Sébastien,1,1
+Dumont   Laurence,Leclabart   Jean-Claude,0,1
+Dumont   Laurence,Villani   Cédric,0,1
+Dumont   Laurence,Fugit   Jean-Luc,0,1
+Le Fur   Marc,Mélenchon   Jean-Luc,1,1
+Le Fur   Marc,Saulignac   Hervé,1,1
+Le Fur   Marc,Bricout   Jean-Louis,1,1
+Le Fur   Marc,Lambert   François-Michel,1,1
+Le Fur   Marc,Ferrand   Richard,0,1
+Le Fur   Marc,Boudié   Florent,0,1
+Le Fur   Marc,Pires Beaune   Christine,1,1
+Le Fur   Marc,Dubié   Jeanine,1,1
+Le Fur   Marc,Hetzel   Patrick,1,1
+Le Fur   Marc,Tolmont   Sylvie,1,1
+Le Fur   Marc,Bothorel   Éric,0,1
+Le Fur   Marc,Becht   Olivier,1,1
+Le Fur   Marc,Questel   Bruno,0,1
+Le Fur   Marc,Dufrègne   Jean-Paul,1,1
+Le Fur   Marc,Khattabi   Fadila,0,1
+Le Fur   Marc,Gouttefarde   Fabien,0,1
+Le Fur   Marc,Ménard   Emmanuelle,0,1
+Le Fur   Marc,Euzet   Christophe,0,1
+Le Fur   Marc,Dubost   Coralie,0,1
+Le Fur   Marc,Thillaye   Sabine,0,1
+Le Fur   Marc,Brulebois   Danielle,0,1
+Le Fur   Marc,Kamowski   Catherine,0,1
+Le Fur   Marc,Oppelt   Valérie,0,1
+Le Fur   Marc,Grandjean   Carole,0,1
+Le Fur   Marc,Girardin   Éric,0,1
+Le Fur   Marc,Fiat   Caroline,1,1
+Le Fur   Marc,Zannier   Hélène,0,1
+Le Fur   Marc,Le Peih   Nicole,0,1
+Le Fur   Marc,Di Filippo   Fabien,1,1
+Le Fur   Marc,Bernalicis   Ugo,1,1
+Le Fur   Marc,Le Pen   Marine,0,1
+Le Fur   Marc,Bureau-Bonnard   Carole,0,1
+Le Fur   Marc,Minot   Maxime,1,1
+Le Fur   Marc,Bilde   Bruno,0,1
+Le Fur   Marc,Mbaye   Jean François,0,1
+Le Fur   Marc,Saint-Martin   Laurent,0,1
+Le Fur   Marc,Taché   Aurélien,0,1
+Le Fur   Marc,Sanquer   Nicole,1,1
+Le Fur   Marc,Petit   Frédéric,0,1
+Le Fur   Marc,Coquerel   Éric,1,1
+Le Fur   Marc,Charrière   Sylvie,0,1
+Le Fur   Marc,Vuilletet   Guillaume,0,1
+Le Fur   Marc,Ramadier   Alain,1,1
+Le Fur   Marc,Kuster   Brigitte,1,1
+Le Fur   Marc,Verdier-Jouclas   Marie-Christine,0,1
+Le Fur   Marc,Rupin   Pacôme,0,1
+Le Fur   Marc,Michel-Kleisbauer   Philippe,0,1
+Le Fur   Marc,Baichère   Didier,0,1
+Le Fur   Marc,Guévenoux   Marie,0,1
+Le Fur   Marc,Pouzyreff   Natalia,0,1
+Le Fur   Marc,Marilossian   Jacques,0,1
+Le Fur   Marc,Millienne   Bruno,0,1
+Le Fur   Marc,Houlié   Sacha,0,1
+Le Fur   Marc,Jumel   Sébastien,1,1
+Le Fur   Marc,Leclabart   Jean-Claude,0,1
+Le Fur   Marc,Villani   Cédric,0,1
+Le Fur   Marc,Fugit   Jean-Luc,0,1
+Mélenchon   Jean-Luc,Saulignac   Hervé,1,1
+Mélenchon   Jean-Luc,Bricout   Jean-Louis,1,1
+Mélenchon   Jean-Luc,Lambert   François-Michel,1,1
+Mélenchon   Jean-Luc,Ferrand   Richard,0,1
+Mélenchon   Jean-Luc,Boudié   Florent,0,1
+Mélenchon   Jean-Luc,Pires Beaune   Christine,1,1
+Mélenchon   Jean-Luc,Dubié   Jeanine,1,1
+Mélenchon   Jean-Luc,Hetzel   Patrick,1,1
+Mélenchon   Jean-Luc,Tolmont   Sylvie,1,1
+Mélenchon   Jean-Luc,Bothorel   Éric,0,1
+Mélenchon   Jean-Luc,Becht   Olivier,1,1
+Mélenchon   Jean-Luc,Questel   Bruno,0,1
+Mélenchon   Jean-Luc,Dufrègne   Jean-Paul,1,1
+Mélenchon   Jean-Luc,Khattabi   Fadila,0,1
+Mélenchon   Jean-Luc,Gouttefarde   Fabien,0,1
+Mélenchon   Jean-Luc,Ménard   Emmanuelle,0,1
+Mélenchon   Jean-Luc,Euzet   Christophe,0,1
+Mélenchon   Jean-Luc,Dubost   Coralie,0,1
+Mélenchon   Jean-Luc,Thillaye   Sabine,0,1
+Mélenchon   Jean-Luc,Brulebois   Danielle,0,1
+Mélenchon   Jean-Luc,Kamowski   Catherine,0,1
+Mélenchon   Jean-Luc,Oppelt   Valérie,0,1
+Mélenchon   Jean-Luc,Grandjean   Carole,0,1
+Mélenchon   Jean-Luc,Girardin   Éric,0,1
+Mélenchon   Jean-Luc,Fiat   Caroline,1,1
+Mélenchon   Jean-Luc,Zannier   Hélène,0,1
+Mélenchon   Jean-Luc,Le Peih   Nicole,0,1
+Mélenchon   Jean-Luc,Di Filippo   Fabien,1,1
+Mélenchon   Jean-Luc,Bernalicis   Ugo,1,1
+Mélenchon   Jean-Luc,Le Pen   Marine,0,1
+Mélenchon   Jean-Luc,Bureau-Bonnard   Carole,0,1
+Mélenchon   Jean-Luc,Minot   Maxime,1,1
+Mélenchon   Jean-Luc,Bilde   Bruno,0,1
+Mélenchon   Jean-Luc,Mbaye   Jean François,0,1
+Mélenchon   Jean-Luc,Saint-Martin   Laurent,0,1
+Mélenchon   Jean-Luc,Taché   Aurélien,0,1
+Mélenchon   Jean-Luc,Sanquer   Nicole,1,1
+Mélenchon   Jean-Luc,Petit   Frédéric,0,1
+Mélenchon   Jean-Luc,Coquerel   Éric,1,1
+Mélenchon   Jean-Luc,Charrière   Sylvie,0,1
+Mélenchon   Jean-Luc,Vuilletet   Guillaume,0,1
+Mélenchon   Jean-Luc,Ramadier   Alain,1,1
+Mélenchon   Jean-Luc,Kuster   Brigitte,1,1
+Mélenchon   Jean-Luc,Verdier-Jouclas   Marie-Christine,0,1
+Mélenchon   Jean-Luc,Rupin   Pacôme,0,1
+Mélenchon   Jean-Luc,Michel-Kleisbauer   Philippe,0,1
+Mélenchon   Jean-Luc,Baichère   Didier,0,1
+Mélenchon   Jean-Luc,Guévenoux   Marie,0,1
+Mélenchon   Jean-Luc,Pouzyreff   Natalia,0,1
+Mélenchon   Jean-Luc,Marilossian   Jacques,0,1
+Mélenchon   Jean-Luc,Millienne   Bruno,0,1
+Mélenchon   Jean-Luc,Houlié   Sacha,0,1
+Mélenchon   Jean-Luc,Jumel   Sébastien,1,1
+Mélenchon   Jean-Luc,Leclabart   Jean-Claude,0,1
+Mélenchon   Jean-Luc,Villani   Cédric,0,1
+Mélenchon   Jean-Luc,Fugit   Jean-Luc,0,1
+Saulignac   Hervé,Bricout   Jean-Louis,1,1
+Saulignac   Hervé,Lambert   François-Michel,1,1
+Saulignac   Hervé,Ferrand   Richard,0,1
+Saulignac   Hervé,Boudié   Florent,0,1
+Saulignac   Hervé,Pires Beaune   Christine,1,1
+Saulignac   Hervé,Dubié   Jeanine,1,1
+Saulignac   Hervé,Hetzel   Patrick,1,1
+Saulignac   Hervé,Tolmont   Sylvie,1,1
+Saulignac   Hervé,Bothorel   Éric,0,1
+Saulignac   Hervé,Becht   Olivier,1,1
+Saulignac   Hervé,Questel   Bruno,0,1
+Saulignac   Hervé,Dufrègne   Jean-Paul,1,1
+Saulignac   Hervé,Khattabi   Fadila,0,1
+Saulignac   Hervé,Gouttefarde   Fabien,0,1
+Saulignac   Hervé,Ménard   Emmanuelle,0,1
+Saulignac   Hervé,Euzet   Christophe,0,1
+Saulignac   Hervé,Dubost   Coralie,0,1
+Saulignac   Hervé,Thillaye   Sabine,0,1
+Saulignac   Hervé,Brulebois   Danielle,0,1
+Saulignac   Hervé,Kamowski   Catherine,0,1
+Saulignac   Hervé,Oppelt   Valérie,0,1
+Saulignac   Hervé,Grandjean   Carole,0,1
+Saulignac   Hervé,Girardin   Éric,0,1
+Saulignac   Hervé,Fiat   Caroline,1,1
+Saulignac   Hervé,Zannier   Hélène,0,1
+Saulignac   Hervé,Le Peih   Nicole,0,1
+Saulignac   Hervé,Di Filippo   Fabien,1,1
+Saulignac   Hervé,Bernalicis   Ugo,1,1
+Saulignac   Hervé,Le Pen   Marine,0,1
+Saulignac   Hervé,Bureau-Bonnard   Carole,0,1
+Saulignac   Hervé,Minot   Maxime,1,1
+Saulignac   Hervé,Bilde   Bruno,0,1
+Saulignac   Hervé,Mbaye   Jean François,0,1
+Saulignac   Hervé,Saint-Martin   Laurent,0,1
+Saulignac   Hervé,Taché   Aurélien,0,1
+Saulignac   Hervé,Sanquer   Nicole,1,1
+Saulignac   Hervé,Petit   Frédéric,0,1
+Saulignac   Hervé,Coquerel   Éric,1,1
+Saulignac   Hervé,Charrière   Sylvie,0,1
+Saulignac   Hervé,Vuilletet   Guillaume,0,1
+Saulignac   Hervé,Ramadier   Alain,1,1
+Saulignac   Hervé,Kuster   Brigitte,1,1
+Saulignac   Hervé,Verdier-Jouclas   Marie-Christine,0,1
+Saulignac   Hervé,Rupin   Pacôme,0,1
+Saulignac   Hervé,Michel-Kleisbauer   Philippe,0,1
+Saulignac   Hervé,Baichère   Didier,0,1
+Saulignac   Hervé,Guévenoux   Marie,0,1
+Saulignac   Hervé,Pouzyreff   Natalia,0,1
+Saulignac   Hervé,Marilossian   Jacques,0,1
+Saulignac   Hervé,Millienne   Bruno,0,1
+Saulignac   Hervé,Houlié   Sacha,0,1
+Saulignac   Hervé,Jumel   Sébastien,1,1
+Saulignac   Hervé,Leclabart   Jean-Claude,0,1
+Saulignac   Hervé,Villani   Cédric,0,1
+Saulignac   Hervé,Fugit   Jean-Luc,0,1
+Bricout   Jean-Louis,Lambert   François-Michel,1,1
+Bricout   Jean-Louis,Ferrand   Richard,0,1
+Bricout   Jean-Louis,Boudié   Florent,0,1
+Bricout   Jean-Louis,Pires Beaune   Christine,1,1
+Bricout   Jean-Louis,Dubié   Jeanine,1,1
+Bricout   Jean-Louis,Hetzel   Patrick,1,1
+Bricout   Jean-Louis,Tolmont   Sylvie,1,1
+Bricout   Jean-Louis,Bothorel   Éric,0,1
+Bricout   Jean-Louis,Becht   Olivier,1,1
+Bricout   Jean-Louis,Questel   Bruno,0,1
+Bricout   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Bricout   Jean-Louis,Khattabi   Fadila,0,1
+Bricout   Jean-Louis,Gouttefarde   Fabien,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,Euzet   Christophe,0,1
+Bricout   Jean-Louis,Dubost   Coralie,0,1
+Bricout   Jean-Louis,Thillaye   Sabine,0,1
+Bricout   Jean-Louis,Brulebois   Danielle,0,1
+Bricout   Jean-Louis,Kamowski   Catherine,0,1
+Bricout   Jean-Louis,Oppelt   Valérie,0,1
+Bricout   Jean-Louis,Grandjean   Carole,0,1
+Bricout   Jean-Louis,Girardin   Éric,0,1
+Bricout   Jean-Louis,Fiat   Caroline,1,1
+Bricout   Jean-Louis,Zannier   Hélène,0,1
+Bricout   Jean-Louis,Le Peih   Nicole,0,1
+Bricout   Jean-Louis,Di Filippo   Fabien,1,1
+Bricout   Jean-Louis,Bernalicis   Ugo,1,1
+Bricout   Jean-Louis,Le Pen   Marine,0,1
+Bricout   Jean-Louis,Bureau-Bonnard   Carole,0,1
+Bricout   Jean-Louis,Minot   Maxime,1,1
+Bricout   Jean-Louis,Bilde   Bruno,0,1
+Bricout   Jean-Louis,Mbaye   Jean François,0,1
+Bricout   Jean-Louis,Saint-Martin   Laurent,0,1
+Bricout   Jean-Louis,Taché   Aurélien,0,1
+Bricout   Jean-Louis,Sanquer   Nicole,1,1
+Bricout   Jean-Louis,Petit   Frédéric,0,1
+Bricout   Jean-Louis,Coquerel   Éric,1,1
+Bricout   Jean-Louis,Charrière   Sylvie,0,1
+Bricout   Jean-Louis,Vuilletet   Guillaume,0,1
+Bricout   Jean-Louis,Ramadier   Alain,1,1
+Bricout   Jean-Louis,Kuster   Brigitte,1,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Rupin   Pacôme,0,1
+Bricout   Jean-Louis,Michel-Kleisbauer   Philippe,0,1
+Bricout   Jean-Louis,Baichère   Didier,0,1
+Bricout   Jean-Louis,Guévenoux   Marie,0,1
+Bricout   Jean-Louis,Pouzyreff   Natalia,0,1
+Bricout   Jean-Louis,Marilossian   Jacques,0,1
+Bricout   Jean-Louis,Millienne   Bruno,0,1
+Bricout   Jean-Louis,Houlié   Sacha,0,1
+Bricout   Jean-Louis,Jumel   Sébastien,1,1
+Bricout   Jean-Louis,Leclabart   Jean-Claude,0,1
+Bricout   Jean-Louis,Villani   Cédric,0,1
+Bricout   Jean-Louis,Fugit   Jean-Luc,0,1
+Lambert   François-Michel,Ferrand   Richard,0,1
+Lambert   François-Michel,Boudié   Florent,0,1
+Lambert   François-Michel,Pires Beaune   Christine,1,1
+Lambert   François-Michel,Dubié   Jeanine,1,1
+Lambert   François-Michel,Hetzel   Patrick,1,1
+Lambert   François-Michel,Tolmont   Sylvie,1,1
+Lambert   François-Michel,Bothorel   Éric,0,1
+Lambert   François-Michel,Becht   Olivier,1,1
+Lambert   François-Michel,Questel   Bruno,0,1
+Lambert   François-Michel,Dufrègne   Jean-Paul,1,1
+Lambert   François-Michel,Khattabi   Fadila,0,1
+Lambert   François-Michel,Gouttefarde   Fabien,0,1
+Lambert   François-Michel,Ménard   Emmanuelle,0,1
+Lambert   François-Michel,Euzet   Christophe,0,1
+Lambert   François-Michel,Dubost   Coralie,0,1
+Lambert   François-Michel,Thillaye   Sabine,0,1
+Lambert   François-Michel,Brulebois   Danielle,0,1
+Lambert   François-Michel,Kamowski   Catherine,0,1
+Lambert   François-Michel,Oppelt   Valérie,0,1
+Lambert   François-Michel,Grandjean   Carole,0,1
+Lambert   François-Michel,Girardin   Éric,0,1
+Lambert   François-Michel,Fiat   Caroline,1,1
+Lambert   François-Michel,Zannier   Hélène,0,1
+Lambert   François-Michel,Le Peih   Nicole,0,1
+Lambert   François-Michel,Di Filippo   Fabien,1,1
+Lambert   François-Michel,Bernalicis   Ugo,1,1
+Lambert   François-Michel,Le Pen   Marine,0,1
+Lambert   François-Michel,Bureau-Bonnard   Carole,0,1
+Lambert   François-Michel,Minot   Maxime,1,1
+Lambert   François-Michel,Bilde   Bruno,0,1
+Lambert   François-Michel,Mbaye   Jean François,0,1
+Lambert   François-Michel,Saint-Martin   Laurent,0,1
+Lambert   François-Michel,Taché   Aurélien,0,1
+Lambert   François-Michel,Sanquer   Nicole,1,1
+Lambert   François-Michel,Petit   Frédéric,0,1
+Lambert   François-Michel,Coquerel   Éric,1,1
+Lambert   François-Michel,Charrière   Sylvie,0,1
+Lambert   François-Michel,Vuilletet   Guillaume,0,1
+Lambert   François-Michel,Ramadier   Alain,1,1
+Lambert   François-Michel,Kuster   Brigitte,1,1
+Lambert   François-Michel,Verdier-Jouclas   Marie-Christine,0,1
+Lambert   François-Michel,Rupin   Pacôme,0,1
+Lambert   François-Michel,Michel-Kleisbauer   Philippe,0,1
+Lambert   François-Michel,Baichère   Didier,0,1
+Lambert   François-Michel,Guévenoux   Marie,0,1
+Lambert   François-Michel,Pouzyreff   Natalia,0,1
+Lambert   François-Michel,Marilossian   Jacques,0,1
+Lambert   François-Michel,Millienne   Bruno,0,1
+Lambert   François-Michel,Houlié   Sacha,0,1
+Lambert   François-Michel,Jumel   Sébastien,1,1
+Lambert   François-Michel,Leclabart   Jean-Claude,0,1
+Lambert   François-Michel,Villani   Cédric,0,1
+Lambert   François-Michel,Fugit   Jean-Luc,0,1
+Ferrand   Richard,Boudié   Florent,1,1
+Ferrand   Richard,Pires Beaune   Christine,0,1
+Ferrand   Richard,Dubié   Jeanine,0,1
+Ferrand   Richard,Hetzel   Patrick,0,1
+Ferrand   Richard,Tolmont   Sylvie,0,1
+Ferrand   Richard,Bothorel   Éric,1,1
+Ferrand   Richard,Becht   Olivier,0,1
+Ferrand   Richard,Questel   Bruno,1,1
+Ferrand   Richard,Dufrègne   Jean-Paul,0,1
+Ferrand   Richard,Khattabi   Fadila,1,1
+Ferrand   Richard,Gouttefarde   Fabien,1,1
+Ferrand   Richard,Ménard   Emmanuelle,1,1
+Ferrand   Richard,Euzet   Christophe,1,1
+Ferrand   Richard,Dubost   Coralie,1,1
+Ferrand   Richard,Thillaye   Sabine,1,1
+Ferrand   Richard,Brulebois   Danielle,1,1
+Ferrand   Richard,Kamowski   Catherine,1,1
+Ferrand   Richard,Oppelt   Valérie,1,1
+Ferrand   Richard,Grandjean   Carole,1,1
+Ferrand   Richard,Girardin   Éric,1,1
+Ferrand   Richard,Fiat   Caroline,0,1
+Ferrand   Richard,Zannier   Hélène,1,1
+Ferrand   Richard,Le Peih   Nicole,1,1
+Ferrand   Richard,Di Filippo   Fabien,0,1
+Ferrand   Richard,Bernalicis   Ugo,0,1
+Ferrand   Richard,Le Pen   Marine,1,1
+Ferrand   Richard,Bureau-Bonnard   Carole,1,1
+Ferrand   Richard,Minot   Maxime,0,1
+Ferrand   Richard,Bilde   Bruno,1,1
+Ferrand   Richard,Mbaye   Jean François,1,1
+Ferrand   Richard,Saint-Martin   Laurent,1,1
+Ferrand   Richard,Taché   Aurélien,1,1
+Ferrand   Richard,Sanquer   Nicole,0,1
+Ferrand   Richard,Petit   Frédéric,1,1
+Ferrand   Richard,Coquerel   Éric,0,1
+Ferrand   Richard,Charrière   Sylvie,1,1
+Ferrand   Richard,Vuilletet   Guillaume,1,1
+Ferrand   Richard,Ramadier   Alain,0,1
+Ferrand   Richard,Kuster   Brigitte,0,1
+Ferrand   Richard,Verdier-Jouclas   Marie-Christine,1,1
+Ferrand   Richard,Rupin   Pacôme,1,1
+Ferrand   Richard,Michel-Kleisbauer   Philippe,1,1
+Ferrand   Richard,Baichère   Didier,1,1
+Ferrand   Richard,Guévenoux   Marie,1,1
+Ferrand   Richard,Pouzyreff   Natalia,1,1
+Ferrand   Richard,Marilossian   Jacques,1,1
+Ferrand   Richard,Millienne   Bruno,1,1
+Ferrand   Richard,Houlié   Sacha,1,1
+Ferrand   Richard,Jumel   Sébastien,0,1
+Ferrand   Richard,Leclabart   Jean-Claude,1,1
+Ferrand   Richard,Villani   Cédric,1,1
+Ferrand   Richard,Fugit   Jean-Luc,1,1
+Boudié   Florent,Pires Beaune   Christine,0,1
+Boudié   Florent,Dubié   Jeanine,0,1
+Boudié   Florent,Hetzel   Patrick,0,1
+Boudié   Florent,Tolmont   Sylvie,0,1
+Boudié   Florent,Bothorel   Éric,1,1
+Boudié   Florent,Becht   Olivier,0,1
+Boudié   Florent,Questel   Bruno,1,1
+Boudié   Florent,Dufrègne   Jean-Paul,0,1
+Boudié   Florent,Khattabi   Fadila,1,1
+Boudié   Florent,Gouttefarde   Fabien,1,1
+Boudié   Florent,Ménard   Emmanuelle,1,1
+Boudié   Florent,Euzet   Christophe,1,1
+Boudié   Florent,Dubost   Coralie,1,1
+Boudié   Florent,Thillaye   Sabine,1,1
+Boudié   Florent,Brulebois   Danielle,1,1
+Boudié   Florent,Kamowski   Catherine,1,1
+Boudié   Florent,Oppelt   Valérie,1,1
+Boudié   Florent,Grandjean   Carole,1,1
+Boudié   Florent,Girardin   Éric,1,1
+Boudié   Florent,Fiat   Caroline,0,1
+Boudié   Florent,Zannier   Hélène,1,1
+Boudié   Florent,Le Peih   Nicole,1,1
+Boudié   Florent,Di Filippo   Fabien,0,1
+Boudié   Florent,Bernalicis   Ugo,0,1
+Boudié   Florent,Le Pen   Marine,1,1
+Boudié   Florent,Bureau-Bonnard   Carole,1,1
+Boudié   Florent,Minot   Maxime,0,1
+Boudié   Florent,Bilde   Bruno,1,1
+Boudié   Florent,Mbaye   Jean François,1,1
+Boudié   Florent,Saint-Martin   Laurent,1,1
+Boudié   Florent,Taché   Aurélien,1,1
+Boudié   Florent,Sanquer   Nicole,0,1
+Boudié   Florent,Petit   Frédéric,1,1
+Boudié   Florent,Coquerel   Éric,0,1
+Boudié   Florent,Charrière   Sylvie,1,1
+Boudié   Florent,Vuilletet   Guillaume,1,1
+Boudié   Florent,Ramadier   Alain,0,1
+Boudié   Florent,Kuster   Brigitte,0,1
+Boudié   Florent,Verdier-Jouclas   Marie-Christine,1,1
+Boudié   Florent,Rupin   Pacôme,1,1
+Boudié   Florent,Michel-Kleisbauer   Philippe,1,1
+Boudié   Florent,Baichère   Didier,1,1
+Boudié   Florent,Guévenoux   Marie,1,1
+Boudié   Florent,Pouzyreff   Natalia,1,1
+Boudié   Florent,Marilossian   Jacques,1,1
+Boudié   Florent,Millienne   Bruno,1,1
+Boudié   Florent,Houlié   Sacha,1,1
+Boudié   Florent,Jumel   Sébastien,0,1
+Boudié   Florent,Leclabart   Jean-Claude,1,1
+Boudié   Florent,Villani   Cédric,1,1
+Boudié   Florent,Fugit   Jean-Luc,1,1
+Pires Beaune   Christine,Dubié   Jeanine,1,1
+Pires Beaune   Christine,Hetzel   Patrick,1,1
+Pires Beaune   Christine,Tolmont   Sylvie,1,1
+Pires Beaune   Christine,Bothorel   Éric,0,1
+Pires Beaune   Christine,Becht   Olivier,1,1
+Pires Beaune   Christine,Questel   Bruno,0,1
+Pires Beaune   Christine,Dufrègne   Jean-Paul,1,1
+Pires Beaune   Christine,Khattabi   Fadila,0,1
+Pires Beaune   Christine,Gouttefarde   Fabien,0,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,Euzet   Christophe,0,1
+Pires Beaune   Christine,Dubost   Coralie,0,1
+Pires Beaune   Christine,Thillaye   Sabine,0,1
+Pires Beaune   Christine,Brulebois   Danielle,0,1
+Pires Beaune   Christine,Kamowski   Catherine,0,1
+Pires Beaune   Christine,Oppelt   Valérie,0,1
+Pires Beaune   Christine,Grandjean   Carole,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Fiat   Caroline,1,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Le Peih   Nicole,0,1
+Pires Beaune   Christine,Di Filippo   Fabien,1,1
+Pires Beaune   Christine,Bernalicis   Ugo,1,1
+Pires Beaune   Christine,Le Pen   Marine,0,1
+Pires Beaune   Christine,Bureau-Bonnard   Carole,0,1
+Pires Beaune   Christine,Minot   Maxime,1,1
+Pires Beaune   Christine,Bilde   Bruno,0,1
+Pires Beaune   Christine,Mbaye   Jean François,0,1
+Pires Beaune   Christine,Saint-Martin   Laurent,0,1
+Pires Beaune   Christine,Taché   Aurélien,0,1
+Pires Beaune   Christine,Sanquer   Nicole,1,1
+Pires Beaune   Christine,Petit   Frédéric,0,1
+Pires Beaune   Christine,Coquerel   Éric,1,1
+Pires Beaune   Christine,Charrière   Sylvie,0,1
+Pires Beaune   Christine,Vuilletet   Guillaume,0,1
+Pires Beaune   Christine,Ramadier   Alain,1,1
+Pires Beaune   Christine,Kuster   Brigitte,1,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Rupin   Pacôme,0,1
+Pires Beaune   Christine,Michel-Kleisbauer   Philippe,0,1
+Pires Beaune   Christine,Baichère   Didier,0,1
+Pires Beaune   Christine,Guévenoux   Marie,0,1
+Pires Beaune   Christine,Pouzyreff   Natalia,0,1
+Pires Beaune   Christine,Marilossian   Jacques,0,1
+Pires Beaune   Christine,Millienne   Bruno,0,1
+Pires Beaune   Christine,Houlié   Sacha,0,1
+Pires Beaune   Christine,Jumel   Sébastien,1,1
+Pires Beaune   Christine,Leclabart   Jean-Claude,0,1
+Pires Beaune   Christine,Villani   Cédric,0,1
+Pires Beaune   Christine,Fugit   Jean-Luc,0,1
+Dubié   Jeanine,Hetzel   Patrick,1,1
+Dubié   Jeanine,Tolmont   Sylvie,1,1
+Dubié   Jeanine,Bothorel   Éric,0,1
+Dubié   Jeanine,Becht   Olivier,1,1
+Dubié   Jeanine,Questel   Bruno,0,1
+Dubié   Jeanine,Dufrègne   Jean-Paul,1,1
+Dubié   Jeanine,Khattabi   Fadila,0,1
+Dubié   Jeanine,Gouttefarde   Fabien,0,1
+Dubié   Jeanine,Ménard   Emmanuelle,0,1
+Dubié   Jeanine,Euzet   Christophe,0,1
+Dubié   Jeanine,Dubost   Coralie,0,1
+Dubié   Jeanine,Thillaye   Sabine,0,1
+Dubié   Jeanine,Brulebois   Danielle,0,1
+Dubié   Jeanine,Kamowski   Catherine,0,1
+Dubié   Jeanine,Oppelt   Valérie,0,1
+Dubié   Jeanine,Grandjean   Carole,0,1
+Dubié   Jeanine,Girardin   Éric,0,1
+Dubié   Jeanine,Fiat   Caroline,1,1
+Dubié   Jeanine,Zannier   Hélène,0,1
+Dubié   Jeanine,Le Peih   Nicole,0,1
+Dubié   Jeanine,Di Filippo   Fabien,1,1
+Dubié   Jeanine,Bernalicis   Ugo,1,1
+Dubié   Jeanine,Le Pen   Marine,0,1
+Dubié   Jeanine,Bureau-Bonnard   Carole,0,1
+Dubié   Jeanine,Minot   Maxime,1,1
+Dubié   Jeanine,Bilde   Bruno,0,1
+Dubié   Jeanine,Mbaye   Jean François,0,1
+Dubié   Jeanine,Saint-Martin   Laurent,0,1
+Dubié   Jeanine,Taché   Aurélien,0,1
+Dubié   Jeanine,Sanquer   Nicole,1,1
+Dubié   Jeanine,Petit   Frédéric,0,1
+Dubié   Jeanine,Coquerel   Éric,1,1
+Dubié   Jeanine,Charrière   Sylvie,0,1
+Dubié   Jeanine,Vuilletet   Guillaume,0,1
+Dubié   Jeanine,Ramadier   Alain,1,1
+Dubié   Jeanine,Kuster   Brigitte,1,1
+Dubié   Jeanine,Verdier-Jouclas   Marie-Christine,0,1
+Dubié   Jeanine,Rupin   Pacôme,0,1
+Dubié   Jeanine,Michel-Kleisbauer   Philippe,0,1
+Dubié   Jeanine,Baichère   Didier,0,1
+Dubié   Jeanine,Guévenoux   Marie,0,1
+Dubié   Jeanine,Pouzyreff   Natalia,0,1
+Dubié   Jeanine,Marilossian   Jacques,0,1
+Dubié   Jeanine,Millienne   Bruno,0,1
+Dubié   Jeanine,Houlié   Sacha,0,1
+Dubié   Jeanine,Jumel   Sébastien,1,1
+Dubié   Jeanine,Leclabart   Jean-Claude,0,1
+Dubié   Jeanine,Villani   Cédric,0,1
+Dubié   Jeanine,Fugit   Jean-Luc,0,1
+Hetzel   Patrick,Tolmont   Sylvie,1,1
+Hetzel   Patrick,Bothorel   Éric,0,1
+Hetzel   Patrick,Becht   Olivier,1,1
+Hetzel   Patrick,Questel   Bruno,0,1
+Hetzel   Patrick,Dufrègne   Jean-Paul,1,1
+Hetzel   Patrick,Khattabi   Fadila,0,1
+Hetzel   Patrick,Gouttefarde   Fabien,0,1
+Hetzel   Patrick,Ménard   Emmanuelle,0,1
+Hetzel   Patrick,Euzet   Christophe,0,1
+Hetzel   Patrick,Dubost   Coralie,0,1
+Hetzel   Patrick,Thillaye   Sabine,0,1
+Hetzel   Patrick,Brulebois   Danielle,0,1
+Hetzel   Patrick,Kamowski   Catherine,0,1
+Hetzel   Patrick,Oppelt   Valérie,0,1
+Hetzel   Patrick,Grandjean   Carole,0,1
+Hetzel   Patrick,Girardin   Éric,0,1
+Hetzel   Patrick,Fiat   Caroline,1,1
+Hetzel   Patrick,Zannier   Hélène,0,1
+Hetzel   Patrick,Le Peih   Nicole,0,1
+Hetzel   Patrick,Di Filippo   Fabien,1,1
+Hetzel   Patrick,Bernalicis   Ugo,1,1
+Hetzel   Patrick,Le Pen   Marine,0,1
+Hetzel   Patrick,Bureau-Bonnard   Carole,0,1
+Hetzel   Patrick,Minot   Maxime,1,1
+Hetzel   Patrick,Bilde   Bruno,0,1
+Hetzel   Patrick,Mbaye   Jean François,0,1
+Hetzel   Patrick,Saint-Martin   Laurent,0,1
+Hetzel   Patrick,Taché   Aurélien,0,1
+Hetzel   Patrick,Sanquer   Nicole,1,1
+Hetzel   Patrick,Petit   Frédéric,0,1
+Hetzel   Patrick,Coquerel   Éric,1,1
+Hetzel   Patrick,Charrière   Sylvie,0,1
+Hetzel   Patrick,Vuilletet   Guillaume,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Kuster   Brigitte,1,1
+Hetzel   Patrick,Verdier-Jouclas   Marie-Christine,0,1
+Hetzel   Patrick,Rupin   Pacôme,0,1
+Hetzel   Patrick,Michel-Kleisbauer   Philippe,0,1
+Hetzel   Patrick,Baichère   Didier,0,1
+Hetzel   Patrick,Guévenoux   Marie,0,1
+Hetzel   Patrick,Pouzyreff   Natalia,0,1
+Hetzel   Patrick,Marilossian   Jacques,0,1
+Hetzel   Patrick,Millienne   Bruno,0,1
+Hetzel   Patrick,Houlié   Sacha,0,1
+Hetzel   Patrick,Jumel   Sébastien,1,1
+Hetzel   Patrick,Leclabart   Jean-Claude,0,1
+Hetzel   Patrick,Villani   Cédric,0,1
+Hetzel   Patrick,Fugit   Jean-Luc,0,1
+Tolmont   Sylvie,Bothorel   Éric,0,1
+Tolmont   Sylvie,Becht   Olivier,1,1
+Tolmont   Sylvie,Questel   Bruno,0,1
+Tolmont   Sylvie,Dufrègne   Jean-Paul,1,1
+Tolmont   Sylvie,Khattabi   Fadila,0,1
+Tolmont   Sylvie,Gouttefarde   Fabien,0,1
+Tolmont   Sylvie,Ménard   Emmanuelle,0,1
+Tolmont   Sylvie,Euzet   Christophe,0,1
+Tolmont   Sylvie,Dubost   Coralie,0,1
+Tolmont   Sylvie,Thillaye   Sabine,0,1
+Tolmont   Sylvie,Brulebois   Danielle,0,1
+Tolmont   Sylvie,Kamowski   Catherine,0,1
+Tolmont   Sylvie,Oppelt   Valérie,0,1
+Tolmont   Sylvie,Grandjean   Carole,0,1
+Tolmont   Sylvie,Girardin   Éric,0,1
+Tolmont   Sylvie,Fiat   Caroline,1,1
+Tolmont   Sylvie,Zannier   Hélène,0,1
+Tolmont   Sylvie,Le Peih   Nicole,0,1
+Tolmont   Sylvie,Di Filippo   Fabien,1,1
+Tolmont   Sylvie,Bernalicis   Ugo,1,1
+Tolmont   Sylvie,Le Pen   Marine,0,1
+Tolmont   Sylvie,Bureau-Bonnard   Carole,0,1
+Tolmont   Sylvie,Minot   Maxime,1,1
+Tolmont   Sylvie,Bilde   Bruno,0,1
+Tolmont   Sylvie,Mbaye   Jean François,0,1
+Tolmont   Sylvie,Saint-Martin   Laurent,0,1
+Tolmont   Sylvie,Taché   Aurélien,0,1
+Tolmont   Sylvie,Sanquer   Nicole,1,1
+Tolmont   Sylvie,Petit   Frédéric,0,1
+Tolmont   Sylvie,Coquerel   Éric,1,1
+Tolmont   Sylvie,Charrière   Sylvie,0,1
+Tolmont   Sylvie,Vuilletet   Guillaume,0,1
+Tolmont   Sylvie,Ramadier   Alain,1,1
+Tolmont   Sylvie,Kuster   Brigitte,1,1
+Tolmont   Sylvie,Verdier-Jouclas   Marie-Christine,0,1
+Tolmont   Sylvie,Rupin   Pacôme,0,1
+Tolmont   Sylvie,Michel-Kleisbauer   Philippe,0,1
+Tolmont   Sylvie,Baichère   Didier,0,1
+Tolmont   Sylvie,Guévenoux   Marie,0,1
+Tolmont   Sylvie,Pouzyreff   Natalia,0,1
+Tolmont   Sylvie,Marilossian   Jacques,0,1
+Tolmont   Sylvie,Millienne   Bruno,0,1
+Tolmont   Sylvie,Houlié   Sacha,0,1
+Tolmont   Sylvie,Jumel   Sébastien,1,1
+Tolmont   Sylvie,Leclabart   Jean-Claude,0,1
+Tolmont   Sylvie,Villani   Cédric,0,1
+Tolmont   Sylvie,Fugit   Jean-Luc,0,1
+Bothorel   Éric,Becht   Olivier,0,1
+Bothorel   Éric,Questel   Bruno,1,1
+Bothorel   Éric,Dufrègne   Jean-Paul,0,1
+Bothorel   Éric,Khattabi   Fadila,1,1
+Bothorel   Éric,Gouttefarde   Fabien,1,1
+Bothorel   Éric,Ménard   Emmanuelle,1,1
+Bothorel   Éric,Euzet   Christophe,1,1
+Bothorel   Éric,Dubost   Coralie,1,1
+Bothorel   Éric,Thillaye   Sabine,1,1
+Bothorel   Éric,Brulebois   Danielle,1,1
+Bothorel   Éric,Kamowski   Catherine,1,1
+Bothorel   Éric,Oppelt   Valérie,1,1
+Bothorel   Éric,Grandjean   Carole,1,1
+Bothorel   Éric,Girardin   Éric,1,1
+Bothorel   Éric,Fiat   Caroline,0,1
+Bothorel   Éric,Zannier   Hélène,1,1
+Bothorel   Éric,Le Peih   Nicole,1,1
+Bothorel   Éric,Di Filippo   Fabien,0,1
+Bothorel   Éric,Bernalicis   Ugo,0,1
+Bothorel   Éric,Le Pen   Marine,1,1
+Bothorel   Éric,Bureau-Bonnard   Carole,1,1
+Bothorel   Éric,Minot   Maxime,0,1
+Bothorel   Éric,Bilde   Bruno,1,1
+Bothorel   Éric,Mbaye   Jean François,1,1
+Bothorel   Éric,Saint-Martin   Laurent,1,1
+Bothorel   Éric,Taché   Aurélien,1,1
+Bothorel   Éric,Sanquer   Nicole,0,1
+Bothorel   Éric,Petit   Frédéric,1,1
+Bothorel   Éric,Coquerel   Éric,0,1
+Bothorel   Éric,Charrière   Sylvie,1,1
+Bothorel   Éric,Vuilletet   Guillaume,1,1
+Bothorel   Éric,Ramadier   Alain,0,1
+Bothorel   Éric,Kuster   Brigitte,0,1
+Bothorel   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Bothorel   Éric,Rupin   Pacôme,1,1
+Bothorel   Éric,Michel-Kleisbauer   Philippe,1,1
+Bothorel   Éric,Baichère   Didier,1,1
+Bothorel   Éric,Guévenoux   Marie,1,1
+Bothorel   Éric,Pouzyreff   Natalia,1,1
+Bothorel   Éric,Marilossian   Jacques,1,1
+Bothorel   Éric,Millienne   Bruno,1,1
+Bothorel   Éric,Houlié   Sacha,1,1
+Bothorel   Éric,Jumel   Sébastien,0,1
+Bothorel   Éric,Leclabart   Jean-Claude,1,1
+Bothorel   Éric,Villani   Cédric,1,1
+Bothorel   Éric,Fugit   Jean-Luc,1,1
+Becht   Olivier,Questel   Bruno,0,1
+Becht   Olivier,Dufrègne   Jean-Paul,1,1
+Becht   Olivier,Khattabi   Fadila,0,1
+Becht   Olivier,Gouttefarde   Fabien,0,1
+Becht   Olivier,Ménard   Emmanuelle,0,1
+Becht   Olivier,Euzet   Christophe,0,1
+Becht   Olivier,Dubost   Coralie,0,1
+Becht   Olivier,Thillaye   Sabine,0,1
+Becht   Olivier,Brulebois   Danielle,0,1
+Becht   Olivier,Kamowski   Catherine,0,1
+Becht   Olivier,Oppelt   Valérie,0,1
+Becht   Olivier,Grandjean   Carole,0,1
+Becht   Olivier,Girardin   Éric,0,1
+Becht   Olivier,Fiat   Caroline,1,1
+Becht   Olivier,Zannier   Hélène,0,1
+Becht   Olivier,Le Peih   Nicole,0,1
+Becht   Olivier,Di Filippo   Fabien,1,1
+Becht   Olivier,Bernalicis   Ugo,1,1
+Becht   Olivier,Le Pen   Marine,0,1
+Becht   Olivier,Bureau-Bonnard   Carole,0,1
+Becht   Olivier,Minot   Maxime,1,1
+Becht   Olivier,Bilde   Bruno,0,1
+Becht   Olivier,Mbaye   Jean François,0,1
+Becht   Olivier,Saint-Martin   Laurent,0,1
+Becht   Olivier,Taché   Aurélien,0,1
+Becht   Olivier,Sanquer   Nicole,1,1
+Becht   Olivier,Petit   Frédéric,0,1
+Becht   Olivier,Coquerel   Éric,1,1
+Becht   Olivier,Charrière   Sylvie,0,1
+Becht   Olivier,Vuilletet   Guillaume,0,1
+Becht   Olivier,Ramadier   Alain,1,1
+Becht   Olivier,Kuster   Brigitte,1,1
+Becht   Olivier,Verdier-Jouclas   Marie-Christine,0,1
+Becht   Olivier,Rupin   Pacôme,0,1
+Becht   Olivier,Michel-Kleisbauer   Philippe,0,1
+Becht   Olivier,Baichère   Didier,0,1
+Becht   Olivier,Guévenoux   Marie,0,1
+Becht   Olivier,Pouzyreff   Natalia,0,1
+Becht   Olivier,Marilossian   Jacques,0,1
+Becht   Olivier,Millienne   Bruno,0,1
+Becht   Olivier,Houlié   Sacha,0,1
+Becht   Olivier,Jumel   Sébastien,1,1
+Becht   Olivier,Leclabart   Jean-Claude,0,1
+Becht   Olivier,Villani   Cédric,0,1
+Becht   Olivier,Fugit   Jean-Luc,0,1
+Questel   Bruno,Dufrègne   Jean-Paul,0,1
+Questel   Bruno,Khattabi   Fadila,1,1
+Questel   Bruno,Gouttefarde   Fabien,1,1
+Questel   Bruno,Ménard   Emmanuelle,1,1
+Questel   Bruno,Euzet   Christophe,1,1
+Questel   Bruno,Dubost   Coralie,1,1
+Questel   Bruno,Thillaye   Sabine,1,1
+Questel   Bruno,Brulebois   Danielle,1,1
+Questel   Bruno,Kamowski   Catherine,1,1
+Questel   Bruno,Oppelt   Valérie,1,1
+Questel   Bruno,Grandjean   Carole,1,1
+Questel   Bruno,Girardin   Éric,1,1
+Questel   Bruno,Fiat   Caroline,0,1
+Questel   Bruno,Zannier   Hélène,1,1
+Questel   Bruno,Le Peih   Nicole,1,1
+Questel   Bruno,Di Filippo   Fabien,0,1
+Questel   Bruno,Bernalicis   Ugo,0,1
+Questel   Bruno,Le Pen   Marine,1,1
+Questel   Bruno,Bureau-Bonnard   Carole,1,1
+Questel   Bruno,Minot   Maxime,0,1
+Questel   Bruno,Bilde   Bruno,1,1
+Questel   Bruno,Mbaye   Jean François,1,1
+Questel   Bruno,Saint-Martin   Laurent,1,1
+Questel   Bruno,Taché   Aurélien,1,1
+Questel   Bruno,Sanquer   Nicole,0,1
+Questel   Bruno,Petit   Frédéric,1,1
+Questel   Bruno,Coquerel   Éric,0,1
+Questel   Bruno,Charrière   Sylvie,1,1
+Questel   Bruno,Vuilletet   Guillaume,1,1
+Questel   Bruno,Ramadier   Alain,0,1
+Questel   Bruno,Kuster   Brigitte,0,1
+Questel   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Questel   Bruno,Rupin   Pacôme,1,1
+Questel   Bruno,Michel-Kleisbauer   Philippe,1,1
+Questel   Bruno,Baichère   Didier,1,1
+Questel   Bruno,Guévenoux   Marie,1,1
+Questel   Bruno,Pouzyreff   Natalia,1,1
+Questel   Bruno,Marilossian   Jacques,1,1
+Questel   Bruno,Millienne   Bruno,1,1
+Questel   Bruno,Houlié   Sacha,1,1
+Questel   Bruno,Jumel   Sébastien,0,1
+Questel   Bruno,Leclabart   Jean-Claude,1,1
+Questel   Bruno,Villani   Cédric,1,1
+Questel   Bruno,Fugit   Jean-Luc,1,1
+Dufrègne   Jean-Paul,Khattabi   Fadila,0,1
+Dufrègne   Jean-Paul,Gouttefarde   Fabien,0,1
+Dufrègne   Jean-Paul,Ménard   Emmanuelle,0,1
+Dufrègne   Jean-Paul,Euzet   Christophe,0,1
+Dufrègne   Jean-Paul,Dubost   Coralie,0,1
+Dufrègne   Jean-Paul,Thillaye   Sabine,0,1
+Dufrègne   Jean-Paul,Brulebois   Danielle,0,1
+Dufrègne   Jean-Paul,Kamowski   Catherine,0,1
+Dufrègne   Jean-Paul,Oppelt   Valérie,0,1
+Dufrègne   Jean-Paul,Grandjean   Carole,0,1
+Dufrègne   Jean-Paul,Girardin   Éric,0,1
+Dufrègne   Jean-Paul,Fiat   Caroline,1,1
+Dufrègne   Jean-Paul,Zannier   Hélène,0,1
+Dufrègne   Jean-Paul,Le Peih   Nicole,0,1
+Dufrègne   Jean-Paul,Di Filippo   Fabien,1,1
+Dufrègne   Jean-Paul,Bernalicis   Ugo,1,1
+Dufrègne   Jean-Paul,Le Pen   Marine,0,1
+Dufrègne   Jean-Paul,Bureau-Bonnard   Carole,0,1
+Dufrègne   Jean-Paul,Minot   Maxime,1,1
+Dufrègne   Jean-Paul,Bilde   Bruno,0,1
+Dufrègne   Jean-Paul,Mbaye   Jean François,0,1
+Dufrègne   Jean-Paul,Saint-Martin   Laurent,0,1
+Dufrègne   Jean-Paul,Taché   Aurélien,0,1
+Dufrègne   Jean-Paul,Sanquer   Nicole,1,1
+Dufrègne   Jean-Paul,Petit   Frédéric,0,1
+Dufrègne   Jean-Paul,Coquerel   Éric,1,1
+Dufrègne   Jean-Paul,Charrière   Sylvie,0,1
+Dufrègne   Jean-Paul,Vuilletet   Guillaume,0,1
+Dufrègne   Jean-Paul,Ramadier   Alain,1,1
+Dufrègne   Jean-Paul,Kuster   Brigitte,1,1
+Dufrègne   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Dufrègne   Jean-Paul,Rupin   Pacôme,0,1
+Dufrègne   Jean-Paul,Michel-Kleisbauer   Philippe,0,1
+Dufrègne   Jean-Paul,Baichère   Didier,0,1
+Dufrègne   Jean-Paul,Guévenoux   Marie,0,1
+Dufrègne   Jean-Paul,Pouzyreff   Natalia,0,1
+Dufrègne   Jean-Paul,Marilossian   Jacques,0,1
+Dufrègne   Jean-Paul,Millienne   Bruno,0,1
+Dufrègne   Jean-Paul,Houlié   Sacha,0,1
+Dufrègne   Jean-Paul,Jumel   Sébastien,1,1
+Dufrègne   Jean-Paul,Leclabart   Jean-Claude,0,1
+Dufrègne   Jean-Paul,Villani   Cédric,0,1
+Dufrègne   Jean-Paul,Fugit   Jean-Luc,0,1
+Khattabi   Fadila,Gouttefarde   Fabien,1,1
+Khattabi   Fadila,Ménard   Emmanuelle,1,1
+Khattabi   Fadila,Euzet   Christophe,1,1
+Khattabi   Fadila,Dubost   Coralie,1,1
+Khattabi   Fadila,Thillaye   Sabine,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Kamowski   Catherine,1,1
+Khattabi   Fadila,Oppelt   Valérie,1,1
+Khattabi   Fadila,Grandjean   Carole,1,1
+Khattabi   Fadila,Girardin   Éric,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Zannier   Hélène,1,1
+Khattabi   Fadila,Le Peih   Nicole,1,1
+Khattabi   Fadila,Di Filippo   Fabien,0,1
+Khattabi   Fadila,Bernalicis   Ugo,0,1
+Khattabi   Fadila,Le Pen   Marine,1,1
+Khattabi   Fadila,Bureau-Bonnard   Carole,1,1
+Khattabi   Fadila,Minot   Maxime,0,1
+Khattabi   Fadila,Bilde   Bruno,1,1
+Khattabi   Fadila,Mbaye   Jean François,1,1
+Khattabi   Fadila,Saint-Martin   Laurent,1,1
+Khattabi   Fadila,Taché   Aurélien,1,1
+Khattabi   Fadila,Sanquer   Nicole,0,1
+Khattabi   Fadila,Petit   Frédéric,1,1
+Khattabi   Fadila,Coquerel   Éric,0,1
+Khattabi   Fadila,Charrière   Sylvie,1,1
+Khattabi   Fadila,Vuilletet   Guillaume,1,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Kuster   Brigitte,0,1
+Khattabi   Fadila,Verdier-Jouclas   Marie-Christine,1,1
+Khattabi   Fadila,Rupin   Pacôme,1,1
+Khattabi   Fadila,Michel-Kleisbauer   Philippe,1,1
+Khattabi   Fadila,Baichère   Didier,1,1
+Khattabi   Fadila,Guévenoux   Marie,1,1
+Khattabi   Fadila,Pouzyreff   Natalia,1,1
+Khattabi   Fadila,Marilossian   Jacques,1,1
+Khattabi   Fadila,Millienne   Bruno,1,1
+Khattabi   Fadila,Houlié   Sacha,1,1
+Khattabi   Fadila,Jumel   Sébastien,0,1
+Khattabi   Fadila,Leclabart   Jean-Claude,1,1
+Khattabi   Fadila,Villani   Cédric,1,1
+Khattabi   Fadila,Fugit   Jean-Luc,1,1
+Gouttefarde   Fabien,Ménard   Emmanuelle,1,1
+Gouttefarde   Fabien,Euzet   Christophe,1,1
+Gouttefarde   Fabien,Dubost   Coralie,1,1
+Gouttefarde   Fabien,Thillaye   Sabine,1,1
+Gouttefarde   Fabien,Brulebois   Danielle,1,1
+Gouttefarde   Fabien,Kamowski   Catherine,1,1
+Gouttefarde   Fabien,Oppelt   Valérie,1,1
+Gouttefarde   Fabien,Grandjean   Carole,1,1
+Gouttefarde   Fabien,Girardin   Éric,1,1
+Gouttefarde   Fabien,Fiat   Caroline,0,1
+Gouttefarde   Fabien,Zannier   Hélène,1,1
+Gouttefarde   Fabien,Le Peih   Nicole,1,1
+Gouttefarde   Fabien,Di Filippo   Fabien,0,1
+Gouttefarde   Fabien,Bernalicis   Ugo,0,1
+Gouttefarde   Fabien,Le Pen   Marine,1,1
+Gouttefarde   Fabien,Bureau-Bonnard   Carole,1,1
+Gouttefarde   Fabien,Minot   Maxime,0,1
+Gouttefarde   Fabien,Bilde   Bruno,1,1
+Gouttefarde   Fabien,Mbaye   Jean François,1,1
+Gouttefarde   Fabien,Saint-Martin   Laurent,1,1
+Gouttefarde   Fabien,Taché   Aurélien,1,1
+Gouttefarde   Fabien,Sanquer   Nicole,0,1
+Gouttefarde   Fabien,Petit   Frédéric,1,1
+Gouttefarde   Fabien,Coquerel   Éric,0,1
+Gouttefarde   Fabien,Charrière   Sylvie,1,1
+Gouttefarde   Fabien,Vuilletet   Guillaume,1,1
+Gouttefarde   Fabien,Ramadier   Alain,0,1
+Gouttefarde   Fabien,Kuster   Brigitte,0,1
+Gouttefarde   Fabien,Verdier-Jouclas   Marie-Christine,1,1
+Gouttefarde   Fabien,Rupin   Pacôme,1,1
+Gouttefarde   Fabien,Michel-Kleisbauer   Philippe,1,1
+Gouttefarde   Fabien,Baichère   Didier,1,1
+Gouttefarde   Fabien,Guévenoux   Marie,1,1
+Gouttefarde   Fabien,Pouzyreff   Natalia,1,1
+Gouttefarde   Fabien,Marilossian   Jacques,1,1
+Gouttefarde   Fabien,Millienne   Bruno,1,1
+Gouttefarde   Fabien,Houlié   Sacha,1,1
+Gouttefarde   Fabien,Jumel   Sébastien,0,1
+Gouttefarde   Fabien,Leclabart   Jean-Claude,1,1
+Gouttefarde   Fabien,Villani   Cédric,1,1
+Gouttefarde   Fabien,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Euzet   Christophe,1,1
+Ménard   Emmanuelle,Dubost   Coralie,1,1
+Ménard   Emmanuelle,Thillaye   Sabine,1,1
+Ménard   Emmanuelle,Brulebois   Danielle,1,1
+Ménard   Emmanuelle,Kamowski   Catherine,1,1
+Ménard   Emmanuelle,Oppelt   Valérie,1,1
+Ménard   Emmanuelle,Grandjean   Carole,1,1
+Ménard   Emmanuelle,Girardin   Éric,1,1
+Ménard   Emmanuelle,Fiat   Caroline,0,1
+Ménard   Emmanuelle,Zannier   Hélène,1,1
+Ménard   Emmanuelle,Le Peih   Nicole,1,1
+Ménard   Emmanuelle,Di Filippo   Fabien,0,1
+Ménard   Emmanuelle,Bernalicis   Ugo,0,1
+Ménard   Emmanuelle,Le Pen   Marine,1,1
+Ménard   Emmanuelle,Bureau-Bonnard   Carole,1,1
+Ménard   Emmanuelle,Minot   Maxime,0,1
+Ménard   Emmanuelle,Bilde   Bruno,1,1
+Ménard   Emmanuelle,Mbaye   Jean François,1,1
+Ménard   Emmanuelle,Saint-Martin   Laurent,1,1
+Ménard   Emmanuelle,Taché   Aurélien,1,1
+Ménard   Emmanuelle,Sanquer   Nicole,0,1
+Ménard   Emmanuelle,Petit   Frédéric,1,1
+Ménard   Emmanuelle,Coquerel   Éric,0,1
+Ménard   Emmanuelle,Charrière   Sylvie,1,1
+Ménard   Emmanuelle,Vuilletet   Guillaume,1,1
+Ménard   Emmanuelle,Ramadier   Alain,0,1
+Ménard   Emmanuelle,Kuster   Brigitte,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,1,1
+Ménard   Emmanuelle,Rupin   Pacôme,1,1
+Ménard   Emmanuelle,Michel-Kleisbauer   Philippe,1,1
+Ménard   Emmanuelle,Baichère   Didier,1,1
+Ménard   Emmanuelle,Guévenoux   Marie,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,1,1
+Ménard   Emmanuelle,Marilossian   Jacques,1,1
+Ménard   Emmanuelle,Millienne   Bruno,1,1
+Ménard   Emmanuelle,Houlié   Sacha,1,1
+Ménard   Emmanuelle,Jumel   Sébastien,0,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,1,1
+Ménard   Emmanuelle,Villani   Cédric,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,1,1
+Euzet   Christophe,Dubost   Coralie,1,1
+Euzet   Christophe,Thillaye   Sabine,1,1
+Euzet   Christophe,Brulebois   Danielle,1,1
+Euzet   Christophe,Kamowski   Catherine,1,1
+Euzet   Christophe,Oppelt   Valérie,1,1
+Euzet   Christophe,Grandjean   Carole,1,1
+Euzet   Christophe,Girardin   Éric,1,1
+Euzet   Christophe,Fiat   Caroline,0,1
+Euzet   Christophe,Zannier   Hélène,1,1
+Euzet   Christophe,Le Peih   Nicole,1,1
+Euzet   Christophe,Di Filippo   Fabien,0,1
+Euzet   Christophe,Bernalicis   Ugo,0,1
+Euzet   Christophe,Le Pen   Marine,1,1
+Euzet   Christophe,Bureau-Bonnard   Carole,1,1
+Euzet   Christophe,Minot   Maxime,0,1
+Euzet   Christophe,Bilde   Bruno,1,1
+Euzet   Christophe,Mbaye   Jean François,1,1
+Euzet   Christophe,Saint-Martin   Laurent,1,1
+Euzet   Christophe,Taché   Aurélien,1,1
+Euzet   Christophe,Sanquer   Nicole,0,1
+Euzet   Christophe,Petit   Frédéric,1,1
+Euzet   Christophe,Coquerel   Éric,0,1
+Euzet   Christophe,Charrière   Sylvie,1,1
+Euzet   Christophe,Vuilletet   Guillaume,1,1
+Euzet   Christophe,Ramadier   Alain,0,1
+Euzet   Christophe,Kuster   Brigitte,0,1
+Euzet   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Euzet   Christophe,Rupin   Pacôme,1,1
+Euzet   Christophe,Michel-Kleisbauer   Philippe,1,1
+Euzet   Christophe,Baichère   Didier,1,1
+Euzet   Christophe,Guévenoux   Marie,1,1
+Euzet   Christophe,Pouzyreff   Natalia,1,1
+Euzet   Christophe,Marilossian   Jacques,1,1
+Euzet   Christophe,Millienne   Bruno,1,1
+Euzet   Christophe,Houlié   Sacha,1,1
+Euzet   Christophe,Jumel   Sébastien,0,1
+Euzet   Christophe,Leclabart   Jean-Claude,1,1
+Euzet   Christophe,Villani   Cédric,1,1
+Euzet   Christophe,Fugit   Jean-Luc,1,1
+Dubost   Coralie,Thillaye   Sabine,1,1
+Dubost   Coralie,Brulebois   Danielle,1,1
+Dubost   Coralie,Kamowski   Catherine,1,1
+Dubost   Coralie,Oppelt   Valérie,1,1
+Dubost   Coralie,Grandjean   Carole,1,1
+Dubost   Coralie,Girardin   Éric,1,1
+Dubost   Coralie,Fiat   Caroline,0,1
+Dubost   Coralie,Zannier   Hélène,1,1
+Dubost   Coralie,Le Peih   Nicole,1,1
+Dubost   Coralie,Di Filippo   Fabien,0,1
+Dubost   Coralie,Bernalicis   Ugo,0,1
+Dubost   Coralie,Le Pen   Marine,1,1
+Dubost   Coralie,Bureau-Bonnard   Carole,1,1
+Dubost   Coralie,Minot   Maxime,0,1
+Dubost   Coralie,Bilde   Bruno,1,1
+Dubost   Coralie,Mbaye   Jean François,1,1
+Dubost   Coralie,Saint-Martin   Laurent,1,1
+Dubost   Coralie,Taché   Aurélien,1,1
+Dubost   Coralie,Sanquer   Nicole,0,1
+Dubost   Coralie,Petit   Frédéric,1,1
+Dubost   Coralie,Coquerel   Éric,0,1
+Dubost   Coralie,Charrière   Sylvie,1,1
+Dubost   Coralie,Vuilletet   Guillaume,1,1
+Dubost   Coralie,Ramadier   Alain,0,1
+Dubost   Coralie,Kuster   Brigitte,0,1
+Dubost   Coralie,Verdier-Jouclas   Marie-Christine,1,1
+Dubost   Coralie,Rupin   Pacôme,1,1
+Dubost   Coralie,Michel-Kleisbauer   Philippe,1,1
+Dubost   Coralie,Baichère   Didier,1,1
+Dubost   Coralie,Guévenoux   Marie,1,1
+Dubost   Coralie,Pouzyreff   Natalia,1,1
+Dubost   Coralie,Marilossian   Jacques,1,1
+Dubost   Coralie,Millienne   Bruno,1,1
+Dubost   Coralie,Houlié   Sacha,1,1
+Dubost   Coralie,Jumel   Sébastien,0,1
+Dubost   Coralie,Leclabart   Jean-Claude,1,1
+Dubost   Coralie,Villani   Cédric,1,1
+Dubost   Coralie,Fugit   Jean-Luc,1,1
+Thillaye   Sabine,Brulebois   Danielle,1,1
+Thillaye   Sabine,Kamowski   Catherine,1,1
+Thillaye   Sabine,Oppelt   Valérie,1,1
+Thillaye   Sabine,Grandjean   Carole,1,1
+Thillaye   Sabine,Girardin   Éric,1,1
+Thillaye   Sabine,Fiat   Caroline,0,1
+Thillaye   Sabine,Zannier   Hélène,1,1
+Thillaye   Sabine,Le Peih   Nicole,1,1
+Thillaye   Sabine,Di Filippo   Fabien,0,1
+Thillaye   Sabine,Bernalicis   Ugo,0,1
+Thillaye   Sabine,Le Pen   Marine,1,1
+Thillaye   Sabine,Bureau-Bonnard   Carole,1,1
+Thillaye   Sabine,Minot   Maxime,0,1
+Thillaye   Sabine,Bilde   Bruno,1,1
+Thillaye   Sabine,Mbaye   Jean François,1,1
+Thillaye   Sabine,Saint-Martin   Laurent,1,1
+Thillaye   Sabine,Taché   Aurélien,1,1
+Thillaye   Sabine,Sanquer   Nicole,0,1
+Thillaye   Sabine,Petit   Frédéric,1,1
+Thillaye   Sabine,Coquerel   Éric,0,1
+Thillaye   Sabine,Charrière   Sylvie,1,1
+Thillaye   Sabine,Vuilletet   Guillaume,1,1
+Thillaye   Sabine,Ramadier   Alain,0,1
+Thillaye   Sabine,Kuster   Brigitte,0,1
+Thillaye   Sabine,Verdier-Jouclas   Marie-Christine,1,1
+Thillaye   Sabine,Rupin   Pacôme,1,1
+Thillaye   Sabine,Michel-Kleisbauer   Philippe,1,1
+Thillaye   Sabine,Baichère   Didier,1,1
+Thillaye   Sabine,Guévenoux   Marie,1,1
+Thillaye   Sabine,Pouzyreff   Natalia,1,1
+Thillaye   Sabine,Marilossian   Jacques,1,1
+Thillaye   Sabine,Millienne   Bruno,1,1
+Thillaye   Sabine,Houlié   Sacha,1,1
+Thillaye   Sabine,Jumel   Sébastien,0,1
+Thillaye   Sabine,Leclabart   Jean-Claude,1,1
+Thillaye   Sabine,Villani   Cédric,1,1
+Thillaye   Sabine,Fugit   Jean-Luc,1,1
+Brulebois   Danielle,Kamowski   Catherine,1,1
+Brulebois   Danielle,Oppelt   Valérie,1,1
+Brulebois   Danielle,Grandjean   Carole,1,1
+Brulebois   Danielle,Girardin   Éric,1,1
+Brulebois   Danielle,Fiat   Caroline,0,1
+Brulebois   Danielle,Zannier   Hélène,1,1
+Brulebois   Danielle,Le Peih   Nicole,1,1
+Brulebois   Danielle,Di Filippo   Fabien,0,1
+Brulebois   Danielle,Bernalicis   Ugo,0,1
+Brulebois   Danielle,Le Pen   Marine,1,1
+Brulebois   Danielle,Bureau-Bonnard   Carole,1,1
+Brulebois   Danielle,Minot   Maxime,0,1
+Brulebois   Danielle,Bilde   Bruno,1,1
+Brulebois   Danielle,Mbaye   Jean François,1,1
+Brulebois   Danielle,Saint-Martin   Laurent,1,1
+Brulebois   Danielle,Taché   Aurélien,1,1
+Brulebois   Danielle,Sanquer   Nicole,0,1
+Brulebois   Danielle,Petit   Frédéric,1,1
+Brulebois   Danielle,Coquerel   Éric,0,1
+Brulebois   Danielle,Charrière   Sylvie,1,1
+Brulebois   Danielle,Vuilletet   Guillaume,1,1
+Brulebois   Danielle,Ramadier   Alain,0,1
+Brulebois   Danielle,Kuster   Brigitte,0,1
+Brulebois   Danielle,Verdier-Jouclas   Marie-Christine,1,1
+Brulebois   Danielle,Rupin   Pacôme,1,1
+Brulebois   Danielle,Michel-Kleisbauer   Philippe,1,1
+Brulebois   Danielle,Baichère   Didier,1,1
+Brulebois   Danielle,Guévenoux   Marie,1,1
+Brulebois   Danielle,Pouzyreff   Natalia,1,1
+Brulebois   Danielle,Marilossian   Jacques,1,1
+Brulebois   Danielle,Millienne   Bruno,1,1
+Brulebois   Danielle,Houlié   Sacha,1,1
+Brulebois   Danielle,Jumel   Sébastien,0,1
+Brulebois   Danielle,Leclabart   Jean-Claude,1,1
+Brulebois   Danielle,Villani   Cédric,1,1
+Brulebois   Danielle,Fugit   Jean-Luc,1,1
+Kamowski   Catherine,Oppelt   Valérie,1,1
+Kamowski   Catherine,Grandjean   Carole,1,1
+Kamowski   Catherine,Girardin   Éric,1,1
+Kamowski   Catherine,Fiat   Caroline,0,1
+Kamowski   Catherine,Zannier   Hélène,1,1
+Kamowski   Catherine,Le Peih   Nicole,1,1
+Kamowski   Catherine,Di Filippo   Fabien,0,1
+Kamowski   Catherine,Bernalicis   Ugo,0,1
+Kamowski   Catherine,Le Pen   Marine,1,1
+Kamowski   Catherine,Bureau-Bonnard   Carole,1,1
+Kamowski   Catherine,Minot   Maxime,0,1
+Kamowski   Catherine,Bilde   Bruno,1,1
+Kamowski   Catherine,Mbaye   Jean François,1,1
+Kamowski   Catherine,Saint-Martin   Laurent,1,1
+Kamowski   Catherine,Taché   Aurélien,1,1
+Kamowski   Catherine,Sanquer   Nicole,0,1
+Kamowski   Catherine,Petit   Frédéric,1,1
+Kamowski   Catherine,Coquerel   Éric,0,1
+Kamowski   Catherine,Charrière   Sylvie,1,1
+Kamowski   Catherine,Vuilletet   Guillaume,1,1
+Kamowski   Catherine,Ramadier   Alain,0,1
+Kamowski   Catherine,Kuster   Brigitte,0,1
+Kamowski   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Kamowski   Catherine,Rupin   Pacôme,1,1
+Kamowski   Catherine,Michel-Kleisbauer   Philippe,1,1
+Kamowski   Catherine,Baichère   Didier,1,1
+Kamowski   Catherine,Guévenoux   Marie,1,1
+Kamowski   Catherine,Pouzyreff   Natalia,1,1
+Kamowski   Catherine,Marilossian   Jacques,1,1
+Kamowski   Catherine,Millienne   Bruno,1,1
+Kamowski   Catherine,Houlié   Sacha,1,1
+Kamowski   Catherine,Jumel   Sébastien,0,1
+Kamowski   Catherine,Leclabart   Jean-Claude,1,1
+Kamowski   Catherine,Villani   Cédric,1,1
+Kamowski   Catherine,Fugit   Jean-Luc,1,1
+Oppelt   Valérie,Grandjean   Carole,1,1
+Oppelt   Valérie,Girardin   Éric,1,1
+Oppelt   Valérie,Fiat   Caroline,0,1
+Oppelt   Valérie,Zannier   Hélène,1,1
+Oppelt   Valérie,Le Peih   Nicole,1,1
+Oppelt   Valérie,Di Filippo   Fabien,0,1
+Oppelt   Valérie,Bernalicis   Ugo,0,1
+Oppelt   Valérie,Le Pen   Marine,1,1
+Oppelt   Valérie,Bureau-Bonnard   Carole,1,1
+Oppelt   Valérie,Minot   Maxime,0,1
+Oppelt   Valérie,Bilde   Bruno,1,1
+Oppelt   Valérie,Mbaye   Jean François,1,1
+Oppelt   Valérie,Saint-Martin   Laurent,1,1
+Oppelt   Valérie,Taché   Aurélien,1,1
+Oppelt   Valérie,Sanquer   Nicole,0,1
+Oppelt   Valérie,Petit   Frédéric,1,1
+Oppelt   Valérie,Coquerel   Éric,0,1
+Oppelt   Valérie,Charrière   Sylvie,1,1
+Oppelt   Valérie,Vuilletet   Guillaume,1,1
+Oppelt   Valérie,Ramadier   Alain,0,1
+Oppelt   Valérie,Kuster   Brigitte,0,1
+Oppelt   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Oppelt   Valérie,Rupin   Pacôme,1,1
+Oppelt   Valérie,Michel-Kleisbauer   Philippe,1,1
+Oppelt   Valérie,Baichère   Didier,1,1
+Oppelt   Valérie,Guévenoux   Marie,1,1
+Oppelt   Valérie,Pouzyreff   Natalia,1,1
+Oppelt   Valérie,Marilossian   Jacques,1,1
+Oppelt   Valérie,Millienne   Bruno,1,1
+Oppelt   Valérie,Houlié   Sacha,1,1
+Oppelt   Valérie,Jumel   Sébastien,0,1
+Oppelt   Valérie,Leclabart   Jean-Claude,1,1
+Oppelt   Valérie,Villani   Cédric,1,1
+Oppelt   Valérie,Fugit   Jean-Luc,1,1
+Grandjean   Carole,Girardin   Éric,1,1
+Grandjean   Carole,Fiat   Caroline,0,1
+Grandjean   Carole,Zannier   Hélène,1,1
+Grandjean   Carole,Le Peih   Nicole,1,1
+Grandjean   Carole,Di Filippo   Fabien,0,1
+Grandjean   Carole,Bernalicis   Ugo,0,1
+Grandjean   Carole,Le Pen   Marine,1,1
+Grandjean   Carole,Bureau-Bonnard   Carole,1,1
+Grandjean   Carole,Minot   Maxime,0,1
+Grandjean   Carole,Bilde   Bruno,1,1
+Grandjean   Carole,Mbaye   Jean François,1,1
+Grandjean   Carole,Saint-Martin   Laurent,1,1
+Grandjean   Carole,Taché   Aurélien,1,1
+Grandjean   Carole,Sanquer   Nicole,0,1
+Grandjean   Carole,Petit   Frédéric,1,1
+Grandjean   Carole,Coquerel   Éric,0,1
+Grandjean   Carole,Charrière   Sylvie,1,1
+Grandjean   Carole,Vuilletet   Guillaume,1,1
+Grandjean   Carole,Ramadier   Alain,0,1
+Grandjean   Carole,Kuster   Brigitte,0,1
+Grandjean   Carole,Verdier-Jouclas   Marie-Christine,1,1
+Grandjean   Carole,Rupin   Pacôme,1,1
+Grandjean   Carole,Michel-Kleisbauer   Philippe,1,1
+Grandjean   Carole,Baichère   Didier,1,1
+Grandjean   Carole,Guévenoux   Marie,1,1
+Grandjean   Carole,Pouzyreff   Natalia,1,1
+Grandjean   Carole,Marilossian   Jacques,1,1
+Grandjean   Carole,Millienne   Bruno,1,1
+Grandjean   Carole,Houlié   Sacha,1,1
+Grandjean   Carole,Jumel   Sébastien,0,1
+Grandjean   Carole,Leclabart   Jean-Claude,1,1
+Grandjean   Carole,Villani   Cédric,1,1
+Grandjean   Carole,Fugit   Jean-Luc,1,1
+Girardin   Éric,Fiat   Caroline,0,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Le Peih   Nicole,1,1
+Girardin   Éric,Di Filippo   Fabien,0,1
+Girardin   Éric,Bernalicis   Ugo,0,1
+Girardin   Éric,Le Pen   Marine,1,1
+Girardin   Éric,Bureau-Bonnard   Carole,1,1
+Girardin   Éric,Minot   Maxime,0,1
+Girardin   Éric,Bilde   Bruno,1,1
+Girardin   Éric,Mbaye   Jean François,1,1
+Girardin   Éric,Saint-Martin   Laurent,1,1
+Girardin   Éric,Taché   Aurélien,1,1
+Girardin   Éric,Sanquer   Nicole,0,1
+Girardin   Éric,Petit   Frédéric,1,1
+Girardin   Éric,Coquerel   Éric,0,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Vuilletet   Guillaume,1,1
+Girardin   Éric,Ramadier   Alain,0,1
+Girardin   Éric,Kuster   Brigitte,0,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Rupin   Pacôme,1,1
+Girardin   Éric,Michel-Kleisbauer   Philippe,1,1
+Girardin   Éric,Baichère   Didier,1,1
+Girardin   Éric,Guévenoux   Marie,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Marilossian   Jacques,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Houlié   Sacha,1,1
+Girardin   Éric,Jumel   Sébastien,0,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Villani   Cédric,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Fiat   Caroline,Zannier   Hélène,0,1
+Fiat   Caroline,Le Peih   Nicole,0,1
+Fiat   Caroline,Di Filippo   Fabien,1,1
+Fiat   Caroline,Bernalicis   Ugo,1,1
+Fiat   Caroline,Le Pen   Marine,0,1
+Fiat   Caroline,Bureau-Bonnard   Carole,0,1
+Fiat   Caroline,Minot   Maxime,1,1
+Fiat   Caroline,Bilde   Bruno,0,1
+Fiat   Caroline,Mbaye   Jean François,0,1
+Fiat   Caroline,Saint-Martin   Laurent,0,1
+Fiat   Caroline,Taché   Aurélien,0,1
+Fiat   Caroline,Sanquer   Nicole,1,1
+Fiat   Caroline,Petit   Frédéric,0,1
+Fiat   Caroline,Coquerel   Éric,1,1
+Fiat   Caroline,Charrière   Sylvie,0,1
+Fiat   Caroline,Vuilletet   Guillaume,0,1
+Fiat   Caroline,Ramadier   Alain,1,1
+Fiat   Caroline,Kuster   Brigitte,1,1
+Fiat   Caroline,Verdier-Jouclas   Marie-Christine,0,1
+Fiat   Caroline,Rupin   Pacôme,0,1
+Fiat   Caroline,Michel-Kleisbauer   Philippe,0,1
+Fiat   Caroline,Baichère   Didier,0,1
+Fiat   Caroline,Guévenoux   Marie,0,1
+Fiat   Caroline,Pouzyreff   Natalia,0,1
+Fiat   Caroline,Marilossian   Jacques,0,1
+Fiat   Caroline,Millienne   Bruno,0,1
+Fiat   Caroline,Houlié   Sacha,0,1
+Fiat   Caroline,Jumel   Sébastien,1,1
+Fiat   Caroline,Leclabart   Jean-Claude,0,1
+Fiat   Caroline,Villani   Cédric,0,1
+Fiat   Caroline,Fugit   Jean-Luc,0,1
+Zannier   Hélène,Le Peih   Nicole,1,1
+Zannier   Hélène,Di Filippo   Fabien,0,1
+Zannier   Hélène,Bernalicis   Ugo,0,1
+Zannier   Hélène,Le Pen   Marine,1,1
+Zannier   Hélène,Bureau-Bonnard   Carole,1,1
+Zannier   Hélène,Minot   Maxime,0,1
+Zannier   Hélène,Bilde   Bruno,1,1
+Zannier   Hélène,Mbaye   Jean François,1,1
+Zannier   Hélène,Saint-Martin   Laurent,1,1
+Zannier   Hélène,Taché   Aurélien,1,1
+Zannier   Hélène,Sanquer   Nicole,0,1
+Zannier   Hélène,Petit   Frédéric,1,1
+Zannier   Hélène,Coquerel   Éric,0,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Vuilletet   Guillaume,1,1
+Zannier   Hélène,Ramadier   Alain,0,1
+Zannier   Hélène,Kuster   Brigitte,0,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Rupin   Pacôme,1,1
+Zannier   Hélène,Michel-Kleisbauer   Philippe,1,1
+Zannier   Hélène,Baichère   Didier,1,1
+Zannier   Hélène,Guévenoux   Marie,1,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,Marilossian   Jacques,1,1
+Zannier   Hélène,Millienne   Bruno,1,1
+Zannier   Hélène,Houlié   Sacha,1,1
+Zannier   Hélène,Jumel   Sébastien,0,1
+Zannier   Hélène,Leclabart   Jean-Claude,1,1
+Zannier   Hélène,Villani   Cédric,1,1
+Zannier   Hélène,Fugit   Jean-Luc,1,1
+Le Peih   Nicole,Di Filippo   Fabien,0,1
+Le Peih   Nicole,Bernalicis   Ugo,0,1
+Le Peih   Nicole,Le Pen   Marine,1,1
+Le Peih   Nicole,Bureau-Bonnard   Carole,1,1
+Le Peih   Nicole,Minot   Maxime,0,1
+Le Peih   Nicole,Bilde   Bruno,1,1
+Le Peih   Nicole,Mbaye   Jean François,1,1
+Le Peih   Nicole,Saint-Martin   Laurent,1,1
+Le Peih   Nicole,Taché   Aurélien,1,1
+Le Peih   Nicole,Sanquer   Nicole,0,1
+Le Peih   Nicole,Petit   Frédéric,1,1
+Le Peih   Nicole,Coquerel   Éric,0,1
+Le Peih   Nicole,Charrière   Sylvie,1,1
+Le Peih   Nicole,Vuilletet   Guillaume,1,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Kuster   Brigitte,0,1
+Le Peih   Nicole,Verdier-Jouclas   Marie-Christine,1,1
+Le Peih   Nicole,Rupin   Pacôme,1,1
+Le Peih   Nicole,Michel-Kleisbauer   Philippe,1,1
+Le Peih   Nicole,Baichère   Didier,1,1
+Le Peih   Nicole,Guévenoux   Marie,1,1
+Le Peih   Nicole,Pouzyreff   Natalia,1,1
+Le Peih   Nicole,Marilossian   Jacques,1,1
+Le Peih   Nicole,Millienne   Bruno,1,1
+Le Peih   Nicole,Houlié   Sacha,1,1
+Le Peih   Nicole,Jumel   Sébastien,0,1
+Le Peih   Nicole,Leclabart   Jean-Claude,1,1
+Le Peih   Nicole,Villani   Cédric,1,1
+Le Peih   Nicole,Fugit   Jean-Luc,1,1
+Di Filippo   Fabien,Bernalicis   Ugo,1,1
+Di Filippo   Fabien,Le Pen   Marine,0,1
+Di Filippo   Fabien,Bureau-Bonnard   Carole,0,1
+Di Filippo   Fabien,Minot   Maxime,1,1
+Di Filippo   Fabien,Bilde   Bruno,0,1
+Di Filippo   Fabien,Mbaye   Jean François,0,1
+Di Filippo   Fabien,Saint-Martin   Laurent,0,1
+Di Filippo   Fabien,Taché   Aurélien,0,1
+Di Filippo   Fabien,Sanquer   Nicole,1,1
+Di Filippo   Fabien,Petit   Frédéric,0,1
+Di Filippo   Fabien,Coquerel   Éric,1,1
+Di Filippo   Fabien,Charrière   Sylvie,0,1
+Di Filippo   Fabien,Vuilletet   Guillaume,0,1
+Di Filippo   Fabien,Ramadier   Alain,1,1
+Di Filippo   Fabien,Kuster   Brigitte,1,1
+Di Filippo   Fabien,Verdier-Jouclas   Marie-Christine,0,1
+Di Filippo   Fabien,Rupin   Pacôme,0,1
+Di Filippo   Fabien,Michel-Kleisbauer   Philippe,0,1
+Di Filippo   Fabien,Baichère   Didier,0,1
+Di Filippo   Fabien,Guévenoux   Marie,0,1
+Di Filippo   Fabien,Pouzyreff   Natalia,0,1
+Di Filippo   Fabien,Marilossian   Jacques,0,1
+Di Filippo   Fabien,Millienne   Bruno,0,1
+Di Filippo   Fabien,Houlié   Sacha,0,1
+Di Filippo   Fabien,Jumel   Sébastien,1,1
+Di Filippo   Fabien,Leclabart   Jean-Claude,0,1
+Di Filippo   Fabien,Villani   Cédric,0,1
+Di Filippo   Fabien,Fugit   Jean-Luc,0,1
+Bernalicis   Ugo,Le Pen   Marine,0,1
+Bernalicis   Ugo,Bureau-Bonnard   Carole,0,1
+Bernalicis   Ugo,Minot   Maxime,1,1
+Bernalicis   Ugo,Bilde   Bruno,0,1
+Bernalicis   Ugo,Mbaye   Jean François,0,1
+Bernalicis   Ugo,Saint-Martin   Laurent,0,1
+Bernalicis   Ugo,Taché   Aurélien,0,1
+Bernalicis   Ugo,Sanquer   Nicole,1,1
+Bernalicis   Ugo,Petit   Frédéric,0,1
+Bernalicis   Ugo,Coquerel   Éric,1,1
+Bernalicis   Ugo,Charrière   Sylvie,0,1
+Bernalicis   Ugo,Vuilletet   Guillaume,0,1
+Bernalicis   Ugo,Ramadier   Alain,1,1
+Bernalicis   Ugo,Kuster   Brigitte,1,1
+Bernalicis   Ugo,Verdier-Jouclas   Marie-Christine,0,1
+Bernalicis   Ugo,Rupin   Pacôme,0,1
+Bernalicis   Ugo,Michel-Kleisbauer   Philippe,0,1
+Bernalicis   Ugo,Baichère   Didier,0,1
+Bernalicis   Ugo,Guévenoux   Marie,0,1
+Bernalicis   Ugo,Pouzyreff   Natalia,0,1
+Bernalicis   Ugo,Marilossian   Jacques,0,1
+Bernalicis   Ugo,Millienne   Bruno,0,1
+Bernalicis   Ugo,Houlié   Sacha,0,1
+Bernalicis   Ugo,Jumel   Sébastien,1,1
+Bernalicis   Ugo,Leclabart   Jean-Claude,0,1
+Bernalicis   Ugo,Villani   Cédric,0,1
+Bernalicis   Ugo,Fugit   Jean-Luc,0,1
+Le Pen   Marine,Bureau-Bonnard   Carole,1,1
+Le Pen   Marine,Minot   Maxime,0,1
+Le Pen   Marine,Bilde   Bruno,1,1
+Le Pen   Marine,Mbaye   Jean François,1,1
+Le Pen   Marine,Saint-Martin   Laurent,1,1
+Le Pen   Marine,Taché   Aurélien,1,1
+Le Pen   Marine,Sanquer   Nicole,0,1
+Le Pen   Marine,Petit   Frédéric,1,1
+Le Pen   Marine,Coquerel   Éric,0,1
+Le Pen   Marine,Charrière   Sylvie,1,1
+Le Pen   Marine,Vuilletet   Guillaume,1,1
+Le Pen   Marine,Ramadier   Alain,0,1
+Le Pen   Marine,Kuster   Brigitte,0,1
+Le Pen   Marine,Verdier-Jouclas   Marie-Christine,1,1
+Le Pen   Marine,Rupin   Pacôme,1,1
+Le Pen   Marine,Michel-Kleisbauer   Philippe,1,1
+Le Pen   Marine,Baichère   Didier,1,1
+Le Pen   Marine,Guévenoux   Marie,1,1
+Le Pen   Marine,Pouzyreff   Natalia,1,1
+Le Pen   Marine,Marilossian   Jacques,1,1
+Le Pen   Marine,Millienne   Bruno,1,1
+Le Pen   Marine,Houlié   Sacha,1,1
+Le Pen   Marine,Jumel   Sébastien,0,1
+Le Pen   Marine,Leclabart   Jean-Claude,1,1
+Le Pen   Marine,Villani   Cédric,1,1
+Le Pen   Marine,Fugit   Jean-Luc,1,1
+Bureau-Bonnard   Carole,Minot   Maxime,0,1
+Bureau-Bonnard   Carole,Bilde   Bruno,1,1
+Bureau-Bonnard   Carole,Mbaye   Jean François,1,1
+Bureau-Bonnard   Carole,Saint-Martin   Laurent,1,1
+Bureau-Bonnard   Carole,Taché   Aurélien,1,1
+Bureau-Bonnard   Carole,Sanquer   Nicole,0,1
+Bureau-Bonnard   Carole,Petit   Frédéric,1,1
+Bureau-Bonnard   Carole,Coquerel   Éric,0,1
+Bureau-Bonnard   Carole,Charrière   Sylvie,1,1
+Bureau-Bonnard   Carole,Vuilletet   Guillaume,1,1
+Bureau-Bonnard   Carole,Ramadier   Alain,0,1
+Bureau-Bonnard   Carole,Kuster   Brigitte,0,1
+Bureau-Bonnard   Carole,Verdier-Jouclas   Marie-Christine,1,1
+Bureau-Bonnard   Carole,Rupin   Pacôme,1,1
+Bureau-Bonnard   Carole,Michel-Kleisbauer   Philippe,1,1
+Bureau-Bonnard   Carole,Baichère   Didier,1,1
+Bureau-Bonnard   Carole,Guévenoux   Marie,1,1
+Bureau-Bonnard   Carole,Pouzyreff   Natalia,1,1
+Bureau-Bonnard   Carole,Marilossian   Jacques,1,1
+Bureau-Bonnard   Carole,Millienne   Bruno,1,1
+Bureau-Bonnard   Carole,Houlié   Sacha,1,1
+Bureau-Bonnard   Carole,Jumel   Sébastien,0,1
+Bureau-Bonnard   Carole,Leclabart   Jean-Claude,1,1
+Bureau-Bonnard   Carole,Villani   Cédric,1,1
+Bureau-Bonnard   Carole,Fugit   Jean-Luc,1,1
+Minot   Maxime,Bilde   Bruno,0,1
+Minot   Maxime,Mbaye   Jean François,0,1
+Minot   Maxime,Saint-Martin   Laurent,0,1
+Minot   Maxime,Taché   Aurélien,0,1
+Minot   Maxime,Sanquer   Nicole,1,1
+Minot   Maxime,Petit   Frédéric,0,1
+Minot   Maxime,Coquerel   Éric,1,1
+Minot   Maxime,Charrière   Sylvie,0,1
+Minot   Maxime,Vuilletet   Guillaume,0,1
+Minot   Maxime,Ramadier   Alain,1,1
+Minot   Maxime,Kuster   Brigitte,1,1
+Minot   Maxime,Verdier-Jouclas   Marie-Christine,0,1
+Minot   Maxime,Rupin   Pacôme,0,1
+Minot   Maxime,Michel-Kleisbauer   Philippe,0,1
+Minot   Maxime,Baichère   Didier,0,1
+Minot   Maxime,Guévenoux   Marie,0,1
+Minot   Maxime,Pouzyreff   Natalia,0,1
+Minot   Maxime,Marilossian   Jacques,0,1
+Minot   Maxime,Millienne   Bruno,0,1
+Minot   Maxime,Houlié   Sacha,0,1
+Minot   Maxime,Jumel   Sébastien,1,1
+Minot   Maxime,Leclabart   Jean-Claude,0,1
+Minot   Maxime,Villani   Cédric,0,1
+Minot   Maxime,Fugit   Jean-Luc,0,1
+Bilde   Bruno,Mbaye   Jean François,1,1
+Bilde   Bruno,Saint-Martin   Laurent,1,1
+Bilde   Bruno,Taché   Aurélien,1,1
+Bilde   Bruno,Sanquer   Nicole,0,1
+Bilde   Bruno,Petit   Frédéric,1,1
+Bilde   Bruno,Coquerel   Éric,0,1
+Bilde   Bruno,Charrière   Sylvie,1,1
+Bilde   Bruno,Vuilletet   Guillaume,1,1
+Bilde   Bruno,Ramadier   Alain,0,1
+Bilde   Bruno,Kuster   Brigitte,0,1
+Bilde   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Bilde   Bruno,Rupin   Pacôme,1,1
+Bilde   Bruno,Michel-Kleisbauer   Philippe,1,1
+Bilde   Bruno,Baichère   Didier,1,1
+Bilde   Bruno,Guévenoux   Marie,1,1
+Bilde   Bruno,Pouzyreff   Natalia,1,1
+Bilde   Bruno,Marilossian   Jacques,1,1
+Bilde   Bruno,Millienne   Bruno,1,1
+Bilde   Bruno,Houlié   Sacha,1,1
+Bilde   Bruno,Jumel   Sébastien,0,1
+Bilde   Bruno,Leclabart   Jean-Claude,1,1
+Bilde   Bruno,Villani   Cédric,1,1
+Bilde   Bruno,Fugit   Jean-Luc,1,1
+Mbaye   Jean François,Saint-Martin   Laurent,1,1
+Mbaye   Jean François,Taché   Aurélien,1,1
+Mbaye   Jean François,Sanquer   Nicole,0,1
+Mbaye   Jean François,Petit   Frédéric,1,1
+Mbaye   Jean François,Coquerel   Éric,0,1
+Mbaye   Jean François,Charrière   Sylvie,1,1
+Mbaye   Jean François,Vuilletet   Guillaume,1,1
+Mbaye   Jean François,Ramadier   Alain,0,1
+Mbaye   Jean François,Kuster   Brigitte,0,1
+Mbaye   Jean François,Verdier-Jouclas   Marie-Christine,1,1
+Mbaye   Jean François,Rupin   Pacôme,1,1
+Mbaye   Jean François,Michel-Kleisbauer   Philippe,1,1
+Mbaye   Jean François,Baichère   Didier,1,1
+Mbaye   Jean François,Guévenoux   Marie,1,1
+Mbaye   Jean François,Pouzyreff   Natalia,1,1
+Mbaye   Jean François,Marilossian   Jacques,1,1
+Mbaye   Jean François,Millienne   Bruno,1,1
+Mbaye   Jean François,Houlié   Sacha,1,1
+Mbaye   Jean François,Jumel   Sébastien,0,1
+Mbaye   Jean François,Leclabart   Jean-Claude,1,1
+Mbaye   Jean François,Villani   Cédric,1,1
+Mbaye   Jean François,Fugit   Jean-Luc,1,1
+Saint-Martin   Laurent,Taché   Aurélien,1,1
+Saint-Martin   Laurent,Sanquer   Nicole,0,1
+Saint-Martin   Laurent,Petit   Frédéric,1,1
+Saint-Martin   Laurent,Coquerel   Éric,0,1
+Saint-Martin   Laurent,Charrière   Sylvie,1,1
+Saint-Martin   Laurent,Vuilletet   Guillaume,1,1
+Saint-Martin   Laurent,Ramadier   Alain,0,1
+Saint-Martin   Laurent,Kuster   Brigitte,0,1
+Saint-Martin   Laurent,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Martin   Laurent,Rupin   Pacôme,1,1
+Saint-Martin   Laurent,Michel-Kleisbauer   Philippe,1,1
+Saint-Martin   Laurent,Baichère   Didier,1,1
+Saint-Martin   Laurent,Guévenoux   Marie,1,1
+Saint-Martin   Laurent,Pouzyreff   Natalia,1,1
+Saint-Martin   Laurent,Marilossian   Jacques,1,1
+Saint-Martin   Laurent,Millienne   Bruno,1,1
+Saint-Martin   Laurent,Houlié   Sacha,1,1
+Saint-Martin   Laurent,Jumel   Sébastien,0,1
+Saint-Martin   Laurent,Leclabart   Jean-Claude,1,1
+Saint-Martin   Laurent,Villani   Cédric,1,1
+Saint-Martin   Laurent,Fugit   Jean-Luc,1,1
+Taché   Aurélien,Sanquer   Nicole,0,1
+Taché   Aurélien,Petit   Frédéric,1,1
+Taché   Aurélien,Coquerel   Éric,0,1
+Taché   Aurélien,Charrière   Sylvie,1,1
+Taché   Aurélien,Vuilletet   Guillaume,1,1
+Taché   Aurélien,Ramadier   Alain,0,1
+Taché   Aurélien,Kuster   Brigitte,0,1
+Taché   Aurélien,Verdier-Jouclas   Marie-Christine,1,1
+Taché   Aurélien,Rupin   Pacôme,1,1
+Taché   Aurélien,Michel-Kleisbauer   Philippe,1,1
+Taché   Aurélien,Baichère   Didier,1,1
+Taché   Aurélien,Guévenoux   Marie,1,1
+Taché   Aurélien,Pouzyreff   Natalia,1,1
+Taché   Aurélien,Marilossian   Jacques,1,1
+Taché   Aurélien,Millienne   Bruno,1,1
+Taché   Aurélien,Houlié   Sacha,1,1
+Taché   Aurélien,Jumel   Sébastien,0,1
+Taché   Aurélien,Leclabart   Jean-Claude,1,1
+Taché   Aurélien,Villani   Cédric,1,1
+Taché   Aurélien,Fugit   Jean-Luc,1,1
+Sanquer   Nicole,Petit   Frédéric,0,1
+Sanquer   Nicole,Coquerel   Éric,1,1
+Sanquer   Nicole,Charrière   Sylvie,0,1
+Sanquer   Nicole,Vuilletet   Guillaume,0,1
+Sanquer   Nicole,Ramadier   Alain,1,1
+Sanquer   Nicole,Kuster   Brigitte,1,1
+Sanquer   Nicole,Verdier-Jouclas   Marie-Christine,0,1
+Sanquer   Nicole,Rupin   Pacôme,0,1
+Sanquer   Nicole,Michel-Kleisbauer   Philippe,0,1
+Sanquer   Nicole,Baichère   Didier,0,1
+Sanquer   Nicole,Guévenoux   Marie,0,1
+Sanquer   Nicole,Pouzyreff   Natalia,0,1
+Sanquer   Nicole,Marilossian   Jacques,0,1
+Sanquer   Nicole,Millienne   Bruno,0,1
+Sanquer   Nicole,Houlié   Sacha,0,1
+Sanquer   Nicole,Jumel   Sébastien,1,1
+Sanquer   Nicole,Leclabart   Jean-Claude,0,1
+Sanquer   Nicole,Villani   Cédric,0,1
+Sanquer   Nicole,Fugit   Jean-Luc,0,1
+Petit   Frédéric,Coquerel   Éric,0,1
+Petit   Frédéric,Charrière   Sylvie,1,1
+Petit   Frédéric,Vuilletet   Guillaume,1,1
+Petit   Frédéric,Ramadier   Alain,0,1
+Petit   Frédéric,Kuster   Brigitte,0,1
+Petit   Frédéric,Verdier-Jouclas   Marie-Christine,1,1
+Petit   Frédéric,Rupin   Pacôme,1,1
+Petit   Frédéric,Michel-Kleisbauer   Philippe,1,1
+Petit   Frédéric,Baichère   Didier,1,1
+Petit   Frédéric,Guévenoux   Marie,1,1
+Petit   Frédéric,Pouzyreff   Natalia,1,1
+Petit   Frédéric,Marilossian   Jacques,1,1
+Petit   Frédéric,Millienne   Bruno,1,1
+Petit   Frédéric,Houlié   Sacha,1,1
+Petit   Frédéric,Jumel   Sébastien,0,1
+Petit   Frédéric,Leclabart   Jean-Claude,1,1
+Petit   Frédéric,Villani   Cédric,1,1
+Petit   Frédéric,Fugit   Jean-Luc,1,1
+Coquerel   Éric,Charrière   Sylvie,0,1
+Coquerel   Éric,Vuilletet   Guillaume,0,1
+Coquerel   Éric,Ramadier   Alain,1,1
+Coquerel   Éric,Kuster   Brigitte,1,1
+Coquerel   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Coquerel   Éric,Rupin   Pacôme,0,1
+Coquerel   Éric,Michel-Kleisbauer   Philippe,0,1
+Coquerel   Éric,Baichère   Didier,0,1
+Coquerel   Éric,Guévenoux   Marie,0,1
+Coquerel   Éric,Pouzyreff   Natalia,0,1
+Coquerel   Éric,Marilossian   Jacques,0,1
+Coquerel   Éric,Millienne   Bruno,0,1
+Coquerel   Éric,Houlié   Sacha,0,1
+Coquerel   Éric,Jumel   Sébastien,1,1
+Coquerel   Éric,Leclabart   Jean-Claude,0,1
+Coquerel   Éric,Villani   Cédric,0,1
+Coquerel   Éric,Fugit   Jean-Luc,0,1
+Charrière   Sylvie,Vuilletet   Guillaume,1,1
+Charrière   Sylvie,Ramadier   Alain,0,1
+Charrière   Sylvie,Kuster   Brigitte,0,1
+Charrière   Sylvie,Verdier-Jouclas   Marie-Christine,1,1
+Charrière   Sylvie,Rupin   Pacôme,1,1
+Charrière   Sylvie,Michel-Kleisbauer   Philippe,1,1
+Charrière   Sylvie,Baichère   Didier,1,1
+Charrière   Sylvie,Guévenoux   Marie,1,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,Marilossian   Jacques,1,1
+Charrière   Sylvie,Millienne   Bruno,1,1
+Charrière   Sylvie,Houlié   Sacha,1,1
+Charrière   Sylvie,Jumel   Sébastien,0,1
+Charrière   Sylvie,Leclabart   Jean-Claude,1,1
+Charrière   Sylvie,Villani   Cédric,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Vuilletet   Guillaume,Ramadier   Alain,0,1
+Vuilletet   Guillaume,Kuster   Brigitte,0,1
+Vuilletet   Guillaume,Verdier-Jouclas   Marie-Christine,1,1
+Vuilletet   Guillaume,Rupin   Pacôme,1,1
+Vuilletet   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Vuilletet   Guillaume,Baichère   Didier,1,1
+Vuilletet   Guillaume,Guévenoux   Marie,1,1
+Vuilletet   Guillaume,Pouzyreff   Natalia,1,1
+Vuilletet   Guillaume,Marilossian   Jacques,1,1
+Vuilletet   Guillaume,Millienne   Bruno,1,1
+Vuilletet   Guillaume,Houlié   Sacha,1,1
+Vuilletet   Guillaume,Jumel   Sébastien,0,1
+Vuilletet   Guillaume,Leclabart   Jean-Claude,1,1
+Vuilletet   Guillaume,Villani   Cédric,1,1
+Vuilletet   Guillaume,Fugit   Jean-Luc,1,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Verdier-Jouclas   Marie-Christine,0,1
+Ramadier   Alain,Rupin   Pacôme,0,1
+Ramadier   Alain,Michel-Kleisbauer   Philippe,0,1
+Ramadier   Alain,Baichère   Didier,0,1
+Ramadier   Alain,Guévenoux   Marie,0,1
+Ramadier   Alain,Pouzyreff   Natalia,0,1
+Ramadier   Alain,Marilossian   Jacques,0,1
+Ramadier   Alain,Millienne   Bruno,0,1
+Ramadier   Alain,Houlié   Sacha,0,1
+Ramadier   Alain,Jumel   Sébastien,1,1
+Ramadier   Alain,Leclabart   Jean-Claude,0,1
+Ramadier   Alain,Villani   Cédric,0,1
+Ramadier   Alain,Fugit   Jean-Luc,0,1
+Kuster   Brigitte,Verdier-Jouclas   Marie-Christine,0,1
+Kuster   Brigitte,Rupin   Pacôme,0,1
+Kuster   Brigitte,Michel-Kleisbauer   Philippe,0,1
+Kuster   Brigitte,Baichère   Didier,0,1
+Kuster   Brigitte,Guévenoux   Marie,0,1
+Kuster   Brigitte,Pouzyreff   Natalia,0,1
+Kuster   Brigitte,Marilossian   Jacques,0,1
+Kuster   Brigitte,Millienne   Bruno,0,1
+Kuster   Brigitte,Houlié   Sacha,0,1
+Kuster   Brigitte,Jumel   Sébastien,1,1
+Kuster   Brigitte,Leclabart   Jean-Claude,0,1
+Kuster   Brigitte,Villani   Cédric,0,1
+Kuster   Brigitte,Fugit   Jean-Luc,0,1
+Verdier-Jouclas   Marie-Christine,Rupin   Pacôme,1,1
+Verdier-Jouclas   Marie-Christine,Michel-Kleisbauer   Philippe,1,1
+Verdier-Jouclas   Marie-Christine,Baichère   Didier,1,1
+Verdier-Jouclas   Marie-Christine,Guévenoux   Marie,1,1
+Verdier-Jouclas   Marie-Christine,Pouzyreff   Natalia,1,1
+Verdier-Jouclas   Marie-Christine,Marilossian   Jacques,1,1
+Verdier-Jouclas   Marie-Christine,Millienne   Bruno,1,1
+Verdier-Jouclas   Marie-Christine,Houlié   Sacha,1,1
+Verdier-Jouclas   Marie-Christine,Jumel   Sébastien,0,1
+Verdier-Jouclas   Marie-Christine,Leclabart   Jean-Claude,1,1
+Verdier-Jouclas   Marie-Christine,Villani   Cédric,1,1
+Verdier-Jouclas   Marie-Christine,Fugit   Jean-Luc,1,1
+Rupin   Pacôme,Michel-Kleisbauer   Philippe,1,1
+Rupin   Pacôme,Baichère   Didier,1,1
+Rupin   Pacôme,Guévenoux   Marie,1,1
+Rupin   Pacôme,Pouzyreff   Natalia,1,1
+Rupin   Pacôme,Marilossian   Jacques,1,1
+Rupin   Pacôme,Millienne   Bruno,1,1
+Rupin   Pacôme,Houlié   Sacha,1,1
+Rupin   Pacôme,Jumel   Sébastien,0,1
+Rupin   Pacôme,Leclabart   Jean-Claude,1,1
+Rupin   Pacôme,Villani   Cédric,1,1
+Rupin   Pacôme,Fugit   Jean-Luc,1,1
+Michel-Kleisbauer   Philippe,Baichère   Didier,1,1
+Michel-Kleisbauer   Philippe,Guévenoux   Marie,1,1
+Michel-Kleisbauer   Philippe,Pouzyreff   Natalia,1,1
+Michel-Kleisbauer   Philippe,Marilossian   Jacques,1,1
+Michel-Kleisbauer   Philippe,Millienne   Bruno,1,1
+Michel-Kleisbauer   Philippe,Houlié   Sacha,1,1
+Michel-Kleisbauer   Philippe,Jumel   Sébastien,0,1
+Michel-Kleisbauer   Philippe,Leclabart   Jean-Claude,1,1
+Michel-Kleisbauer   Philippe,Villani   Cédric,1,1
+Michel-Kleisbauer   Philippe,Fugit   Jean-Luc,1,1
+Baichère   Didier,Guévenoux   Marie,1,1
+Baichère   Didier,Pouzyreff   Natalia,1,1
+Baichère   Didier,Marilossian   Jacques,1,1
+Baichère   Didier,Millienne   Bruno,1,1
+Baichère   Didier,Houlié   Sacha,1,1
+Baichère   Didier,Jumel   Sébastien,0,1
+Baichère   Didier,Leclabart   Jean-Claude,1,1
+Baichère   Didier,Villani   Cédric,1,1
+Baichère   Didier,Fugit   Jean-Luc,1,1
+Guévenoux   Marie,Pouzyreff   Natalia,1,1
+Guévenoux   Marie,Marilossian   Jacques,1,1
+Guévenoux   Marie,Millienne   Bruno,1,1
+Guévenoux   Marie,Houlié   Sacha,1,1
+Guévenoux   Marie,Jumel   Sébastien,0,1
+Guévenoux   Marie,Leclabart   Jean-Claude,1,1
+Guévenoux   Marie,Villani   Cédric,1,1
+Guévenoux   Marie,Fugit   Jean-Luc,1,1
+Pouzyreff   Natalia,Marilossian   Jacques,1,1
+Pouzyreff   Natalia,Millienne   Bruno,1,1
+Pouzyreff   Natalia,Houlié   Sacha,1,1
+Pouzyreff   Natalia,Jumel   Sébastien,0,1
+Pouzyreff   Natalia,Leclabart   Jean-Claude,1,1
+Pouzyreff   Natalia,Villani   Cédric,1,1
+Pouzyreff   Natalia,Fugit   Jean-Luc,1,1
+Marilossian   Jacques,Millienne   Bruno,1,1
+Marilossian   Jacques,Houlié   Sacha,1,1
+Marilossian   Jacques,Jumel   Sébastien,0,1
+Marilossian   Jacques,Leclabart   Jean-Claude,1,1
+Marilossian   Jacques,Villani   Cédric,1,1
+Marilossian   Jacques,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Houlié   Sacha,1,1
+Millienne   Bruno,Jumel   Sébastien,0,1
+Millienne   Bruno,Leclabart   Jean-Claude,1,1
+Millienne   Bruno,Villani   Cédric,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Houlié   Sacha,Jumel   Sébastien,0,1
+Houlié   Sacha,Leclabart   Jean-Claude,1,1
+Houlié   Sacha,Villani   Cédric,1,1
+Houlié   Sacha,Fugit   Jean-Luc,1,1
+Jumel   Sébastien,Leclabart   Jean-Claude,0,1
+Jumel   Sébastien,Villani   Cédric,0,1
+Jumel   Sébastien,Fugit   Jean-Luc,0,1
+Leclabart   Jean-Claude,Villani   Cédric,1,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1
+Villani   Cédric,Fugit   Jean-Luc,1,1

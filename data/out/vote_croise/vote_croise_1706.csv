@@ -1,0 +1,904 @@
+from,to,vote_commun,loi_commun
+Reiss   Frédéric,Favennec-Bécot   Yannick,1,1
+Reiss   Frédéric,Breton   Xavier,1,1
+Reiss   Frédéric,Ciotti   Éric,1,1
+Reiss   Frédéric,Vigier   Philippe,1,1
+Reiss   Frédéric,Juanico   Régis,0,1
+Reiss   Frédéric,Victory   Michèle,0,1
+Reiss   Frédéric,Le Grip   Constance,1,1
+Reiss   Frédéric,Hetzel   Patrick,1,1
+Reiss   Frédéric,Racon-Bouzon   Cathy,0,1
+Reiss   Frédéric,Essayan   Nadia,1,1
+Reiss   Frédéric,Charvier   Fannette,1,1
+Reiss   Frédéric,Kerlogot   Yannick,0,1
+Reiss   Frédéric,Kasbarian   Guillaume,1,1
+Reiss   Frédéric,Ménard   Emmanuelle,1,1
+Reiss   Frédéric,Mette   Sophie,1,1
+Reiss   Frédéric,Chalumeau   Philippe,1,1
+Reiss   Frédéric,Colboc   Fabienne,0,1
+Reiss   Frédéric,Freschi   Alexandre,1,1
+Reiss   Frédéric,Thill   Agnès,1,1
+Reiss   Frédéric,Potterie   Benoit,1,1
+Reiss   Frédéric,Minot   Maxime,1,1
+Reiss   Frédéric,Descamps   Béatrice,1,1
+Reiss   Frédéric,Studer   Bruno,1,1
+Reiss   Frédéric,Lachaud   Bastien,0,1
+Reiss   Frédéric,Testé   Stéphane,0,1
+Reiss   Frédéric,Da Silva   Dominique,1,1
+Reiss   Frédéric,Manin   Josette,0,1
+Reiss   Frédéric,Dumas   Frédérique,1,1
+Reiss   Frédéric,Charrière   Sylvie,0,1
+Reiss   Frédéric,Rubin   Sabine,0,1
+Reiss   Frédéric,Ramadier   Alain,1,1
+Reiss   Frédéric,Brugnera   Anne,1,1
+Reiss   Frédéric,Le Gendre   Gilles,1,1
+Reiss   Frédéric,Fauvergue   Jean-Michel,1,1
+Reiss   Frédéric,Michel-Kleisbauer   Philippe,1,1
+Reiss   Frédéric,Calvez   Céline,0,1
+Reiss   Frédéric,Piron   Béatrice,1,1
+Reiss   Frédéric,Faucillon   Elsa,0,1
+Reiss   Frédéric,Obono   Danièle,0,1
+Reiss   Frédéric,Granjus   Florence,1,1
+Reiss   Frédéric,Provendier   Florence,0,1
+Reiss   Frédéric,de Courson   Charles,1,1
+Favennec-Bécot   Yannick,Breton   Xavier,1,1
+Favennec-Bécot   Yannick,Ciotti   Éric,1,1
+Favennec-Bécot   Yannick,Vigier   Philippe,1,1
+Favennec-Bécot   Yannick,Juanico   Régis,0,1
+Favennec-Bécot   Yannick,Victory   Michèle,0,1
+Favennec-Bécot   Yannick,Le Grip   Constance,1,1
+Favennec-Bécot   Yannick,Hetzel   Patrick,1,1
+Favennec-Bécot   Yannick,Racon-Bouzon   Cathy,0,1
+Favennec-Bécot   Yannick,Essayan   Nadia,1,1
+Favennec-Bécot   Yannick,Charvier   Fannette,1,1
+Favennec-Bécot   Yannick,Kerlogot   Yannick,0,1
+Favennec-Bécot   Yannick,Kasbarian   Guillaume,1,1
+Favennec-Bécot   Yannick,Ménard   Emmanuelle,1,1
+Favennec-Bécot   Yannick,Mette   Sophie,1,1
+Favennec-Bécot   Yannick,Chalumeau   Philippe,1,1
+Favennec-Bécot   Yannick,Colboc   Fabienne,0,1
+Favennec-Bécot   Yannick,Freschi   Alexandre,1,1
+Favennec-Bécot   Yannick,Thill   Agnès,1,1
+Favennec-Bécot   Yannick,Potterie   Benoit,1,1
+Favennec-Bécot   Yannick,Minot   Maxime,1,1
+Favennec-Bécot   Yannick,Descamps   Béatrice,1,1
+Favennec-Bécot   Yannick,Studer   Bruno,1,1
+Favennec-Bécot   Yannick,Lachaud   Bastien,0,1
+Favennec-Bécot   Yannick,Testé   Stéphane,0,1
+Favennec-Bécot   Yannick,Da Silva   Dominique,1,1
+Favennec-Bécot   Yannick,Manin   Josette,0,1
+Favennec-Bécot   Yannick,Dumas   Frédérique,1,1
+Favennec-Bécot   Yannick,Charrière   Sylvie,0,1
+Favennec-Bécot   Yannick,Rubin   Sabine,0,1
+Favennec-Bécot   Yannick,Ramadier   Alain,1,1
+Favennec-Bécot   Yannick,Brugnera   Anne,1,1
+Favennec-Bécot   Yannick,Le Gendre   Gilles,1,1
+Favennec-Bécot   Yannick,Fauvergue   Jean-Michel,1,1
+Favennec-Bécot   Yannick,Michel-Kleisbauer   Philippe,1,1
+Favennec-Bécot   Yannick,Calvez   Céline,0,1
+Favennec-Bécot   Yannick,Piron   Béatrice,1,1
+Favennec-Bécot   Yannick,Faucillon   Elsa,0,1
+Favennec-Bécot   Yannick,Obono   Danièle,0,1
+Favennec-Bécot   Yannick,Granjus   Florence,1,1
+Favennec-Bécot   Yannick,Provendier   Florence,0,1
+Favennec-Bécot   Yannick,de Courson   Charles,1,1
+Breton   Xavier,Ciotti   Éric,1,1
+Breton   Xavier,Vigier   Philippe,1,1
+Breton   Xavier,Juanico   Régis,0,1
+Breton   Xavier,Victory   Michèle,0,1
+Breton   Xavier,Le Grip   Constance,1,1
+Breton   Xavier,Hetzel   Patrick,1,1
+Breton   Xavier,Racon-Bouzon   Cathy,0,1
+Breton   Xavier,Essayan   Nadia,1,1
+Breton   Xavier,Charvier   Fannette,1,1
+Breton   Xavier,Kerlogot   Yannick,0,1
+Breton   Xavier,Kasbarian   Guillaume,1,1
+Breton   Xavier,Ménard   Emmanuelle,1,1
+Breton   Xavier,Mette   Sophie,1,1
+Breton   Xavier,Chalumeau   Philippe,1,1
+Breton   Xavier,Colboc   Fabienne,0,1
+Breton   Xavier,Freschi   Alexandre,1,1
+Breton   Xavier,Thill   Agnès,1,1
+Breton   Xavier,Potterie   Benoit,1,1
+Breton   Xavier,Minot   Maxime,1,1
+Breton   Xavier,Descamps   Béatrice,1,1
+Breton   Xavier,Studer   Bruno,1,1
+Breton   Xavier,Lachaud   Bastien,0,1
+Breton   Xavier,Testé   Stéphane,0,1
+Breton   Xavier,Da Silva   Dominique,1,1
+Breton   Xavier,Manin   Josette,0,1
+Breton   Xavier,Dumas   Frédérique,1,1
+Breton   Xavier,Charrière   Sylvie,0,1
+Breton   Xavier,Rubin   Sabine,0,1
+Breton   Xavier,Ramadier   Alain,1,1
+Breton   Xavier,Brugnera   Anne,1,1
+Breton   Xavier,Le Gendre   Gilles,1,1
+Breton   Xavier,Fauvergue   Jean-Michel,1,1
+Breton   Xavier,Michel-Kleisbauer   Philippe,1,1
+Breton   Xavier,Calvez   Céline,0,1
+Breton   Xavier,Piron   Béatrice,1,1
+Breton   Xavier,Faucillon   Elsa,0,1
+Breton   Xavier,Obono   Danièle,0,1
+Breton   Xavier,Granjus   Florence,1,1
+Breton   Xavier,Provendier   Florence,0,1
+Breton   Xavier,de Courson   Charles,1,1
+Ciotti   Éric,Vigier   Philippe,1,1
+Ciotti   Éric,Juanico   Régis,0,1
+Ciotti   Éric,Victory   Michèle,0,1
+Ciotti   Éric,Le Grip   Constance,1,1
+Ciotti   Éric,Hetzel   Patrick,1,1
+Ciotti   Éric,Racon-Bouzon   Cathy,0,1
+Ciotti   Éric,Essayan   Nadia,1,1
+Ciotti   Éric,Charvier   Fannette,1,1
+Ciotti   Éric,Kerlogot   Yannick,0,1
+Ciotti   Éric,Kasbarian   Guillaume,1,1
+Ciotti   Éric,Ménard   Emmanuelle,1,1
+Ciotti   Éric,Mette   Sophie,1,1
+Ciotti   Éric,Chalumeau   Philippe,1,1
+Ciotti   Éric,Colboc   Fabienne,0,1
+Ciotti   Éric,Freschi   Alexandre,1,1
+Ciotti   Éric,Thill   Agnès,1,1
+Ciotti   Éric,Potterie   Benoit,1,1
+Ciotti   Éric,Minot   Maxime,1,1
+Ciotti   Éric,Descamps   Béatrice,1,1
+Ciotti   Éric,Studer   Bruno,1,1
+Ciotti   Éric,Lachaud   Bastien,0,1
+Ciotti   Éric,Testé   Stéphane,0,1
+Ciotti   Éric,Da Silva   Dominique,1,1
+Ciotti   Éric,Manin   Josette,0,1
+Ciotti   Éric,Dumas   Frédérique,1,1
+Ciotti   Éric,Charrière   Sylvie,0,1
+Ciotti   Éric,Rubin   Sabine,0,1
+Ciotti   Éric,Ramadier   Alain,1,1
+Ciotti   Éric,Brugnera   Anne,1,1
+Ciotti   Éric,Le Gendre   Gilles,1,1
+Ciotti   Éric,Fauvergue   Jean-Michel,1,1
+Ciotti   Éric,Michel-Kleisbauer   Philippe,1,1
+Ciotti   Éric,Calvez   Céline,0,1
+Ciotti   Éric,Piron   Béatrice,1,1
+Ciotti   Éric,Faucillon   Elsa,0,1
+Ciotti   Éric,Obono   Danièle,0,1
+Ciotti   Éric,Granjus   Florence,1,1
+Ciotti   Éric,Provendier   Florence,0,1
+Ciotti   Éric,de Courson   Charles,1,1
+Vigier   Philippe,Juanico   Régis,0,1
+Vigier   Philippe,Victory   Michèle,0,1
+Vigier   Philippe,Le Grip   Constance,1,1
+Vigier   Philippe,Hetzel   Patrick,1,1
+Vigier   Philippe,Racon-Bouzon   Cathy,0,1
+Vigier   Philippe,Essayan   Nadia,1,1
+Vigier   Philippe,Charvier   Fannette,1,1
+Vigier   Philippe,Kerlogot   Yannick,0,1
+Vigier   Philippe,Kasbarian   Guillaume,1,1
+Vigier   Philippe,Ménard   Emmanuelle,1,1
+Vigier   Philippe,Mette   Sophie,1,1
+Vigier   Philippe,Chalumeau   Philippe,1,1
+Vigier   Philippe,Colboc   Fabienne,0,1
+Vigier   Philippe,Freschi   Alexandre,1,1
+Vigier   Philippe,Thill   Agnès,1,1
+Vigier   Philippe,Potterie   Benoit,1,1
+Vigier   Philippe,Minot   Maxime,1,1
+Vigier   Philippe,Descamps   Béatrice,1,1
+Vigier   Philippe,Studer   Bruno,1,1
+Vigier   Philippe,Lachaud   Bastien,0,1
+Vigier   Philippe,Testé   Stéphane,0,1
+Vigier   Philippe,Da Silva   Dominique,1,1
+Vigier   Philippe,Manin   Josette,0,1
+Vigier   Philippe,Dumas   Frédérique,1,1
+Vigier   Philippe,Charrière   Sylvie,0,1
+Vigier   Philippe,Rubin   Sabine,0,1
+Vigier   Philippe,Ramadier   Alain,1,1
+Vigier   Philippe,Brugnera   Anne,1,1
+Vigier   Philippe,Le Gendre   Gilles,1,1
+Vigier   Philippe,Fauvergue   Jean-Michel,1,1
+Vigier   Philippe,Michel-Kleisbauer   Philippe,1,1
+Vigier   Philippe,Calvez   Céline,0,1
+Vigier   Philippe,Piron   Béatrice,1,1
+Vigier   Philippe,Faucillon   Elsa,0,1
+Vigier   Philippe,Obono   Danièle,0,1
+Vigier   Philippe,Granjus   Florence,1,1
+Vigier   Philippe,Provendier   Florence,0,1
+Vigier   Philippe,de Courson   Charles,1,1
+Juanico   Régis,Victory   Michèle,1,1
+Juanico   Régis,Le Grip   Constance,0,1
+Juanico   Régis,Hetzel   Patrick,0,1
+Juanico   Régis,Racon-Bouzon   Cathy,1,1
+Juanico   Régis,Essayan   Nadia,0,1
+Juanico   Régis,Charvier   Fannette,0,1
+Juanico   Régis,Kerlogot   Yannick,0,1
+Juanico   Régis,Kasbarian   Guillaume,0,1
+Juanico   Régis,Ménard   Emmanuelle,0,1
+Juanico   Régis,Mette   Sophie,0,1
+Juanico   Régis,Chalumeau   Philippe,0,1
+Juanico   Régis,Colboc   Fabienne,0,1
+Juanico   Régis,Freschi   Alexandre,0,1
+Juanico   Régis,Thill   Agnès,0,1
+Juanico   Régis,Potterie   Benoit,0,1
+Juanico   Régis,Minot   Maxime,0,1
+Juanico   Régis,Descamps   Béatrice,0,1
+Juanico   Régis,Studer   Bruno,0,1
+Juanico   Régis,Lachaud   Bastien,1,1
+Juanico   Régis,Testé   Stéphane,1,1
+Juanico   Régis,Da Silva   Dominique,0,1
+Juanico   Régis,Manin   Josette,1,1
+Juanico   Régis,Dumas   Frédérique,0,1
+Juanico   Régis,Charrière   Sylvie,0,1
+Juanico   Régis,Rubin   Sabine,1,1
+Juanico   Régis,Ramadier   Alain,0,1
+Juanico   Régis,Brugnera   Anne,0,1
+Juanico   Régis,Le Gendre   Gilles,0,1
+Juanico   Régis,Fauvergue   Jean-Michel,0,1
+Juanico   Régis,Michel-Kleisbauer   Philippe,0,1
+Juanico   Régis,Calvez   Céline,0,1
+Juanico   Régis,Piron   Béatrice,0,1
+Juanico   Régis,Faucillon   Elsa,1,1
+Juanico   Régis,Obono   Danièle,1,1
+Juanico   Régis,Granjus   Florence,0,1
+Juanico   Régis,Provendier   Florence,0,1
+Juanico   Régis,de Courson   Charles,0,1
+Victory   Michèle,Le Grip   Constance,0,1
+Victory   Michèle,Hetzel   Patrick,0,1
+Victory   Michèle,Racon-Bouzon   Cathy,1,1
+Victory   Michèle,Essayan   Nadia,0,1
+Victory   Michèle,Charvier   Fannette,0,1
+Victory   Michèle,Kerlogot   Yannick,0,1
+Victory   Michèle,Kasbarian   Guillaume,0,1
+Victory   Michèle,Ménard   Emmanuelle,0,1
+Victory   Michèle,Mette   Sophie,0,1
+Victory   Michèle,Chalumeau   Philippe,0,1
+Victory   Michèle,Colboc   Fabienne,0,1
+Victory   Michèle,Freschi   Alexandre,0,1
+Victory   Michèle,Thill   Agnès,0,1
+Victory   Michèle,Potterie   Benoit,0,1
+Victory   Michèle,Minot   Maxime,0,1
+Victory   Michèle,Descamps   Béatrice,0,1
+Victory   Michèle,Studer   Bruno,0,1
+Victory   Michèle,Lachaud   Bastien,1,1
+Victory   Michèle,Testé   Stéphane,1,1
+Victory   Michèle,Da Silva   Dominique,0,1
+Victory   Michèle,Manin   Josette,1,1
+Victory   Michèle,Dumas   Frédérique,0,1
+Victory   Michèle,Charrière   Sylvie,0,1
+Victory   Michèle,Rubin   Sabine,1,1
+Victory   Michèle,Ramadier   Alain,0,1
+Victory   Michèle,Brugnera   Anne,0,1
+Victory   Michèle,Le Gendre   Gilles,0,1
+Victory   Michèle,Fauvergue   Jean-Michel,0,1
+Victory   Michèle,Michel-Kleisbauer   Philippe,0,1
+Victory   Michèle,Calvez   Céline,0,1
+Victory   Michèle,Piron   Béatrice,0,1
+Victory   Michèle,Faucillon   Elsa,1,1
+Victory   Michèle,Obono   Danièle,1,1
+Victory   Michèle,Granjus   Florence,0,1
+Victory   Michèle,Provendier   Florence,0,1
+Victory   Michèle,de Courson   Charles,0,1
+Le Grip   Constance,Hetzel   Patrick,1,1
+Le Grip   Constance,Racon-Bouzon   Cathy,0,1
+Le Grip   Constance,Essayan   Nadia,1,1
+Le Grip   Constance,Charvier   Fannette,1,1
+Le Grip   Constance,Kerlogot   Yannick,0,1
+Le Grip   Constance,Kasbarian   Guillaume,1,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Mette   Sophie,1,1
+Le Grip   Constance,Chalumeau   Philippe,1,1
+Le Grip   Constance,Colboc   Fabienne,0,1
+Le Grip   Constance,Freschi   Alexandre,1,1
+Le Grip   Constance,Thill   Agnès,1,1
+Le Grip   Constance,Potterie   Benoit,1,1
+Le Grip   Constance,Minot   Maxime,1,1
+Le Grip   Constance,Descamps   Béatrice,1,1
+Le Grip   Constance,Studer   Bruno,1,1
+Le Grip   Constance,Lachaud   Bastien,0,1
+Le Grip   Constance,Testé   Stéphane,0,1
+Le Grip   Constance,Da Silva   Dominique,1,1
+Le Grip   Constance,Manin   Josette,0,1
+Le Grip   Constance,Dumas   Frédérique,1,1
+Le Grip   Constance,Charrière   Sylvie,0,1
+Le Grip   Constance,Rubin   Sabine,0,1
+Le Grip   Constance,Ramadier   Alain,1,1
+Le Grip   Constance,Brugnera   Anne,1,1
+Le Grip   Constance,Le Gendre   Gilles,1,1
+Le Grip   Constance,Fauvergue   Jean-Michel,1,1
+Le Grip   Constance,Michel-Kleisbauer   Philippe,1,1
+Le Grip   Constance,Calvez   Céline,0,1
+Le Grip   Constance,Piron   Béatrice,1,1
+Le Grip   Constance,Faucillon   Elsa,0,1
+Le Grip   Constance,Obono   Danièle,0,1
+Le Grip   Constance,Granjus   Florence,1,1
+Le Grip   Constance,Provendier   Florence,0,1
+Le Grip   Constance,de Courson   Charles,1,1
+Hetzel   Patrick,Racon-Bouzon   Cathy,0,1
+Hetzel   Patrick,Essayan   Nadia,1,1
+Hetzel   Patrick,Charvier   Fannette,1,1
+Hetzel   Patrick,Kerlogot   Yannick,0,1
+Hetzel   Patrick,Kasbarian   Guillaume,1,1
+Hetzel   Patrick,Ménard   Emmanuelle,1,1
+Hetzel   Patrick,Mette   Sophie,1,1
+Hetzel   Patrick,Chalumeau   Philippe,1,1
+Hetzel   Patrick,Colboc   Fabienne,0,1
+Hetzel   Patrick,Freschi   Alexandre,1,1
+Hetzel   Patrick,Thill   Agnès,1,1
+Hetzel   Patrick,Potterie   Benoit,1,1
+Hetzel   Patrick,Minot   Maxime,1,1
+Hetzel   Patrick,Descamps   Béatrice,1,1
+Hetzel   Patrick,Studer   Bruno,1,1
+Hetzel   Patrick,Lachaud   Bastien,0,1
+Hetzel   Patrick,Testé   Stéphane,0,1
+Hetzel   Patrick,Da Silva   Dominique,1,1
+Hetzel   Patrick,Manin   Josette,0,1
+Hetzel   Patrick,Dumas   Frédérique,1,1
+Hetzel   Patrick,Charrière   Sylvie,0,1
+Hetzel   Patrick,Rubin   Sabine,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Brugnera   Anne,1,1
+Hetzel   Patrick,Le Gendre   Gilles,1,1
+Hetzel   Patrick,Fauvergue   Jean-Michel,1,1
+Hetzel   Patrick,Michel-Kleisbauer   Philippe,1,1
+Hetzel   Patrick,Calvez   Céline,0,1
+Hetzel   Patrick,Piron   Béatrice,1,1
+Hetzel   Patrick,Faucillon   Elsa,0,1
+Hetzel   Patrick,Obono   Danièle,0,1
+Hetzel   Patrick,Granjus   Florence,1,1
+Hetzel   Patrick,Provendier   Florence,0,1
+Hetzel   Patrick,de Courson   Charles,1,1
+Racon-Bouzon   Cathy,Essayan   Nadia,0,1
+Racon-Bouzon   Cathy,Charvier   Fannette,0,1
+Racon-Bouzon   Cathy,Kerlogot   Yannick,0,1
+Racon-Bouzon   Cathy,Kasbarian   Guillaume,0,1
+Racon-Bouzon   Cathy,Ménard   Emmanuelle,0,1
+Racon-Bouzon   Cathy,Mette   Sophie,0,1
+Racon-Bouzon   Cathy,Chalumeau   Philippe,0,1
+Racon-Bouzon   Cathy,Colboc   Fabienne,0,1
+Racon-Bouzon   Cathy,Freschi   Alexandre,0,1
+Racon-Bouzon   Cathy,Thill   Agnès,0,1
+Racon-Bouzon   Cathy,Potterie   Benoit,0,1
+Racon-Bouzon   Cathy,Minot   Maxime,0,1
+Racon-Bouzon   Cathy,Descamps   Béatrice,0,1
+Racon-Bouzon   Cathy,Studer   Bruno,0,1
+Racon-Bouzon   Cathy,Lachaud   Bastien,1,1
+Racon-Bouzon   Cathy,Testé   Stéphane,1,1
+Racon-Bouzon   Cathy,Da Silva   Dominique,0,1
+Racon-Bouzon   Cathy,Manin   Josette,1,1
+Racon-Bouzon   Cathy,Dumas   Frédérique,0,1
+Racon-Bouzon   Cathy,Charrière   Sylvie,0,1
+Racon-Bouzon   Cathy,Rubin   Sabine,1,1
+Racon-Bouzon   Cathy,Ramadier   Alain,0,1
+Racon-Bouzon   Cathy,Brugnera   Anne,0,1
+Racon-Bouzon   Cathy,Le Gendre   Gilles,0,1
+Racon-Bouzon   Cathy,Fauvergue   Jean-Michel,0,1
+Racon-Bouzon   Cathy,Michel-Kleisbauer   Philippe,0,1
+Racon-Bouzon   Cathy,Calvez   Céline,0,1
+Racon-Bouzon   Cathy,Piron   Béatrice,0,1
+Racon-Bouzon   Cathy,Faucillon   Elsa,1,1
+Racon-Bouzon   Cathy,Obono   Danièle,1,1
+Racon-Bouzon   Cathy,Granjus   Florence,0,1
+Racon-Bouzon   Cathy,Provendier   Florence,0,1
+Racon-Bouzon   Cathy,de Courson   Charles,0,1
+Essayan   Nadia,Charvier   Fannette,1,1
+Essayan   Nadia,Kerlogot   Yannick,0,1
+Essayan   Nadia,Kasbarian   Guillaume,1,1
+Essayan   Nadia,Ménard   Emmanuelle,1,1
+Essayan   Nadia,Mette   Sophie,1,1
+Essayan   Nadia,Chalumeau   Philippe,1,1
+Essayan   Nadia,Colboc   Fabienne,0,1
+Essayan   Nadia,Freschi   Alexandre,1,1
+Essayan   Nadia,Thill   Agnès,1,1
+Essayan   Nadia,Potterie   Benoit,1,1
+Essayan   Nadia,Minot   Maxime,1,1
+Essayan   Nadia,Descamps   Béatrice,1,1
+Essayan   Nadia,Studer   Bruno,1,1
+Essayan   Nadia,Lachaud   Bastien,0,1
+Essayan   Nadia,Testé   Stéphane,0,1
+Essayan   Nadia,Da Silva   Dominique,1,1
+Essayan   Nadia,Manin   Josette,0,1
+Essayan   Nadia,Dumas   Frédérique,1,1
+Essayan   Nadia,Charrière   Sylvie,0,1
+Essayan   Nadia,Rubin   Sabine,0,1
+Essayan   Nadia,Ramadier   Alain,1,1
+Essayan   Nadia,Brugnera   Anne,1,1
+Essayan   Nadia,Le Gendre   Gilles,1,1
+Essayan   Nadia,Fauvergue   Jean-Michel,1,1
+Essayan   Nadia,Michel-Kleisbauer   Philippe,1,1
+Essayan   Nadia,Calvez   Céline,0,1
+Essayan   Nadia,Piron   Béatrice,1,1
+Essayan   Nadia,Faucillon   Elsa,0,1
+Essayan   Nadia,Obono   Danièle,0,1
+Essayan   Nadia,Granjus   Florence,1,1
+Essayan   Nadia,Provendier   Florence,0,1
+Essayan   Nadia,de Courson   Charles,1,1
+Charvier   Fannette,Kerlogot   Yannick,0,1
+Charvier   Fannette,Kasbarian   Guillaume,1,1
+Charvier   Fannette,Ménard   Emmanuelle,1,1
+Charvier   Fannette,Mette   Sophie,1,1
+Charvier   Fannette,Chalumeau   Philippe,1,1
+Charvier   Fannette,Colboc   Fabienne,0,1
+Charvier   Fannette,Freschi   Alexandre,1,1
+Charvier   Fannette,Thill   Agnès,1,1
+Charvier   Fannette,Potterie   Benoit,1,1
+Charvier   Fannette,Minot   Maxime,1,1
+Charvier   Fannette,Descamps   Béatrice,1,1
+Charvier   Fannette,Studer   Bruno,1,1
+Charvier   Fannette,Lachaud   Bastien,0,1
+Charvier   Fannette,Testé   Stéphane,0,1
+Charvier   Fannette,Da Silva   Dominique,1,1
+Charvier   Fannette,Manin   Josette,0,1
+Charvier   Fannette,Dumas   Frédérique,1,1
+Charvier   Fannette,Charrière   Sylvie,0,1
+Charvier   Fannette,Rubin   Sabine,0,1
+Charvier   Fannette,Ramadier   Alain,1,1
+Charvier   Fannette,Brugnera   Anne,1,1
+Charvier   Fannette,Le Gendre   Gilles,1,1
+Charvier   Fannette,Fauvergue   Jean-Michel,1,1
+Charvier   Fannette,Michel-Kleisbauer   Philippe,1,1
+Charvier   Fannette,Calvez   Céline,0,1
+Charvier   Fannette,Piron   Béatrice,1,1
+Charvier   Fannette,Faucillon   Elsa,0,1
+Charvier   Fannette,Obono   Danièle,0,1
+Charvier   Fannette,Granjus   Florence,1,1
+Charvier   Fannette,Provendier   Florence,0,1
+Charvier   Fannette,de Courson   Charles,1,1
+Kerlogot   Yannick,Kasbarian   Guillaume,0,1
+Kerlogot   Yannick,Ménard   Emmanuelle,0,1
+Kerlogot   Yannick,Mette   Sophie,0,1
+Kerlogot   Yannick,Chalumeau   Philippe,0,1
+Kerlogot   Yannick,Colboc   Fabienne,1,1
+Kerlogot   Yannick,Freschi   Alexandre,0,1
+Kerlogot   Yannick,Thill   Agnès,0,1
+Kerlogot   Yannick,Potterie   Benoit,0,1
+Kerlogot   Yannick,Minot   Maxime,0,1
+Kerlogot   Yannick,Descamps   Béatrice,0,1
+Kerlogot   Yannick,Studer   Bruno,0,1
+Kerlogot   Yannick,Lachaud   Bastien,0,1
+Kerlogot   Yannick,Testé   Stéphane,0,1
+Kerlogot   Yannick,Da Silva   Dominique,0,1
+Kerlogot   Yannick,Manin   Josette,0,1
+Kerlogot   Yannick,Dumas   Frédérique,0,1
+Kerlogot   Yannick,Charrière   Sylvie,1,1
+Kerlogot   Yannick,Rubin   Sabine,0,1
+Kerlogot   Yannick,Ramadier   Alain,0,1
+Kerlogot   Yannick,Brugnera   Anne,0,1
+Kerlogot   Yannick,Le Gendre   Gilles,0,1
+Kerlogot   Yannick,Fauvergue   Jean-Michel,0,1
+Kerlogot   Yannick,Michel-Kleisbauer   Philippe,0,1
+Kerlogot   Yannick,Calvez   Céline,1,1
+Kerlogot   Yannick,Piron   Béatrice,0,1
+Kerlogot   Yannick,Faucillon   Elsa,0,1
+Kerlogot   Yannick,Obono   Danièle,0,1
+Kerlogot   Yannick,Granjus   Florence,0,1
+Kerlogot   Yannick,Provendier   Florence,1,1
+Kerlogot   Yannick,de Courson   Charles,0,1
+Kasbarian   Guillaume,Ménard   Emmanuelle,1,1
+Kasbarian   Guillaume,Mette   Sophie,1,1
+Kasbarian   Guillaume,Chalumeau   Philippe,1,1
+Kasbarian   Guillaume,Colboc   Fabienne,0,1
+Kasbarian   Guillaume,Freschi   Alexandre,1,1
+Kasbarian   Guillaume,Thill   Agnès,1,1
+Kasbarian   Guillaume,Potterie   Benoit,1,1
+Kasbarian   Guillaume,Minot   Maxime,1,1
+Kasbarian   Guillaume,Descamps   Béatrice,1,1
+Kasbarian   Guillaume,Studer   Bruno,1,1
+Kasbarian   Guillaume,Lachaud   Bastien,0,1
+Kasbarian   Guillaume,Testé   Stéphane,0,1
+Kasbarian   Guillaume,Da Silva   Dominique,1,1
+Kasbarian   Guillaume,Manin   Josette,0,1
+Kasbarian   Guillaume,Dumas   Frédérique,1,1
+Kasbarian   Guillaume,Charrière   Sylvie,0,1
+Kasbarian   Guillaume,Rubin   Sabine,0,1
+Kasbarian   Guillaume,Ramadier   Alain,1,1
+Kasbarian   Guillaume,Brugnera   Anne,1,1
+Kasbarian   Guillaume,Le Gendre   Gilles,1,1
+Kasbarian   Guillaume,Fauvergue   Jean-Michel,1,1
+Kasbarian   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Kasbarian   Guillaume,Calvez   Céline,0,1
+Kasbarian   Guillaume,Piron   Béatrice,1,1
+Kasbarian   Guillaume,Faucillon   Elsa,0,1
+Kasbarian   Guillaume,Obono   Danièle,0,1
+Kasbarian   Guillaume,Granjus   Florence,1,1
+Kasbarian   Guillaume,Provendier   Florence,0,1
+Kasbarian   Guillaume,de Courson   Charles,1,1
+Ménard   Emmanuelle,Mette   Sophie,1,1
+Ménard   Emmanuelle,Chalumeau   Philippe,1,1
+Ménard   Emmanuelle,Colboc   Fabienne,0,1
+Ménard   Emmanuelle,Freschi   Alexandre,1,1
+Ménard   Emmanuelle,Thill   Agnès,1,1
+Ménard   Emmanuelle,Potterie   Benoit,1,1
+Ménard   Emmanuelle,Minot   Maxime,1,1
+Ménard   Emmanuelle,Descamps   Béatrice,1,1
+Ménard   Emmanuelle,Studer   Bruno,1,1
+Ménard   Emmanuelle,Lachaud   Bastien,0,1
+Ménard   Emmanuelle,Testé   Stéphane,0,1
+Ménard   Emmanuelle,Da Silva   Dominique,1,1
+Ménard   Emmanuelle,Manin   Josette,0,1
+Ménard   Emmanuelle,Dumas   Frédérique,1,1
+Ménard   Emmanuelle,Charrière   Sylvie,0,1
+Ménard   Emmanuelle,Rubin   Sabine,0,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Brugnera   Anne,1,1
+Ménard   Emmanuelle,Le Gendre   Gilles,1,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,1,1
+Ménard   Emmanuelle,Michel-Kleisbauer   Philippe,1,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Piron   Béatrice,1,1
+Ménard   Emmanuelle,Faucillon   Elsa,0,1
+Ménard   Emmanuelle,Obono   Danièle,0,1
+Ménard   Emmanuelle,Granjus   Florence,1,1
+Ménard   Emmanuelle,Provendier   Florence,0,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+Mette   Sophie,Chalumeau   Philippe,1,1
+Mette   Sophie,Colboc   Fabienne,0,1
+Mette   Sophie,Freschi   Alexandre,1,1
+Mette   Sophie,Thill   Agnès,1,1
+Mette   Sophie,Potterie   Benoit,1,1
+Mette   Sophie,Minot   Maxime,1,1
+Mette   Sophie,Descamps   Béatrice,1,1
+Mette   Sophie,Studer   Bruno,1,1
+Mette   Sophie,Lachaud   Bastien,0,1
+Mette   Sophie,Testé   Stéphane,0,1
+Mette   Sophie,Da Silva   Dominique,1,1
+Mette   Sophie,Manin   Josette,0,1
+Mette   Sophie,Dumas   Frédérique,1,1
+Mette   Sophie,Charrière   Sylvie,0,1
+Mette   Sophie,Rubin   Sabine,0,1
+Mette   Sophie,Ramadier   Alain,1,1
+Mette   Sophie,Brugnera   Anne,1,1
+Mette   Sophie,Le Gendre   Gilles,1,1
+Mette   Sophie,Fauvergue   Jean-Michel,1,1
+Mette   Sophie,Michel-Kleisbauer   Philippe,1,1
+Mette   Sophie,Calvez   Céline,0,1
+Mette   Sophie,Piron   Béatrice,1,1
+Mette   Sophie,Faucillon   Elsa,0,1
+Mette   Sophie,Obono   Danièle,0,1
+Mette   Sophie,Granjus   Florence,1,1
+Mette   Sophie,Provendier   Florence,0,1
+Mette   Sophie,de Courson   Charles,1,1
+Chalumeau   Philippe,Colboc   Fabienne,0,1
+Chalumeau   Philippe,Freschi   Alexandre,1,1
+Chalumeau   Philippe,Thill   Agnès,1,1
+Chalumeau   Philippe,Potterie   Benoit,1,1
+Chalumeau   Philippe,Minot   Maxime,1,1
+Chalumeau   Philippe,Descamps   Béatrice,1,1
+Chalumeau   Philippe,Studer   Bruno,1,1
+Chalumeau   Philippe,Lachaud   Bastien,0,1
+Chalumeau   Philippe,Testé   Stéphane,0,1
+Chalumeau   Philippe,Da Silva   Dominique,1,1
+Chalumeau   Philippe,Manin   Josette,0,1
+Chalumeau   Philippe,Dumas   Frédérique,1,1
+Chalumeau   Philippe,Charrière   Sylvie,0,1
+Chalumeau   Philippe,Rubin   Sabine,0,1
+Chalumeau   Philippe,Ramadier   Alain,1,1
+Chalumeau   Philippe,Brugnera   Anne,1,1
+Chalumeau   Philippe,Le Gendre   Gilles,1,1
+Chalumeau   Philippe,Fauvergue   Jean-Michel,1,1
+Chalumeau   Philippe,Michel-Kleisbauer   Philippe,1,1
+Chalumeau   Philippe,Calvez   Céline,0,1
+Chalumeau   Philippe,Piron   Béatrice,1,1
+Chalumeau   Philippe,Faucillon   Elsa,0,1
+Chalumeau   Philippe,Obono   Danièle,0,1
+Chalumeau   Philippe,Granjus   Florence,1,1
+Chalumeau   Philippe,Provendier   Florence,0,1
+Chalumeau   Philippe,de Courson   Charles,1,1
+Colboc   Fabienne,Freschi   Alexandre,0,1
+Colboc   Fabienne,Thill   Agnès,0,1
+Colboc   Fabienne,Potterie   Benoit,0,1
+Colboc   Fabienne,Minot   Maxime,0,1
+Colboc   Fabienne,Descamps   Béatrice,0,1
+Colboc   Fabienne,Studer   Bruno,0,1
+Colboc   Fabienne,Lachaud   Bastien,0,1
+Colboc   Fabienne,Testé   Stéphane,0,1
+Colboc   Fabienne,Da Silva   Dominique,0,1
+Colboc   Fabienne,Manin   Josette,0,1
+Colboc   Fabienne,Dumas   Frédérique,0,1
+Colboc   Fabienne,Charrière   Sylvie,1,1
+Colboc   Fabienne,Rubin   Sabine,0,1
+Colboc   Fabienne,Ramadier   Alain,0,1
+Colboc   Fabienne,Brugnera   Anne,0,1
+Colboc   Fabienne,Le Gendre   Gilles,0,1
+Colboc   Fabienne,Fauvergue   Jean-Michel,0,1
+Colboc   Fabienne,Michel-Kleisbauer   Philippe,0,1
+Colboc   Fabienne,Calvez   Céline,1,1
+Colboc   Fabienne,Piron   Béatrice,0,1
+Colboc   Fabienne,Faucillon   Elsa,0,1
+Colboc   Fabienne,Obono   Danièle,0,1
+Colboc   Fabienne,Granjus   Florence,0,1
+Colboc   Fabienne,Provendier   Florence,1,1
+Colboc   Fabienne,de Courson   Charles,0,1
+Freschi   Alexandre,Thill   Agnès,1,1
+Freschi   Alexandre,Potterie   Benoit,1,1
+Freschi   Alexandre,Minot   Maxime,1,1
+Freschi   Alexandre,Descamps   Béatrice,1,1
+Freschi   Alexandre,Studer   Bruno,1,1
+Freschi   Alexandre,Lachaud   Bastien,0,1
+Freschi   Alexandre,Testé   Stéphane,0,1
+Freschi   Alexandre,Da Silva   Dominique,1,1
+Freschi   Alexandre,Manin   Josette,0,1
+Freschi   Alexandre,Dumas   Frédérique,1,1
+Freschi   Alexandre,Charrière   Sylvie,0,1
+Freschi   Alexandre,Rubin   Sabine,0,1
+Freschi   Alexandre,Ramadier   Alain,1,1
+Freschi   Alexandre,Brugnera   Anne,1,1
+Freschi   Alexandre,Le Gendre   Gilles,1,1
+Freschi   Alexandre,Fauvergue   Jean-Michel,1,1
+Freschi   Alexandre,Michel-Kleisbauer   Philippe,1,1
+Freschi   Alexandre,Calvez   Céline,0,1
+Freschi   Alexandre,Piron   Béatrice,1,1
+Freschi   Alexandre,Faucillon   Elsa,0,1
+Freschi   Alexandre,Obono   Danièle,0,1
+Freschi   Alexandre,Granjus   Florence,1,1
+Freschi   Alexandre,Provendier   Florence,0,1
+Freschi   Alexandre,de Courson   Charles,1,1
+Thill   Agnès,Potterie   Benoit,1,1
+Thill   Agnès,Minot   Maxime,1,1
+Thill   Agnès,Descamps   Béatrice,1,1
+Thill   Agnès,Studer   Bruno,1,1
+Thill   Agnès,Lachaud   Bastien,0,1
+Thill   Agnès,Testé   Stéphane,0,1
+Thill   Agnès,Da Silva   Dominique,1,1
+Thill   Agnès,Manin   Josette,0,1
+Thill   Agnès,Dumas   Frédérique,1,1
+Thill   Agnès,Charrière   Sylvie,0,1
+Thill   Agnès,Rubin   Sabine,0,1
+Thill   Agnès,Ramadier   Alain,1,1
+Thill   Agnès,Brugnera   Anne,1,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Fauvergue   Jean-Michel,1,1
+Thill   Agnès,Michel-Kleisbauer   Philippe,1,1
+Thill   Agnès,Calvez   Céline,0,1
+Thill   Agnès,Piron   Béatrice,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,Obono   Danièle,0,1
+Thill   Agnès,Granjus   Florence,1,1
+Thill   Agnès,Provendier   Florence,0,1
+Thill   Agnès,de Courson   Charles,1,1
+Potterie   Benoit,Minot   Maxime,1,1
+Potterie   Benoit,Descamps   Béatrice,1,1
+Potterie   Benoit,Studer   Bruno,1,1
+Potterie   Benoit,Lachaud   Bastien,0,1
+Potterie   Benoit,Testé   Stéphane,0,1
+Potterie   Benoit,Da Silva   Dominique,1,1
+Potterie   Benoit,Manin   Josette,0,1
+Potterie   Benoit,Dumas   Frédérique,1,1
+Potterie   Benoit,Charrière   Sylvie,0,1
+Potterie   Benoit,Rubin   Sabine,0,1
+Potterie   Benoit,Ramadier   Alain,1,1
+Potterie   Benoit,Brugnera   Anne,1,1
+Potterie   Benoit,Le Gendre   Gilles,1,1
+Potterie   Benoit,Fauvergue   Jean-Michel,1,1
+Potterie   Benoit,Michel-Kleisbauer   Philippe,1,1
+Potterie   Benoit,Calvez   Céline,0,1
+Potterie   Benoit,Piron   Béatrice,1,1
+Potterie   Benoit,Faucillon   Elsa,0,1
+Potterie   Benoit,Obono   Danièle,0,1
+Potterie   Benoit,Granjus   Florence,1,1
+Potterie   Benoit,Provendier   Florence,0,1
+Potterie   Benoit,de Courson   Charles,1,1
+Minot   Maxime,Descamps   Béatrice,1,1
+Minot   Maxime,Studer   Bruno,1,1
+Minot   Maxime,Lachaud   Bastien,0,1
+Minot   Maxime,Testé   Stéphane,0,1
+Minot   Maxime,Da Silva   Dominique,1,1
+Minot   Maxime,Manin   Josette,0,1
+Minot   Maxime,Dumas   Frédérique,1,1
+Minot   Maxime,Charrière   Sylvie,0,1
+Minot   Maxime,Rubin   Sabine,0,1
+Minot   Maxime,Ramadier   Alain,1,1
+Minot   Maxime,Brugnera   Anne,1,1
+Minot   Maxime,Le Gendre   Gilles,1,1
+Minot   Maxime,Fauvergue   Jean-Michel,1,1
+Minot   Maxime,Michel-Kleisbauer   Philippe,1,1
+Minot   Maxime,Calvez   Céline,0,1
+Minot   Maxime,Piron   Béatrice,1,1
+Minot   Maxime,Faucillon   Elsa,0,1
+Minot   Maxime,Obono   Danièle,0,1
+Minot   Maxime,Granjus   Florence,1,1
+Minot   Maxime,Provendier   Florence,0,1
+Minot   Maxime,de Courson   Charles,1,1
+Descamps   Béatrice,Studer   Bruno,1,1
+Descamps   Béatrice,Lachaud   Bastien,0,1
+Descamps   Béatrice,Testé   Stéphane,0,1
+Descamps   Béatrice,Da Silva   Dominique,1,1
+Descamps   Béatrice,Manin   Josette,0,1
+Descamps   Béatrice,Dumas   Frédérique,1,1
+Descamps   Béatrice,Charrière   Sylvie,0,1
+Descamps   Béatrice,Rubin   Sabine,0,1
+Descamps   Béatrice,Ramadier   Alain,1,1
+Descamps   Béatrice,Brugnera   Anne,1,1
+Descamps   Béatrice,Le Gendre   Gilles,1,1
+Descamps   Béatrice,Fauvergue   Jean-Michel,1,1
+Descamps   Béatrice,Michel-Kleisbauer   Philippe,1,1
+Descamps   Béatrice,Calvez   Céline,0,1
+Descamps   Béatrice,Piron   Béatrice,1,1
+Descamps   Béatrice,Faucillon   Elsa,0,1
+Descamps   Béatrice,Obono   Danièle,0,1
+Descamps   Béatrice,Granjus   Florence,1,1
+Descamps   Béatrice,Provendier   Florence,0,1
+Descamps   Béatrice,de Courson   Charles,1,1
+Studer   Bruno,Lachaud   Bastien,0,1
+Studer   Bruno,Testé   Stéphane,0,1
+Studer   Bruno,Da Silva   Dominique,1,1
+Studer   Bruno,Manin   Josette,0,1
+Studer   Bruno,Dumas   Frédérique,1,1
+Studer   Bruno,Charrière   Sylvie,0,1
+Studer   Bruno,Rubin   Sabine,0,1
+Studer   Bruno,Ramadier   Alain,1,1
+Studer   Bruno,Brugnera   Anne,1,1
+Studer   Bruno,Le Gendre   Gilles,1,1
+Studer   Bruno,Fauvergue   Jean-Michel,1,1
+Studer   Bruno,Michel-Kleisbauer   Philippe,1,1
+Studer   Bruno,Calvez   Céline,0,1
+Studer   Bruno,Piron   Béatrice,1,1
+Studer   Bruno,Faucillon   Elsa,0,1
+Studer   Bruno,Obono   Danièle,0,1
+Studer   Bruno,Granjus   Florence,1,1
+Studer   Bruno,Provendier   Florence,0,1
+Studer   Bruno,de Courson   Charles,1,1
+Lachaud   Bastien,Testé   Stéphane,1,1
+Lachaud   Bastien,Da Silva   Dominique,0,1
+Lachaud   Bastien,Manin   Josette,1,1
+Lachaud   Bastien,Dumas   Frédérique,0,1
+Lachaud   Bastien,Charrière   Sylvie,0,1
+Lachaud   Bastien,Rubin   Sabine,1,1
+Lachaud   Bastien,Ramadier   Alain,0,1
+Lachaud   Bastien,Brugnera   Anne,0,1
+Lachaud   Bastien,Le Gendre   Gilles,0,1
+Lachaud   Bastien,Fauvergue   Jean-Michel,0,1
+Lachaud   Bastien,Michel-Kleisbauer   Philippe,0,1
+Lachaud   Bastien,Calvez   Céline,0,1
+Lachaud   Bastien,Piron   Béatrice,0,1
+Lachaud   Bastien,Faucillon   Elsa,1,1
+Lachaud   Bastien,Obono   Danièle,1,1
+Lachaud   Bastien,Granjus   Florence,0,1
+Lachaud   Bastien,Provendier   Florence,0,1
+Lachaud   Bastien,de Courson   Charles,0,1
+Testé   Stéphane,Da Silva   Dominique,0,1
+Testé   Stéphane,Manin   Josette,1,1
+Testé   Stéphane,Dumas   Frédérique,0,1
+Testé   Stéphane,Charrière   Sylvie,0,1
+Testé   Stéphane,Rubin   Sabine,1,1
+Testé   Stéphane,Ramadier   Alain,0,1
+Testé   Stéphane,Brugnera   Anne,0,1
+Testé   Stéphane,Le Gendre   Gilles,0,1
+Testé   Stéphane,Fauvergue   Jean-Michel,0,1
+Testé   Stéphane,Michel-Kleisbauer   Philippe,0,1
+Testé   Stéphane,Calvez   Céline,0,1
+Testé   Stéphane,Piron   Béatrice,0,1
+Testé   Stéphane,Faucillon   Elsa,1,1
+Testé   Stéphane,Obono   Danièle,1,1
+Testé   Stéphane,Granjus   Florence,0,1
+Testé   Stéphane,Provendier   Florence,0,1
+Testé   Stéphane,de Courson   Charles,0,1
+Da Silva   Dominique,Manin   Josette,0,1
+Da Silva   Dominique,Dumas   Frédérique,1,1
+Da Silva   Dominique,Charrière   Sylvie,0,1
+Da Silva   Dominique,Rubin   Sabine,0,1
+Da Silva   Dominique,Ramadier   Alain,1,1
+Da Silva   Dominique,Brugnera   Anne,1,1
+Da Silva   Dominique,Le Gendre   Gilles,1,1
+Da Silva   Dominique,Fauvergue   Jean-Michel,1,1
+Da Silva   Dominique,Michel-Kleisbauer   Philippe,1,1
+Da Silva   Dominique,Calvez   Céline,0,1
+Da Silva   Dominique,Piron   Béatrice,1,1
+Da Silva   Dominique,Faucillon   Elsa,0,1
+Da Silva   Dominique,Obono   Danièle,0,1
+Da Silva   Dominique,Granjus   Florence,1,1
+Da Silva   Dominique,Provendier   Florence,0,1
+Da Silva   Dominique,de Courson   Charles,1,1
+Manin   Josette,Dumas   Frédérique,0,1
+Manin   Josette,Charrière   Sylvie,0,1
+Manin   Josette,Rubin   Sabine,1,1
+Manin   Josette,Ramadier   Alain,0,1
+Manin   Josette,Brugnera   Anne,0,1
+Manin   Josette,Le Gendre   Gilles,0,1
+Manin   Josette,Fauvergue   Jean-Michel,0,1
+Manin   Josette,Michel-Kleisbauer   Philippe,0,1
+Manin   Josette,Calvez   Céline,0,1
+Manin   Josette,Piron   Béatrice,0,1
+Manin   Josette,Faucillon   Elsa,1,1
+Manin   Josette,Obono   Danièle,1,1
+Manin   Josette,Granjus   Florence,0,1
+Manin   Josette,Provendier   Florence,0,1
+Manin   Josette,de Courson   Charles,0,1
+Dumas   Frédérique,Charrière   Sylvie,0,1
+Dumas   Frédérique,Rubin   Sabine,0,1
+Dumas   Frédérique,Ramadier   Alain,1,1
+Dumas   Frédérique,Brugnera   Anne,1,1
+Dumas   Frédérique,Le Gendre   Gilles,1,1
+Dumas   Frédérique,Fauvergue   Jean-Michel,1,1
+Dumas   Frédérique,Michel-Kleisbauer   Philippe,1,1
+Dumas   Frédérique,Calvez   Céline,0,1
+Dumas   Frédérique,Piron   Béatrice,1,1
+Dumas   Frédérique,Faucillon   Elsa,0,1
+Dumas   Frédérique,Obono   Danièle,0,1
+Dumas   Frédérique,Granjus   Florence,1,1
+Dumas   Frédérique,Provendier   Florence,0,1
+Dumas   Frédérique,de Courson   Charles,1,1
+Charrière   Sylvie,Rubin   Sabine,0,1
+Charrière   Sylvie,Ramadier   Alain,0,1
+Charrière   Sylvie,Brugnera   Anne,0,1
+Charrière   Sylvie,Le Gendre   Gilles,0,1
+Charrière   Sylvie,Fauvergue   Jean-Michel,0,1
+Charrière   Sylvie,Michel-Kleisbauer   Philippe,0,1
+Charrière   Sylvie,Calvez   Céline,1,1
+Charrière   Sylvie,Piron   Béatrice,0,1
+Charrière   Sylvie,Faucillon   Elsa,0,1
+Charrière   Sylvie,Obono   Danièle,0,1
+Charrière   Sylvie,Granjus   Florence,0,1
+Charrière   Sylvie,Provendier   Florence,1,1
+Charrière   Sylvie,de Courson   Charles,0,1
+Rubin   Sabine,Ramadier   Alain,0,1
+Rubin   Sabine,Brugnera   Anne,0,1
+Rubin   Sabine,Le Gendre   Gilles,0,1
+Rubin   Sabine,Fauvergue   Jean-Michel,0,1
+Rubin   Sabine,Michel-Kleisbauer   Philippe,0,1
+Rubin   Sabine,Calvez   Céline,0,1
+Rubin   Sabine,Piron   Béatrice,0,1
+Rubin   Sabine,Faucillon   Elsa,1,1
+Rubin   Sabine,Obono   Danièle,1,1
+Rubin   Sabine,Granjus   Florence,0,1
+Rubin   Sabine,Provendier   Florence,0,1
+Rubin   Sabine,de Courson   Charles,0,1
+Ramadier   Alain,Brugnera   Anne,1,1
+Ramadier   Alain,Le Gendre   Gilles,1,1
+Ramadier   Alain,Fauvergue   Jean-Michel,1,1
+Ramadier   Alain,Michel-Kleisbauer   Philippe,1,1
+Ramadier   Alain,Calvez   Céline,0,1
+Ramadier   Alain,Piron   Béatrice,1,1
+Ramadier   Alain,Faucillon   Elsa,0,1
+Ramadier   Alain,Obono   Danièle,0,1
+Ramadier   Alain,Granjus   Florence,1,1
+Ramadier   Alain,Provendier   Florence,0,1
+Ramadier   Alain,de Courson   Charles,1,1
+Brugnera   Anne,Le Gendre   Gilles,1,1
+Brugnera   Anne,Fauvergue   Jean-Michel,1,1
+Brugnera   Anne,Michel-Kleisbauer   Philippe,1,1
+Brugnera   Anne,Calvez   Céline,0,1
+Brugnera   Anne,Piron   Béatrice,1,1
+Brugnera   Anne,Faucillon   Elsa,0,1
+Brugnera   Anne,Obono   Danièle,0,1
+Brugnera   Anne,Granjus   Florence,1,1
+Brugnera   Anne,Provendier   Florence,0,1
+Brugnera   Anne,de Courson   Charles,1,1
+Le Gendre   Gilles,Fauvergue   Jean-Michel,1,1
+Le Gendre   Gilles,Michel-Kleisbauer   Philippe,1,1
+Le Gendre   Gilles,Calvez   Céline,0,1
+Le Gendre   Gilles,Piron   Béatrice,1,1
+Le Gendre   Gilles,Faucillon   Elsa,0,1
+Le Gendre   Gilles,Obono   Danièle,0,1
+Le Gendre   Gilles,Granjus   Florence,1,1
+Le Gendre   Gilles,Provendier   Florence,0,1
+Le Gendre   Gilles,de Courson   Charles,1,1
+Fauvergue   Jean-Michel,Michel-Kleisbauer   Philippe,1,1
+Fauvergue   Jean-Michel,Calvez   Céline,0,1
+Fauvergue   Jean-Michel,Piron   Béatrice,1,1
+Fauvergue   Jean-Michel,Faucillon   Elsa,0,1
+Fauvergue   Jean-Michel,Obono   Danièle,0,1
+Fauvergue   Jean-Michel,Granjus   Florence,1,1
+Fauvergue   Jean-Michel,Provendier   Florence,0,1
+Fauvergue   Jean-Michel,de Courson   Charles,1,1
+Michel-Kleisbauer   Philippe,Calvez   Céline,0,1
+Michel-Kleisbauer   Philippe,Piron   Béatrice,1,1
+Michel-Kleisbauer   Philippe,Faucillon   Elsa,0,1
+Michel-Kleisbauer   Philippe,Obono   Danièle,0,1
+Michel-Kleisbauer   Philippe,Granjus   Florence,1,1
+Michel-Kleisbauer   Philippe,Provendier   Florence,0,1
+Michel-Kleisbauer   Philippe,de Courson   Charles,1,1
+Calvez   Céline,Piron   Béatrice,0,1
+Calvez   Céline,Faucillon   Elsa,0,1
+Calvez   Céline,Obono   Danièle,0,1
+Calvez   Céline,Granjus   Florence,0,1
+Calvez   Céline,Provendier   Florence,1,1
+Calvez   Céline,de Courson   Charles,0,1
+Piron   Béatrice,Faucillon   Elsa,0,1
+Piron   Béatrice,Obono   Danièle,0,1
+Piron   Béatrice,Granjus   Florence,1,1
+Piron   Béatrice,Provendier   Florence,0,1
+Piron   Béatrice,de Courson   Charles,1,1
+Faucillon   Elsa,Obono   Danièle,1,1
+Faucillon   Elsa,Granjus   Florence,0,1
+Faucillon   Elsa,Provendier   Florence,0,1
+Faucillon   Elsa,de Courson   Charles,0,1
+Obono   Danièle,Granjus   Florence,0,1
+Obono   Danièle,Provendier   Florence,0,1
+Obono   Danièle,de Courson   Charles,0,1
+Granjus   Florence,Provendier   Florence,0,1
+Granjus   Florence,de Courson   Charles,1,1
+Provendier   Florence,de Courson   Charles,0,1

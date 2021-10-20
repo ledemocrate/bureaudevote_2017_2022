@@ -1,0 +1,742 @@
+from,to,vote_commun,loi_commun
+Vigier   Philippe,Dalloz   Marie-Christine,1,1
+Vigier   Philippe,Rabault   Valérie,1,1
+Vigier   Philippe,Nilor   Jean-Philippe,0,1
+Vigier   Philippe,Mahjoubi   Mounir,1,1
+Vigier   Philippe,Peyrol   Bénédicte,1,1
+Vigier   Philippe,Le Vigoureux   Fabrice,1,1
+Vigier   Philippe,Jerretie   Christophe,1,1
+Vigier   Philippe,Kerlogot   Yannick,1,1
+Vigier   Philippe,Chassaing   Philippe,1,1
+Vigier   Philippe,Gipson   Séverine,1,1
+Vigier   Philippe,Melchior   Graziella,1,1
+Vigier   Philippe,Cabaré   Pierre,1,1
+Vigier   Philippe,Le Bohec   Gaël,1,1
+Vigier   Philippe,Colas-Roy   Jean-Charles,1,1
+Vigier   Philippe,Motin   Cendra,1,1
+Vigier   Philippe,Brulebois   Danielle,1,1
+Vigier   Philippe,Masséglia   Denis,1,1
+Vigier   Philippe,Magnier   Lise,1,1
+Vigier   Philippe,Jacques   Jean-Michel,1,1
+Vigier   Philippe,Paluszkiewicz   Xavier,1,1
+Vigier   Philippe,Bernalicis   Ugo,0,1
+Vigier   Philippe,Chenu   Sébastien,0,1
+Vigier   Philippe,Osson   Catherine,1,1
+Vigier   Philippe,Goulet   Perrine,1,1
+Vigier   Philippe,Thill   Agnès,1,1
+Vigier   Philippe,Potterie   Benoit,1,1
+Vigier   Philippe,Mattei   Jean-Paul,1,1
+Vigier   Philippe,Sempastous   Jean-Bernard,1,1
+Vigier   Philippe,Genetet   Anne,1,1
+Vigier   Philippe,Cazebonne   Samantha,1,1
+Vigier   Philippe,Corbière   Alexis,0,1
+Vigier   Philippe,Lenne   Marion,1,1
+Vigier   Philippe,Roseren   Xavier,1,1
+Vigier   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Vigier   Philippe,Lemoine   Patricia,1,1
+Vigier   Philippe,Crouzet   Michèle,1,1
+Vigier   Philippe,Jumel   Sébastien,0,1
+Vigier   Philippe,Magne   Marie-Ange,1,1
+Dalloz   Marie-Christine,Rabault   Valérie,1,1
+Dalloz   Marie-Christine,Nilor   Jean-Philippe,0,1
+Dalloz   Marie-Christine,Mahjoubi   Mounir,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Le Vigoureux   Fabrice,1,1
+Dalloz   Marie-Christine,Jerretie   Christophe,1,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,1,1
+Dalloz   Marie-Christine,Chassaing   Philippe,1,1
+Dalloz   Marie-Christine,Gipson   Séverine,1,1
+Dalloz   Marie-Christine,Melchior   Graziella,1,1
+Dalloz   Marie-Christine,Cabaré   Pierre,1,1
+Dalloz   Marie-Christine,Le Bohec   Gaël,1,1
+Dalloz   Marie-Christine,Colas-Roy   Jean-Charles,1,1
+Dalloz   Marie-Christine,Motin   Cendra,1,1
+Dalloz   Marie-Christine,Brulebois   Danielle,1,1
+Dalloz   Marie-Christine,Masséglia   Denis,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Jacques   Jean-Michel,1,1
+Dalloz   Marie-Christine,Paluszkiewicz   Xavier,1,1
+Dalloz   Marie-Christine,Bernalicis   Ugo,0,1
+Dalloz   Marie-Christine,Chenu   Sébastien,0,1
+Dalloz   Marie-Christine,Osson   Catherine,1,1
+Dalloz   Marie-Christine,Goulet   Perrine,1,1
+Dalloz   Marie-Christine,Thill   Agnès,1,1
+Dalloz   Marie-Christine,Potterie   Benoit,1,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,1,1
+Dalloz   Marie-Christine,Sempastous   Jean-Bernard,1,1
+Dalloz   Marie-Christine,Genetet   Anne,1,1
+Dalloz   Marie-Christine,Cazebonne   Samantha,1,1
+Dalloz   Marie-Christine,Corbière   Alexis,0,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Roseren   Xavier,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Dalloz   Marie-Christine,Lemoine   Patricia,1,1
+Dalloz   Marie-Christine,Crouzet   Michèle,1,1
+Dalloz   Marie-Christine,Jumel   Sébastien,0,1
+Dalloz   Marie-Christine,Magne   Marie-Ange,1,1
+Rabault   Valérie,Nilor   Jean-Philippe,0,1
+Rabault   Valérie,Mahjoubi   Mounir,1,1
+Rabault   Valérie,Peyrol   Bénédicte,1,1
+Rabault   Valérie,Le Vigoureux   Fabrice,1,1
+Rabault   Valérie,Jerretie   Christophe,1,1
+Rabault   Valérie,Kerlogot   Yannick,1,1
+Rabault   Valérie,Chassaing   Philippe,1,1
+Rabault   Valérie,Gipson   Séverine,1,1
+Rabault   Valérie,Melchior   Graziella,1,1
+Rabault   Valérie,Cabaré   Pierre,1,1
+Rabault   Valérie,Le Bohec   Gaël,1,1
+Rabault   Valérie,Colas-Roy   Jean-Charles,1,1
+Rabault   Valérie,Motin   Cendra,1,1
+Rabault   Valérie,Brulebois   Danielle,1,1
+Rabault   Valérie,Masséglia   Denis,1,1
+Rabault   Valérie,Magnier   Lise,1,1
+Rabault   Valérie,Jacques   Jean-Michel,1,1
+Rabault   Valérie,Paluszkiewicz   Xavier,1,1
+Rabault   Valérie,Bernalicis   Ugo,0,1
+Rabault   Valérie,Chenu   Sébastien,0,1
+Rabault   Valérie,Osson   Catherine,1,1
+Rabault   Valérie,Goulet   Perrine,1,1
+Rabault   Valérie,Thill   Agnès,1,1
+Rabault   Valérie,Potterie   Benoit,1,1
+Rabault   Valérie,Mattei   Jean-Paul,1,1
+Rabault   Valérie,Sempastous   Jean-Bernard,1,1
+Rabault   Valérie,Genetet   Anne,1,1
+Rabault   Valérie,Cazebonne   Samantha,1,1
+Rabault   Valérie,Corbière   Alexis,0,1
+Rabault   Valérie,Lenne   Marion,1,1
+Rabault   Valérie,Roseren   Xavier,1,1
+Rabault   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Rabault   Valérie,Lemoine   Patricia,1,1
+Rabault   Valérie,Crouzet   Michèle,1,1
+Rabault   Valérie,Jumel   Sébastien,0,1
+Rabault   Valérie,Magne   Marie-Ange,1,1
+Nilor   Jean-Philippe,Mahjoubi   Mounir,0,1
+Nilor   Jean-Philippe,Peyrol   Bénédicte,0,1
+Nilor   Jean-Philippe,Le Vigoureux   Fabrice,0,1
+Nilor   Jean-Philippe,Jerretie   Christophe,0,1
+Nilor   Jean-Philippe,Kerlogot   Yannick,0,1
+Nilor   Jean-Philippe,Chassaing   Philippe,0,1
+Nilor   Jean-Philippe,Gipson   Séverine,0,1
+Nilor   Jean-Philippe,Melchior   Graziella,0,1
+Nilor   Jean-Philippe,Cabaré   Pierre,0,1
+Nilor   Jean-Philippe,Le Bohec   Gaël,0,1
+Nilor   Jean-Philippe,Colas-Roy   Jean-Charles,0,1
+Nilor   Jean-Philippe,Motin   Cendra,0,1
+Nilor   Jean-Philippe,Brulebois   Danielle,0,1
+Nilor   Jean-Philippe,Masséglia   Denis,0,1
+Nilor   Jean-Philippe,Magnier   Lise,0,1
+Nilor   Jean-Philippe,Jacques   Jean-Michel,0,1
+Nilor   Jean-Philippe,Paluszkiewicz   Xavier,0,1
+Nilor   Jean-Philippe,Bernalicis   Ugo,1,1
+Nilor   Jean-Philippe,Chenu   Sébastien,1,1
+Nilor   Jean-Philippe,Osson   Catherine,0,1
+Nilor   Jean-Philippe,Goulet   Perrine,0,1
+Nilor   Jean-Philippe,Thill   Agnès,0,1
+Nilor   Jean-Philippe,Potterie   Benoit,0,1
+Nilor   Jean-Philippe,Mattei   Jean-Paul,0,1
+Nilor   Jean-Philippe,Sempastous   Jean-Bernard,0,1
+Nilor   Jean-Philippe,Genetet   Anne,0,1
+Nilor   Jean-Philippe,Cazebonne   Samantha,0,1
+Nilor   Jean-Philippe,Corbière   Alexis,1,1
+Nilor   Jean-Philippe,Lenne   Marion,0,1
+Nilor   Jean-Philippe,Roseren   Xavier,0,1
+Nilor   Jean-Philippe,Verdier-Jouclas   Marie-Christine,0,1
+Nilor   Jean-Philippe,Lemoine   Patricia,0,1
+Nilor   Jean-Philippe,Crouzet   Michèle,0,1
+Nilor   Jean-Philippe,Jumel   Sébastien,1,1
+Nilor   Jean-Philippe,Magne   Marie-Ange,0,1
+Mahjoubi   Mounir,Peyrol   Bénédicte,1,1
+Mahjoubi   Mounir,Le Vigoureux   Fabrice,1,1
+Mahjoubi   Mounir,Jerretie   Christophe,1,1
+Mahjoubi   Mounir,Kerlogot   Yannick,1,1
+Mahjoubi   Mounir,Chassaing   Philippe,1,1
+Mahjoubi   Mounir,Gipson   Séverine,1,1
+Mahjoubi   Mounir,Melchior   Graziella,1,1
+Mahjoubi   Mounir,Cabaré   Pierre,1,1
+Mahjoubi   Mounir,Le Bohec   Gaël,1,1
+Mahjoubi   Mounir,Colas-Roy   Jean-Charles,1,1
+Mahjoubi   Mounir,Motin   Cendra,1,1
+Mahjoubi   Mounir,Brulebois   Danielle,1,1
+Mahjoubi   Mounir,Masséglia   Denis,1,1
+Mahjoubi   Mounir,Magnier   Lise,1,1
+Mahjoubi   Mounir,Jacques   Jean-Michel,1,1
+Mahjoubi   Mounir,Paluszkiewicz   Xavier,1,1
+Mahjoubi   Mounir,Bernalicis   Ugo,0,1
+Mahjoubi   Mounir,Chenu   Sébastien,0,1
+Mahjoubi   Mounir,Osson   Catherine,1,1
+Mahjoubi   Mounir,Goulet   Perrine,1,1
+Mahjoubi   Mounir,Thill   Agnès,1,1
+Mahjoubi   Mounir,Potterie   Benoit,1,1
+Mahjoubi   Mounir,Mattei   Jean-Paul,1,1
+Mahjoubi   Mounir,Sempastous   Jean-Bernard,1,1
+Mahjoubi   Mounir,Genetet   Anne,1,1
+Mahjoubi   Mounir,Cazebonne   Samantha,1,1
+Mahjoubi   Mounir,Corbière   Alexis,0,1
+Mahjoubi   Mounir,Lenne   Marion,1,1
+Mahjoubi   Mounir,Roseren   Xavier,1,1
+Mahjoubi   Mounir,Verdier-Jouclas   Marie-Christine,1,1
+Mahjoubi   Mounir,Lemoine   Patricia,1,1
+Mahjoubi   Mounir,Crouzet   Michèle,1,1
+Mahjoubi   Mounir,Jumel   Sébastien,0,1
+Mahjoubi   Mounir,Magne   Marie-Ange,1,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Chassaing   Philippe,1,1
+Peyrol   Bénédicte,Gipson   Séverine,1,1
+Peyrol   Bénédicte,Melchior   Graziella,1,1
+Peyrol   Bénédicte,Cabaré   Pierre,1,1
+Peyrol   Bénédicte,Le Bohec   Gaël,1,1
+Peyrol   Bénédicte,Colas-Roy   Jean-Charles,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Brulebois   Danielle,1,1
+Peyrol   Bénédicte,Masséglia   Denis,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Jacques   Jean-Michel,1,1
+Peyrol   Bénédicte,Paluszkiewicz   Xavier,1,1
+Peyrol   Bénédicte,Bernalicis   Ugo,0,1
+Peyrol   Bénédicte,Chenu   Sébastien,0,1
+Peyrol   Bénédicte,Osson   Catherine,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Thill   Agnès,1,1
+Peyrol   Bénédicte,Potterie   Benoit,1,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,1,1
+Peyrol   Bénédicte,Sempastous   Jean-Bernard,1,1
+Peyrol   Bénédicte,Genetet   Anne,1,1
+Peyrol   Bénédicte,Cazebonne   Samantha,1,1
+Peyrol   Bénédicte,Corbière   Alexis,0,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Roseren   Xavier,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Lemoine   Patricia,1,1
+Peyrol   Bénédicte,Crouzet   Michèle,1,1
+Peyrol   Bénédicte,Jumel   Sébastien,0,1
+Peyrol   Bénédicte,Magne   Marie-Ange,1,1
+Le Vigoureux   Fabrice,Jerretie   Christophe,1,1
+Le Vigoureux   Fabrice,Kerlogot   Yannick,1,1
+Le Vigoureux   Fabrice,Chassaing   Philippe,1,1
+Le Vigoureux   Fabrice,Gipson   Séverine,1,1
+Le Vigoureux   Fabrice,Melchior   Graziella,1,1
+Le Vigoureux   Fabrice,Cabaré   Pierre,1,1
+Le Vigoureux   Fabrice,Le Bohec   Gaël,1,1
+Le Vigoureux   Fabrice,Colas-Roy   Jean-Charles,1,1
+Le Vigoureux   Fabrice,Motin   Cendra,1,1
+Le Vigoureux   Fabrice,Brulebois   Danielle,1,1
+Le Vigoureux   Fabrice,Masséglia   Denis,1,1
+Le Vigoureux   Fabrice,Magnier   Lise,1,1
+Le Vigoureux   Fabrice,Jacques   Jean-Michel,1,1
+Le Vigoureux   Fabrice,Paluszkiewicz   Xavier,1,1
+Le Vigoureux   Fabrice,Bernalicis   Ugo,0,1
+Le Vigoureux   Fabrice,Chenu   Sébastien,0,1
+Le Vigoureux   Fabrice,Osson   Catherine,1,1
+Le Vigoureux   Fabrice,Goulet   Perrine,1,1
+Le Vigoureux   Fabrice,Thill   Agnès,1,1
+Le Vigoureux   Fabrice,Potterie   Benoit,1,1
+Le Vigoureux   Fabrice,Mattei   Jean-Paul,1,1
+Le Vigoureux   Fabrice,Sempastous   Jean-Bernard,1,1
+Le Vigoureux   Fabrice,Genetet   Anne,1,1
+Le Vigoureux   Fabrice,Cazebonne   Samantha,1,1
+Le Vigoureux   Fabrice,Corbière   Alexis,0,1
+Le Vigoureux   Fabrice,Lenne   Marion,1,1
+Le Vigoureux   Fabrice,Roseren   Xavier,1,1
+Le Vigoureux   Fabrice,Verdier-Jouclas   Marie-Christine,1,1
+Le Vigoureux   Fabrice,Lemoine   Patricia,1,1
+Le Vigoureux   Fabrice,Crouzet   Michèle,1,1
+Le Vigoureux   Fabrice,Jumel   Sébastien,0,1
+Le Vigoureux   Fabrice,Magne   Marie-Ange,1,1
+Jerretie   Christophe,Kerlogot   Yannick,1,1
+Jerretie   Christophe,Chassaing   Philippe,1,1
+Jerretie   Christophe,Gipson   Séverine,1,1
+Jerretie   Christophe,Melchior   Graziella,1,1
+Jerretie   Christophe,Cabaré   Pierre,1,1
+Jerretie   Christophe,Le Bohec   Gaël,1,1
+Jerretie   Christophe,Colas-Roy   Jean-Charles,1,1
+Jerretie   Christophe,Motin   Cendra,1,1
+Jerretie   Christophe,Brulebois   Danielle,1,1
+Jerretie   Christophe,Masséglia   Denis,1,1
+Jerretie   Christophe,Magnier   Lise,1,1
+Jerretie   Christophe,Jacques   Jean-Michel,1,1
+Jerretie   Christophe,Paluszkiewicz   Xavier,1,1
+Jerretie   Christophe,Bernalicis   Ugo,0,1
+Jerretie   Christophe,Chenu   Sébastien,0,1
+Jerretie   Christophe,Osson   Catherine,1,1
+Jerretie   Christophe,Goulet   Perrine,1,1
+Jerretie   Christophe,Thill   Agnès,1,1
+Jerretie   Christophe,Potterie   Benoit,1,1
+Jerretie   Christophe,Mattei   Jean-Paul,1,1
+Jerretie   Christophe,Sempastous   Jean-Bernard,1,1
+Jerretie   Christophe,Genetet   Anne,1,1
+Jerretie   Christophe,Cazebonne   Samantha,1,1
+Jerretie   Christophe,Corbière   Alexis,0,1
+Jerretie   Christophe,Lenne   Marion,1,1
+Jerretie   Christophe,Roseren   Xavier,1,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Lemoine   Patricia,1,1
+Jerretie   Christophe,Crouzet   Michèle,1,1
+Jerretie   Christophe,Jumel   Sébastien,0,1
+Jerretie   Christophe,Magne   Marie-Ange,1,1
+Kerlogot   Yannick,Chassaing   Philippe,1,1
+Kerlogot   Yannick,Gipson   Séverine,1,1
+Kerlogot   Yannick,Melchior   Graziella,1,1
+Kerlogot   Yannick,Cabaré   Pierre,1,1
+Kerlogot   Yannick,Le Bohec   Gaël,1,1
+Kerlogot   Yannick,Colas-Roy   Jean-Charles,1,1
+Kerlogot   Yannick,Motin   Cendra,1,1
+Kerlogot   Yannick,Brulebois   Danielle,1,1
+Kerlogot   Yannick,Masséglia   Denis,1,1
+Kerlogot   Yannick,Magnier   Lise,1,1
+Kerlogot   Yannick,Jacques   Jean-Michel,1,1
+Kerlogot   Yannick,Paluszkiewicz   Xavier,1,1
+Kerlogot   Yannick,Bernalicis   Ugo,0,1
+Kerlogot   Yannick,Chenu   Sébastien,0,1
+Kerlogot   Yannick,Osson   Catherine,1,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Thill   Agnès,1,1
+Kerlogot   Yannick,Potterie   Benoit,1,1
+Kerlogot   Yannick,Mattei   Jean-Paul,1,1
+Kerlogot   Yannick,Sempastous   Jean-Bernard,1,1
+Kerlogot   Yannick,Genetet   Anne,1,1
+Kerlogot   Yannick,Cazebonne   Samantha,1,1
+Kerlogot   Yannick,Corbière   Alexis,0,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Roseren   Xavier,1,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Lemoine   Patricia,1,1
+Kerlogot   Yannick,Crouzet   Michèle,1,1
+Kerlogot   Yannick,Jumel   Sébastien,0,1
+Kerlogot   Yannick,Magne   Marie-Ange,1,1
+Chassaing   Philippe,Gipson   Séverine,1,1
+Chassaing   Philippe,Melchior   Graziella,1,1
+Chassaing   Philippe,Cabaré   Pierre,1,1
+Chassaing   Philippe,Le Bohec   Gaël,1,1
+Chassaing   Philippe,Colas-Roy   Jean-Charles,1,1
+Chassaing   Philippe,Motin   Cendra,1,1
+Chassaing   Philippe,Brulebois   Danielle,1,1
+Chassaing   Philippe,Masséglia   Denis,1,1
+Chassaing   Philippe,Magnier   Lise,1,1
+Chassaing   Philippe,Jacques   Jean-Michel,1,1
+Chassaing   Philippe,Paluszkiewicz   Xavier,1,1
+Chassaing   Philippe,Bernalicis   Ugo,0,1
+Chassaing   Philippe,Chenu   Sébastien,0,1
+Chassaing   Philippe,Osson   Catherine,1,1
+Chassaing   Philippe,Goulet   Perrine,1,1
+Chassaing   Philippe,Thill   Agnès,1,1
+Chassaing   Philippe,Potterie   Benoit,1,1
+Chassaing   Philippe,Mattei   Jean-Paul,1,1
+Chassaing   Philippe,Sempastous   Jean-Bernard,1,1
+Chassaing   Philippe,Genetet   Anne,1,1
+Chassaing   Philippe,Cazebonne   Samantha,1,1
+Chassaing   Philippe,Corbière   Alexis,0,1
+Chassaing   Philippe,Lenne   Marion,1,1
+Chassaing   Philippe,Roseren   Xavier,1,1
+Chassaing   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Chassaing   Philippe,Lemoine   Patricia,1,1
+Chassaing   Philippe,Crouzet   Michèle,1,1
+Chassaing   Philippe,Jumel   Sébastien,0,1
+Chassaing   Philippe,Magne   Marie-Ange,1,1
+Gipson   Séverine,Melchior   Graziella,1,1
+Gipson   Séverine,Cabaré   Pierre,1,1
+Gipson   Séverine,Le Bohec   Gaël,1,1
+Gipson   Séverine,Colas-Roy   Jean-Charles,1,1
+Gipson   Séverine,Motin   Cendra,1,1
+Gipson   Séverine,Brulebois   Danielle,1,1
+Gipson   Séverine,Masséglia   Denis,1,1
+Gipson   Séverine,Magnier   Lise,1,1
+Gipson   Séverine,Jacques   Jean-Michel,1,1
+Gipson   Séverine,Paluszkiewicz   Xavier,1,1
+Gipson   Séverine,Bernalicis   Ugo,0,1
+Gipson   Séverine,Chenu   Sébastien,0,1
+Gipson   Séverine,Osson   Catherine,1,1
+Gipson   Séverine,Goulet   Perrine,1,1
+Gipson   Séverine,Thill   Agnès,1,1
+Gipson   Séverine,Potterie   Benoit,1,1
+Gipson   Séverine,Mattei   Jean-Paul,1,1
+Gipson   Séverine,Sempastous   Jean-Bernard,1,1
+Gipson   Séverine,Genetet   Anne,1,1
+Gipson   Séverine,Cazebonne   Samantha,1,1
+Gipson   Séverine,Corbière   Alexis,0,1
+Gipson   Séverine,Lenne   Marion,1,1
+Gipson   Séverine,Roseren   Xavier,1,1
+Gipson   Séverine,Verdier-Jouclas   Marie-Christine,1,1
+Gipson   Séverine,Lemoine   Patricia,1,1
+Gipson   Séverine,Crouzet   Michèle,1,1
+Gipson   Séverine,Jumel   Sébastien,0,1
+Gipson   Séverine,Magne   Marie-Ange,1,1
+Melchior   Graziella,Cabaré   Pierre,1,1
+Melchior   Graziella,Le Bohec   Gaël,1,1
+Melchior   Graziella,Colas-Roy   Jean-Charles,1,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Brulebois   Danielle,1,1
+Melchior   Graziella,Masséglia   Denis,1,1
+Melchior   Graziella,Magnier   Lise,1,1
+Melchior   Graziella,Jacques   Jean-Michel,1,1
+Melchior   Graziella,Paluszkiewicz   Xavier,1,1
+Melchior   Graziella,Bernalicis   Ugo,0,1
+Melchior   Graziella,Chenu   Sébastien,0,1
+Melchior   Graziella,Osson   Catherine,1,1
+Melchior   Graziella,Goulet   Perrine,1,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Potterie   Benoit,1,1
+Melchior   Graziella,Mattei   Jean-Paul,1,1
+Melchior   Graziella,Sempastous   Jean-Bernard,1,1
+Melchior   Graziella,Genetet   Anne,1,1
+Melchior   Graziella,Cazebonne   Samantha,1,1
+Melchior   Graziella,Corbière   Alexis,0,1
+Melchior   Graziella,Lenne   Marion,1,1
+Melchior   Graziella,Roseren   Xavier,1,1
+Melchior   Graziella,Verdier-Jouclas   Marie-Christine,1,1
+Melchior   Graziella,Lemoine   Patricia,1,1
+Melchior   Graziella,Crouzet   Michèle,1,1
+Melchior   Graziella,Jumel   Sébastien,0,1
+Melchior   Graziella,Magne   Marie-Ange,1,1
+Cabaré   Pierre,Le Bohec   Gaël,1,1
+Cabaré   Pierre,Colas-Roy   Jean-Charles,1,1
+Cabaré   Pierre,Motin   Cendra,1,1
+Cabaré   Pierre,Brulebois   Danielle,1,1
+Cabaré   Pierre,Masséglia   Denis,1,1
+Cabaré   Pierre,Magnier   Lise,1,1
+Cabaré   Pierre,Jacques   Jean-Michel,1,1
+Cabaré   Pierre,Paluszkiewicz   Xavier,1,1
+Cabaré   Pierre,Bernalicis   Ugo,0,1
+Cabaré   Pierre,Chenu   Sébastien,0,1
+Cabaré   Pierre,Osson   Catherine,1,1
+Cabaré   Pierre,Goulet   Perrine,1,1
+Cabaré   Pierre,Thill   Agnès,1,1
+Cabaré   Pierre,Potterie   Benoit,1,1
+Cabaré   Pierre,Mattei   Jean-Paul,1,1
+Cabaré   Pierre,Sempastous   Jean-Bernard,1,1
+Cabaré   Pierre,Genetet   Anne,1,1
+Cabaré   Pierre,Cazebonne   Samantha,1,1
+Cabaré   Pierre,Corbière   Alexis,0,1
+Cabaré   Pierre,Lenne   Marion,1,1
+Cabaré   Pierre,Roseren   Xavier,1,1
+Cabaré   Pierre,Verdier-Jouclas   Marie-Christine,1,1
+Cabaré   Pierre,Lemoine   Patricia,1,1
+Cabaré   Pierre,Crouzet   Michèle,1,1
+Cabaré   Pierre,Jumel   Sébastien,0,1
+Cabaré   Pierre,Magne   Marie-Ange,1,1
+Le Bohec   Gaël,Colas-Roy   Jean-Charles,1,1
+Le Bohec   Gaël,Motin   Cendra,1,1
+Le Bohec   Gaël,Brulebois   Danielle,1,1
+Le Bohec   Gaël,Masséglia   Denis,1,1
+Le Bohec   Gaël,Magnier   Lise,1,1
+Le Bohec   Gaël,Jacques   Jean-Michel,1,1
+Le Bohec   Gaël,Paluszkiewicz   Xavier,1,1
+Le Bohec   Gaël,Bernalicis   Ugo,0,1
+Le Bohec   Gaël,Chenu   Sébastien,0,1
+Le Bohec   Gaël,Osson   Catherine,1,1
+Le Bohec   Gaël,Goulet   Perrine,1,1
+Le Bohec   Gaël,Thill   Agnès,1,1
+Le Bohec   Gaël,Potterie   Benoit,1,1
+Le Bohec   Gaël,Mattei   Jean-Paul,1,1
+Le Bohec   Gaël,Sempastous   Jean-Bernard,1,1
+Le Bohec   Gaël,Genetet   Anne,1,1
+Le Bohec   Gaël,Cazebonne   Samantha,1,1
+Le Bohec   Gaël,Corbière   Alexis,0,1
+Le Bohec   Gaël,Lenne   Marion,1,1
+Le Bohec   Gaël,Roseren   Xavier,1,1
+Le Bohec   Gaël,Verdier-Jouclas   Marie-Christine,1,1
+Le Bohec   Gaël,Lemoine   Patricia,1,1
+Le Bohec   Gaël,Crouzet   Michèle,1,1
+Le Bohec   Gaël,Jumel   Sébastien,0,1
+Le Bohec   Gaël,Magne   Marie-Ange,1,1
+Colas-Roy   Jean-Charles,Motin   Cendra,1,1
+Colas-Roy   Jean-Charles,Brulebois   Danielle,1,1
+Colas-Roy   Jean-Charles,Masséglia   Denis,1,1
+Colas-Roy   Jean-Charles,Magnier   Lise,1,1
+Colas-Roy   Jean-Charles,Jacques   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Paluszkiewicz   Xavier,1,1
+Colas-Roy   Jean-Charles,Bernalicis   Ugo,0,1
+Colas-Roy   Jean-Charles,Chenu   Sébastien,0,1
+Colas-Roy   Jean-Charles,Osson   Catherine,1,1
+Colas-Roy   Jean-Charles,Goulet   Perrine,1,1
+Colas-Roy   Jean-Charles,Thill   Agnès,1,1
+Colas-Roy   Jean-Charles,Potterie   Benoit,1,1
+Colas-Roy   Jean-Charles,Mattei   Jean-Paul,1,1
+Colas-Roy   Jean-Charles,Sempastous   Jean-Bernard,1,1
+Colas-Roy   Jean-Charles,Genetet   Anne,1,1
+Colas-Roy   Jean-Charles,Cazebonne   Samantha,1,1
+Colas-Roy   Jean-Charles,Corbière   Alexis,0,1
+Colas-Roy   Jean-Charles,Lenne   Marion,1,1
+Colas-Roy   Jean-Charles,Roseren   Xavier,1,1
+Colas-Roy   Jean-Charles,Verdier-Jouclas   Marie-Christine,1,1
+Colas-Roy   Jean-Charles,Lemoine   Patricia,1,1
+Colas-Roy   Jean-Charles,Crouzet   Michèle,1,1
+Colas-Roy   Jean-Charles,Jumel   Sébastien,0,1
+Colas-Roy   Jean-Charles,Magne   Marie-Ange,1,1
+Motin   Cendra,Brulebois   Danielle,1,1
+Motin   Cendra,Masséglia   Denis,1,1
+Motin   Cendra,Magnier   Lise,1,1
+Motin   Cendra,Jacques   Jean-Michel,1,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Bernalicis   Ugo,0,1
+Motin   Cendra,Chenu   Sébastien,0,1
+Motin   Cendra,Osson   Catherine,1,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Thill   Agnès,1,1
+Motin   Cendra,Potterie   Benoit,1,1
+Motin   Cendra,Mattei   Jean-Paul,1,1
+Motin   Cendra,Sempastous   Jean-Bernard,1,1
+Motin   Cendra,Genetet   Anne,1,1
+Motin   Cendra,Cazebonne   Samantha,1,1
+Motin   Cendra,Corbière   Alexis,0,1
+Motin   Cendra,Lenne   Marion,1,1
+Motin   Cendra,Roseren   Xavier,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Lemoine   Patricia,1,1
+Motin   Cendra,Crouzet   Michèle,1,1
+Motin   Cendra,Jumel   Sébastien,0,1
+Motin   Cendra,Magne   Marie-Ange,1,1
+Brulebois   Danielle,Masséglia   Denis,1,1
+Brulebois   Danielle,Magnier   Lise,1,1
+Brulebois   Danielle,Jacques   Jean-Michel,1,1
+Brulebois   Danielle,Paluszkiewicz   Xavier,1,1
+Brulebois   Danielle,Bernalicis   Ugo,0,1
+Brulebois   Danielle,Chenu   Sébastien,0,1
+Brulebois   Danielle,Osson   Catherine,1,1
+Brulebois   Danielle,Goulet   Perrine,1,1
+Brulebois   Danielle,Thill   Agnès,1,1
+Brulebois   Danielle,Potterie   Benoit,1,1
+Brulebois   Danielle,Mattei   Jean-Paul,1,1
+Brulebois   Danielle,Sempastous   Jean-Bernard,1,1
+Brulebois   Danielle,Genetet   Anne,1,1
+Brulebois   Danielle,Cazebonne   Samantha,1,1
+Brulebois   Danielle,Corbière   Alexis,0,1
+Brulebois   Danielle,Lenne   Marion,1,1
+Brulebois   Danielle,Roseren   Xavier,1,1
+Brulebois   Danielle,Verdier-Jouclas   Marie-Christine,1,1
+Brulebois   Danielle,Lemoine   Patricia,1,1
+Brulebois   Danielle,Crouzet   Michèle,1,1
+Brulebois   Danielle,Jumel   Sébastien,0,1
+Brulebois   Danielle,Magne   Marie-Ange,1,1
+Masséglia   Denis,Magnier   Lise,1,1
+Masséglia   Denis,Jacques   Jean-Michel,1,1
+Masséglia   Denis,Paluszkiewicz   Xavier,1,1
+Masséglia   Denis,Bernalicis   Ugo,0,1
+Masséglia   Denis,Chenu   Sébastien,0,1
+Masséglia   Denis,Osson   Catherine,1,1
+Masséglia   Denis,Goulet   Perrine,1,1
+Masséglia   Denis,Thill   Agnès,1,1
+Masséglia   Denis,Potterie   Benoit,1,1
+Masséglia   Denis,Mattei   Jean-Paul,1,1
+Masséglia   Denis,Sempastous   Jean-Bernard,1,1
+Masséglia   Denis,Genetet   Anne,1,1
+Masséglia   Denis,Cazebonne   Samantha,1,1
+Masséglia   Denis,Corbière   Alexis,0,1
+Masséglia   Denis,Lenne   Marion,1,1
+Masséglia   Denis,Roseren   Xavier,1,1
+Masséglia   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Masséglia   Denis,Lemoine   Patricia,1,1
+Masséglia   Denis,Crouzet   Michèle,1,1
+Masséglia   Denis,Jumel   Sébastien,0,1
+Masséglia   Denis,Magne   Marie-Ange,1,1
+Magnier   Lise,Jacques   Jean-Michel,1,1
+Magnier   Lise,Paluszkiewicz   Xavier,1,1
+Magnier   Lise,Bernalicis   Ugo,0,1
+Magnier   Lise,Chenu   Sébastien,0,1
+Magnier   Lise,Osson   Catherine,1,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Thill   Agnès,1,1
+Magnier   Lise,Potterie   Benoit,1,1
+Magnier   Lise,Mattei   Jean-Paul,1,1
+Magnier   Lise,Sempastous   Jean-Bernard,1,1
+Magnier   Lise,Genetet   Anne,1,1
+Magnier   Lise,Cazebonne   Samantha,1,1
+Magnier   Lise,Corbière   Alexis,0,1
+Magnier   Lise,Lenne   Marion,1,1
+Magnier   Lise,Roseren   Xavier,1,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,1,1
+Magnier   Lise,Lemoine   Patricia,1,1
+Magnier   Lise,Crouzet   Michèle,1,1
+Magnier   Lise,Jumel   Sébastien,0,1
+Magnier   Lise,Magne   Marie-Ange,1,1
+Jacques   Jean-Michel,Paluszkiewicz   Xavier,1,1
+Jacques   Jean-Michel,Bernalicis   Ugo,0,1
+Jacques   Jean-Michel,Chenu   Sébastien,0,1
+Jacques   Jean-Michel,Osson   Catherine,1,1
+Jacques   Jean-Michel,Goulet   Perrine,1,1
+Jacques   Jean-Michel,Thill   Agnès,1,1
+Jacques   Jean-Michel,Potterie   Benoit,1,1
+Jacques   Jean-Michel,Mattei   Jean-Paul,1,1
+Jacques   Jean-Michel,Sempastous   Jean-Bernard,1,1
+Jacques   Jean-Michel,Genetet   Anne,1,1
+Jacques   Jean-Michel,Cazebonne   Samantha,1,1
+Jacques   Jean-Michel,Corbière   Alexis,0,1
+Jacques   Jean-Michel,Lenne   Marion,1,1
+Jacques   Jean-Michel,Roseren   Xavier,1,1
+Jacques   Jean-Michel,Verdier-Jouclas   Marie-Christine,1,1
+Jacques   Jean-Michel,Lemoine   Patricia,1,1
+Jacques   Jean-Michel,Crouzet   Michèle,1,1
+Jacques   Jean-Michel,Jumel   Sébastien,0,1
+Jacques   Jean-Michel,Magne   Marie-Ange,1,1
+Paluszkiewicz   Xavier,Bernalicis   Ugo,0,1
+Paluszkiewicz   Xavier,Chenu   Sébastien,0,1
+Paluszkiewicz   Xavier,Osson   Catherine,1,1
+Paluszkiewicz   Xavier,Goulet   Perrine,1,1
+Paluszkiewicz   Xavier,Thill   Agnès,1,1
+Paluszkiewicz   Xavier,Potterie   Benoit,1,1
+Paluszkiewicz   Xavier,Mattei   Jean-Paul,1,1
+Paluszkiewicz   Xavier,Sempastous   Jean-Bernard,1,1
+Paluszkiewicz   Xavier,Genetet   Anne,1,1
+Paluszkiewicz   Xavier,Cazebonne   Samantha,1,1
+Paluszkiewicz   Xavier,Corbière   Alexis,0,1
+Paluszkiewicz   Xavier,Lenne   Marion,1,1
+Paluszkiewicz   Xavier,Roseren   Xavier,1,1
+Paluszkiewicz   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Paluszkiewicz   Xavier,Lemoine   Patricia,1,1
+Paluszkiewicz   Xavier,Crouzet   Michèle,1,1
+Paluszkiewicz   Xavier,Jumel   Sébastien,0,1
+Paluszkiewicz   Xavier,Magne   Marie-Ange,1,1
+Bernalicis   Ugo,Chenu   Sébastien,1,1
+Bernalicis   Ugo,Osson   Catherine,0,1
+Bernalicis   Ugo,Goulet   Perrine,0,1
+Bernalicis   Ugo,Thill   Agnès,0,1
+Bernalicis   Ugo,Potterie   Benoit,0,1
+Bernalicis   Ugo,Mattei   Jean-Paul,0,1
+Bernalicis   Ugo,Sempastous   Jean-Bernard,0,1
+Bernalicis   Ugo,Genetet   Anne,0,1
+Bernalicis   Ugo,Cazebonne   Samantha,0,1
+Bernalicis   Ugo,Corbière   Alexis,1,1
+Bernalicis   Ugo,Lenne   Marion,0,1
+Bernalicis   Ugo,Roseren   Xavier,0,1
+Bernalicis   Ugo,Verdier-Jouclas   Marie-Christine,0,1
+Bernalicis   Ugo,Lemoine   Patricia,0,1
+Bernalicis   Ugo,Crouzet   Michèle,0,1
+Bernalicis   Ugo,Jumel   Sébastien,1,1
+Bernalicis   Ugo,Magne   Marie-Ange,0,1
+Chenu   Sébastien,Osson   Catherine,0,1
+Chenu   Sébastien,Goulet   Perrine,0,1
+Chenu   Sébastien,Thill   Agnès,0,1
+Chenu   Sébastien,Potterie   Benoit,0,1
+Chenu   Sébastien,Mattei   Jean-Paul,0,1
+Chenu   Sébastien,Sempastous   Jean-Bernard,0,1
+Chenu   Sébastien,Genetet   Anne,0,1
+Chenu   Sébastien,Cazebonne   Samantha,0,1
+Chenu   Sébastien,Corbière   Alexis,1,1
+Chenu   Sébastien,Lenne   Marion,0,1
+Chenu   Sébastien,Roseren   Xavier,0,1
+Chenu   Sébastien,Verdier-Jouclas   Marie-Christine,0,1
+Chenu   Sébastien,Lemoine   Patricia,0,1
+Chenu   Sébastien,Crouzet   Michèle,0,1
+Chenu   Sébastien,Jumel   Sébastien,1,1
+Chenu   Sébastien,Magne   Marie-Ange,0,1
+Osson   Catherine,Goulet   Perrine,1,1
+Osson   Catherine,Thill   Agnès,1,1
+Osson   Catherine,Potterie   Benoit,1,1
+Osson   Catherine,Mattei   Jean-Paul,1,1
+Osson   Catherine,Sempastous   Jean-Bernard,1,1
+Osson   Catherine,Genetet   Anne,1,1
+Osson   Catherine,Cazebonne   Samantha,1,1
+Osson   Catherine,Corbière   Alexis,0,1
+Osson   Catherine,Lenne   Marion,1,1
+Osson   Catherine,Roseren   Xavier,1,1
+Osson   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Osson   Catherine,Lemoine   Patricia,1,1
+Osson   Catherine,Crouzet   Michèle,1,1
+Osson   Catherine,Jumel   Sébastien,0,1
+Osson   Catherine,Magne   Marie-Ange,1,1
+Goulet   Perrine,Thill   Agnès,1,1
+Goulet   Perrine,Potterie   Benoit,1,1
+Goulet   Perrine,Mattei   Jean-Paul,1,1
+Goulet   Perrine,Sempastous   Jean-Bernard,1,1
+Goulet   Perrine,Genetet   Anne,1,1
+Goulet   Perrine,Cazebonne   Samantha,1,1
+Goulet   Perrine,Corbière   Alexis,0,1
+Goulet   Perrine,Lenne   Marion,1,1
+Goulet   Perrine,Roseren   Xavier,1,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Lemoine   Patricia,1,1
+Goulet   Perrine,Crouzet   Michèle,1,1
+Goulet   Perrine,Jumel   Sébastien,0,1
+Goulet   Perrine,Magne   Marie-Ange,1,1
+Thill   Agnès,Potterie   Benoit,1,1
+Thill   Agnès,Mattei   Jean-Paul,1,1
+Thill   Agnès,Sempastous   Jean-Bernard,1,1
+Thill   Agnès,Genetet   Anne,1,1
+Thill   Agnès,Cazebonne   Samantha,1,1
+Thill   Agnès,Corbière   Alexis,0,1
+Thill   Agnès,Lenne   Marion,1,1
+Thill   Agnès,Roseren   Xavier,1,1
+Thill   Agnès,Verdier-Jouclas   Marie-Christine,1,1
+Thill   Agnès,Lemoine   Patricia,1,1
+Thill   Agnès,Crouzet   Michèle,1,1
+Thill   Agnès,Jumel   Sébastien,0,1
+Thill   Agnès,Magne   Marie-Ange,1,1
+Potterie   Benoit,Mattei   Jean-Paul,1,1
+Potterie   Benoit,Sempastous   Jean-Bernard,1,1
+Potterie   Benoit,Genetet   Anne,1,1
+Potterie   Benoit,Cazebonne   Samantha,1,1
+Potterie   Benoit,Corbière   Alexis,0,1
+Potterie   Benoit,Lenne   Marion,1,1
+Potterie   Benoit,Roseren   Xavier,1,1
+Potterie   Benoit,Verdier-Jouclas   Marie-Christine,1,1
+Potterie   Benoit,Lemoine   Patricia,1,1
+Potterie   Benoit,Crouzet   Michèle,1,1
+Potterie   Benoit,Jumel   Sébastien,0,1
+Potterie   Benoit,Magne   Marie-Ange,1,1
+Mattei   Jean-Paul,Sempastous   Jean-Bernard,1,1
+Mattei   Jean-Paul,Genetet   Anne,1,1
+Mattei   Jean-Paul,Cazebonne   Samantha,1,1
+Mattei   Jean-Paul,Corbière   Alexis,0,1
+Mattei   Jean-Paul,Lenne   Marion,1,1
+Mattei   Jean-Paul,Roseren   Xavier,1,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Mattei   Jean-Paul,Lemoine   Patricia,1,1
+Mattei   Jean-Paul,Crouzet   Michèle,1,1
+Mattei   Jean-Paul,Jumel   Sébastien,0,1
+Mattei   Jean-Paul,Magne   Marie-Ange,1,1
+Sempastous   Jean-Bernard,Genetet   Anne,1,1
+Sempastous   Jean-Bernard,Cazebonne   Samantha,1,1
+Sempastous   Jean-Bernard,Corbière   Alexis,0,1
+Sempastous   Jean-Bernard,Lenne   Marion,1,1
+Sempastous   Jean-Bernard,Roseren   Xavier,1,1
+Sempastous   Jean-Bernard,Verdier-Jouclas   Marie-Christine,1,1
+Sempastous   Jean-Bernard,Lemoine   Patricia,1,1
+Sempastous   Jean-Bernard,Crouzet   Michèle,1,1
+Sempastous   Jean-Bernard,Jumel   Sébastien,0,1
+Sempastous   Jean-Bernard,Magne   Marie-Ange,1,1
+Genetet   Anne,Cazebonne   Samantha,1,1
+Genetet   Anne,Corbière   Alexis,0,1
+Genetet   Anne,Lenne   Marion,1,1
+Genetet   Anne,Roseren   Xavier,1,1
+Genetet   Anne,Verdier-Jouclas   Marie-Christine,1,1
+Genetet   Anne,Lemoine   Patricia,1,1
+Genetet   Anne,Crouzet   Michèle,1,1
+Genetet   Anne,Jumel   Sébastien,0,1
+Genetet   Anne,Magne   Marie-Ange,1,1
+Cazebonne   Samantha,Corbière   Alexis,0,1
+Cazebonne   Samantha,Lenne   Marion,1,1
+Cazebonne   Samantha,Roseren   Xavier,1,1
+Cazebonne   Samantha,Verdier-Jouclas   Marie-Christine,1,1
+Cazebonne   Samantha,Lemoine   Patricia,1,1
+Cazebonne   Samantha,Crouzet   Michèle,1,1
+Cazebonne   Samantha,Jumel   Sébastien,0,1
+Cazebonne   Samantha,Magne   Marie-Ange,1,1
+Corbière   Alexis,Lenne   Marion,0,1
+Corbière   Alexis,Roseren   Xavier,0,1
+Corbière   Alexis,Verdier-Jouclas   Marie-Christine,0,1
+Corbière   Alexis,Lemoine   Patricia,0,1
+Corbière   Alexis,Crouzet   Michèle,0,1
+Corbière   Alexis,Jumel   Sébastien,1,1
+Corbière   Alexis,Magne   Marie-Ange,0,1
+Lenne   Marion,Roseren   Xavier,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Lemoine   Patricia,1,1
+Lenne   Marion,Crouzet   Michèle,1,1
+Lenne   Marion,Jumel   Sébastien,0,1
+Lenne   Marion,Magne   Marie-Ange,1,1
+Roseren   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Roseren   Xavier,Lemoine   Patricia,1,1
+Roseren   Xavier,Crouzet   Michèle,1,1
+Roseren   Xavier,Jumel   Sébastien,0,1
+Roseren   Xavier,Magne   Marie-Ange,1,1
+Verdier-Jouclas   Marie-Christine,Lemoine   Patricia,1,1
+Verdier-Jouclas   Marie-Christine,Crouzet   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Jumel   Sébastien,0,1
+Verdier-Jouclas   Marie-Christine,Magne   Marie-Ange,1,1
+Lemoine   Patricia,Crouzet   Michèle,1,1
+Lemoine   Patricia,Jumel   Sébastien,0,1
+Lemoine   Patricia,Magne   Marie-Ange,1,1
+Crouzet   Michèle,Jumel   Sébastien,0,1
+Crouzet   Michèle,Magne   Marie-Ange,1,1
+Jumel   Sébastien,Magne   Marie-Ange,0,1

@@ -1,0 +1,991 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Iborra   Monique,1,1
+Firmin Le Bodo   Agnès,Pinel   Sylvia,0,1
+Firmin Le Bodo   Agnès,Biémouret   Gisèle,0,1
+Firmin Le Bodo   Agnès,Aviragnet   Joël,0,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,1,1
+Firmin Le Bodo   Agnès,Delatte   Marc,1,1
+Firmin Le Bodo   Agnès,Bagarry   Delphine,1,1
+Firmin Le Bodo   Agnès,Blanchet   Christophe,1,1
+Firmin Le Bodo   Agnès,Charvier   Fannette,1,1
+Firmin Le Bodo   Agnès,Khattabi   Fadila,1,1
+Firmin Le Bodo   Agnès,Melchior   Graziella,1,1
+Firmin Le Bodo   Agnès,Chapelier   Annie,1,1
+Firmin Le Bodo   Agnès,Vignon   Corinne,1,1
+Firmin Le Bodo   Agnès,Toutut-Picard   Élisabeth,1,1
+Firmin Le Bodo   Agnès,Ménard   Emmanuelle,0,1
+Firmin Le Bodo   Agnès,Cloarec-Le Nabour   Christine,1,1
+Firmin Le Bodo   Agnès,Motin   Cendra,1,1
+Firmin Le Bodo   Agnès,Borowczyk   Julien,1,1
+Firmin Le Bodo   Agnès,Rist   Stéphanie,1,1
+Firmin Le Bodo   Agnès,Janvier   Caroline,1,1
+Firmin Le Bodo   Agnès,Fiat   Caroline,0,1
+Firmin Le Bodo   Agnès,Hammouche   Brahim,0,1
+Firmin Le Bodo   Agnès,Belhaddad   Belkhir,1,1
+Firmin Le Bodo   Agnès,Lazaar   Fiona,1,1
+Firmin Le Bodo   Agnès,Benin   Justine,1,1
+Firmin Le Bodo   Agnès,Bassire   Nathalie,0,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,1,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,0,1
+Firmin Le Bodo   Agnès,Gouffier-Cha   Guillaume,1,1
+Firmin Le Bodo   Agnès,Viry   Stéphane,0,1
+Firmin Le Bodo   Agnès,Rupin   Pacôme,0,1
+Firmin Le Bodo   Agnès,Avia   Laetitia,1,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,1,1
+Firmin Le Bodo   Agnès,Mauborgne   Sereine,1,1
+Firmin Le Bodo   Agnès,Florennes   Isabelle,1,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,1,1
+Firmin Le Bodo   Agnès,Obono   Danièle,0,1
+Firmin Le Bodo   Agnès,Romeiro Dias   Laëtitia,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Hennion   Christine,1,1
+Firmin Le Bodo   Agnès,Chiche   Guillaume,1,1
+Firmin Le Bodo   Agnès,Beaudouin-Hubiere   Sophie,1,1
+Firmin Le Bodo   Agnès,Rixain   Marie-Pierre,1,1
+Firmin Le Bodo   Agnès,Cherpion   Gérard,0,1
+Iborra   Monique,Pinel   Sylvia,0,1
+Iborra   Monique,Biémouret   Gisèle,0,1
+Iborra   Monique,Aviragnet   Joël,0,1
+Iborra   Monique,Maillard   Sylvain,1,1
+Iborra   Monique,Delatte   Marc,1,1
+Iborra   Monique,Bagarry   Delphine,1,1
+Iborra   Monique,Blanchet   Christophe,1,1
+Iborra   Monique,Charvier   Fannette,1,1
+Iborra   Monique,Khattabi   Fadila,1,1
+Iborra   Monique,Melchior   Graziella,1,1
+Iborra   Monique,Chapelier   Annie,1,1
+Iborra   Monique,Vignon   Corinne,1,1
+Iborra   Monique,Toutut-Picard   Élisabeth,1,1
+Iborra   Monique,Ménard   Emmanuelle,0,1
+Iborra   Monique,Cloarec-Le Nabour   Christine,1,1
+Iborra   Monique,Motin   Cendra,1,1
+Iborra   Monique,Borowczyk   Julien,1,1
+Iborra   Monique,Rist   Stéphanie,1,1
+Iborra   Monique,Janvier   Caroline,1,1
+Iborra   Monique,Fiat   Caroline,0,1
+Iborra   Monique,Hammouche   Brahim,0,1
+Iborra   Monique,Belhaddad   Belkhir,1,1
+Iborra   Monique,Lazaar   Fiona,1,1
+Iborra   Monique,Benin   Justine,1,1
+Iborra   Monique,Bassire   Nathalie,0,1
+Iborra   Monique,Gaillot   Albane,1,1
+Iborra   Monique,Ramadier   Alain,0,1
+Iborra   Monique,Gouffier-Cha   Guillaume,1,1
+Iborra   Monique,Viry   Stéphane,0,1
+Iborra   Monique,Rupin   Pacôme,0,1
+Iborra   Monique,Avia   Laetitia,1,1
+Iborra   Monique,Peyron   Michèle,1,1
+Iborra   Monique,Mauborgne   Sereine,1,1
+Iborra   Monique,Florennes   Isabelle,1,1
+Iborra   Monique,de Vaucouleurs   Michèle,1,1
+Iborra   Monique,Obono   Danièle,0,1
+Iborra   Monique,Romeiro Dias   Laëtitia,1,1
+Iborra   Monique,Bergé   Aurore,1,1
+Iborra   Monique,Hennion   Christine,1,1
+Iborra   Monique,Chiche   Guillaume,1,1
+Iborra   Monique,Beaudouin-Hubiere   Sophie,1,1
+Iborra   Monique,Rixain   Marie-Pierre,1,1
+Iborra   Monique,Cherpion   Gérard,0,1
+Pinel   Sylvia,Biémouret   Gisèle,1,1
+Pinel   Sylvia,Aviragnet   Joël,1,1
+Pinel   Sylvia,Maillard   Sylvain,0,1
+Pinel   Sylvia,Delatte   Marc,0,1
+Pinel   Sylvia,Bagarry   Delphine,0,1
+Pinel   Sylvia,Blanchet   Christophe,0,1
+Pinel   Sylvia,Charvier   Fannette,0,1
+Pinel   Sylvia,Khattabi   Fadila,0,1
+Pinel   Sylvia,Melchior   Graziella,0,1
+Pinel   Sylvia,Chapelier   Annie,0,1
+Pinel   Sylvia,Vignon   Corinne,0,1
+Pinel   Sylvia,Toutut-Picard   Élisabeth,0,1
+Pinel   Sylvia,Ménard   Emmanuelle,1,1
+Pinel   Sylvia,Cloarec-Le Nabour   Christine,0,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Borowczyk   Julien,0,1
+Pinel   Sylvia,Rist   Stéphanie,0,1
+Pinel   Sylvia,Janvier   Caroline,0,1
+Pinel   Sylvia,Fiat   Caroline,0,1
+Pinel   Sylvia,Hammouche   Brahim,1,1
+Pinel   Sylvia,Belhaddad   Belkhir,0,1
+Pinel   Sylvia,Lazaar   Fiona,0,1
+Pinel   Sylvia,Benin   Justine,0,1
+Pinel   Sylvia,Bassire   Nathalie,1,1
+Pinel   Sylvia,Gaillot   Albane,0,1
+Pinel   Sylvia,Ramadier   Alain,1,1
+Pinel   Sylvia,Gouffier-Cha   Guillaume,0,1
+Pinel   Sylvia,Viry   Stéphane,1,1
+Pinel   Sylvia,Rupin   Pacôme,1,1
+Pinel   Sylvia,Avia   Laetitia,0,1
+Pinel   Sylvia,Peyron   Michèle,0,1
+Pinel   Sylvia,Mauborgne   Sereine,0,1
+Pinel   Sylvia,Florennes   Isabelle,0,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,0,1
+Pinel   Sylvia,Obono   Danièle,0,1
+Pinel   Sylvia,Romeiro Dias   Laëtitia,0,1
+Pinel   Sylvia,Bergé   Aurore,0,1
+Pinel   Sylvia,Hennion   Christine,0,1
+Pinel   Sylvia,Chiche   Guillaume,0,1
+Pinel   Sylvia,Beaudouin-Hubiere   Sophie,0,1
+Pinel   Sylvia,Rixain   Marie-Pierre,0,1
+Pinel   Sylvia,Cherpion   Gérard,1,1
+Biémouret   Gisèle,Aviragnet   Joël,1,1
+Biémouret   Gisèle,Maillard   Sylvain,0,1
+Biémouret   Gisèle,Delatte   Marc,0,1
+Biémouret   Gisèle,Bagarry   Delphine,0,1
+Biémouret   Gisèle,Blanchet   Christophe,0,1
+Biémouret   Gisèle,Charvier   Fannette,0,1
+Biémouret   Gisèle,Khattabi   Fadila,0,1
+Biémouret   Gisèle,Melchior   Graziella,0,1
+Biémouret   Gisèle,Chapelier   Annie,0,1
+Biémouret   Gisèle,Vignon   Corinne,0,1
+Biémouret   Gisèle,Toutut-Picard   Élisabeth,0,1
+Biémouret   Gisèle,Ménard   Emmanuelle,1,1
+Biémouret   Gisèle,Cloarec-Le Nabour   Christine,0,1
+Biémouret   Gisèle,Motin   Cendra,0,1
+Biémouret   Gisèle,Borowczyk   Julien,0,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Janvier   Caroline,0,1
+Biémouret   Gisèle,Fiat   Caroline,0,1
+Biémouret   Gisèle,Hammouche   Brahim,1,1
+Biémouret   Gisèle,Belhaddad   Belkhir,0,1
+Biémouret   Gisèle,Lazaar   Fiona,0,1
+Biémouret   Gisèle,Benin   Justine,0,1
+Biémouret   Gisèle,Bassire   Nathalie,1,1
+Biémouret   Gisèle,Gaillot   Albane,0,1
+Biémouret   Gisèle,Ramadier   Alain,1,1
+Biémouret   Gisèle,Gouffier-Cha   Guillaume,0,1
+Biémouret   Gisèle,Viry   Stéphane,1,1
+Biémouret   Gisèle,Rupin   Pacôme,1,1
+Biémouret   Gisèle,Avia   Laetitia,0,1
+Biémouret   Gisèle,Peyron   Michèle,0,1
+Biémouret   Gisèle,Mauborgne   Sereine,0,1
+Biémouret   Gisèle,Florennes   Isabelle,0,1
+Biémouret   Gisèle,de Vaucouleurs   Michèle,0,1
+Biémouret   Gisèle,Obono   Danièle,0,1
+Biémouret   Gisèle,Romeiro Dias   Laëtitia,0,1
+Biémouret   Gisèle,Bergé   Aurore,0,1
+Biémouret   Gisèle,Hennion   Christine,0,1
+Biémouret   Gisèle,Chiche   Guillaume,0,1
+Biémouret   Gisèle,Beaudouin-Hubiere   Sophie,0,1
+Biémouret   Gisèle,Rixain   Marie-Pierre,0,1
+Biémouret   Gisèle,Cherpion   Gérard,1,1
+Aviragnet   Joël,Maillard   Sylvain,0,1
+Aviragnet   Joël,Delatte   Marc,0,1
+Aviragnet   Joël,Bagarry   Delphine,0,1
+Aviragnet   Joël,Blanchet   Christophe,0,1
+Aviragnet   Joël,Charvier   Fannette,0,1
+Aviragnet   Joël,Khattabi   Fadila,0,1
+Aviragnet   Joël,Melchior   Graziella,0,1
+Aviragnet   Joël,Chapelier   Annie,0,1
+Aviragnet   Joël,Vignon   Corinne,0,1
+Aviragnet   Joël,Toutut-Picard   Élisabeth,0,1
+Aviragnet   Joël,Ménard   Emmanuelle,1,1
+Aviragnet   Joël,Cloarec-Le Nabour   Christine,0,1
+Aviragnet   Joël,Motin   Cendra,0,1
+Aviragnet   Joël,Borowczyk   Julien,0,1
+Aviragnet   Joël,Rist   Stéphanie,0,1
+Aviragnet   Joël,Janvier   Caroline,0,1
+Aviragnet   Joël,Fiat   Caroline,0,1
+Aviragnet   Joël,Hammouche   Brahim,1,1
+Aviragnet   Joël,Belhaddad   Belkhir,0,1
+Aviragnet   Joël,Lazaar   Fiona,0,1
+Aviragnet   Joël,Benin   Justine,0,1
+Aviragnet   Joël,Bassire   Nathalie,1,1
+Aviragnet   Joël,Gaillot   Albane,0,1
+Aviragnet   Joël,Ramadier   Alain,1,1
+Aviragnet   Joël,Gouffier-Cha   Guillaume,0,1
+Aviragnet   Joël,Viry   Stéphane,1,1
+Aviragnet   Joël,Rupin   Pacôme,1,1
+Aviragnet   Joël,Avia   Laetitia,0,1
+Aviragnet   Joël,Peyron   Michèle,0,1
+Aviragnet   Joël,Mauborgne   Sereine,0,1
+Aviragnet   Joël,Florennes   Isabelle,0,1
+Aviragnet   Joël,de Vaucouleurs   Michèle,0,1
+Aviragnet   Joël,Obono   Danièle,0,1
+Aviragnet   Joël,Romeiro Dias   Laëtitia,0,1
+Aviragnet   Joël,Bergé   Aurore,0,1
+Aviragnet   Joël,Hennion   Christine,0,1
+Aviragnet   Joël,Chiche   Guillaume,0,1
+Aviragnet   Joël,Beaudouin-Hubiere   Sophie,0,1
+Aviragnet   Joël,Rixain   Marie-Pierre,0,1
+Aviragnet   Joël,Cherpion   Gérard,1,1
+Maillard   Sylvain,Delatte   Marc,1,1
+Maillard   Sylvain,Bagarry   Delphine,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Charvier   Fannette,1,1
+Maillard   Sylvain,Khattabi   Fadila,1,1
+Maillard   Sylvain,Melchior   Graziella,1,1
+Maillard   Sylvain,Chapelier   Annie,1,1
+Maillard   Sylvain,Vignon   Corinne,1,1
+Maillard   Sylvain,Toutut-Picard   Élisabeth,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Rist   Stéphanie,1,1
+Maillard   Sylvain,Janvier   Caroline,1,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Hammouche   Brahim,0,1
+Maillard   Sylvain,Belhaddad   Belkhir,1,1
+Maillard   Sylvain,Lazaar   Fiona,1,1
+Maillard   Sylvain,Benin   Justine,1,1
+Maillard   Sylvain,Bassire   Nathalie,0,1
+Maillard   Sylvain,Gaillot   Albane,1,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Gouffier-Cha   Guillaume,1,1
+Maillard   Sylvain,Viry   Stéphane,0,1
+Maillard   Sylvain,Rupin   Pacôme,0,1
+Maillard   Sylvain,Avia   Laetitia,1,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Mauborgne   Sereine,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Obono   Danièle,0,1
+Maillard   Sylvain,Romeiro Dias   Laëtitia,1,1
+Maillard   Sylvain,Bergé   Aurore,1,1
+Maillard   Sylvain,Hennion   Christine,1,1
+Maillard   Sylvain,Chiche   Guillaume,1,1
+Maillard   Sylvain,Beaudouin-Hubiere   Sophie,1,1
+Maillard   Sylvain,Rixain   Marie-Pierre,1,1
+Maillard   Sylvain,Cherpion   Gérard,0,1
+Delatte   Marc,Bagarry   Delphine,1,1
+Delatte   Marc,Blanchet   Christophe,1,1
+Delatte   Marc,Charvier   Fannette,1,1
+Delatte   Marc,Khattabi   Fadila,1,1
+Delatte   Marc,Melchior   Graziella,1,1
+Delatte   Marc,Chapelier   Annie,1,1
+Delatte   Marc,Vignon   Corinne,1,1
+Delatte   Marc,Toutut-Picard   Élisabeth,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,Cloarec-Le Nabour   Christine,1,1
+Delatte   Marc,Motin   Cendra,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Rist   Stéphanie,1,1
+Delatte   Marc,Janvier   Caroline,1,1
+Delatte   Marc,Fiat   Caroline,0,1
+Delatte   Marc,Hammouche   Brahim,0,1
+Delatte   Marc,Belhaddad   Belkhir,1,1
+Delatte   Marc,Lazaar   Fiona,1,1
+Delatte   Marc,Benin   Justine,1,1
+Delatte   Marc,Bassire   Nathalie,0,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Ramadier   Alain,0,1
+Delatte   Marc,Gouffier-Cha   Guillaume,1,1
+Delatte   Marc,Viry   Stéphane,0,1
+Delatte   Marc,Rupin   Pacôme,0,1
+Delatte   Marc,Avia   Laetitia,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Mauborgne   Sereine,1,1
+Delatte   Marc,Florennes   Isabelle,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Obono   Danièle,0,1
+Delatte   Marc,Romeiro Dias   Laëtitia,1,1
+Delatte   Marc,Bergé   Aurore,1,1
+Delatte   Marc,Hennion   Christine,1,1
+Delatte   Marc,Chiche   Guillaume,1,1
+Delatte   Marc,Beaudouin-Hubiere   Sophie,1,1
+Delatte   Marc,Rixain   Marie-Pierre,1,1
+Delatte   Marc,Cherpion   Gérard,0,1
+Bagarry   Delphine,Blanchet   Christophe,1,1
+Bagarry   Delphine,Charvier   Fannette,1,1
+Bagarry   Delphine,Khattabi   Fadila,1,1
+Bagarry   Delphine,Melchior   Graziella,1,1
+Bagarry   Delphine,Chapelier   Annie,1,1
+Bagarry   Delphine,Vignon   Corinne,1,1
+Bagarry   Delphine,Toutut-Picard   Élisabeth,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,Cloarec-Le Nabour   Christine,1,1
+Bagarry   Delphine,Motin   Cendra,1,1
+Bagarry   Delphine,Borowczyk   Julien,1,1
+Bagarry   Delphine,Rist   Stéphanie,1,1
+Bagarry   Delphine,Janvier   Caroline,1,1
+Bagarry   Delphine,Fiat   Caroline,0,1
+Bagarry   Delphine,Hammouche   Brahim,0,1
+Bagarry   Delphine,Belhaddad   Belkhir,1,1
+Bagarry   Delphine,Lazaar   Fiona,1,1
+Bagarry   Delphine,Benin   Justine,1,1
+Bagarry   Delphine,Bassire   Nathalie,0,1
+Bagarry   Delphine,Gaillot   Albane,1,1
+Bagarry   Delphine,Ramadier   Alain,0,1
+Bagarry   Delphine,Gouffier-Cha   Guillaume,1,1
+Bagarry   Delphine,Viry   Stéphane,0,1
+Bagarry   Delphine,Rupin   Pacôme,0,1
+Bagarry   Delphine,Avia   Laetitia,1,1
+Bagarry   Delphine,Peyron   Michèle,1,1
+Bagarry   Delphine,Mauborgne   Sereine,1,1
+Bagarry   Delphine,Florennes   Isabelle,1,1
+Bagarry   Delphine,de Vaucouleurs   Michèle,1,1
+Bagarry   Delphine,Obono   Danièle,0,1
+Bagarry   Delphine,Romeiro Dias   Laëtitia,1,1
+Bagarry   Delphine,Bergé   Aurore,1,1
+Bagarry   Delphine,Hennion   Christine,1,1
+Bagarry   Delphine,Chiche   Guillaume,1,1
+Bagarry   Delphine,Beaudouin-Hubiere   Sophie,1,1
+Bagarry   Delphine,Rixain   Marie-Pierre,1,1
+Bagarry   Delphine,Cherpion   Gérard,0,1
+Blanchet   Christophe,Charvier   Fannette,1,1
+Blanchet   Christophe,Khattabi   Fadila,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Chapelier   Annie,1,1
+Blanchet   Christophe,Vignon   Corinne,1,1
+Blanchet   Christophe,Toutut-Picard   Élisabeth,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Rist   Stéphanie,1,1
+Blanchet   Christophe,Janvier   Caroline,1,1
+Blanchet   Christophe,Fiat   Caroline,0,1
+Blanchet   Christophe,Hammouche   Brahim,0,1
+Blanchet   Christophe,Belhaddad   Belkhir,1,1
+Blanchet   Christophe,Lazaar   Fiona,1,1
+Blanchet   Christophe,Benin   Justine,1,1
+Blanchet   Christophe,Bassire   Nathalie,0,1
+Blanchet   Christophe,Gaillot   Albane,1,1
+Blanchet   Christophe,Ramadier   Alain,0,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Viry   Stéphane,0,1
+Blanchet   Christophe,Rupin   Pacôme,0,1
+Blanchet   Christophe,Avia   Laetitia,1,1
+Blanchet   Christophe,Peyron   Michèle,1,1
+Blanchet   Christophe,Mauborgne   Sereine,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Obono   Danièle,0,1
+Blanchet   Christophe,Romeiro Dias   Laëtitia,1,1
+Blanchet   Christophe,Bergé   Aurore,1,1
+Blanchet   Christophe,Hennion   Christine,1,1
+Blanchet   Christophe,Chiche   Guillaume,1,1
+Blanchet   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Blanchet   Christophe,Rixain   Marie-Pierre,1,1
+Blanchet   Christophe,Cherpion   Gérard,0,1
+Charvier   Fannette,Khattabi   Fadila,1,1
+Charvier   Fannette,Melchior   Graziella,1,1
+Charvier   Fannette,Chapelier   Annie,1,1
+Charvier   Fannette,Vignon   Corinne,1,1
+Charvier   Fannette,Toutut-Picard   Élisabeth,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,Cloarec-Le Nabour   Christine,1,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Rist   Stéphanie,1,1
+Charvier   Fannette,Janvier   Caroline,1,1
+Charvier   Fannette,Fiat   Caroline,0,1
+Charvier   Fannette,Hammouche   Brahim,0,1
+Charvier   Fannette,Belhaddad   Belkhir,1,1
+Charvier   Fannette,Lazaar   Fiona,1,1
+Charvier   Fannette,Benin   Justine,1,1
+Charvier   Fannette,Bassire   Nathalie,0,1
+Charvier   Fannette,Gaillot   Albane,1,1
+Charvier   Fannette,Ramadier   Alain,0,1
+Charvier   Fannette,Gouffier-Cha   Guillaume,1,1
+Charvier   Fannette,Viry   Stéphane,0,1
+Charvier   Fannette,Rupin   Pacôme,0,1
+Charvier   Fannette,Avia   Laetitia,1,1
+Charvier   Fannette,Peyron   Michèle,1,1
+Charvier   Fannette,Mauborgne   Sereine,1,1
+Charvier   Fannette,Florennes   Isabelle,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,1,1
+Charvier   Fannette,Obono   Danièle,0,1
+Charvier   Fannette,Romeiro Dias   Laëtitia,1,1
+Charvier   Fannette,Bergé   Aurore,1,1
+Charvier   Fannette,Hennion   Christine,1,1
+Charvier   Fannette,Chiche   Guillaume,1,1
+Charvier   Fannette,Beaudouin-Hubiere   Sophie,1,1
+Charvier   Fannette,Rixain   Marie-Pierre,1,1
+Charvier   Fannette,Cherpion   Gérard,0,1
+Khattabi   Fadila,Melchior   Graziella,1,1
+Khattabi   Fadila,Chapelier   Annie,1,1
+Khattabi   Fadila,Vignon   Corinne,1,1
+Khattabi   Fadila,Toutut-Picard   Élisabeth,1,1
+Khattabi   Fadila,Ménard   Emmanuelle,0,1
+Khattabi   Fadila,Cloarec-Le Nabour   Christine,1,1
+Khattabi   Fadila,Motin   Cendra,1,1
+Khattabi   Fadila,Borowczyk   Julien,1,1
+Khattabi   Fadila,Rist   Stéphanie,1,1
+Khattabi   Fadila,Janvier   Caroline,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Hammouche   Brahim,0,1
+Khattabi   Fadila,Belhaddad   Belkhir,1,1
+Khattabi   Fadila,Lazaar   Fiona,1,1
+Khattabi   Fadila,Benin   Justine,1,1
+Khattabi   Fadila,Bassire   Nathalie,0,1
+Khattabi   Fadila,Gaillot   Albane,1,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Gouffier-Cha   Guillaume,1,1
+Khattabi   Fadila,Viry   Stéphane,0,1
+Khattabi   Fadila,Rupin   Pacôme,0,1
+Khattabi   Fadila,Avia   Laetitia,1,1
+Khattabi   Fadila,Peyron   Michèle,1,1
+Khattabi   Fadila,Mauborgne   Sereine,1,1
+Khattabi   Fadila,Florennes   Isabelle,1,1
+Khattabi   Fadila,de Vaucouleurs   Michèle,1,1
+Khattabi   Fadila,Obono   Danièle,0,1
+Khattabi   Fadila,Romeiro Dias   Laëtitia,1,1
+Khattabi   Fadila,Bergé   Aurore,1,1
+Khattabi   Fadila,Hennion   Christine,1,1
+Khattabi   Fadila,Chiche   Guillaume,1,1
+Khattabi   Fadila,Beaudouin-Hubiere   Sophie,1,1
+Khattabi   Fadila,Rixain   Marie-Pierre,1,1
+Khattabi   Fadila,Cherpion   Gérard,0,1
+Melchior   Graziella,Chapelier   Annie,1,1
+Melchior   Graziella,Vignon   Corinne,1,1
+Melchior   Graziella,Toutut-Picard   Élisabeth,1,1
+Melchior   Graziella,Ménard   Emmanuelle,0,1
+Melchior   Graziella,Cloarec-Le Nabour   Christine,1,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Borowczyk   Julien,1,1
+Melchior   Graziella,Rist   Stéphanie,1,1
+Melchior   Graziella,Janvier   Caroline,1,1
+Melchior   Graziella,Fiat   Caroline,0,1
+Melchior   Graziella,Hammouche   Brahim,0,1
+Melchior   Graziella,Belhaddad   Belkhir,1,1
+Melchior   Graziella,Lazaar   Fiona,1,1
+Melchior   Graziella,Benin   Justine,1,1
+Melchior   Graziella,Bassire   Nathalie,0,1
+Melchior   Graziella,Gaillot   Albane,1,1
+Melchior   Graziella,Ramadier   Alain,0,1
+Melchior   Graziella,Gouffier-Cha   Guillaume,1,1
+Melchior   Graziella,Viry   Stéphane,0,1
+Melchior   Graziella,Rupin   Pacôme,0,1
+Melchior   Graziella,Avia   Laetitia,1,1
+Melchior   Graziella,Peyron   Michèle,1,1
+Melchior   Graziella,Mauborgne   Sereine,1,1
+Melchior   Graziella,Florennes   Isabelle,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Obono   Danièle,0,1
+Melchior   Graziella,Romeiro Dias   Laëtitia,1,1
+Melchior   Graziella,Bergé   Aurore,1,1
+Melchior   Graziella,Hennion   Christine,1,1
+Melchior   Graziella,Chiche   Guillaume,1,1
+Melchior   Graziella,Beaudouin-Hubiere   Sophie,1,1
+Melchior   Graziella,Rixain   Marie-Pierre,1,1
+Melchior   Graziella,Cherpion   Gérard,0,1
+Chapelier   Annie,Vignon   Corinne,1,1
+Chapelier   Annie,Toutut-Picard   Élisabeth,1,1
+Chapelier   Annie,Ménard   Emmanuelle,0,1
+Chapelier   Annie,Cloarec-Le Nabour   Christine,1,1
+Chapelier   Annie,Motin   Cendra,1,1
+Chapelier   Annie,Borowczyk   Julien,1,1
+Chapelier   Annie,Rist   Stéphanie,1,1
+Chapelier   Annie,Janvier   Caroline,1,1
+Chapelier   Annie,Fiat   Caroline,0,1
+Chapelier   Annie,Hammouche   Brahim,0,1
+Chapelier   Annie,Belhaddad   Belkhir,1,1
+Chapelier   Annie,Lazaar   Fiona,1,1
+Chapelier   Annie,Benin   Justine,1,1
+Chapelier   Annie,Bassire   Nathalie,0,1
+Chapelier   Annie,Gaillot   Albane,1,1
+Chapelier   Annie,Ramadier   Alain,0,1
+Chapelier   Annie,Gouffier-Cha   Guillaume,1,1
+Chapelier   Annie,Viry   Stéphane,0,1
+Chapelier   Annie,Rupin   Pacôme,0,1
+Chapelier   Annie,Avia   Laetitia,1,1
+Chapelier   Annie,Peyron   Michèle,1,1
+Chapelier   Annie,Mauborgne   Sereine,1,1
+Chapelier   Annie,Florennes   Isabelle,1,1
+Chapelier   Annie,de Vaucouleurs   Michèle,1,1
+Chapelier   Annie,Obono   Danièle,0,1
+Chapelier   Annie,Romeiro Dias   Laëtitia,1,1
+Chapelier   Annie,Bergé   Aurore,1,1
+Chapelier   Annie,Hennion   Christine,1,1
+Chapelier   Annie,Chiche   Guillaume,1,1
+Chapelier   Annie,Beaudouin-Hubiere   Sophie,1,1
+Chapelier   Annie,Rixain   Marie-Pierre,1,1
+Chapelier   Annie,Cherpion   Gérard,0,1
+Vignon   Corinne,Toutut-Picard   Élisabeth,1,1
+Vignon   Corinne,Ménard   Emmanuelle,0,1
+Vignon   Corinne,Cloarec-Le Nabour   Christine,1,1
+Vignon   Corinne,Motin   Cendra,1,1
+Vignon   Corinne,Borowczyk   Julien,1,1
+Vignon   Corinne,Rist   Stéphanie,1,1
+Vignon   Corinne,Janvier   Caroline,1,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Hammouche   Brahim,0,1
+Vignon   Corinne,Belhaddad   Belkhir,1,1
+Vignon   Corinne,Lazaar   Fiona,1,1
+Vignon   Corinne,Benin   Justine,1,1
+Vignon   Corinne,Bassire   Nathalie,0,1
+Vignon   Corinne,Gaillot   Albane,1,1
+Vignon   Corinne,Ramadier   Alain,0,1
+Vignon   Corinne,Gouffier-Cha   Guillaume,1,1
+Vignon   Corinne,Viry   Stéphane,0,1
+Vignon   Corinne,Rupin   Pacôme,0,1
+Vignon   Corinne,Avia   Laetitia,1,1
+Vignon   Corinne,Peyron   Michèle,1,1
+Vignon   Corinne,Mauborgne   Sereine,1,1
+Vignon   Corinne,Florennes   Isabelle,1,1
+Vignon   Corinne,de Vaucouleurs   Michèle,1,1
+Vignon   Corinne,Obono   Danièle,0,1
+Vignon   Corinne,Romeiro Dias   Laëtitia,1,1
+Vignon   Corinne,Bergé   Aurore,1,1
+Vignon   Corinne,Hennion   Christine,1,1
+Vignon   Corinne,Chiche   Guillaume,1,1
+Vignon   Corinne,Beaudouin-Hubiere   Sophie,1,1
+Vignon   Corinne,Rixain   Marie-Pierre,1,1
+Vignon   Corinne,Cherpion   Gérard,0,1
+Toutut-Picard   Élisabeth,Ménard   Emmanuelle,0,1
+Toutut-Picard   Élisabeth,Cloarec-Le Nabour   Christine,1,1
+Toutut-Picard   Élisabeth,Motin   Cendra,1,1
+Toutut-Picard   Élisabeth,Borowczyk   Julien,1,1
+Toutut-Picard   Élisabeth,Rist   Stéphanie,1,1
+Toutut-Picard   Élisabeth,Janvier   Caroline,1,1
+Toutut-Picard   Élisabeth,Fiat   Caroline,0,1
+Toutut-Picard   Élisabeth,Hammouche   Brahim,0,1
+Toutut-Picard   Élisabeth,Belhaddad   Belkhir,1,1
+Toutut-Picard   Élisabeth,Lazaar   Fiona,1,1
+Toutut-Picard   Élisabeth,Benin   Justine,1,1
+Toutut-Picard   Élisabeth,Bassire   Nathalie,0,1
+Toutut-Picard   Élisabeth,Gaillot   Albane,1,1
+Toutut-Picard   Élisabeth,Ramadier   Alain,0,1
+Toutut-Picard   Élisabeth,Gouffier-Cha   Guillaume,1,1
+Toutut-Picard   Élisabeth,Viry   Stéphane,0,1
+Toutut-Picard   Élisabeth,Rupin   Pacôme,0,1
+Toutut-Picard   Élisabeth,Avia   Laetitia,1,1
+Toutut-Picard   Élisabeth,Peyron   Michèle,1,1
+Toutut-Picard   Élisabeth,Mauborgne   Sereine,1,1
+Toutut-Picard   Élisabeth,Florennes   Isabelle,1,1
+Toutut-Picard   Élisabeth,de Vaucouleurs   Michèle,1,1
+Toutut-Picard   Élisabeth,Obono   Danièle,0,1
+Toutut-Picard   Élisabeth,Romeiro Dias   Laëtitia,1,1
+Toutut-Picard   Élisabeth,Bergé   Aurore,1,1
+Toutut-Picard   Élisabeth,Hennion   Christine,1,1
+Toutut-Picard   Élisabeth,Chiche   Guillaume,1,1
+Toutut-Picard   Élisabeth,Beaudouin-Hubiere   Sophie,1,1
+Toutut-Picard   Élisabeth,Rixain   Marie-Pierre,1,1
+Toutut-Picard   Élisabeth,Cherpion   Gérard,0,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Janvier   Caroline,0,1
+Ménard   Emmanuelle,Fiat   Caroline,0,1
+Ménard   Emmanuelle,Hammouche   Brahim,1,1
+Ménard   Emmanuelle,Belhaddad   Belkhir,0,1
+Ménard   Emmanuelle,Lazaar   Fiona,0,1
+Ménard   Emmanuelle,Benin   Justine,0,1
+Ménard   Emmanuelle,Bassire   Nathalie,1,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Gouffier-Cha   Guillaume,0,1
+Ménard   Emmanuelle,Viry   Stéphane,1,1
+Ménard   Emmanuelle,Rupin   Pacôme,1,1
+Ménard   Emmanuelle,Avia   Laetitia,0,1
+Ménard   Emmanuelle,Peyron   Michèle,0,1
+Ménard   Emmanuelle,Mauborgne   Sereine,0,1
+Ménard   Emmanuelle,Florennes   Isabelle,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Obono   Danièle,0,1
+Ménard   Emmanuelle,Romeiro Dias   Laëtitia,0,1
+Ménard   Emmanuelle,Bergé   Aurore,0,1
+Ménard   Emmanuelle,Hennion   Christine,0,1
+Ménard   Emmanuelle,Chiche   Guillaume,0,1
+Ménard   Emmanuelle,Beaudouin-Hubiere   Sophie,0,1
+Ménard   Emmanuelle,Rixain   Marie-Pierre,0,1
+Ménard   Emmanuelle,Cherpion   Gérard,1,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Rist   Stéphanie,1,1
+Cloarec-Le Nabour   Christine,Janvier   Caroline,1,1
+Cloarec-Le Nabour   Christine,Fiat   Caroline,0,1
+Cloarec-Le Nabour   Christine,Hammouche   Brahim,0,1
+Cloarec-Le Nabour   Christine,Belhaddad   Belkhir,1,1
+Cloarec-Le Nabour   Christine,Lazaar   Fiona,1,1
+Cloarec-Le Nabour   Christine,Benin   Justine,1,1
+Cloarec-Le Nabour   Christine,Bassire   Nathalie,0,1
+Cloarec-Le Nabour   Christine,Gaillot   Albane,1,1
+Cloarec-Le Nabour   Christine,Ramadier   Alain,0,1
+Cloarec-Le Nabour   Christine,Gouffier-Cha   Guillaume,1,1
+Cloarec-Le Nabour   Christine,Viry   Stéphane,0,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,0,1
+Cloarec-Le Nabour   Christine,Avia   Laetitia,1,1
+Cloarec-Le Nabour   Christine,Peyron   Michèle,1,1
+Cloarec-Le Nabour   Christine,Mauborgne   Sereine,1,1
+Cloarec-Le Nabour   Christine,Florennes   Isabelle,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,1,1
+Cloarec-Le Nabour   Christine,Obono   Danièle,0,1
+Cloarec-Le Nabour   Christine,Romeiro Dias   Laëtitia,1,1
+Cloarec-Le Nabour   Christine,Bergé   Aurore,1,1
+Cloarec-Le Nabour   Christine,Hennion   Christine,1,1
+Cloarec-Le Nabour   Christine,Chiche   Guillaume,1,1
+Cloarec-Le Nabour   Christine,Beaudouin-Hubiere   Sophie,1,1
+Cloarec-Le Nabour   Christine,Rixain   Marie-Pierre,1,1
+Cloarec-Le Nabour   Christine,Cherpion   Gérard,0,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Rist   Stéphanie,1,1
+Motin   Cendra,Janvier   Caroline,1,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Hammouche   Brahim,0,1
+Motin   Cendra,Belhaddad   Belkhir,1,1
+Motin   Cendra,Lazaar   Fiona,1,1
+Motin   Cendra,Benin   Justine,1,1
+Motin   Cendra,Bassire   Nathalie,0,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Gouffier-Cha   Guillaume,1,1
+Motin   Cendra,Viry   Stéphane,0,1
+Motin   Cendra,Rupin   Pacôme,0,1
+Motin   Cendra,Avia   Laetitia,1,1
+Motin   Cendra,Peyron   Michèle,1,1
+Motin   Cendra,Mauborgne   Sereine,1,1
+Motin   Cendra,Florennes   Isabelle,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,1,1
+Motin   Cendra,Obono   Danièle,0,1
+Motin   Cendra,Romeiro Dias   Laëtitia,1,1
+Motin   Cendra,Bergé   Aurore,1,1
+Motin   Cendra,Hennion   Christine,1,1
+Motin   Cendra,Chiche   Guillaume,1,1
+Motin   Cendra,Beaudouin-Hubiere   Sophie,1,1
+Motin   Cendra,Rixain   Marie-Pierre,1,1
+Motin   Cendra,Cherpion   Gérard,0,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Janvier   Caroline,1,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Hammouche   Brahim,0,1
+Borowczyk   Julien,Belhaddad   Belkhir,1,1
+Borowczyk   Julien,Lazaar   Fiona,1,1
+Borowczyk   Julien,Benin   Justine,1,1
+Borowczyk   Julien,Bassire   Nathalie,0,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Ramadier   Alain,0,1
+Borowczyk   Julien,Gouffier-Cha   Guillaume,1,1
+Borowczyk   Julien,Viry   Stéphane,0,1
+Borowczyk   Julien,Rupin   Pacôme,0,1
+Borowczyk   Julien,Avia   Laetitia,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Mauborgne   Sereine,1,1
+Borowczyk   Julien,Florennes   Isabelle,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Obono   Danièle,0,1
+Borowczyk   Julien,Romeiro Dias   Laëtitia,1,1
+Borowczyk   Julien,Bergé   Aurore,1,1
+Borowczyk   Julien,Hennion   Christine,1,1
+Borowczyk   Julien,Chiche   Guillaume,1,1
+Borowczyk   Julien,Beaudouin-Hubiere   Sophie,1,1
+Borowczyk   Julien,Rixain   Marie-Pierre,1,1
+Borowczyk   Julien,Cherpion   Gérard,0,1
+Rist   Stéphanie,Janvier   Caroline,1,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Hammouche   Brahim,0,1
+Rist   Stéphanie,Belhaddad   Belkhir,1,1
+Rist   Stéphanie,Lazaar   Fiona,1,1
+Rist   Stéphanie,Benin   Justine,1,1
+Rist   Stéphanie,Bassire   Nathalie,0,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Ramadier   Alain,0,1
+Rist   Stéphanie,Gouffier-Cha   Guillaume,1,1
+Rist   Stéphanie,Viry   Stéphane,0,1
+Rist   Stéphanie,Rupin   Pacôme,0,1
+Rist   Stéphanie,Avia   Laetitia,1,1
+Rist   Stéphanie,Peyron   Michèle,1,1
+Rist   Stéphanie,Mauborgne   Sereine,1,1
+Rist   Stéphanie,Florennes   Isabelle,1,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,1,1
+Rist   Stéphanie,Obono   Danièle,0,1
+Rist   Stéphanie,Romeiro Dias   Laëtitia,1,1
+Rist   Stéphanie,Bergé   Aurore,1,1
+Rist   Stéphanie,Hennion   Christine,1,1
+Rist   Stéphanie,Chiche   Guillaume,1,1
+Rist   Stéphanie,Beaudouin-Hubiere   Sophie,1,1
+Rist   Stéphanie,Rixain   Marie-Pierre,1,1
+Rist   Stéphanie,Cherpion   Gérard,0,1
+Janvier   Caroline,Fiat   Caroline,0,1
+Janvier   Caroline,Hammouche   Brahim,0,1
+Janvier   Caroline,Belhaddad   Belkhir,1,1
+Janvier   Caroline,Lazaar   Fiona,1,1
+Janvier   Caroline,Benin   Justine,1,1
+Janvier   Caroline,Bassire   Nathalie,0,1
+Janvier   Caroline,Gaillot   Albane,1,1
+Janvier   Caroline,Ramadier   Alain,0,1
+Janvier   Caroline,Gouffier-Cha   Guillaume,1,1
+Janvier   Caroline,Viry   Stéphane,0,1
+Janvier   Caroline,Rupin   Pacôme,0,1
+Janvier   Caroline,Avia   Laetitia,1,1
+Janvier   Caroline,Peyron   Michèle,1,1
+Janvier   Caroline,Mauborgne   Sereine,1,1
+Janvier   Caroline,Florennes   Isabelle,1,1
+Janvier   Caroline,de Vaucouleurs   Michèle,1,1
+Janvier   Caroline,Obono   Danièle,0,1
+Janvier   Caroline,Romeiro Dias   Laëtitia,1,1
+Janvier   Caroline,Bergé   Aurore,1,1
+Janvier   Caroline,Hennion   Christine,1,1
+Janvier   Caroline,Chiche   Guillaume,1,1
+Janvier   Caroline,Beaudouin-Hubiere   Sophie,1,1
+Janvier   Caroline,Rixain   Marie-Pierre,1,1
+Janvier   Caroline,Cherpion   Gérard,0,1
+Fiat   Caroline,Hammouche   Brahim,0,1
+Fiat   Caroline,Belhaddad   Belkhir,0,1
+Fiat   Caroline,Lazaar   Fiona,0,1
+Fiat   Caroline,Benin   Justine,0,1
+Fiat   Caroline,Bassire   Nathalie,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Ramadier   Alain,0,1
+Fiat   Caroline,Gouffier-Cha   Guillaume,0,1
+Fiat   Caroline,Viry   Stéphane,0,1
+Fiat   Caroline,Rupin   Pacôme,0,1
+Fiat   Caroline,Avia   Laetitia,0,1
+Fiat   Caroline,Peyron   Michèle,0,1
+Fiat   Caroline,Mauborgne   Sereine,0,1
+Fiat   Caroline,Florennes   Isabelle,0,1
+Fiat   Caroline,de Vaucouleurs   Michèle,0,1
+Fiat   Caroline,Obono   Danièle,1,1
+Fiat   Caroline,Romeiro Dias   Laëtitia,0,1
+Fiat   Caroline,Bergé   Aurore,0,1
+Fiat   Caroline,Hennion   Christine,0,1
+Fiat   Caroline,Chiche   Guillaume,0,1
+Fiat   Caroline,Beaudouin-Hubiere   Sophie,0,1
+Fiat   Caroline,Rixain   Marie-Pierre,0,1
+Fiat   Caroline,Cherpion   Gérard,0,1
+Hammouche   Brahim,Belhaddad   Belkhir,0,1
+Hammouche   Brahim,Lazaar   Fiona,0,1
+Hammouche   Brahim,Benin   Justine,0,1
+Hammouche   Brahim,Bassire   Nathalie,1,1
+Hammouche   Brahim,Gaillot   Albane,0,1
+Hammouche   Brahim,Ramadier   Alain,1,1
+Hammouche   Brahim,Gouffier-Cha   Guillaume,0,1
+Hammouche   Brahim,Viry   Stéphane,1,1
+Hammouche   Brahim,Rupin   Pacôme,1,1
+Hammouche   Brahim,Avia   Laetitia,0,1
+Hammouche   Brahim,Peyron   Michèle,0,1
+Hammouche   Brahim,Mauborgne   Sereine,0,1
+Hammouche   Brahim,Florennes   Isabelle,0,1
+Hammouche   Brahim,de Vaucouleurs   Michèle,0,1
+Hammouche   Brahim,Obono   Danièle,0,1
+Hammouche   Brahim,Romeiro Dias   Laëtitia,0,1
+Hammouche   Brahim,Bergé   Aurore,0,1
+Hammouche   Brahim,Hennion   Christine,0,1
+Hammouche   Brahim,Chiche   Guillaume,0,1
+Hammouche   Brahim,Beaudouin-Hubiere   Sophie,0,1
+Hammouche   Brahim,Rixain   Marie-Pierre,0,1
+Hammouche   Brahim,Cherpion   Gérard,1,1
+Belhaddad   Belkhir,Lazaar   Fiona,1,1
+Belhaddad   Belkhir,Benin   Justine,1,1
+Belhaddad   Belkhir,Bassire   Nathalie,0,1
+Belhaddad   Belkhir,Gaillot   Albane,1,1
+Belhaddad   Belkhir,Ramadier   Alain,0,1
+Belhaddad   Belkhir,Gouffier-Cha   Guillaume,1,1
+Belhaddad   Belkhir,Viry   Stéphane,0,1
+Belhaddad   Belkhir,Rupin   Pacôme,0,1
+Belhaddad   Belkhir,Avia   Laetitia,1,1
+Belhaddad   Belkhir,Peyron   Michèle,1,1
+Belhaddad   Belkhir,Mauborgne   Sereine,1,1
+Belhaddad   Belkhir,Florennes   Isabelle,1,1
+Belhaddad   Belkhir,de Vaucouleurs   Michèle,1,1
+Belhaddad   Belkhir,Obono   Danièle,0,1
+Belhaddad   Belkhir,Romeiro Dias   Laëtitia,1,1
+Belhaddad   Belkhir,Bergé   Aurore,1,1
+Belhaddad   Belkhir,Hennion   Christine,1,1
+Belhaddad   Belkhir,Chiche   Guillaume,1,1
+Belhaddad   Belkhir,Beaudouin-Hubiere   Sophie,1,1
+Belhaddad   Belkhir,Rixain   Marie-Pierre,1,1
+Belhaddad   Belkhir,Cherpion   Gérard,0,1
+Lazaar   Fiona,Benin   Justine,1,1
+Lazaar   Fiona,Bassire   Nathalie,0,1
+Lazaar   Fiona,Gaillot   Albane,1,1
+Lazaar   Fiona,Ramadier   Alain,0,1
+Lazaar   Fiona,Gouffier-Cha   Guillaume,1,1
+Lazaar   Fiona,Viry   Stéphane,0,1
+Lazaar   Fiona,Rupin   Pacôme,0,1
+Lazaar   Fiona,Avia   Laetitia,1,1
+Lazaar   Fiona,Peyron   Michèle,1,1
+Lazaar   Fiona,Mauborgne   Sereine,1,1
+Lazaar   Fiona,Florennes   Isabelle,1,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,1,1
+Lazaar   Fiona,Obono   Danièle,0,1
+Lazaar   Fiona,Romeiro Dias   Laëtitia,1,1
+Lazaar   Fiona,Bergé   Aurore,1,1
+Lazaar   Fiona,Hennion   Christine,1,1
+Lazaar   Fiona,Chiche   Guillaume,1,1
+Lazaar   Fiona,Beaudouin-Hubiere   Sophie,1,1
+Lazaar   Fiona,Rixain   Marie-Pierre,1,1
+Lazaar   Fiona,Cherpion   Gérard,0,1
+Benin   Justine,Bassire   Nathalie,0,1
+Benin   Justine,Gaillot   Albane,1,1
+Benin   Justine,Ramadier   Alain,0,1
+Benin   Justine,Gouffier-Cha   Guillaume,1,1
+Benin   Justine,Viry   Stéphane,0,1
+Benin   Justine,Rupin   Pacôme,0,1
+Benin   Justine,Avia   Laetitia,1,1
+Benin   Justine,Peyron   Michèle,1,1
+Benin   Justine,Mauborgne   Sereine,1,1
+Benin   Justine,Florennes   Isabelle,1,1
+Benin   Justine,de Vaucouleurs   Michèle,1,1
+Benin   Justine,Obono   Danièle,0,1
+Benin   Justine,Romeiro Dias   Laëtitia,1,1
+Benin   Justine,Bergé   Aurore,1,1
+Benin   Justine,Hennion   Christine,1,1
+Benin   Justine,Chiche   Guillaume,1,1
+Benin   Justine,Beaudouin-Hubiere   Sophie,1,1
+Benin   Justine,Rixain   Marie-Pierre,1,1
+Benin   Justine,Cherpion   Gérard,0,1
+Bassire   Nathalie,Gaillot   Albane,0,1
+Bassire   Nathalie,Ramadier   Alain,1,1
+Bassire   Nathalie,Gouffier-Cha   Guillaume,0,1
+Bassire   Nathalie,Viry   Stéphane,1,1
+Bassire   Nathalie,Rupin   Pacôme,1,1
+Bassire   Nathalie,Avia   Laetitia,0,1
+Bassire   Nathalie,Peyron   Michèle,0,1
+Bassire   Nathalie,Mauborgne   Sereine,0,1
+Bassire   Nathalie,Florennes   Isabelle,0,1
+Bassire   Nathalie,de Vaucouleurs   Michèle,0,1
+Bassire   Nathalie,Obono   Danièle,0,1
+Bassire   Nathalie,Romeiro Dias   Laëtitia,0,1
+Bassire   Nathalie,Bergé   Aurore,0,1
+Bassire   Nathalie,Hennion   Christine,0,1
+Bassire   Nathalie,Chiche   Guillaume,0,1
+Bassire   Nathalie,Beaudouin-Hubiere   Sophie,0,1
+Bassire   Nathalie,Rixain   Marie-Pierre,0,1
+Bassire   Nathalie,Cherpion   Gérard,1,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Gouffier-Cha   Guillaume,1,1
+Gaillot   Albane,Viry   Stéphane,0,1
+Gaillot   Albane,Rupin   Pacôme,0,1
+Gaillot   Albane,Avia   Laetitia,1,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,Mauborgne   Sereine,1,1
+Gaillot   Albane,Florennes   Isabelle,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,1,1
+Gaillot   Albane,Obono   Danièle,0,1
+Gaillot   Albane,Romeiro Dias   Laëtitia,1,1
+Gaillot   Albane,Bergé   Aurore,1,1
+Gaillot   Albane,Hennion   Christine,1,1
+Gaillot   Albane,Chiche   Guillaume,1,1
+Gaillot   Albane,Beaudouin-Hubiere   Sophie,1,1
+Gaillot   Albane,Rixain   Marie-Pierre,1,1
+Gaillot   Albane,Cherpion   Gérard,0,1
+Ramadier   Alain,Gouffier-Cha   Guillaume,0,1
+Ramadier   Alain,Viry   Stéphane,1,1
+Ramadier   Alain,Rupin   Pacôme,1,1
+Ramadier   Alain,Avia   Laetitia,0,1
+Ramadier   Alain,Peyron   Michèle,0,1
+Ramadier   Alain,Mauborgne   Sereine,0,1
+Ramadier   Alain,Florennes   Isabelle,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Obono   Danièle,0,1
+Ramadier   Alain,Romeiro Dias   Laëtitia,0,1
+Ramadier   Alain,Bergé   Aurore,0,1
+Ramadier   Alain,Hennion   Christine,0,1
+Ramadier   Alain,Chiche   Guillaume,0,1
+Ramadier   Alain,Beaudouin-Hubiere   Sophie,0,1
+Ramadier   Alain,Rixain   Marie-Pierre,0,1
+Ramadier   Alain,Cherpion   Gérard,1,1
+Gouffier-Cha   Guillaume,Viry   Stéphane,0,1
+Gouffier-Cha   Guillaume,Rupin   Pacôme,0,1
+Gouffier-Cha   Guillaume,Avia   Laetitia,1,1
+Gouffier-Cha   Guillaume,Peyron   Michèle,1,1
+Gouffier-Cha   Guillaume,Mauborgne   Sereine,1,1
+Gouffier-Cha   Guillaume,Florennes   Isabelle,1,1
+Gouffier-Cha   Guillaume,de Vaucouleurs   Michèle,1,1
+Gouffier-Cha   Guillaume,Obono   Danièle,0,1
+Gouffier-Cha   Guillaume,Romeiro Dias   Laëtitia,1,1
+Gouffier-Cha   Guillaume,Bergé   Aurore,1,1
+Gouffier-Cha   Guillaume,Hennion   Christine,1,1
+Gouffier-Cha   Guillaume,Chiche   Guillaume,1,1
+Gouffier-Cha   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Gouffier-Cha   Guillaume,Rixain   Marie-Pierre,1,1
+Gouffier-Cha   Guillaume,Cherpion   Gérard,0,1
+Viry   Stéphane,Rupin   Pacôme,1,1
+Viry   Stéphane,Avia   Laetitia,0,1
+Viry   Stéphane,Peyron   Michèle,0,1
+Viry   Stéphane,Mauborgne   Sereine,0,1
+Viry   Stéphane,Florennes   Isabelle,0,1
+Viry   Stéphane,de Vaucouleurs   Michèle,0,1
+Viry   Stéphane,Obono   Danièle,0,1
+Viry   Stéphane,Romeiro Dias   Laëtitia,0,1
+Viry   Stéphane,Bergé   Aurore,0,1
+Viry   Stéphane,Hennion   Christine,0,1
+Viry   Stéphane,Chiche   Guillaume,0,1
+Viry   Stéphane,Beaudouin-Hubiere   Sophie,0,1
+Viry   Stéphane,Rixain   Marie-Pierre,0,1
+Viry   Stéphane,Cherpion   Gérard,1,1
+Rupin   Pacôme,Avia   Laetitia,0,1
+Rupin   Pacôme,Peyron   Michèle,0,1
+Rupin   Pacôme,Mauborgne   Sereine,0,1
+Rupin   Pacôme,Florennes   Isabelle,0,1
+Rupin   Pacôme,de Vaucouleurs   Michèle,0,1
+Rupin   Pacôme,Obono   Danièle,0,1
+Rupin   Pacôme,Romeiro Dias   Laëtitia,0,1
+Rupin   Pacôme,Bergé   Aurore,0,1
+Rupin   Pacôme,Hennion   Christine,0,1
+Rupin   Pacôme,Chiche   Guillaume,0,1
+Rupin   Pacôme,Beaudouin-Hubiere   Sophie,0,1
+Rupin   Pacôme,Rixain   Marie-Pierre,0,1
+Rupin   Pacôme,Cherpion   Gérard,1,1
+Avia   Laetitia,Peyron   Michèle,1,1
+Avia   Laetitia,Mauborgne   Sereine,1,1
+Avia   Laetitia,Florennes   Isabelle,1,1
+Avia   Laetitia,de Vaucouleurs   Michèle,1,1
+Avia   Laetitia,Obono   Danièle,0,1
+Avia   Laetitia,Romeiro Dias   Laëtitia,1,1
+Avia   Laetitia,Bergé   Aurore,1,1
+Avia   Laetitia,Hennion   Christine,1,1
+Avia   Laetitia,Chiche   Guillaume,1,1
+Avia   Laetitia,Beaudouin-Hubiere   Sophie,1,1
+Avia   Laetitia,Rixain   Marie-Pierre,1,1
+Avia   Laetitia,Cherpion   Gérard,0,1
+Peyron   Michèle,Mauborgne   Sereine,1,1
+Peyron   Michèle,Florennes   Isabelle,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Obono   Danièle,0,1
+Peyron   Michèle,Romeiro Dias   Laëtitia,1,1
+Peyron   Michèle,Bergé   Aurore,1,1
+Peyron   Michèle,Hennion   Christine,1,1
+Peyron   Michèle,Chiche   Guillaume,1,1
+Peyron   Michèle,Beaudouin-Hubiere   Sophie,1,1
+Peyron   Michèle,Rixain   Marie-Pierre,1,1
+Peyron   Michèle,Cherpion   Gérard,0,1
+Mauborgne   Sereine,Florennes   Isabelle,1,1
+Mauborgne   Sereine,de Vaucouleurs   Michèle,1,1
+Mauborgne   Sereine,Obono   Danièle,0,1
+Mauborgne   Sereine,Romeiro Dias   Laëtitia,1,1
+Mauborgne   Sereine,Bergé   Aurore,1,1
+Mauborgne   Sereine,Hennion   Christine,1,1
+Mauborgne   Sereine,Chiche   Guillaume,1,1
+Mauborgne   Sereine,Beaudouin-Hubiere   Sophie,1,1
+Mauborgne   Sereine,Rixain   Marie-Pierre,1,1
+Mauborgne   Sereine,Cherpion   Gérard,0,1
+Florennes   Isabelle,de Vaucouleurs   Michèle,1,1
+Florennes   Isabelle,Obono   Danièle,0,1
+Florennes   Isabelle,Romeiro Dias   Laëtitia,1,1
+Florennes   Isabelle,Bergé   Aurore,1,1
+Florennes   Isabelle,Hennion   Christine,1,1
+Florennes   Isabelle,Chiche   Guillaume,1,1
+Florennes   Isabelle,Beaudouin-Hubiere   Sophie,1,1
+Florennes   Isabelle,Rixain   Marie-Pierre,1,1
+Florennes   Isabelle,Cherpion   Gérard,0,1
+de Vaucouleurs   Michèle,Obono   Danièle,0,1
+de Vaucouleurs   Michèle,Romeiro Dias   Laëtitia,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Hennion   Christine,1,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,1,1
+de Vaucouleurs   Michèle,Beaudouin-Hubiere   Sophie,1,1
+de Vaucouleurs   Michèle,Rixain   Marie-Pierre,1,1
+de Vaucouleurs   Michèle,Cherpion   Gérard,0,1
+Obono   Danièle,Romeiro Dias   Laëtitia,0,1
+Obono   Danièle,Bergé   Aurore,0,1
+Obono   Danièle,Hennion   Christine,0,1
+Obono   Danièle,Chiche   Guillaume,0,1
+Obono   Danièle,Beaudouin-Hubiere   Sophie,0,1
+Obono   Danièle,Rixain   Marie-Pierre,0,1
+Obono   Danièle,Cherpion   Gérard,0,1
+Romeiro Dias   Laëtitia,Bergé   Aurore,1,1
+Romeiro Dias   Laëtitia,Hennion   Christine,1,1
+Romeiro Dias   Laëtitia,Chiche   Guillaume,1,1
+Romeiro Dias   Laëtitia,Beaudouin-Hubiere   Sophie,1,1
+Romeiro Dias   Laëtitia,Rixain   Marie-Pierre,1,1
+Romeiro Dias   Laëtitia,Cherpion   Gérard,0,1
+Bergé   Aurore,Hennion   Christine,1,1
+Bergé   Aurore,Chiche   Guillaume,1,1
+Bergé   Aurore,Beaudouin-Hubiere   Sophie,1,1
+Bergé   Aurore,Rixain   Marie-Pierre,1,1
+Bergé   Aurore,Cherpion   Gérard,0,1
+Hennion   Christine,Chiche   Guillaume,1,1
+Hennion   Christine,Beaudouin-Hubiere   Sophie,1,1
+Hennion   Christine,Rixain   Marie-Pierre,1,1
+Hennion   Christine,Cherpion   Gérard,0,1
+Chiche   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Chiche   Guillaume,Rixain   Marie-Pierre,1,1
+Chiche   Guillaume,Cherpion   Gérard,0,1
+Beaudouin-Hubiere   Sophie,Rixain   Marie-Pierre,1,1
+Beaudouin-Hubiere   Sophie,Cherpion   Gérard,0,1
+Rixain   Marie-Pierre,Cherpion   Gérard,0,1

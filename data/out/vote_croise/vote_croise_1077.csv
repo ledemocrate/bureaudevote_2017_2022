@@ -1,0 +1,3161 @@
+from,to,vote_commun,loi_commun
+Habib   David,Jacob   Christian,1,1
+Habib   David,Le Fur   Marc,1,1
+Habib   David,Mélenchon   Jean-Luc,1,1
+Habib   David,Reiss   Frédéric,1,1
+Habib   David,Larrivé   Guillaume,1,1
+Habib   David,Kamardine   Mansour,1,1
+Habib   David,Woerth   Éric,1,1
+Habib   David,Pinel   Sylvia,1,1
+Habib   David,Marleix   Olivier,1,1
+Habib   David,Boudié   Florent,0,1
+Habib   David,Errante   Sophie,0,1
+Habib   David,Potier   Dominique,1,1
+Habib   David,Molac   Paul,1,1
+Habib   David,Pires Beaune   Christine,1,1
+Habib   David,Dubié   Jeanine,1,1
+Habib   David,Hetzel   Patrick,1,1
+Habib   David,Untermaier   Cécile,1,1
+Habib   David,Faure   Olivier,1,1
+Habib   David,Bridey   Jean-Jacques,0,1
+Habib   David,Sage   Maina,1,1
+Habib   David,Hérin   Danièle,0,1
+Habib   David,Dombreval   Loïc,0,1
+Habib   David,Dharréville   Pierre,1,1
+Habib   David,Zulesi   Jean-Marc,0,1
+Habib   David,Marsaud   Sandra,0,1
+Habib   David,Castellani   Michel,1,1
+Habib   David,Khattabi   Fadila,0,1
+Habib   David,de Courson   Yolaine,0,1
+Habib   David,Kerlogot   Yannick,0,1
+Habib   David,Vignon   Corinne,0,1
+Habib   David,Balanant   Erwan,1,1
+Habib   David,Ménard   Emmanuelle,1,1
+Habib   David,Euzet   Christophe,0,1
+Habib   David,Mette   Sophie,1,1
+Habib   David,Labaronne   Daniel,0,1
+Habib   David,Thillaye   Sabine,0,1
+Habib   David,Motin   Cendra,0,1
+Habib   David,Abadie   Caroline,0,1
+Habib   David,Brulebois   Danielle,0,1
+Habib   David,Causse   Lionel,1,1
+Habib   David,Vallaud   Boris,1,1
+Habib   David,Pradié   Aurélien,1,1
+Habib   David,Oppelt   Valérie,0,1
+Habib   David,Dubré-Chirat   Nicole,0,1
+Habib   David,Girardin   Éric,0,1
+Habib   David,Zannier   Hélène,0,1
+Habib   David,Pahun   Jimmy,1,1
+Habib   David,Bruneel   Alain,1,1
+Habib   David,Dumont   Pierre-Henri,1,1
+Habib   David,Poueyto   Josy,1,1
+Habib   David,Waserman   Sylvain,0,1
+Habib   David,Lasserre   Florence,0,1
+Habib   David,Mbaye   Jean François,0,1
+Habib   David,Ratenon   Jean-Hugues,1,1
+Habib   David,Brotherson   Moetai,1,1
+Habib   David,Coquerel   Éric,1,1
+Habib   David,Charrière   Sylvie,0,1
+Habib   David,Ramadier   Alain,1,1
+Habib   David,Riotton   Véronique,0,1
+Habib   David,Lardet   Frédérique,0,1
+Habib   David,Lenne   Marion,0,1
+Habib   David,Le Gendre   Gilles,0,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Rossi   Laurianne,0,1
+Habib   David,Florennes   Isabelle,0,1
+Habib   David,Lebec   Marie,0,1
+Habib   David,Guévenoux   Marie,0,1
+Habib   David,de Vaucouleurs   Michèle,1,1
+Habib   David,Obono   Danièle,1,1
+Habib   David,Millienne   Bruno,0,1
+Habib   David,Ruffin   François,1,1
+Habib   David,Houlié   Sacha,0,1
+Habib   David,Turquois   Nicolas,0,1
+Habib   David,Jumel   Sébastien,1,1
+Habib   David,Leclabart   Jean-Claude,0,1
+Habib   David,Fuchs   Bruno,0,1
+Habib   David,Thiébaut   Vincent,0,1
+Habib   David,Ali   Ramlati,0,1
+Habib   David,Cornut-Gentille   François,1,1
+Jacob   Christian,Le Fur   Marc,1,1
+Jacob   Christian,Mélenchon   Jean-Luc,1,1
+Jacob   Christian,Reiss   Frédéric,1,1
+Jacob   Christian,Larrivé   Guillaume,1,1
+Jacob   Christian,Kamardine   Mansour,1,1
+Jacob   Christian,Woerth   Éric,1,1
+Jacob   Christian,Pinel   Sylvia,1,1
+Jacob   Christian,Marleix   Olivier,1,1
+Jacob   Christian,Boudié   Florent,0,1
+Jacob   Christian,Errante   Sophie,0,1
+Jacob   Christian,Potier   Dominique,1,1
+Jacob   Christian,Molac   Paul,1,1
+Jacob   Christian,Pires Beaune   Christine,1,1
+Jacob   Christian,Dubié   Jeanine,1,1
+Jacob   Christian,Hetzel   Patrick,1,1
+Jacob   Christian,Untermaier   Cécile,1,1
+Jacob   Christian,Faure   Olivier,1,1
+Jacob   Christian,Bridey   Jean-Jacques,0,1
+Jacob   Christian,Sage   Maina,1,1
+Jacob   Christian,Hérin   Danièle,0,1
+Jacob   Christian,Dombreval   Loïc,0,1
+Jacob   Christian,Dharréville   Pierre,1,1
+Jacob   Christian,Zulesi   Jean-Marc,0,1
+Jacob   Christian,Marsaud   Sandra,0,1
+Jacob   Christian,Castellani   Michel,1,1
+Jacob   Christian,Khattabi   Fadila,0,1
+Jacob   Christian,de Courson   Yolaine,0,1
+Jacob   Christian,Kerlogot   Yannick,0,1
+Jacob   Christian,Vignon   Corinne,0,1
+Jacob   Christian,Balanant   Erwan,1,1
+Jacob   Christian,Ménard   Emmanuelle,1,1
+Jacob   Christian,Euzet   Christophe,0,1
+Jacob   Christian,Mette   Sophie,1,1
+Jacob   Christian,Labaronne   Daniel,0,1
+Jacob   Christian,Thillaye   Sabine,0,1
+Jacob   Christian,Motin   Cendra,0,1
+Jacob   Christian,Abadie   Caroline,0,1
+Jacob   Christian,Brulebois   Danielle,0,1
+Jacob   Christian,Causse   Lionel,1,1
+Jacob   Christian,Vallaud   Boris,1,1
+Jacob   Christian,Pradié   Aurélien,1,1
+Jacob   Christian,Oppelt   Valérie,0,1
+Jacob   Christian,Dubré-Chirat   Nicole,0,1
+Jacob   Christian,Girardin   Éric,0,1
+Jacob   Christian,Zannier   Hélène,0,1
+Jacob   Christian,Pahun   Jimmy,1,1
+Jacob   Christian,Bruneel   Alain,1,1
+Jacob   Christian,Dumont   Pierre-Henri,1,1
+Jacob   Christian,Poueyto   Josy,1,1
+Jacob   Christian,Waserman   Sylvain,0,1
+Jacob   Christian,Lasserre   Florence,0,1
+Jacob   Christian,Mbaye   Jean François,0,1
+Jacob   Christian,Ratenon   Jean-Hugues,1,1
+Jacob   Christian,Brotherson   Moetai,1,1
+Jacob   Christian,Coquerel   Éric,1,1
+Jacob   Christian,Charrière   Sylvie,0,1
+Jacob   Christian,Ramadier   Alain,1,1
+Jacob   Christian,Riotton   Véronique,0,1
+Jacob   Christian,Lardet   Frédérique,0,1
+Jacob   Christian,Lenne   Marion,0,1
+Jacob   Christian,Le Gendre   Gilles,0,1
+Jacob   Christian,Terlier   Jean,0,1
+Jacob   Christian,Rossi   Laurianne,0,1
+Jacob   Christian,Florennes   Isabelle,0,1
+Jacob   Christian,Lebec   Marie,0,1
+Jacob   Christian,Guévenoux   Marie,0,1
+Jacob   Christian,de Vaucouleurs   Michèle,1,1
+Jacob   Christian,Obono   Danièle,1,1
+Jacob   Christian,Millienne   Bruno,0,1
+Jacob   Christian,Ruffin   François,1,1
+Jacob   Christian,Houlié   Sacha,0,1
+Jacob   Christian,Turquois   Nicolas,0,1
+Jacob   Christian,Jumel   Sébastien,1,1
+Jacob   Christian,Leclabart   Jean-Claude,0,1
+Jacob   Christian,Fuchs   Bruno,0,1
+Jacob   Christian,Thiébaut   Vincent,0,1
+Jacob   Christian,Ali   Ramlati,0,1
+Jacob   Christian,Cornut-Gentille   François,1,1
+Le Fur   Marc,Mélenchon   Jean-Luc,1,1
+Le Fur   Marc,Reiss   Frédéric,1,1
+Le Fur   Marc,Larrivé   Guillaume,1,1
+Le Fur   Marc,Kamardine   Mansour,1,1
+Le Fur   Marc,Woerth   Éric,1,1
+Le Fur   Marc,Pinel   Sylvia,1,1
+Le Fur   Marc,Marleix   Olivier,1,1
+Le Fur   Marc,Boudié   Florent,0,1
+Le Fur   Marc,Errante   Sophie,0,1
+Le Fur   Marc,Potier   Dominique,1,1
+Le Fur   Marc,Molac   Paul,1,1
+Le Fur   Marc,Pires Beaune   Christine,1,1
+Le Fur   Marc,Dubié   Jeanine,1,1
+Le Fur   Marc,Hetzel   Patrick,1,1
+Le Fur   Marc,Untermaier   Cécile,1,1
+Le Fur   Marc,Faure   Olivier,1,1
+Le Fur   Marc,Bridey   Jean-Jacques,0,1
+Le Fur   Marc,Sage   Maina,1,1
+Le Fur   Marc,Hérin   Danièle,0,1
+Le Fur   Marc,Dombreval   Loïc,0,1
+Le Fur   Marc,Dharréville   Pierre,1,1
+Le Fur   Marc,Zulesi   Jean-Marc,0,1
+Le Fur   Marc,Marsaud   Sandra,0,1
+Le Fur   Marc,Castellani   Michel,1,1
+Le Fur   Marc,Khattabi   Fadila,0,1
+Le Fur   Marc,de Courson   Yolaine,0,1
+Le Fur   Marc,Kerlogot   Yannick,0,1
+Le Fur   Marc,Vignon   Corinne,0,1
+Le Fur   Marc,Balanant   Erwan,1,1
+Le Fur   Marc,Ménard   Emmanuelle,1,1
+Le Fur   Marc,Euzet   Christophe,0,1
+Le Fur   Marc,Mette   Sophie,1,1
+Le Fur   Marc,Labaronne   Daniel,0,1
+Le Fur   Marc,Thillaye   Sabine,0,1
+Le Fur   Marc,Motin   Cendra,0,1
+Le Fur   Marc,Abadie   Caroline,0,1
+Le Fur   Marc,Brulebois   Danielle,0,1
+Le Fur   Marc,Causse   Lionel,1,1
+Le Fur   Marc,Vallaud   Boris,1,1
+Le Fur   Marc,Pradié   Aurélien,1,1
+Le Fur   Marc,Oppelt   Valérie,0,1
+Le Fur   Marc,Dubré-Chirat   Nicole,0,1
+Le Fur   Marc,Girardin   Éric,0,1
+Le Fur   Marc,Zannier   Hélène,0,1
+Le Fur   Marc,Pahun   Jimmy,1,1
+Le Fur   Marc,Bruneel   Alain,1,1
+Le Fur   Marc,Dumont   Pierre-Henri,1,1
+Le Fur   Marc,Poueyto   Josy,1,1
+Le Fur   Marc,Waserman   Sylvain,0,1
+Le Fur   Marc,Lasserre   Florence,0,1
+Le Fur   Marc,Mbaye   Jean François,0,1
+Le Fur   Marc,Ratenon   Jean-Hugues,1,1
+Le Fur   Marc,Brotherson   Moetai,1,1
+Le Fur   Marc,Coquerel   Éric,1,1
+Le Fur   Marc,Charrière   Sylvie,0,1
+Le Fur   Marc,Ramadier   Alain,1,1
+Le Fur   Marc,Riotton   Véronique,0,1
+Le Fur   Marc,Lardet   Frédérique,0,1
+Le Fur   Marc,Lenne   Marion,0,1
+Le Fur   Marc,Le Gendre   Gilles,0,1
+Le Fur   Marc,Terlier   Jean,0,1
+Le Fur   Marc,Rossi   Laurianne,0,1
+Le Fur   Marc,Florennes   Isabelle,0,1
+Le Fur   Marc,Lebec   Marie,0,1
+Le Fur   Marc,Guévenoux   Marie,0,1
+Le Fur   Marc,de Vaucouleurs   Michèle,1,1
+Le Fur   Marc,Obono   Danièle,1,1
+Le Fur   Marc,Millienne   Bruno,0,1
+Le Fur   Marc,Ruffin   François,1,1
+Le Fur   Marc,Houlié   Sacha,0,1
+Le Fur   Marc,Turquois   Nicolas,0,1
+Le Fur   Marc,Jumel   Sébastien,1,1
+Le Fur   Marc,Leclabart   Jean-Claude,0,1
+Le Fur   Marc,Fuchs   Bruno,0,1
+Le Fur   Marc,Thiébaut   Vincent,0,1
+Le Fur   Marc,Ali   Ramlati,0,1
+Le Fur   Marc,Cornut-Gentille   François,1,1
+Mélenchon   Jean-Luc,Reiss   Frédéric,1,1
+Mélenchon   Jean-Luc,Larrivé   Guillaume,1,1
+Mélenchon   Jean-Luc,Kamardine   Mansour,1,1
+Mélenchon   Jean-Luc,Woerth   Éric,1,1
+Mélenchon   Jean-Luc,Pinel   Sylvia,1,1
+Mélenchon   Jean-Luc,Marleix   Olivier,1,1
+Mélenchon   Jean-Luc,Boudié   Florent,0,1
+Mélenchon   Jean-Luc,Errante   Sophie,0,1
+Mélenchon   Jean-Luc,Potier   Dominique,1,1
+Mélenchon   Jean-Luc,Molac   Paul,1,1
+Mélenchon   Jean-Luc,Pires Beaune   Christine,1,1
+Mélenchon   Jean-Luc,Dubié   Jeanine,1,1
+Mélenchon   Jean-Luc,Hetzel   Patrick,1,1
+Mélenchon   Jean-Luc,Untermaier   Cécile,1,1
+Mélenchon   Jean-Luc,Faure   Olivier,1,1
+Mélenchon   Jean-Luc,Bridey   Jean-Jacques,0,1
+Mélenchon   Jean-Luc,Sage   Maina,1,1
+Mélenchon   Jean-Luc,Hérin   Danièle,0,1
+Mélenchon   Jean-Luc,Dombreval   Loïc,0,1
+Mélenchon   Jean-Luc,Dharréville   Pierre,1,1
+Mélenchon   Jean-Luc,Zulesi   Jean-Marc,0,1
+Mélenchon   Jean-Luc,Marsaud   Sandra,0,1
+Mélenchon   Jean-Luc,Castellani   Michel,1,1
+Mélenchon   Jean-Luc,Khattabi   Fadila,0,1
+Mélenchon   Jean-Luc,de Courson   Yolaine,0,1
+Mélenchon   Jean-Luc,Kerlogot   Yannick,0,1
+Mélenchon   Jean-Luc,Vignon   Corinne,0,1
+Mélenchon   Jean-Luc,Balanant   Erwan,1,1
+Mélenchon   Jean-Luc,Ménard   Emmanuelle,1,1
+Mélenchon   Jean-Luc,Euzet   Christophe,0,1
+Mélenchon   Jean-Luc,Mette   Sophie,1,1
+Mélenchon   Jean-Luc,Labaronne   Daniel,0,1
+Mélenchon   Jean-Luc,Thillaye   Sabine,0,1
+Mélenchon   Jean-Luc,Motin   Cendra,0,1
+Mélenchon   Jean-Luc,Abadie   Caroline,0,1
+Mélenchon   Jean-Luc,Brulebois   Danielle,0,1
+Mélenchon   Jean-Luc,Causse   Lionel,1,1
+Mélenchon   Jean-Luc,Vallaud   Boris,1,1
+Mélenchon   Jean-Luc,Pradié   Aurélien,1,1
+Mélenchon   Jean-Luc,Oppelt   Valérie,0,1
+Mélenchon   Jean-Luc,Dubré-Chirat   Nicole,0,1
+Mélenchon   Jean-Luc,Girardin   Éric,0,1
+Mélenchon   Jean-Luc,Zannier   Hélène,0,1
+Mélenchon   Jean-Luc,Pahun   Jimmy,1,1
+Mélenchon   Jean-Luc,Bruneel   Alain,1,1
+Mélenchon   Jean-Luc,Dumont   Pierre-Henri,1,1
+Mélenchon   Jean-Luc,Poueyto   Josy,1,1
+Mélenchon   Jean-Luc,Waserman   Sylvain,0,1
+Mélenchon   Jean-Luc,Lasserre   Florence,0,1
+Mélenchon   Jean-Luc,Mbaye   Jean François,0,1
+Mélenchon   Jean-Luc,Ratenon   Jean-Hugues,1,1
+Mélenchon   Jean-Luc,Brotherson   Moetai,1,1
+Mélenchon   Jean-Luc,Coquerel   Éric,1,1
+Mélenchon   Jean-Luc,Charrière   Sylvie,0,1
+Mélenchon   Jean-Luc,Ramadier   Alain,1,1
+Mélenchon   Jean-Luc,Riotton   Véronique,0,1
+Mélenchon   Jean-Luc,Lardet   Frédérique,0,1
+Mélenchon   Jean-Luc,Lenne   Marion,0,1
+Mélenchon   Jean-Luc,Le Gendre   Gilles,0,1
+Mélenchon   Jean-Luc,Terlier   Jean,0,1
+Mélenchon   Jean-Luc,Rossi   Laurianne,0,1
+Mélenchon   Jean-Luc,Florennes   Isabelle,0,1
+Mélenchon   Jean-Luc,Lebec   Marie,0,1
+Mélenchon   Jean-Luc,Guévenoux   Marie,0,1
+Mélenchon   Jean-Luc,de Vaucouleurs   Michèle,1,1
+Mélenchon   Jean-Luc,Obono   Danièle,1,1
+Mélenchon   Jean-Luc,Millienne   Bruno,0,1
+Mélenchon   Jean-Luc,Ruffin   François,1,1
+Mélenchon   Jean-Luc,Houlié   Sacha,0,1
+Mélenchon   Jean-Luc,Turquois   Nicolas,0,1
+Mélenchon   Jean-Luc,Jumel   Sébastien,1,1
+Mélenchon   Jean-Luc,Leclabart   Jean-Claude,0,1
+Mélenchon   Jean-Luc,Fuchs   Bruno,0,1
+Mélenchon   Jean-Luc,Thiébaut   Vincent,0,1
+Mélenchon   Jean-Luc,Ali   Ramlati,0,1
+Mélenchon   Jean-Luc,Cornut-Gentille   François,1,1
+Reiss   Frédéric,Larrivé   Guillaume,1,1
+Reiss   Frédéric,Kamardine   Mansour,1,1
+Reiss   Frédéric,Woerth   Éric,1,1
+Reiss   Frédéric,Pinel   Sylvia,1,1
+Reiss   Frédéric,Marleix   Olivier,1,1
+Reiss   Frédéric,Boudié   Florent,0,1
+Reiss   Frédéric,Errante   Sophie,0,1
+Reiss   Frédéric,Potier   Dominique,1,1
+Reiss   Frédéric,Molac   Paul,1,1
+Reiss   Frédéric,Pires Beaune   Christine,1,1
+Reiss   Frédéric,Dubié   Jeanine,1,1
+Reiss   Frédéric,Hetzel   Patrick,1,1
+Reiss   Frédéric,Untermaier   Cécile,1,1
+Reiss   Frédéric,Faure   Olivier,1,1
+Reiss   Frédéric,Bridey   Jean-Jacques,0,1
+Reiss   Frédéric,Sage   Maina,1,1
+Reiss   Frédéric,Hérin   Danièle,0,1
+Reiss   Frédéric,Dombreval   Loïc,0,1
+Reiss   Frédéric,Dharréville   Pierre,1,1
+Reiss   Frédéric,Zulesi   Jean-Marc,0,1
+Reiss   Frédéric,Marsaud   Sandra,0,1
+Reiss   Frédéric,Castellani   Michel,1,1
+Reiss   Frédéric,Khattabi   Fadila,0,1
+Reiss   Frédéric,de Courson   Yolaine,0,1
+Reiss   Frédéric,Kerlogot   Yannick,0,1
+Reiss   Frédéric,Vignon   Corinne,0,1
+Reiss   Frédéric,Balanant   Erwan,1,1
+Reiss   Frédéric,Ménard   Emmanuelle,1,1
+Reiss   Frédéric,Euzet   Christophe,0,1
+Reiss   Frédéric,Mette   Sophie,1,1
+Reiss   Frédéric,Labaronne   Daniel,0,1
+Reiss   Frédéric,Thillaye   Sabine,0,1
+Reiss   Frédéric,Motin   Cendra,0,1
+Reiss   Frédéric,Abadie   Caroline,0,1
+Reiss   Frédéric,Brulebois   Danielle,0,1
+Reiss   Frédéric,Causse   Lionel,1,1
+Reiss   Frédéric,Vallaud   Boris,1,1
+Reiss   Frédéric,Pradié   Aurélien,1,1
+Reiss   Frédéric,Oppelt   Valérie,0,1
+Reiss   Frédéric,Dubré-Chirat   Nicole,0,1
+Reiss   Frédéric,Girardin   Éric,0,1
+Reiss   Frédéric,Zannier   Hélène,0,1
+Reiss   Frédéric,Pahun   Jimmy,1,1
+Reiss   Frédéric,Bruneel   Alain,1,1
+Reiss   Frédéric,Dumont   Pierre-Henri,1,1
+Reiss   Frédéric,Poueyto   Josy,1,1
+Reiss   Frédéric,Waserman   Sylvain,0,1
+Reiss   Frédéric,Lasserre   Florence,0,1
+Reiss   Frédéric,Mbaye   Jean François,0,1
+Reiss   Frédéric,Ratenon   Jean-Hugues,1,1
+Reiss   Frédéric,Brotherson   Moetai,1,1
+Reiss   Frédéric,Coquerel   Éric,1,1
+Reiss   Frédéric,Charrière   Sylvie,0,1
+Reiss   Frédéric,Ramadier   Alain,1,1
+Reiss   Frédéric,Riotton   Véronique,0,1
+Reiss   Frédéric,Lardet   Frédérique,0,1
+Reiss   Frédéric,Lenne   Marion,0,1
+Reiss   Frédéric,Le Gendre   Gilles,0,1
+Reiss   Frédéric,Terlier   Jean,0,1
+Reiss   Frédéric,Rossi   Laurianne,0,1
+Reiss   Frédéric,Florennes   Isabelle,0,1
+Reiss   Frédéric,Lebec   Marie,0,1
+Reiss   Frédéric,Guévenoux   Marie,0,1
+Reiss   Frédéric,de Vaucouleurs   Michèle,1,1
+Reiss   Frédéric,Obono   Danièle,1,1
+Reiss   Frédéric,Millienne   Bruno,0,1
+Reiss   Frédéric,Ruffin   François,1,1
+Reiss   Frédéric,Houlié   Sacha,0,1
+Reiss   Frédéric,Turquois   Nicolas,0,1
+Reiss   Frédéric,Jumel   Sébastien,1,1
+Reiss   Frédéric,Leclabart   Jean-Claude,0,1
+Reiss   Frédéric,Fuchs   Bruno,0,1
+Reiss   Frédéric,Thiébaut   Vincent,0,1
+Reiss   Frédéric,Ali   Ramlati,0,1
+Reiss   Frédéric,Cornut-Gentille   François,1,1
+Larrivé   Guillaume,Kamardine   Mansour,1,1
+Larrivé   Guillaume,Woerth   Éric,1,1
+Larrivé   Guillaume,Pinel   Sylvia,1,1
+Larrivé   Guillaume,Marleix   Olivier,1,1
+Larrivé   Guillaume,Boudié   Florent,0,1
+Larrivé   Guillaume,Errante   Sophie,0,1
+Larrivé   Guillaume,Potier   Dominique,1,1
+Larrivé   Guillaume,Molac   Paul,1,1
+Larrivé   Guillaume,Pires Beaune   Christine,1,1
+Larrivé   Guillaume,Dubié   Jeanine,1,1
+Larrivé   Guillaume,Hetzel   Patrick,1,1
+Larrivé   Guillaume,Untermaier   Cécile,1,1
+Larrivé   Guillaume,Faure   Olivier,1,1
+Larrivé   Guillaume,Bridey   Jean-Jacques,0,1
+Larrivé   Guillaume,Sage   Maina,1,1
+Larrivé   Guillaume,Hérin   Danièle,0,1
+Larrivé   Guillaume,Dombreval   Loïc,0,1
+Larrivé   Guillaume,Dharréville   Pierre,1,1
+Larrivé   Guillaume,Zulesi   Jean-Marc,0,1
+Larrivé   Guillaume,Marsaud   Sandra,0,1
+Larrivé   Guillaume,Castellani   Michel,1,1
+Larrivé   Guillaume,Khattabi   Fadila,0,1
+Larrivé   Guillaume,de Courson   Yolaine,0,1
+Larrivé   Guillaume,Kerlogot   Yannick,0,1
+Larrivé   Guillaume,Vignon   Corinne,0,1
+Larrivé   Guillaume,Balanant   Erwan,1,1
+Larrivé   Guillaume,Ménard   Emmanuelle,1,1
+Larrivé   Guillaume,Euzet   Christophe,0,1
+Larrivé   Guillaume,Mette   Sophie,1,1
+Larrivé   Guillaume,Labaronne   Daniel,0,1
+Larrivé   Guillaume,Thillaye   Sabine,0,1
+Larrivé   Guillaume,Motin   Cendra,0,1
+Larrivé   Guillaume,Abadie   Caroline,0,1
+Larrivé   Guillaume,Brulebois   Danielle,0,1
+Larrivé   Guillaume,Causse   Lionel,1,1
+Larrivé   Guillaume,Vallaud   Boris,1,1
+Larrivé   Guillaume,Pradié   Aurélien,1,1
+Larrivé   Guillaume,Oppelt   Valérie,0,1
+Larrivé   Guillaume,Dubré-Chirat   Nicole,0,1
+Larrivé   Guillaume,Girardin   Éric,0,1
+Larrivé   Guillaume,Zannier   Hélène,0,1
+Larrivé   Guillaume,Pahun   Jimmy,1,1
+Larrivé   Guillaume,Bruneel   Alain,1,1
+Larrivé   Guillaume,Dumont   Pierre-Henri,1,1
+Larrivé   Guillaume,Poueyto   Josy,1,1
+Larrivé   Guillaume,Waserman   Sylvain,0,1
+Larrivé   Guillaume,Lasserre   Florence,0,1
+Larrivé   Guillaume,Mbaye   Jean François,0,1
+Larrivé   Guillaume,Ratenon   Jean-Hugues,1,1
+Larrivé   Guillaume,Brotherson   Moetai,1,1
+Larrivé   Guillaume,Coquerel   Éric,1,1
+Larrivé   Guillaume,Charrière   Sylvie,0,1
+Larrivé   Guillaume,Ramadier   Alain,1,1
+Larrivé   Guillaume,Riotton   Véronique,0,1
+Larrivé   Guillaume,Lardet   Frédérique,0,1
+Larrivé   Guillaume,Lenne   Marion,0,1
+Larrivé   Guillaume,Le Gendre   Gilles,0,1
+Larrivé   Guillaume,Terlier   Jean,0,1
+Larrivé   Guillaume,Rossi   Laurianne,0,1
+Larrivé   Guillaume,Florennes   Isabelle,0,1
+Larrivé   Guillaume,Lebec   Marie,0,1
+Larrivé   Guillaume,Guévenoux   Marie,0,1
+Larrivé   Guillaume,de Vaucouleurs   Michèle,1,1
+Larrivé   Guillaume,Obono   Danièle,1,1
+Larrivé   Guillaume,Millienne   Bruno,0,1
+Larrivé   Guillaume,Ruffin   François,1,1
+Larrivé   Guillaume,Houlié   Sacha,0,1
+Larrivé   Guillaume,Turquois   Nicolas,0,1
+Larrivé   Guillaume,Jumel   Sébastien,1,1
+Larrivé   Guillaume,Leclabart   Jean-Claude,0,1
+Larrivé   Guillaume,Fuchs   Bruno,0,1
+Larrivé   Guillaume,Thiébaut   Vincent,0,1
+Larrivé   Guillaume,Ali   Ramlati,0,1
+Larrivé   Guillaume,Cornut-Gentille   François,1,1
+Kamardine   Mansour,Woerth   Éric,1,1
+Kamardine   Mansour,Pinel   Sylvia,1,1
+Kamardine   Mansour,Marleix   Olivier,1,1
+Kamardine   Mansour,Boudié   Florent,0,1
+Kamardine   Mansour,Errante   Sophie,0,1
+Kamardine   Mansour,Potier   Dominique,1,1
+Kamardine   Mansour,Molac   Paul,1,1
+Kamardine   Mansour,Pires Beaune   Christine,1,1
+Kamardine   Mansour,Dubié   Jeanine,1,1
+Kamardine   Mansour,Hetzel   Patrick,1,1
+Kamardine   Mansour,Untermaier   Cécile,1,1
+Kamardine   Mansour,Faure   Olivier,1,1
+Kamardine   Mansour,Bridey   Jean-Jacques,0,1
+Kamardine   Mansour,Sage   Maina,1,1
+Kamardine   Mansour,Hérin   Danièle,0,1
+Kamardine   Mansour,Dombreval   Loïc,0,1
+Kamardine   Mansour,Dharréville   Pierre,1,1
+Kamardine   Mansour,Zulesi   Jean-Marc,0,1
+Kamardine   Mansour,Marsaud   Sandra,0,1
+Kamardine   Mansour,Castellani   Michel,1,1
+Kamardine   Mansour,Khattabi   Fadila,0,1
+Kamardine   Mansour,de Courson   Yolaine,0,1
+Kamardine   Mansour,Kerlogot   Yannick,0,1
+Kamardine   Mansour,Vignon   Corinne,0,1
+Kamardine   Mansour,Balanant   Erwan,1,1
+Kamardine   Mansour,Ménard   Emmanuelle,1,1
+Kamardine   Mansour,Euzet   Christophe,0,1
+Kamardine   Mansour,Mette   Sophie,1,1
+Kamardine   Mansour,Labaronne   Daniel,0,1
+Kamardine   Mansour,Thillaye   Sabine,0,1
+Kamardine   Mansour,Motin   Cendra,0,1
+Kamardine   Mansour,Abadie   Caroline,0,1
+Kamardine   Mansour,Brulebois   Danielle,0,1
+Kamardine   Mansour,Causse   Lionel,1,1
+Kamardine   Mansour,Vallaud   Boris,1,1
+Kamardine   Mansour,Pradié   Aurélien,1,1
+Kamardine   Mansour,Oppelt   Valérie,0,1
+Kamardine   Mansour,Dubré-Chirat   Nicole,0,1
+Kamardine   Mansour,Girardin   Éric,0,1
+Kamardine   Mansour,Zannier   Hélène,0,1
+Kamardine   Mansour,Pahun   Jimmy,1,1
+Kamardine   Mansour,Bruneel   Alain,1,1
+Kamardine   Mansour,Dumont   Pierre-Henri,1,1
+Kamardine   Mansour,Poueyto   Josy,1,1
+Kamardine   Mansour,Waserman   Sylvain,0,1
+Kamardine   Mansour,Lasserre   Florence,0,1
+Kamardine   Mansour,Mbaye   Jean François,0,1
+Kamardine   Mansour,Ratenon   Jean-Hugues,1,1
+Kamardine   Mansour,Brotherson   Moetai,1,1
+Kamardine   Mansour,Coquerel   Éric,1,1
+Kamardine   Mansour,Charrière   Sylvie,0,1
+Kamardine   Mansour,Ramadier   Alain,1,1
+Kamardine   Mansour,Riotton   Véronique,0,1
+Kamardine   Mansour,Lardet   Frédérique,0,1
+Kamardine   Mansour,Lenne   Marion,0,1
+Kamardine   Mansour,Le Gendre   Gilles,0,1
+Kamardine   Mansour,Terlier   Jean,0,1
+Kamardine   Mansour,Rossi   Laurianne,0,1
+Kamardine   Mansour,Florennes   Isabelle,0,1
+Kamardine   Mansour,Lebec   Marie,0,1
+Kamardine   Mansour,Guévenoux   Marie,0,1
+Kamardine   Mansour,de Vaucouleurs   Michèle,1,1
+Kamardine   Mansour,Obono   Danièle,1,1
+Kamardine   Mansour,Millienne   Bruno,0,1
+Kamardine   Mansour,Ruffin   François,1,1
+Kamardine   Mansour,Houlié   Sacha,0,1
+Kamardine   Mansour,Turquois   Nicolas,0,1
+Kamardine   Mansour,Jumel   Sébastien,1,1
+Kamardine   Mansour,Leclabart   Jean-Claude,0,1
+Kamardine   Mansour,Fuchs   Bruno,0,1
+Kamardine   Mansour,Thiébaut   Vincent,0,1
+Kamardine   Mansour,Ali   Ramlati,0,1
+Kamardine   Mansour,Cornut-Gentille   François,1,1
+Woerth   Éric,Pinel   Sylvia,1,1
+Woerth   Éric,Marleix   Olivier,1,1
+Woerth   Éric,Boudié   Florent,0,1
+Woerth   Éric,Errante   Sophie,0,1
+Woerth   Éric,Potier   Dominique,1,1
+Woerth   Éric,Molac   Paul,1,1
+Woerth   Éric,Pires Beaune   Christine,1,1
+Woerth   Éric,Dubié   Jeanine,1,1
+Woerth   Éric,Hetzel   Patrick,1,1
+Woerth   Éric,Untermaier   Cécile,1,1
+Woerth   Éric,Faure   Olivier,1,1
+Woerth   Éric,Bridey   Jean-Jacques,0,1
+Woerth   Éric,Sage   Maina,1,1
+Woerth   Éric,Hérin   Danièle,0,1
+Woerth   Éric,Dombreval   Loïc,0,1
+Woerth   Éric,Dharréville   Pierre,1,1
+Woerth   Éric,Zulesi   Jean-Marc,0,1
+Woerth   Éric,Marsaud   Sandra,0,1
+Woerth   Éric,Castellani   Michel,1,1
+Woerth   Éric,Khattabi   Fadila,0,1
+Woerth   Éric,de Courson   Yolaine,0,1
+Woerth   Éric,Kerlogot   Yannick,0,1
+Woerth   Éric,Vignon   Corinne,0,1
+Woerth   Éric,Balanant   Erwan,1,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Euzet   Christophe,0,1
+Woerth   Éric,Mette   Sophie,1,1
+Woerth   Éric,Labaronne   Daniel,0,1
+Woerth   Éric,Thillaye   Sabine,0,1
+Woerth   Éric,Motin   Cendra,0,1
+Woerth   Éric,Abadie   Caroline,0,1
+Woerth   Éric,Brulebois   Danielle,0,1
+Woerth   Éric,Causse   Lionel,1,1
+Woerth   Éric,Vallaud   Boris,1,1
+Woerth   Éric,Pradié   Aurélien,1,1
+Woerth   Éric,Oppelt   Valérie,0,1
+Woerth   Éric,Dubré-Chirat   Nicole,0,1
+Woerth   Éric,Girardin   Éric,0,1
+Woerth   Éric,Zannier   Hélène,0,1
+Woerth   Éric,Pahun   Jimmy,1,1
+Woerth   Éric,Bruneel   Alain,1,1
+Woerth   Éric,Dumont   Pierre-Henri,1,1
+Woerth   Éric,Poueyto   Josy,1,1
+Woerth   Éric,Waserman   Sylvain,0,1
+Woerth   Éric,Lasserre   Florence,0,1
+Woerth   Éric,Mbaye   Jean François,0,1
+Woerth   Éric,Ratenon   Jean-Hugues,1,1
+Woerth   Éric,Brotherson   Moetai,1,1
+Woerth   Éric,Coquerel   Éric,1,1
+Woerth   Éric,Charrière   Sylvie,0,1
+Woerth   Éric,Ramadier   Alain,1,1
+Woerth   Éric,Riotton   Véronique,0,1
+Woerth   Éric,Lardet   Frédérique,0,1
+Woerth   Éric,Lenne   Marion,0,1
+Woerth   Éric,Le Gendre   Gilles,0,1
+Woerth   Éric,Terlier   Jean,0,1
+Woerth   Éric,Rossi   Laurianne,0,1
+Woerth   Éric,Florennes   Isabelle,0,1
+Woerth   Éric,Lebec   Marie,0,1
+Woerth   Éric,Guévenoux   Marie,0,1
+Woerth   Éric,de Vaucouleurs   Michèle,1,1
+Woerth   Éric,Obono   Danièle,1,1
+Woerth   Éric,Millienne   Bruno,0,1
+Woerth   Éric,Ruffin   François,1,1
+Woerth   Éric,Houlié   Sacha,0,1
+Woerth   Éric,Turquois   Nicolas,0,1
+Woerth   Éric,Jumel   Sébastien,1,1
+Woerth   Éric,Leclabart   Jean-Claude,0,1
+Woerth   Éric,Fuchs   Bruno,0,1
+Woerth   Éric,Thiébaut   Vincent,0,1
+Woerth   Éric,Ali   Ramlati,0,1
+Woerth   Éric,Cornut-Gentille   François,1,1
+Pinel   Sylvia,Marleix   Olivier,1,1
+Pinel   Sylvia,Boudié   Florent,0,1
+Pinel   Sylvia,Errante   Sophie,0,1
+Pinel   Sylvia,Potier   Dominique,1,1
+Pinel   Sylvia,Molac   Paul,1,1
+Pinel   Sylvia,Pires Beaune   Christine,1,1
+Pinel   Sylvia,Dubié   Jeanine,1,1
+Pinel   Sylvia,Hetzel   Patrick,1,1
+Pinel   Sylvia,Untermaier   Cécile,1,1
+Pinel   Sylvia,Faure   Olivier,1,1
+Pinel   Sylvia,Bridey   Jean-Jacques,0,1
+Pinel   Sylvia,Sage   Maina,1,1
+Pinel   Sylvia,Hérin   Danièle,0,1
+Pinel   Sylvia,Dombreval   Loïc,0,1
+Pinel   Sylvia,Dharréville   Pierre,1,1
+Pinel   Sylvia,Zulesi   Jean-Marc,0,1
+Pinel   Sylvia,Marsaud   Sandra,0,1
+Pinel   Sylvia,Castellani   Michel,1,1
+Pinel   Sylvia,Khattabi   Fadila,0,1
+Pinel   Sylvia,de Courson   Yolaine,0,1
+Pinel   Sylvia,Kerlogot   Yannick,0,1
+Pinel   Sylvia,Vignon   Corinne,0,1
+Pinel   Sylvia,Balanant   Erwan,1,1
+Pinel   Sylvia,Ménard   Emmanuelle,1,1
+Pinel   Sylvia,Euzet   Christophe,0,1
+Pinel   Sylvia,Mette   Sophie,1,1
+Pinel   Sylvia,Labaronne   Daniel,0,1
+Pinel   Sylvia,Thillaye   Sabine,0,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Abadie   Caroline,0,1
+Pinel   Sylvia,Brulebois   Danielle,0,1
+Pinel   Sylvia,Causse   Lionel,1,1
+Pinel   Sylvia,Vallaud   Boris,1,1
+Pinel   Sylvia,Pradié   Aurélien,1,1
+Pinel   Sylvia,Oppelt   Valérie,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,0,1
+Pinel   Sylvia,Girardin   Éric,0,1
+Pinel   Sylvia,Zannier   Hélène,0,1
+Pinel   Sylvia,Pahun   Jimmy,1,1
+Pinel   Sylvia,Bruneel   Alain,1,1
+Pinel   Sylvia,Dumont   Pierre-Henri,1,1
+Pinel   Sylvia,Poueyto   Josy,1,1
+Pinel   Sylvia,Waserman   Sylvain,0,1
+Pinel   Sylvia,Lasserre   Florence,0,1
+Pinel   Sylvia,Mbaye   Jean François,0,1
+Pinel   Sylvia,Ratenon   Jean-Hugues,1,1
+Pinel   Sylvia,Brotherson   Moetai,1,1
+Pinel   Sylvia,Coquerel   Éric,1,1
+Pinel   Sylvia,Charrière   Sylvie,0,1
+Pinel   Sylvia,Ramadier   Alain,1,1
+Pinel   Sylvia,Riotton   Véronique,0,1
+Pinel   Sylvia,Lardet   Frédérique,0,1
+Pinel   Sylvia,Lenne   Marion,0,1
+Pinel   Sylvia,Le Gendre   Gilles,0,1
+Pinel   Sylvia,Terlier   Jean,0,1
+Pinel   Sylvia,Rossi   Laurianne,0,1
+Pinel   Sylvia,Florennes   Isabelle,0,1
+Pinel   Sylvia,Lebec   Marie,0,1
+Pinel   Sylvia,Guévenoux   Marie,0,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,1,1
+Pinel   Sylvia,Obono   Danièle,1,1
+Pinel   Sylvia,Millienne   Bruno,0,1
+Pinel   Sylvia,Ruffin   François,1,1
+Pinel   Sylvia,Houlié   Sacha,0,1
+Pinel   Sylvia,Turquois   Nicolas,0,1
+Pinel   Sylvia,Jumel   Sébastien,1,1
+Pinel   Sylvia,Leclabart   Jean-Claude,0,1
+Pinel   Sylvia,Fuchs   Bruno,0,1
+Pinel   Sylvia,Thiébaut   Vincent,0,1
+Pinel   Sylvia,Ali   Ramlati,0,1
+Pinel   Sylvia,Cornut-Gentille   François,1,1
+Marleix   Olivier,Boudié   Florent,0,1
+Marleix   Olivier,Errante   Sophie,0,1
+Marleix   Olivier,Potier   Dominique,1,1
+Marleix   Olivier,Molac   Paul,1,1
+Marleix   Olivier,Pires Beaune   Christine,1,1
+Marleix   Olivier,Dubié   Jeanine,1,1
+Marleix   Olivier,Hetzel   Patrick,1,1
+Marleix   Olivier,Untermaier   Cécile,1,1
+Marleix   Olivier,Faure   Olivier,1,1
+Marleix   Olivier,Bridey   Jean-Jacques,0,1
+Marleix   Olivier,Sage   Maina,1,1
+Marleix   Olivier,Hérin   Danièle,0,1
+Marleix   Olivier,Dombreval   Loïc,0,1
+Marleix   Olivier,Dharréville   Pierre,1,1
+Marleix   Olivier,Zulesi   Jean-Marc,0,1
+Marleix   Olivier,Marsaud   Sandra,0,1
+Marleix   Olivier,Castellani   Michel,1,1
+Marleix   Olivier,Khattabi   Fadila,0,1
+Marleix   Olivier,de Courson   Yolaine,0,1
+Marleix   Olivier,Kerlogot   Yannick,0,1
+Marleix   Olivier,Vignon   Corinne,0,1
+Marleix   Olivier,Balanant   Erwan,1,1
+Marleix   Olivier,Ménard   Emmanuelle,1,1
+Marleix   Olivier,Euzet   Christophe,0,1
+Marleix   Olivier,Mette   Sophie,1,1
+Marleix   Olivier,Labaronne   Daniel,0,1
+Marleix   Olivier,Thillaye   Sabine,0,1
+Marleix   Olivier,Motin   Cendra,0,1
+Marleix   Olivier,Abadie   Caroline,0,1
+Marleix   Olivier,Brulebois   Danielle,0,1
+Marleix   Olivier,Causse   Lionel,1,1
+Marleix   Olivier,Vallaud   Boris,1,1
+Marleix   Olivier,Pradié   Aurélien,1,1
+Marleix   Olivier,Oppelt   Valérie,0,1
+Marleix   Olivier,Dubré-Chirat   Nicole,0,1
+Marleix   Olivier,Girardin   Éric,0,1
+Marleix   Olivier,Zannier   Hélène,0,1
+Marleix   Olivier,Pahun   Jimmy,1,1
+Marleix   Olivier,Bruneel   Alain,1,1
+Marleix   Olivier,Dumont   Pierre-Henri,1,1
+Marleix   Olivier,Poueyto   Josy,1,1
+Marleix   Olivier,Waserman   Sylvain,0,1
+Marleix   Olivier,Lasserre   Florence,0,1
+Marleix   Olivier,Mbaye   Jean François,0,1
+Marleix   Olivier,Ratenon   Jean-Hugues,1,1
+Marleix   Olivier,Brotherson   Moetai,1,1
+Marleix   Olivier,Coquerel   Éric,1,1
+Marleix   Olivier,Charrière   Sylvie,0,1
+Marleix   Olivier,Ramadier   Alain,1,1
+Marleix   Olivier,Riotton   Véronique,0,1
+Marleix   Olivier,Lardet   Frédérique,0,1
+Marleix   Olivier,Lenne   Marion,0,1
+Marleix   Olivier,Le Gendre   Gilles,0,1
+Marleix   Olivier,Terlier   Jean,0,1
+Marleix   Olivier,Rossi   Laurianne,0,1
+Marleix   Olivier,Florennes   Isabelle,0,1
+Marleix   Olivier,Lebec   Marie,0,1
+Marleix   Olivier,Guévenoux   Marie,0,1
+Marleix   Olivier,de Vaucouleurs   Michèle,1,1
+Marleix   Olivier,Obono   Danièle,1,1
+Marleix   Olivier,Millienne   Bruno,0,1
+Marleix   Olivier,Ruffin   François,1,1
+Marleix   Olivier,Houlié   Sacha,0,1
+Marleix   Olivier,Turquois   Nicolas,0,1
+Marleix   Olivier,Jumel   Sébastien,1,1
+Marleix   Olivier,Leclabart   Jean-Claude,0,1
+Marleix   Olivier,Fuchs   Bruno,0,1
+Marleix   Olivier,Thiébaut   Vincent,0,1
+Marleix   Olivier,Ali   Ramlati,0,1
+Marleix   Olivier,Cornut-Gentille   François,1,1
+Boudié   Florent,Errante   Sophie,1,1
+Boudié   Florent,Potier   Dominique,0,1
+Boudié   Florent,Molac   Paul,0,1
+Boudié   Florent,Pires Beaune   Christine,0,1
+Boudié   Florent,Dubié   Jeanine,0,1
+Boudié   Florent,Hetzel   Patrick,0,1
+Boudié   Florent,Untermaier   Cécile,0,1
+Boudié   Florent,Faure   Olivier,0,1
+Boudié   Florent,Bridey   Jean-Jacques,1,1
+Boudié   Florent,Sage   Maina,0,1
+Boudié   Florent,Hérin   Danièle,1,1
+Boudié   Florent,Dombreval   Loïc,1,1
+Boudié   Florent,Dharréville   Pierre,0,1
+Boudié   Florent,Zulesi   Jean-Marc,1,1
+Boudié   Florent,Marsaud   Sandra,1,1
+Boudié   Florent,Castellani   Michel,0,1
+Boudié   Florent,Khattabi   Fadila,1,1
+Boudié   Florent,de Courson   Yolaine,1,1
+Boudié   Florent,Kerlogot   Yannick,0,1
+Boudié   Florent,Vignon   Corinne,1,1
+Boudié   Florent,Balanant   Erwan,0,1
+Boudié   Florent,Ménard   Emmanuelle,0,1
+Boudié   Florent,Euzet   Christophe,1,1
+Boudié   Florent,Mette   Sophie,0,1
+Boudié   Florent,Labaronne   Daniel,1,1
+Boudié   Florent,Thillaye   Sabine,1,1
+Boudié   Florent,Motin   Cendra,1,1
+Boudié   Florent,Abadie   Caroline,1,1
+Boudié   Florent,Brulebois   Danielle,1,1
+Boudié   Florent,Causse   Lionel,0,1
+Boudié   Florent,Vallaud   Boris,0,1
+Boudié   Florent,Pradié   Aurélien,0,1
+Boudié   Florent,Oppelt   Valérie,1,1
+Boudié   Florent,Dubré-Chirat   Nicole,1,1
+Boudié   Florent,Girardin   Éric,1,1
+Boudié   Florent,Zannier   Hélène,1,1
+Boudié   Florent,Pahun   Jimmy,0,1
+Boudié   Florent,Bruneel   Alain,0,1
+Boudié   Florent,Dumont   Pierre-Henri,0,1
+Boudié   Florent,Poueyto   Josy,0,1
+Boudié   Florent,Waserman   Sylvain,1,1
+Boudié   Florent,Lasserre   Florence,1,1
+Boudié   Florent,Mbaye   Jean François,0,1
+Boudié   Florent,Ratenon   Jean-Hugues,0,1
+Boudié   Florent,Brotherson   Moetai,0,1
+Boudié   Florent,Coquerel   Éric,0,1
+Boudié   Florent,Charrière   Sylvie,1,1
+Boudié   Florent,Ramadier   Alain,0,1
+Boudié   Florent,Riotton   Véronique,1,1
+Boudié   Florent,Lardet   Frédérique,1,1
+Boudié   Florent,Lenne   Marion,0,1
+Boudié   Florent,Le Gendre   Gilles,1,1
+Boudié   Florent,Terlier   Jean,1,1
+Boudié   Florent,Rossi   Laurianne,1,1
+Boudié   Florent,Florennes   Isabelle,1,1
+Boudié   Florent,Lebec   Marie,1,1
+Boudié   Florent,Guévenoux   Marie,1,1
+Boudié   Florent,de Vaucouleurs   Michèle,0,1
+Boudié   Florent,Obono   Danièle,0,1
+Boudié   Florent,Millienne   Bruno,1,1
+Boudié   Florent,Ruffin   François,0,1
+Boudié   Florent,Houlié   Sacha,1,1
+Boudié   Florent,Turquois   Nicolas,1,1
+Boudié   Florent,Jumel   Sébastien,0,1
+Boudié   Florent,Leclabart   Jean-Claude,1,1
+Boudié   Florent,Fuchs   Bruno,1,1
+Boudié   Florent,Thiébaut   Vincent,1,1
+Boudié   Florent,Ali   Ramlati,1,1
+Boudié   Florent,Cornut-Gentille   François,0,1
+Errante   Sophie,Potier   Dominique,0,1
+Errante   Sophie,Molac   Paul,0,1
+Errante   Sophie,Pires Beaune   Christine,0,1
+Errante   Sophie,Dubié   Jeanine,0,1
+Errante   Sophie,Hetzel   Patrick,0,1
+Errante   Sophie,Untermaier   Cécile,0,1
+Errante   Sophie,Faure   Olivier,0,1
+Errante   Sophie,Bridey   Jean-Jacques,1,1
+Errante   Sophie,Sage   Maina,0,1
+Errante   Sophie,Hérin   Danièle,1,1
+Errante   Sophie,Dombreval   Loïc,1,1
+Errante   Sophie,Dharréville   Pierre,0,1
+Errante   Sophie,Zulesi   Jean-Marc,1,1
+Errante   Sophie,Marsaud   Sandra,1,1
+Errante   Sophie,Castellani   Michel,0,1
+Errante   Sophie,Khattabi   Fadila,1,1
+Errante   Sophie,de Courson   Yolaine,1,1
+Errante   Sophie,Kerlogot   Yannick,0,1
+Errante   Sophie,Vignon   Corinne,1,1
+Errante   Sophie,Balanant   Erwan,0,1
+Errante   Sophie,Ménard   Emmanuelle,0,1
+Errante   Sophie,Euzet   Christophe,1,1
+Errante   Sophie,Mette   Sophie,0,1
+Errante   Sophie,Labaronne   Daniel,1,1
+Errante   Sophie,Thillaye   Sabine,1,1
+Errante   Sophie,Motin   Cendra,1,1
+Errante   Sophie,Abadie   Caroline,1,1
+Errante   Sophie,Brulebois   Danielle,1,1
+Errante   Sophie,Causse   Lionel,0,1
+Errante   Sophie,Vallaud   Boris,0,1
+Errante   Sophie,Pradié   Aurélien,0,1
+Errante   Sophie,Oppelt   Valérie,1,1
+Errante   Sophie,Dubré-Chirat   Nicole,1,1
+Errante   Sophie,Girardin   Éric,1,1
+Errante   Sophie,Zannier   Hélène,1,1
+Errante   Sophie,Pahun   Jimmy,0,1
+Errante   Sophie,Bruneel   Alain,0,1
+Errante   Sophie,Dumont   Pierre-Henri,0,1
+Errante   Sophie,Poueyto   Josy,0,1
+Errante   Sophie,Waserman   Sylvain,1,1
+Errante   Sophie,Lasserre   Florence,1,1
+Errante   Sophie,Mbaye   Jean François,0,1
+Errante   Sophie,Ratenon   Jean-Hugues,0,1
+Errante   Sophie,Brotherson   Moetai,0,1
+Errante   Sophie,Coquerel   Éric,0,1
+Errante   Sophie,Charrière   Sylvie,1,1
+Errante   Sophie,Ramadier   Alain,0,1
+Errante   Sophie,Riotton   Véronique,1,1
+Errante   Sophie,Lardet   Frédérique,1,1
+Errante   Sophie,Lenne   Marion,0,1
+Errante   Sophie,Le Gendre   Gilles,1,1
+Errante   Sophie,Terlier   Jean,1,1
+Errante   Sophie,Rossi   Laurianne,1,1
+Errante   Sophie,Florennes   Isabelle,1,1
+Errante   Sophie,Lebec   Marie,1,1
+Errante   Sophie,Guévenoux   Marie,1,1
+Errante   Sophie,de Vaucouleurs   Michèle,0,1
+Errante   Sophie,Obono   Danièle,0,1
+Errante   Sophie,Millienne   Bruno,1,1
+Errante   Sophie,Ruffin   François,0,1
+Errante   Sophie,Houlié   Sacha,1,1
+Errante   Sophie,Turquois   Nicolas,1,1
+Errante   Sophie,Jumel   Sébastien,0,1
+Errante   Sophie,Leclabart   Jean-Claude,1,1
+Errante   Sophie,Fuchs   Bruno,1,1
+Errante   Sophie,Thiébaut   Vincent,1,1
+Errante   Sophie,Ali   Ramlati,1,1
+Errante   Sophie,Cornut-Gentille   François,0,1
+Potier   Dominique,Molac   Paul,1,1
+Potier   Dominique,Pires Beaune   Christine,1,1
+Potier   Dominique,Dubié   Jeanine,1,1
+Potier   Dominique,Hetzel   Patrick,1,1
+Potier   Dominique,Untermaier   Cécile,1,1
+Potier   Dominique,Faure   Olivier,1,1
+Potier   Dominique,Bridey   Jean-Jacques,0,1
+Potier   Dominique,Sage   Maina,1,1
+Potier   Dominique,Hérin   Danièle,0,1
+Potier   Dominique,Dombreval   Loïc,0,1
+Potier   Dominique,Dharréville   Pierre,1,1
+Potier   Dominique,Zulesi   Jean-Marc,0,1
+Potier   Dominique,Marsaud   Sandra,0,1
+Potier   Dominique,Castellani   Michel,1,1
+Potier   Dominique,Khattabi   Fadila,0,1
+Potier   Dominique,de Courson   Yolaine,0,1
+Potier   Dominique,Kerlogot   Yannick,0,1
+Potier   Dominique,Vignon   Corinne,0,1
+Potier   Dominique,Balanant   Erwan,1,1
+Potier   Dominique,Ménard   Emmanuelle,1,1
+Potier   Dominique,Euzet   Christophe,0,1
+Potier   Dominique,Mette   Sophie,1,1
+Potier   Dominique,Labaronne   Daniel,0,1
+Potier   Dominique,Thillaye   Sabine,0,1
+Potier   Dominique,Motin   Cendra,0,1
+Potier   Dominique,Abadie   Caroline,0,1
+Potier   Dominique,Brulebois   Danielle,0,1
+Potier   Dominique,Causse   Lionel,1,1
+Potier   Dominique,Vallaud   Boris,1,1
+Potier   Dominique,Pradié   Aurélien,1,1
+Potier   Dominique,Oppelt   Valérie,0,1
+Potier   Dominique,Dubré-Chirat   Nicole,0,1
+Potier   Dominique,Girardin   Éric,0,1
+Potier   Dominique,Zannier   Hélène,0,1
+Potier   Dominique,Pahun   Jimmy,1,1
+Potier   Dominique,Bruneel   Alain,1,1
+Potier   Dominique,Dumont   Pierre-Henri,1,1
+Potier   Dominique,Poueyto   Josy,1,1
+Potier   Dominique,Waserman   Sylvain,0,1
+Potier   Dominique,Lasserre   Florence,0,1
+Potier   Dominique,Mbaye   Jean François,0,1
+Potier   Dominique,Ratenon   Jean-Hugues,1,1
+Potier   Dominique,Brotherson   Moetai,1,1
+Potier   Dominique,Coquerel   Éric,1,1
+Potier   Dominique,Charrière   Sylvie,0,1
+Potier   Dominique,Ramadier   Alain,1,1
+Potier   Dominique,Riotton   Véronique,0,1
+Potier   Dominique,Lardet   Frédérique,0,1
+Potier   Dominique,Lenne   Marion,0,1
+Potier   Dominique,Le Gendre   Gilles,0,1
+Potier   Dominique,Terlier   Jean,0,1
+Potier   Dominique,Rossi   Laurianne,0,1
+Potier   Dominique,Florennes   Isabelle,0,1
+Potier   Dominique,Lebec   Marie,0,1
+Potier   Dominique,Guévenoux   Marie,0,1
+Potier   Dominique,de Vaucouleurs   Michèle,1,1
+Potier   Dominique,Obono   Danièle,1,1
+Potier   Dominique,Millienne   Bruno,0,1
+Potier   Dominique,Ruffin   François,1,1
+Potier   Dominique,Houlié   Sacha,0,1
+Potier   Dominique,Turquois   Nicolas,0,1
+Potier   Dominique,Jumel   Sébastien,1,1
+Potier   Dominique,Leclabart   Jean-Claude,0,1
+Potier   Dominique,Fuchs   Bruno,0,1
+Potier   Dominique,Thiébaut   Vincent,0,1
+Potier   Dominique,Ali   Ramlati,0,1
+Potier   Dominique,Cornut-Gentille   François,1,1
+Molac   Paul,Pires Beaune   Christine,1,1
+Molac   Paul,Dubié   Jeanine,1,1
+Molac   Paul,Hetzel   Patrick,1,1
+Molac   Paul,Untermaier   Cécile,1,1
+Molac   Paul,Faure   Olivier,1,1
+Molac   Paul,Bridey   Jean-Jacques,0,1
+Molac   Paul,Sage   Maina,1,1
+Molac   Paul,Hérin   Danièle,0,1
+Molac   Paul,Dombreval   Loïc,0,1
+Molac   Paul,Dharréville   Pierre,1,1
+Molac   Paul,Zulesi   Jean-Marc,0,1
+Molac   Paul,Marsaud   Sandra,0,1
+Molac   Paul,Castellani   Michel,1,1
+Molac   Paul,Khattabi   Fadila,0,1
+Molac   Paul,de Courson   Yolaine,0,1
+Molac   Paul,Kerlogot   Yannick,0,1
+Molac   Paul,Vignon   Corinne,0,1
+Molac   Paul,Balanant   Erwan,1,1
+Molac   Paul,Ménard   Emmanuelle,1,1
+Molac   Paul,Euzet   Christophe,0,1
+Molac   Paul,Mette   Sophie,1,1
+Molac   Paul,Labaronne   Daniel,0,1
+Molac   Paul,Thillaye   Sabine,0,1
+Molac   Paul,Motin   Cendra,0,1
+Molac   Paul,Abadie   Caroline,0,1
+Molac   Paul,Brulebois   Danielle,0,1
+Molac   Paul,Causse   Lionel,1,1
+Molac   Paul,Vallaud   Boris,1,1
+Molac   Paul,Pradié   Aurélien,1,1
+Molac   Paul,Oppelt   Valérie,0,1
+Molac   Paul,Dubré-Chirat   Nicole,0,1
+Molac   Paul,Girardin   Éric,0,1
+Molac   Paul,Zannier   Hélène,0,1
+Molac   Paul,Pahun   Jimmy,1,1
+Molac   Paul,Bruneel   Alain,1,1
+Molac   Paul,Dumont   Pierre-Henri,1,1
+Molac   Paul,Poueyto   Josy,1,1
+Molac   Paul,Waserman   Sylvain,0,1
+Molac   Paul,Lasserre   Florence,0,1
+Molac   Paul,Mbaye   Jean François,0,1
+Molac   Paul,Ratenon   Jean-Hugues,1,1
+Molac   Paul,Brotherson   Moetai,1,1
+Molac   Paul,Coquerel   Éric,1,1
+Molac   Paul,Charrière   Sylvie,0,1
+Molac   Paul,Ramadier   Alain,1,1
+Molac   Paul,Riotton   Véronique,0,1
+Molac   Paul,Lardet   Frédérique,0,1
+Molac   Paul,Lenne   Marion,0,1
+Molac   Paul,Le Gendre   Gilles,0,1
+Molac   Paul,Terlier   Jean,0,1
+Molac   Paul,Rossi   Laurianne,0,1
+Molac   Paul,Florennes   Isabelle,0,1
+Molac   Paul,Lebec   Marie,0,1
+Molac   Paul,Guévenoux   Marie,0,1
+Molac   Paul,de Vaucouleurs   Michèle,1,1
+Molac   Paul,Obono   Danièle,1,1
+Molac   Paul,Millienne   Bruno,0,1
+Molac   Paul,Ruffin   François,1,1
+Molac   Paul,Houlié   Sacha,0,1
+Molac   Paul,Turquois   Nicolas,0,1
+Molac   Paul,Jumel   Sébastien,1,1
+Molac   Paul,Leclabart   Jean-Claude,0,1
+Molac   Paul,Fuchs   Bruno,0,1
+Molac   Paul,Thiébaut   Vincent,0,1
+Molac   Paul,Ali   Ramlati,0,1
+Molac   Paul,Cornut-Gentille   François,1,1
+Pires Beaune   Christine,Dubié   Jeanine,1,1
+Pires Beaune   Christine,Hetzel   Patrick,1,1
+Pires Beaune   Christine,Untermaier   Cécile,1,1
+Pires Beaune   Christine,Faure   Olivier,1,1
+Pires Beaune   Christine,Bridey   Jean-Jacques,0,1
+Pires Beaune   Christine,Sage   Maina,1,1
+Pires Beaune   Christine,Hérin   Danièle,0,1
+Pires Beaune   Christine,Dombreval   Loïc,0,1
+Pires Beaune   Christine,Dharréville   Pierre,1,1
+Pires Beaune   Christine,Zulesi   Jean-Marc,0,1
+Pires Beaune   Christine,Marsaud   Sandra,0,1
+Pires Beaune   Christine,Castellani   Michel,1,1
+Pires Beaune   Christine,Khattabi   Fadila,0,1
+Pires Beaune   Christine,de Courson   Yolaine,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Vignon   Corinne,0,1
+Pires Beaune   Christine,Balanant   Erwan,1,1
+Pires Beaune   Christine,Ménard   Emmanuelle,1,1
+Pires Beaune   Christine,Euzet   Christophe,0,1
+Pires Beaune   Christine,Mette   Sophie,1,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Thillaye   Sabine,0,1
+Pires Beaune   Christine,Motin   Cendra,0,1
+Pires Beaune   Christine,Abadie   Caroline,0,1
+Pires Beaune   Christine,Brulebois   Danielle,0,1
+Pires Beaune   Christine,Causse   Lionel,1,1
+Pires Beaune   Christine,Vallaud   Boris,1,1
+Pires Beaune   Christine,Pradié   Aurélien,1,1
+Pires Beaune   Christine,Oppelt   Valérie,0,1
+Pires Beaune   Christine,Dubré-Chirat   Nicole,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Pahun   Jimmy,1,1
+Pires Beaune   Christine,Bruneel   Alain,1,1
+Pires Beaune   Christine,Dumont   Pierre-Henri,1,1
+Pires Beaune   Christine,Poueyto   Josy,1,1
+Pires Beaune   Christine,Waserman   Sylvain,0,1
+Pires Beaune   Christine,Lasserre   Florence,0,1
+Pires Beaune   Christine,Mbaye   Jean François,0,1
+Pires Beaune   Christine,Ratenon   Jean-Hugues,1,1
+Pires Beaune   Christine,Brotherson   Moetai,1,1
+Pires Beaune   Christine,Coquerel   Éric,1,1
+Pires Beaune   Christine,Charrière   Sylvie,0,1
+Pires Beaune   Christine,Ramadier   Alain,1,1
+Pires Beaune   Christine,Riotton   Véronique,0,1
+Pires Beaune   Christine,Lardet   Frédérique,0,1
+Pires Beaune   Christine,Lenne   Marion,0,1
+Pires Beaune   Christine,Le Gendre   Gilles,0,1
+Pires Beaune   Christine,Terlier   Jean,0,1
+Pires Beaune   Christine,Rossi   Laurianne,0,1
+Pires Beaune   Christine,Florennes   Isabelle,0,1
+Pires Beaune   Christine,Lebec   Marie,0,1
+Pires Beaune   Christine,Guévenoux   Marie,0,1
+Pires Beaune   Christine,de Vaucouleurs   Michèle,1,1
+Pires Beaune   Christine,Obono   Danièle,1,1
+Pires Beaune   Christine,Millienne   Bruno,0,1
+Pires Beaune   Christine,Ruffin   François,1,1
+Pires Beaune   Christine,Houlié   Sacha,0,1
+Pires Beaune   Christine,Turquois   Nicolas,0,1
+Pires Beaune   Christine,Jumel   Sébastien,1,1
+Pires Beaune   Christine,Leclabart   Jean-Claude,0,1
+Pires Beaune   Christine,Fuchs   Bruno,0,1
+Pires Beaune   Christine,Thiébaut   Vincent,0,1
+Pires Beaune   Christine,Ali   Ramlati,0,1
+Pires Beaune   Christine,Cornut-Gentille   François,1,1
+Dubié   Jeanine,Hetzel   Patrick,1,1
+Dubié   Jeanine,Untermaier   Cécile,1,1
+Dubié   Jeanine,Faure   Olivier,1,1
+Dubié   Jeanine,Bridey   Jean-Jacques,0,1
+Dubié   Jeanine,Sage   Maina,1,1
+Dubié   Jeanine,Hérin   Danièle,0,1
+Dubié   Jeanine,Dombreval   Loïc,0,1
+Dubié   Jeanine,Dharréville   Pierre,1,1
+Dubié   Jeanine,Zulesi   Jean-Marc,0,1
+Dubié   Jeanine,Marsaud   Sandra,0,1
+Dubié   Jeanine,Castellani   Michel,1,1
+Dubié   Jeanine,Khattabi   Fadila,0,1
+Dubié   Jeanine,de Courson   Yolaine,0,1
+Dubié   Jeanine,Kerlogot   Yannick,0,1
+Dubié   Jeanine,Vignon   Corinne,0,1
+Dubié   Jeanine,Balanant   Erwan,1,1
+Dubié   Jeanine,Ménard   Emmanuelle,1,1
+Dubié   Jeanine,Euzet   Christophe,0,1
+Dubié   Jeanine,Mette   Sophie,1,1
+Dubié   Jeanine,Labaronne   Daniel,0,1
+Dubié   Jeanine,Thillaye   Sabine,0,1
+Dubié   Jeanine,Motin   Cendra,0,1
+Dubié   Jeanine,Abadie   Caroline,0,1
+Dubié   Jeanine,Brulebois   Danielle,0,1
+Dubié   Jeanine,Causse   Lionel,1,1
+Dubié   Jeanine,Vallaud   Boris,1,1
+Dubié   Jeanine,Pradié   Aurélien,1,1
+Dubié   Jeanine,Oppelt   Valérie,0,1
+Dubié   Jeanine,Dubré-Chirat   Nicole,0,1
+Dubié   Jeanine,Girardin   Éric,0,1
+Dubié   Jeanine,Zannier   Hélène,0,1
+Dubié   Jeanine,Pahun   Jimmy,1,1
+Dubié   Jeanine,Bruneel   Alain,1,1
+Dubié   Jeanine,Dumont   Pierre-Henri,1,1
+Dubié   Jeanine,Poueyto   Josy,1,1
+Dubié   Jeanine,Waserman   Sylvain,0,1
+Dubié   Jeanine,Lasserre   Florence,0,1
+Dubié   Jeanine,Mbaye   Jean François,0,1
+Dubié   Jeanine,Ratenon   Jean-Hugues,1,1
+Dubié   Jeanine,Brotherson   Moetai,1,1
+Dubié   Jeanine,Coquerel   Éric,1,1
+Dubié   Jeanine,Charrière   Sylvie,0,1
+Dubié   Jeanine,Ramadier   Alain,1,1
+Dubié   Jeanine,Riotton   Véronique,0,1
+Dubié   Jeanine,Lardet   Frédérique,0,1
+Dubié   Jeanine,Lenne   Marion,0,1
+Dubié   Jeanine,Le Gendre   Gilles,0,1
+Dubié   Jeanine,Terlier   Jean,0,1
+Dubié   Jeanine,Rossi   Laurianne,0,1
+Dubié   Jeanine,Florennes   Isabelle,0,1
+Dubié   Jeanine,Lebec   Marie,0,1
+Dubié   Jeanine,Guévenoux   Marie,0,1
+Dubié   Jeanine,de Vaucouleurs   Michèle,1,1
+Dubié   Jeanine,Obono   Danièle,1,1
+Dubié   Jeanine,Millienne   Bruno,0,1
+Dubié   Jeanine,Ruffin   François,1,1
+Dubié   Jeanine,Houlié   Sacha,0,1
+Dubié   Jeanine,Turquois   Nicolas,0,1
+Dubié   Jeanine,Jumel   Sébastien,1,1
+Dubié   Jeanine,Leclabart   Jean-Claude,0,1
+Dubié   Jeanine,Fuchs   Bruno,0,1
+Dubié   Jeanine,Thiébaut   Vincent,0,1
+Dubié   Jeanine,Ali   Ramlati,0,1
+Dubié   Jeanine,Cornut-Gentille   François,1,1
+Hetzel   Patrick,Untermaier   Cécile,1,1
+Hetzel   Patrick,Faure   Olivier,1,1
+Hetzel   Patrick,Bridey   Jean-Jacques,0,1
+Hetzel   Patrick,Sage   Maina,1,1
+Hetzel   Patrick,Hérin   Danièle,0,1
+Hetzel   Patrick,Dombreval   Loïc,0,1
+Hetzel   Patrick,Dharréville   Pierre,1,1
+Hetzel   Patrick,Zulesi   Jean-Marc,0,1
+Hetzel   Patrick,Marsaud   Sandra,0,1
+Hetzel   Patrick,Castellani   Michel,1,1
+Hetzel   Patrick,Khattabi   Fadila,0,1
+Hetzel   Patrick,de Courson   Yolaine,0,1
+Hetzel   Patrick,Kerlogot   Yannick,0,1
+Hetzel   Patrick,Vignon   Corinne,0,1
+Hetzel   Patrick,Balanant   Erwan,1,1
+Hetzel   Patrick,Ménard   Emmanuelle,1,1
+Hetzel   Patrick,Euzet   Christophe,0,1
+Hetzel   Patrick,Mette   Sophie,1,1
+Hetzel   Patrick,Labaronne   Daniel,0,1
+Hetzel   Patrick,Thillaye   Sabine,0,1
+Hetzel   Patrick,Motin   Cendra,0,1
+Hetzel   Patrick,Abadie   Caroline,0,1
+Hetzel   Patrick,Brulebois   Danielle,0,1
+Hetzel   Patrick,Causse   Lionel,1,1
+Hetzel   Patrick,Vallaud   Boris,1,1
+Hetzel   Patrick,Pradié   Aurélien,1,1
+Hetzel   Patrick,Oppelt   Valérie,0,1
+Hetzel   Patrick,Dubré-Chirat   Nicole,0,1
+Hetzel   Patrick,Girardin   Éric,0,1
+Hetzel   Patrick,Zannier   Hélène,0,1
+Hetzel   Patrick,Pahun   Jimmy,1,1
+Hetzel   Patrick,Bruneel   Alain,1,1
+Hetzel   Patrick,Dumont   Pierre-Henri,1,1
+Hetzel   Patrick,Poueyto   Josy,1,1
+Hetzel   Patrick,Waserman   Sylvain,0,1
+Hetzel   Patrick,Lasserre   Florence,0,1
+Hetzel   Patrick,Mbaye   Jean François,0,1
+Hetzel   Patrick,Ratenon   Jean-Hugues,1,1
+Hetzel   Patrick,Brotherson   Moetai,1,1
+Hetzel   Patrick,Coquerel   Éric,1,1
+Hetzel   Patrick,Charrière   Sylvie,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Riotton   Véronique,0,1
+Hetzel   Patrick,Lardet   Frédérique,0,1
+Hetzel   Patrick,Lenne   Marion,0,1
+Hetzel   Patrick,Le Gendre   Gilles,0,1
+Hetzel   Patrick,Terlier   Jean,0,1
+Hetzel   Patrick,Rossi   Laurianne,0,1
+Hetzel   Patrick,Florennes   Isabelle,0,1
+Hetzel   Patrick,Lebec   Marie,0,1
+Hetzel   Patrick,Guévenoux   Marie,0,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,1,1
+Hetzel   Patrick,Obono   Danièle,1,1
+Hetzel   Patrick,Millienne   Bruno,0,1
+Hetzel   Patrick,Ruffin   François,1,1
+Hetzel   Patrick,Houlié   Sacha,0,1
+Hetzel   Patrick,Turquois   Nicolas,0,1
+Hetzel   Patrick,Jumel   Sébastien,1,1
+Hetzel   Patrick,Leclabart   Jean-Claude,0,1
+Hetzel   Patrick,Fuchs   Bruno,0,1
+Hetzel   Patrick,Thiébaut   Vincent,0,1
+Hetzel   Patrick,Ali   Ramlati,0,1
+Hetzel   Patrick,Cornut-Gentille   François,1,1
+Untermaier   Cécile,Faure   Olivier,1,1
+Untermaier   Cécile,Bridey   Jean-Jacques,0,1
+Untermaier   Cécile,Sage   Maina,1,1
+Untermaier   Cécile,Hérin   Danièle,0,1
+Untermaier   Cécile,Dombreval   Loïc,0,1
+Untermaier   Cécile,Dharréville   Pierre,1,1
+Untermaier   Cécile,Zulesi   Jean-Marc,0,1
+Untermaier   Cécile,Marsaud   Sandra,0,1
+Untermaier   Cécile,Castellani   Michel,1,1
+Untermaier   Cécile,Khattabi   Fadila,0,1
+Untermaier   Cécile,de Courson   Yolaine,0,1
+Untermaier   Cécile,Kerlogot   Yannick,0,1
+Untermaier   Cécile,Vignon   Corinne,0,1
+Untermaier   Cécile,Balanant   Erwan,1,1
+Untermaier   Cécile,Ménard   Emmanuelle,1,1
+Untermaier   Cécile,Euzet   Christophe,0,1
+Untermaier   Cécile,Mette   Sophie,1,1
+Untermaier   Cécile,Labaronne   Daniel,0,1
+Untermaier   Cécile,Thillaye   Sabine,0,1
+Untermaier   Cécile,Motin   Cendra,0,1
+Untermaier   Cécile,Abadie   Caroline,0,1
+Untermaier   Cécile,Brulebois   Danielle,0,1
+Untermaier   Cécile,Causse   Lionel,1,1
+Untermaier   Cécile,Vallaud   Boris,1,1
+Untermaier   Cécile,Pradié   Aurélien,1,1
+Untermaier   Cécile,Oppelt   Valérie,0,1
+Untermaier   Cécile,Dubré-Chirat   Nicole,0,1
+Untermaier   Cécile,Girardin   Éric,0,1
+Untermaier   Cécile,Zannier   Hélène,0,1
+Untermaier   Cécile,Pahun   Jimmy,1,1
+Untermaier   Cécile,Bruneel   Alain,1,1
+Untermaier   Cécile,Dumont   Pierre-Henri,1,1
+Untermaier   Cécile,Poueyto   Josy,1,1
+Untermaier   Cécile,Waserman   Sylvain,0,1
+Untermaier   Cécile,Lasserre   Florence,0,1
+Untermaier   Cécile,Mbaye   Jean François,0,1
+Untermaier   Cécile,Ratenon   Jean-Hugues,1,1
+Untermaier   Cécile,Brotherson   Moetai,1,1
+Untermaier   Cécile,Coquerel   Éric,1,1
+Untermaier   Cécile,Charrière   Sylvie,0,1
+Untermaier   Cécile,Ramadier   Alain,1,1
+Untermaier   Cécile,Riotton   Véronique,0,1
+Untermaier   Cécile,Lardet   Frédérique,0,1
+Untermaier   Cécile,Lenne   Marion,0,1
+Untermaier   Cécile,Le Gendre   Gilles,0,1
+Untermaier   Cécile,Terlier   Jean,0,1
+Untermaier   Cécile,Rossi   Laurianne,0,1
+Untermaier   Cécile,Florennes   Isabelle,0,1
+Untermaier   Cécile,Lebec   Marie,0,1
+Untermaier   Cécile,Guévenoux   Marie,0,1
+Untermaier   Cécile,de Vaucouleurs   Michèle,1,1
+Untermaier   Cécile,Obono   Danièle,1,1
+Untermaier   Cécile,Millienne   Bruno,0,1
+Untermaier   Cécile,Ruffin   François,1,1
+Untermaier   Cécile,Houlié   Sacha,0,1
+Untermaier   Cécile,Turquois   Nicolas,0,1
+Untermaier   Cécile,Jumel   Sébastien,1,1
+Untermaier   Cécile,Leclabart   Jean-Claude,0,1
+Untermaier   Cécile,Fuchs   Bruno,0,1
+Untermaier   Cécile,Thiébaut   Vincent,0,1
+Untermaier   Cécile,Ali   Ramlati,0,1
+Untermaier   Cécile,Cornut-Gentille   François,1,1
+Faure   Olivier,Bridey   Jean-Jacques,0,1
+Faure   Olivier,Sage   Maina,1,1
+Faure   Olivier,Hérin   Danièle,0,1
+Faure   Olivier,Dombreval   Loïc,0,1
+Faure   Olivier,Dharréville   Pierre,1,1
+Faure   Olivier,Zulesi   Jean-Marc,0,1
+Faure   Olivier,Marsaud   Sandra,0,1
+Faure   Olivier,Castellani   Michel,1,1
+Faure   Olivier,Khattabi   Fadila,0,1
+Faure   Olivier,de Courson   Yolaine,0,1
+Faure   Olivier,Kerlogot   Yannick,0,1
+Faure   Olivier,Vignon   Corinne,0,1
+Faure   Olivier,Balanant   Erwan,1,1
+Faure   Olivier,Ménard   Emmanuelle,1,1
+Faure   Olivier,Euzet   Christophe,0,1
+Faure   Olivier,Mette   Sophie,1,1
+Faure   Olivier,Labaronne   Daniel,0,1
+Faure   Olivier,Thillaye   Sabine,0,1
+Faure   Olivier,Motin   Cendra,0,1
+Faure   Olivier,Abadie   Caroline,0,1
+Faure   Olivier,Brulebois   Danielle,0,1
+Faure   Olivier,Causse   Lionel,1,1
+Faure   Olivier,Vallaud   Boris,1,1
+Faure   Olivier,Pradié   Aurélien,1,1
+Faure   Olivier,Oppelt   Valérie,0,1
+Faure   Olivier,Dubré-Chirat   Nicole,0,1
+Faure   Olivier,Girardin   Éric,0,1
+Faure   Olivier,Zannier   Hélène,0,1
+Faure   Olivier,Pahun   Jimmy,1,1
+Faure   Olivier,Bruneel   Alain,1,1
+Faure   Olivier,Dumont   Pierre-Henri,1,1
+Faure   Olivier,Poueyto   Josy,1,1
+Faure   Olivier,Waserman   Sylvain,0,1
+Faure   Olivier,Lasserre   Florence,0,1
+Faure   Olivier,Mbaye   Jean François,0,1
+Faure   Olivier,Ratenon   Jean-Hugues,1,1
+Faure   Olivier,Brotherson   Moetai,1,1
+Faure   Olivier,Coquerel   Éric,1,1
+Faure   Olivier,Charrière   Sylvie,0,1
+Faure   Olivier,Ramadier   Alain,1,1
+Faure   Olivier,Riotton   Véronique,0,1
+Faure   Olivier,Lardet   Frédérique,0,1
+Faure   Olivier,Lenne   Marion,0,1
+Faure   Olivier,Le Gendre   Gilles,0,1
+Faure   Olivier,Terlier   Jean,0,1
+Faure   Olivier,Rossi   Laurianne,0,1
+Faure   Olivier,Florennes   Isabelle,0,1
+Faure   Olivier,Lebec   Marie,0,1
+Faure   Olivier,Guévenoux   Marie,0,1
+Faure   Olivier,de Vaucouleurs   Michèle,1,1
+Faure   Olivier,Obono   Danièle,1,1
+Faure   Olivier,Millienne   Bruno,0,1
+Faure   Olivier,Ruffin   François,1,1
+Faure   Olivier,Houlié   Sacha,0,1
+Faure   Olivier,Turquois   Nicolas,0,1
+Faure   Olivier,Jumel   Sébastien,1,1
+Faure   Olivier,Leclabart   Jean-Claude,0,1
+Faure   Olivier,Fuchs   Bruno,0,1
+Faure   Olivier,Thiébaut   Vincent,0,1
+Faure   Olivier,Ali   Ramlati,0,1
+Faure   Olivier,Cornut-Gentille   François,1,1
+Bridey   Jean-Jacques,Sage   Maina,0,1
+Bridey   Jean-Jacques,Hérin   Danièle,1,1
+Bridey   Jean-Jacques,Dombreval   Loïc,1,1
+Bridey   Jean-Jacques,Dharréville   Pierre,0,1
+Bridey   Jean-Jacques,Zulesi   Jean-Marc,1,1
+Bridey   Jean-Jacques,Marsaud   Sandra,1,1
+Bridey   Jean-Jacques,Castellani   Michel,0,1
+Bridey   Jean-Jacques,Khattabi   Fadila,1,1
+Bridey   Jean-Jacques,de Courson   Yolaine,1,1
+Bridey   Jean-Jacques,Kerlogot   Yannick,0,1
+Bridey   Jean-Jacques,Vignon   Corinne,1,1
+Bridey   Jean-Jacques,Balanant   Erwan,0,1
+Bridey   Jean-Jacques,Ménard   Emmanuelle,0,1
+Bridey   Jean-Jacques,Euzet   Christophe,1,1
+Bridey   Jean-Jacques,Mette   Sophie,0,1
+Bridey   Jean-Jacques,Labaronne   Daniel,1,1
+Bridey   Jean-Jacques,Thillaye   Sabine,1,1
+Bridey   Jean-Jacques,Motin   Cendra,1,1
+Bridey   Jean-Jacques,Abadie   Caroline,1,1
+Bridey   Jean-Jacques,Brulebois   Danielle,1,1
+Bridey   Jean-Jacques,Causse   Lionel,0,1
+Bridey   Jean-Jacques,Vallaud   Boris,0,1
+Bridey   Jean-Jacques,Pradié   Aurélien,0,1
+Bridey   Jean-Jacques,Oppelt   Valérie,1,1
+Bridey   Jean-Jacques,Dubré-Chirat   Nicole,1,1
+Bridey   Jean-Jacques,Girardin   Éric,1,1
+Bridey   Jean-Jacques,Zannier   Hélène,1,1
+Bridey   Jean-Jacques,Pahun   Jimmy,0,1
+Bridey   Jean-Jacques,Bruneel   Alain,0,1
+Bridey   Jean-Jacques,Dumont   Pierre-Henri,0,1
+Bridey   Jean-Jacques,Poueyto   Josy,0,1
+Bridey   Jean-Jacques,Waserman   Sylvain,1,1
+Bridey   Jean-Jacques,Lasserre   Florence,1,1
+Bridey   Jean-Jacques,Mbaye   Jean François,0,1
+Bridey   Jean-Jacques,Ratenon   Jean-Hugues,0,1
+Bridey   Jean-Jacques,Brotherson   Moetai,0,1
+Bridey   Jean-Jacques,Coquerel   Éric,0,1
+Bridey   Jean-Jacques,Charrière   Sylvie,1,1
+Bridey   Jean-Jacques,Ramadier   Alain,0,1
+Bridey   Jean-Jacques,Riotton   Véronique,1,1
+Bridey   Jean-Jacques,Lardet   Frédérique,1,1
+Bridey   Jean-Jacques,Lenne   Marion,0,1
+Bridey   Jean-Jacques,Le Gendre   Gilles,1,1
+Bridey   Jean-Jacques,Terlier   Jean,1,1
+Bridey   Jean-Jacques,Rossi   Laurianne,1,1
+Bridey   Jean-Jacques,Florennes   Isabelle,1,1
+Bridey   Jean-Jacques,Lebec   Marie,1,1
+Bridey   Jean-Jacques,Guévenoux   Marie,1,1
+Bridey   Jean-Jacques,de Vaucouleurs   Michèle,0,1
+Bridey   Jean-Jacques,Obono   Danièle,0,1
+Bridey   Jean-Jacques,Millienne   Bruno,1,1
+Bridey   Jean-Jacques,Ruffin   François,0,1
+Bridey   Jean-Jacques,Houlié   Sacha,1,1
+Bridey   Jean-Jacques,Turquois   Nicolas,1,1
+Bridey   Jean-Jacques,Jumel   Sébastien,0,1
+Bridey   Jean-Jacques,Leclabart   Jean-Claude,1,1
+Bridey   Jean-Jacques,Fuchs   Bruno,1,1
+Bridey   Jean-Jacques,Thiébaut   Vincent,1,1
+Bridey   Jean-Jacques,Ali   Ramlati,1,1
+Bridey   Jean-Jacques,Cornut-Gentille   François,0,1
+Sage   Maina,Hérin   Danièle,0,1
+Sage   Maina,Dombreval   Loïc,0,1
+Sage   Maina,Dharréville   Pierre,1,1
+Sage   Maina,Zulesi   Jean-Marc,0,1
+Sage   Maina,Marsaud   Sandra,0,1
+Sage   Maina,Castellani   Michel,1,1
+Sage   Maina,Khattabi   Fadila,0,1
+Sage   Maina,de Courson   Yolaine,0,1
+Sage   Maina,Kerlogot   Yannick,0,1
+Sage   Maina,Vignon   Corinne,0,1
+Sage   Maina,Balanant   Erwan,1,1
+Sage   Maina,Ménard   Emmanuelle,1,1
+Sage   Maina,Euzet   Christophe,0,1
+Sage   Maina,Mette   Sophie,1,1
+Sage   Maina,Labaronne   Daniel,0,1
+Sage   Maina,Thillaye   Sabine,0,1
+Sage   Maina,Motin   Cendra,0,1
+Sage   Maina,Abadie   Caroline,0,1
+Sage   Maina,Brulebois   Danielle,0,1
+Sage   Maina,Causse   Lionel,1,1
+Sage   Maina,Vallaud   Boris,1,1
+Sage   Maina,Pradié   Aurélien,1,1
+Sage   Maina,Oppelt   Valérie,0,1
+Sage   Maina,Dubré-Chirat   Nicole,0,1
+Sage   Maina,Girardin   Éric,0,1
+Sage   Maina,Zannier   Hélène,0,1
+Sage   Maina,Pahun   Jimmy,1,1
+Sage   Maina,Bruneel   Alain,1,1
+Sage   Maina,Dumont   Pierre-Henri,1,1
+Sage   Maina,Poueyto   Josy,1,1
+Sage   Maina,Waserman   Sylvain,0,1
+Sage   Maina,Lasserre   Florence,0,1
+Sage   Maina,Mbaye   Jean François,0,1
+Sage   Maina,Ratenon   Jean-Hugues,1,1
+Sage   Maina,Brotherson   Moetai,1,1
+Sage   Maina,Coquerel   Éric,1,1
+Sage   Maina,Charrière   Sylvie,0,1
+Sage   Maina,Ramadier   Alain,1,1
+Sage   Maina,Riotton   Véronique,0,1
+Sage   Maina,Lardet   Frédérique,0,1
+Sage   Maina,Lenne   Marion,0,1
+Sage   Maina,Le Gendre   Gilles,0,1
+Sage   Maina,Terlier   Jean,0,1
+Sage   Maina,Rossi   Laurianne,0,1
+Sage   Maina,Florennes   Isabelle,0,1
+Sage   Maina,Lebec   Marie,0,1
+Sage   Maina,Guévenoux   Marie,0,1
+Sage   Maina,de Vaucouleurs   Michèle,1,1
+Sage   Maina,Obono   Danièle,1,1
+Sage   Maina,Millienne   Bruno,0,1
+Sage   Maina,Ruffin   François,1,1
+Sage   Maina,Houlié   Sacha,0,1
+Sage   Maina,Turquois   Nicolas,0,1
+Sage   Maina,Jumel   Sébastien,1,1
+Sage   Maina,Leclabart   Jean-Claude,0,1
+Sage   Maina,Fuchs   Bruno,0,1
+Sage   Maina,Thiébaut   Vincent,0,1
+Sage   Maina,Ali   Ramlati,0,1
+Sage   Maina,Cornut-Gentille   François,1,1
+Hérin   Danièle,Dombreval   Loïc,1,1
+Hérin   Danièle,Dharréville   Pierre,0,1
+Hérin   Danièle,Zulesi   Jean-Marc,1,1
+Hérin   Danièle,Marsaud   Sandra,1,1
+Hérin   Danièle,Castellani   Michel,0,1
+Hérin   Danièle,Khattabi   Fadila,1,1
+Hérin   Danièle,de Courson   Yolaine,1,1
+Hérin   Danièle,Kerlogot   Yannick,0,1
+Hérin   Danièle,Vignon   Corinne,1,1
+Hérin   Danièle,Balanant   Erwan,0,1
+Hérin   Danièle,Ménard   Emmanuelle,0,1
+Hérin   Danièle,Euzet   Christophe,1,1
+Hérin   Danièle,Mette   Sophie,0,1
+Hérin   Danièle,Labaronne   Daniel,1,1
+Hérin   Danièle,Thillaye   Sabine,1,1
+Hérin   Danièle,Motin   Cendra,1,1
+Hérin   Danièle,Abadie   Caroline,1,1
+Hérin   Danièle,Brulebois   Danielle,1,1
+Hérin   Danièle,Causse   Lionel,0,1
+Hérin   Danièle,Vallaud   Boris,0,1
+Hérin   Danièle,Pradié   Aurélien,0,1
+Hérin   Danièle,Oppelt   Valérie,1,1
+Hérin   Danièle,Dubré-Chirat   Nicole,1,1
+Hérin   Danièle,Girardin   Éric,1,1
+Hérin   Danièle,Zannier   Hélène,1,1
+Hérin   Danièle,Pahun   Jimmy,0,1
+Hérin   Danièle,Bruneel   Alain,0,1
+Hérin   Danièle,Dumont   Pierre-Henri,0,1
+Hérin   Danièle,Poueyto   Josy,0,1
+Hérin   Danièle,Waserman   Sylvain,1,1
+Hérin   Danièle,Lasserre   Florence,1,1
+Hérin   Danièle,Mbaye   Jean François,0,1
+Hérin   Danièle,Ratenon   Jean-Hugues,0,1
+Hérin   Danièle,Brotherson   Moetai,0,1
+Hérin   Danièle,Coquerel   Éric,0,1
+Hérin   Danièle,Charrière   Sylvie,1,1
+Hérin   Danièle,Ramadier   Alain,0,1
+Hérin   Danièle,Riotton   Véronique,1,1
+Hérin   Danièle,Lardet   Frédérique,1,1
+Hérin   Danièle,Lenne   Marion,0,1
+Hérin   Danièle,Le Gendre   Gilles,1,1
+Hérin   Danièle,Terlier   Jean,1,1
+Hérin   Danièle,Rossi   Laurianne,1,1
+Hérin   Danièle,Florennes   Isabelle,1,1
+Hérin   Danièle,Lebec   Marie,1,1
+Hérin   Danièle,Guévenoux   Marie,1,1
+Hérin   Danièle,de Vaucouleurs   Michèle,0,1
+Hérin   Danièle,Obono   Danièle,0,1
+Hérin   Danièle,Millienne   Bruno,1,1
+Hérin   Danièle,Ruffin   François,0,1
+Hérin   Danièle,Houlié   Sacha,1,1
+Hérin   Danièle,Turquois   Nicolas,1,1
+Hérin   Danièle,Jumel   Sébastien,0,1
+Hérin   Danièle,Leclabart   Jean-Claude,1,1
+Hérin   Danièle,Fuchs   Bruno,1,1
+Hérin   Danièle,Thiébaut   Vincent,1,1
+Hérin   Danièle,Ali   Ramlati,1,1
+Hérin   Danièle,Cornut-Gentille   François,0,1
+Dombreval   Loïc,Dharréville   Pierre,0,1
+Dombreval   Loïc,Zulesi   Jean-Marc,1,1
+Dombreval   Loïc,Marsaud   Sandra,1,1
+Dombreval   Loïc,Castellani   Michel,0,1
+Dombreval   Loïc,Khattabi   Fadila,1,1
+Dombreval   Loïc,de Courson   Yolaine,1,1
+Dombreval   Loïc,Kerlogot   Yannick,0,1
+Dombreval   Loïc,Vignon   Corinne,1,1
+Dombreval   Loïc,Balanant   Erwan,0,1
+Dombreval   Loïc,Ménard   Emmanuelle,0,1
+Dombreval   Loïc,Euzet   Christophe,1,1
+Dombreval   Loïc,Mette   Sophie,0,1
+Dombreval   Loïc,Labaronne   Daniel,1,1
+Dombreval   Loïc,Thillaye   Sabine,1,1
+Dombreval   Loïc,Motin   Cendra,1,1
+Dombreval   Loïc,Abadie   Caroline,1,1
+Dombreval   Loïc,Brulebois   Danielle,1,1
+Dombreval   Loïc,Causse   Lionel,0,1
+Dombreval   Loïc,Vallaud   Boris,0,1
+Dombreval   Loïc,Pradié   Aurélien,0,1
+Dombreval   Loïc,Oppelt   Valérie,1,1
+Dombreval   Loïc,Dubré-Chirat   Nicole,1,1
+Dombreval   Loïc,Girardin   Éric,1,1
+Dombreval   Loïc,Zannier   Hélène,1,1
+Dombreval   Loïc,Pahun   Jimmy,0,1
+Dombreval   Loïc,Bruneel   Alain,0,1
+Dombreval   Loïc,Dumont   Pierre-Henri,0,1
+Dombreval   Loïc,Poueyto   Josy,0,1
+Dombreval   Loïc,Waserman   Sylvain,1,1
+Dombreval   Loïc,Lasserre   Florence,1,1
+Dombreval   Loïc,Mbaye   Jean François,0,1
+Dombreval   Loïc,Ratenon   Jean-Hugues,0,1
+Dombreval   Loïc,Brotherson   Moetai,0,1
+Dombreval   Loïc,Coquerel   Éric,0,1
+Dombreval   Loïc,Charrière   Sylvie,1,1
+Dombreval   Loïc,Ramadier   Alain,0,1
+Dombreval   Loïc,Riotton   Véronique,1,1
+Dombreval   Loïc,Lardet   Frédérique,1,1
+Dombreval   Loïc,Lenne   Marion,0,1
+Dombreval   Loïc,Le Gendre   Gilles,1,1
+Dombreval   Loïc,Terlier   Jean,1,1
+Dombreval   Loïc,Rossi   Laurianne,1,1
+Dombreval   Loïc,Florennes   Isabelle,1,1
+Dombreval   Loïc,Lebec   Marie,1,1
+Dombreval   Loïc,Guévenoux   Marie,1,1
+Dombreval   Loïc,de Vaucouleurs   Michèle,0,1
+Dombreval   Loïc,Obono   Danièle,0,1
+Dombreval   Loïc,Millienne   Bruno,1,1
+Dombreval   Loïc,Ruffin   François,0,1
+Dombreval   Loïc,Houlié   Sacha,1,1
+Dombreval   Loïc,Turquois   Nicolas,1,1
+Dombreval   Loïc,Jumel   Sébastien,0,1
+Dombreval   Loïc,Leclabart   Jean-Claude,1,1
+Dombreval   Loïc,Fuchs   Bruno,1,1
+Dombreval   Loïc,Thiébaut   Vincent,1,1
+Dombreval   Loïc,Ali   Ramlati,1,1
+Dombreval   Loïc,Cornut-Gentille   François,0,1
+Dharréville   Pierre,Zulesi   Jean-Marc,0,1
+Dharréville   Pierre,Marsaud   Sandra,0,1
+Dharréville   Pierre,Castellani   Michel,1,1
+Dharréville   Pierre,Khattabi   Fadila,0,1
+Dharréville   Pierre,de Courson   Yolaine,0,1
+Dharréville   Pierre,Kerlogot   Yannick,0,1
+Dharréville   Pierre,Vignon   Corinne,0,1
+Dharréville   Pierre,Balanant   Erwan,1,1
+Dharréville   Pierre,Ménard   Emmanuelle,1,1
+Dharréville   Pierre,Euzet   Christophe,0,1
+Dharréville   Pierre,Mette   Sophie,1,1
+Dharréville   Pierre,Labaronne   Daniel,0,1
+Dharréville   Pierre,Thillaye   Sabine,0,1
+Dharréville   Pierre,Motin   Cendra,0,1
+Dharréville   Pierre,Abadie   Caroline,0,1
+Dharréville   Pierre,Brulebois   Danielle,0,1
+Dharréville   Pierre,Causse   Lionel,1,1
+Dharréville   Pierre,Vallaud   Boris,1,1
+Dharréville   Pierre,Pradié   Aurélien,1,1
+Dharréville   Pierre,Oppelt   Valérie,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Girardin   Éric,0,1
+Dharréville   Pierre,Zannier   Hélène,0,1
+Dharréville   Pierre,Pahun   Jimmy,1,1
+Dharréville   Pierre,Bruneel   Alain,1,1
+Dharréville   Pierre,Dumont   Pierre-Henri,1,1
+Dharréville   Pierre,Poueyto   Josy,1,1
+Dharréville   Pierre,Waserman   Sylvain,0,1
+Dharréville   Pierre,Lasserre   Florence,0,1
+Dharréville   Pierre,Mbaye   Jean François,0,1
+Dharréville   Pierre,Ratenon   Jean-Hugues,1,1
+Dharréville   Pierre,Brotherson   Moetai,1,1
+Dharréville   Pierre,Coquerel   Éric,1,1
+Dharréville   Pierre,Charrière   Sylvie,0,1
+Dharréville   Pierre,Ramadier   Alain,1,1
+Dharréville   Pierre,Riotton   Véronique,0,1
+Dharréville   Pierre,Lardet   Frédérique,0,1
+Dharréville   Pierre,Lenne   Marion,0,1
+Dharréville   Pierre,Le Gendre   Gilles,0,1
+Dharréville   Pierre,Terlier   Jean,0,1
+Dharréville   Pierre,Rossi   Laurianne,0,1
+Dharréville   Pierre,Florennes   Isabelle,0,1
+Dharréville   Pierre,Lebec   Marie,0,1
+Dharréville   Pierre,Guévenoux   Marie,0,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,1,1
+Dharréville   Pierre,Obono   Danièle,1,1
+Dharréville   Pierre,Millienne   Bruno,0,1
+Dharréville   Pierre,Ruffin   François,1,1
+Dharréville   Pierre,Houlié   Sacha,0,1
+Dharréville   Pierre,Turquois   Nicolas,0,1
+Dharréville   Pierre,Jumel   Sébastien,1,1
+Dharréville   Pierre,Leclabart   Jean-Claude,0,1
+Dharréville   Pierre,Fuchs   Bruno,0,1
+Dharréville   Pierre,Thiébaut   Vincent,0,1
+Dharréville   Pierre,Ali   Ramlati,0,1
+Dharréville   Pierre,Cornut-Gentille   François,1,1
+Zulesi   Jean-Marc,Marsaud   Sandra,1,1
+Zulesi   Jean-Marc,Castellani   Michel,0,1
+Zulesi   Jean-Marc,Khattabi   Fadila,1,1
+Zulesi   Jean-Marc,de Courson   Yolaine,1,1
+Zulesi   Jean-Marc,Kerlogot   Yannick,0,1
+Zulesi   Jean-Marc,Vignon   Corinne,1,1
+Zulesi   Jean-Marc,Balanant   Erwan,0,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,0,1
+Zulesi   Jean-Marc,Euzet   Christophe,1,1
+Zulesi   Jean-Marc,Mette   Sophie,0,1
+Zulesi   Jean-Marc,Labaronne   Daniel,1,1
+Zulesi   Jean-Marc,Thillaye   Sabine,1,1
+Zulesi   Jean-Marc,Motin   Cendra,1,1
+Zulesi   Jean-Marc,Abadie   Caroline,1,1
+Zulesi   Jean-Marc,Brulebois   Danielle,1,1
+Zulesi   Jean-Marc,Causse   Lionel,0,1
+Zulesi   Jean-Marc,Vallaud   Boris,0,1
+Zulesi   Jean-Marc,Pradié   Aurélien,0,1
+Zulesi   Jean-Marc,Oppelt   Valérie,1,1
+Zulesi   Jean-Marc,Dubré-Chirat   Nicole,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,Zannier   Hélène,1,1
+Zulesi   Jean-Marc,Pahun   Jimmy,0,1
+Zulesi   Jean-Marc,Bruneel   Alain,0,1
+Zulesi   Jean-Marc,Dumont   Pierre-Henri,0,1
+Zulesi   Jean-Marc,Poueyto   Josy,0,1
+Zulesi   Jean-Marc,Waserman   Sylvain,1,1
+Zulesi   Jean-Marc,Lasserre   Florence,1,1
+Zulesi   Jean-Marc,Mbaye   Jean François,0,1
+Zulesi   Jean-Marc,Ratenon   Jean-Hugues,0,1
+Zulesi   Jean-Marc,Brotherson   Moetai,0,1
+Zulesi   Jean-Marc,Coquerel   Éric,0,1
+Zulesi   Jean-Marc,Charrière   Sylvie,1,1
+Zulesi   Jean-Marc,Ramadier   Alain,0,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Lardet   Frédérique,1,1
+Zulesi   Jean-Marc,Lenne   Marion,0,1
+Zulesi   Jean-Marc,Le Gendre   Gilles,1,1
+Zulesi   Jean-Marc,Terlier   Jean,1,1
+Zulesi   Jean-Marc,Rossi   Laurianne,1,1
+Zulesi   Jean-Marc,Florennes   Isabelle,1,1
+Zulesi   Jean-Marc,Lebec   Marie,1,1
+Zulesi   Jean-Marc,Guévenoux   Marie,1,1
+Zulesi   Jean-Marc,de Vaucouleurs   Michèle,0,1
+Zulesi   Jean-Marc,Obono   Danièle,0,1
+Zulesi   Jean-Marc,Millienne   Bruno,1,1
+Zulesi   Jean-Marc,Ruffin   François,0,1
+Zulesi   Jean-Marc,Houlié   Sacha,1,1
+Zulesi   Jean-Marc,Turquois   Nicolas,1,1
+Zulesi   Jean-Marc,Jumel   Sébastien,0,1
+Zulesi   Jean-Marc,Leclabart   Jean-Claude,1,1
+Zulesi   Jean-Marc,Fuchs   Bruno,1,1
+Zulesi   Jean-Marc,Thiébaut   Vincent,1,1
+Zulesi   Jean-Marc,Ali   Ramlati,1,1
+Zulesi   Jean-Marc,Cornut-Gentille   François,0,1
+Marsaud   Sandra,Castellani   Michel,0,1
+Marsaud   Sandra,Khattabi   Fadila,1,1
+Marsaud   Sandra,de Courson   Yolaine,1,1
+Marsaud   Sandra,Kerlogot   Yannick,0,1
+Marsaud   Sandra,Vignon   Corinne,1,1
+Marsaud   Sandra,Balanant   Erwan,0,1
+Marsaud   Sandra,Ménard   Emmanuelle,0,1
+Marsaud   Sandra,Euzet   Christophe,1,1
+Marsaud   Sandra,Mette   Sophie,0,1
+Marsaud   Sandra,Labaronne   Daniel,1,1
+Marsaud   Sandra,Thillaye   Sabine,1,1
+Marsaud   Sandra,Motin   Cendra,1,1
+Marsaud   Sandra,Abadie   Caroline,1,1
+Marsaud   Sandra,Brulebois   Danielle,1,1
+Marsaud   Sandra,Causse   Lionel,0,1
+Marsaud   Sandra,Vallaud   Boris,0,1
+Marsaud   Sandra,Pradié   Aurélien,0,1
+Marsaud   Sandra,Oppelt   Valérie,1,1
+Marsaud   Sandra,Dubré-Chirat   Nicole,1,1
+Marsaud   Sandra,Girardin   Éric,1,1
+Marsaud   Sandra,Zannier   Hélène,1,1
+Marsaud   Sandra,Pahun   Jimmy,0,1
+Marsaud   Sandra,Bruneel   Alain,0,1
+Marsaud   Sandra,Dumont   Pierre-Henri,0,1
+Marsaud   Sandra,Poueyto   Josy,0,1
+Marsaud   Sandra,Waserman   Sylvain,1,1
+Marsaud   Sandra,Lasserre   Florence,1,1
+Marsaud   Sandra,Mbaye   Jean François,0,1
+Marsaud   Sandra,Ratenon   Jean-Hugues,0,1
+Marsaud   Sandra,Brotherson   Moetai,0,1
+Marsaud   Sandra,Coquerel   Éric,0,1
+Marsaud   Sandra,Charrière   Sylvie,1,1
+Marsaud   Sandra,Ramadier   Alain,0,1
+Marsaud   Sandra,Riotton   Véronique,1,1
+Marsaud   Sandra,Lardet   Frédérique,1,1
+Marsaud   Sandra,Lenne   Marion,0,1
+Marsaud   Sandra,Le Gendre   Gilles,1,1
+Marsaud   Sandra,Terlier   Jean,1,1
+Marsaud   Sandra,Rossi   Laurianne,1,1
+Marsaud   Sandra,Florennes   Isabelle,1,1
+Marsaud   Sandra,Lebec   Marie,1,1
+Marsaud   Sandra,Guévenoux   Marie,1,1
+Marsaud   Sandra,de Vaucouleurs   Michèle,0,1
+Marsaud   Sandra,Obono   Danièle,0,1
+Marsaud   Sandra,Millienne   Bruno,1,1
+Marsaud   Sandra,Ruffin   François,0,1
+Marsaud   Sandra,Houlié   Sacha,1,1
+Marsaud   Sandra,Turquois   Nicolas,1,1
+Marsaud   Sandra,Jumel   Sébastien,0,1
+Marsaud   Sandra,Leclabart   Jean-Claude,1,1
+Marsaud   Sandra,Fuchs   Bruno,1,1
+Marsaud   Sandra,Thiébaut   Vincent,1,1
+Marsaud   Sandra,Ali   Ramlati,1,1
+Marsaud   Sandra,Cornut-Gentille   François,0,1
+Castellani   Michel,Khattabi   Fadila,0,1
+Castellani   Michel,de Courson   Yolaine,0,1
+Castellani   Michel,Kerlogot   Yannick,0,1
+Castellani   Michel,Vignon   Corinne,0,1
+Castellani   Michel,Balanant   Erwan,1,1
+Castellani   Michel,Ménard   Emmanuelle,1,1
+Castellani   Michel,Euzet   Christophe,0,1
+Castellani   Michel,Mette   Sophie,1,1
+Castellani   Michel,Labaronne   Daniel,0,1
+Castellani   Michel,Thillaye   Sabine,0,1
+Castellani   Michel,Motin   Cendra,0,1
+Castellani   Michel,Abadie   Caroline,0,1
+Castellani   Michel,Brulebois   Danielle,0,1
+Castellani   Michel,Causse   Lionel,1,1
+Castellani   Michel,Vallaud   Boris,1,1
+Castellani   Michel,Pradié   Aurélien,1,1
+Castellani   Michel,Oppelt   Valérie,0,1
+Castellani   Michel,Dubré-Chirat   Nicole,0,1
+Castellani   Michel,Girardin   Éric,0,1
+Castellani   Michel,Zannier   Hélène,0,1
+Castellani   Michel,Pahun   Jimmy,1,1
+Castellani   Michel,Bruneel   Alain,1,1
+Castellani   Michel,Dumont   Pierre-Henri,1,1
+Castellani   Michel,Poueyto   Josy,1,1
+Castellani   Michel,Waserman   Sylvain,0,1
+Castellani   Michel,Lasserre   Florence,0,1
+Castellani   Michel,Mbaye   Jean François,0,1
+Castellani   Michel,Ratenon   Jean-Hugues,1,1
+Castellani   Michel,Brotherson   Moetai,1,1
+Castellani   Michel,Coquerel   Éric,1,1
+Castellani   Michel,Charrière   Sylvie,0,1
+Castellani   Michel,Ramadier   Alain,1,1
+Castellani   Michel,Riotton   Véronique,0,1
+Castellani   Michel,Lardet   Frédérique,0,1
+Castellani   Michel,Lenne   Marion,0,1
+Castellani   Michel,Le Gendre   Gilles,0,1
+Castellani   Michel,Terlier   Jean,0,1
+Castellani   Michel,Rossi   Laurianne,0,1
+Castellani   Michel,Florennes   Isabelle,0,1
+Castellani   Michel,Lebec   Marie,0,1
+Castellani   Michel,Guévenoux   Marie,0,1
+Castellani   Michel,de Vaucouleurs   Michèle,1,1
+Castellani   Michel,Obono   Danièle,1,1
+Castellani   Michel,Millienne   Bruno,0,1
+Castellani   Michel,Ruffin   François,1,1
+Castellani   Michel,Houlié   Sacha,0,1
+Castellani   Michel,Turquois   Nicolas,0,1
+Castellani   Michel,Jumel   Sébastien,1,1
+Castellani   Michel,Leclabart   Jean-Claude,0,1
+Castellani   Michel,Fuchs   Bruno,0,1
+Castellani   Michel,Thiébaut   Vincent,0,1
+Castellani   Michel,Ali   Ramlati,0,1
+Castellani   Michel,Cornut-Gentille   François,1,1
+Khattabi   Fadila,de Courson   Yolaine,1,1
+Khattabi   Fadila,Kerlogot   Yannick,0,1
+Khattabi   Fadila,Vignon   Corinne,1,1
+Khattabi   Fadila,Balanant   Erwan,0,1
+Khattabi   Fadila,Ménard   Emmanuelle,0,1
+Khattabi   Fadila,Euzet   Christophe,1,1
+Khattabi   Fadila,Mette   Sophie,0,1
+Khattabi   Fadila,Labaronne   Daniel,1,1
+Khattabi   Fadila,Thillaye   Sabine,1,1
+Khattabi   Fadila,Motin   Cendra,1,1
+Khattabi   Fadila,Abadie   Caroline,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Causse   Lionel,0,1
+Khattabi   Fadila,Vallaud   Boris,0,1
+Khattabi   Fadila,Pradié   Aurélien,0,1
+Khattabi   Fadila,Oppelt   Valérie,1,1
+Khattabi   Fadila,Dubré-Chirat   Nicole,1,1
+Khattabi   Fadila,Girardin   Éric,1,1
+Khattabi   Fadila,Zannier   Hélène,1,1
+Khattabi   Fadila,Pahun   Jimmy,0,1
+Khattabi   Fadila,Bruneel   Alain,0,1
+Khattabi   Fadila,Dumont   Pierre-Henri,0,1
+Khattabi   Fadila,Poueyto   Josy,0,1
+Khattabi   Fadila,Waserman   Sylvain,1,1
+Khattabi   Fadila,Lasserre   Florence,1,1
+Khattabi   Fadila,Mbaye   Jean François,0,1
+Khattabi   Fadila,Ratenon   Jean-Hugues,0,1
+Khattabi   Fadila,Brotherson   Moetai,0,1
+Khattabi   Fadila,Coquerel   Éric,0,1
+Khattabi   Fadila,Charrière   Sylvie,1,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Riotton   Véronique,1,1
+Khattabi   Fadila,Lardet   Frédérique,1,1
+Khattabi   Fadila,Lenne   Marion,0,1
+Khattabi   Fadila,Le Gendre   Gilles,1,1
+Khattabi   Fadila,Terlier   Jean,1,1
+Khattabi   Fadila,Rossi   Laurianne,1,1
+Khattabi   Fadila,Florennes   Isabelle,1,1
+Khattabi   Fadila,Lebec   Marie,1,1
+Khattabi   Fadila,Guévenoux   Marie,1,1
+Khattabi   Fadila,de Vaucouleurs   Michèle,0,1
+Khattabi   Fadila,Obono   Danièle,0,1
+Khattabi   Fadila,Millienne   Bruno,1,1
+Khattabi   Fadila,Ruffin   François,0,1
+Khattabi   Fadila,Houlié   Sacha,1,1
+Khattabi   Fadila,Turquois   Nicolas,1,1
+Khattabi   Fadila,Jumel   Sébastien,0,1
+Khattabi   Fadila,Leclabart   Jean-Claude,1,1
+Khattabi   Fadila,Fuchs   Bruno,1,1
+Khattabi   Fadila,Thiébaut   Vincent,1,1
+Khattabi   Fadila,Ali   Ramlati,1,1
+Khattabi   Fadila,Cornut-Gentille   François,0,1
+de Courson   Yolaine,Kerlogot   Yannick,0,1
+de Courson   Yolaine,Vignon   Corinne,1,1
+de Courson   Yolaine,Balanant   Erwan,0,1
+de Courson   Yolaine,Ménard   Emmanuelle,0,1
+de Courson   Yolaine,Euzet   Christophe,1,1
+de Courson   Yolaine,Mette   Sophie,0,1
+de Courson   Yolaine,Labaronne   Daniel,1,1
+de Courson   Yolaine,Thillaye   Sabine,1,1
+de Courson   Yolaine,Motin   Cendra,1,1
+de Courson   Yolaine,Abadie   Caroline,1,1
+de Courson   Yolaine,Brulebois   Danielle,1,1
+de Courson   Yolaine,Causse   Lionel,0,1
+de Courson   Yolaine,Vallaud   Boris,0,1
+de Courson   Yolaine,Pradié   Aurélien,0,1
+de Courson   Yolaine,Oppelt   Valérie,1,1
+de Courson   Yolaine,Dubré-Chirat   Nicole,1,1
+de Courson   Yolaine,Girardin   Éric,1,1
+de Courson   Yolaine,Zannier   Hélène,1,1
+de Courson   Yolaine,Pahun   Jimmy,0,1
+de Courson   Yolaine,Bruneel   Alain,0,1
+de Courson   Yolaine,Dumont   Pierre-Henri,0,1
+de Courson   Yolaine,Poueyto   Josy,0,1
+de Courson   Yolaine,Waserman   Sylvain,1,1
+de Courson   Yolaine,Lasserre   Florence,1,1
+de Courson   Yolaine,Mbaye   Jean François,0,1
+de Courson   Yolaine,Ratenon   Jean-Hugues,0,1
+de Courson   Yolaine,Brotherson   Moetai,0,1
+de Courson   Yolaine,Coquerel   Éric,0,1
+de Courson   Yolaine,Charrière   Sylvie,1,1
+de Courson   Yolaine,Ramadier   Alain,0,1
+de Courson   Yolaine,Riotton   Véronique,1,1
+de Courson   Yolaine,Lardet   Frédérique,1,1
+de Courson   Yolaine,Lenne   Marion,0,1
+de Courson   Yolaine,Le Gendre   Gilles,1,1
+de Courson   Yolaine,Terlier   Jean,1,1
+de Courson   Yolaine,Rossi   Laurianne,1,1
+de Courson   Yolaine,Florennes   Isabelle,1,1
+de Courson   Yolaine,Lebec   Marie,1,1
+de Courson   Yolaine,Guévenoux   Marie,1,1
+de Courson   Yolaine,de Vaucouleurs   Michèle,0,1
+de Courson   Yolaine,Obono   Danièle,0,1
+de Courson   Yolaine,Millienne   Bruno,1,1
+de Courson   Yolaine,Ruffin   François,0,1
+de Courson   Yolaine,Houlié   Sacha,1,1
+de Courson   Yolaine,Turquois   Nicolas,1,1
+de Courson   Yolaine,Jumel   Sébastien,0,1
+de Courson   Yolaine,Leclabart   Jean-Claude,1,1
+de Courson   Yolaine,Fuchs   Bruno,1,1
+de Courson   Yolaine,Thiébaut   Vincent,1,1
+de Courson   Yolaine,Ali   Ramlati,1,1
+de Courson   Yolaine,Cornut-Gentille   François,0,1
+Kerlogot   Yannick,Vignon   Corinne,0,1
+Kerlogot   Yannick,Balanant   Erwan,0,1
+Kerlogot   Yannick,Ménard   Emmanuelle,0,1
+Kerlogot   Yannick,Euzet   Christophe,0,1
+Kerlogot   Yannick,Mette   Sophie,0,1
+Kerlogot   Yannick,Labaronne   Daniel,0,1
+Kerlogot   Yannick,Thillaye   Sabine,0,1
+Kerlogot   Yannick,Motin   Cendra,0,1
+Kerlogot   Yannick,Abadie   Caroline,0,1
+Kerlogot   Yannick,Brulebois   Danielle,0,1
+Kerlogot   Yannick,Causse   Lionel,0,1
+Kerlogot   Yannick,Vallaud   Boris,0,1
+Kerlogot   Yannick,Pradié   Aurélien,0,1
+Kerlogot   Yannick,Oppelt   Valérie,0,1
+Kerlogot   Yannick,Dubré-Chirat   Nicole,0,1
+Kerlogot   Yannick,Girardin   Éric,0,1
+Kerlogot   Yannick,Zannier   Hélène,0,1
+Kerlogot   Yannick,Pahun   Jimmy,0,1
+Kerlogot   Yannick,Bruneel   Alain,0,1
+Kerlogot   Yannick,Dumont   Pierre-Henri,0,1
+Kerlogot   Yannick,Poueyto   Josy,0,1
+Kerlogot   Yannick,Waserman   Sylvain,0,1
+Kerlogot   Yannick,Lasserre   Florence,0,1
+Kerlogot   Yannick,Mbaye   Jean François,1,1
+Kerlogot   Yannick,Ratenon   Jean-Hugues,0,1
+Kerlogot   Yannick,Brotherson   Moetai,0,1
+Kerlogot   Yannick,Coquerel   Éric,0,1
+Kerlogot   Yannick,Charrière   Sylvie,0,1
+Kerlogot   Yannick,Ramadier   Alain,0,1
+Kerlogot   Yannick,Riotton   Véronique,0,1
+Kerlogot   Yannick,Lardet   Frédérique,0,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Le Gendre   Gilles,0,1
+Kerlogot   Yannick,Terlier   Jean,0,1
+Kerlogot   Yannick,Rossi   Laurianne,0,1
+Kerlogot   Yannick,Florennes   Isabelle,0,1
+Kerlogot   Yannick,Lebec   Marie,0,1
+Kerlogot   Yannick,Guévenoux   Marie,0,1
+Kerlogot   Yannick,de Vaucouleurs   Michèle,0,1
+Kerlogot   Yannick,Obono   Danièle,0,1
+Kerlogot   Yannick,Millienne   Bruno,0,1
+Kerlogot   Yannick,Ruffin   François,0,1
+Kerlogot   Yannick,Houlié   Sacha,0,1
+Kerlogot   Yannick,Turquois   Nicolas,0,1
+Kerlogot   Yannick,Jumel   Sébastien,0,1
+Kerlogot   Yannick,Leclabart   Jean-Claude,0,1
+Kerlogot   Yannick,Fuchs   Bruno,0,1
+Kerlogot   Yannick,Thiébaut   Vincent,0,1
+Kerlogot   Yannick,Ali   Ramlati,0,1
+Kerlogot   Yannick,Cornut-Gentille   François,0,1
+Vignon   Corinne,Balanant   Erwan,0,1
+Vignon   Corinne,Ménard   Emmanuelle,0,1
+Vignon   Corinne,Euzet   Christophe,1,1
+Vignon   Corinne,Mette   Sophie,0,1
+Vignon   Corinne,Labaronne   Daniel,1,1
+Vignon   Corinne,Thillaye   Sabine,1,1
+Vignon   Corinne,Motin   Cendra,1,1
+Vignon   Corinne,Abadie   Caroline,1,1
+Vignon   Corinne,Brulebois   Danielle,1,1
+Vignon   Corinne,Causse   Lionel,0,1
+Vignon   Corinne,Vallaud   Boris,0,1
+Vignon   Corinne,Pradié   Aurélien,0,1
+Vignon   Corinne,Oppelt   Valérie,1,1
+Vignon   Corinne,Dubré-Chirat   Nicole,1,1
+Vignon   Corinne,Girardin   Éric,1,1
+Vignon   Corinne,Zannier   Hélène,1,1
+Vignon   Corinne,Pahun   Jimmy,0,1
+Vignon   Corinne,Bruneel   Alain,0,1
+Vignon   Corinne,Dumont   Pierre-Henri,0,1
+Vignon   Corinne,Poueyto   Josy,0,1
+Vignon   Corinne,Waserman   Sylvain,1,1
+Vignon   Corinne,Lasserre   Florence,1,1
+Vignon   Corinne,Mbaye   Jean François,0,1
+Vignon   Corinne,Ratenon   Jean-Hugues,0,1
+Vignon   Corinne,Brotherson   Moetai,0,1
+Vignon   Corinne,Coquerel   Éric,0,1
+Vignon   Corinne,Charrière   Sylvie,1,1
+Vignon   Corinne,Ramadier   Alain,0,1
+Vignon   Corinne,Riotton   Véronique,1,1
+Vignon   Corinne,Lardet   Frédérique,1,1
+Vignon   Corinne,Lenne   Marion,0,1
+Vignon   Corinne,Le Gendre   Gilles,1,1
+Vignon   Corinne,Terlier   Jean,1,1
+Vignon   Corinne,Rossi   Laurianne,1,1
+Vignon   Corinne,Florennes   Isabelle,1,1
+Vignon   Corinne,Lebec   Marie,1,1
+Vignon   Corinne,Guévenoux   Marie,1,1
+Vignon   Corinne,de Vaucouleurs   Michèle,0,1
+Vignon   Corinne,Obono   Danièle,0,1
+Vignon   Corinne,Millienne   Bruno,1,1
+Vignon   Corinne,Ruffin   François,0,1
+Vignon   Corinne,Houlié   Sacha,1,1
+Vignon   Corinne,Turquois   Nicolas,1,1
+Vignon   Corinne,Jumel   Sébastien,0,1
+Vignon   Corinne,Leclabart   Jean-Claude,1,1
+Vignon   Corinne,Fuchs   Bruno,1,1
+Vignon   Corinne,Thiébaut   Vincent,1,1
+Vignon   Corinne,Ali   Ramlati,1,1
+Vignon   Corinne,Cornut-Gentille   François,0,1
+Balanant   Erwan,Ménard   Emmanuelle,1,1
+Balanant   Erwan,Euzet   Christophe,0,1
+Balanant   Erwan,Mette   Sophie,1,1
+Balanant   Erwan,Labaronne   Daniel,0,1
+Balanant   Erwan,Thillaye   Sabine,0,1
+Balanant   Erwan,Motin   Cendra,0,1
+Balanant   Erwan,Abadie   Caroline,0,1
+Balanant   Erwan,Brulebois   Danielle,0,1
+Balanant   Erwan,Causse   Lionel,1,1
+Balanant   Erwan,Vallaud   Boris,1,1
+Balanant   Erwan,Pradié   Aurélien,1,1
+Balanant   Erwan,Oppelt   Valérie,0,1
+Balanant   Erwan,Dubré-Chirat   Nicole,0,1
+Balanant   Erwan,Girardin   Éric,0,1
+Balanant   Erwan,Zannier   Hélène,0,1
+Balanant   Erwan,Pahun   Jimmy,1,1
+Balanant   Erwan,Bruneel   Alain,1,1
+Balanant   Erwan,Dumont   Pierre-Henri,1,1
+Balanant   Erwan,Poueyto   Josy,1,1
+Balanant   Erwan,Waserman   Sylvain,0,1
+Balanant   Erwan,Lasserre   Florence,0,1
+Balanant   Erwan,Mbaye   Jean François,0,1
+Balanant   Erwan,Ratenon   Jean-Hugues,1,1
+Balanant   Erwan,Brotherson   Moetai,1,1
+Balanant   Erwan,Coquerel   Éric,1,1
+Balanant   Erwan,Charrière   Sylvie,0,1
+Balanant   Erwan,Ramadier   Alain,1,1
+Balanant   Erwan,Riotton   Véronique,0,1
+Balanant   Erwan,Lardet   Frédérique,0,1
+Balanant   Erwan,Lenne   Marion,0,1
+Balanant   Erwan,Le Gendre   Gilles,0,1
+Balanant   Erwan,Terlier   Jean,0,1
+Balanant   Erwan,Rossi   Laurianne,0,1
+Balanant   Erwan,Florennes   Isabelle,0,1
+Balanant   Erwan,Lebec   Marie,0,1
+Balanant   Erwan,Guévenoux   Marie,0,1
+Balanant   Erwan,de Vaucouleurs   Michèle,1,1
+Balanant   Erwan,Obono   Danièle,1,1
+Balanant   Erwan,Millienne   Bruno,0,1
+Balanant   Erwan,Ruffin   François,1,1
+Balanant   Erwan,Houlié   Sacha,0,1
+Balanant   Erwan,Turquois   Nicolas,0,1
+Balanant   Erwan,Jumel   Sébastien,1,1
+Balanant   Erwan,Leclabart   Jean-Claude,0,1
+Balanant   Erwan,Fuchs   Bruno,0,1
+Balanant   Erwan,Thiébaut   Vincent,0,1
+Balanant   Erwan,Ali   Ramlati,0,1
+Balanant   Erwan,Cornut-Gentille   François,1,1
+Ménard   Emmanuelle,Euzet   Christophe,0,1
+Ménard   Emmanuelle,Mette   Sophie,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Thillaye   Sabine,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Abadie   Caroline,0,1
+Ménard   Emmanuelle,Brulebois   Danielle,0,1
+Ménard   Emmanuelle,Causse   Lionel,1,1
+Ménard   Emmanuelle,Vallaud   Boris,1,1
+Ménard   Emmanuelle,Pradié   Aurélien,1,1
+Ménard   Emmanuelle,Oppelt   Valérie,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Zannier   Hélène,0,1
+Ménard   Emmanuelle,Pahun   Jimmy,1,1
+Ménard   Emmanuelle,Bruneel   Alain,1,1
+Ménard   Emmanuelle,Dumont   Pierre-Henri,1,1
+Ménard   Emmanuelle,Poueyto   Josy,1,1
+Ménard   Emmanuelle,Waserman   Sylvain,0,1
+Ménard   Emmanuelle,Lasserre   Florence,0,1
+Ménard   Emmanuelle,Mbaye   Jean François,0,1
+Ménard   Emmanuelle,Ratenon   Jean-Hugues,1,1
+Ménard   Emmanuelle,Brotherson   Moetai,1,1
+Ménard   Emmanuelle,Coquerel   Éric,1,1
+Ménard   Emmanuelle,Charrière   Sylvie,0,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Riotton   Véronique,0,1
+Ménard   Emmanuelle,Lardet   Frédérique,0,1
+Ménard   Emmanuelle,Lenne   Marion,0,1
+Ménard   Emmanuelle,Le Gendre   Gilles,0,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Rossi   Laurianne,0,1
+Ménard   Emmanuelle,Florennes   Isabelle,0,1
+Ménard   Emmanuelle,Lebec   Marie,0,1
+Ménard   Emmanuelle,Guévenoux   Marie,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,1,1
+Ménard   Emmanuelle,Obono   Danièle,1,1
+Ménard   Emmanuelle,Millienne   Bruno,0,1
+Ménard   Emmanuelle,Ruffin   François,1,1
+Ménard   Emmanuelle,Houlié   Sacha,0,1
+Ménard   Emmanuelle,Turquois   Nicolas,0,1
+Ménard   Emmanuelle,Jumel   Sébastien,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,0,1
+Ménard   Emmanuelle,Fuchs   Bruno,0,1
+Ménard   Emmanuelle,Thiébaut   Vincent,0,1
+Ménard   Emmanuelle,Ali   Ramlati,0,1
+Ménard   Emmanuelle,Cornut-Gentille   François,1,1
+Euzet   Christophe,Mette   Sophie,0,1
+Euzet   Christophe,Labaronne   Daniel,1,1
+Euzet   Christophe,Thillaye   Sabine,1,1
+Euzet   Christophe,Motin   Cendra,1,1
+Euzet   Christophe,Abadie   Caroline,1,1
+Euzet   Christophe,Brulebois   Danielle,1,1
+Euzet   Christophe,Causse   Lionel,0,1
+Euzet   Christophe,Vallaud   Boris,0,1
+Euzet   Christophe,Pradié   Aurélien,0,1
+Euzet   Christophe,Oppelt   Valérie,1,1
+Euzet   Christophe,Dubré-Chirat   Nicole,1,1
+Euzet   Christophe,Girardin   Éric,1,1
+Euzet   Christophe,Zannier   Hélène,1,1
+Euzet   Christophe,Pahun   Jimmy,0,1
+Euzet   Christophe,Bruneel   Alain,0,1
+Euzet   Christophe,Dumont   Pierre-Henri,0,1
+Euzet   Christophe,Poueyto   Josy,0,1
+Euzet   Christophe,Waserman   Sylvain,1,1
+Euzet   Christophe,Lasserre   Florence,1,1
+Euzet   Christophe,Mbaye   Jean François,0,1
+Euzet   Christophe,Ratenon   Jean-Hugues,0,1
+Euzet   Christophe,Brotherson   Moetai,0,1
+Euzet   Christophe,Coquerel   Éric,0,1
+Euzet   Christophe,Charrière   Sylvie,1,1
+Euzet   Christophe,Ramadier   Alain,0,1
+Euzet   Christophe,Riotton   Véronique,1,1
+Euzet   Christophe,Lardet   Frédérique,1,1
+Euzet   Christophe,Lenne   Marion,0,1
+Euzet   Christophe,Le Gendre   Gilles,1,1
+Euzet   Christophe,Terlier   Jean,1,1
+Euzet   Christophe,Rossi   Laurianne,1,1
+Euzet   Christophe,Florennes   Isabelle,1,1
+Euzet   Christophe,Lebec   Marie,1,1
+Euzet   Christophe,Guévenoux   Marie,1,1
+Euzet   Christophe,de Vaucouleurs   Michèle,0,1
+Euzet   Christophe,Obono   Danièle,0,1
+Euzet   Christophe,Millienne   Bruno,1,1
+Euzet   Christophe,Ruffin   François,0,1
+Euzet   Christophe,Houlié   Sacha,1,1
+Euzet   Christophe,Turquois   Nicolas,1,1
+Euzet   Christophe,Jumel   Sébastien,0,1
+Euzet   Christophe,Leclabart   Jean-Claude,1,1
+Euzet   Christophe,Fuchs   Bruno,1,1
+Euzet   Christophe,Thiébaut   Vincent,1,1
+Euzet   Christophe,Ali   Ramlati,1,1
+Euzet   Christophe,Cornut-Gentille   François,0,1
+Mette   Sophie,Labaronne   Daniel,0,1
+Mette   Sophie,Thillaye   Sabine,0,1
+Mette   Sophie,Motin   Cendra,0,1
+Mette   Sophie,Abadie   Caroline,0,1
+Mette   Sophie,Brulebois   Danielle,0,1
+Mette   Sophie,Causse   Lionel,1,1
+Mette   Sophie,Vallaud   Boris,1,1
+Mette   Sophie,Pradié   Aurélien,1,1
+Mette   Sophie,Oppelt   Valérie,0,1
+Mette   Sophie,Dubré-Chirat   Nicole,0,1
+Mette   Sophie,Girardin   Éric,0,1
+Mette   Sophie,Zannier   Hélène,0,1
+Mette   Sophie,Pahun   Jimmy,1,1
+Mette   Sophie,Bruneel   Alain,1,1
+Mette   Sophie,Dumont   Pierre-Henri,1,1
+Mette   Sophie,Poueyto   Josy,1,1
+Mette   Sophie,Waserman   Sylvain,0,1
+Mette   Sophie,Lasserre   Florence,0,1
+Mette   Sophie,Mbaye   Jean François,0,1
+Mette   Sophie,Ratenon   Jean-Hugues,1,1
+Mette   Sophie,Brotherson   Moetai,1,1
+Mette   Sophie,Coquerel   Éric,1,1
+Mette   Sophie,Charrière   Sylvie,0,1
+Mette   Sophie,Ramadier   Alain,1,1
+Mette   Sophie,Riotton   Véronique,0,1
+Mette   Sophie,Lardet   Frédérique,0,1
+Mette   Sophie,Lenne   Marion,0,1
+Mette   Sophie,Le Gendre   Gilles,0,1
+Mette   Sophie,Terlier   Jean,0,1
+Mette   Sophie,Rossi   Laurianne,0,1
+Mette   Sophie,Florennes   Isabelle,0,1
+Mette   Sophie,Lebec   Marie,0,1
+Mette   Sophie,Guévenoux   Marie,0,1
+Mette   Sophie,de Vaucouleurs   Michèle,1,1
+Mette   Sophie,Obono   Danièle,1,1
+Mette   Sophie,Millienne   Bruno,0,1
+Mette   Sophie,Ruffin   François,1,1
+Mette   Sophie,Houlié   Sacha,0,1
+Mette   Sophie,Turquois   Nicolas,0,1
+Mette   Sophie,Jumel   Sébastien,1,1
+Mette   Sophie,Leclabart   Jean-Claude,0,1
+Mette   Sophie,Fuchs   Bruno,0,1
+Mette   Sophie,Thiébaut   Vincent,0,1
+Mette   Sophie,Ali   Ramlati,0,1
+Mette   Sophie,Cornut-Gentille   François,1,1
+Labaronne   Daniel,Thillaye   Sabine,1,1
+Labaronne   Daniel,Motin   Cendra,1,1
+Labaronne   Daniel,Abadie   Caroline,1,1
+Labaronne   Daniel,Brulebois   Danielle,1,1
+Labaronne   Daniel,Causse   Lionel,0,1
+Labaronne   Daniel,Vallaud   Boris,0,1
+Labaronne   Daniel,Pradié   Aurélien,0,1
+Labaronne   Daniel,Oppelt   Valérie,1,1
+Labaronne   Daniel,Dubré-Chirat   Nicole,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Pahun   Jimmy,0,1
+Labaronne   Daniel,Bruneel   Alain,0,1
+Labaronne   Daniel,Dumont   Pierre-Henri,0,1
+Labaronne   Daniel,Poueyto   Josy,0,1
+Labaronne   Daniel,Waserman   Sylvain,1,1
+Labaronne   Daniel,Lasserre   Florence,1,1
+Labaronne   Daniel,Mbaye   Jean François,0,1
+Labaronne   Daniel,Ratenon   Jean-Hugues,0,1
+Labaronne   Daniel,Brotherson   Moetai,0,1
+Labaronne   Daniel,Coquerel   Éric,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Ramadier   Alain,0,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Lardet   Frédérique,1,1
+Labaronne   Daniel,Lenne   Marion,0,1
+Labaronne   Daniel,Le Gendre   Gilles,1,1
+Labaronne   Daniel,Terlier   Jean,1,1
+Labaronne   Daniel,Rossi   Laurianne,1,1
+Labaronne   Daniel,Florennes   Isabelle,1,1
+Labaronne   Daniel,Lebec   Marie,1,1
+Labaronne   Daniel,Guévenoux   Marie,1,1
+Labaronne   Daniel,de Vaucouleurs   Michèle,0,1
+Labaronne   Daniel,Obono   Danièle,0,1
+Labaronne   Daniel,Millienne   Bruno,1,1
+Labaronne   Daniel,Ruffin   François,0,1
+Labaronne   Daniel,Houlié   Sacha,1,1
+Labaronne   Daniel,Turquois   Nicolas,1,1
+Labaronne   Daniel,Jumel   Sébastien,0,1
+Labaronne   Daniel,Leclabart   Jean-Claude,1,1
+Labaronne   Daniel,Fuchs   Bruno,1,1
+Labaronne   Daniel,Thiébaut   Vincent,1,1
+Labaronne   Daniel,Ali   Ramlati,1,1
+Labaronne   Daniel,Cornut-Gentille   François,0,1
+Thillaye   Sabine,Motin   Cendra,1,1
+Thillaye   Sabine,Abadie   Caroline,1,1
+Thillaye   Sabine,Brulebois   Danielle,1,1
+Thillaye   Sabine,Causse   Lionel,0,1
+Thillaye   Sabine,Vallaud   Boris,0,1
+Thillaye   Sabine,Pradié   Aurélien,0,1
+Thillaye   Sabine,Oppelt   Valérie,1,1
+Thillaye   Sabine,Dubré-Chirat   Nicole,1,1
+Thillaye   Sabine,Girardin   Éric,1,1
+Thillaye   Sabine,Zannier   Hélène,1,1
+Thillaye   Sabine,Pahun   Jimmy,0,1
+Thillaye   Sabine,Bruneel   Alain,0,1
+Thillaye   Sabine,Dumont   Pierre-Henri,0,1
+Thillaye   Sabine,Poueyto   Josy,0,1
+Thillaye   Sabine,Waserman   Sylvain,1,1
+Thillaye   Sabine,Lasserre   Florence,1,1
+Thillaye   Sabine,Mbaye   Jean François,0,1
+Thillaye   Sabine,Ratenon   Jean-Hugues,0,1
+Thillaye   Sabine,Brotherson   Moetai,0,1
+Thillaye   Sabine,Coquerel   Éric,0,1
+Thillaye   Sabine,Charrière   Sylvie,1,1
+Thillaye   Sabine,Ramadier   Alain,0,1
+Thillaye   Sabine,Riotton   Véronique,1,1
+Thillaye   Sabine,Lardet   Frédérique,1,1
+Thillaye   Sabine,Lenne   Marion,0,1
+Thillaye   Sabine,Le Gendre   Gilles,1,1
+Thillaye   Sabine,Terlier   Jean,1,1
+Thillaye   Sabine,Rossi   Laurianne,1,1
+Thillaye   Sabine,Florennes   Isabelle,1,1
+Thillaye   Sabine,Lebec   Marie,1,1
+Thillaye   Sabine,Guévenoux   Marie,1,1
+Thillaye   Sabine,de Vaucouleurs   Michèle,0,1
+Thillaye   Sabine,Obono   Danièle,0,1
+Thillaye   Sabine,Millienne   Bruno,1,1
+Thillaye   Sabine,Ruffin   François,0,1
+Thillaye   Sabine,Houlié   Sacha,1,1
+Thillaye   Sabine,Turquois   Nicolas,1,1
+Thillaye   Sabine,Jumel   Sébastien,0,1
+Thillaye   Sabine,Leclabart   Jean-Claude,1,1
+Thillaye   Sabine,Fuchs   Bruno,1,1
+Thillaye   Sabine,Thiébaut   Vincent,1,1
+Thillaye   Sabine,Ali   Ramlati,1,1
+Thillaye   Sabine,Cornut-Gentille   François,0,1
+Motin   Cendra,Abadie   Caroline,1,1
+Motin   Cendra,Brulebois   Danielle,1,1
+Motin   Cendra,Causse   Lionel,0,1
+Motin   Cendra,Vallaud   Boris,0,1
+Motin   Cendra,Pradié   Aurélien,0,1
+Motin   Cendra,Oppelt   Valérie,1,1
+Motin   Cendra,Dubré-Chirat   Nicole,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Zannier   Hélène,1,1
+Motin   Cendra,Pahun   Jimmy,0,1
+Motin   Cendra,Bruneel   Alain,0,1
+Motin   Cendra,Dumont   Pierre-Henri,0,1
+Motin   Cendra,Poueyto   Josy,0,1
+Motin   Cendra,Waserman   Sylvain,1,1
+Motin   Cendra,Lasserre   Florence,1,1
+Motin   Cendra,Mbaye   Jean François,0,1
+Motin   Cendra,Ratenon   Jean-Hugues,0,1
+Motin   Cendra,Brotherson   Moetai,0,1
+Motin   Cendra,Coquerel   Éric,0,1
+Motin   Cendra,Charrière   Sylvie,1,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Riotton   Véronique,1,1
+Motin   Cendra,Lardet   Frédérique,1,1
+Motin   Cendra,Lenne   Marion,0,1
+Motin   Cendra,Le Gendre   Gilles,1,1
+Motin   Cendra,Terlier   Jean,1,1
+Motin   Cendra,Rossi   Laurianne,1,1
+Motin   Cendra,Florennes   Isabelle,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,Guévenoux   Marie,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,0,1
+Motin   Cendra,Obono   Danièle,0,1
+Motin   Cendra,Millienne   Bruno,1,1
+Motin   Cendra,Ruffin   François,0,1
+Motin   Cendra,Houlié   Sacha,1,1
+Motin   Cendra,Turquois   Nicolas,1,1
+Motin   Cendra,Jumel   Sébastien,0,1
+Motin   Cendra,Leclabart   Jean-Claude,1,1
+Motin   Cendra,Fuchs   Bruno,1,1
+Motin   Cendra,Thiébaut   Vincent,1,1
+Motin   Cendra,Ali   Ramlati,1,1
+Motin   Cendra,Cornut-Gentille   François,0,1
+Abadie   Caroline,Brulebois   Danielle,1,1
+Abadie   Caroline,Causse   Lionel,0,1
+Abadie   Caroline,Vallaud   Boris,0,1
+Abadie   Caroline,Pradié   Aurélien,0,1
+Abadie   Caroline,Oppelt   Valérie,1,1
+Abadie   Caroline,Dubré-Chirat   Nicole,1,1
+Abadie   Caroline,Girardin   Éric,1,1
+Abadie   Caroline,Zannier   Hélène,1,1
+Abadie   Caroline,Pahun   Jimmy,0,1
+Abadie   Caroline,Bruneel   Alain,0,1
+Abadie   Caroline,Dumont   Pierre-Henri,0,1
+Abadie   Caroline,Poueyto   Josy,0,1
+Abadie   Caroline,Waserman   Sylvain,1,1
+Abadie   Caroline,Lasserre   Florence,1,1
+Abadie   Caroline,Mbaye   Jean François,0,1
+Abadie   Caroline,Ratenon   Jean-Hugues,0,1
+Abadie   Caroline,Brotherson   Moetai,0,1
+Abadie   Caroline,Coquerel   Éric,0,1
+Abadie   Caroline,Charrière   Sylvie,1,1
+Abadie   Caroline,Ramadier   Alain,0,1
+Abadie   Caroline,Riotton   Véronique,1,1
+Abadie   Caroline,Lardet   Frédérique,1,1
+Abadie   Caroline,Lenne   Marion,0,1
+Abadie   Caroline,Le Gendre   Gilles,1,1
+Abadie   Caroline,Terlier   Jean,1,1
+Abadie   Caroline,Rossi   Laurianne,1,1
+Abadie   Caroline,Florennes   Isabelle,1,1
+Abadie   Caroline,Lebec   Marie,1,1
+Abadie   Caroline,Guévenoux   Marie,1,1
+Abadie   Caroline,de Vaucouleurs   Michèle,0,1
+Abadie   Caroline,Obono   Danièle,0,1
+Abadie   Caroline,Millienne   Bruno,1,1
+Abadie   Caroline,Ruffin   François,0,1
+Abadie   Caroline,Houlié   Sacha,1,1
+Abadie   Caroline,Turquois   Nicolas,1,1
+Abadie   Caroline,Jumel   Sébastien,0,1
+Abadie   Caroline,Leclabart   Jean-Claude,1,1
+Abadie   Caroline,Fuchs   Bruno,1,1
+Abadie   Caroline,Thiébaut   Vincent,1,1
+Abadie   Caroline,Ali   Ramlati,1,1
+Abadie   Caroline,Cornut-Gentille   François,0,1
+Brulebois   Danielle,Causse   Lionel,0,1
+Brulebois   Danielle,Vallaud   Boris,0,1
+Brulebois   Danielle,Pradié   Aurélien,0,1
+Brulebois   Danielle,Oppelt   Valérie,1,1
+Brulebois   Danielle,Dubré-Chirat   Nicole,1,1
+Brulebois   Danielle,Girardin   Éric,1,1
+Brulebois   Danielle,Zannier   Hélène,1,1
+Brulebois   Danielle,Pahun   Jimmy,0,1
+Brulebois   Danielle,Bruneel   Alain,0,1
+Brulebois   Danielle,Dumont   Pierre-Henri,0,1
+Brulebois   Danielle,Poueyto   Josy,0,1
+Brulebois   Danielle,Waserman   Sylvain,1,1
+Brulebois   Danielle,Lasserre   Florence,1,1
+Brulebois   Danielle,Mbaye   Jean François,0,1
+Brulebois   Danielle,Ratenon   Jean-Hugues,0,1
+Brulebois   Danielle,Brotherson   Moetai,0,1
+Brulebois   Danielle,Coquerel   Éric,0,1
+Brulebois   Danielle,Charrière   Sylvie,1,1
+Brulebois   Danielle,Ramadier   Alain,0,1
+Brulebois   Danielle,Riotton   Véronique,1,1
+Brulebois   Danielle,Lardet   Frédérique,1,1
+Brulebois   Danielle,Lenne   Marion,0,1
+Brulebois   Danielle,Le Gendre   Gilles,1,1
+Brulebois   Danielle,Terlier   Jean,1,1
+Brulebois   Danielle,Rossi   Laurianne,1,1
+Brulebois   Danielle,Florennes   Isabelle,1,1
+Brulebois   Danielle,Lebec   Marie,1,1
+Brulebois   Danielle,Guévenoux   Marie,1,1
+Brulebois   Danielle,de Vaucouleurs   Michèle,0,1
+Brulebois   Danielle,Obono   Danièle,0,1
+Brulebois   Danielle,Millienne   Bruno,1,1
+Brulebois   Danielle,Ruffin   François,0,1
+Brulebois   Danielle,Houlié   Sacha,1,1
+Brulebois   Danielle,Turquois   Nicolas,1,1
+Brulebois   Danielle,Jumel   Sébastien,0,1
+Brulebois   Danielle,Leclabart   Jean-Claude,1,1
+Brulebois   Danielle,Fuchs   Bruno,1,1
+Brulebois   Danielle,Thiébaut   Vincent,1,1
+Brulebois   Danielle,Ali   Ramlati,1,1
+Brulebois   Danielle,Cornut-Gentille   François,0,1
+Causse   Lionel,Vallaud   Boris,1,1
+Causse   Lionel,Pradié   Aurélien,1,1
+Causse   Lionel,Oppelt   Valérie,0,1
+Causse   Lionel,Dubré-Chirat   Nicole,0,1
+Causse   Lionel,Girardin   Éric,0,1
+Causse   Lionel,Zannier   Hélène,0,1
+Causse   Lionel,Pahun   Jimmy,1,1
+Causse   Lionel,Bruneel   Alain,1,1
+Causse   Lionel,Dumont   Pierre-Henri,1,1
+Causse   Lionel,Poueyto   Josy,1,1
+Causse   Lionel,Waserman   Sylvain,0,1
+Causse   Lionel,Lasserre   Florence,0,1
+Causse   Lionel,Mbaye   Jean François,0,1
+Causse   Lionel,Ratenon   Jean-Hugues,1,1
+Causse   Lionel,Brotherson   Moetai,1,1
+Causse   Lionel,Coquerel   Éric,1,1
+Causse   Lionel,Charrière   Sylvie,0,1
+Causse   Lionel,Ramadier   Alain,1,1
+Causse   Lionel,Riotton   Véronique,0,1
+Causse   Lionel,Lardet   Frédérique,0,1
+Causse   Lionel,Lenne   Marion,0,1
+Causse   Lionel,Le Gendre   Gilles,0,1
+Causse   Lionel,Terlier   Jean,0,1
+Causse   Lionel,Rossi   Laurianne,0,1
+Causse   Lionel,Florennes   Isabelle,0,1
+Causse   Lionel,Lebec   Marie,0,1
+Causse   Lionel,Guévenoux   Marie,0,1
+Causse   Lionel,de Vaucouleurs   Michèle,1,1
+Causse   Lionel,Obono   Danièle,1,1
+Causse   Lionel,Millienne   Bruno,0,1
+Causse   Lionel,Ruffin   François,1,1
+Causse   Lionel,Houlié   Sacha,0,1
+Causse   Lionel,Turquois   Nicolas,0,1
+Causse   Lionel,Jumel   Sébastien,1,1
+Causse   Lionel,Leclabart   Jean-Claude,0,1
+Causse   Lionel,Fuchs   Bruno,0,1
+Causse   Lionel,Thiébaut   Vincent,0,1
+Causse   Lionel,Ali   Ramlati,0,1
+Causse   Lionel,Cornut-Gentille   François,1,1
+Vallaud   Boris,Pradié   Aurélien,1,1
+Vallaud   Boris,Oppelt   Valérie,0,1
+Vallaud   Boris,Dubré-Chirat   Nicole,0,1
+Vallaud   Boris,Girardin   Éric,0,1
+Vallaud   Boris,Zannier   Hélène,0,1
+Vallaud   Boris,Pahun   Jimmy,1,1
+Vallaud   Boris,Bruneel   Alain,1,1
+Vallaud   Boris,Dumont   Pierre-Henri,1,1
+Vallaud   Boris,Poueyto   Josy,1,1
+Vallaud   Boris,Waserman   Sylvain,0,1
+Vallaud   Boris,Lasserre   Florence,0,1
+Vallaud   Boris,Mbaye   Jean François,0,1
+Vallaud   Boris,Ratenon   Jean-Hugues,1,1
+Vallaud   Boris,Brotherson   Moetai,1,1
+Vallaud   Boris,Coquerel   Éric,1,1
+Vallaud   Boris,Charrière   Sylvie,0,1
+Vallaud   Boris,Ramadier   Alain,1,1
+Vallaud   Boris,Riotton   Véronique,0,1
+Vallaud   Boris,Lardet   Frédérique,0,1
+Vallaud   Boris,Lenne   Marion,0,1
+Vallaud   Boris,Le Gendre   Gilles,0,1
+Vallaud   Boris,Terlier   Jean,0,1
+Vallaud   Boris,Rossi   Laurianne,0,1
+Vallaud   Boris,Florennes   Isabelle,0,1
+Vallaud   Boris,Lebec   Marie,0,1
+Vallaud   Boris,Guévenoux   Marie,0,1
+Vallaud   Boris,de Vaucouleurs   Michèle,1,1
+Vallaud   Boris,Obono   Danièle,1,1
+Vallaud   Boris,Millienne   Bruno,0,1
+Vallaud   Boris,Ruffin   François,1,1
+Vallaud   Boris,Houlié   Sacha,0,1
+Vallaud   Boris,Turquois   Nicolas,0,1
+Vallaud   Boris,Jumel   Sébastien,1,1
+Vallaud   Boris,Leclabart   Jean-Claude,0,1
+Vallaud   Boris,Fuchs   Bruno,0,1
+Vallaud   Boris,Thiébaut   Vincent,0,1
+Vallaud   Boris,Ali   Ramlati,0,1
+Vallaud   Boris,Cornut-Gentille   François,1,1
+Pradié   Aurélien,Oppelt   Valérie,0,1
+Pradié   Aurélien,Dubré-Chirat   Nicole,0,1
+Pradié   Aurélien,Girardin   Éric,0,1
+Pradié   Aurélien,Zannier   Hélène,0,1
+Pradié   Aurélien,Pahun   Jimmy,1,1
+Pradié   Aurélien,Bruneel   Alain,1,1
+Pradié   Aurélien,Dumont   Pierre-Henri,1,1
+Pradié   Aurélien,Poueyto   Josy,1,1
+Pradié   Aurélien,Waserman   Sylvain,0,1
+Pradié   Aurélien,Lasserre   Florence,0,1
+Pradié   Aurélien,Mbaye   Jean François,0,1
+Pradié   Aurélien,Ratenon   Jean-Hugues,1,1
+Pradié   Aurélien,Brotherson   Moetai,1,1
+Pradié   Aurélien,Coquerel   Éric,1,1
+Pradié   Aurélien,Charrière   Sylvie,0,1
+Pradié   Aurélien,Ramadier   Alain,1,1
+Pradié   Aurélien,Riotton   Véronique,0,1
+Pradié   Aurélien,Lardet   Frédérique,0,1
+Pradié   Aurélien,Lenne   Marion,0,1
+Pradié   Aurélien,Le Gendre   Gilles,0,1
+Pradié   Aurélien,Terlier   Jean,0,1
+Pradié   Aurélien,Rossi   Laurianne,0,1
+Pradié   Aurélien,Florennes   Isabelle,0,1
+Pradié   Aurélien,Lebec   Marie,0,1
+Pradié   Aurélien,Guévenoux   Marie,0,1
+Pradié   Aurélien,de Vaucouleurs   Michèle,1,1
+Pradié   Aurélien,Obono   Danièle,1,1
+Pradié   Aurélien,Millienne   Bruno,0,1
+Pradié   Aurélien,Ruffin   François,1,1
+Pradié   Aurélien,Houlié   Sacha,0,1
+Pradié   Aurélien,Turquois   Nicolas,0,1
+Pradié   Aurélien,Jumel   Sébastien,1,1
+Pradié   Aurélien,Leclabart   Jean-Claude,0,1
+Pradié   Aurélien,Fuchs   Bruno,0,1
+Pradié   Aurélien,Thiébaut   Vincent,0,1
+Pradié   Aurélien,Ali   Ramlati,0,1
+Pradié   Aurélien,Cornut-Gentille   François,1,1
+Oppelt   Valérie,Dubré-Chirat   Nicole,1,1
+Oppelt   Valérie,Girardin   Éric,1,1
+Oppelt   Valérie,Zannier   Hélène,1,1
+Oppelt   Valérie,Pahun   Jimmy,0,1
+Oppelt   Valérie,Bruneel   Alain,0,1
+Oppelt   Valérie,Dumont   Pierre-Henri,0,1
+Oppelt   Valérie,Poueyto   Josy,0,1
+Oppelt   Valérie,Waserman   Sylvain,1,1
+Oppelt   Valérie,Lasserre   Florence,1,1
+Oppelt   Valérie,Mbaye   Jean François,0,1
+Oppelt   Valérie,Ratenon   Jean-Hugues,0,1
+Oppelt   Valérie,Brotherson   Moetai,0,1
+Oppelt   Valérie,Coquerel   Éric,0,1
+Oppelt   Valérie,Charrière   Sylvie,1,1
+Oppelt   Valérie,Ramadier   Alain,0,1
+Oppelt   Valérie,Riotton   Véronique,1,1
+Oppelt   Valérie,Lardet   Frédérique,1,1
+Oppelt   Valérie,Lenne   Marion,0,1
+Oppelt   Valérie,Le Gendre   Gilles,1,1
+Oppelt   Valérie,Terlier   Jean,1,1
+Oppelt   Valérie,Rossi   Laurianne,1,1
+Oppelt   Valérie,Florennes   Isabelle,1,1
+Oppelt   Valérie,Lebec   Marie,1,1
+Oppelt   Valérie,Guévenoux   Marie,1,1
+Oppelt   Valérie,de Vaucouleurs   Michèle,0,1
+Oppelt   Valérie,Obono   Danièle,0,1
+Oppelt   Valérie,Millienne   Bruno,1,1
+Oppelt   Valérie,Ruffin   François,0,1
+Oppelt   Valérie,Houlié   Sacha,1,1
+Oppelt   Valérie,Turquois   Nicolas,1,1
+Oppelt   Valérie,Jumel   Sébastien,0,1
+Oppelt   Valérie,Leclabart   Jean-Claude,1,1
+Oppelt   Valérie,Fuchs   Bruno,1,1
+Oppelt   Valérie,Thiébaut   Vincent,1,1
+Oppelt   Valérie,Ali   Ramlati,1,1
+Oppelt   Valérie,Cornut-Gentille   François,0,1
+Dubré-Chirat   Nicole,Girardin   Éric,1,1
+Dubré-Chirat   Nicole,Zannier   Hélène,1,1
+Dubré-Chirat   Nicole,Pahun   Jimmy,0,1
+Dubré-Chirat   Nicole,Bruneel   Alain,0,1
+Dubré-Chirat   Nicole,Dumont   Pierre-Henri,0,1
+Dubré-Chirat   Nicole,Poueyto   Josy,0,1
+Dubré-Chirat   Nicole,Waserman   Sylvain,1,1
+Dubré-Chirat   Nicole,Lasserre   Florence,1,1
+Dubré-Chirat   Nicole,Mbaye   Jean François,0,1
+Dubré-Chirat   Nicole,Ratenon   Jean-Hugues,0,1
+Dubré-Chirat   Nicole,Brotherson   Moetai,0,1
+Dubré-Chirat   Nicole,Coquerel   Éric,0,1
+Dubré-Chirat   Nicole,Charrière   Sylvie,1,1
+Dubré-Chirat   Nicole,Ramadier   Alain,0,1
+Dubré-Chirat   Nicole,Riotton   Véronique,1,1
+Dubré-Chirat   Nicole,Lardet   Frédérique,1,1
+Dubré-Chirat   Nicole,Lenne   Marion,0,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Rossi   Laurianne,1,1
+Dubré-Chirat   Nicole,Florennes   Isabelle,1,1
+Dubré-Chirat   Nicole,Lebec   Marie,1,1
+Dubré-Chirat   Nicole,Guévenoux   Marie,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,0,1
+Dubré-Chirat   Nicole,Obono   Danièle,0,1
+Dubré-Chirat   Nicole,Millienne   Bruno,1,1
+Dubré-Chirat   Nicole,Ruffin   François,0,1
+Dubré-Chirat   Nicole,Houlié   Sacha,1,1
+Dubré-Chirat   Nicole,Turquois   Nicolas,1,1
+Dubré-Chirat   Nicole,Jumel   Sébastien,0,1
+Dubré-Chirat   Nicole,Leclabart   Jean-Claude,1,1
+Dubré-Chirat   Nicole,Fuchs   Bruno,1,1
+Dubré-Chirat   Nicole,Thiébaut   Vincent,1,1
+Dubré-Chirat   Nicole,Ali   Ramlati,1,1
+Dubré-Chirat   Nicole,Cornut-Gentille   François,0,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Pahun   Jimmy,0,1
+Girardin   Éric,Bruneel   Alain,0,1
+Girardin   Éric,Dumont   Pierre-Henri,0,1
+Girardin   Éric,Poueyto   Josy,0,1
+Girardin   Éric,Waserman   Sylvain,1,1
+Girardin   Éric,Lasserre   Florence,1,1
+Girardin   Éric,Mbaye   Jean François,0,1
+Girardin   Éric,Ratenon   Jean-Hugues,0,1
+Girardin   Éric,Brotherson   Moetai,0,1
+Girardin   Éric,Coquerel   Éric,0,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Ramadier   Alain,0,1
+Girardin   Éric,Riotton   Véronique,1,1
+Girardin   Éric,Lardet   Frédérique,1,1
+Girardin   Éric,Lenne   Marion,0,1
+Girardin   Éric,Le Gendre   Gilles,1,1
+Girardin   Éric,Terlier   Jean,1,1
+Girardin   Éric,Rossi   Laurianne,1,1
+Girardin   Éric,Florennes   Isabelle,1,1
+Girardin   Éric,Lebec   Marie,1,1
+Girardin   Éric,Guévenoux   Marie,1,1
+Girardin   Éric,de Vaucouleurs   Michèle,0,1
+Girardin   Éric,Obono   Danièle,0,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Ruffin   François,0,1
+Girardin   Éric,Houlié   Sacha,1,1
+Girardin   Éric,Turquois   Nicolas,1,1
+Girardin   Éric,Jumel   Sébastien,0,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Fuchs   Bruno,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Girardin   Éric,Ali   Ramlati,1,1
+Girardin   Éric,Cornut-Gentille   François,0,1
+Zannier   Hélène,Pahun   Jimmy,0,1
+Zannier   Hélène,Bruneel   Alain,0,1
+Zannier   Hélène,Dumont   Pierre-Henri,0,1
+Zannier   Hélène,Poueyto   Josy,0,1
+Zannier   Hélène,Waserman   Sylvain,1,1
+Zannier   Hélène,Lasserre   Florence,1,1
+Zannier   Hélène,Mbaye   Jean François,0,1
+Zannier   Hélène,Ratenon   Jean-Hugues,0,1
+Zannier   Hélène,Brotherson   Moetai,0,1
+Zannier   Hélène,Coquerel   Éric,0,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Ramadier   Alain,0,1
+Zannier   Hélène,Riotton   Véronique,1,1
+Zannier   Hélène,Lardet   Frédérique,1,1
+Zannier   Hélène,Lenne   Marion,0,1
+Zannier   Hélène,Le Gendre   Gilles,1,1
+Zannier   Hélène,Terlier   Jean,1,1
+Zannier   Hélène,Rossi   Laurianne,1,1
+Zannier   Hélène,Florennes   Isabelle,1,1
+Zannier   Hélène,Lebec   Marie,1,1
+Zannier   Hélène,Guévenoux   Marie,1,1
+Zannier   Hélène,de Vaucouleurs   Michèle,0,1
+Zannier   Hélène,Obono   Danièle,0,1
+Zannier   Hélène,Millienne   Bruno,1,1
+Zannier   Hélène,Ruffin   François,0,1
+Zannier   Hélène,Houlié   Sacha,1,1
+Zannier   Hélène,Turquois   Nicolas,1,1
+Zannier   Hélène,Jumel   Sébastien,0,1
+Zannier   Hélène,Leclabart   Jean-Claude,1,1
+Zannier   Hélène,Fuchs   Bruno,1,1
+Zannier   Hélène,Thiébaut   Vincent,1,1
+Zannier   Hélène,Ali   Ramlati,1,1
+Zannier   Hélène,Cornut-Gentille   François,0,1
+Pahun   Jimmy,Bruneel   Alain,1,1
+Pahun   Jimmy,Dumont   Pierre-Henri,1,1
+Pahun   Jimmy,Poueyto   Josy,1,1
+Pahun   Jimmy,Waserman   Sylvain,0,1
+Pahun   Jimmy,Lasserre   Florence,0,1
+Pahun   Jimmy,Mbaye   Jean François,0,1
+Pahun   Jimmy,Ratenon   Jean-Hugues,1,1
+Pahun   Jimmy,Brotherson   Moetai,1,1
+Pahun   Jimmy,Coquerel   Éric,1,1
+Pahun   Jimmy,Charrière   Sylvie,0,1
+Pahun   Jimmy,Ramadier   Alain,1,1
+Pahun   Jimmy,Riotton   Véronique,0,1
+Pahun   Jimmy,Lardet   Frédérique,0,1
+Pahun   Jimmy,Lenne   Marion,0,1
+Pahun   Jimmy,Le Gendre   Gilles,0,1
+Pahun   Jimmy,Terlier   Jean,0,1
+Pahun   Jimmy,Rossi   Laurianne,0,1
+Pahun   Jimmy,Florennes   Isabelle,0,1
+Pahun   Jimmy,Lebec   Marie,0,1
+Pahun   Jimmy,Guévenoux   Marie,0,1
+Pahun   Jimmy,de Vaucouleurs   Michèle,1,1
+Pahun   Jimmy,Obono   Danièle,1,1
+Pahun   Jimmy,Millienne   Bruno,0,1
+Pahun   Jimmy,Ruffin   François,1,1
+Pahun   Jimmy,Houlié   Sacha,0,1
+Pahun   Jimmy,Turquois   Nicolas,0,1
+Pahun   Jimmy,Jumel   Sébastien,1,1
+Pahun   Jimmy,Leclabart   Jean-Claude,0,1
+Pahun   Jimmy,Fuchs   Bruno,0,1
+Pahun   Jimmy,Thiébaut   Vincent,0,1
+Pahun   Jimmy,Ali   Ramlati,0,1
+Pahun   Jimmy,Cornut-Gentille   François,1,1
+Bruneel   Alain,Dumont   Pierre-Henri,1,1
+Bruneel   Alain,Poueyto   Josy,1,1
+Bruneel   Alain,Waserman   Sylvain,0,1
+Bruneel   Alain,Lasserre   Florence,0,1
+Bruneel   Alain,Mbaye   Jean François,0,1
+Bruneel   Alain,Ratenon   Jean-Hugues,1,1
+Bruneel   Alain,Brotherson   Moetai,1,1
+Bruneel   Alain,Coquerel   Éric,1,1
+Bruneel   Alain,Charrière   Sylvie,0,1
+Bruneel   Alain,Ramadier   Alain,1,1
+Bruneel   Alain,Riotton   Véronique,0,1
+Bruneel   Alain,Lardet   Frédérique,0,1
+Bruneel   Alain,Lenne   Marion,0,1
+Bruneel   Alain,Le Gendre   Gilles,0,1
+Bruneel   Alain,Terlier   Jean,0,1
+Bruneel   Alain,Rossi   Laurianne,0,1
+Bruneel   Alain,Florennes   Isabelle,0,1
+Bruneel   Alain,Lebec   Marie,0,1
+Bruneel   Alain,Guévenoux   Marie,0,1
+Bruneel   Alain,de Vaucouleurs   Michèle,1,1
+Bruneel   Alain,Obono   Danièle,1,1
+Bruneel   Alain,Millienne   Bruno,0,1
+Bruneel   Alain,Ruffin   François,1,1
+Bruneel   Alain,Houlié   Sacha,0,1
+Bruneel   Alain,Turquois   Nicolas,0,1
+Bruneel   Alain,Jumel   Sébastien,1,1
+Bruneel   Alain,Leclabart   Jean-Claude,0,1
+Bruneel   Alain,Fuchs   Bruno,0,1
+Bruneel   Alain,Thiébaut   Vincent,0,1
+Bruneel   Alain,Ali   Ramlati,0,1
+Bruneel   Alain,Cornut-Gentille   François,1,1
+Dumont   Pierre-Henri,Poueyto   Josy,1,1
+Dumont   Pierre-Henri,Waserman   Sylvain,0,1
+Dumont   Pierre-Henri,Lasserre   Florence,0,1
+Dumont   Pierre-Henri,Mbaye   Jean François,0,1
+Dumont   Pierre-Henri,Ratenon   Jean-Hugues,1,1
+Dumont   Pierre-Henri,Brotherson   Moetai,1,1
+Dumont   Pierre-Henri,Coquerel   Éric,1,1
+Dumont   Pierre-Henri,Charrière   Sylvie,0,1
+Dumont   Pierre-Henri,Ramadier   Alain,1,1
+Dumont   Pierre-Henri,Riotton   Véronique,0,1
+Dumont   Pierre-Henri,Lardet   Frédérique,0,1
+Dumont   Pierre-Henri,Lenne   Marion,0,1
+Dumont   Pierre-Henri,Le Gendre   Gilles,0,1
+Dumont   Pierre-Henri,Terlier   Jean,0,1
+Dumont   Pierre-Henri,Rossi   Laurianne,0,1
+Dumont   Pierre-Henri,Florennes   Isabelle,0,1
+Dumont   Pierre-Henri,Lebec   Marie,0,1
+Dumont   Pierre-Henri,Guévenoux   Marie,0,1
+Dumont   Pierre-Henri,de Vaucouleurs   Michèle,1,1
+Dumont   Pierre-Henri,Obono   Danièle,1,1
+Dumont   Pierre-Henri,Millienne   Bruno,0,1
+Dumont   Pierre-Henri,Ruffin   François,1,1
+Dumont   Pierre-Henri,Houlié   Sacha,0,1
+Dumont   Pierre-Henri,Turquois   Nicolas,0,1
+Dumont   Pierre-Henri,Jumel   Sébastien,1,1
+Dumont   Pierre-Henri,Leclabart   Jean-Claude,0,1
+Dumont   Pierre-Henri,Fuchs   Bruno,0,1
+Dumont   Pierre-Henri,Thiébaut   Vincent,0,1
+Dumont   Pierre-Henri,Ali   Ramlati,0,1
+Dumont   Pierre-Henri,Cornut-Gentille   François,1,1
+Poueyto   Josy,Waserman   Sylvain,0,1
+Poueyto   Josy,Lasserre   Florence,0,1
+Poueyto   Josy,Mbaye   Jean François,0,1
+Poueyto   Josy,Ratenon   Jean-Hugues,1,1
+Poueyto   Josy,Brotherson   Moetai,1,1
+Poueyto   Josy,Coquerel   Éric,1,1
+Poueyto   Josy,Charrière   Sylvie,0,1
+Poueyto   Josy,Ramadier   Alain,1,1
+Poueyto   Josy,Riotton   Véronique,0,1
+Poueyto   Josy,Lardet   Frédérique,0,1
+Poueyto   Josy,Lenne   Marion,0,1
+Poueyto   Josy,Le Gendre   Gilles,0,1
+Poueyto   Josy,Terlier   Jean,0,1
+Poueyto   Josy,Rossi   Laurianne,0,1
+Poueyto   Josy,Florennes   Isabelle,0,1
+Poueyto   Josy,Lebec   Marie,0,1
+Poueyto   Josy,Guévenoux   Marie,0,1
+Poueyto   Josy,de Vaucouleurs   Michèle,1,1
+Poueyto   Josy,Obono   Danièle,1,1
+Poueyto   Josy,Millienne   Bruno,0,1
+Poueyto   Josy,Ruffin   François,1,1
+Poueyto   Josy,Houlié   Sacha,0,1
+Poueyto   Josy,Turquois   Nicolas,0,1
+Poueyto   Josy,Jumel   Sébastien,1,1
+Poueyto   Josy,Leclabart   Jean-Claude,0,1
+Poueyto   Josy,Fuchs   Bruno,0,1
+Poueyto   Josy,Thiébaut   Vincent,0,1
+Poueyto   Josy,Ali   Ramlati,0,1
+Poueyto   Josy,Cornut-Gentille   François,1,1
+Waserman   Sylvain,Lasserre   Florence,1,1
+Waserman   Sylvain,Mbaye   Jean François,0,1
+Waserman   Sylvain,Ratenon   Jean-Hugues,0,1
+Waserman   Sylvain,Brotherson   Moetai,0,1
+Waserman   Sylvain,Coquerel   Éric,0,1
+Waserman   Sylvain,Charrière   Sylvie,1,1
+Waserman   Sylvain,Ramadier   Alain,0,1
+Waserman   Sylvain,Riotton   Véronique,1,1
+Waserman   Sylvain,Lardet   Frédérique,1,1
+Waserman   Sylvain,Lenne   Marion,0,1
+Waserman   Sylvain,Le Gendre   Gilles,1,1
+Waserman   Sylvain,Terlier   Jean,1,1
+Waserman   Sylvain,Rossi   Laurianne,1,1
+Waserman   Sylvain,Florennes   Isabelle,1,1
+Waserman   Sylvain,Lebec   Marie,1,1
+Waserman   Sylvain,Guévenoux   Marie,1,1
+Waserman   Sylvain,de Vaucouleurs   Michèle,0,1
+Waserman   Sylvain,Obono   Danièle,0,1
+Waserman   Sylvain,Millienne   Bruno,1,1
+Waserman   Sylvain,Ruffin   François,0,1
+Waserman   Sylvain,Houlié   Sacha,1,1
+Waserman   Sylvain,Turquois   Nicolas,1,1
+Waserman   Sylvain,Jumel   Sébastien,0,1
+Waserman   Sylvain,Leclabart   Jean-Claude,1,1
+Waserman   Sylvain,Fuchs   Bruno,1,1
+Waserman   Sylvain,Thiébaut   Vincent,1,1
+Waserman   Sylvain,Ali   Ramlati,1,1
+Waserman   Sylvain,Cornut-Gentille   François,0,1
+Lasserre   Florence,Mbaye   Jean François,0,1
+Lasserre   Florence,Ratenon   Jean-Hugues,0,1
+Lasserre   Florence,Brotherson   Moetai,0,1
+Lasserre   Florence,Coquerel   Éric,0,1
+Lasserre   Florence,Charrière   Sylvie,1,1
+Lasserre   Florence,Ramadier   Alain,0,1
+Lasserre   Florence,Riotton   Véronique,1,1
+Lasserre   Florence,Lardet   Frédérique,1,1
+Lasserre   Florence,Lenne   Marion,0,1
+Lasserre   Florence,Le Gendre   Gilles,1,1
+Lasserre   Florence,Terlier   Jean,1,1
+Lasserre   Florence,Rossi   Laurianne,1,1
+Lasserre   Florence,Florennes   Isabelle,1,1
+Lasserre   Florence,Lebec   Marie,1,1
+Lasserre   Florence,Guévenoux   Marie,1,1
+Lasserre   Florence,de Vaucouleurs   Michèle,0,1
+Lasserre   Florence,Obono   Danièle,0,1
+Lasserre   Florence,Millienne   Bruno,1,1
+Lasserre   Florence,Ruffin   François,0,1
+Lasserre   Florence,Houlié   Sacha,1,1
+Lasserre   Florence,Turquois   Nicolas,1,1
+Lasserre   Florence,Jumel   Sébastien,0,1
+Lasserre   Florence,Leclabart   Jean-Claude,1,1
+Lasserre   Florence,Fuchs   Bruno,1,1
+Lasserre   Florence,Thiébaut   Vincent,1,1
+Lasserre   Florence,Ali   Ramlati,1,1
+Lasserre   Florence,Cornut-Gentille   François,0,1
+Mbaye   Jean François,Ratenon   Jean-Hugues,0,1
+Mbaye   Jean François,Brotherson   Moetai,0,1
+Mbaye   Jean François,Coquerel   Éric,0,1
+Mbaye   Jean François,Charrière   Sylvie,0,1
+Mbaye   Jean François,Ramadier   Alain,0,1
+Mbaye   Jean François,Riotton   Véronique,0,1
+Mbaye   Jean François,Lardet   Frédérique,0,1
+Mbaye   Jean François,Lenne   Marion,1,1
+Mbaye   Jean François,Le Gendre   Gilles,0,1
+Mbaye   Jean François,Terlier   Jean,0,1
+Mbaye   Jean François,Rossi   Laurianne,0,1
+Mbaye   Jean François,Florennes   Isabelle,0,1
+Mbaye   Jean François,Lebec   Marie,0,1
+Mbaye   Jean François,Guévenoux   Marie,0,1
+Mbaye   Jean François,de Vaucouleurs   Michèle,0,1
+Mbaye   Jean François,Obono   Danièle,0,1
+Mbaye   Jean François,Millienne   Bruno,0,1
+Mbaye   Jean François,Ruffin   François,0,1
+Mbaye   Jean François,Houlié   Sacha,0,1
+Mbaye   Jean François,Turquois   Nicolas,0,1
+Mbaye   Jean François,Jumel   Sébastien,0,1
+Mbaye   Jean François,Leclabart   Jean-Claude,0,1
+Mbaye   Jean François,Fuchs   Bruno,0,1
+Mbaye   Jean François,Thiébaut   Vincent,0,1
+Mbaye   Jean François,Ali   Ramlati,0,1
+Mbaye   Jean François,Cornut-Gentille   François,0,1
+Ratenon   Jean-Hugues,Brotherson   Moetai,1,1
+Ratenon   Jean-Hugues,Coquerel   Éric,1,1
+Ratenon   Jean-Hugues,Charrière   Sylvie,0,1
+Ratenon   Jean-Hugues,Ramadier   Alain,1,1
+Ratenon   Jean-Hugues,Riotton   Véronique,0,1
+Ratenon   Jean-Hugues,Lardet   Frédérique,0,1
+Ratenon   Jean-Hugues,Lenne   Marion,0,1
+Ratenon   Jean-Hugues,Le Gendre   Gilles,0,1
+Ratenon   Jean-Hugues,Terlier   Jean,0,1
+Ratenon   Jean-Hugues,Rossi   Laurianne,0,1
+Ratenon   Jean-Hugues,Florennes   Isabelle,0,1
+Ratenon   Jean-Hugues,Lebec   Marie,0,1
+Ratenon   Jean-Hugues,Guévenoux   Marie,0,1
+Ratenon   Jean-Hugues,de Vaucouleurs   Michèle,1,1
+Ratenon   Jean-Hugues,Obono   Danièle,1,1
+Ratenon   Jean-Hugues,Millienne   Bruno,0,1
+Ratenon   Jean-Hugues,Ruffin   François,1,1
+Ratenon   Jean-Hugues,Houlié   Sacha,0,1
+Ratenon   Jean-Hugues,Turquois   Nicolas,0,1
+Ratenon   Jean-Hugues,Jumel   Sébastien,1,1
+Ratenon   Jean-Hugues,Leclabart   Jean-Claude,0,1
+Ratenon   Jean-Hugues,Fuchs   Bruno,0,1
+Ratenon   Jean-Hugues,Thiébaut   Vincent,0,1
+Ratenon   Jean-Hugues,Ali   Ramlati,0,1
+Ratenon   Jean-Hugues,Cornut-Gentille   François,1,1
+Brotherson   Moetai,Coquerel   Éric,1,1
+Brotherson   Moetai,Charrière   Sylvie,0,1
+Brotherson   Moetai,Ramadier   Alain,1,1
+Brotherson   Moetai,Riotton   Véronique,0,1
+Brotherson   Moetai,Lardet   Frédérique,0,1
+Brotherson   Moetai,Lenne   Marion,0,1
+Brotherson   Moetai,Le Gendre   Gilles,0,1
+Brotherson   Moetai,Terlier   Jean,0,1
+Brotherson   Moetai,Rossi   Laurianne,0,1
+Brotherson   Moetai,Florennes   Isabelle,0,1
+Brotherson   Moetai,Lebec   Marie,0,1
+Brotherson   Moetai,Guévenoux   Marie,0,1
+Brotherson   Moetai,de Vaucouleurs   Michèle,1,1
+Brotherson   Moetai,Obono   Danièle,1,1
+Brotherson   Moetai,Millienne   Bruno,0,1
+Brotherson   Moetai,Ruffin   François,1,1
+Brotherson   Moetai,Houlié   Sacha,0,1
+Brotherson   Moetai,Turquois   Nicolas,0,1
+Brotherson   Moetai,Jumel   Sébastien,1,1
+Brotherson   Moetai,Leclabart   Jean-Claude,0,1
+Brotherson   Moetai,Fuchs   Bruno,0,1
+Brotherson   Moetai,Thiébaut   Vincent,0,1
+Brotherson   Moetai,Ali   Ramlati,0,1
+Brotherson   Moetai,Cornut-Gentille   François,1,1
+Coquerel   Éric,Charrière   Sylvie,0,1
+Coquerel   Éric,Ramadier   Alain,1,1
+Coquerel   Éric,Riotton   Véronique,0,1
+Coquerel   Éric,Lardet   Frédérique,0,1
+Coquerel   Éric,Lenne   Marion,0,1
+Coquerel   Éric,Le Gendre   Gilles,0,1
+Coquerel   Éric,Terlier   Jean,0,1
+Coquerel   Éric,Rossi   Laurianne,0,1
+Coquerel   Éric,Florennes   Isabelle,0,1
+Coquerel   Éric,Lebec   Marie,0,1
+Coquerel   Éric,Guévenoux   Marie,0,1
+Coquerel   Éric,de Vaucouleurs   Michèle,1,1
+Coquerel   Éric,Obono   Danièle,1,1
+Coquerel   Éric,Millienne   Bruno,0,1
+Coquerel   Éric,Ruffin   François,1,1
+Coquerel   Éric,Houlié   Sacha,0,1
+Coquerel   Éric,Turquois   Nicolas,0,1
+Coquerel   Éric,Jumel   Sébastien,1,1
+Coquerel   Éric,Leclabart   Jean-Claude,0,1
+Coquerel   Éric,Fuchs   Bruno,0,1
+Coquerel   Éric,Thiébaut   Vincent,0,1
+Coquerel   Éric,Ali   Ramlati,0,1
+Coquerel   Éric,Cornut-Gentille   François,1,1
+Charrière   Sylvie,Ramadier   Alain,0,1
+Charrière   Sylvie,Riotton   Véronique,1,1
+Charrière   Sylvie,Lardet   Frédérique,1,1
+Charrière   Sylvie,Lenne   Marion,0,1
+Charrière   Sylvie,Le Gendre   Gilles,1,1
+Charrière   Sylvie,Terlier   Jean,1,1
+Charrière   Sylvie,Rossi   Laurianne,1,1
+Charrière   Sylvie,Florennes   Isabelle,1,1
+Charrière   Sylvie,Lebec   Marie,1,1
+Charrière   Sylvie,Guévenoux   Marie,1,1
+Charrière   Sylvie,de Vaucouleurs   Michèle,0,1
+Charrière   Sylvie,Obono   Danièle,0,1
+Charrière   Sylvie,Millienne   Bruno,1,1
+Charrière   Sylvie,Ruffin   François,0,1
+Charrière   Sylvie,Houlié   Sacha,1,1
+Charrière   Sylvie,Turquois   Nicolas,1,1
+Charrière   Sylvie,Jumel   Sébastien,0,1
+Charrière   Sylvie,Leclabart   Jean-Claude,1,1
+Charrière   Sylvie,Fuchs   Bruno,1,1
+Charrière   Sylvie,Thiébaut   Vincent,1,1
+Charrière   Sylvie,Ali   Ramlati,1,1
+Charrière   Sylvie,Cornut-Gentille   François,0,1
+Ramadier   Alain,Riotton   Véronique,0,1
+Ramadier   Alain,Lardet   Frédérique,0,1
+Ramadier   Alain,Lenne   Marion,0,1
+Ramadier   Alain,Le Gendre   Gilles,0,1
+Ramadier   Alain,Terlier   Jean,0,1
+Ramadier   Alain,Rossi   Laurianne,0,1
+Ramadier   Alain,Florennes   Isabelle,0,1
+Ramadier   Alain,Lebec   Marie,0,1
+Ramadier   Alain,Guévenoux   Marie,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,1,1
+Ramadier   Alain,Obono   Danièle,1,1
+Ramadier   Alain,Millienne   Bruno,0,1
+Ramadier   Alain,Ruffin   François,1,1
+Ramadier   Alain,Houlié   Sacha,0,1
+Ramadier   Alain,Turquois   Nicolas,0,1
+Ramadier   Alain,Jumel   Sébastien,1,1
+Ramadier   Alain,Leclabart   Jean-Claude,0,1
+Ramadier   Alain,Fuchs   Bruno,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Ramadier   Alain,Ali   Ramlati,0,1
+Ramadier   Alain,Cornut-Gentille   François,1,1
+Riotton   Véronique,Lardet   Frédérique,1,1
+Riotton   Véronique,Lenne   Marion,0,1
+Riotton   Véronique,Le Gendre   Gilles,1,1
+Riotton   Véronique,Terlier   Jean,1,1
+Riotton   Véronique,Rossi   Laurianne,1,1
+Riotton   Véronique,Florennes   Isabelle,1,1
+Riotton   Véronique,Lebec   Marie,1,1
+Riotton   Véronique,Guévenoux   Marie,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,0,1
+Riotton   Véronique,Obono   Danièle,0,1
+Riotton   Véronique,Millienne   Bruno,1,1
+Riotton   Véronique,Ruffin   François,0,1
+Riotton   Véronique,Houlié   Sacha,1,1
+Riotton   Véronique,Turquois   Nicolas,1,1
+Riotton   Véronique,Jumel   Sébastien,0,1
+Riotton   Véronique,Leclabart   Jean-Claude,1,1
+Riotton   Véronique,Fuchs   Bruno,1,1
+Riotton   Véronique,Thiébaut   Vincent,1,1
+Riotton   Véronique,Ali   Ramlati,1,1
+Riotton   Véronique,Cornut-Gentille   François,0,1
+Lardet   Frédérique,Lenne   Marion,0,1
+Lardet   Frédérique,Le Gendre   Gilles,1,1
+Lardet   Frédérique,Terlier   Jean,1,1
+Lardet   Frédérique,Rossi   Laurianne,1,1
+Lardet   Frédérique,Florennes   Isabelle,1,1
+Lardet   Frédérique,Lebec   Marie,1,1
+Lardet   Frédérique,Guévenoux   Marie,1,1
+Lardet   Frédérique,de Vaucouleurs   Michèle,0,1
+Lardet   Frédérique,Obono   Danièle,0,1
+Lardet   Frédérique,Millienne   Bruno,1,1
+Lardet   Frédérique,Ruffin   François,0,1
+Lardet   Frédérique,Houlié   Sacha,1,1
+Lardet   Frédérique,Turquois   Nicolas,1,1
+Lardet   Frédérique,Jumel   Sébastien,0,1
+Lardet   Frédérique,Leclabart   Jean-Claude,1,1
+Lardet   Frédérique,Fuchs   Bruno,1,1
+Lardet   Frédérique,Thiébaut   Vincent,1,1
+Lardet   Frédérique,Ali   Ramlati,1,1
+Lardet   Frédérique,Cornut-Gentille   François,0,1
+Lenne   Marion,Le Gendre   Gilles,0,1
+Lenne   Marion,Terlier   Jean,0,1
+Lenne   Marion,Rossi   Laurianne,0,1
+Lenne   Marion,Florennes   Isabelle,0,1
+Lenne   Marion,Lebec   Marie,0,1
+Lenne   Marion,Guévenoux   Marie,0,1
+Lenne   Marion,de Vaucouleurs   Michèle,0,1
+Lenne   Marion,Obono   Danièle,0,1
+Lenne   Marion,Millienne   Bruno,0,1
+Lenne   Marion,Ruffin   François,0,1
+Lenne   Marion,Houlié   Sacha,0,1
+Lenne   Marion,Turquois   Nicolas,0,1
+Lenne   Marion,Jumel   Sébastien,0,1
+Lenne   Marion,Leclabart   Jean-Claude,0,1
+Lenne   Marion,Fuchs   Bruno,0,1
+Lenne   Marion,Thiébaut   Vincent,0,1
+Lenne   Marion,Ali   Ramlati,0,1
+Lenne   Marion,Cornut-Gentille   François,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Rossi   Laurianne,1,1
+Le Gendre   Gilles,Florennes   Isabelle,1,1
+Le Gendre   Gilles,Lebec   Marie,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,0,1
+Le Gendre   Gilles,Obono   Danièle,0,1
+Le Gendre   Gilles,Millienne   Bruno,1,1
+Le Gendre   Gilles,Ruffin   François,0,1
+Le Gendre   Gilles,Houlié   Sacha,1,1
+Le Gendre   Gilles,Turquois   Nicolas,1,1
+Le Gendre   Gilles,Jumel   Sébastien,0,1
+Le Gendre   Gilles,Leclabart   Jean-Claude,1,1
+Le Gendre   Gilles,Fuchs   Bruno,1,1
+Le Gendre   Gilles,Thiébaut   Vincent,1,1
+Le Gendre   Gilles,Ali   Ramlati,1,1
+Le Gendre   Gilles,Cornut-Gentille   François,0,1
+Terlier   Jean,Rossi   Laurianne,1,1
+Terlier   Jean,Florennes   Isabelle,1,1
+Terlier   Jean,Lebec   Marie,1,1
+Terlier   Jean,Guévenoux   Marie,1,1
+Terlier   Jean,de Vaucouleurs   Michèle,0,1
+Terlier   Jean,Obono   Danièle,0,1
+Terlier   Jean,Millienne   Bruno,1,1
+Terlier   Jean,Ruffin   François,0,1
+Terlier   Jean,Houlié   Sacha,1,1
+Terlier   Jean,Turquois   Nicolas,1,1
+Terlier   Jean,Jumel   Sébastien,0,1
+Terlier   Jean,Leclabart   Jean-Claude,1,1
+Terlier   Jean,Fuchs   Bruno,1,1
+Terlier   Jean,Thiébaut   Vincent,1,1
+Terlier   Jean,Ali   Ramlati,1,1
+Terlier   Jean,Cornut-Gentille   François,0,1
+Rossi   Laurianne,Florennes   Isabelle,1,1
+Rossi   Laurianne,Lebec   Marie,1,1
+Rossi   Laurianne,Guévenoux   Marie,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,0,1
+Rossi   Laurianne,Obono   Danièle,0,1
+Rossi   Laurianne,Millienne   Bruno,1,1
+Rossi   Laurianne,Ruffin   François,0,1
+Rossi   Laurianne,Houlié   Sacha,1,1
+Rossi   Laurianne,Turquois   Nicolas,1,1
+Rossi   Laurianne,Jumel   Sébastien,0,1
+Rossi   Laurianne,Leclabart   Jean-Claude,1,1
+Rossi   Laurianne,Fuchs   Bruno,1,1
+Rossi   Laurianne,Thiébaut   Vincent,1,1
+Rossi   Laurianne,Ali   Ramlati,1,1
+Rossi   Laurianne,Cornut-Gentille   François,0,1
+Florennes   Isabelle,Lebec   Marie,1,1
+Florennes   Isabelle,Guévenoux   Marie,1,1
+Florennes   Isabelle,de Vaucouleurs   Michèle,0,1
+Florennes   Isabelle,Obono   Danièle,0,1
+Florennes   Isabelle,Millienne   Bruno,1,1
+Florennes   Isabelle,Ruffin   François,0,1
+Florennes   Isabelle,Houlié   Sacha,1,1
+Florennes   Isabelle,Turquois   Nicolas,1,1
+Florennes   Isabelle,Jumel   Sébastien,0,1
+Florennes   Isabelle,Leclabart   Jean-Claude,1,1
+Florennes   Isabelle,Fuchs   Bruno,1,1
+Florennes   Isabelle,Thiébaut   Vincent,1,1
+Florennes   Isabelle,Ali   Ramlati,1,1
+Florennes   Isabelle,Cornut-Gentille   François,0,1
+Lebec   Marie,Guévenoux   Marie,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,0,1
+Lebec   Marie,Obono   Danièle,0,1
+Lebec   Marie,Millienne   Bruno,1,1
+Lebec   Marie,Ruffin   François,0,1
+Lebec   Marie,Houlié   Sacha,1,1
+Lebec   Marie,Turquois   Nicolas,1,1
+Lebec   Marie,Jumel   Sébastien,0,1
+Lebec   Marie,Leclabart   Jean-Claude,1,1
+Lebec   Marie,Fuchs   Bruno,1,1
+Lebec   Marie,Thiébaut   Vincent,1,1
+Lebec   Marie,Ali   Ramlati,1,1
+Lebec   Marie,Cornut-Gentille   François,0,1
+Guévenoux   Marie,de Vaucouleurs   Michèle,0,1
+Guévenoux   Marie,Obono   Danièle,0,1
+Guévenoux   Marie,Millienne   Bruno,1,1
+Guévenoux   Marie,Ruffin   François,0,1
+Guévenoux   Marie,Houlié   Sacha,1,1
+Guévenoux   Marie,Turquois   Nicolas,1,1
+Guévenoux   Marie,Jumel   Sébastien,0,1
+Guévenoux   Marie,Leclabart   Jean-Claude,1,1
+Guévenoux   Marie,Fuchs   Bruno,1,1
+Guévenoux   Marie,Thiébaut   Vincent,1,1
+Guévenoux   Marie,Ali   Ramlati,1,1
+Guévenoux   Marie,Cornut-Gentille   François,0,1
+de Vaucouleurs   Michèle,Obono   Danièle,1,1
+de Vaucouleurs   Michèle,Millienne   Bruno,0,1
+de Vaucouleurs   Michèle,Ruffin   François,1,1
+de Vaucouleurs   Michèle,Houlié   Sacha,0,1
+de Vaucouleurs   Michèle,Turquois   Nicolas,0,1
+de Vaucouleurs   Michèle,Jumel   Sébastien,1,1
+de Vaucouleurs   Michèle,Leclabart   Jean-Claude,0,1
+de Vaucouleurs   Michèle,Fuchs   Bruno,0,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,0,1
+de Vaucouleurs   Michèle,Ali   Ramlati,0,1
+de Vaucouleurs   Michèle,Cornut-Gentille   François,1,1
+Obono   Danièle,Millienne   Bruno,0,1
+Obono   Danièle,Ruffin   François,1,1
+Obono   Danièle,Houlié   Sacha,0,1
+Obono   Danièle,Turquois   Nicolas,0,1
+Obono   Danièle,Jumel   Sébastien,1,1
+Obono   Danièle,Leclabart   Jean-Claude,0,1
+Obono   Danièle,Fuchs   Bruno,0,1
+Obono   Danièle,Thiébaut   Vincent,0,1
+Obono   Danièle,Ali   Ramlati,0,1
+Obono   Danièle,Cornut-Gentille   François,1,1
+Millienne   Bruno,Ruffin   François,0,1
+Millienne   Bruno,Houlié   Sacha,1,1
+Millienne   Bruno,Turquois   Nicolas,1,1
+Millienne   Bruno,Jumel   Sébastien,0,1
+Millienne   Bruno,Leclabart   Jean-Claude,1,1
+Millienne   Bruno,Fuchs   Bruno,1,1
+Millienne   Bruno,Thiébaut   Vincent,1,1
+Millienne   Bruno,Ali   Ramlati,1,1
+Millienne   Bruno,Cornut-Gentille   François,0,1
+Ruffin   François,Houlié   Sacha,0,1
+Ruffin   François,Turquois   Nicolas,0,1
+Ruffin   François,Jumel   Sébastien,1,1
+Ruffin   François,Leclabart   Jean-Claude,0,1
+Ruffin   François,Fuchs   Bruno,0,1
+Ruffin   François,Thiébaut   Vincent,0,1
+Ruffin   François,Ali   Ramlati,0,1
+Ruffin   François,Cornut-Gentille   François,1,1
+Houlié   Sacha,Turquois   Nicolas,1,1
+Houlié   Sacha,Jumel   Sébastien,0,1
+Houlié   Sacha,Leclabart   Jean-Claude,1,1
+Houlié   Sacha,Fuchs   Bruno,1,1
+Houlié   Sacha,Thiébaut   Vincent,1,1
+Houlié   Sacha,Ali   Ramlati,1,1
+Houlié   Sacha,Cornut-Gentille   François,0,1
+Turquois   Nicolas,Jumel   Sébastien,0,1
+Turquois   Nicolas,Leclabart   Jean-Claude,1,1
+Turquois   Nicolas,Fuchs   Bruno,1,1
+Turquois   Nicolas,Thiébaut   Vincent,1,1
+Turquois   Nicolas,Ali   Ramlati,1,1
+Turquois   Nicolas,Cornut-Gentille   François,0,1
+Jumel   Sébastien,Leclabart   Jean-Claude,0,1
+Jumel   Sébastien,Fuchs   Bruno,0,1
+Jumel   Sébastien,Thiébaut   Vincent,0,1
+Jumel   Sébastien,Ali   Ramlati,0,1
+Jumel   Sébastien,Cornut-Gentille   François,1,1
+Leclabart   Jean-Claude,Fuchs   Bruno,1,1
+Leclabart   Jean-Claude,Thiébaut   Vincent,1,1
+Leclabart   Jean-Claude,Ali   Ramlati,1,1
+Leclabart   Jean-Claude,Cornut-Gentille   François,0,1
+Fuchs   Bruno,Thiébaut   Vincent,1,1
+Fuchs   Bruno,Ali   Ramlati,1,1
+Fuchs   Bruno,Cornut-Gentille   François,0,1
+Thiébaut   Vincent,Ali   Ramlati,1,1
+Thiébaut   Vincent,Cornut-Gentille   François,0,1
+Ali   Ramlati,Cornut-Gentille   François,0,1

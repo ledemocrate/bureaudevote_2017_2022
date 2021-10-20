@@ -1,0 +1,1379 @@
+from,to,vote_commun,loi_commun
+Perrut   Bernard,Favennec-Bécot   Yannick,1,1
+Perrut   Bernard,Poletti   Bérengère,1,1
+Perrut   Bernard,Grelier   Jean-Carles,0,1
+Perrut   Bernard,Levy   Geneviève,0,1
+Perrut   Bernard,Touraine   Jean-Louis,1,1
+Perrut   Bernard,Pinel   Sylvia,1,1
+Perrut   Bernard,Brindeau   Pascal,1,1
+Perrut   Bernard,Molac   Paul,1,1
+Perrut   Bernard,Christophe   Paul,1,1
+Perrut   Bernard,Valentin   Isabelle,1,1
+Perrut   Bernard,Maillard   Sylvain,0,1
+Perrut   Bernard,Delatte   Marc,0,1
+Perrut   Bernard,Bagarry   Delphine,0,1
+Perrut   Bernard,Dombreval   Loïc,0,1
+Perrut   Bernard,Pitollat   Claire,1,1
+Perrut   Bernard,Bouyx   Bertrand,0,1
+Perrut   Bernard,Mesnier   Thomas,0,1
+Perrut   Bernard,Michel-Brassart   Monica,0,1
+Perrut   Bernard,Martin   Didier,0,1
+Perrut   Bernard,Cubertafon   Jean-Pierre,1,1
+Perrut   Bernard,Colombani   Paul-André,1,1
+Perrut   Bernard,Tamarelle-Verhaeghe   Marie,0,1
+Perrut   Bernard,Fabre   Catherine,0,1
+Perrut   Bernard,Chalumeau   Philippe,0,1
+Perrut   Bernard,Abadie   Caroline,0,1
+Perrut   Bernard,Borowczyk   Julien,0,1
+Perrut   Bernard,Dufeu   Audrey,0,1
+Perrut   Bernard,Rist   Stéphanie,0,1
+Perrut   Bernard,Janvier   Caroline,0,1
+Perrut   Bernard,Dubré-Chirat   Nicole,0,1
+Perrut   Bernard,Kuric   Aina,0,1
+Perrut   Bernard,Fiat   Caroline,0,1
+Perrut   Bernard,Le Peih   Nicole,0,1
+Perrut   Bernard,Trisse   Nicole,0,1
+Perrut   Bernard,Michels   Thierry,0,1
+Perrut   Bernard,Lazaar   Fiona,0,1
+Perrut   Bernard,Da Silva   Dominique,0,1
+Perrut   Bernard,Manin   Josette,1,1
+Perrut   Bernard,Sanquer   Nicole,1,1
+Perrut   Bernard,Son-Forget   Joachim,1,1
+Perrut   Bernard,Gaillot   Albane,0,1
+Perrut   Bernard,Bonnivard   Émilie,1,1
+Perrut   Bernard,Peyron   Michèle,0,1
+Perrut   Bernard,Mauborgne   Sereine,0,1
+Perrut   Bernard,Calvez   Céline,0,1
+Perrut   Bernard,de Vaucouleurs   Michèle,1,1
+Perrut   Bernard,Granjus   Florence,1,1
+Perrut   Bernard,Vidal   Annie,0,1
+Perrut   Bernard,Chiche   Guillaume,0,1
+Perrut   Bernard,Provendier   Florence,0,1
+Perrut   Bernard,Isaac-Sibille   Cyrille,1,1
+Perrut   Bernard,Corneloup   Josiane,0,1
+Favennec-Bécot   Yannick,Poletti   Bérengère,1,1
+Favennec-Bécot   Yannick,Grelier   Jean-Carles,0,1
+Favennec-Bécot   Yannick,Levy   Geneviève,0,1
+Favennec-Bécot   Yannick,Touraine   Jean-Louis,1,1
+Favennec-Bécot   Yannick,Pinel   Sylvia,1,1
+Favennec-Bécot   Yannick,Brindeau   Pascal,1,1
+Favennec-Bécot   Yannick,Molac   Paul,1,1
+Favennec-Bécot   Yannick,Christophe   Paul,1,1
+Favennec-Bécot   Yannick,Valentin   Isabelle,1,1
+Favennec-Bécot   Yannick,Maillard   Sylvain,0,1
+Favennec-Bécot   Yannick,Delatte   Marc,0,1
+Favennec-Bécot   Yannick,Bagarry   Delphine,0,1
+Favennec-Bécot   Yannick,Dombreval   Loïc,0,1
+Favennec-Bécot   Yannick,Pitollat   Claire,1,1
+Favennec-Bécot   Yannick,Bouyx   Bertrand,0,1
+Favennec-Bécot   Yannick,Mesnier   Thomas,0,1
+Favennec-Bécot   Yannick,Michel-Brassart   Monica,0,1
+Favennec-Bécot   Yannick,Martin   Didier,0,1
+Favennec-Bécot   Yannick,Cubertafon   Jean-Pierre,1,1
+Favennec-Bécot   Yannick,Colombani   Paul-André,1,1
+Favennec-Bécot   Yannick,Tamarelle-Verhaeghe   Marie,0,1
+Favennec-Bécot   Yannick,Fabre   Catherine,0,1
+Favennec-Bécot   Yannick,Chalumeau   Philippe,0,1
+Favennec-Bécot   Yannick,Abadie   Caroline,0,1
+Favennec-Bécot   Yannick,Borowczyk   Julien,0,1
+Favennec-Bécot   Yannick,Dufeu   Audrey,0,1
+Favennec-Bécot   Yannick,Rist   Stéphanie,0,1
+Favennec-Bécot   Yannick,Janvier   Caroline,0,1
+Favennec-Bécot   Yannick,Dubré-Chirat   Nicole,0,1
+Favennec-Bécot   Yannick,Kuric   Aina,0,1
+Favennec-Bécot   Yannick,Fiat   Caroline,0,1
+Favennec-Bécot   Yannick,Le Peih   Nicole,0,1
+Favennec-Bécot   Yannick,Trisse   Nicole,0,1
+Favennec-Bécot   Yannick,Michels   Thierry,0,1
+Favennec-Bécot   Yannick,Lazaar   Fiona,0,1
+Favennec-Bécot   Yannick,Da Silva   Dominique,0,1
+Favennec-Bécot   Yannick,Manin   Josette,1,1
+Favennec-Bécot   Yannick,Sanquer   Nicole,1,1
+Favennec-Bécot   Yannick,Son-Forget   Joachim,1,1
+Favennec-Bécot   Yannick,Gaillot   Albane,0,1
+Favennec-Bécot   Yannick,Bonnivard   Émilie,1,1
+Favennec-Bécot   Yannick,Peyron   Michèle,0,1
+Favennec-Bécot   Yannick,Mauborgne   Sereine,0,1
+Favennec-Bécot   Yannick,Calvez   Céline,0,1
+Favennec-Bécot   Yannick,de Vaucouleurs   Michèle,1,1
+Favennec-Bécot   Yannick,Granjus   Florence,1,1
+Favennec-Bécot   Yannick,Vidal   Annie,0,1
+Favennec-Bécot   Yannick,Chiche   Guillaume,0,1
+Favennec-Bécot   Yannick,Provendier   Florence,0,1
+Favennec-Bécot   Yannick,Isaac-Sibille   Cyrille,1,1
+Favennec-Bécot   Yannick,Corneloup   Josiane,0,1
+Poletti   Bérengère,Grelier   Jean-Carles,0,1
+Poletti   Bérengère,Levy   Geneviève,0,1
+Poletti   Bérengère,Touraine   Jean-Louis,1,1
+Poletti   Bérengère,Pinel   Sylvia,1,1
+Poletti   Bérengère,Brindeau   Pascal,1,1
+Poletti   Bérengère,Molac   Paul,1,1
+Poletti   Bérengère,Christophe   Paul,1,1
+Poletti   Bérengère,Valentin   Isabelle,1,1
+Poletti   Bérengère,Maillard   Sylvain,0,1
+Poletti   Bérengère,Delatte   Marc,0,1
+Poletti   Bérengère,Bagarry   Delphine,0,1
+Poletti   Bérengère,Dombreval   Loïc,0,1
+Poletti   Bérengère,Pitollat   Claire,1,1
+Poletti   Bérengère,Bouyx   Bertrand,0,1
+Poletti   Bérengère,Mesnier   Thomas,0,1
+Poletti   Bérengère,Michel-Brassart   Monica,0,1
+Poletti   Bérengère,Martin   Didier,0,1
+Poletti   Bérengère,Cubertafon   Jean-Pierre,1,1
+Poletti   Bérengère,Colombani   Paul-André,1,1
+Poletti   Bérengère,Tamarelle-Verhaeghe   Marie,0,1
+Poletti   Bérengère,Fabre   Catherine,0,1
+Poletti   Bérengère,Chalumeau   Philippe,0,1
+Poletti   Bérengère,Abadie   Caroline,0,1
+Poletti   Bérengère,Borowczyk   Julien,0,1
+Poletti   Bérengère,Dufeu   Audrey,0,1
+Poletti   Bérengère,Rist   Stéphanie,0,1
+Poletti   Bérengère,Janvier   Caroline,0,1
+Poletti   Bérengère,Dubré-Chirat   Nicole,0,1
+Poletti   Bérengère,Kuric   Aina,0,1
+Poletti   Bérengère,Fiat   Caroline,0,1
+Poletti   Bérengère,Le Peih   Nicole,0,1
+Poletti   Bérengère,Trisse   Nicole,0,1
+Poletti   Bérengère,Michels   Thierry,0,1
+Poletti   Bérengère,Lazaar   Fiona,0,1
+Poletti   Bérengère,Da Silva   Dominique,0,1
+Poletti   Bérengère,Manin   Josette,1,1
+Poletti   Bérengère,Sanquer   Nicole,1,1
+Poletti   Bérengère,Son-Forget   Joachim,1,1
+Poletti   Bérengère,Gaillot   Albane,0,1
+Poletti   Bérengère,Bonnivard   Émilie,1,1
+Poletti   Bérengère,Peyron   Michèle,0,1
+Poletti   Bérengère,Mauborgne   Sereine,0,1
+Poletti   Bérengère,Calvez   Céline,0,1
+Poletti   Bérengère,de Vaucouleurs   Michèle,1,1
+Poletti   Bérengère,Granjus   Florence,1,1
+Poletti   Bérengère,Vidal   Annie,0,1
+Poletti   Bérengère,Chiche   Guillaume,0,1
+Poletti   Bérengère,Provendier   Florence,0,1
+Poletti   Bérengère,Isaac-Sibille   Cyrille,1,1
+Poletti   Bérengère,Corneloup   Josiane,0,1
+Grelier   Jean-Carles,Levy   Geneviève,0,1
+Grelier   Jean-Carles,Touraine   Jean-Louis,0,1
+Grelier   Jean-Carles,Pinel   Sylvia,0,1
+Grelier   Jean-Carles,Brindeau   Pascal,0,1
+Grelier   Jean-Carles,Molac   Paul,0,1
+Grelier   Jean-Carles,Christophe   Paul,0,1
+Grelier   Jean-Carles,Valentin   Isabelle,0,1
+Grelier   Jean-Carles,Maillard   Sylvain,0,1
+Grelier   Jean-Carles,Delatte   Marc,0,1
+Grelier   Jean-Carles,Bagarry   Delphine,1,1
+Grelier   Jean-Carles,Dombreval   Loïc,0,1
+Grelier   Jean-Carles,Pitollat   Claire,0,1
+Grelier   Jean-Carles,Bouyx   Bertrand,0,1
+Grelier   Jean-Carles,Mesnier   Thomas,0,1
+Grelier   Jean-Carles,Michel-Brassart   Monica,0,1
+Grelier   Jean-Carles,Martin   Didier,0,1
+Grelier   Jean-Carles,Cubertafon   Jean-Pierre,0,1
+Grelier   Jean-Carles,Colombani   Paul-André,0,1
+Grelier   Jean-Carles,Tamarelle-Verhaeghe   Marie,0,1
+Grelier   Jean-Carles,Fabre   Catherine,0,1
+Grelier   Jean-Carles,Chalumeau   Philippe,0,1
+Grelier   Jean-Carles,Abadie   Caroline,0,1
+Grelier   Jean-Carles,Borowczyk   Julien,0,1
+Grelier   Jean-Carles,Dufeu   Audrey,1,1
+Grelier   Jean-Carles,Rist   Stéphanie,0,1
+Grelier   Jean-Carles,Janvier   Caroline,0,1
+Grelier   Jean-Carles,Dubré-Chirat   Nicole,0,1
+Grelier   Jean-Carles,Kuric   Aina,0,1
+Grelier   Jean-Carles,Fiat   Caroline,1,1
+Grelier   Jean-Carles,Le Peih   Nicole,0,1
+Grelier   Jean-Carles,Trisse   Nicole,0,1
+Grelier   Jean-Carles,Michels   Thierry,0,1
+Grelier   Jean-Carles,Lazaar   Fiona,0,1
+Grelier   Jean-Carles,Da Silva   Dominique,0,1
+Grelier   Jean-Carles,Manin   Josette,0,1
+Grelier   Jean-Carles,Sanquer   Nicole,0,1
+Grelier   Jean-Carles,Son-Forget   Joachim,0,1
+Grelier   Jean-Carles,Gaillot   Albane,0,1
+Grelier   Jean-Carles,Bonnivard   Émilie,0,1
+Grelier   Jean-Carles,Peyron   Michèle,0,1
+Grelier   Jean-Carles,Mauborgne   Sereine,1,1
+Grelier   Jean-Carles,Calvez   Céline,1,1
+Grelier   Jean-Carles,de Vaucouleurs   Michèle,0,1
+Grelier   Jean-Carles,Granjus   Florence,0,1
+Grelier   Jean-Carles,Vidal   Annie,0,1
+Grelier   Jean-Carles,Chiche   Guillaume,0,1
+Grelier   Jean-Carles,Provendier   Florence,0,1
+Grelier   Jean-Carles,Isaac-Sibille   Cyrille,0,1
+Grelier   Jean-Carles,Corneloup   Josiane,0,1
+Levy   Geneviève,Touraine   Jean-Louis,0,1
+Levy   Geneviève,Pinel   Sylvia,0,1
+Levy   Geneviève,Brindeau   Pascal,0,1
+Levy   Geneviève,Molac   Paul,0,1
+Levy   Geneviève,Christophe   Paul,0,1
+Levy   Geneviève,Valentin   Isabelle,0,1
+Levy   Geneviève,Maillard   Sylvain,1,1
+Levy   Geneviève,Delatte   Marc,1,1
+Levy   Geneviève,Bagarry   Delphine,0,1
+Levy   Geneviève,Dombreval   Loïc,1,1
+Levy   Geneviève,Pitollat   Claire,0,1
+Levy   Geneviève,Bouyx   Bertrand,1,1
+Levy   Geneviève,Mesnier   Thomas,1,1
+Levy   Geneviève,Michel-Brassart   Monica,1,1
+Levy   Geneviève,Martin   Didier,1,1
+Levy   Geneviève,Cubertafon   Jean-Pierre,0,1
+Levy   Geneviève,Colombani   Paul-André,0,1
+Levy   Geneviève,Tamarelle-Verhaeghe   Marie,1,1
+Levy   Geneviève,Fabre   Catherine,1,1
+Levy   Geneviève,Chalumeau   Philippe,1,1
+Levy   Geneviève,Abadie   Caroline,1,1
+Levy   Geneviève,Borowczyk   Julien,1,1
+Levy   Geneviève,Dufeu   Audrey,0,1
+Levy   Geneviève,Rist   Stéphanie,1,1
+Levy   Geneviève,Janvier   Caroline,1,1
+Levy   Geneviève,Dubré-Chirat   Nicole,1,1
+Levy   Geneviève,Kuric   Aina,1,1
+Levy   Geneviève,Fiat   Caroline,0,1
+Levy   Geneviève,Le Peih   Nicole,1,1
+Levy   Geneviève,Trisse   Nicole,1,1
+Levy   Geneviève,Michels   Thierry,1,1
+Levy   Geneviève,Lazaar   Fiona,1,1
+Levy   Geneviève,Da Silva   Dominique,1,1
+Levy   Geneviève,Manin   Josette,0,1
+Levy   Geneviève,Sanquer   Nicole,0,1
+Levy   Geneviève,Son-Forget   Joachim,0,1
+Levy   Geneviève,Gaillot   Albane,1,1
+Levy   Geneviève,Bonnivard   Émilie,0,1
+Levy   Geneviève,Peyron   Michèle,1,1
+Levy   Geneviève,Mauborgne   Sereine,0,1
+Levy   Geneviève,Calvez   Céline,0,1
+Levy   Geneviève,de Vaucouleurs   Michèle,0,1
+Levy   Geneviève,Granjus   Florence,0,1
+Levy   Geneviève,Vidal   Annie,1,1
+Levy   Geneviève,Chiche   Guillaume,1,1
+Levy   Geneviève,Provendier   Florence,1,1
+Levy   Geneviève,Isaac-Sibille   Cyrille,0,1
+Levy   Geneviève,Corneloup   Josiane,1,1
+Touraine   Jean-Louis,Pinel   Sylvia,1,1
+Touraine   Jean-Louis,Brindeau   Pascal,1,1
+Touraine   Jean-Louis,Molac   Paul,1,1
+Touraine   Jean-Louis,Christophe   Paul,1,1
+Touraine   Jean-Louis,Valentin   Isabelle,1,1
+Touraine   Jean-Louis,Maillard   Sylvain,0,1
+Touraine   Jean-Louis,Delatte   Marc,0,1
+Touraine   Jean-Louis,Bagarry   Delphine,0,1
+Touraine   Jean-Louis,Dombreval   Loïc,0,1
+Touraine   Jean-Louis,Pitollat   Claire,1,1
+Touraine   Jean-Louis,Bouyx   Bertrand,0,1
+Touraine   Jean-Louis,Mesnier   Thomas,0,1
+Touraine   Jean-Louis,Michel-Brassart   Monica,0,1
+Touraine   Jean-Louis,Martin   Didier,0,1
+Touraine   Jean-Louis,Cubertafon   Jean-Pierre,1,1
+Touraine   Jean-Louis,Colombani   Paul-André,1,1
+Touraine   Jean-Louis,Tamarelle-Verhaeghe   Marie,0,1
+Touraine   Jean-Louis,Fabre   Catherine,0,1
+Touraine   Jean-Louis,Chalumeau   Philippe,0,1
+Touraine   Jean-Louis,Abadie   Caroline,0,1
+Touraine   Jean-Louis,Borowczyk   Julien,0,1
+Touraine   Jean-Louis,Dufeu   Audrey,0,1
+Touraine   Jean-Louis,Rist   Stéphanie,0,1
+Touraine   Jean-Louis,Janvier   Caroline,0,1
+Touraine   Jean-Louis,Dubré-Chirat   Nicole,0,1
+Touraine   Jean-Louis,Kuric   Aina,0,1
+Touraine   Jean-Louis,Fiat   Caroline,0,1
+Touraine   Jean-Louis,Le Peih   Nicole,0,1
+Touraine   Jean-Louis,Trisse   Nicole,0,1
+Touraine   Jean-Louis,Michels   Thierry,0,1
+Touraine   Jean-Louis,Lazaar   Fiona,0,1
+Touraine   Jean-Louis,Da Silva   Dominique,0,1
+Touraine   Jean-Louis,Manin   Josette,1,1
+Touraine   Jean-Louis,Sanquer   Nicole,1,1
+Touraine   Jean-Louis,Son-Forget   Joachim,1,1
+Touraine   Jean-Louis,Gaillot   Albane,0,1
+Touraine   Jean-Louis,Bonnivard   Émilie,1,1
+Touraine   Jean-Louis,Peyron   Michèle,0,1
+Touraine   Jean-Louis,Mauborgne   Sereine,0,1
+Touraine   Jean-Louis,Calvez   Céline,0,1
+Touraine   Jean-Louis,de Vaucouleurs   Michèle,1,1
+Touraine   Jean-Louis,Granjus   Florence,1,1
+Touraine   Jean-Louis,Vidal   Annie,0,1
+Touraine   Jean-Louis,Chiche   Guillaume,0,1
+Touraine   Jean-Louis,Provendier   Florence,0,1
+Touraine   Jean-Louis,Isaac-Sibille   Cyrille,1,1
+Touraine   Jean-Louis,Corneloup   Josiane,0,1
+Pinel   Sylvia,Brindeau   Pascal,1,1
+Pinel   Sylvia,Molac   Paul,1,1
+Pinel   Sylvia,Christophe   Paul,1,1
+Pinel   Sylvia,Valentin   Isabelle,1,1
+Pinel   Sylvia,Maillard   Sylvain,0,1
+Pinel   Sylvia,Delatte   Marc,0,1
+Pinel   Sylvia,Bagarry   Delphine,0,1
+Pinel   Sylvia,Dombreval   Loïc,0,1
+Pinel   Sylvia,Pitollat   Claire,1,1
+Pinel   Sylvia,Bouyx   Bertrand,0,1
+Pinel   Sylvia,Mesnier   Thomas,0,1
+Pinel   Sylvia,Michel-Brassart   Monica,0,1
+Pinel   Sylvia,Martin   Didier,0,1
+Pinel   Sylvia,Cubertafon   Jean-Pierre,1,1
+Pinel   Sylvia,Colombani   Paul-André,1,1
+Pinel   Sylvia,Tamarelle-Verhaeghe   Marie,0,1
+Pinel   Sylvia,Fabre   Catherine,0,1
+Pinel   Sylvia,Chalumeau   Philippe,0,1
+Pinel   Sylvia,Abadie   Caroline,0,1
+Pinel   Sylvia,Borowczyk   Julien,0,1
+Pinel   Sylvia,Dufeu   Audrey,0,1
+Pinel   Sylvia,Rist   Stéphanie,0,1
+Pinel   Sylvia,Janvier   Caroline,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,0,1
+Pinel   Sylvia,Kuric   Aina,0,1
+Pinel   Sylvia,Fiat   Caroline,0,1
+Pinel   Sylvia,Le Peih   Nicole,0,1
+Pinel   Sylvia,Trisse   Nicole,0,1
+Pinel   Sylvia,Michels   Thierry,0,1
+Pinel   Sylvia,Lazaar   Fiona,0,1
+Pinel   Sylvia,Da Silva   Dominique,0,1
+Pinel   Sylvia,Manin   Josette,1,1
+Pinel   Sylvia,Sanquer   Nicole,1,1
+Pinel   Sylvia,Son-Forget   Joachim,1,1
+Pinel   Sylvia,Gaillot   Albane,0,1
+Pinel   Sylvia,Bonnivard   Émilie,1,1
+Pinel   Sylvia,Peyron   Michèle,0,1
+Pinel   Sylvia,Mauborgne   Sereine,0,1
+Pinel   Sylvia,Calvez   Céline,0,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,1,1
+Pinel   Sylvia,Granjus   Florence,1,1
+Pinel   Sylvia,Vidal   Annie,0,1
+Pinel   Sylvia,Chiche   Guillaume,0,1
+Pinel   Sylvia,Provendier   Florence,0,1
+Pinel   Sylvia,Isaac-Sibille   Cyrille,1,1
+Pinel   Sylvia,Corneloup   Josiane,0,1
+Brindeau   Pascal,Molac   Paul,1,1
+Brindeau   Pascal,Christophe   Paul,1,1
+Brindeau   Pascal,Valentin   Isabelle,1,1
+Brindeau   Pascal,Maillard   Sylvain,0,1
+Brindeau   Pascal,Delatte   Marc,0,1
+Brindeau   Pascal,Bagarry   Delphine,0,1
+Brindeau   Pascal,Dombreval   Loïc,0,1
+Brindeau   Pascal,Pitollat   Claire,1,1
+Brindeau   Pascal,Bouyx   Bertrand,0,1
+Brindeau   Pascal,Mesnier   Thomas,0,1
+Brindeau   Pascal,Michel-Brassart   Monica,0,1
+Brindeau   Pascal,Martin   Didier,0,1
+Brindeau   Pascal,Cubertafon   Jean-Pierre,1,1
+Brindeau   Pascal,Colombani   Paul-André,1,1
+Brindeau   Pascal,Tamarelle-Verhaeghe   Marie,0,1
+Brindeau   Pascal,Fabre   Catherine,0,1
+Brindeau   Pascal,Chalumeau   Philippe,0,1
+Brindeau   Pascal,Abadie   Caroline,0,1
+Brindeau   Pascal,Borowczyk   Julien,0,1
+Brindeau   Pascal,Dufeu   Audrey,0,1
+Brindeau   Pascal,Rist   Stéphanie,0,1
+Brindeau   Pascal,Janvier   Caroline,0,1
+Brindeau   Pascal,Dubré-Chirat   Nicole,0,1
+Brindeau   Pascal,Kuric   Aina,0,1
+Brindeau   Pascal,Fiat   Caroline,0,1
+Brindeau   Pascal,Le Peih   Nicole,0,1
+Brindeau   Pascal,Trisse   Nicole,0,1
+Brindeau   Pascal,Michels   Thierry,0,1
+Brindeau   Pascal,Lazaar   Fiona,0,1
+Brindeau   Pascal,Da Silva   Dominique,0,1
+Brindeau   Pascal,Manin   Josette,1,1
+Brindeau   Pascal,Sanquer   Nicole,1,1
+Brindeau   Pascal,Son-Forget   Joachim,1,1
+Brindeau   Pascal,Gaillot   Albane,0,1
+Brindeau   Pascal,Bonnivard   Émilie,1,1
+Brindeau   Pascal,Peyron   Michèle,0,1
+Brindeau   Pascal,Mauborgne   Sereine,0,1
+Brindeau   Pascal,Calvez   Céline,0,1
+Brindeau   Pascal,de Vaucouleurs   Michèle,1,1
+Brindeau   Pascal,Granjus   Florence,1,1
+Brindeau   Pascal,Vidal   Annie,0,1
+Brindeau   Pascal,Chiche   Guillaume,0,1
+Brindeau   Pascal,Provendier   Florence,0,1
+Brindeau   Pascal,Isaac-Sibille   Cyrille,1,1
+Brindeau   Pascal,Corneloup   Josiane,0,1
+Molac   Paul,Christophe   Paul,1,1
+Molac   Paul,Valentin   Isabelle,1,1
+Molac   Paul,Maillard   Sylvain,0,1
+Molac   Paul,Delatte   Marc,0,1
+Molac   Paul,Bagarry   Delphine,0,1
+Molac   Paul,Dombreval   Loïc,0,1
+Molac   Paul,Pitollat   Claire,1,1
+Molac   Paul,Bouyx   Bertrand,0,1
+Molac   Paul,Mesnier   Thomas,0,1
+Molac   Paul,Michel-Brassart   Monica,0,1
+Molac   Paul,Martin   Didier,0,1
+Molac   Paul,Cubertafon   Jean-Pierre,1,1
+Molac   Paul,Colombani   Paul-André,1,1
+Molac   Paul,Tamarelle-Verhaeghe   Marie,0,1
+Molac   Paul,Fabre   Catherine,0,1
+Molac   Paul,Chalumeau   Philippe,0,1
+Molac   Paul,Abadie   Caroline,0,1
+Molac   Paul,Borowczyk   Julien,0,1
+Molac   Paul,Dufeu   Audrey,0,1
+Molac   Paul,Rist   Stéphanie,0,1
+Molac   Paul,Janvier   Caroline,0,1
+Molac   Paul,Dubré-Chirat   Nicole,0,1
+Molac   Paul,Kuric   Aina,0,1
+Molac   Paul,Fiat   Caroline,0,1
+Molac   Paul,Le Peih   Nicole,0,1
+Molac   Paul,Trisse   Nicole,0,1
+Molac   Paul,Michels   Thierry,0,1
+Molac   Paul,Lazaar   Fiona,0,1
+Molac   Paul,Da Silva   Dominique,0,1
+Molac   Paul,Manin   Josette,1,1
+Molac   Paul,Sanquer   Nicole,1,1
+Molac   Paul,Son-Forget   Joachim,1,1
+Molac   Paul,Gaillot   Albane,0,1
+Molac   Paul,Bonnivard   Émilie,1,1
+Molac   Paul,Peyron   Michèle,0,1
+Molac   Paul,Mauborgne   Sereine,0,1
+Molac   Paul,Calvez   Céline,0,1
+Molac   Paul,de Vaucouleurs   Michèle,1,1
+Molac   Paul,Granjus   Florence,1,1
+Molac   Paul,Vidal   Annie,0,1
+Molac   Paul,Chiche   Guillaume,0,1
+Molac   Paul,Provendier   Florence,0,1
+Molac   Paul,Isaac-Sibille   Cyrille,1,1
+Molac   Paul,Corneloup   Josiane,0,1
+Christophe   Paul,Valentin   Isabelle,1,1
+Christophe   Paul,Maillard   Sylvain,0,1
+Christophe   Paul,Delatte   Marc,0,1
+Christophe   Paul,Bagarry   Delphine,0,1
+Christophe   Paul,Dombreval   Loïc,0,1
+Christophe   Paul,Pitollat   Claire,1,1
+Christophe   Paul,Bouyx   Bertrand,0,1
+Christophe   Paul,Mesnier   Thomas,0,1
+Christophe   Paul,Michel-Brassart   Monica,0,1
+Christophe   Paul,Martin   Didier,0,1
+Christophe   Paul,Cubertafon   Jean-Pierre,1,1
+Christophe   Paul,Colombani   Paul-André,1,1
+Christophe   Paul,Tamarelle-Verhaeghe   Marie,0,1
+Christophe   Paul,Fabre   Catherine,0,1
+Christophe   Paul,Chalumeau   Philippe,0,1
+Christophe   Paul,Abadie   Caroline,0,1
+Christophe   Paul,Borowczyk   Julien,0,1
+Christophe   Paul,Dufeu   Audrey,0,1
+Christophe   Paul,Rist   Stéphanie,0,1
+Christophe   Paul,Janvier   Caroline,0,1
+Christophe   Paul,Dubré-Chirat   Nicole,0,1
+Christophe   Paul,Kuric   Aina,0,1
+Christophe   Paul,Fiat   Caroline,0,1
+Christophe   Paul,Le Peih   Nicole,0,1
+Christophe   Paul,Trisse   Nicole,0,1
+Christophe   Paul,Michels   Thierry,0,1
+Christophe   Paul,Lazaar   Fiona,0,1
+Christophe   Paul,Da Silva   Dominique,0,1
+Christophe   Paul,Manin   Josette,1,1
+Christophe   Paul,Sanquer   Nicole,1,1
+Christophe   Paul,Son-Forget   Joachim,1,1
+Christophe   Paul,Gaillot   Albane,0,1
+Christophe   Paul,Bonnivard   Émilie,1,1
+Christophe   Paul,Peyron   Michèle,0,1
+Christophe   Paul,Mauborgne   Sereine,0,1
+Christophe   Paul,Calvez   Céline,0,1
+Christophe   Paul,de Vaucouleurs   Michèle,1,1
+Christophe   Paul,Granjus   Florence,1,1
+Christophe   Paul,Vidal   Annie,0,1
+Christophe   Paul,Chiche   Guillaume,0,1
+Christophe   Paul,Provendier   Florence,0,1
+Christophe   Paul,Isaac-Sibille   Cyrille,1,1
+Christophe   Paul,Corneloup   Josiane,0,1
+Valentin   Isabelle,Maillard   Sylvain,0,1
+Valentin   Isabelle,Delatte   Marc,0,1
+Valentin   Isabelle,Bagarry   Delphine,0,1
+Valentin   Isabelle,Dombreval   Loïc,0,1
+Valentin   Isabelle,Pitollat   Claire,1,1
+Valentin   Isabelle,Bouyx   Bertrand,0,1
+Valentin   Isabelle,Mesnier   Thomas,0,1
+Valentin   Isabelle,Michel-Brassart   Monica,0,1
+Valentin   Isabelle,Martin   Didier,0,1
+Valentin   Isabelle,Cubertafon   Jean-Pierre,1,1
+Valentin   Isabelle,Colombani   Paul-André,1,1
+Valentin   Isabelle,Tamarelle-Verhaeghe   Marie,0,1
+Valentin   Isabelle,Fabre   Catherine,0,1
+Valentin   Isabelle,Chalumeau   Philippe,0,1
+Valentin   Isabelle,Abadie   Caroline,0,1
+Valentin   Isabelle,Borowczyk   Julien,0,1
+Valentin   Isabelle,Dufeu   Audrey,0,1
+Valentin   Isabelle,Rist   Stéphanie,0,1
+Valentin   Isabelle,Janvier   Caroline,0,1
+Valentin   Isabelle,Dubré-Chirat   Nicole,0,1
+Valentin   Isabelle,Kuric   Aina,0,1
+Valentin   Isabelle,Fiat   Caroline,0,1
+Valentin   Isabelle,Le Peih   Nicole,0,1
+Valentin   Isabelle,Trisse   Nicole,0,1
+Valentin   Isabelle,Michels   Thierry,0,1
+Valentin   Isabelle,Lazaar   Fiona,0,1
+Valentin   Isabelle,Da Silva   Dominique,0,1
+Valentin   Isabelle,Manin   Josette,1,1
+Valentin   Isabelle,Sanquer   Nicole,1,1
+Valentin   Isabelle,Son-Forget   Joachim,1,1
+Valentin   Isabelle,Gaillot   Albane,0,1
+Valentin   Isabelle,Bonnivard   Émilie,1,1
+Valentin   Isabelle,Peyron   Michèle,0,1
+Valentin   Isabelle,Mauborgne   Sereine,0,1
+Valentin   Isabelle,Calvez   Céline,0,1
+Valentin   Isabelle,de Vaucouleurs   Michèle,1,1
+Valentin   Isabelle,Granjus   Florence,1,1
+Valentin   Isabelle,Vidal   Annie,0,1
+Valentin   Isabelle,Chiche   Guillaume,0,1
+Valentin   Isabelle,Provendier   Florence,0,1
+Valentin   Isabelle,Isaac-Sibille   Cyrille,1,1
+Valentin   Isabelle,Corneloup   Josiane,0,1
+Maillard   Sylvain,Delatte   Marc,1,1
+Maillard   Sylvain,Bagarry   Delphine,0,1
+Maillard   Sylvain,Dombreval   Loïc,1,1
+Maillard   Sylvain,Pitollat   Claire,0,1
+Maillard   Sylvain,Bouyx   Bertrand,1,1
+Maillard   Sylvain,Mesnier   Thomas,1,1
+Maillard   Sylvain,Michel-Brassart   Monica,1,1
+Maillard   Sylvain,Martin   Didier,1,1
+Maillard   Sylvain,Cubertafon   Jean-Pierre,0,1
+Maillard   Sylvain,Colombani   Paul-André,0,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,1,1
+Maillard   Sylvain,Fabre   Catherine,1,1
+Maillard   Sylvain,Chalumeau   Philippe,1,1
+Maillard   Sylvain,Abadie   Caroline,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Dufeu   Audrey,0,1
+Maillard   Sylvain,Rist   Stéphanie,1,1
+Maillard   Sylvain,Janvier   Caroline,1,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Kuric   Aina,1,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Le Peih   Nicole,1,1
+Maillard   Sylvain,Trisse   Nicole,1,1
+Maillard   Sylvain,Michels   Thierry,1,1
+Maillard   Sylvain,Lazaar   Fiona,1,1
+Maillard   Sylvain,Da Silva   Dominique,1,1
+Maillard   Sylvain,Manin   Josette,0,1
+Maillard   Sylvain,Sanquer   Nicole,0,1
+Maillard   Sylvain,Son-Forget   Joachim,0,1
+Maillard   Sylvain,Gaillot   Albane,1,1
+Maillard   Sylvain,Bonnivard   Émilie,0,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Mauborgne   Sereine,0,1
+Maillard   Sylvain,Calvez   Céline,0,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,0,1
+Maillard   Sylvain,Granjus   Florence,0,1
+Maillard   Sylvain,Vidal   Annie,1,1
+Maillard   Sylvain,Chiche   Guillaume,1,1
+Maillard   Sylvain,Provendier   Florence,1,1
+Maillard   Sylvain,Isaac-Sibille   Cyrille,0,1
+Maillard   Sylvain,Corneloup   Josiane,1,1
+Delatte   Marc,Bagarry   Delphine,0,1
+Delatte   Marc,Dombreval   Loïc,1,1
+Delatte   Marc,Pitollat   Claire,0,1
+Delatte   Marc,Bouyx   Bertrand,1,1
+Delatte   Marc,Mesnier   Thomas,1,1
+Delatte   Marc,Michel-Brassart   Monica,1,1
+Delatte   Marc,Martin   Didier,1,1
+Delatte   Marc,Cubertafon   Jean-Pierre,0,1
+Delatte   Marc,Colombani   Paul-André,0,1
+Delatte   Marc,Tamarelle-Verhaeghe   Marie,1,1
+Delatte   Marc,Fabre   Catherine,1,1
+Delatte   Marc,Chalumeau   Philippe,1,1
+Delatte   Marc,Abadie   Caroline,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Dufeu   Audrey,0,1
+Delatte   Marc,Rist   Stéphanie,1,1
+Delatte   Marc,Janvier   Caroline,1,1
+Delatte   Marc,Dubré-Chirat   Nicole,1,1
+Delatte   Marc,Kuric   Aina,1,1
+Delatte   Marc,Fiat   Caroline,0,1
+Delatte   Marc,Le Peih   Nicole,1,1
+Delatte   Marc,Trisse   Nicole,1,1
+Delatte   Marc,Michels   Thierry,1,1
+Delatte   Marc,Lazaar   Fiona,1,1
+Delatte   Marc,Da Silva   Dominique,1,1
+Delatte   Marc,Manin   Josette,0,1
+Delatte   Marc,Sanquer   Nicole,0,1
+Delatte   Marc,Son-Forget   Joachim,0,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Bonnivard   Émilie,0,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Mauborgne   Sereine,0,1
+Delatte   Marc,Calvez   Céline,0,1
+Delatte   Marc,de Vaucouleurs   Michèle,0,1
+Delatte   Marc,Granjus   Florence,0,1
+Delatte   Marc,Vidal   Annie,1,1
+Delatte   Marc,Chiche   Guillaume,1,1
+Delatte   Marc,Provendier   Florence,1,1
+Delatte   Marc,Isaac-Sibille   Cyrille,0,1
+Delatte   Marc,Corneloup   Josiane,1,1
+Bagarry   Delphine,Dombreval   Loïc,0,1
+Bagarry   Delphine,Pitollat   Claire,0,1
+Bagarry   Delphine,Bouyx   Bertrand,0,1
+Bagarry   Delphine,Mesnier   Thomas,0,1
+Bagarry   Delphine,Michel-Brassart   Monica,0,1
+Bagarry   Delphine,Martin   Didier,0,1
+Bagarry   Delphine,Cubertafon   Jean-Pierre,0,1
+Bagarry   Delphine,Colombani   Paul-André,0,1
+Bagarry   Delphine,Tamarelle-Verhaeghe   Marie,0,1
+Bagarry   Delphine,Fabre   Catherine,0,1
+Bagarry   Delphine,Chalumeau   Philippe,0,1
+Bagarry   Delphine,Abadie   Caroline,0,1
+Bagarry   Delphine,Borowczyk   Julien,0,1
+Bagarry   Delphine,Dufeu   Audrey,1,1
+Bagarry   Delphine,Rist   Stéphanie,0,1
+Bagarry   Delphine,Janvier   Caroline,0,1
+Bagarry   Delphine,Dubré-Chirat   Nicole,0,1
+Bagarry   Delphine,Kuric   Aina,0,1
+Bagarry   Delphine,Fiat   Caroline,1,1
+Bagarry   Delphine,Le Peih   Nicole,0,1
+Bagarry   Delphine,Trisse   Nicole,0,1
+Bagarry   Delphine,Michels   Thierry,0,1
+Bagarry   Delphine,Lazaar   Fiona,0,1
+Bagarry   Delphine,Da Silva   Dominique,0,1
+Bagarry   Delphine,Manin   Josette,0,1
+Bagarry   Delphine,Sanquer   Nicole,0,1
+Bagarry   Delphine,Son-Forget   Joachim,0,1
+Bagarry   Delphine,Gaillot   Albane,0,1
+Bagarry   Delphine,Bonnivard   Émilie,0,1
+Bagarry   Delphine,Peyron   Michèle,0,1
+Bagarry   Delphine,Mauborgne   Sereine,1,1
+Bagarry   Delphine,Calvez   Céline,1,1
+Bagarry   Delphine,de Vaucouleurs   Michèle,0,1
+Bagarry   Delphine,Granjus   Florence,0,1
+Bagarry   Delphine,Vidal   Annie,0,1
+Bagarry   Delphine,Chiche   Guillaume,0,1
+Bagarry   Delphine,Provendier   Florence,0,1
+Bagarry   Delphine,Isaac-Sibille   Cyrille,0,1
+Bagarry   Delphine,Corneloup   Josiane,0,1
+Dombreval   Loïc,Pitollat   Claire,0,1
+Dombreval   Loïc,Bouyx   Bertrand,1,1
+Dombreval   Loïc,Mesnier   Thomas,1,1
+Dombreval   Loïc,Michel-Brassart   Monica,1,1
+Dombreval   Loïc,Martin   Didier,1,1
+Dombreval   Loïc,Cubertafon   Jean-Pierre,0,1
+Dombreval   Loïc,Colombani   Paul-André,0,1
+Dombreval   Loïc,Tamarelle-Verhaeghe   Marie,1,1
+Dombreval   Loïc,Fabre   Catherine,1,1
+Dombreval   Loïc,Chalumeau   Philippe,1,1
+Dombreval   Loïc,Abadie   Caroline,1,1
+Dombreval   Loïc,Borowczyk   Julien,1,1
+Dombreval   Loïc,Dufeu   Audrey,0,1
+Dombreval   Loïc,Rist   Stéphanie,1,1
+Dombreval   Loïc,Janvier   Caroline,1,1
+Dombreval   Loïc,Dubré-Chirat   Nicole,1,1
+Dombreval   Loïc,Kuric   Aina,1,1
+Dombreval   Loïc,Fiat   Caroline,0,1
+Dombreval   Loïc,Le Peih   Nicole,1,1
+Dombreval   Loïc,Trisse   Nicole,1,1
+Dombreval   Loïc,Michels   Thierry,1,1
+Dombreval   Loïc,Lazaar   Fiona,1,1
+Dombreval   Loïc,Da Silva   Dominique,1,1
+Dombreval   Loïc,Manin   Josette,0,1
+Dombreval   Loïc,Sanquer   Nicole,0,1
+Dombreval   Loïc,Son-Forget   Joachim,0,1
+Dombreval   Loïc,Gaillot   Albane,1,1
+Dombreval   Loïc,Bonnivard   Émilie,0,1
+Dombreval   Loïc,Peyron   Michèle,1,1
+Dombreval   Loïc,Mauborgne   Sereine,0,1
+Dombreval   Loïc,Calvez   Céline,0,1
+Dombreval   Loïc,de Vaucouleurs   Michèle,0,1
+Dombreval   Loïc,Granjus   Florence,0,1
+Dombreval   Loïc,Vidal   Annie,1,1
+Dombreval   Loïc,Chiche   Guillaume,1,1
+Dombreval   Loïc,Provendier   Florence,1,1
+Dombreval   Loïc,Isaac-Sibille   Cyrille,0,1
+Dombreval   Loïc,Corneloup   Josiane,1,1
+Pitollat   Claire,Bouyx   Bertrand,0,1
+Pitollat   Claire,Mesnier   Thomas,0,1
+Pitollat   Claire,Michel-Brassart   Monica,0,1
+Pitollat   Claire,Martin   Didier,0,1
+Pitollat   Claire,Cubertafon   Jean-Pierre,1,1
+Pitollat   Claire,Colombani   Paul-André,1,1
+Pitollat   Claire,Tamarelle-Verhaeghe   Marie,0,1
+Pitollat   Claire,Fabre   Catherine,0,1
+Pitollat   Claire,Chalumeau   Philippe,0,1
+Pitollat   Claire,Abadie   Caroline,0,1
+Pitollat   Claire,Borowczyk   Julien,0,1
+Pitollat   Claire,Dufeu   Audrey,0,1
+Pitollat   Claire,Rist   Stéphanie,0,1
+Pitollat   Claire,Janvier   Caroline,0,1
+Pitollat   Claire,Dubré-Chirat   Nicole,0,1
+Pitollat   Claire,Kuric   Aina,0,1
+Pitollat   Claire,Fiat   Caroline,0,1
+Pitollat   Claire,Le Peih   Nicole,0,1
+Pitollat   Claire,Trisse   Nicole,0,1
+Pitollat   Claire,Michels   Thierry,0,1
+Pitollat   Claire,Lazaar   Fiona,0,1
+Pitollat   Claire,Da Silva   Dominique,0,1
+Pitollat   Claire,Manin   Josette,1,1
+Pitollat   Claire,Sanquer   Nicole,1,1
+Pitollat   Claire,Son-Forget   Joachim,1,1
+Pitollat   Claire,Gaillot   Albane,0,1
+Pitollat   Claire,Bonnivard   Émilie,1,1
+Pitollat   Claire,Peyron   Michèle,0,1
+Pitollat   Claire,Mauborgne   Sereine,0,1
+Pitollat   Claire,Calvez   Céline,0,1
+Pitollat   Claire,de Vaucouleurs   Michèle,1,1
+Pitollat   Claire,Granjus   Florence,1,1
+Pitollat   Claire,Vidal   Annie,0,1
+Pitollat   Claire,Chiche   Guillaume,0,1
+Pitollat   Claire,Provendier   Florence,0,1
+Pitollat   Claire,Isaac-Sibille   Cyrille,1,1
+Pitollat   Claire,Corneloup   Josiane,0,1
+Bouyx   Bertrand,Mesnier   Thomas,1,1
+Bouyx   Bertrand,Michel-Brassart   Monica,1,1
+Bouyx   Bertrand,Martin   Didier,1,1
+Bouyx   Bertrand,Cubertafon   Jean-Pierre,0,1
+Bouyx   Bertrand,Colombani   Paul-André,0,1
+Bouyx   Bertrand,Tamarelle-Verhaeghe   Marie,1,1
+Bouyx   Bertrand,Fabre   Catherine,1,1
+Bouyx   Bertrand,Chalumeau   Philippe,1,1
+Bouyx   Bertrand,Abadie   Caroline,1,1
+Bouyx   Bertrand,Borowczyk   Julien,1,1
+Bouyx   Bertrand,Dufeu   Audrey,0,1
+Bouyx   Bertrand,Rist   Stéphanie,1,1
+Bouyx   Bertrand,Janvier   Caroline,1,1
+Bouyx   Bertrand,Dubré-Chirat   Nicole,1,1
+Bouyx   Bertrand,Kuric   Aina,1,1
+Bouyx   Bertrand,Fiat   Caroline,0,1
+Bouyx   Bertrand,Le Peih   Nicole,1,1
+Bouyx   Bertrand,Trisse   Nicole,1,1
+Bouyx   Bertrand,Michels   Thierry,1,1
+Bouyx   Bertrand,Lazaar   Fiona,1,1
+Bouyx   Bertrand,Da Silva   Dominique,1,1
+Bouyx   Bertrand,Manin   Josette,0,1
+Bouyx   Bertrand,Sanquer   Nicole,0,1
+Bouyx   Bertrand,Son-Forget   Joachim,0,1
+Bouyx   Bertrand,Gaillot   Albane,1,1
+Bouyx   Bertrand,Bonnivard   Émilie,0,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Mauborgne   Sereine,0,1
+Bouyx   Bertrand,Calvez   Céline,0,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,0,1
+Bouyx   Bertrand,Granjus   Florence,0,1
+Bouyx   Bertrand,Vidal   Annie,1,1
+Bouyx   Bertrand,Chiche   Guillaume,1,1
+Bouyx   Bertrand,Provendier   Florence,1,1
+Bouyx   Bertrand,Isaac-Sibille   Cyrille,0,1
+Bouyx   Bertrand,Corneloup   Josiane,1,1
+Mesnier   Thomas,Michel-Brassart   Monica,1,1
+Mesnier   Thomas,Martin   Didier,1,1
+Mesnier   Thomas,Cubertafon   Jean-Pierre,0,1
+Mesnier   Thomas,Colombani   Paul-André,0,1
+Mesnier   Thomas,Tamarelle-Verhaeghe   Marie,1,1
+Mesnier   Thomas,Fabre   Catherine,1,1
+Mesnier   Thomas,Chalumeau   Philippe,1,1
+Mesnier   Thomas,Abadie   Caroline,1,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Dufeu   Audrey,0,1
+Mesnier   Thomas,Rist   Stéphanie,1,1
+Mesnier   Thomas,Janvier   Caroline,1,1
+Mesnier   Thomas,Dubré-Chirat   Nicole,1,1
+Mesnier   Thomas,Kuric   Aina,1,1
+Mesnier   Thomas,Fiat   Caroline,0,1
+Mesnier   Thomas,Le Peih   Nicole,1,1
+Mesnier   Thomas,Trisse   Nicole,1,1
+Mesnier   Thomas,Michels   Thierry,1,1
+Mesnier   Thomas,Lazaar   Fiona,1,1
+Mesnier   Thomas,Da Silva   Dominique,1,1
+Mesnier   Thomas,Manin   Josette,0,1
+Mesnier   Thomas,Sanquer   Nicole,0,1
+Mesnier   Thomas,Son-Forget   Joachim,0,1
+Mesnier   Thomas,Gaillot   Albane,1,1
+Mesnier   Thomas,Bonnivard   Émilie,0,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Mauborgne   Sereine,0,1
+Mesnier   Thomas,Calvez   Céline,0,1
+Mesnier   Thomas,de Vaucouleurs   Michèle,0,1
+Mesnier   Thomas,Granjus   Florence,0,1
+Mesnier   Thomas,Vidal   Annie,1,1
+Mesnier   Thomas,Chiche   Guillaume,1,1
+Mesnier   Thomas,Provendier   Florence,1,1
+Mesnier   Thomas,Isaac-Sibille   Cyrille,0,1
+Mesnier   Thomas,Corneloup   Josiane,1,1
+Michel-Brassart   Monica,Martin   Didier,1,1
+Michel-Brassart   Monica,Cubertafon   Jean-Pierre,0,1
+Michel-Brassart   Monica,Colombani   Paul-André,0,1
+Michel-Brassart   Monica,Tamarelle-Verhaeghe   Marie,1,1
+Michel-Brassart   Monica,Fabre   Catherine,1,1
+Michel-Brassart   Monica,Chalumeau   Philippe,1,1
+Michel-Brassart   Monica,Abadie   Caroline,1,1
+Michel-Brassart   Monica,Borowczyk   Julien,1,1
+Michel-Brassart   Monica,Dufeu   Audrey,0,1
+Michel-Brassart   Monica,Rist   Stéphanie,1,1
+Michel-Brassart   Monica,Janvier   Caroline,1,1
+Michel-Brassart   Monica,Dubré-Chirat   Nicole,1,1
+Michel-Brassart   Monica,Kuric   Aina,1,1
+Michel-Brassart   Monica,Fiat   Caroline,0,1
+Michel-Brassart   Monica,Le Peih   Nicole,1,1
+Michel-Brassart   Monica,Trisse   Nicole,1,1
+Michel-Brassart   Monica,Michels   Thierry,1,1
+Michel-Brassart   Monica,Lazaar   Fiona,1,1
+Michel-Brassart   Monica,Da Silva   Dominique,1,1
+Michel-Brassart   Monica,Manin   Josette,0,1
+Michel-Brassart   Monica,Sanquer   Nicole,0,1
+Michel-Brassart   Monica,Son-Forget   Joachim,0,1
+Michel-Brassart   Monica,Gaillot   Albane,1,1
+Michel-Brassart   Monica,Bonnivard   Émilie,0,1
+Michel-Brassart   Monica,Peyron   Michèle,1,1
+Michel-Brassart   Monica,Mauborgne   Sereine,0,1
+Michel-Brassart   Monica,Calvez   Céline,0,1
+Michel-Brassart   Monica,de Vaucouleurs   Michèle,0,1
+Michel-Brassart   Monica,Granjus   Florence,0,1
+Michel-Brassart   Monica,Vidal   Annie,1,1
+Michel-Brassart   Monica,Chiche   Guillaume,1,1
+Michel-Brassart   Monica,Provendier   Florence,1,1
+Michel-Brassart   Monica,Isaac-Sibille   Cyrille,0,1
+Michel-Brassart   Monica,Corneloup   Josiane,1,1
+Martin   Didier,Cubertafon   Jean-Pierre,0,1
+Martin   Didier,Colombani   Paul-André,0,1
+Martin   Didier,Tamarelle-Verhaeghe   Marie,1,1
+Martin   Didier,Fabre   Catherine,1,1
+Martin   Didier,Chalumeau   Philippe,1,1
+Martin   Didier,Abadie   Caroline,1,1
+Martin   Didier,Borowczyk   Julien,1,1
+Martin   Didier,Dufeu   Audrey,0,1
+Martin   Didier,Rist   Stéphanie,1,1
+Martin   Didier,Janvier   Caroline,1,1
+Martin   Didier,Dubré-Chirat   Nicole,1,1
+Martin   Didier,Kuric   Aina,1,1
+Martin   Didier,Fiat   Caroline,0,1
+Martin   Didier,Le Peih   Nicole,1,1
+Martin   Didier,Trisse   Nicole,1,1
+Martin   Didier,Michels   Thierry,1,1
+Martin   Didier,Lazaar   Fiona,1,1
+Martin   Didier,Da Silva   Dominique,1,1
+Martin   Didier,Manin   Josette,0,1
+Martin   Didier,Sanquer   Nicole,0,1
+Martin   Didier,Son-Forget   Joachim,0,1
+Martin   Didier,Gaillot   Albane,1,1
+Martin   Didier,Bonnivard   Émilie,0,1
+Martin   Didier,Peyron   Michèle,1,1
+Martin   Didier,Mauborgne   Sereine,0,1
+Martin   Didier,Calvez   Céline,0,1
+Martin   Didier,de Vaucouleurs   Michèle,0,1
+Martin   Didier,Granjus   Florence,0,1
+Martin   Didier,Vidal   Annie,1,1
+Martin   Didier,Chiche   Guillaume,1,1
+Martin   Didier,Provendier   Florence,1,1
+Martin   Didier,Isaac-Sibille   Cyrille,0,1
+Martin   Didier,Corneloup   Josiane,1,1
+Cubertafon   Jean-Pierre,Colombani   Paul-André,1,1
+Cubertafon   Jean-Pierre,Tamarelle-Verhaeghe   Marie,0,1
+Cubertafon   Jean-Pierre,Fabre   Catherine,0,1
+Cubertafon   Jean-Pierre,Chalumeau   Philippe,0,1
+Cubertafon   Jean-Pierre,Abadie   Caroline,0,1
+Cubertafon   Jean-Pierre,Borowczyk   Julien,0,1
+Cubertafon   Jean-Pierre,Dufeu   Audrey,0,1
+Cubertafon   Jean-Pierre,Rist   Stéphanie,0,1
+Cubertafon   Jean-Pierre,Janvier   Caroline,0,1
+Cubertafon   Jean-Pierre,Dubré-Chirat   Nicole,0,1
+Cubertafon   Jean-Pierre,Kuric   Aina,0,1
+Cubertafon   Jean-Pierre,Fiat   Caroline,0,1
+Cubertafon   Jean-Pierre,Le Peih   Nicole,0,1
+Cubertafon   Jean-Pierre,Trisse   Nicole,0,1
+Cubertafon   Jean-Pierre,Michels   Thierry,0,1
+Cubertafon   Jean-Pierre,Lazaar   Fiona,0,1
+Cubertafon   Jean-Pierre,Da Silva   Dominique,0,1
+Cubertafon   Jean-Pierre,Manin   Josette,1,1
+Cubertafon   Jean-Pierre,Sanquer   Nicole,1,1
+Cubertafon   Jean-Pierre,Son-Forget   Joachim,1,1
+Cubertafon   Jean-Pierre,Gaillot   Albane,0,1
+Cubertafon   Jean-Pierre,Bonnivard   Émilie,1,1
+Cubertafon   Jean-Pierre,Peyron   Michèle,0,1
+Cubertafon   Jean-Pierre,Mauborgne   Sereine,0,1
+Cubertafon   Jean-Pierre,Calvez   Céline,0,1
+Cubertafon   Jean-Pierre,de Vaucouleurs   Michèle,1,1
+Cubertafon   Jean-Pierre,Granjus   Florence,1,1
+Cubertafon   Jean-Pierre,Vidal   Annie,0,1
+Cubertafon   Jean-Pierre,Chiche   Guillaume,0,1
+Cubertafon   Jean-Pierre,Provendier   Florence,0,1
+Cubertafon   Jean-Pierre,Isaac-Sibille   Cyrille,1,1
+Cubertafon   Jean-Pierre,Corneloup   Josiane,0,1
+Colombani   Paul-André,Tamarelle-Verhaeghe   Marie,0,1
+Colombani   Paul-André,Fabre   Catherine,0,1
+Colombani   Paul-André,Chalumeau   Philippe,0,1
+Colombani   Paul-André,Abadie   Caroline,0,1
+Colombani   Paul-André,Borowczyk   Julien,0,1
+Colombani   Paul-André,Dufeu   Audrey,0,1
+Colombani   Paul-André,Rist   Stéphanie,0,1
+Colombani   Paul-André,Janvier   Caroline,0,1
+Colombani   Paul-André,Dubré-Chirat   Nicole,0,1
+Colombani   Paul-André,Kuric   Aina,0,1
+Colombani   Paul-André,Fiat   Caroline,0,1
+Colombani   Paul-André,Le Peih   Nicole,0,1
+Colombani   Paul-André,Trisse   Nicole,0,1
+Colombani   Paul-André,Michels   Thierry,0,1
+Colombani   Paul-André,Lazaar   Fiona,0,1
+Colombani   Paul-André,Da Silva   Dominique,0,1
+Colombani   Paul-André,Manin   Josette,1,1
+Colombani   Paul-André,Sanquer   Nicole,1,1
+Colombani   Paul-André,Son-Forget   Joachim,1,1
+Colombani   Paul-André,Gaillot   Albane,0,1
+Colombani   Paul-André,Bonnivard   Émilie,1,1
+Colombani   Paul-André,Peyron   Michèle,0,1
+Colombani   Paul-André,Mauborgne   Sereine,0,1
+Colombani   Paul-André,Calvez   Céline,0,1
+Colombani   Paul-André,de Vaucouleurs   Michèle,1,1
+Colombani   Paul-André,Granjus   Florence,1,1
+Colombani   Paul-André,Vidal   Annie,0,1
+Colombani   Paul-André,Chiche   Guillaume,0,1
+Colombani   Paul-André,Provendier   Florence,0,1
+Colombani   Paul-André,Isaac-Sibille   Cyrille,1,1
+Colombani   Paul-André,Corneloup   Josiane,0,1
+Tamarelle-Verhaeghe   Marie,Fabre   Catherine,1,1
+Tamarelle-Verhaeghe   Marie,Chalumeau   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Abadie   Caroline,1,1
+Tamarelle-Verhaeghe   Marie,Borowczyk   Julien,1,1
+Tamarelle-Verhaeghe   Marie,Dufeu   Audrey,0,1
+Tamarelle-Verhaeghe   Marie,Rist   Stéphanie,1,1
+Tamarelle-Verhaeghe   Marie,Janvier   Caroline,1,1
+Tamarelle-Verhaeghe   Marie,Dubré-Chirat   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Kuric   Aina,1,1
+Tamarelle-Verhaeghe   Marie,Fiat   Caroline,0,1
+Tamarelle-Verhaeghe   Marie,Le Peih   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Trisse   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Michels   Thierry,1,1
+Tamarelle-Verhaeghe   Marie,Lazaar   Fiona,1,1
+Tamarelle-Verhaeghe   Marie,Da Silva   Dominique,1,1
+Tamarelle-Verhaeghe   Marie,Manin   Josette,0,1
+Tamarelle-Verhaeghe   Marie,Sanquer   Nicole,0,1
+Tamarelle-Verhaeghe   Marie,Son-Forget   Joachim,0,1
+Tamarelle-Verhaeghe   Marie,Gaillot   Albane,1,1
+Tamarelle-Verhaeghe   Marie,Bonnivard   Émilie,0,1
+Tamarelle-Verhaeghe   Marie,Peyron   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Mauborgne   Sereine,0,1
+Tamarelle-Verhaeghe   Marie,Calvez   Céline,0,1
+Tamarelle-Verhaeghe   Marie,de Vaucouleurs   Michèle,0,1
+Tamarelle-Verhaeghe   Marie,Granjus   Florence,0,1
+Tamarelle-Verhaeghe   Marie,Vidal   Annie,1,1
+Tamarelle-Verhaeghe   Marie,Chiche   Guillaume,1,1
+Tamarelle-Verhaeghe   Marie,Provendier   Florence,1,1
+Tamarelle-Verhaeghe   Marie,Isaac-Sibille   Cyrille,0,1
+Tamarelle-Verhaeghe   Marie,Corneloup   Josiane,1,1
+Fabre   Catherine,Chalumeau   Philippe,1,1
+Fabre   Catherine,Abadie   Caroline,1,1
+Fabre   Catherine,Borowczyk   Julien,1,1
+Fabre   Catherine,Dufeu   Audrey,0,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Janvier   Caroline,1,1
+Fabre   Catherine,Dubré-Chirat   Nicole,1,1
+Fabre   Catherine,Kuric   Aina,1,1
+Fabre   Catherine,Fiat   Caroline,0,1
+Fabre   Catherine,Le Peih   Nicole,1,1
+Fabre   Catherine,Trisse   Nicole,1,1
+Fabre   Catherine,Michels   Thierry,1,1
+Fabre   Catherine,Lazaar   Fiona,1,1
+Fabre   Catherine,Da Silva   Dominique,1,1
+Fabre   Catherine,Manin   Josette,0,1
+Fabre   Catherine,Sanquer   Nicole,0,1
+Fabre   Catherine,Son-Forget   Joachim,0,1
+Fabre   Catherine,Gaillot   Albane,1,1
+Fabre   Catherine,Bonnivard   Émilie,0,1
+Fabre   Catherine,Peyron   Michèle,1,1
+Fabre   Catherine,Mauborgne   Sereine,0,1
+Fabre   Catherine,Calvez   Céline,0,1
+Fabre   Catherine,de Vaucouleurs   Michèle,0,1
+Fabre   Catherine,Granjus   Florence,0,1
+Fabre   Catherine,Vidal   Annie,1,1
+Fabre   Catherine,Chiche   Guillaume,1,1
+Fabre   Catherine,Provendier   Florence,1,1
+Fabre   Catherine,Isaac-Sibille   Cyrille,0,1
+Fabre   Catherine,Corneloup   Josiane,1,1
+Chalumeau   Philippe,Abadie   Caroline,1,1
+Chalumeau   Philippe,Borowczyk   Julien,1,1
+Chalumeau   Philippe,Dufeu   Audrey,0,1
+Chalumeau   Philippe,Rist   Stéphanie,1,1
+Chalumeau   Philippe,Janvier   Caroline,1,1
+Chalumeau   Philippe,Dubré-Chirat   Nicole,1,1
+Chalumeau   Philippe,Kuric   Aina,1,1
+Chalumeau   Philippe,Fiat   Caroline,0,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Trisse   Nicole,1,1
+Chalumeau   Philippe,Michels   Thierry,1,1
+Chalumeau   Philippe,Lazaar   Fiona,1,1
+Chalumeau   Philippe,Da Silva   Dominique,1,1
+Chalumeau   Philippe,Manin   Josette,0,1
+Chalumeau   Philippe,Sanquer   Nicole,0,1
+Chalumeau   Philippe,Son-Forget   Joachim,0,1
+Chalumeau   Philippe,Gaillot   Albane,1,1
+Chalumeau   Philippe,Bonnivard   Émilie,0,1
+Chalumeau   Philippe,Peyron   Michèle,1,1
+Chalumeau   Philippe,Mauborgne   Sereine,0,1
+Chalumeau   Philippe,Calvez   Céline,0,1
+Chalumeau   Philippe,de Vaucouleurs   Michèle,0,1
+Chalumeau   Philippe,Granjus   Florence,0,1
+Chalumeau   Philippe,Vidal   Annie,1,1
+Chalumeau   Philippe,Chiche   Guillaume,1,1
+Chalumeau   Philippe,Provendier   Florence,1,1
+Chalumeau   Philippe,Isaac-Sibille   Cyrille,0,1
+Chalumeau   Philippe,Corneloup   Josiane,1,1
+Abadie   Caroline,Borowczyk   Julien,1,1
+Abadie   Caroline,Dufeu   Audrey,0,1
+Abadie   Caroline,Rist   Stéphanie,1,1
+Abadie   Caroline,Janvier   Caroline,1,1
+Abadie   Caroline,Dubré-Chirat   Nicole,1,1
+Abadie   Caroline,Kuric   Aina,1,1
+Abadie   Caroline,Fiat   Caroline,0,1
+Abadie   Caroline,Le Peih   Nicole,1,1
+Abadie   Caroline,Trisse   Nicole,1,1
+Abadie   Caroline,Michels   Thierry,1,1
+Abadie   Caroline,Lazaar   Fiona,1,1
+Abadie   Caroline,Da Silva   Dominique,1,1
+Abadie   Caroline,Manin   Josette,0,1
+Abadie   Caroline,Sanquer   Nicole,0,1
+Abadie   Caroline,Son-Forget   Joachim,0,1
+Abadie   Caroline,Gaillot   Albane,1,1
+Abadie   Caroline,Bonnivard   Émilie,0,1
+Abadie   Caroline,Peyron   Michèle,1,1
+Abadie   Caroline,Mauborgne   Sereine,0,1
+Abadie   Caroline,Calvez   Céline,0,1
+Abadie   Caroline,de Vaucouleurs   Michèle,0,1
+Abadie   Caroline,Granjus   Florence,0,1
+Abadie   Caroline,Vidal   Annie,1,1
+Abadie   Caroline,Chiche   Guillaume,1,1
+Abadie   Caroline,Provendier   Florence,1,1
+Abadie   Caroline,Isaac-Sibille   Cyrille,0,1
+Abadie   Caroline,Corneloup   Josiane,1,1
+Borowczyk   Julien,Dufeu   Audrey,0,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Janvier   Caroline,1,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Kuric   Aina,1,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Le Peih   Nicole,1,1
+Borowczyk   Julien,Trisse   Nicole,1,1
+Borowczyk   Julien,Michels   Thierry,1,1
+Borowczyk   Julien,Lazaar   Fiona,1,1
+Borowczyk   Julien,Da Silva   Dominique,1,1
+Borowczyk   Julien,Manin   Josette,0,1
+Borowczyk   Julien,Sanquer   Nicole,0,1
+Borowczyk   Julien,Son-Forget   Joachim,0,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Bonnivard   Émilie,0,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Mauborgne   Sereine,0,1
+Borowczyk   Julien,Calvez   Céline,0,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,0,1
+Borowczyk   Julien,Granjus   Florence,0,1
+Borowczyk   Julien,Vidal   Annie,1,1
+Borowczyk   Julien,Chiche   Guillaume,1,1
+Borowczyk   Julien,Provendier   Florence,1,1
+Borowczyk   Julien,Isaac-Sibille   Cyrille,0,1
+Borowczyk   Julien,Corneloup   Josiane,1,1
+Dufeu   Audrey,Rist   Stéphanie,0,1
+Dufeu   Audrey,Janvier   Caroline,0,1
+Dufeu   Audrey,Dubré-Chirat   Nicole,0,1
+Dufeu   Audrey,Kuric   Aina,0,1
+Dufeu   Audrey,Fiat   Caroline,1,1
+Dufeu   Audrey,Le Peih   Nicole,0,1
+Dufeu   Audrey,Trisse   Nicole,0,1
+Dufeu   Audrey,Michels   Thierry,0,1
+Dufeu   Audrey,Lazaar   Fiona,0,1
+Dufeu   Audrey,Da Silva   Dominique,0,1
+Dufeu   Audrey,Manin   Josette,0,1
+Dufeu   Audrey,Sanquer   Nicole,0,1
+Dufeu   Audrey,Son-Forget   Joachim,0,1
+Dufeu   Audrey,Gaillot   Albane,0,1
+Dufeu   Audrey,Bonnivard   Émilie,0,1
+Dufeu   Audrey,Peyron   Michèle,0,1
+Dufeu   Audrey,Mauborgne   Sereine,1,1
+Dufeu   Audrey,Calvez   Céline,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,0,1
+Dufeu   Audrey,Granjus   Florence,0,1
+Dufeu   Audrey,Vidal   Annie,0,1
+Dufeu   Audrey,Chiche   Guillaume,0,1
+Dufeu   Audrey,Provendier   Florence,0,1
+Dufeu   Audrey,Isaac-Sibille   Cyrille,0,1
+Dufeu   Audrey,Corneloup   Josiane,0,1
+Rist   Stéphanie,Janvier   Caroline,1,1
+Rist   Stéphanie,Dubré-Chirat   Nicole,1,1
+Rist   Stéphanie,Kuric   Aina,1,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Le Peih   Nicole,1,1
+Rist   Stéphanie,Trisse   Nicole,1,1
+Rist   Stéphanie,Michels   Thierry,1,1
+Rist   Stéphanie,Lazaar   Fiona,1,1
+Rist   Stéphanie,Da Silva   Dominique,1,1
+Rist   Stéphanie,Manin   Josette,0,1
+Rist   Stéphanie,Sanquer   Nicole,0,1
+Rist   Stéphanie,Son-Forget   Joachim,0,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Bonnivard   Émilie,0,1
+Rist   Stéphanie,Peyron   Michèle,1,1
+Rist   Stéphanie,Mauborgne   Sereine,0,1
+Rist   Stéphanie,Calvez   Céline,0,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,0,1
+Rist   Stéphanie,Granjus   Florence,0,1
+Rist   Stéphanie,Vidal   Annie,1,1
+Rist   Stéphanie,Chiche   Guillaume,1,1
+Rist   Stéphanie,Provendier   Florence,1,1
+Rist   Stéphanie,Isaac-Sibille   Cyrille,0,1
+Rist   Stéphanie,Corneloup   Josiane,1,1
+Janvier   Caroline,Dubré-Chirat   Nicole,1,1
+Janvier   Caroline,Kuric   Aina,1,1
+Janvier   Caroline,Fiat   Caroline,0,1
+Janvier   Caroline,Le Peih   Nicole,1,1
+Janvier   Caroline,Trisse   Nicole,1,1
+Janvier   Caroline,Michels   Thierry,1,1
+Janvier   Caroline,Lazaar   Fiona,1,1
+Janvier   Caroline,Da Silva   Dominique,1,1
+Janvier   Caroline,Manin   Josette,0,1
+Janvier   Caroline,Sanquer   Nicole,0,1
+Janvier   Caroline,Son-Forget   Joachim,0,1
+Janvier   Caroline,Gaillot   Albane,1,1
+Janvier   Caroline,Bonnivard   Émilie,0,1
+Janvier   Caroline,Peyron   Michèle,1,1
+Janvier   Caroline,Mauborgne   Sereine,0,1
+Janvier   Caroline,Calvez   Céline,0,1
+Janvier   Caroline,de Vaucouleurs   Michèle,0,1
+Janvier   Caroline,Granjus   Florence,0,1
+Janvier   Caroline,Vidal   Annie,1,1
+Janvier   Caroline,Chiche   Guillaume,1,1
+Janvier   Caroline,Provendier   Florence,1,1
+Janvier   Caroline,Isaac-Sibille   Cyrille,0,1
+Janvier   Caroline,Corneloup   Josiane,1,1
+Dubré-Chirat   Nicole,Kuric   Aina,1,1
+Dubré-Chirat   Nicole,Fiat   Caroline,0,1
+Dubré-Chirat   Nicole,Le Peih   Nicole,1,1
+Dubré-Chirat   Nicole,Trisse   Nicole,1,1
+Dubré-Chirat   Nicole,Michels   Thierry,1,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Da Silva   Dominique,1,1
+Dubré-Chirat   Nicole,Manin   Josette,0,1
+Dubré-Chirat   Nicole,Sanquer   Nicole,0,1
+Dubré-Chirat   Nicole,Son-Forget   Joachim,0,1
+Dubré-Chirat   Nicole,Gaillot   Albane,1,1
+Dubré-Chirat   Nicole,Bonnivard   Émilie,0,1
+Dubré-Chirat   Nicole,Peyron   Michèle,1,1
+Dubré-Chirat   Nicole,Mauborgne   Sereine,0,1
+Dubré-Chirat   Nicole,Calvez   Céline,0,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,0,1
+Dubré-Chirat   Nicole,Granjus   Florence,0,1
+Dubré-Chirat   Nicole,Vidal   Annie,1,1
+Dubré-Chirat   Nicole,Chiche   Guillaume,1,1
+Dubré-Chirat   Nicole,Provendier   Florence,1,1
+Dubré-Chirat   Nicole,Isaac-Sibille   Cyrille,0,1
+Dubré-Chirat   Nicole,Corneloup   Josiane,1,1
+Kuric   Aina,Fiat   Caroline,0,1
+Kuric   Aina,Le Peih   Nicole,1,1
+Kuric   Aina,Trisse   Nicole,1,1
+Kuric   Aina,Michels   Thierry,1,1
+Kuric   Aina,Lazaar   Fiona,1,1
+Kuric   Aina,Da Silva   Dominique,1,1
+Kuric   Aina,Manin   Josette,0,1
+Kuric   Aina,Sanquer   Nicole,0,1
+Kuric   Aina,Son-Forget   Joachim,0,1
+Kuric   Aina,Gaillot   Albane,1,1
+Kuric   Aina,Bonnivard   Émilie,0,1
+Kuric   Aina,Peyron   Michèle,1,1
+Kuric   Aina,Mauborgne   Sereine,0,1
+Kuric   Aina,Calvez   Céline,0,1
+Kuric   Aina,de Vaucouleurs   Michèle,0,1
+Kuric   Aina,Granjus   Florence,0,1
+Kuric   Aina,Vidal   Annie,1,1
+Kuric   Aina,Chiche   Guillaume,1,1
+Kuric   Aina,Provendier   Florence,1,1
+Kuric   Aina,Isaac-Sibille   Cyrille,0,1
+Kuric   Aina,Corneloup   Josiane,1,1
+Fiat   Caroline,Le Peih   Nicole,0,1
+Fiat   Caroline,Trisse   Nicole,0,1
+Fiat   Caroline,Michels   Thierry,0,1
+Fiat   Caroline,Lazaar   Fiona,0,1
+Fiat   Caroline,Da Silva   Dominique,0,1
+Fiat   Caroline,Manin   Josette,0,1
+Fiat   Caroline,Sanquer   Nicole,0,1
+Fiat   Caroline,Son-Forget   Joachim,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Bonnivard   Émilie,0,1
+Fiat   Caroline,Peyron   Michèle,0,1
+Fiat   Caroline,Mauborgne   Sereine,1,1
+Fiat   Caroline,Calvez   Céline,1,1
+Fiat   Caroline,de Vaucouleurs   Michèle,0,1
+Fiat   Caroline,Granjus   Florence,0,1
+Fiat   Caroline,Vidal   Annie,0,1
+Fiat   Caroline,Chiche   Guillaume,0,1
+Fiat   Caroline,Provendier   Florence,0,1
+Fiat   Caroline,Isaac-Sibille   Cyrille,0,1
+Fiat   Caroline,Corneloup   Josiane,0,1
+Le Peih   Nicole,Trisse   Nicole,1,1
+Le Peih   Nicole,Michels   Thierry,1,1
+Le Peih   Nicole,Lazaar   Fiona,1,1
+Le Peih   Nicole,Da Silva   Dominique,1,1
+Le Peih   Nicole,Manin   Josette,0,1
+Le Peih   Nicole,Sanquer   Nicole,0,1
+Le Peih   Nicole,Son-Forget   Joachim,0,1
+Le Peih   Nicole,Gaillot   Albane,1,1
+Le Peih   Nicole,Bonnivard   Émilie,0,1
+Le Peih   Nicole,Peyron   Michèle,1,1
+Le Peih   Nicole,Mauborgne   Sereine,0,1
+Le Peih   Nicole,Calvez   Céline,0,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,0,1
+Le Peih   Nicole,Granjus   Florence,0,1
+Le Peih   Nicole,Vidal   Annie,1,1
+Le Peih   Nicole,Chiche   Guillaume,1,1
+Le Peih   Nicole,Provendier   Florence,1,1
+Le Peih   Nicole,Isaac-Sibille   Cyrille,0,1
+Le Peih   Nicole,Corneloup   Josiane,1,1
+Trisse   Nicole,Michels   Thierry,1,1
+Trisse   Nicole,Lazaar   Fiona,1,1
+Trisse   Nicole,Da Silva   Dominique,1,1
+Trisse   Nicole,Manin   Josette,0,1
+Trisse   Nicole,Sanquer   Nicole,0,1
+Trisse   Nicole,Son-Forget   Joachim,0,1
+Trisse   Nicole,Gaillot   Albane,1,1
+Trisse   Nicole,Bonnivard   Émilie,0,1
+Trisse   Nicole,Peyron   Michèle,1,1
+Trisse   Nicole,Mauborgne   Sereine,0,1
+Trisse   Nicole,Calvez   Céline,0,1
+Trisse   Nicole,de Vaucouleurs   Michèle,0,1
+Trisse   Nicole,Granjus   Florence,0,1
+Trisse   Nicole,Vidal   Annie,1,1
+Trisse   Nicole,Chiche   Guillaume,1,1
+Trisse   Nicole,Provendier   Florence,1,1
+Trisse   Nicole,Isaac-Sibille   Cyrille,0,1
+Trisse   Nicole,Corneloup   Josiane,1,1
+Michels   Thierry,Lazaar   Fiona,1,1
+Michels   Thierry,Da Silva   Dominique,1,1
+Michels   Thierry,Manin   Josette,0,1
+Michels   Thierry,Sanquer   Nicole,0,1
+Michels   Thierry,Son-Forget   Joachim,0,1
+Michels   Thierry,Gaillot   Albane,1,1
+Michels   Thierry,Bonnivard   Émilie,0,1
+Michels   Thierry,Peyron   Michèle,1,1
+Michels   Thierry,Mauborgne   Sereine,0,1
+Michels   Thierry,Calvez   Céline,0,1
+Michels   Thierry,de Vaucouleurs   Michèle,0,1
+Michels   Thierry,Granjus   Florence,0,1
+Michels   Thierry,Vidal   Annie,1,1
+Michels   Thierry,Chiche   Guillaume,1,1
+Michels   Thierry,Provendier   Florence,1,1
+Michels   Thierry,Isaac-Sibille   Cyrille,0,1
+Michels   Thierry,Corneloup   Josiane,1,1
+Lazaar   Fiona,Da Silva   Dominique,1,1
+Lazaar   Fiona,Manin   Josette,0,1
+Lazaar   Fiona,Sanquer   Nicole,0,1
+Lazaar   Fiona,Son-Forget   Joachim,0,1
+Lazaar   Fiona,Gaillot   Albane,1,1
+Lazaar   Fiona,Bonnivard   Émilie,0,1
+Lazaar   Fiona,Peyron   Michèle,1,1
+Lazaar   Fiona,Mauborgne   Sereine,0,1
+Lazaar   Fiona,Calvez   Céline,0,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,0,1
+Lazaar   Fiona,Granjus   Florence,0,1
+Lazaar   Fiona,Vidal   Annie,1,1
+Lazaar   Fiona,Chiche   Guillaume,1,1
+Lazaar   Fiona,Provendier   Florence,1,1
+Lazaar   Fiona,Isaac-Sibille   Cyrille,0,1
+Lazaar   Fiona,Corneloup   Josiane,1,1
+Da Silva   Dominique,Manin   Josette,0,1
+Da Silva   Dominique,Sanquer   Nicole,0,1
+Da Silva   Dominique,Son-Forget   Joachim,0,1
+Da Silva   Dominique,Gaillot   Albane,1,1
+Da Silva   Dominique,Bonnivard   Émilie,0,1
+Da Silva   Dominique,Peyron   Michèle,1,1
+Da Silva   Dominique,Mauborgne   Sereine,0,1
+Da Silva   Dominique,Calvez   Céline,0,1
+Da Silva   Dominique,de Vaucouleurs   Michèle,0,1
+Da Silva   Dominique,Granjus   Florence,0,1
+Da Silva   Dominique,Vidal   Annie,1,1
+Da Silva   Dominique,Chiche   Guillaume,1,1
+Da Silva   Dominique,Provendier   Florence,1,1
+Da Silva   Dominique,Isaac-Sibille   Cyrille,0,1
+Da Silva   Dominique,Corneloup   Josiane,1,1
+Manin   Josette,Sanquer   Nicole,1,1
+Manin   Josette,Son-Forget   Joachim,1,1
+Manin   Josette,Gaillot   Albane,0,1
+Manin   Josette,Bonnivard   Émilie,1,1
+Manin   Josette,Peyron   Michèle,0,1
+Manin   Josette,Mauborgne   Sereine,0,1
+Manin   Josette,Calvez   Céline,0,1
+Manin   Josette,de Vaucouleurs   Michèle,1,1
+Manin   Josette,Granjus   Florence,1,1
+Manin   Josette,Vidal   Annie,0,1
+Manin   Josette,Chiche   Guillaume,0,1
+Manin   Josette,Provendier   Florence,0,1
+Manin   Josette,Isaac-Sibille   Cyrille,1,1
+Manin   Josette,Corneloup   Josiane,0,1
+Sanquer   Nicole,Son-Forget   Joachim,1,1
+Sanquer   Nicole,Gaillot   Albane,0,1
+Sanquer   Nicole,Bonnivard   Émilie,1,1
+Sanquer   Nicole,Peyron   Michèle,0,1
+Sanquer   Nicole,Mauborgne   Sereine,0,1
+Sanquer   Nicole,Calvez   Céline,0,1
+Sanquer   Nicole,de Vaucouleurs   Michèle,1,1
+Sanquer   Nicole,Granjus   Florence,1,1
+Sanquer   Nicole,Vidal   Annie,0,1
+Sanquer   Nicole,Chiche   Guillaume,0,1
+Sanquer   Nicole,Provendier   Florence,0,1
+Sanquer   Nicole,Isaac-Sibille   Cyrille,1,1
+Sanquer   Nicole,Corneloup   Josiane,0,1
+Son-Forget   Joachim,Gaillot   Albane,0,1
+Son-Forget   Joachim,Bonnivard   Émilie,1,1
+Son-Forget   Joachim,Peyron   Michèle,0,1
+Son-Forget   Joachim,Mauborgne   Sereine,0,1
+Son-Forget   Joachim,Calvez   Céline,0,1
+Son-Forget   Joachim,de Vaucouleurs   Michèle,1,1
+Son-Forget   Joachim,Granjus   Florence,1,1
+Son-Forget   Joachim,Vidal   Annie,0,1
+Son-Forget   Joachim,Chiche   Guillaume,0,1
+Son-Forget   Joachim,Provendier   Florence,0,1
+Son-Forget   Joachim,Isaac-Sibille   Cyrille,1,1
+Son-Forget   Joachim,Corneloup   Josiane,0,1
+Gaillot   Albane,Bonnivard   Émilie,0,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,Mauborgne   Sereine,0,1
+Gaillot   Albane,Calvez   Céline,0,1
+Gaillot   Albane,de Vaucouleurs   Michèle,0,1
+Gaillot   Albane,Granjus   Florence,0,1
+Gaillot   Albane,Vidal   Annie,1,1
+Gaillot   Albane,Chiche   Guillaume,1,1
+Gaillot   Albane,Provendier   Florence,1,1
+Gaillot   Albane,Isaac-Sibille   Cyrille,0,1
+Gaillot   Albane,Corneloup   Josiane,1,1
+Bonnivard   Émilie,Peyron   Michèle,0,1
+Bonnivard   Émilie,Mauborgne   Sereine,0,1
+Bonnivard   Émilie,Calvez   Céline,0,1
+Bonnivard   Émilie,de Vaucouleurs   Michèle,1,1
+Bonnivard   Émilie,Granjus   Florence,1,1
+Bonnivard   Émilie,Vidal   Annie,0,1
+Bonnivard   Émilie,Chiche   Guillaume,0,1
+Bonnivard   Émilie,Provendier   Florence,0,1
+Bonnivard   Émilie,Isaac-Sibille   Cyrille,1,1
+Bonnivard   Émilie,Corneloup   Josiane,0,1
+Peyron   Michèle,Mauborgne   Sereine,0,1
+Peyron   Michèle,Calvez   Céline,0,1
+Peyron   Michèle,de Vaucouleurs   Michèle,0,1
+Peyron   Michèle,Granjus   Florence,0,1
+Peyron   Michèle,Vidal   Annie,1,1
+Peyron   Michèle,Chiche   Guillaume,1,1
+Peyron   Michèle,Provendier   Florence,1,1
+Peyron   Michèle,Isaac-Sibille   Cyrille,0,1
+Peyron   Michèle,Corneloup   Josiane,1,1
+Mauborgne   Sereine,Calvez   Céline,1,1
+Mauborgne   Sereine,de Vaucouleurs   Michèle,0,1
+Mauborgne   Sereine,Granjus   Florence,0,1
+Mauborgne   Sereine,Vidal   Annie,0,1
+Mauborgne   Sereine,Chiche   Guillaume,0,1
+Mauborgne   Sereine,Provendier   Florence,0,1
+Mauborgne   Sereine,Isaac-Sibille   Cyrille,0,1
+Mauborgne   Sereine,Corneloup   Josiane,0,1
+Calvez   Céline,de Vaucouleurs   Michèle,0,1
+Calvez   Céline,Granjus   Florence,0,1
+Calvez   Céline,Vidal   Annie,0,1
+Calvez   Céline,Chiche   Guillaume,0,1
+Calvez   Céline,Provendier   Florence,0,1
+Calvez   Céline,Isaac-Sibille   Cyrille,0,1
+Calvez   Céline,Corneloup   Josiane,0,1
+de Vaucouleurs   Michèle,Granjus   Florence,1,1
+de Vaucouleurs   Michèle,Vidal   Annie,0,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,0,1
+de Vaucouleurs   Michèle,Provendier   Florence,0,1
+de Vaucouleurs   Michèle,Isaac-Sibille   Cyrille,1,1
+de Vaucouleurs   Michèle,Corneloup   Josiane,0,1
+Granjus   Florence,Vidal   Annie,0,1
+Granjus   Florence,Chiche   Guillaume,0,1
+Granjus   Florence,Provendier   Florence,0,1
+Granjus   Florence,Isaac-Sibille   Cyrille,1,1
+Granjus   Florence,Corneloup   Josiane,0,1
+Vidal   Annie,Chiche   Guillaume,1,1
+Vidal   Annie,Provendier   Florence,1,1
+Vidal   Annie,Isaac-Sibille   Cyrille,0,1
+Vidal   Annie,Corneloup   Josiane,1,1
+Chiche   Guillaume,Provendier   Florence,1,1
+Chiche   Guillaume,Isaac-Sibille   Cyrille,0,1
+Chiche   Guillaume,Corneloup   Josiane,1,1
+Provendier   Florence,Isaac-Sibille   Cyrille,0,1
+Provendier   Florence,Corneloup   Josiane,1,1
+Isaac-Sibille   Cyrille,Corneloup   Josiane,0,1

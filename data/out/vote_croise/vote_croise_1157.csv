@@ -1,0 +1,466 @@
+from,to,vote_commun,loi_commun
+Diard   Éric,Woerth   Éric,1,1
+Diard   Éric,Dalloz   Marie-Christine,1,1
+Diard   Éric,Bricout   Jean-Louis,0,1
+Diard   Éric,Pires Beaune   Christine,0,1
+Diard   Éric,Maillard   Sylvain,1,1
+Diard   Éric,Peyrol   Bénédicte,1,1
+Diard   Éric,Bagarry   Delphine,0,1
+Diard   Éric,Hérin   Danièle,1,1
+Diard   Éric,Kerlogot   Yannick,1,1
+Diard   Éric,Clapot   Mireille,1,1
+Diard   Éric,Mörch   Sandrine,0,1
+Diard   Éric,Ménard   Emmanuelle,1,1
+Diard   Éric,David   Dominique,1,1
+Diard   Éric,Labaronne   Daniel,1,1
+Diard   Éric,Saint-Paul   Laetitia,1,1
+Diard   Éric,Girardin   Éric,1,1
+Diard   Éric,Magnier   Lise,0,1
+Diard   Éric,Damaisin   Olivier,1,1
+Diard   Éric,Cariou   Émilie,1,1
+Diard   Éric,Belhaddad   Belkhir,1,1
+Diard   Éric,Petit   Valérie,0,1
+Diard   Éric,Roussel   Fabien,0,1
+Diard   Éric,Dunoyer   Philippe,0,1
+Diard   Éric,Rubin   Sabine,0,1
+Diard   Éric,Lenne   Marion,1,1
+Diard   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Diard   Éric,Terlier   Jean,1,1
+Diard   Éric,Bourlanges   Jean-Louis,1,1
+Diard   Éric,Rudigoz   Thomas,1,1
+Diard   Éric,de Courson   Charles,0,1
+Woerth   Éric,Dalloz   Marie-Christine,1,1
+Woerth   Éric,Bricout   Jean-Louis,0,1
+Woerth   Éric,Pires Beaune   Christine,0,1
+Woerth   Éric,Maillard   Sylvain,1,1
+Woerth   Éric,Peyrol   Bénédicte,1,1
+Woerth   Éric,Bagarry   Delphine,0,1
+Woerth   Éric,Hérin   Danièle,1,1
+Woerth   Éric,Kerlogot   Yannick,1,1
+Woerth   Éric,Clapot   Mireille,1,1
+Woerth   Éric,Mörch   Sandrine,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,David   Dominique,1,1
+Woerth   Éric,Labaronne   Daniel,1,1
+Woerth   Éric,Saint-Paul   Laetitia,1,1
+Woerth   Éric,Girardin   Éric,1,1
+Woerth   Éric,Magnier   Lise,0,1
+Woerth   Éric,Damaisin   Olivier,1,1
+Woerth   Éric,Cariou   Émilie,1,1
+Woerth   Éric,Belhaddad   Belkhir,1,1
+Woerth   Éric,Petit   Valérie,0,1
+Woerth   Éric,Roussel   Fabien,0,1
+Woerth   Éric,Dunoyer   Philippe,0,1
+Woerth   Éric,Rubin   Sabine,0,1
+Woerth   Éric,Lenne   Marion,1,1
+Woerth   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Woerth   Éric,Terlier   Jean,1,1
+Woerth   Éric,Bourlanges   Jean-Louis,1,1
+Woerth   Éric,Rudigoz   Thomas,1,1
+Woerth   Éric,de Courson   Charles,0,1
+Dalloz   Marie-Christine,Bricout   Jean-Louis,0,1
+Dalloz   Marie-Christine,Pires Beaune   Christine,0,1
+Dalloz   Marie-Christine,Maillard   Sylvain,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Bagarry   Delphine,0,1
+Dalloz   Marie-Christine,Hérin   Danièle,1,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,1,1
+Dalloz   Marie-Christine,Clapot   Mireille,1,1
+Dalloz   Marie-Christine,Mörch   Sandrine,0,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,David   Dominique,1,1
+Dalloz   Marie-Christine,Labaronne   Daniel,1,1
+Dalloz   Marie-Christine,Saint-Paul   Laetitia,1,1
+Dalloz   Marie-Christine,Girardin   Éric,1,1
+Dalloz   Marie-Christine,Magnier   Lise,0,1
+Dalloz   Marie-Christine,Damaisin   Olivier,1,1
+Dalloz   Marie-Christine,Cariou   Émilie,1,1
+Dalloz   Marie-Christine,Belhaddad   Belkhir,1,1
+Dalloz   Marie-Christine,Petit   Valérie,0,1
+Dalloz   Marie-Christine,Roussel   Fabien,0,1
+Dalloz   Marie-Christine,Dunoyer   Philippe,0,1
+Dalloz   Marie-Christine,Rubin   Sabine,0,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Dalloz   Marie-Christine,Terlier   Jean,1,1
+Dalloz   Marie-Christine,Bourlanges   Jean-Louis,1,1
+Dalloz   Marie-Christine,Rudigoz   Thomas,1,1
+Dalloz   Marie-Christine,de Courson   Charles,0,1
+Bricout   Jean-Louis,Pires Beaune   Christine,1,1
+Bricout   Jean-Louis,Maillard   Sylvain,0,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Bagarry   Delphine,1,1
+Bricout   Jean-Louis,Hérin   Danièle,0,1
+Bricout   Jean-Louis,Kerlogot   Yannick,0,1
+Bricout   Jean-Louis,Clapot   Mireille,0,1
+Bricout   Jean-Louis,Mörch   Sandrine,1,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,David   Dominique,0,1
+Bricout   Jean-Louis,Labaronne   Daniel,0,1
+Bricout   Jean-Louis,Saint-Paul   Laetitia,0,1
+Bricout   Jean-Louis,Girardin   Éric,0,1
+Bricout   Jean-Louis,Magnier   Lise,1,1
+Bricout   Jean-Louis,Damaisin   Olivier,0,1
+Bricout   Jean-Louis,Cariou   Émilie,0,1
+Bricout   Jean-Louis,Belhaddad   Belkhir,0,1
+Bricout   Jean-Louis,Petit   Valérie,1,1
+Bricout   Jean-Louis,Roussel   Fabien,1,1
+Bricout   Jean-Louis,Dunoyer   Philippe,1,1
+Bricout   Jean-Louis,Rubin   Sabine,1,1
+Bricout   Jean-Louis,Lenne   Marion,0,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Terlier   Jean,0,1
+Bricout   Jean-Louis,Bourlanges   Jean-Louis,0,1
+Bricout   Jean-Louis,Rudigoz   Thomas,0,1
+Bricout   Jean-Louis,de Courson   Charles,1,1
+Pires Beaune   Christine,Maillard   Sylvain,0,1
+Pires Beaune   Christine,Peyrol   Bénédicte,0,1
+Pires Beaune   Christine,Bagarry   Delphine,1,1
+Pires Beaune   Christine,Hérin   Danièle,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Clapot   Mireille,0,1
+Pires Beaune   Christine,Mörch   Sandrine,1,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,David   Dominique,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Saint-Paul   Laetitia,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Magnier   Lise,1,1
+Pires Beaune   Christine,Damaisin   Olivier,0,1
+Pires Beaune   Christine,Cariou   Émilie,0,1
+Pires Beaune   Christine,Belhaddad   Belkhir,0,1
+Pires Beaune   Christine,Petit   Valérie,1,1
+Pires Beaune   Christine,Roussel   Fabien,1,1
+Pires Beaune   Christine,Dunoyer   Philippe,1,1
+Pires Beaune   Christine,Rubin   Sabine,1,1
+Pires Beaune   Christine,Lenne   Marion,0,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Terlier   Jean,0,1
+Pires Beaune   Christine,Bourlanges   Jean-Louis,0,1
+Pires Beaune   Christine,Rudigoz   Thomas,0,1
+Pires Beaune   Christine,de Courson   Charles,1,1
+Maillard   Sylvain,Peyrol   Bénédicte,1,1
+Maillard   Sylvain,Bagarry   Delphine,0,1
+Maillard   Sylvain,Hérin   Danièle,1,1
+Maillard   Sylvain,Kerlogot   Yannick,1,1
+Maillard   Sylvain,Clapot   Mireille,1,1
+Maillard   Sylvain,Mörch   Sandrine,0,1
+Maillard   Sylvain,Ménard   Emmanuelle,1,1
+Maillard   Sylvain,David   Dominique,1,1
+Maillard   Sylvain,Labaronne   Daniel,1,1
+Maillard   Sylvain,Saint-Paul   Laetitia,1,1
+Maillard   Sylvain,Girardin   Éric,1,1
+Maillard   Sylvain,Magnier   Lise,0,1
+Maillard   Sylvain,Damaisin   Olivier,1,1
+Maillard   Sylvain,Cariou   Émilie,1,1
+Maillard   Sylvain,Belhaddad   Belkhir,1,1
+Maillard   Sylvain,Petit   Valérie,0,1
+Maillard   Sylvain,Roussel   Fabien,0,1
+Maillard   Sylvain,Dunoyer   Philippe,0,1
+Maillard   Sylvain,Rubin   Sabine,0,1
+Maillard   Sylvain,Lenne   Marion,1,1
+Maillard   Sylvain,Verdier-Jouclas   Marie-Christine,1,1
+Maillard   Sylvain,Terlier   Jean,1,1
+Maillard   Sylvain,Bourlanges   Jean-Louis,1,1
+Maillard   Sylvain,Rudigoz   Thomas,1,1
+Maillard   Sylvain,de Courson   Charles,0,1
+Peyrol   Bénédicte,Bagarry   Delphine,0,1
+Peyrol   Bénédicte,Hérin   Danièle,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Clapot   Mireille,1,1
+Peyrol   Bénédicte,Mörch   Sandrine,0,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,1,1
+Peyrol   Bénédicte,David   Dominique,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Saint-Paul   Laetitia,1,1
+Peyrol   Bénédicte,Girardin   Éric,1,1
+Peyrol   Bénédicte,Magnier   Lise,0,1
+Peyrol   Bénédicte,Damaisin   Olivier,1,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Belhaddad   Belkhir,1,1
+Peyrol   Bénédicte,Petit   Valérie,0,1
+Peyrol   Bénédicte,Roussel   Fabien,0,1
+Peyrol   Bénédicte,Dunoyer   Philippe,0,1
+Peyrol   Bénédicte,Rubin   Sabine,0,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Terlier   Jean,1,1
+Peyrol   Bénédicte,Bourlanges   Jean-Louis,1,1
+Peyrol   Bénédicte,Rudigoz   Thomas,1,1
+Peyrol   Bénédicte,de Courson   Charles,0,1
+Bagarry   Delphine,Hérin   Danièle,0,1
+Bagarry   Delphine,Kerlogot   Yannick,0,1
+Bagarry   Delphine,Clapot   Mireille,0,1
+Bagarry   Delphine,Mörch   Sandrine,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,David   Dominique,0,1
+Bagarry   Delphine,Labaronne   Daniel,0,1
+Bagarry   Delphine,Saint-Paul   Laetitia,0,1
+Bagarry   Delphine,Girardin   Éric,0,1
+Bagarry   Delphine,Magnier   Lise,1,1
+Bagarry   Delphine,Damaisin   Olivier,0,1
+Bagarry   Delphine,Cariou   Émilie,0,1
+Bagarry   Delphine,Belhaddad   Belkhir,0,1
+Bagarry   Delphine,Petit   Valérie,1,1
+Bagarry   Delphine,Roussel   Fabien,1,1
+Bagarry   Delphine,Dunoyer   Philippe,1,1
+Bagarry   Delphine,Rubin   Sabine,1,1
+Bagarry   Delphine,Lenne   Marion,0,1
+Bagarry   Delphine,Verdier-Jouclas   Marie-Christine,0,1
+Bagarry   Delphine,Terlier   Jean,0,1
+Bagarry   Delphine,Bourlanges   Jean-Louis,0,1
+Bagarry   Delphine,Rudigoz   Thomas,0,1
+Bagarry   Delphine,de Courson   Charles,1,1
+Hérin   Danièle,Kerlogot   Yannick,1,1
+Hérin   Danièle,Clapot   Mireille,1,1
+Hérin   Danièle,Mörch   Sandrine,0,1
+Hérin   Danièle,Ménard   Emmanuelle,1,1
+Hérin   Danièle,David   Dominique,1,1
+Hérin   Danièle,Labaronne   Daniel,1,1
+Hérin   Danièle,Saint-Paul   Laetitia,1,1
+Hérin   Danièle,Girardin   Éric,1,1
+Hérin   Danièle,Magnier   Lise,0,1
+Hérin   Danièle,Damaisin   Olivier,1,1
+Hérin   Danièle,Cariou   Émilie,1,1
+Hérin   Danièle,Belhaddad   Belkhir,1,1
+Hérin   Danièle,Petit   Valérie,0,1
+Hérin   Danièle,Roussel   Fabien,0,1
+Hérin   Danièle,Dunoyer   Philippe,0,1
+Hérin   Danièle,Rubin   Sabine,0,1
+Hérin   Danièle,Lenne   Marion,1,1
+Hérin   Danièle,Verdier-Jouclas   Marie-Christine,1,1
+Hérin   Danièle,Terlier   Jean,1,1
+Hérin   Danièle,Bourlanges   Jean-Louis,1,1
+Hérin   Danièle,Rudigoz   Thomas,1,1
+Hérin   Danièle,de Courson   Charles,0,1
+Kerlogot   Yannick,Clapot   Mireille,1,1
+Kerlogot   Yannick,Mörch   Sandrine,0,1
+Kerlogot   Yannick,Ménard   Emmanuelle,1,1
+Kerlogot   Yannick,David   Dominique,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Magnier   Lise,0,1
+Kerlogot   Yannick,Damaisin   Olivier,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Belhaddad   Belkhir,1,1
+Kerlogot   Yannick,Petit   Valérie,0,1
+Kerlogot   Yannick,Roussel   Fabien,0,1
+Kerlogot   Yannick,Dunoyer   Philippe,0,1
+Kerlogot   Yannick,Rubin   Sabine,0,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Terlier   Jean,1,1
+Kerlogot   Yannick,Bourlanges   Jean-Louis,1,1
+Kerlogot   Yannick,Rudigoz   Thomas,1,1
+Kerlogot   Yannick,de Courson   Charles,0,1
+Clapot   Mireille,Mörch   Sandrine,0,1
+Clapot   Mireille,Ménard   Emmanuelle,1,1
+Clapot   Mireille,David   Dominique,1,1
+Clapot   Mireille,Labaronne   Daniel,1,1
+Clapot   Mireille,Saint-Paul   Laetitia,1,1
+Clapot   Mireille,Girardin   Éric,1,1
+Clapot   Mireille,Magnier   Lise,0,1
+Clapot   Mireille,Damaisin   Olivier,1,1
+Clapot   Mireille,Cariou   Émilie,1,1
+Clapot   Mireille,Belhaddad   Belkhir,1,1
+Clapot   Mireille,Petit   Valérie,0,1
+Clapot   Mireille,Roussel   Fabien,0,1
+Clapot   Mireille,Dunoyer   Philippe,0,1
+Clapot   Mireille,Rubin   Sabine,0,1
+Clapot   Mireille,Lenne   Marion,1,1
+Clapot   Mireille,Verdier-Jouclas   Marie-Christine,1,1
+Clapot   Mireille,Terlier   Jean,1,1
+Clapot   Mireille,Bourlanges   Jean-Louis,1,1
+Clapot   Mireille,Rudigoz   Thomas,1,1
+Clapot   Mireille,de Courson   Charles,0,1
+Mörch   Sandrine,Ménard   Emmanuelle,0,1
+Mörch   Sandrine,David   Dominique,0,1
+Mörch   Sandrine,Labaronne   Daniel,0,1
+Mörch   Sandrine,Saint-Paul   Laetitia,0,1
+Mörch   Sandrine,Girardin   Éric,0,1
+Mörch   Sandrine,Magnier   Lise,1,1
+Mörch   Sandrine,Damaisin   Olivier,0,1
+Mörch   Sandrine,Cariou   Émilie,0,1
+Mörch   Sandrine,Belhaddad   Belkhir,0,1
+Mörch   Sandrine,Petit   Valérie,1,1
+Mörch   Sandrine,Roussel   Fabien,1,1
+Mörch   Sandrine,Dunoyer   Philippe,1,1
+Mörch   Sandrine,Rubin   Sabine,1,1
+Mörch   Sandrine,Lenne   Marion,0,1
+Mörch   Sandrine,Verdier-Jouclas   Marie-Christine,0,1
+Mörch   Sandrine,Terlier   Jean,0,1
+Mörch   Sandrine,Bourlanges   Jean-Louis,0,1
+Mörch   Sandrine,Rudigoz   Thomas,0,1
+Mörch   Sandrine,de Courson   Charles,1,1
+Ménard   Emmanuelle,David   Dominique,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,1,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,1,1
+Ménard   Emmanuelle,Girardin   Éric,1,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Damaisin   Olivier,1,1
+Ménard   Emmanuelle,Cariou   Émilie,1,1
+Ménard   Emmanuelle,Belhaddad   Belkhir,1,1
+Ménard   Emmanuelle,Petit   Valérie,0,1
+Ménard   Emmanuelle,Roussel   Fabien,0,1
+Ménard   Emmanuelle,Dunoyer   Philippe,0,1
+Ménard   Emmanuelle,Rubin   Sabine,0,1
+Ménard   Emmanuelle,Lenne   Marion,1,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,1,1
+Ménard   Emmanuelle,Terlier   Jean,1,1
+Ménard   Emmanuelle,Bourlanges   Jean-Louis,1,1
+Ménard   Emmanuelle,Rudigoz   Thomas,1,1
+Ménard   Emmanuelle,de Courson   Charles,0,1
+David   Dominique,Labaronne   Daniel,1,1
+David   Dominique,Saint-Paul   Laetitia,1,1
+David   Dominique,Girardin   Éric,1,1
+David   Dominique,Magnier   Lise,0,1
+David   Dominique,Damaisin   Olivier,1,1
+David   Dominique,Cariou   Émilie,1,1
+David   Dominique,Belhaddad   Belkhir,1,1
+David   Dominique,Petit   Valérie,0,1
+David   Dominique,Roussel   Fabien,0,1
+David   Dominique,Dunoyer   Philippe,0,1
+David   Dominique,Rubin   Sabine,0,1
+David   Dominique,Lenne   Marion,1,1
+David   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+David   Dominique,Terlier   Jean,1,1
+David   Dominique,Bourlanges   Jean-Louis,1,1
+David   Dominique,Rudigoz   Thomas,1,1
+David   Dominique,de Courson   Charles,0,1
+Labaronne   Daniel,Saint-Paul   Laetitia,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Magnier   Lise,0,1
+Labaronne   Daniel,Damaisin   Olivier,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Belhaddad   Belkhir,1,1
+Labaronne   Daniel,Petit   Valérie,0,1
+Labaronne   Daniel,Roussel   Fabien,0,1
+Labaronne   Daniel,Dunoyer   Philippe,0,1
+Labaronne   Daniel,Rubin   Sabine,0,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Terlier   Jean,1,1
+Labaronne   Daniel,Bourlanges   Jean-Louis,1,1
+Labaronne   Daniel,Rudigoz   Thomas,1,1
+Labaronne   Daniel,de Courson   Charles,0,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Magnier   Lise,0,1
+Saint-Paul   Laetitia,Damaisin   Olivier,1,1
+Saint-Paul   Laetitia,Cariou   Émilie,1,1
+Saint-Paul   Laetitia,Belhaddad   Belkhir,1,1
+Saint-Paul   Laetitia,Petit   Valérie,0,1
+Saint-Paul   Laetitia,Roussel   Fabien,0,1
+Saint-Paul   Laetitia,Dunoyer   Philippe,0,1
+Saint-Paul   Laetitia,Rubin   Sabine,0,1
+Saint-Paul   Laetitia,Lenne   Marion,1,1
+Saint-Paul   Laetitia,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Paul   Laetitia,Terlier   Jean,1,1
+Saint-Paul   Laetitia,Bourlanges   Jean-Louis,1,1
+Saint-Paul   Laetitia,Rudigoz   Thomas,1,1
+Saint-Paul   Laetitia,de Courson   Charles,0,1
+Girardin   Éric,Magnier   Lise,0,1
+Girardin   Éric,Damaisin   Olivier,1,1
+Girardin   Éric,Cariou   Émilie,1,1
+Girardin   Éric,Belhaddad   Belkhir,1,1
+Girardin   Éric,Petit   Valérie,0,1
+Girardin   Éric,Roussel   Fabien,0,1
+Girardin   Éric,Dunoyer   Philippe,0,1
+Girardin   Éric,Rubin   Sabine,0,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Terlier   Jean,1,1
+Girardin   Éric,Bourlanges   Jean-Louis,1,1
+Girardin   Éric,Rudigoz   Thomas,1,1
+Girardin   Éric,de Courson   Charles,0,1
+Magnier   Lise,Damaisin   Olivier,0,1
+Magnier   Lise,Cariou   Émilie,0,1
+Magnier   Lise,Belhaddad   Belkhir,0,1
+Magnier   Lise,Petit   Valérie,1,1
+Magnier   Lise,Roussel   Fabien,1,1
+Magnier   Lise,Dunoyer   Philippe,1,1
+Magnier   Lise,Rubin   Sabine,1,1
+Magnier   Lise,Lenne   Marion,0,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,0,1
+Magnier   Lise,Terlier   Jean,0,1
+Magnier   Lise,Bourlanges   Jean-Louis,0,1
+Magnier   Lise,Rudigoz   Thomas,0,1
+Magnier   Lise,de Courson   Charles,1,1
+Damaisin   Olivier,Cariou   Émilie,1,1
+Damaisin   Olivier,Belhaddad   Belkhir,1,1
+Damaisin   Olivier,Petit   Valérie,0,1
+Damaisin   Olivier,Roussel   Fabien,0,1
+Damaisin   Olivier,Dunoyer   Philippe,0,1
+Damaisin   Olivier,Rubin   Sabine,0,1
+Damaisin   Olivier,Lenne   Marion,1,1
+Damaisin   Olivier,Verdier-Jouclas   Marie-Christine,1,1
+Damaisin   Olivier,Terlier   Jean,1,1
+Damaisin   Olivier,Bourlanges   Jean-Louis,1,1
+Damaisin   Olivier,Rudigoz   Thomas,1,1
+Damaisin   Olivier,de Courson   Charles,0,1
+Cariou   Émilie,Belhaddad   Belkhir,1,1
+Cariou   Émilie,Petit   Valérie,0,1
+Cariou   Émilie,Roussel   Fabien,0,1
+Cariou   Émilie,Dunoyer   Philippe,0,1
+Cariou   Émilie,Rubin   Sabine,0,1
+Cariou   Émilie,Lenne   Marion,1,1
+Cariou   Émilie,Verdier-Jouclas   Marie-Christine,1,1
+Cariou   Émilie,Terlier   Jean,1,1
+Cariou   Émilie,Bourlanges   Jean-Louis,1,1
+Cariou   Émilie,Rudigoz   Thomas,1,1
+Cariou   Émilie,de Courson   Charles,0,1
+Belhaddad   Belkhir,Petit   Valérie,0,1
+Belhaddad   Belkhir,Roussel   Fabien,0,1
+Belhaddad   Belkhir,Dunoyer   Philippe,0,1
+Belhaddad   Belkhir,Rubin   Sabine,0,1
+Belhaddad   Belkhir,Lenne   Marion,1,1
+Belhaddad   Belkhir,Verdier-Jouclas   Marie-Christine,1,1
+Belhaddad   Belkhir,Terlier   Jean,1,1
+Belhaddad   Belkhir,Bourlanges   Jean-Louis,1,1
+Belhaddad   Belkhir,Rudigoz   Thomas,1,1
+Belhaddad   Belkhir,de Courson   Charles,0,1
+Petit   Valérie,Roussel   Fabien,1,1
+Petit   Valérie,Dunoyer   Philippe,1,1
+Petit   Valérie,Rubin   Sabine,1,1
+Petit   Valérie,Lenne   Marion,0,1
+Petit   Valérie,Verdier-Jouclas   Marie-Christine,0,1
+Petit   Valérie,Terlier   Jean,0,1
+Petit   Valérie,Bourlanges   Jean-Louis,0,1
+Petit   Valérie,Rudigoz   Thomas,0,1
+Petit   Valérie,de Courson   Charles,1,1
+Roussel   Fabien,Dunoyer   Philippe,1,1
+Roussel   Fabien,Rubin   Sabine,1,1
+Roussel   Fabien,Lenne   Marion,0,1
+Roussel   Fabien,Verdier-Jouclas   Marie-Christine,0,1
+Roussel   Fabien,Terlier   Jean,0,1
+Roussel   Fabien,Bourlanges   Jean-Louis,0,1
+Roussel   Fabien,Rudigoz   Thomas,0,1
+Roussel   Fabien,de Courson   Charles,1,1
+Dunoyer   Philippe,Rubin   Sabine,1,1
+Dunoyer   Philippe,Lenne   Marion,0,1
+Dunoyer   Philippe,Verdier-Jouclas   Marie-Christine,0,1
+Dunoyer   Philippe,Terlier   Jean,0,1
+Dunoyer   Philippe,Bourlanges   Jean-Louis,0,1
+Dunoyer   Philippe,Rudigoz   Thomas,0,1
+Dunoyer   Philippe,de Courson   Charles,1,1
+Rubin   Sabine,Lenne   Marion,0,1
+Rubin   Sabine,Verdier-Jouclas   Marie-Christine,0,1
+Rubin   Sabine,Terlier   Jean,0,1
+Rubin   Sabine,Bourlanges   Jean-Louis,0,1
+Rubin   Sabine,Rudigoz   Thomas,0,1
+Rubin   Sabine,de Courson   Charles,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Terlier   Jean,1,1
+Lenne   Marion,Bourlanges   Jean-Louis,1,1
+Lenne   Marion,Rudigoz   Thomas,1,1
+Lenne   Marion,de Courson   Charles,0,1
+Verdier-Jouclas   Marie-Christine,Terlier   Jean,1,1
+Verdier-Jouclas   Marie-Christine,Bourlanges   Jean-Louis,1,1
+Verdier-Jouclas   Marie-Christine,Rudigoz   Thomas,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,0,1
+Terlier   Jean,Bourlanges   Jean-Louis,1,1
+Terlier   Jean,Rudigoz   Thomas,1,1
+Terlier   Jean,de Courson   Charles,0,1
+Bourlanges   Jean-Louis,Rudigoz   Thomas,1,1
+Bourlanges   Jean-Louis,de Courson   Charles,0,1
+Rudigoz   Thomas,de Courson   Charles,0,1

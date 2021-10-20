@@ -1,0 +1,562 @@
+from,to,vote_commun,loi_commun
+Habib   David,Gosselin   Philippe,1,1
+Habib   David,Mazars   Stéphane,0,1
+Habib   David,Maillard   Sylvain,0,1
+Habib   David,Boyer   Pascale,0,1
+Habib   David,Valetta Ardisson   Alexandra,0,1
+Habib   David,Dharréville   Pierre,1,1
+Habib   David,Blanchet   Christophe,0,1
+Habib   David,Paris   Didier,0,1
+Habib   David,Meunier   Frédérique,1,1
+Habib   David,Balanant   Erwan,0,1
+Habib   David,Poulliat   Éric,0,1
+Habib   David,Ménard   Emmanuelle,0,1
+Habib   David,Cloarec-Le Nabour   Christine,0,1
+Habib   David,Abadie   Caroline,0,1
+Habib   David,Borowczyk   Julien,0,1
+Habib   David,Dubré-Chirat   Nicole,0,1
+Habib   David,Jacques   Jean-Michel,0,1
+Habib   David,Bernalicis   Ugo,1,1
+Habib   David,Thill   Agnès,0,1
+Habib   David,Le Pen   Marine,0,1
+Habib   David,Bilde   Bruno,0,1
+Habib   David,Rilhac   Cécile,0,1
+Habib   David,Moutchou   Naïma,0,1
+Habib   David,Le Gendre   Gilles,0,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Rossi   Laurianne,0,1
+Habib   David,Rupin   Pacôme,0,1
+Habib   David,Fauvergue   Jean-Michel,0,1
+Habib   David,Michel-Kleisbauer   Philippe,1,1
+Habib   David,Raphan   Pierre-Alain,0,1
+Habib   David,Faucillon   Elsa,1,1
+Habib   David,Rebeyrotte   Rémy,0,1
+Habib   David,Savignat   Antoine,1,1
+Gosselin   Philippe,Mazars   Stéphane,0,1
+Gosselin   Philippe,Maillard   Sylvain,0,1
+Gosselin   Philippe,Boyer   Pascale,0,1
+Gosselin   Philippe,Valetta Ardisson   Alexandra,0,1
+Gosselin   Philippe,Dharréville   Pierre,1,1
+Gosselin   Philippe,Blanchet   Christophe,0,1
+Gosselin   Philippe,Paris   Didier,0,1
+Gosselin   Philippe,Meunier   Frédérique,1,1
+Gosselin   Philippe,Balanant   Erwan,0,1
+Gosselin   Philippe,Poulliat   Éric,0,1
+Gosselin   Philippe,Ménard   Emmanuelle,0,1
+Gosselin   Philippe,Cloarec-Le Nabour   Christine,0,1
+Gosselin   Philippe,Abadie   Caroline,0,1
+Gosselin   Philippe,Borowczyk   Julien,0,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,0,1
+Gosselin   Philippe,Jacques   Jean-Michel,0,1
+Gosselin   Philippe,Bernalicis   Ugo,1,1
+Gosselin   Philippe,Thill   Agnès,0,1
+Gosselin   Philippe,Le Pen   Marine,0,1
+Gosselin   Philippe,Bilde   Bruno,0,1
+Gosselin   Philippe,Rilhac   Cécile,0,1
+Gosselin   Philippe,Moutchou   Naïma,0,1
+Gosselin   Philippe,Le Gendre   Gilles,0,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Rossi   Laurianne,0,1
+Gosselin   Philippe,Rupin   Pacôme,0,1
+Gosselin   Philippe,Fauvergue   Jean-Michel,0,1
+Gosselin   Philippe,Michel-Kleisbauer   Philippe,1,1
+Gosselin   Philippe,Raphan   Pierre-Alain,0,1
+Gosselin   Philippe,Faucillon   Elsa,1,1
+Gosselin   Philippe,Rebeyrotte   Rémy,0,1
+Gosselin   Philippe,Savignat   Antoine,1,1
+Mazars   Stéphane,Maillard   Sylvain,1,1
+Mazars   Stéphane,Boyer   Pascale,1,1
+Mazars   Stéphane,Valetta Ardisson   Alexandra,1,1
+Mazars   Stéphane,Dharréville   Pierre,0,1
+Mazars   Stéphane,Blanchet   Christophe,1,1
+Mazars   Stéphane,Paris   Didier,1,1
+Mazars   Stéphane,Meunier   Frédérique,0,1
+Mazars   Stéphane,Balanant   Erwan,1,1
+Mazars   Stéphane,Poulliat   Éric,1,1
+Mazars   Stéphane,Ménard   Emmanuelle,0,1
+Mazars   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Mazars   Stéphane,Abadie   Caroline,1,1
+Mazars   Stéphane,Borowczyk   Julien,1,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,1,1
+Mazars   Stéphane,Jacques   Jean-Michel,1,1
+Mazars   Stéphane,Bernalicis   Ugo,0,1
+Mazars   Stéphane,Thill   Agnès,1,1
+Mazars   Stéphane,Le Pen   Marine,0,1
+Mazars   Stéphane,Bilde   Bruno,0,1
+Mazars   Stéphane,Rilhac   Cécile,1,1
+Mazars   Stéphane,Moutchou   Naïma,1,1
+Mazars   Stéphane,Le Gendre   Gilles,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Rossi   Laurianne,1,1
+Mazars   Stéphane,Rupin   Pacôme,1,1
+Mazars   Stéphane,Fauvergue   Jean-Michel,1,1
+Mazars   Stéphane,Michel-Kleisbauer   Philippe,0,1
+Mazars   Stéphane,Raphan   Pierre-Alain,1,1
+Mazars   Stéphane,Faucillon   Elsa,0,1
+Mazars   Stéphane,Rebeyrotte   Rémy,1,1
+Mazars   Stéphane,Savignat   Antoine,0,1
+Maillard   Sylvain,Boyer   Pascale,1,1
+Maillard   Sylvain,Valetta Ardisson   Alexandra,1,1
+Maillard   Sylvain,Dharréville   Pierre,0,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Paris   Didier,1,1
+Maillard   Sylvain,Meunier   Frédérique,0,1
+Maillard   Sylvain,Balanant   Erwan,1,1
+Maillard   Sylvain,Poulliat   Éric,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Abadie   Caroline,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Jacques   Jean-Michel,1,1
+Maillard   Sylvain,Bernalicis   Ugo,0,1
+Maillard   Sylvain,Thill   Agnès,1,1
+Maillard   Sylvain,Le Pen   Marine,0,1
+Maillard   Sylvain,Bilde   Bruno,0,1
+Maillard   Sylvain,Rilhac   Cécile,1,1
+Maillard   Sylvain,Moutchou   Naïma,1,1
+Maillard   Sylvain,Le Gendre   Gilles,1,1
+Maillard   Sylvain,Terlier   Jean,1,1
+Maillard   Sylvain,Rossi   Laurianne,1,1
+Maillard   Sylvain,Rupin   Pacôme,1,1
+Maillard   Sylvain,Fauvergue   Jean-Michel,1,1
+Maillard   Sylvain,Michel-Kleisbauer   Philippe,0,1
+Maillard   Sylvain,Raphan   Pierre-Alain,1,1
+Maillard   Sylvain,Faucillon   Elsa,0,1
+Maillard   Sylvain,Rebeyrotte   Rémy,1,1
+Maillard   Sylvain,Savignat   Antoine,0,1
+Boyer   Pascale,Valetta Ardisson   Alexandra,1,1
+Boyer   Pascale,Dharréville   Pierre,0,1
+Boyer   Pascale,Blanchet   Christophe,1,1
+Boyer   Pascale,Paris   Didier,1,1
+Boyer   Pascale,Meunier   Frédérique,0,1
+Boyer   Pascale,Balanant   Erwan,1,1
+Boyer   Pascale,Poulliat   Éric,1,1
+Boyer   Pascale,Ménard   Emmanuelle,0,1
+Boyer   Pascale,Cloarec-Le Nabour   Christine,1,1
+Boyer   Pascale,Abadie   Caroline,1,1
+Boyer   Pascale,Borowczyk   Julien,1,1
+Boyer   Pascale,Dubré-Chirat   Nicole,1,1
+Boyer   Pascale,Jacques   Jean-Michel,1,1
+Boyer   Pascale,Bernalicis   Ugo,0,1
+Boyer   Pascale,Thill   Agnès,1,1
+Boyer   Pascale,Le Pen   Marine,0,1
+Boyer   Pascale,Bilde   Bruno,0,1
+Boyer   Pascale,Rilhac   Cécile,1,1
+Boyer   Pascale,Moutchou   Naïma,1,1
+Boyer   Pascale,Le Gendre   Gilles,1,1
+Boyer   Pascale,Terlier   Jean,1,1
+Boyer   Pascale,Rossi   Laurianne,1,1
+Boyer   Pascale,Rupin   Pacôme,1,1
+Boyer   Pascale,Fauvergue   Jean-Michel,1,1
+Boyer   Pascale,Michel-Kleisbauer   Philippe,0,1
+Boyer   Pascale,Raphan   Pierre-Alain,1,1
+Boyer   Pascale,Faucillon   Elsa,0,1
+Boyer   Pascale,Rebeyrotte   Rémy,1,1
+Boyer   Pascale,Savignat   Antoine,0,1
+Valetta Ardisson   Alexandra,Dharréville   Pierre,0,1
+Valetta Ardisson   Alexandra,Blanchet   Christophe,1,1
+Valetta Ardisson   Alexandra,Paris   Didier,1,1
+Valetta Ardisson   Alexandra,Meunier   Frédérique,0,1
+Valetta Ardisson   Alexandra,Balanant   Erwan,1,1
+Valetta Ardisson   Alexandra,Poulliat   Éric,1,1
+Valetta Ardisson   Alexandra,Ménard   Emmanuelle,0,1
+Valetta Ardisson   Alexandra,Cloarec-Le Nabour   Christine,1,1
+Valetta Ardisson   Alexandra,Abadie   Caroline,1,1
+Valetta Ardisson   Alexandra,Borowczyk   Julien,1,1
+Valetta Ardisson   Alexandra,Dubré-Chirat   Nicole,1,1
+Valetta Ardisson   Alexandra,Jacques   Jean-Michel,1,1
+Valetta Ardisson   Alexandra,Bernalicis   Ugo,0,1
+Valetta Ardisson   Alexandra,Thill   Agnès,1,1
+Valetta Ardisson   Alexandra,Le Pen   Marine,0,1
+Valetta Ardisson   Alexandra,Bilde   Bruno,0,1
+Valetta Ardisson   Alexandra,Rilhac   Cécile,1,1
+Valetta Ardisson   Alexandra,Moutchou   Naïma,1,1
+Valetta Ardisson   Alexandra,Le Gendre   Gilles,1,1
+Valetta Ardisson   Alexandra,Terlier   Jean,1,1
+Valetta Ardisson   Alexandra,Rossi   Laurianne,1,1
+Valetta Ardisson   Alexandra,Rupin   Pacôme,1,1
+Valetta Ardisson   Alexandra,Fauvergue   Jean-Michel,1,1
+Valetta Ardisson   Alexandra,Michel-Kleisbauer   Philippe,0,1
+Valetta Ardisson   Alexandra,Raphan   Pierre-Alain,1,1
+Valetta Ardisson   Alexandra,Faucillon   Elsa,0,1
+Valetta Ardisson   Alexandra,Rebeyrotte   Rémy,1,1
+Valetta Ardisson   Alexandra,Savignat   Antoine,0,1
+Dharréville   Pierre,Blanchet   Christophe,0,1
+Dharréville   Pierre,Paris   Didier,0,1
+Dharréville   Pierre,Meunier   Frédérique,1,1
+Dharréville   Pierre,Balanant   Erwan,0,1
+Dharréville   Pierre,Poulliat   Éric,0,1
+Dharréville   Pierre,Ménard   Emmanuelle,0,1
+Dharréville   Pierre,Cloarec-Le Nabour   Christine,0,1
+Dharréville   Pierre,Abadie   Caroline,0,1
+Dharréville   Pierre,Borowczyk   Julien,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Jacques   Jean-Michel,0,1
+Dharréville   Pierre,Bernalicis   Ugo,1,1
+Dharréville   Pierre,Thill   Agnès,0,1
+Dharréville   Pierre,Le Pen   Marine,0,1
+Dharréville   Pierre,Bilde   Bruno,0,1
+Dharréville   Pierre,Rilhac   Cécile,0,1
+Dharréville   Pierre,Moutchou   Naïma,0,1
+Dharréville   Pierre,Le Gendre   Gilles,0,1
+Dharréville   Pierre,Terlier   Jean,0,1
+Dharréville   Pierre,Rossi   Laurianne,0,1
+Dharréville   Pierre,Rupin   Pacôme,0,1
+Dharréville   Pierre,Fauvergue   Jean-Michel,0,1
+Dharréville   Pierre,Michel-Kleisbauer   Philippe,1,1
+Dharréville   Pierre,Raphan   Pierre-Alain,0,1
+Dharréville   Pierre,Faucillon   Elsa,1,1
+Dharréville   Pierre,Rebeyrotte   Rémy,0,1
+Dharréville   Pierre,Savignat   Antoine,1,1
+Blanchet   Christophe,Paris   Didier,1,1
+Blanchet   Christophe,Meunier   Frédérique,0,1
+Blanchet   Christophe,Balanant   Erwan,1,1
+Blanchet   Christophe,Poulliat   Éric,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Abadie   Caroline,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Dubré-Chirat   Nicole,1,1
+Blanchet   Christophe,Jacques   Jean-Michel,1,1
+Blanchet   Christophe,Bernalicis   Ugo,0,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Le Pen   Marine,0,1
+Blanchet   Christophe,Bilde   Bruno,0,1
+Blanchet   Christophe,Rilhac   Cécile,1,1
+Blanchet   Christophe,Moutchou   Naïma,1,1
+Blanchet   Christophe,Le Gendre   Gilles,1,1
+Blanchet   Christophe,Terlier   Jean,1,1
+Blanchet   Christophe,Rossi   Laurianne,1,1
+Blanchet   Christophe,Rupin   Pacôme,1,1
+Blanchet   Christophe,Fauvergue   Jean-Michel,1,1
+Blanchet   Christophe,Michel-Kleisbauer   Philippe,0,1
+Blanchet   Christophe,Raphan   Pierre-Alain,1,1
+Blanchet   Christophe,Faucillon   Elsa,0,1
+Blanchet   Christophe,Rebeyrotte   Rémy,1,1
+Blanchet   Christophe,Savignat   Antoine,0,1
+Paris   Didier,Meunier   Frédérique,0,1
+Paris   Didier,Balanant   Erwan,1,1
+Paris   Didier,Poulliat   Éric,1,1
+Paris   Didier,Ménard   Emmanuelle,0,1
+Paris   Didier,Cloarec-Le Nabour   Christine,1,1
+Paris   Didier,Abadie   Caroline,1,1
+Paris   Didier,Borowczyk   Julien,1,1
+Paris   Didier,Dubré-Chirat   Nicole,1,1
+Paris   Didier,Jacques   Jean-Michel,1,1
+Paris   Didier,Bernalicis   Ugo,0,1
+Paris   Didier,Thill   Agnès,1,1
+Paris   Didier,Le Pen   Marine,0,1
+Paris   Didier,Bilde   Bruno,0,1
+Paris   Didier,Rilhac   Cécile,1,1
+Paris   Didier,Moutchou   Naïma,1,1
+Paris   Didier,Le Gendre   Gilles,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Rossi   Laurianne,1,1
+Paris   Didier,Rupin   Pacôme,1,1
+Paris   Didier,Fauvergue   Jean-Michel,1,1
+Paris   Didier,Michel-Kleisbauer   Philippe,0,1
+Paris   Didier,Raphan   Pierre-Alain,1,1
+Paris   Didier,Faucillon   Elsa,0,1
+Paris   Didier,Rebeyrotte   Rémy,1,1
+Paris   Didier,Savignat   Antoine,0,1
+Meunier   Frédérique,Balanant   Erwan,0,1
+Meunier   Frédérique,Poulliat   Éric,0,1
+Meunier   Frédérique,Ménard   Emmanuelle,0,1
+Meunier   Frédérique,Cloarec-Le Nabour   Christine,0,1
+Meunier   Frédérique,Abadie   Caroline,0,1
+Meunier   Frédérique,Borowczyk   Julien,0,1
+Meunier   Frédérique,Dubré-Chirat   Nicole,0,1
+Meunier   Frédérique,Jacques   Jean-Michel,0,1
+Meunier   Frédérique,Bernalicis   Ugo,1,1
+Meunier   Frédérique,Thill   Agnès,0,1
+Meunier   Frédérique,Le Pen   Marine,0,1
+Meunier   Frédérique,Bilde   Bruno,0,1
+Meunier   Frédérique,Rilhac   Cécile,0,1
+Meunier   Frédérique,Moutchou   Naïma,0,1
+Meunier   Frédérique,Le Gendre   Gilles,0,1
+Meunier   Frédérique,Terlier   Jean,0,1
+Meunier   Frédérique,Rossi   Laurianne,0,1
+Meunier   Frédérique,Rupin   Pacôme,0,1
+Meunier   Frédérique,Fauvergue   Jean-Michel,0,1
+Meunier   Frédérique,Michel-Kleisbauer   Philippe,1,1
+Meunier   Frédérique,Raphan   Pierre-Alain,0,1
+Meunier   Frédérique,Faucillon   Elsa,1,1
+Meunier   Frédérique,Rebeyrotte   Rémy,0,1
+Meunier   Frédérique,Savignat   Antoine,1,1
+Balanant   Erwan,Poulliat   Éric,1,1
+Balanant   Erwan,Ménard   Emmanuelle,0,1
+Balanant   Erwan,Cloarec-Le Nabour   Christine,1,1
+Balanant   Erwan,Abadie   Caroline,1,1
+Balanant   Erwan,Borowczyk   Julien,1,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Jacques   Jean-Michel,1,1
+Balanant   Erwan,Bernalicis   Ugo,0,1
+Balanant   Erwan,Thill   Agnès,1,1
+Balanant   Erwan,Le Pen   Marine,0,1
+Balanant   Erwan,Bilde   Bruno,0,1
+Balanant   Erwan,Rilhac   Cécile,1,1
+Balanant   Erwan,Moutchou   Naïma,1,1
+Balanant   Erwan,Le Gendre   Gilles,1,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Rossi   Laurianne,1,1
+Balanant   Erwan,Rupin   Pacôme,1,1
+Balanant   Erwan,Fauvergue   Jean-Michel,1,1
+Balanant   Erwan,Michel-Kleisbauer   Philippe,0,1
+Balanant   Erwan,Raphan   Pierre-Alain,1,1
+Balanant   Erwan,Faucillon   Elsa,0,1
+Balanant   Erwan,Rebeyrotte   Rémy,1,1
+Balanant   Erwan,Savignat   Antoine,0,1
+Poulliat   Éric,Ménard   Emmanuelle,0,1
+Poulliat   Éric,Cloarec-Le Nabour   Christine,1,1
+Poulliat   Éric,Abadie   Caroline,1,1
+Poulliat   Éric,Borowczyk   Julien,1,1
+Poulliat   Éric,Dubré-Chirat   Nicole,1,1
+Poulliat   Éric,Jacques   Jean-Michel,1,1
+Poulliat   Éric,Bernalicis   Ugo,0,1
+Poulliat   Éric,Thill   Agnès,1,1
+Poulliat   Éric,Le Pen   Marine,0,1
+Poulliat   Éric,Bilde   Bruno,0,1
+Poulliat   Éric,Rilhac   Cécile,1,1
+Poulliat   Éric,Moutchou   Naïma,1,1
+Poulliat   Éric,Le Gendre   Gilles,1,1
+Poulliat   Éric,Terlier   Jean,1,1
+Poulliat   Éric,Rossi   Laurianne,1,1
+Poulliat   Éric,Rupin   Pacôme,1,1
+Poulliat   Éric,Fauvergue   Jean-Michel,1,1
+Poulliat   Éric,Michel-Kleisbauer   Philippe,0,1
+Poulliat   Éric,Raphan   Pierre-Alain,1,1
+Poulliat   Éric,Faucillon   Elsa,0,1
+Poulliat   Éric,Rebeyrotte   Rémy,1,1
+Poulliat   Éric,Savignat   Antoine,0,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Abadie   Caroline,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Jacques   Jean-Michel,0,1
+Ménard   Emmanuelle,Bernalicis   Ugo,0,1
+Ménard   Emmanuelle,Thill   Agnès,0,1
+Ménard   Emmanuelle,Le Pen   Marine,1,1
+Ménard   Emmanuelle,Bilde   Bruno,1,1
+Ménard   Emmanuelle,Rilhac   Cécile,0,1
+Ménard   Emmanuelle,Moutchou   Naïma,0,1
+Ménard   Emmanuelle,Le Gendre   Gilles,0,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Rossi   Laurianne,0,1
+Ménard   Emmanuelle,Rupin   Pacôme,0,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,0,1
+Ménard   Emmanuelle,Michel-Kleisbauer   Philippe,0,1
+Ménard   Emmanuelle,Raphan   Pierre-Alain,0,1
+Ménard   Emmanuelle,Faucillon   Elsa,0,1
+Ménard   Emmanuelle,Rebeyrotte   Rémy,0,1
+Ménard   Emmanuelle,Savignat   Antoine,0,1
+Cloarec-Le Nabour   Christine,Abadie   Caroline,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Jacques   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Bernalicis   Ugo,0,1
+Cloarec-Le Nabour   Christine,Thill   Agnès,1,1
+Cloarec-Le Nabour   Christine,Le Pen   Marine,0,1
+Cloarec-Le Nabour   Christine,Bilde   Bruno,0,1
+Cloarec-Le Nabour   Christine,Rilhac   Cécile,1,1
+Cloarec-Le Nabour   Christine,Moutchou   Naïma,1,1
+Cloarec-Le Nabour   Christine,Le Gendre   Gilles,1,1
+Cloarec-Le Nabour   Christine,Terlier   Jean,1,1
+Cloarec-Le Nabour   Christine,Rossi   Laurianne,1,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,1,1
+Cloarec-Le Nabour   Christine,Fauvergue   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Michel-Kleisbauer   Philippe,0,1
+Cloarec-Le Nabour   Christine,Raphan   Pierre-Alain,1,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,0,1
+Cloarec-Le Nabour   Christine,Rebeyrotte   Rémy,1,1
+Cloarec-Le Nabour   Christine,Savignat   Antoine,0,1
+Abadie   Caroline,Borowczyk   Julien,1,1
+Abadie   Caroline,Dubré-Chirat   Nicole,1,1
+Abadie   Caroline,Jacques   Jean-Michel,1,1
+Abadie   Caroline,Bernalicis   Ugo,0,1
+Abadie   Caroline,Thill   Agnès,1,1
+Abadie   Caroline,Le Pen   Marine,0,1
+Abadie   Caroline,Bilde   Bruno,0,1
+Abadie   Caroline,Rilhac   Cécile,1,1
+Abadie   Caroline,Moutchou   Naïma,1,1
+Abadie   Caroline,Le Gendre   Gilles,1,1
+Abadie   Caroline,Terlier   Jean,1,1
+Abadie   Caroline,Rossi   Laurianne,1,1
+Abadie   Caroline,Rupin   Pacôme,1,1
+Abadie   Caroline,Fauvergue   Jean-Michel,1,1
+Abadie   Caroline,Michel-Kleisbauer   Philippe,0,1
+Abadie   Caroline,Raphan   Pierre-Alain,1,1
+Abadie   Caroline,Faucillon   Elsa,0,1
+Abadie   Caroline,Rebeyrotte   Rémy,1,1
+Abadie   Caroline,Savignat   Antoine,0,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Jacques   Jean-Michel,1,1
+Borowczyk   Julien,Bernalicis   Ugo,0,1
+Borowczyk   Julien,Thill   Agnès,1,1
+Borowczyk   Julien,Le Pen   Marine,0,1
+Borowczyk   Julien,Bilde   Bruno,0,1
+Borowczyk   Julien,Rilhac   Cécile,1,1
+Borowczyk   Julien,Moutchou   Naïma,1,1
+Borowczyk   Julien,Le Gendre   Gilles,1,1
+Borowczyk   Julien,Terlier   Jean,1,1
+Borowczyk   Julien,Rossi   Laurianne,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Fauvergue   Jean-Michel,1,1
+Borowczyk   Julien,Michel-Kleisbauer   Philippe,0,1
+Borowczyk   Julien,Raphan   Pierre-Alain,1,1
+Borowczyk   Julien,Faucillon   Elsa,0,1
+Borowczyk   Julien,Rebeyrotte   Rémy,1,1
+Borowczyk   Julien,Savignat   Antoine,0,1
+Dubré-Chirat   Nicole,Jacques   Jean-Michel,1,1
+Dubré-Chirat   Nicole,Bernalicis   Ugo,0,1
+Dubré-Chirat   Nicole,Thill   Agnès,1,1
+Dubré-Chirat   Nicole,Le Pen   Marine,0,1
+Dubré-Chirat   Nicole,Bilde   Bruno,0,1
+Dubré-Chirat   Nicole,Rilhac   Cécile,1,1
+Dubré-Chirat   Nicole,Moutchou   Naïma,1,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Rossi   Laurianne,1,1
+Dubré-Chirat   Nicole,Rupin   Pacôme,1,1
+Dubré-Chirat   Nicole,Fauvergue   Jean-Michel,1,1
+Dubré-Chirat   Nicole,Michel-Kleisbauer   Philippe,0,1
+Dubré-Chirat   Nicole,Raphan   Pierre-Alain,1,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,0,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Savignat   Antoine,0,1
+Jacques   Jean-Michel,Bernalicis   Ugo,0,1
+Jacques   Jean-Michel,Thill   Agnès,1,1
+Jacques   Jean-Michel,Le Pen   Marine,0,1
+Jacques   Jean-Michel,Bilde   Bruno,0,1
+Jacques   Jean-Michel,Rilhac   Cécile,1,1
+Jacques   Jean-Michel,Moutchou   Naïma,1,1
+Jacques   Jean-Michel,Le Gendre   Gilles,1,1
+Jacques   Jean-Michel,Terlier   Jean,1,1
+Jacques   Jean-Michel,Rossi   Laurianne,1,1
+Jacques   Jean-Michel,Rupin   Pacôme,1,1
+Jacques   Jean-Michel,Fauvergue   Jean-Michel,1,1
+Jacques   Jean-Michel,Michel-Kleisbauer   Philippe,0,1
+Jacques   Jean-Michel,Raphan   Pierre-Alain,1,1
+Jacques   Jean-Michel,Faucillon   Elsa,0,1
+Jacques   Jean-Michel,Rebeyrotte   Rémy,1,1
+Jacques   Jean-Michel,Savignat   Antoine,0,1
+Bernalicis   Ugo,Thill   Agnès,0,1
+Bernalicis   Ugo,Le Pen   Marine,0,1
+Bernalicis   Ugo,Bilde   Bruno,0,1
+Bernalicis   Ugo,Rilhac   Cécile,0,1
+Bernalicis   Ugo,Moutchou   Naïma,0,1
+Bernalicis   Ugo,Le Gendre   Gilles,0,1
+Bernalicis   Ugo,Terlier   Jean,0,1
+Bernalicis   Ugo,Rossi   Laurianne,0,1
+Bernalicis   Ugo,Rupin   Pacôme,0,1
+Bernalicis   Ugo,Fauvergue   Jean-Michel,0,1
+Bernalicis   Ugo,Michel-Kleisbauer   Philippe,1,1
+Bernalicis   Ugo,Raphan   Pierre-Alain,0,1
+Bernalicis   Ugo,Faucillon   Elsa,1,1
+Bernalicis   Ugo,Rebeyrotte   Rémy,0,1
+Bernalicis   Ugo,Savignat   Antoine,1,1
+Thill   Agnès,Le Pen   Marine,0,1
+Thill   Agnès,Bilde   Bruno,0,1
+Thill   Agnès,Rilhac   Cécile,1,1
+Thill   Agnès,Moutchou   Naïma,1,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Terlier   Jean,1,1
+Thill   Agnès,Rossi   Laurianne,1,1
+Thill   Agnès,Rupin   Pacôme,1,1
+Thill   Agnès,Fauvergue   Jean-Michel,1,1
+Thill   Agnès,Michel-Kleisbauer   Philippe,0,1
+Thill   Agnès,Raphan   Pierre-Alain,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,Rebeyrotte   Rémy,1,1
+Thill   Agnès,Savignat   Antoine,0,1
+Le Pen   Marine,Bilde   Bruno,1,1
+Le Pen   Marine,Rilhac   Cécile,0,1
+Le Pen   Marine,Moutchou   Naïma,0,1
+Le Pen   Marine,Le Gendre   Gilles,0,1
+Le Pen   Marine,Terlier   Jean,0,1
+Le Pen   Marine,Rossi   Laurianne,0,1
+Le Pen   Marine,Rupin   Pacôme,0,1
+Le Pen   Marine,Fauvergue   Jean-Michel,0,1
+Le Pen   Marine,Michel-Kleisbauer   Philippe,0,1
+Le Pen   Marine,Raphan   Pierre-Alain,0,1
+Le Pen   Marine,Faucillon   Elsa,0,1
+Le Pen   Marine,Rebeyrotte   Rémy,0,1
+Le Pen   Marine,Savignat   Antoine,0,1
+Bilde   Bruno,Rilhac   Cécile,0,1
+Bilde   Bruno,Moutchou   Naïma,0,1
+Bilde   Bruno,Le Gendre   Gilles,0,1
+Bilde   Bruno,Terlier   Jean,0,1
+Bilde   Bruno,Rossi   Laurianne,0,1
+Bilde   Bruno,Rupin   Pacôme,0,1
+Bilde   Bruno,Fauvergue   Jean-Michel,0,1
+Bilde   Bruno,Michel-Kleisbauer   Philippe,0,1
+Bilde   Bruno,Raphan   Pierre-Alain,0,1
+Bilde   Bruno,Faucillon   Elsa,0,1
+Bilde   Bruno,Rebeyrotte   Rémy,0,1
+Bilde   Bruno,Savignat   Antoine,0,1
+Rilhac   Cécile,Moutchou   Naïma,1,1
+Rilhac   Cécile,Le Gendre   Gilles,1,1
+Rilhac   Cécile,Terlier   Jean,1,1
+Rilhac   Cécile,Rossi   Laurianne,1,1
+Rilhac   Cécile,Rupin   Pacôme,1,1
+Rilhac   Cécile,Fauvergue   Jean-Michel,1,1
+Rilhac   Cécile,Michel-Kleisbauer   Philippe,0,1
+Rilhac   Cécile,Raphan   Pierre-Alain,1,1
+Rilhac   Cécile,Faucillon   Elsa,0,1
+Rilhac   Cécile,Rebeyrotte   Rémy,1,1
+Rilhac   Cécile,Savignat   Antoine,0,1
+Moutchou   Naïma,Le Gendre   Gilles,1,1
+Moutchou   Naïma,Terlier   Jean,1,1
+Moutchou   Naïma,Rossi   Laurianne,1,1
+Moutchou   Naïma,Rupin   Pacôme,1,1
+Moutchou   Naïma,Fauvergue   Jean-Michel,1,1
+Moutchou   Naïma,Michel-Kleisbauer   Philippe,0,1
+Moutchou   Naïma,Raphan   Pierre-Alain,1,1
+Moutchou   Naïma,Faucillon   Elsa,0,1
+Moutchou   Naïma,Rebeyrotte   Rémy,1,1
+Moutchou   Naïma,Savignat   Antoine,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Rossi   Laurianne,1,1
+Le Gendre   Gilles,Rupin   Pacôme,1,1
+Le Gendre   Gilles,Fauvergue   Jean-Michel,1,1
+Le Gendre   Gilles,Michel-Kleisbauer   Philippe,0,1
+Le Gendre   Gilles,Raphan   Pierre-Alain,1,1
+Le Gendre   Gilles,Faucillon   Elsa,0,1
+Le Gendre   Gilles,Rebeyrotte   Rémy,1,1
+Le Gendre   Gilles,Savignat   Antoine,0,1
+Terlier   Jean,Rossi   Laurianne,1,1
+Terlier   Jean,Rupin   Pacôme,1,1
+Terlier   Jean,Fauvergue   Jean-Michel,1,1
+Terlier   Jean,Michel-Kleisbauer   Philippe,0,1
+Terlier   Jean,Raphan   Pierre-Alain,1,1
+Terlier   Jean,Faucillon   Elsa,0,1
+Terlier   Jean,Rebeyrotte   Rémy,1,1
+Terlier   Jean,Savignat   Antoine,0,1
+Rossi   Laurianne,Rupin   Pacôme,1,1
+Rossi   Laurianne,Fauvergue   Jean-Michel,1,1
+Rossi   Laurianne,Michel-Kleisbauer   Philippe,0,1
+Rossi   Laurianne,Raphan   Pierre-Alain,1,1
+Rossi   Laurianne,Faucillon   Elsa,0,1
+Rossi   Laurianne,Rebeyrotte   Rémy,1,1
+Rossi   Laurianne,Savignat   Antoine,0,1
+Rupin   Pacôme,Fauvergue   Jean-Michel,1,1
+Rupin   Pacôme,Michel-Kleisbauer   Philippe,0,1
+Rupin   Pacôme,Raphan   Pierre-Alain,1,1
+Rupin   Pacôme,Faucillon   Elsa,0,1
+Rupin   Pacôme,Rebeyrotte   Rémy,1,1
+Rupin   Pacôme,Savignat   Antoine,0,1
+Fauvergue   Jean-Michel,Michel-Kleisbauer   Philippe,0,1
+Fauvergue   Jean-Michel,Raphan   Pierre-Alain,1,1
+Fauvergue   Jean-Michel,Faucillon   Elsa,0,1
+Fauvergue   Jean-Michel,Rebeyrotte   Rémy,1,1
+Fauvergue   Jean-Michel,Savignat   Antoine,0,1
+Michel-Kleisbauer   Philippe,Raphan   Pierre-Alain,0,1
+Michel-Kleisbauer   Philippe,Faucillon   Elsa,1,1
+Michel-Kleisbauer   Philippe,Rebeyrotte   Rémy,0,1
+Michel-Kleisbauer   Philippe,Savignat   Antoine,1,1
+Raphan   Pierre-Alain,Faucillon   Elsa,0,1
+Raphan   Pierre-Alain,Rebeyrotte   Rémy,1,1
+Raphan   Pierre-Alain,Savignat   Antoine,0,1
+Faucillon   Elsa,Rebeyrotte   Rémy,0,1
+Faucillon   Elsa,Savignat   Antoine,1,1
+Rebeyrotte   Rémy,Savignat   Antoine,0,1

@@ -1,0 +1,254 @@
+from,to,vote_commun,loi_commun
+Habib   David,Gosselin   Philippe,1,1
+Habib   David,Mazars   Stéphane,0,1
+Habib   David,Valetta Ardisson   Alexandra,0,1
+Habib   David,Blanchet   Christophe,0,1
+Habib   David,Paris   Didier,0,1
+Habib   David,Ménard   Emmanuelle,1,1
+Habib   David,Cloarec-Le Nabour   Christine,0,1
+Habib   David,Borowczyk   Julien,0,1
+Habib   David,Dubré-Chirat   Nicole,1,1
+Habib   David,Bernalicis   Ugo,1,1
+Habib   David,Thill   Agnès,0,1
+Habib   David,Le Pen   Marine,1,1
+Habib   David,Ramadier   Alain,1,1
+Habib   David,Gouffier-Cha   Guillaume,0,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Rupin   Pacôme,0,1
+Habib   David,Avia   Laetitia,0,1
+Habib   David,Guerel   Émilie,0,1
+Habib   David,Faucillon   Elsa,1,1
+Habib   David,Braun-Pivet   Yaël,0,1
+Habib   David,Rebeyrotte   Rémy,0,1
+Habib   David,Savignat   Antoine,1,1
+Gosselin   Philippe,Mazars   Stéphane,0,1
+Gosselin   Philippe,Valetta Ardisson   Alexandra,0,1
+Gosselin   Philippe,Blanchet   Christophe,0,1
+Gosselin   Philippe,Paris   Didier,0,1
+Gosselin   Philippe,Ménard   Emmanuelle,1,1
+Gosselin   Philippe,Cloarec-Le Nabour   Christine,0,1
+Gosselin   Philippe,Borowczyk   Julien,0,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,1,1
+Gosselin   Philippe,Bernalicis   Ugo,1,1
+Gosselin   Philippe,Thill   Agnès,0,1
+Gosselin   Philippe,Le Pen   Marine,1,1
+Gosselin   Philippe,Ramadier   Alain,1,1
+Gosselin   Philippe,Gouffier-Cha   Guillaume,0,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Rupin   Pacôme,0,1
+Gosselin   Philippe,Avia   Laetitia,0,1
+Gosselin   Philippe,Guerel   Émilie,0,1
+Gosselin   Philippe,Faucillon   Elsa,1,1
+Gosselin   Philippe,Braun-Pivet   Yaël,0,1
+Gosselin   Philippe,Rebeyrotte   Rémy,0,1
+Gosselin   Philippe,Savignat   Antoine,1,1
+Mazars   Stéphane,Valetta Ardisson   Alexandra,1,1
+Mazars   Stéphane,Blanchet   Christophe,1,1
+Mazars   Stéphane,Paris   Didier,1,1
+Mazars   Stéphane,Ménard   Emmanuelle,0,1
+Mazars   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Mazars   Stéphane,Borowczyk   Julien,1,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,0,1
+Mazars   Stéphane,Bernalicis   Ugo,0,1
+Mazars   Stéphane,Thill   Agnès,1,1
+Mazars   Stéphane,Le Pen   Marine,0,1
+Mazars   Stéphane,Ramadier   Alain,0,1
+Mazars   Stéphane,Gouffier-Cha   Guillaume,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Rupin   Pacôme,1,1
+Mazars   Stéphane,Avia   Laetitia,1,1
+Mazars   Stéphane,Guerel   Émilie,1,1
+Mazars   Stéphane,Faucillon   Elsa,0,1
+Mazars   Stéphane,Braun-Pivet   Yaël,1,1
+Mazars   Stéphane,Rebeyrotte   Rémy,1,1
+Mazars   Stéphane,Savignat   Antoine,0,1
+Valetta Ardisson   Alexandra,Blanchet   Christophe,1,1
+Valetta Ardisson   Alexandra,Paris   Didier,1,1
+Valetta Ardisson   Alexandra,Ménard   Emmanuelle,0,1
+Valetta Ardisson   Alexandra,Cloarec-Le Nabour   Christine,1,1
+Valetta Ardisson   Alexandra,Borowczyk   Julien,1,1
+Valetta Ardisson   Alexandra,Dubré-Chirat   Nicole,0,1
+Valetta Ardisson   Alexandra,Bernalicis   Ugo,0,1
+Valetta Ardisson   Alexandra,Thill   Agnès,1,1
+Valetta Ardisson   Alexandra,Le Pen   Marine,0,1
+Valetta Ardisson   Alexandra,Ramadier   Alain,0,1
+Valetta Ardisson   Alexandra,Gouffier-Cha   Guillaume,1,1
+Valetta Ardisson   Alexandra,Terlier   Jean,1,1
+Valetta Ardisson   Alexandra,Rupin   Pacôme,1,1
+Valetta Ardisson   Alexandra,Avia   Laetitia,1,1
+Valetta Ardisson   Alexandra,Guerel   Émilie,1,1
+Valetta Ardisson   Alexandra,Faucillon   Elsa,0,1
+Valetta Ardisson   Alexandra,Braun-Pivet   Yaël,1,1
+Valetta Ardisson   Alexandra,Rebeyrotte   Rémy,1,1
+Valetta Ardisson   Alexandra,Savignat   Antoine,0,1
+Blanchet   Christophe,Paris   Didier,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Dubré-Chirat   Nicole,0,1
+Blanchet   Christophe,Bernalicis   Ugo,0,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Le Pen   Marine,0,1
+Blanchet   Christophe,Ramadier   Alain,0,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Terlier   Jean,1,1
+Blanchet   Christophe,Rupin   Pacôme,1,1
+Blanchet   Christophe,Avia   Laetitia,1,1
+Blanchet   Christophe,Guerel   Émilie,1,1
+Blanchet   Christophe,Faucillon   Elsa,0,1
+Blanchet   Christophe,Braun-Pivet   Yaël,1,1
+Blanchet   Christophe,Rebeyrotte   Rémy,1,1
+Blanchet   Christophe,Savignat   Antoine,0,1
+Paris   Didier,Ménard   Emmanuelle,0,1
+Paris   Didier,Cloarec-Le Nabour   Christine,1,1
+Paris   Didier,Borowczyk   Julien,1,1
+Paris   Didier,Dubré-Chirat   Nicole,0,1
+Paris   Didier,Bernalicis   Ugo,0,1
+Paris   Didier,Thill   Agnès,1,1
+Paris   Didier,Le Pen   Marine,0,1
+Paris   Didier,Ramadier   Alain,0,1
+Paris   Didier,Gouffier-Cha   Guillaume,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Rupin   Pacôme,1,1
+Paris   Didier,Avia   Laetitia,1,1
+Paris   Didier,Guerel   Émilie,1,1
+Paris   Didier,Faucillon   Elsa,0,1
+Paris   Didier,Braun-Pivet   Yaël,1,1
+Paris   Didier,Rebeyrotte   Rémy,1,1
+Paris   Didier,Savignat   Antoine,0,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,1,1
+Ménard   Emmanuelle,Bernalicis   Ugo,1,1
+Ménard   Emmanuelle,Thill   Agnès,0,1
+Ménard   Emmanuelle,Le Pen   Marine,1,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Gouffier-Cha   Guillaume,0,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Rupin   Pacôme,0,1
+Ménard   Emmanuelle,Avia   Laetitia,0,1
+Ménard   Emmanuelle,Guerel   Émilie,0,1
+Ménard   Emmanuelle,Faucillon   Elsa,1,1
+Ménard   Emmanuelle,Braun-Pivet   Yaël,0,1
+Ménard   Emmanuelle,Rebeyrotte   Rémy,0,1
+Ménard   Emmanuelle,Savignat   Antoine,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,0,1
+Cloarec-Le Nabour   Christine,Bernalicis   Ugo,0,1
+Cloarec-Le Nabour   Christine,Thill   Agnès,1,1
+Cloarec-Le Nabour   Christine,Le Pen   Marine,0,1
+Cloarec-Le Nabour   Christine,Ramadier   Alain,0,1
+Cloarec-Le Nabour   Christine,Gouffier-Cha   Guillaume,1,1
+Cloarec-Le Nabour   Christine,Terlier   Jean,1,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,1,1
+Cloarec-Le Nabour   Christine,Avia   Laetitia,1,1
+Cloarec-Le Nabour   Christine,Guerel   Émilie,1,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,0,1
+Cloarec-Le Nabour   Christine,Braun-Pivet   Yaël,1,1
+Cloarec-Le Nabour   Christine,Rebeyrotte   Rémy,1,1
+Cloarec-Le Nabour   Christine,Savignat   Antoine,0,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,0,1
+Borowczyk   Julien,Bernalicis   Ugo,0,1
+Borowczyk   Julien,Thill   Agnès,1,1
+Borowczyk   Julien,Le Pen   Marine,0,1
+Borowczyk   Julien,Ramadier   Alain,0,1
+Borowczyk   Julien,Gouffier-Cha   Guillaume,1,1
+Borowczyk   Julien,Terlier   Jean,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Avia   Laetitia,1,1
+Borowczyk   Julien,Guerel   Émilie,1,1
+Borowczyk   Julien,Faucillon   Elsa,0,1
+Borowczyk   Julien,Braun-Pivet   Yaël,1,1
+Borowczyk   Julien,Rebeyrotte   Rémy,1,1
+Borowczyk   Julien,Savignat   Antoine,0,1
+Dubré-Chirat   Nicole,Bernalicis   Ugo,1,1
+Dubré-Chirat   Nicole,Thill   Agnès,0,1
+Dubré-Chirat   Nicole,Le Pen   Marine,1,1
+Dubré-Chirat   Nicole,Ramadier   Alain,1,1
+Dubré-Chirat   Nicole,Gouffier-Cha   Guillaume,0,1
+Dubré-Chirat   Nicole,Terlier   Jean,0,1
+Dubré-Chirat   Nicole,Rupin   Pacôme,0,1
+Dubré-Chirat   Nicole,Avia   Laetitia,0,1
+Dubré-Chirat   Nicole,Guerel   Émilie,0,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,1,1
+Dubré-Chirat   Nicole,Braun-Pivet   Yaël,0,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,0,1
+Dubré-Chirat   Nicole,Savignat   Antoine,1,1
+Bernalicis   Ugo,Thill   Agnès,0,1
+Bernalicis   Ugo,Le Pen   Marine,1,1
+Bernalicis   Ugo,Ramadier   Alain,1,1
+Bernalicis   Ugo,Gouffier-Cha   Guillaume,0,1
+Bernalicis   Ugo,Terlier   Jean,0,1
+Bernalicis   Ugo,Rupin   Pacôme,0,1
+Bernalicis   Ugo,Avia   Laetitia,0,1
+Bernalicis   Ugo,Guerel   Émilie,0,1
+Bernalicis   Ugo,Faucillon   Elsa,1,1
+Bernalicis   Ugo,Braun-Pivet   Yaël,0,1
+Bernalicis   Ugo,Rebeyrotte   Rémy,0,1
+Bernalicis   Ugo,Savignat   Antoine,1,1
+Thill   Agnès,Le Pen   Marine,0,1
+Thill   Agnès,Ramadier   Alain,0,1
+Thill   Agnès,Gouffier-Cha   Guillaume,1,1
+Thill   Agnès,Terlier   Jean,1,1
+Thill   Agnès,Rupin   Pacôme,1,1
+Thill   Agnès,Avia   Laetitia,1,1
+Thill   Agnès,Guerel   Émilie,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,Braun-Pivet   Yaël,1,1
+Thill   Agnès,Rebeyrotte   Rémy,1,1
+Thill   Agnès,Savignat   Antoine,0,1
+Le Pen   Marine,Ramadier   Alain,1,1
+Le Pen   Marine,Gouffier-Cha   Guillaume,0,1
+Le Pen   Marine,Terlier   Jean,0,1
+Le Pen   Marine,Rupin   Pacôme,0,1
+Le Pen   Marine,Avia   Laetitia,0,1
+Le Pen   Marine,Guerel   Émilie,0,1
+Le Pen   Marine,Faucillon   Elsa,1,1
+Le Pen   Marine,Braun-Pivet   Yaël,0,1
+Le Pen   Marine,Rebeyrotte   Rémy,0,1
+Le Pen   Marine,Savignat   Antoine,1,1
+Ramadier   Alain,Gouffier-Cha   Guillaume,0,1
+Ramadier   Alain,Terlier   Jean,0,1
+Ramadier   Alain,Rupin   Pacôme,0,1
+Ramadier   Alain,Avia   Laetitia,0,1
+Ramadier   Alain,Guerel   Émilie,0,1
+Ramadier   Alain,Faucillon   Elsa,1,1
+Ramadier   Alain,Braun-Pivet   Yaël,0,1
+Ramadier   Alain,Rebeyrotte   Rémy,0,1
+Ramadier   Alain,Savignat   Antoine,1,1
+Gouffier-Cha   Guillaume,Terlier   Jean,1,1
+Gouffier-Cha   Guillaume,Rupin   Pacôme,1,1
+Gouffier-Cha   Guillaume,Avia   Laetitia,1,1
+Gouffier-Cha   Guillaume,Guerel   Émilie,1,1
+Gouffier-Cha   Guillaume,Faucillon   Elsa,0,1
+Gouffier-Cha   Guillaume,Braun-Pivet   Yaël,1,1
+Gouffier-Cha   Guillaume,Rebeyrotte   Rémy,1,1
+Gouffier-Cha   Guillaume,Savignat   Antoine,0,1
+Terlier   Jean,Rupin   Pacôme,1,1
+Terlier   Jean,Avia   Laetitia,1,1
+Terlier   Jean,Guerel   Émilie,1,1
+Terlier   Jean,Faucillon   Elsa,0,1
+Terlier   Jean,Braun-Pivet   Yaël,1,1
+Terlier   Jean,Rebeyrotte   Rémy,1,1
+Terlier   Jean,Savignat   Antoine,0,1
+Rupin   Pacôme,Avia   Laetitia,1,1
+Rupin   Pacôme,Guerel   Émilie,1,1
+Rupin   Pacôme,Faucillon   Elsa,0,1
+Rupin   Pacôme,Braun-Pivet   Yaël,1,1
+Rupin   Pacôme,Rebeyrotte   Rémy,1,1
+Rupin   Pacôme,Savignat   Antoine,0,1
+Avia   Laetitia,Guerel   Émilie,1,1
+Avia   Laetitia,Faucillon   Elsa,0,1
+Avia   Laetitia,Braun-Pivet   Yaël,1,1
+Avia   Laetitia,Rebeyrotte   Rémy,1,1
+Avia   Laetitia,Savignat   Antoine,0,1
+Guerel   Émilie,Faucillon   Elsa,0,1
+Guerel   Émilie,Braun-Pivet   Yaël,1,1
+Guerel   Émilie,Rebeyrotte   Rémy,1,1
+Guerel   Émilie,Savignat   Antoine,0,1
+Faucillon   Elsa,Braun-Pivet   Yaël,0,1
+Faucillon   Elsa,Rebeyrotte   Rémy,0,1
+Faucillon   Elsa,Savignat   Antoine,1,1
+Braun-Pivet   Yaël,Rebeyrotte   Rémy,1,1
+Braun-Pivet   Yaël,Savignat   Antoine,0,1
+Rebeyrotte   Rémy,Savignat   Antoine,0,1

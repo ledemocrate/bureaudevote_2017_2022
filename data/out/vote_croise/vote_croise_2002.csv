@@ -1,0 +1,466 @@
+from,to,vote_commun,loi_commun
+Battistel   Marie-Noëlle,Aubert   Julien,1,1
+Battistel   Marie-Noëlle,Boyer   Pascale,0,1
+Battistel   Marie-Noëlle,Peyrol   Bénédicte,0,1
+Battistel   Marie-Noëlle,Marsaud   Sandra,0,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,0,1
+Battistel   Marie-Noëlle,Moreau   Jean-Baptiste,0,1
+Battistel   Marie-Noëlle,de Lavergne   Célia,0,1
+Battistel   Marie-Noëlle,Cellier   Anthony,0,1
+Battistel   Marie-Noëlle,Colas-Roy   Jean-Charles,0,1
+Battistel   Marie-Noëlle,Chalumeau   Philippe,0,1
+Battistel   Marie-Noëlle,Labaronne   Daniel,0,1
+Battistel   Marie-Noëlle,Meynier-Millefert   Marjolaine,0,1
+Battistel   Marie-Noëlle,Mis   Jean-Michel,0,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,0,1
+Battistel   Marie-Noëlle,Janvier   Caroline,0,1
+Battistel   Marie-Noëlle,Bolo   Philippe,0,1
+Battistel   Marie-Noëlle,Cariou   Émilie,0,1
+Battistel   Marie-Noëlle,Zannier   Hélène,0,1
+Battistel   Marie-Noëlle,Pahun   Jimmy,0,1
+Battistel   Marie-Noëlle,Le Peih   Nicole,0,1
+Battistel   Marie-Noëlle,Perrot   Patrice,0,1
+Battistel   Marie-Noëlle,Parmentier-Lecocq   Charlotte,0,1
+Battistel   Marie-Noëlle,Lescure   Roland,0,1
+Battistel   Marie-Noëlle,Petit   Frédéric,0,1
+Battistel   Marie-Noëlle,Bonnell   Bruno,0,1
+Battistel   Marie-Noëlle,Fontenel-Personne   Pascale,0,1
+Battistel   Marie-Noëlle,Riotton   Véronique,0,1
+Battistel   Marie-Noëlle,Fauvergue   Jean-Michel,1,1
+Battistel   Marie-Noëlle,Granjus   Florence,0,1
+Battistel   Marie-Noëlle,Wulfranc   Hubert,1,1
+Aubert   Julien,Boyer   Pascale,0,1
+Aubert   Julien,Peyrol   Bénédicte,0,1
+Aubert   Julien,Marsaud   Sandra,0,1
+Aubert   Julien,Kerlogot   Yannick,0,1
+Aubert   Julien,Moreau   Jean-Baptiste,0,1
+Aubert   Julien,de Lavergne   Célia,0,1
+Aubert   Julien,Cellier   Anthony,0,1
+Aubert   Julien,Colas-Roy   Jean-Charles,0,1
+Aubert   Julien,Chalumeau   Philippe,0,1
+Aubert   Julien,Labaronne   Daniel,0,1
+Aubert   Julien,Meynier-Millefert   Marjolaine,0,1
+Aubert   Julien,Mis   Jean-Michel,0,1
+Aubert   Julien,Sarles   Nathalie,0,1
+Aubert   Julien,Janvier   Caroline,0,1
+Aubert   Julien,Bolo   Philippe,0,1
+Aubert   Julien,Cariou   Émilie,0,1
+Aubert   Julien,Zannier   Hélène,0,1
+Aubert   Julien,Pahun   Jimmy,0,1
+Aubert   Julien,Le Peih   Nicole,0,1
+Aubert   Julien,Perrot   Patrice,0,1
+Aubert   Julien,Parmentier-Lecocq   Charlotte,0,1
+Aubert   Julien,Lescure   Roland,0,1
+Aubert   Julien,Petit   Frédéric,0,1
+Aubert   Julien,Bonnell   Bruno,0,1
+Aubert   Julien,Fontenel-Personne   Pascale,0,1
+Aubert   Julien,Riotton   Véronique,0,1
+Aubert   Julien,Fauvergue   Jean-Michel,1,1
+Aubert   Julien,Granjus   Florence,0,1
+Aubert   Julien,Wulfranc   Hubert,1,1
+Boyer   Pascale,Peyrol   Bénédicte,1,1
+Boyer   Pascale,Marsaud   Sandra,1,1
+Boyer   Pascale,Kerlogot   Yannick,1,1
+Boyer   Pascale,Moreau   Jean-Baptiste,1,1
+Boyer   Pascale,de Lavergne   Célia,1,1
+Boyer   Pascale,Cellier   Anthony,1,1
+Boyer   Pascale,Colas-Roy   Jean-Charles,1,1
+Boyer   Pascale,Chalumeau   Philippe,1,1
+Boyer   Pascale,Labaronne   Daniel,1,1
+Boyer   Pascale,Meynier-Millefert   Marjolaine,1,1
+Boyer   Pascale,Mis   Jean-Michel,1,1
+Boyer   Pascale,Sarles   Nathalie,1,1
+Boyer   Pascale,Janvier   Caroline,1,1
+Boyer   Pascale,Bolo   Philippe,1,1
+Boyer   Pascale,Cariou   Émilie,1,1
+Boyer   Pascale,Zannier   Hélène,1,1
+Boyer   Pascale,Pahun   Jimmy,1,1
+Boyer   Pascale,Le Peih   Nicole,1,1
+Boyer   Pascale,Perrot   Patrice,1,1
+Boyer   Pascale,Parmentier-Lecocq   Charlotte,1,1
+Boyer   Pascale,Lescure   Roland,1,1
+Boyer   Pascale,Petit   Frédéric,1,1
+Boyer   Pascale,Bonnell   Bruno,1,1
+Boyer   Pascale,Fontenel-Personne   Pascale,1,1
+Boyer   Pascale,Riotton   Véronique,1,1
+Boyer   Pascale,Fauvergue   Jean-Michel,0,1
+Boyer   Pascale,Granjus   Florence,1,1
+Boyer   Pascale,Wulfranc   Hubert,0,1
+Peyrol   Bénédicte,Marsaud   Sandra,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Moreau   Jean-Baptiste,1,1
+Peyrol   Bénédicte,de Lavergne   Célia,1,1
+Peyrol   Bénédicte,Cellier   Anthony,1,1
+Peyrol   Bénédicte,Colas-Roy   Jean-Charles,1,1
+Peyrol   Bénédicte,Chalumeau   Philippe,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Meynier-Millefert   Marjolaine,1,1
+Peyrol   Bénédicte,Mis   Jean-Michel,1,1
+Peyrol   Bénédicte,Sarles   Nathalie,1,1
+Peyrol   Bénédicte,Janvier   Caroline,1,1
+Peyrol   Bénédicte,Bolo   Philippe,1,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Pahun   Jimmy,1,1
+Peyrol   Bénédicte,Le Peih   Nicole,1,1
+Peyrol   Bénédicte,Perrot   Patrice,1,1
+Peyrol   Bénédicte,Parmentier-Lecocq   Charlotte,1,1
+Peyrol   Bénédicte,Lescure   Roland,1,1
+Peyrol   Bénédicte,Petit   Frédéric,1,1
+Peyrol   Bénédicte,Bonnell   Bruno,1,1
+Peyrol   Bénédicte,Fontenel-Personne   Pascale,1,1
+Peyrol   Bénédicte,Riotton   Véronique,1,1
+Peyrol   Bénédicte,Fauvergue   Jean-Michel,0,1
+Peyrol   Bénédicte,Granjus   Florence,1,1
+Peyrol   Bénédicte,Wulfranc   Hubert,0,1
+Marsaud   Sandra,Kerlogot   Yannick,1,1
+Marsaud   Sandra,Moreau   Jean-Baptiste,1,1
+Marsaud   Sandra,de Lavergne   Célia,1,1
+Marsaud   Sandra,Cellier   Anthony,1,1
+Marsaud   Sandra,Colas-Roy   Jean-Charles,1,1
+Marsaud   Sandra,Chalumeau   Philippe,1,1
+Marsaud   Sandra,Labaronne   Daniel,1,1
+Marsaud   Sandra,Meynier-Millefert   Marjolaine,1,1
+Marsaud   Sandra,Mis   Jean-Michel,1,1
+Marsaud   Sandra,Sarles   Nathalie,1,1
+Marsaud   Sandra,Janvier   Caroline,1,1
+Marsaud   Sandra,Bolo   Philippe,1,1
+Marsaud   Sandra,Cariou   Émilie,1,1
+Marsaud   Sandra,Zannier   Hélène,1,1
+Marsaud   Sandra,Pahun   Jimmy,1,1
+Marsaud   Sandra,Le Peih   Nicole,1,1
+Marsaud   Sandra,Perrot   Patrice,1,1
+Marsaud   Sandra,Parmentier-Lecocq   Charlotte,1,1
+Marsaud   Sandra,Lescure   Roland,1,1
+Marsaud   Sandra,Petit   Frédéric,1,1
+Marsaud   Sandra,Bonnell   Bruno,1,1
+Marsaud   Sandra,Fontenel-Personne   Pascale,1,1
+Marsaud   Sandra,Riotton   Véronique,1,1
+Marsaud   Sandra,Fauvergue   Jean-Michel,0,1
+Marsaud   Sandra,Granjus   Florence,1,1
+Marsaud   Sandra,Wulfranc   Hubert,0,1
+Kerlogot   Yannick,Moreau   Jean-Baptiste,1,1
+Kerlogot   Yannick,de Lavergne   Célia,1,1
+Kerlogot   Yannick,Cellier   Anthony,1,1
+Kerlogot   Yannick,Colas-Roy   Jean-Charles,1,1
+Kerlogot   Yannick,Chalumeau   Philippe,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Meynier-Millefert   Marjolaine,1,1
+Kerlogot   Yannick,Mis   Jean-Michel,1,1
+Kerlogot   Yannick,Sarles   Nathalie,1,1
+Kerlogot   Yannick,Janvier   Caroline,1,1
+Kerlogot   Yannick,Bolo   Philippe,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Pahun   Jimmy,1,1
+Kerlogot   Yannick,Le Peih   Nicole,1,1
+Kerlogot   Yannick,Perrot   Patrice,1,1
+Kerlogot   Yannick,Parmentier-Lecocq   Charlotte,1,1
+Kerlogot   Yannick,Lescure   Roland,1,1
+Kerlogot   Yannick,Petit   Frédéric,1,1
+Kerlogot   Yannick,Bonnell   Bruno,1,1
+Kerlogot   Yannick,Fontenel-Personne   Pascale,1,1
+Kerlogot   Yannick,Riotton   Véronique,1,1
+Kerlogot   Yannick,Fauvergue   Jean-Michel,0,1
+Kerlogot   Yannick,Granjus   Florence,1,1
+Kerlogot   Yannick,Wulfranc   Hubert,0,1
+Moreau   Jean-Baptiste,de Lavergne   Célia,1,1
+Moreau   Jean-Baptiste,Cellier   Anthony,1,1
+Moreau   Jean-Baptiste,Colas-Roy   Jean-Charles,1,1
+Moreau   Jean-Baptiste,Chalumeau   Philippe,1,1
+Moreau   Jean-Baptiste,Labaronne   Daniel,1,1
+Moreau   Jean-Baptiste,Meynier-Millefert   Marjolaine,1,1
+Moreau   Jean-Baptiste,Mis   Jean-Michel,1,1
+Moreau   Jean-Baptiste,Sarles   Nathalie,1,1
+Moreau   Jean-Baptiste,Janvier   Caroline,1,1
+Moreau   Jean-Baptiste,Bolo   Philippe,1,1
+Moreau   Jean-Baptiste,Cariou   Émilie,1,1
+Moreau   Jean-Baptiste,Zannier   Hélène,1,1
+Moreau   Jean-Baptiste,Pahun   Jimmy,1,1
+Moreau   Jean-Baptiste,Le Peih   Nicole,1,1
+Moreau   Jean-Baptiste,Perrot   Patrice,1,1
+Moreau   Jean-Baptiste,Parmentier-Lecocq   Charlotte,1,1
+Moreau   Jean-Baptiste,Lescure   Roland,1,1
+Moreau   Jean-Baptiste,Petit   Frédéric,1,1
+Moreau   Jean-Baptiste,Bonnell   Bruno,1,1
+Moreau   Jean-Baptiste,Fontenel-Personne   Pascale,1,1
+Moreau   Jean-Baptiste,Riotton   Véronique,1,1
+Moreau   Jean-Baptiste,Fauvergue   Jean-Michel,0,1
+Moreau   Jean-Baptiste,Granjus   Florence,1,1
+Moreau   Jean-Baptiste,Wulfranc   Hubert,0,1
+de Lavergne   Célia,Cellier   Anthony,1,1
+de Lavergne   Célia,Colas-Roy   Jean-Charles,1,1
+de Lavergne   Célia,Chalumeau   Philippe,1,1
+de Lavergne   Célia,Labaronne   Daniel,1,1
+de Lavergne   Célia,Meynier-Millefert   Marjolaine,1,1
+de Lavergne   Célia,Mis   Jean-Michel,1,1
+de Lavergne   Célia,Sarles   Nathalie,1,1
+de Lavergne   Célia,Janvier   Caroline,1,1
+de Lavergne   Célia,Bolo   Philippe,1,1
+de Lavergne   Célia,Cariou   Émilie,1,1
+de Lavergne   Célia,Zannier   Hélène,1,1
+de Lavergne   Célia,Pahun   Jimmy,1,1
+de Lavergne   Célia,Le Peih   Nicole,1,1
+de Lavergne   Célia,Perrot   Patrice,1,1
+de Lavergne   Célia,Parmentier-Lecocq   Charlotte,1,1
+de Lavergne   Célia,Lescure   Roland,1,1
+de Lavergne   Célia,Petit   Frédéric,1,1
+de Lavergne   Célia,Bonnell   Bruno,1,1
+de Lavergne   Célia,Fontenel-Personne   Pascale,1,1
+de Lavergne   Célia,Riotton   Véronique,1,1
+de Lavergne   Célia,Fauvergue   Jean-Michel,0,1
+de Lavergne   Célia,Granjus   Florence,1,1
+de Lavergne   Célia,Wulfranc   Hubert,0,1
+Cellier   Anthony,Colas-Roy   Jean-Charles,1,1
+Cellier   Anthony,Chalumeau   Philippe,1,1
+Cellier   Anthony,Labaronne   Daniel,1,1
+Cellier   Anthony,Meynier-Millefert   Marjolaine,1,1
+Cellier   Anthony,Mis   Jean-Michel,1,1
+Cellier   Anthony,Sarles   Nathalie,1,1
+Cellier   Anthony,Janvier   Caroline,1,1
+Cellier   Anthony,Bolo   Philippe,1,1
+Cellier   Anthony,Cariou   Émilie,1,1
+Cellier   Anthony,Zannier   Hélène,1,1
+Cellier   Anthony,Pahun   Jimmy,1,1
+Cellier   Anthony,Le Peih   Nicole,1,1
+Cellier   Anthony,Perrot   Patrice,1,1
+Cellier   Anthony,Parmentier-Lecocq   Charlotte,1,1
+Cellier   Anthony,Lescure   Roland,1,1
+Cellier   Anthony,Petit   Frédéric,1,1
+Cellier   Anthony,Bonnell   Bruno,1,1
+Cellier   Anthony,Fontenel-Personne   Pascale,1,1
+Cellier   Anthony,Riotton   Véronique,1,1
+Cellier   Anthony,Fauvergue   Jean-Michel,0,1
+Cellier   Anthony,Granjus   Florence,1,1
+Cellier   Anthony,Wulfranc   Hubert,0,1
+Colas-Roy   Jean-Charles,Chalumeau   Philippe,1,1
+Colas-Roy   Jean-Charles,Labaronne   Daniel,1,1
+Colas-Roy   Jean-Charles,Meynier-Millefert   Marjolaine,1,1
+Colas-Roy   Jean-Charles,Mis   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Sarles   Nathalie,1,1
+Colas-Roy   Jean-Charles,Janvier   Caroline,1,1
+Colas-Roy   Jean-Charles,Bolo   Philippe,1,1
+Colas-Roy   Jean-Charles,Cariou   Émilie,1,1
+Colas-Roy   Jean-Charles,Zannier   Hélène,1,1
+Colas-Roy   Jean-Charles,Pahun   Jimmy,1,1
+Colas-Roy   Jean-Charles,Le Peih   Nicole,1,1
+Colas-Roy   Jean-Charles,Perrot   Patrice,1,1
+Colas-Roy   Jean-Charles,Parmentier-Lecocq   Charlotte,1,1
+Colas-Roy   Jean-Charles,Lescure   Roland,1,1
+Colas-Roy   Jean-Charles,Petit   Frédéric,1,1
+Colas-Roy   Jean-Charles,Bonnell   Bruno,1,1
+Colas-Roy   Jean-Charles,Fontenel-Personne   Pascale,1,1
+Colas-Roy   Jean-Charles,Riotton   Véronique,1,1
+Colas-Roy   Jean-Charles,Fauvergue   Jean-Michel,0,1
+Colas-Roy   Jean-Charles,Granjus   Florence,1,1
+Colas-Roy   Jean-Charles,Wulfranc   Hubert,0,1
+Chalumeau   Philippe,Labaronne   Daniel,1,1
+Chalumeau   Philippe,Meynier-Millefert   Marjolaine,1,1
+Chalumeau   Philippe,Mis   Jean-Michel,1,1
+Chalumeau   Philippe,Sarles   Nathalie,1,1
+Chalumeau   Philippe,Janvier   Caroline,1,1
+Chalumeau   Philippe,Bolo   Philippe,1,1
+Chalumeau   Philippe,Cariou   Émilie,1,1
+Chalumeau   Philippe,Zannier   Hélène,1,1
+Chalumeau   Philippe,Pahun   Jimmy,1,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Perrot   Patrice,1,1
+Chalumeau   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Chalumeau   Philippe,Lescure   Roland,1,1
+Chalumeau   Philippe,Petit   Frédéric,1,1
+Chalumeau   Philippe,Bonnell   Bruno,1,1
+Chalumeau   Philippe,Fontenel-Personne   Pascale,1,1
+Chalumeau   Philippe,Riotton   Véronique,1,1
+Chalumeau   Philippe,Fauvergue   Jean-Michel,0,1
+Chalumeau   Philippe,Granjus   Florence,1,1
+Chalumeau   Philippe,Wulfranc   Hubert,0,1
+Labaronne   Daniel,Meynier-Millefert   Marjolaine,1,1
+Labaronne   Daniel,Mis   Jean-Michel,1,1
+Labaronne   Daniel,Sarles   Nathalie,1,1
+Labaronne   Daniel,Janvier   Caroline,1,1
+Labaronne   Daniel,Bolo   Philippe,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Pahun   Jimmy,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Perrot   Patrice,1,1
+Labaronne   Daniel,Parmentier-Lecocq   Charlotte,1,1
+Labaronne   Daniel,Lescure   Roland,1,1
+Labaronne   Daniel,Petit   Frédéric,1,1
+Labaronne   Daniel,Bonnell   Bruno,1,1
+Labaronne   Daniel,Fontenel-Personne   Pascale,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Fauvergue   Jean-Michel,0,1
+Labaronne   Daniel,Granjus   Florence,1,1
+Labaronne   Daniel,Wulfranc   Hubert,0,1
+Meynier-Millefert   Marjolaine,Mis   Jean-Michel,1,1
+Meynier-Millefert   Marjolaine,Sarles   Nathalie,1,1
+Meynier-Millefert   Marjolaine,Janvier   Caroline,1,1
+Meynier-Millefert   Marjolaine,Bolo   Philippe,1,1
+Meynier-Millefert   Marjolaine,Cariou   Émilie,1,1
+Meynier-Millefert   Marjolaine,Zannier   Hélène,1,1
+Meynier-Millefert   Marjolaine,Pahun   Jimmy,1,1
+Meynier-Millefert   Marjolaine,Le Peih   Nicole,1,1
+Meynier-Millefert   Marjolaine,Perrot   Patrice,1,1
+Meynier-Millefert   Marjolaine,Parmentier-Lecocq   Charlotte,1,1
+Meynier-Millefert   Marjolaine,Lescure   Roland,1,1
+Meynier-Millefert   Marjolaine,Petit   Frédéric,1,1
+Meynier-Millefert   Marjolaine,Bonnell   Bruno,1,1
+Meynier-Millefert   Marjolaine,Fontenel-Personne   Pascale,1,1
+Meynier-Millefert   Marjolaine,Riotton   Véronique,1,1
+Meynier-Millefert   Marjolaine,Fauvergue   Jean-Michel,0,1
+Meynier-Millefert   Marjolaine,Granjus   Florence,1,1
+Meynier-Millefert   Marjolaine,Wulfranc   Hubert,0,1
+Mis   Jean-Michel,Sarles   Nathalie,1,1
+Mis   Jean-Michel,Janvier   Caroline,1,1
+Mis   Jean-Michel,Bolo   Philippe,1,1
+Mis   Jean-Michel,Cariou   Émilie,1,1
+Mis   Jean-Michel,Zannier   Hélène,1,1
+Mis   Jean-Michel,Pahun   Jimmy,1,1
+Mis   Jean-Michel,Le Peih   Nicole,1,1
+Mis   Jean-Michel,Perrot   Patrice,1,1
+Mis   Jean-Michel,Parmentier-Lecocq   Charlotte,1,1
+Mis   Jean-Michel,Lescure   Roland,1,1
+Mis   Jean-Michel,Petit   Frédéric,1,1
+Mis   Jean-Michel,Bonnell   Bruno,1,1
+Mis   Jean-Michel,Fontenel-Personne   Pascale,1,1
+Mis   Jean-Michel,Riotton   Véronique,1,1
+Mis   Jean-Michel,Fauvergue   Jean-Michel,0,1
+Mis   Jean-Michel,Granjus   Florence,1,1
+Mis   Jean-Michel,Wulfranc   Hubert,0,1
+Sarles   Nathalie,Janvier   Caroline,1,1
+Sarles   Nathalie,Bolo   Philippe,1,1
+Sarles   Nathalie,Cariou   Émilie,1,1
+Sarles   Nathalie,Zannier   Hélène,1,1
+Sarles   Nathalie,Pahun   Jimmy,1,1
+Sarles   Nathalie,Le Peih   Nicole,1,1
+Sarles   Nathalie,Perrot   Patrice,1,1
+Sarles   Nathalie,Parmentier-Lecocq   Charlotte,1,1
+Sarles   Nathalie,Lescure   Roland,1,1
+Sarles   Nathalie,Petit   Frédéric,1,1
+Sarles   Nathalie,Bonnell   Bruno,1,1
+Sarles   Nathalie,Fontenel-Personne   Pascale,1,1
+Sarles   Nathalie,Riotton   Véronique,1,1
+Sarles   Nathalie,Fauvergue   Jean-Michel,0,1
+Sarles   Nathalie,Granjus   Florence,1,1
+Sarles   Nathalie,Wulfranc   Hubert,0,1
+Janvier   Caroline,Bolo   Philippe,1,1
+Janvier   Caroline,Cariou   Émilie,1,1
+Janvier   Caroline,Zannier   Hélène,1,1
+Janvier   Caroline,Pahun   Jimmy,1,1
+Janvier   Caroline,Le Peih   Nicole,1,1
+Janvier   Caroline,Perrot   Patrice,1,1
+Janvier   Caroline,Parmentier-Lecocq   Charlotte,1,1
+Janvier   Caroline,Lescure   Roland,1,1
+Janvier   Caroline,Petit   Frédéric,1,1
+Janvier   Caroline,Bonnell   Bruno,1,1
+Janvier   Caroline,Fontenel-Personne   Pascale,1,1
+Janvier   Caroline,Riotton   Véronique,1,1
+Janvier   Caroline,Fauvergue   Jean-Michel,0,1
+Janvier   Caroline,Granjus   Florence,1,1
+Janvier   Caroline,Wulfranc   Hubert,0,1
+Bolo   Philippe,Cariou   Émilie,1,1
+Bolo   Philippe,Zannier   Hélène,1,1
+Bolo   Philippe,Pahun   Jimmy,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Petit   Frédéric,1,1
+Bolo   Philippe,Bonnell   Bruno,1,1
+Bolo   Philippe,Fontenel-Personne   Pascale,1,1
+Bolo   Philippe,Riotton   Véronique,1,1
+Bolo   Philippe,Fauvergue   Jean-Michel,0,1
+Bolo   Philippe,Granjus   Florence,1,1
+Bolo   Philippe,Wulfranc   Hubert,0,1
+Cariou   Émilie,Zannier   Hélène,1,1
+Cariou   Émilie,Pahun   Jimmy,1,1
+Cariou   Émilie,Le Peih   Nicole,1,1
+Cariou   Émilie,Perrot   Patrice,1,1
+Cariou   Émilie,Parmentier-Lecocq   Charlotte,1,1
+Cariou   Émilie,Lescure   Roland,1,1
+Cariou   Émilie,Petit   Frédéric,1,1
+Cariou   Émilie,Bonnell   Bruno,1,1
+Cariou   Émilie,Fontenel-Personne   Pascale,1,1
+Cariou   Émilie,Riotton   Véronique,1,1
+Cariou   Émilie,Fauvergue   Jean-Michel,0,1
+Cariou   Émilie,Granjus   Florence,1,1
+Cariou   Émilie,Wulfranc   Hubert,0,1
+Zannier   Hélène,Pahun   Jimmy,1,1
+Zannier   Hélène,Le Peih   Nicole,1,1
+Zannier   Hélène,Perrot   Patrice,1,1
+Zannier   Hélène,Parmentier-Lecocq   Charlotte,1,1
+Zannier   Hélène,Lescure   Roland,1,1
+Zannier   Hélène,Petit   Frédéric,1,1
+Zannier   Hélène,Bonnell   Bruno,1,1
+Zannier   Hélène,Fontenel-Personne   Pascale,1,1
+Zannier   Hélène,Riotton   Véronique,1,1
+Zannier   Hélène,Fauvergue   Jean-Michel,0,1
+Zannier   Hélène,Granjus   Florence,1,1
+Zannier   Hélène,Wulfranc   Hubert,0,1
+Pahun   Jimmy,Le Peih   Nicole,1,1
+Pahun   Jimmy,Perrot   Patrice,1,1
+Pahun   Jimmy,Parmentier-Lecocq   Charlotte,1,1
+Pahun   Jimmy,Lescure   Roland,1,1
+Pahun   Jimmy,Petit   Frédéric,1,1
+Pahun   Jimmy,Bonnell   Bruno,1,1
+Pahun   Jimmy,Fontenel-Personne   Pascale,1,1
+Pahun   Jimmy,Riotton   Véronique,1,1
+Pahun   Jimmy,Fauvergue   Jean-Michel,0,1
+Pahun   Jimmy,Granjus   Florence,1,1
+Pahun   Jimmy,Wulfranc   Hubert,0,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Parmentier-Lecocq   Charlotte,1,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Petit   Frédéric,1,1
+Le Peih   Nicole,Bonnell   Bruno,1,1
+Le Peih   Nicole,Fontenel-Personne   Pascale,1,1
+Le Peih   Nicole,Riotton   Véronique,1,1
+Le Peih   Nicole,Fauvergue   Jean-Michel,0,1
+Le Peih   Nicole,Granjus   Florence,1,1
+Le Peih   Nicole,Wulfranc   Hubert,0,1
+Perrot   Patrice,Parmentier-Lecocq   Charlotte,1,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Petit   Frédéric,1,1
+Perrot   Patrice,Bonnell   Bruno,1,1
+Perrot   Patrice,Fontenel-Personne   Pascale,1,1
+Perrot   Patrice,Riotton   Véronique,1,1
+Perrot   Patrice,Fauvergue   Jean-Michel,0,1
+Perrot   Patrice,Granjus   Florence,1,1
+Perrot   Patrice,Wulfranc   Hubert,0,1
+Parmentier-Lecocq   Charlotte,Lescure   Roland,1,1
+Parmentier-Lecocq   Charlotte,Petit   Frédéric,1,1
+Parmentier-Lecocq   Charlotte,Bonnell   Bruno,1,1
+Parmentier-Lecocq   Charlotte,Fontenel-Personne   Pascale,1,1
+Parmentier-Lecocq   Charlotte,Riotton   Véronique,1,1
+Parmentier-Lecocq   Charlotte,Fauvergue   Jean-Michel,0,1
+Parmentier-Lecocq   Charlotte,Granjus   Florence,1,1
+Parmentier-Lecocq   Charlotte,Wulfranc   Hubert,0,1
+Lescure   Roland,Petit   Frédéric,1,1
+Lescure   Roland,Bonnell   Bruno,1,1
+Lescure   Roland,Fontenel-Personne   Pascale,1,1
+Lescure   Roland,Riotton   Véronique,1,1
+Lescure   Roland,Fauvergue   Jean-Michel,0,1
+Lescure   Roland,Granjus   Florence,1,1
+Lescure   Roland,Wulfranc   Hubert,0,1
+Petit   Frédéric,Bonnell   Bruno,1,1
+Petit   Frédéric,Fontenel-Personne   Pascale,1,1
+Petit   Frédéric,Riotton   Véronique,1,1
+Petit   Frédéric,Fauvergue   Jean-Michel,0,1
+Petit   Frédéric,Granjus   Florence,1,1
+Petit   Frédéric,Wulfranc   Hubert,0,1
+Bonnell   Bruno,Fontenel-Personne   Pascale,1,1
+Bonnell   Bruno,Riotton   Véronique,1,1
+Bonnell   Bruno,Fauvergue   Jean-Michel,0,1
+Bonnell   Bruno,Granjus   Florence,1,1
+Bonnell   Bruno,Wulfranc   Hubert,0,1
+Fontenel-Personne   Pascale,Riotton   Véronique,1,1
+Fontenel-Personne   Pascale,Fauvergue   Jean-Michel,0,1
+Fontenel-Personne   Pascale,Granjus   Florence,1,1
+Fontenel-Personne   Pascale,Wulfranc   Hubert,0,1
+Riotton   Véronique,Fauvergue   Jean-Michel,0,1
+Riotton   Véronique,Granjus   Florence,1,1
+Riotton   Véronique,Wulfranc   Hubert,0,1
+Fauvergue   Jean-Michel,Granjus   Florence,0,1
+Fauvergue   Jean-Michel,Wulfranc   Hubert,1,1
+Granjus   Florence,Wulfranc   Hubert,0,1

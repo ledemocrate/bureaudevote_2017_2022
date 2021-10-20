@@ -1,0 +1,352 @@
+from,to,vote_commun,loi_commun
+Grelier   Jean-Carles,Biémouret   Gisèle,1,1
+Grelier   Jean-Carles,Christophe   Paul,1,1
+Grelier   Jean-Carles,Becht   Olivier,1,1
+Grelier   Jean-Carles,Robert   Mireille,0,1
+Grelier   Jean-Carles,Dharréville   Pierre,1,1
+Grelier   Jean-Carles,Martin   Didier,0,1
+Grelier   Jean-Carles,de Lavergne   Célia,0,1
+Grelier   Jean-Carles,Le Meur   Annaïg,0,1
+Grelier   Jean-Carles,Fabre   Catherine,0,1
+Grelier   Jean-Carles,Hammerer   Véronique,0,1
+Grelier   Jean-Carles,Motin   Cendra,0,1
+Grelier   Jean-Carles,Rist   Stéphanie,0,1
+Grelier   Jean-Carles,Kuric   Aina,0,1
+Grelier   Jean-Carles,Damaisin   Olivier,0,1
+Grelier   Jean-Carles,Fiat   Caroline,1,1
+Grelier   Jean-Carles,Park   Zivka,0,1
+Grelier   Jean-Carles,Gaillot   Albane,0,1
+Grelier   Jean-Carles,Ramadier   Alain,1,1
+Grelier   Jean-Carles,Riotton   Véronique,0,1
+Grelier   Jean-Carles,Lemoine   Patricia,1,1
+Grelier   Jean-Carles,Piron   Béatrice,0,1
+Grelier   Jean-Carles,de Vaucouleurs   Michèle,1,1
+Grelier   Jean-Carles,Millienne   Bruno,1,1
+Grelier   Jean-Carles,Vidal   Annie,0,1
+Grelier   Jean-Carles,Corneloup   Josiane,1,1
+Grelier   Jean-Carles,Brial   Sylvain,1,1
+Biémouret   Gisèle,Christophe   Paul,1,1
+Biémouret   Gisèle,Becht   Olivier,1,1
+Biémouret   Gisèle,Robert   Mireille,0,1
+Biémouret   Gisèle,Dharréville   Pierre,1,1
+Biémouret   Gisèle,Martin   Didier,0,1
+Biémouret   Gisèle,de Lavergne   Célia,0,1
+Biémouret   Gisèle,Le Meur   Annaïg,0,1
+Biémouret   Gisèle,Fabre   Catherine,0,1
+Biémouret   Gisèle,Hammerer   Véronique,0,1
+Biémouret   Gisèle,Motin   Cendra,0,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Kuric   Aina,0,1
+Biémouret   Gisèle,Damaisin   Olivier,0,1
+Biémouret   Gisèle,Fiat   Caroline,1,1
+Biémouret   Gisèle,Park   Zivka,0,1
+Biémouret   Gisèle,Gaillot   Albane,0,1
+Biémouret   Gisèle,Ramadier   Alain,1,1
+Biémouret   Gisèle,Riotton   Véronique,0,1
+Biémouret   Gisèle,Lemoine   Patricia,1,1
+Biémouret   Gisèle,Piron   Béatrice,0,1
+Biémouret   Gisèle,de Vaucouleurs   Michèle,1,1
+Biémouret   Gisèle,Millienne   Bruno,1,1
+Biémouret   Gisèle,Vidal   Annie,0,1
+Biémouret   Gisèle,Corneloup   Josiane,1,1
+Biémouret   Gisèle,Brial   Sylvain,1,1
+Christophe   Paul,Becht   Olivier,1,1
+Christophe   Paul,Robert   Mireille,0,1
+Christophe   Paul,Dharréville   Pierre,1,1
+Christophe   Paul,Martin   Didier,0,1
+Christophe   Paul,de Lavergne   Célia,0,1
+Christophe   Paul,Le Meur   Annaïg,0,1
+Christophe   Paul,Fabre   Catherine,0,1
+Christophe   Paul,Hammerer   Véronique,0,1
+Christophe   Paul,Motin   Cendra,0,1
+Christophe   Paul,Rist   Stéphanie,0,1
+Christophe   Paul,Kuric   Aina,0,1
+Christophe   Paul,Damaisin   Olivier,0,1
+Christophe   Paul,Fiat   Caroline,1,1
+Christophe   Paul,Park   Zivka,0,1
+Christophe   Paul,Gaillot   Albane,0,1
+Christophe   Paul,Ramadier   Alain,1,1
+Christophe   Paul,Riotton   Véronique,0,1
+Christophe   Paul,Lemoine   Patricia,1,1
+Christophe   Paul,Piron   Béatrice,0,1
+Christophe   Paul,de Vaucouleurs   Michèle,1,1
+Christophe   Paul,Millienne   Bruno,1,1
+Christophe   Paul,Vidal   Annie,0,1
+Christophe   Paul,Corneloup   Josiane,1,1
+Christophe   Paul,Brial   Sylvain,1,1
+Becht   Olivier,Robert   Mireille,0,1
+Becht   Olivier,Dharréville   Pierre,1,1
+Becht   Olivier,Martin   Didier,0,1
+Becht   Olivier,de Lavergne   Célia,0,1
+Becht   Olivier,Le Meur   Annaïg,0,1
+Becht   Olivier,Fabre   Catherine,0,1
+Becht   Olivier,Hammerer   Véronique,0,1
+Becht   Olivier,Motin   Cendra,0,1
+Becht   Olivier,Rist   Stéphanie,0,1
+Becht   Olivier,Kuric   Aina,0,1
+Becht   Olivier,Damaisin   Olivier,0,1
+Becht   Olivier,Fiat   Caroline,1,1
+Becht   Olivier,Park   Zivka,0,1
+Becht   Olivier,Gaillot   Albane,0,1
+Becht   Olivier,Ramadier   Alain,1,1
+Becht   Olivier,Riotton   Véronique,0,1
+Becht   Olivier,Lemoine   Patricia,1,1
+Becht   Olivier,Piron   Béatrice,0,1
+Becht   Olivier,de Vaucouleurs   Michèle,1,1
+Becht   Olivier,Millienne   Bruno,1,1
+Becht   Olivier,Vidal   Annie,0,1
+Becht   Olivier,Corneloup   Josiane,1,1
+Becht   Olivier,Brial   Sylvain,1,1
+Robert   Mireille,Dharréville   Pierre,0,1
+Robert   Mireille,Martin   Didier,1,1
+Robert   Mireille,de Lavergne   Célia,1,1
+Robert   Mireille,Le Meur   Annaïg,1,1
+Robert   Mireille,Fabre   Catherine,1,1
+Robert   Mireille,Hammerer   Véronique,1,1
+Robert   Mireille,Motin   Cendra,1,1
+Robert   Mireille,Rist   Stéphanie,1,1
+Robert   Mireille,Kuric   Aina,1,1
+Robert   Mireille,Damaisin   Olivier,1,1
+Robert   Mireille,Fiat   Caroline,0,1
+Robert   Mireille,Park   Zivka,1,1
+Robert   Mireille,Gaillot   Albane,1,1
+Robert   Mireille,Ramadier   Alain,0,1
+Robert   Mireille,Riotton   Véronique,1,1
+Robert   Mireille,Lemoine   Patricia,0,1
+Robert   Mireille,Piron   Béatrice,1,1
+Robert   Mireille,de Vaucouleurs   Michèle,0,1
+Robert   Mireille,Millienne   Bruno,0,1
+Robert   Mireille,Vidal   Annie,1,1
+Robert   Mireille,Corneloup   Josiane,0,1
+Robert   Mireille,Brial   Sylvain,0,1
+Dharréville   Pierre,Martin   Didier,0,1
+Dharréville   Pierre,de Lavergne   Célia,0,1
+Dharréville   Pierre,Le Meur   Annaïg,0,1
+Dharréville   Pierre,Fabre   Catherine,0,1
+Dharréville   Pierre,Hammerer   Véronique,0,1
+Dharréville   Pierre,Motin   Cendra,0,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Kuric   Aina,0,1
+Dharréville   Pierre,Damaisin   Olivier,0,1
+Dharréville   Pierre,Fiat   Caroline,1,1
+Dharréville   Pierre,Park   Zivka,0,1
+Dharréville   Pierre,Gaillot   Albane,0,1
+Dharréville   Pierre,Ramadier   Alain,1,1
+Dharréville   Pierre,Riotton   Véronique,0,1
+Dharréville   Pierre,Lemoine   Patricia,1,1
+Dharréville   Pierre,Piron   Béatrice,0,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,1,1
+Dharréville   Pierre,Millienne   Bruno,1,1
+Dharréville   Pierre,Vidal   Annie,0,1
+Dharréville   Pierre,Corneloup   Josiane,1,1
+Dharréville   Pierre,Brial   Sylvain,1,1
+Martin   Didier,de Lavergne   Célia,1,1
+Martin   Didier,Le Meur   Annaïg,1,1
+Martin   Didier,Fabre   Catherine,1,1
+Martin   Didier,Hammerer   Véronique,1,1
+Martin   Didier,Motin   Cendra,1,1
+Martin   Didier,Rist   Stéphanie,1,1
+Martin   Didier,Kuric   Aina,1,1
+Martin   Didier,Damaisin   Olivier,1,1
+Martin   Didier,Fiat   Caroline,0,1
+Martin   Didier,Park   Zivka,1,1
+Martin   Didier,Gaillot   Albane,1,1
+Martin   Didier,Ramadier   Alain,0,1
+Martin   Didier,Riotton   Véronique,1,1
+Martin   Didier,Lemoine   Patricia,0,1
+Martin   Didier,Piron   Béatrice,1,1
+Martin   Didier,de Vaucouleurs   Michèle,0,1
+Martin   Didier,Millienne   Bruno,0,1
+Martin   Didier,Vidal   Annie,1,1
+Martin   Didier,Corneloup   Josiane,0,1
+Martin   Didier,Brial   Sylvain,0,1
+de Lavergne   Célia,Le Meur   Annaïg,1,1
+de Lavergne   Célia,Fabre   Catherine,1,1
+de Lavergne   Célia,Hammerer   Véronique,1,1
+de Lavergne   Célia,Motin   Cendra,1,1
+de Lavergne   Célia,Rist   Stéphanie,1,1
+de Lavergne   Célia,Kuric   Aina,1,1
+de Lavergne   Célia,Damaisin   Olivier,1,1
+de Lavergne   Célia,Fiat   Caroline,0,1
+de Lavergne   Célia,Park   Zivka,1,1
+de Lavergne   Célia,Gaillot   Albane,1,1
+de Lavergne   Célia,Ramadier   Alain,0,1
+de Lavergne   Célia,Riotton   Véronique,1,1
+de Lavergne   Célia,Lemoine   Patricia,0,1
+de Lavergne   Célia,Piron   Béatrice,1,1
+de Lavergne   Célia,de Vaucouleurs   Michèle,0,1
+de Lavergne   Célia,Millienne   Bruno,0,1
+de Lavergne   Célia,Vidal   Annie,1,1
+de Lavergne   Célia,Corneloup   Josiane,0,1
+de Lavergne   Célia,Brial   Sylvain,0,1
+Le Meur   Annaïg,Fabre   Catherine,1,1
+Le Meur   Annaïg,Hammerer   Véronique,1,1
+Le Meur   Annaïg,Motin   Cendra,1,1
+Le Meur   Annaïg,Rist   Stéphanie,1,1
+Le Meur   Annaïg,Kuric   Aina,1,1
+Le Meur   Annaïg,Damaisin   Olivier,1,1
+Le Meur   Annaïg,Fiat   Caroline,0,1
+Le Meur   Annaïg,Park   Zivka,1,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Ramadier   Alain,0,1
+Le Meur   Annaïg,Riotton   Véronique,1,1
+Le Meur   Annaïg,Lemoine   Patricia,0,1
+Le Meur   Annaïg,Piron   Béatrice,1,1
+Le Meur   Annaïg,de Vaucouleurs   Michèle,0,1
+Le Meur   Annaïg,Millienne   Bruno,0,1
+Le Meur   Annaïg,Vidal   Annie,1,1
+Le Meur   Annaïg,Corneloup   Josiane,0,1
+Le Meur   Annaïg,Brial   Sylvain,0,1
+Fabre   Catherine,Hammerer   Véronique,1,1
+Fabre   Catherine,Motin   Cendra,1,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Kuric   Aina,1,1
+Fabre   Catherine,Damaisin   Olivier,1,1
+Fabre   Catherine,Fiat   Caroline,0,1
+Fabre   Catherine,Park   Zivka,1,1
+Fabre   Catherine,Gaillot   Albane,1,1
+Fabre   Catherine,Ramadier   Alain,0,1
+Fabre   Catherine,Riotton   Véronique,1,1
+Fabre   Catherine,Lemoine   Patricia,0,1
+Fabre   Catherine,Piron   Béatrice,1,1
+Fabre   Catherine,de Vaucouleurs   Michèle,0,1
+Fabre   Catherine,Millienne   Bruno,0,1
+Fabre   Catherine,Vidal   Annie,1,1
+Fabre   Catherine,Corneloup   Josiane,0,1
+Fabre   Catherine,Brial   Sylvain,0,1
+Hammerer   Véronique,Motin   Cendra,1,1
+Hammerer   Véronique,Rist   Stéphanie,1,1
+Hammerer   Véronique,Kuric   Aina,1,1
+Hammerer   Véronique,Damaisin   Olivier,1,1
+Hammerer   Véronique,Fiat   Caroline,0,1
+Hammerer   Véronique,Park   Zivka,1,1
+Hammerer   Véronique,Gaillot   Albane,1,1
+Hammerer   Véronique,Ramadier   Alain,0,1
+Hammerer   Véronique,Riotton   Véronique,1,1
+Hammerer   Véronique,Lemoine   Patricia,0,1
+Hammerer   Véronique,Piron   Béatrice,1,1
+Hammerer   Véronique,de Vaucouleurs   Michèle,0,1
+Hammerer   Véronique,Millienne   Bruno,0,1
+Hammerer   Véronique,Vidal   Annie,1,1
+Hammerer   Véronique,Corneloup   Josiane,0,1
+Hammerer   Véronique,Brial   Sylvain,0,1
+Motin   Cendra,Rist   Stéphanie,1,1
+Motin   Cendra,Kuric   Aina,1,1
+Motin   Cendra,Damaisin   Olivier,1,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Park   Zivka,1,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Riotton   Véronique,1,1
+Motin   Cendra,Lemoine   Patricia,0,1
+Motin   Cendra,Piron   Béatrice,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,0,1
+Motin   Cendra,Millienne   Bruno,0,1
+Motin   Cendra,Vidal   Annie,1,1
+Motin   Cendra,Corneloup   Josiane,0,1
+Motin   Cendra,Brial   Sylvain,0,1
+Rist   Stéphanie,Kuric   Aina,1,1
+Rist   Stéphanie,Damaisin   Olivier,1,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Park   Zivka,1,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Ramadier   Alain,0,1
+Rist   Stéphanie,Riotton   Véronique,1,1
+Rist   Stéphanie,Lemoine   Patricia,0,1
+Rist   Stéphanie,Piron   Béatrice,1,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,0,1
+Rist   Stéphanie,Millienne   Bruno,0,1
+Rist   Stéphanie,Vidal   Annie,1,1
+Rist   Stéphanie,Corneloup   Josiane,0,1
+Rist   Stéphanie,Brial   Sylvain,0,1
+Kuric   Aina,Damaisin   Olivier,1,1
+Kuric   Aina,Fiat   Caroline,0,1
+Kuric   Aina,Park   Zivka,1,1
+Kuric   Aina,Gaillot   Albane,1,1
+Kuric   Aina,Ramadier   Alain,0,1
+Kuric   Aina,Riotton   Véronique,1,1
+Kuric   Aina,Lemoine   Patricia,0,1
+Kuric   Aina,Piron   Béatrice,1,1
+Kuric   Aina,de Vaucouleurs   Michèle,0,1
+Kuric   Aina,Millienne   Bruno,0,1
+Kuric   Aina,Vidal   Annie,1,1
+Kuric   Aina,Corneloup   Josiane,0,1
+Kuric   Aina,Brial   Sylvain,0,1
+Damaisin   Olivier,Fiat   Caroline,0,1
+Damaisin   Olivier,Park   Zivka,1,1
+Damaisin   Olivier,Gaillot   Albane,1,1
+Damaisin   Olivier,Ramadier   Alain,0,1
+Damaisin   Olivier,Riotton   Véronique,1,1
+Damaisin   Olivier,Lemoine   Patricia,0,1
+Damaisin   Olivier,Piron   Béatrice,1,1
+Damaisin   Olivier,de Vaucouleurs   Michèle,0,1
+Damaisin   Olivier,Millienne   Bruno,0,1
+Damaisin   Olivier,Vidal   Annie,1,1
+Damaisin   Olivier,Corneloup   Josiane,0,1
+Damaisin   Olivier,Brial   Sylvain,0,1
+Fiat   Caroline,Park   Zivka,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Ramadier   Alain,1,1
+Fiat   Caroline,Riotton   Véronique,0,1
+Fiat   Caroline,Lemoine   Patricia,1,1
+Fiat   Caroline,Piron   Béatrice,0,1
+Fiat   Caroline,de Vaucouleurs   Michèle,1,1
+Fiat   Caroline,Millienne   Bruno,1,1
+Fiat   Caroline,Vidal   Annie,0,1
+Fiat   Caroline,Corneloup   Josiane,1,1
+Fiat   Caroline,Brial   Sylvain,1,1
+Park   Zivka,Gaillot   Albane,1,1
+Park   Zivka,Ramadier   Alain,0,1
+Park   Zivka,Riotton   Véronique,1,1
+Park   Zivka,Lemoine   Patricia,0,1
+Park   Zivka,Piron   Béatrice,1,1
+Park   Zivka,de Vaucouleurs   Michèle,0,1
+Park   Zivka,Millienne   Bruno,0,1
+Park   Zivka,Vidal   Annie,1,1
+Park   Zivka,Corneloup   Josiane,0,1
+Park   Zivka,Brial   Sylvain,0,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Riotton   Véronique,1,1
+Gaillot   Albane,Lemoine   Patricia,0,1
+Gaillot   Albane,Piron   Béatrice,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,0,1
+Gaillot   Albane,Millienne   Bruno,0,1
+Gaillot   Albane,Vidal   Annie,1,1
+Gaillot   Albane,Corneloup   Josiane,0,1
+Gaillot   Albane,Brial   Sylvain,0,1
+Ramadier   Alain,Riotton   Véronique,0,1
+Ramadier   Alain,Lemoine   Patricia,1,1
+Ramadier   Alain,Piron   Béatrice,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,1,1
+Ramadier   Alain,Millienne   Bruno,1,1
+Ramadier   Alain,Vidal   Annie,0,1
+Ramadier   Alain,Corneloup   Josiane,1,1
+Ramadier   Alain,Brial   Sylvain,1,1
+Riotton   Véronique,Lemoine   Patricia,0,1
+Riotton   Véronique,Piron   Béatrice,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,0,1
+Riotton   Véronique,Millienne   Bruno,0,1
+Riotton   Véronique,Vidal   Annie,1,1
+Riotton   Véronique,Corneloup   Josiane,0,1
+Riotton   Véronique,Brial   Sylvain,0,1
+Lemoine   Patricia,Piron   Béatrice,0,1
+Lemoine   Patricia,de Vaucouleurs   Michèle,1,1
+Lemoine   Patricia,Millienne   Bruno,1,1
+Lemoine   Patricia,Vidal   Annie,0,1
+Lemoine   Patricia,Corneloup   Josiane,1,1
+Lemoine   Patricia,Brial   Sylvain,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,0,1
+Piron   Béatrice,Millienne   Bruno,0,1
+Piron   Béatrice,Vidal   Annie,1,1
+Piron   Béatrice,Corneloup   Josiane,0,1
+Piron   Béatrice,Brial   Sylvain,0,1
+de Vaucouleurs   Michèle,Millienne   Bruno,1,1
+de Vaucouleurs   Michèle,Vidal   Annie,0,1
+de Vaucouleurs   Michèle,Corneloup   Josiane,1,1
+de Vaucouleurs   Michèle,Brial   Sylvain,1,1
+Millienne   Bruno,Vidal   Annie,0,1
+Millienne   Bruno,Corneloup   Josiane,1,1
+Millienne   Bruno,Brial   Sylvain,1,1
+Vidal   Annie,Corneloup   Josiane,0,1
+Vidal   Annie,Brial   Sylvain,0,1
+Corneloup   Josiane,Brial   Sylvain,1,1

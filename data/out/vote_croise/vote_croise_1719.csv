@@ -1,0 +1,466 @@
+from,to,vote_commun,loi_commun
+Chassaigne   André,Firmin Le Bodo   Agnès,0,1
+Chassaigne   André,Lecoq   Jean-Paul,1,1
+Chassaigne   André,Clément   Jean-Michel,1,1
+Chassaigne   André,Biémouret   Gisèle,1,1
+Chassaigne   André,Claireaux   Stéphane,0,1
+Chassaigne   André,Peyrol   Bénédicte,0,1
+Chassaigne   André,Perea   Alain,0,1
+Chassaigne   André,Dharréville   Pierre,1,1
+Chassaigne   André,Kerlogot   Yannick,0,1
+Chassaigne   André,Clapot   Mireille,0,1
+Chassaigne   André,Vignon   Corinne,0,1
+Chassaigne   André,Labaronne   Daniel,0,1
+Chassaigne   André,Dubré-Chirat   Nicole,0,1
+Chassaigne   André,Fiat   Caroline,1,1
+Chassaigne   André,Zannier   Hélène,0,1
+Chassaigne   André,Le Peih   Nicole,0,1
+Chassaigne   André,Belhaddad   Belkhir,0,1
+Chassaigne   André,Bruneel   Alain,1,1
+Chassaigne   André,Bois   Pascal,0,1
+Chassaigne   André,Mbaye   Jean François,0,1
+Chassaigne   André,Panot   Mathilde,1,1
+Chassaigne   André,Genetet   Anne,0,1
+Chassaigne   André,Brotherson   Moetai,1,1
+Chassaigne   André,Charrière   Sylvie,0,1
+Chassaigne   André,Peu   Stéphane,1,1
+Chassaigne   André,Faucillon   Elsa,1,1
+Chassaigne   André,Pouzyreff   Natalia,0,1
+Chassaigne   André,Provendier   Florence,0,1
+Chassaigne   André,Rudigoz   Thomas,0,1
+Chassaigne   André,Rebeyrotte   Rémy,0,1
+Firmin Le Bodo   Agnès,Lecoq   Jean-Paul,0,1
+Firmin Le Bodo   Agnès,Clément   Jean-Michel,0,1
+Firmin Le Bodo   Agnès,Biémouret   Gisèle,0,1
+Firmin Le Bodo   Agnès,Claireaux   Stéphane,1,1
+Firmin Le Bodo   Agnès,Peyrol   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Perea   Alain,1,1
+Firmin Le Bodo   Agnès,Dharréville   Pierre,0,1
+Firmin Le Bodo   Agnès,Kerlogot   Yannick,1,1
+Firmin Le Bodo   Agnès,Clapot   Mireille,1,1
+Firmin Le Bodo   Agnès,Vignon   Corinne,1,1
+Firmin Le Bodo   Agnès,Labaronne   Daniel,1,1
+Firmin Le Bodo   Agnès,Dubré-Chirat   Nicole,1,1
+Firmin Le Bodo   Agnès,Fiat   Caroline,0,1
+Firmin Le Bodo   Agnès,Zannier   Hélène,1,1
+Firmin Le Bodo   Agnès,Le Peih   Nicole,1,1
+Firmin Le Bodo   Agnès,Belhaddad   Belkhir,1,1
+Firmin Le Bodo   Agnès,Bruneel   Alain,0,1
+Firmin Le Bodo   Agnès,Bois   Pascal,1,1
+Firmin Le Bodo   Agnès,Mbaye   Jean François,1,1
+Firmin Le Bodo   Agnès,Panot   Mathilde,0,1
+Firmin Le Bodo   Agnès,Genetet   Anne,1,1
+Firmin Le Bodo   Agnès,Brotherson   Moetai,0,1
+Firmin Le Bodo   Agnès,Charrière   Sylvie,1,1
+Firmin Le Bodo   Agnès,Peu   Stéphane,0,1
+Firmin Le Bodo   Agnès,Faucillon   Elsa,0,1
+Firmin Le Bodo   Agnès,Pouzyreff   Natalia,1,1
+Firmin Le Bodo   Agnès,Provendier   Florence,1,1
+Firmin Le Bodo   Agnès,Rudigoz   Thomas,1,1
+Firmin Le Bodo   Agnès,Rebeyrotte   Rémy,1,1
+Lecoq   Jean-Paul,Clément   Jean-Michel,1,1
+Lecoq   Jean-Paul,Biémouret   Gisèle,1,1
+Lecoq   Jean-Paul,Claireaux   Stéphane,0,1
+Lecoq   Jean-Paul,Peyrol   Bénédicte,0,1
+Lecoq   Jean-Paul,Perea   Alain,0,1
+Lecoq   Jean-Paul,Dharréville   Pierre,1,1
+Lecoq   Jean-Paul,Kerlogot   Yannick,0,1
+Lecoq   Jean-Paul,Clapot   Mireille,0,1
+Lecoq   Jean-Paul,Vignon   Corinne,0,1
+Lecoq   Jean-Paul,Labaronne   Daniel,0,1
+Lecoq   Jean-Paul,Dubré-Chirat   Nicole,0,1
+Lecoq   Jean-Paul,Fiat   Caroline,1,1
+Lecoq   Jean-Paul,Zannier   Hélène,0,1
+Lecoq   Jean-Paul,Le Peih   Nicole,0,1
+Lecoq   Jean-Paul,Belhaddad   Belkhir,0,1
+Lecoq   Jean-Paul,Bruneel   Alain,1,1
+Lecoq   Jean-Paul,Bois   Pascal,0,1
+Lecoq   Jean-Paul,Mbaye   Jean François,0,1
+Lecoq   Jean-Paul,Panot   Mathilde,1,1
+Lecoq   Jean-Paul,Genetet   Anne,0,1
+Lecoq   Jean-Paul,Brotherson   Moetai,1,1
+Lecoq   Jean-Paul,Charrière   Sylvie,0,1
+Lecoq   Jean-Paul,Peu   Stéphane,1,1
+Lecoq   Jean-Paul,Faucillon   Elsa,1,1
+Lecoq   Jean-Paul,Pouzyreff   Natalia,0,1
+Lecoq   Jean-Paul,Provendier   Florence,0,1
+Lecoq   Jean-Paul,Rudigoz   Thomas,0,1
+Lecoq   Jean-Paul,Rebeyrotte   Rémy,0,1
+Clément   Jean-Michel,Biémouret   Gisèle,1,1
+Clément   Jean-Michel,Claireaux   Stéphane,0,1
+Clément   Jean-Michel,Peyrol   Bénédicte,0,1
+Clément   Jean-Michel,Perea   Alain,0,1
+Clément   Jean-Michel,Dharréville   Pierre,1,1
+Clément   Jean-Michel,Kerlogot   Yannick,0,1
+Clément   Jean-Michel,Clapot   Mireille,0,1
+Clément   Jean-Michel,Vignon   Corinne,0,1
+Clément   Jean-Michel,Labaronne   Daniel,0,1
+Clément   Jean-Michel,Dubré-Chirat   Nicole,0,1
+Clément   Jean-Michel,Fiat   Caroline,1,1
+Clément   Jean-Michel,Zannier   Hélène,0,1
+Clément   Jean-Michel,Le Peih   Nicole,0,1
+Clément   Jean-Michel,Belhaddad   Belkhir,0,1
+Clément   Jean-Michel,Bruneel   Alain,1,1
+Clément   Jean-Michel,Bois   Pascal,0,1
+Clément   Jean-Michel,Mbaye   Jean François,0,1
+Clément   Jean-Michel,Panot   Mathilde,1,1
+Clément   Jean-Michel,Genetet   Anne,0,1
+Clément   Jean-Michel,Brotherson   Moetai,1,1
+Clément   Jean-Michel,Charrière   Sylvie,0,1
+Clément   Jean-Michel,Peu   Stéphane,1,1
+Clément   Jean-Michel,Faucillon   Elsa,1,1
+Clément   Jean-Michel,Pouzyreff   Natalia,0,1
+Clément   Jean-Michel,Provendier   Florence,0,1
+Clément   Jean-Michel,Rudigoz   Thomas,0,1
+Clément   Jean-Michel,Rebeyrotte   Rémy,0,1
+Biémouret   Gisèle,Claireaux   Stéphane,0,1
+Biémouret   Gisèle,Peyrol   Bénédicte,0,1
+Biémouret   Gisèle,Perea   Alain,0,1
+Biémouret   Gisèle,Dharréville   Pierre,1,1
+Biémouret   Gisèle,Kerlogot   Yannick,0,1
+Biémouret   Gisèle,Clapot   Mireille,0,1
+Biémouret   Gisèle,Vignon   Corinne,0,1
+Biémouret   Gisèle,Labaronne   Daniel,0,1
+Biémouret   Gisèle,Dubré-Chirat   Nicole,0,1
+Biémouret   Gisèle,Fiat   Caroline,1,1
+Biémouret   Gisèle,Zannier   Hélène,0,1
+Biémouret   Gisèle,Le Peih   Nicole,0,1
+Biémouret   Gisèle,Belhaddad   Belkhir,0,1
+Biémouret   Gisèle,Bruneel   Alain,1,1
+Biémouret   Gisèle,Bois   Pascal,0,1
+Biémouret   Gisèle,Mbaye   Jean François,0,1
+Biémouret   Gisèle,Panot   Mathilde,1,1
+Biémouret   Gisèle,Genetet   Anne,0,1
+Biémouret   Gisèle,Brotherson   Moetai,1,1
+Biémouret   Gisèle,Charrière   Sylvie,0,1
+Biémouret   Gisèle,Peu   Stéphane,1,1
+Biémouret   Gisèle,Faucillon   Elsa,1,1
+Biémouret   Gisèle,Pouzyreff   Natalia,0,1
+Biémouret   Gisèle,Provendier   Florence,0,1
+Biémouret   Gisèle,Rudigoz   Thomas,0,1
+Biémouret   Gisèle,Rebeyrotte   Rémy,0,1
+Claireaux   Stéphane,Peyrol   Bénédicte,1,1
+Claireaux   Stéphane,Perea   Alain,1,1
+Claireaux   Stéphane,Dharréville   Pierre,0,1
+Claireaux   Stéphane,Kerlogot   Yannick,1,1
+Claireaux   Stéphane,Clapot   Mireille,1,1
+Claireaux   Stéphane,Vignon   Corinne,1,1
+Claireaux   Stéphane,Labaronne   Daniel,1,1
+Claireaux   Stéphane,Dubré-Chirat   Nicole,1,1
+Claireaux   Stéphane,Fiat   Caroline,0,1
+Claireaux   Stéphane,Zannier   Hélène,1,1
+Claireaux   Stéphane,Le Peih   Nicole,1,1
+Claireaux   Stéphane,Belhaddad   Belkhir,1,1
+Claireaux   Stéphane,Bruneel   Alain,0,1
+Claireaux   Stéphane,Bois   Pascal,1,1
+Claireaux   Stéphane,Mbaye   Jean François,1,1
+Claireaux   Stéphane,Panot   Mathilde,0,1
+Claireaux   Stéphane,Genetet   Anne,1,1
+Claireaux   Stéphane,Brotherson   Moetai,0,1
+Claireaux   Stéphane,Charrière   Sylvie,1,1
+Claireaux   Stéphane,Peu   Stéphane,0,1
+Claireaux   Stéphane,Faucillon   Elsa,0,1
+Claireaux   Stéphane,Pouzyreff   Natalia,1,1
+Claireaux   Stéphane,Provendier   Florence,1,1
+Claireaux   Stéphane,Rudigoz   Thomas,1,1
+Claireaux   Stéphane,Rebeyrotte   Rémy,1,1
+Peyrol   Bénédicte,Perea   Alain,1,1
+Peyrol   Bénédicte,Dharréville   Pierre,0,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Clapot   Mireille,1,1
+Peyrol   Bénédicte,Vignon   Corinne,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Dubré-Chirat   Nicole,1,1
+Peyrol   Bénédicte,Fiat   Caroline,0,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Le Peih   Nicole,1,1
+Peyrol   Bénédicte,Belhaddad   Belkhir,1,1
+Peyrol   Bénédicte,Bruneel   Alain,0,1
+Peyrol   Bénédicte,Bois   Pascal,1,1
+Peyrol   Bénédicte,Mbaye   Jean François,1,1
+Peyrol   Bénédicte,Panot   Mathilde,0,1
+Peyrol   Bénédicte,Genetet   Anne,1,1
+Peyrol   Bénédicte,Brotherson   Moetai,0,1
+Peyrol   Bénédicte,Charrière   Sylvie,1,1
+Peyrol   Bénédicte,Peu   Stéphane,0,1
+Peyrol   Bénédicte,Faucillon   Elsa,0,1
+Peyrol   Bénédicte,Pouzyreff   Natalia,1,1
+Peyrol   Bénédicte,Provendier   Florence,1,1
+Peyrol   Bénédicte,Rudigoz   Thomas,1,1
+Peyrol   Bénédicte,Rebeyrotte   Rémy,1,1
+Perea   Alain,Dharréville   Pierre,0,1
+Perea   Alain,Kerlogot   Yannick,1,1
+Perea   Alain,Clapot   Mireille,1,1
+Perea   Alain,Vignon   Corinne,1,1
+Perea   Alain,Labaronne   Daniel,1,1
+Perea   Alain,Dubré-Chirat   Nicole,1,1
+Perea   Alain,Fiat   Caroline,0,1
+Perea   Alain,Zannier   Hélène,1,1
+Perea   Alain,Le Peih   Nicole,1,1
+Perea   Alain,Belhaddad   Belkhir,1,1
+Perea   Alain,Bruneel   Alain,0,1
+Perea   Alain,Bois   Pascal,1,1
+Perea   Alain,Mbaye   Jean François,1,1
+Perea   Alain,Panot   Mathilde,0,1
+Perea   Alain,Genetet   Anne,1,1
+Perea   Alain,Brotherson   Moetai,0,1
+Perea   Alain,Charrière   Sylvie,1,1
+Perea   Alain,Peu   Stéphane,0,1
+Perea   Alain,Faucillon   Elsa,0,1
+Perea   Alain,Pouzyreff   Natalia,1,1
+Perea   Alain,Provendier   Florence,1,1
+Perea   Alain,Rudigoz   Thomas,1,1
+Perea   Alain,Rebeyrotte   Rémy,1,1
+Dharréville   Pierre,Kerlogot   Yannick,0,1
+Dharréville   Pierre,Clapot   Mireille,0,1
+Dharréville   Pierre,Vignon   Corinne,0,1
+Dharréville   Pierre,Labaronne   Daniel,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Fiat   Caroline,1,1
+Dharréville   Pierre,Zannier   Hélène,0,1
+Dharréville   Pierre,Le Peih   Nicole,0,1
+Dharréville   Pierre,Belhaddad   Belkhir,0,1
+Dharréville   Pierre,Bruneel   Alain,1,1
+Dharréville   Pierre,Bois   Pascal,0,1
+Dharréville   Pierre,Mbaye   Jean François,0,1
+Dharréville   Pierre,Panot   Mathilde,1,1
+Dharréville   Pierre,Genetet   Anne,0,1
+Dharréville   Pierre,Brotherson   Moetai,1,1
+Dharréville   Pierre,Charrière   Sylvie,0,1
+Dharréville   Pierre,Peu   Stéphane,1,1
+Dharréville   Pierre,Faucillon   Elsa,1,1
+Dharréville   Pierre,Pouzyreff   Natalia,0,1
+Dharréville   Pierre,Provendier   Florence,0,1
+Dharréville   Pierre,Rudigoz   Thomas,0,1
+Dharréville   Pierre,Rebeyrotte   Rémy,0,1
+Kerlogot   Yannick,Clapot   Mireille,1,1
+Kerlogot   Yannick,Vignon   Corinne,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Dubré-Chirat   Nicole,1,1
+Kerlogot   Yannick,Fiat   Caroline,0,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Le Peih   Nicole,1,1
+Kerlogot   Yannick,Belhaddad   Belkhir,1,1
+Kerlogot   Yannick,Bruneel   Alain,0,1
+Kerlogot   Yannick,Bois   Pascal,1,1
+Kerlogot   Yannick,Mbaye   Jean François,1,1
+Kerlogot   Yannick,Panot   Mathilde,0,1
+Kerlogot   Yannick,Genetet   Anne,1,1
+Kerlogot   Yannick,Brotherson   Moetai,0,1
+Kerlogot   Yannick,Charrière   Sylvie,1,1
+Kerlogot   Yannick,Peu   Stéphane,0,1
+Kerlogot   Yannick,Faucillon   Elsa,0,1
+Kerlogot   Yannick,Pouzyreff   Natalia,1,1
+Kerlogot   Yannick,Provendier   Florence,1,1
+Kerlogot   Yannick,Rudigoz   Thomas,1,1
+Kerlogot   Yannick,Rebeyrotte   Rémy,1,1
+Clapot   Mireille,Vignon   Corinne,1,1
+Clapot   Mireille,Labaronne   Daniel,1,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Fiat   Caroline,0,1
+Clapot   Mireille,Zannier   Hélène,1,1
+Clapot   Mireille,Le Peih   Nicole,1,1
+Clapot   Mireille,Belhaddad   Belkhir,1,1
+Clapot   Mireille,Bruneel   Alain,0,1
+Clapot   Mireille,Bois   Pascal,1,1
+Clapot   Mireille,Mbaye   Jean François,1,1
+Clapot   Mireille,Panot   Mathilde,0,1
+Clapot   Mireille,Genetet   Anne,1,1
+Clapot   Mireille,Brotherson   Moetai,0,1
+Clapot   Mireille,Charrière   Sylvie,1,1
+Clapot   Mireille,Peu   Stéphane,0,1
+Clapot   Mireille,Faucillon   Elsa,0,1
+Clapot   Mireille,Pouzyreff   Natalia,1,1
+Clapot   Mireille,Provendier   Florence,1,1
+Clapot   Mireille,Rudigoz   Thomas,1,1
+Clapot   Mireille,Rebeyrotte   Rémy,1,1
+Vignon   Corinne,Labaronne   Daniel,1,1
+Vignon   Corinne,Dubré-Chirat   Nicole,1,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Zannier   Hélène,1,1
+Vignon   Corinne,Le Peih   Nicole,1,1
+Vignon   Corinne,Belhaddad   Belkhir,1,1
+Vignon   Corinne,Bruneel   Alain,0,1
+Vignon   Corinne,Bois   Pascal,1,1
+Vignon   Corinne,Mbaye   Jean François,1,1
+Vignon   Corinne,Panot   Mathilde,0,1
+Vignon   Corinne,Genetet   Anne,1,1
+Vignon   Corinne,Brotherson   Moetai,0,1
+Vignon   Corinne,Charrière   Sylvie,1,1
+Vignon   Corinne,Peu   Stéphane,0,1
+Vignon   Corinne,Faucillon   Elsa,0,1
+Vignon   Corinne,Pouzyreff   Natalia,1,1
+Vignon   Corinne,Provendier   Florence,1,1
+Vignon   Corinne,Rudigoz   Thomas,1,1
+Vignon   Corinne,Rebeyrotte   Rémy,1,1
+Labaronne   Daniel,Dubré-Chirat   Nicole,1,1
+Labaronne   Daniel,Fiat   Caroline,0,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Belhaddad   Belkhir,1,1
+Labaronne   Daniel,Bruneel   Alain,0,1
+Labaronne   Daniel,Bois   Pascal,1,1
+Labaronne   Daniel,Mbaye   Jean François,1,1
+Labaronne   Daniel,Panot   Mathilde,0,1
+Labaronne   Daniel,Genetet   Anne,1,1
+Labaronne   Daniel,Brotherson   Moetai,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Peu   Stéphane,0,1
+Labaronne   Daniel,Faucillon   Elsa,0,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,Provendier   Florence,1,1
+Labaronne   Daniel,Rudigoz   Thomas,1,1
+Labaronne   Daniel,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Fiat   Caroline,0,1
+Dubré-Chirat   Nicole,Zannier   Hélène,1,1
+Dubré-Chirat   Nicole,Le Peih   Nicole,1,1
+Dubré-Chirat   Nicole,Belhaddad   Belkhir,1,1
+Dubré-Chirat   Nicole,Bruneel   Alain,0,1
+Dubré-Chirat   Nicole,Bois   Pascal,1,1
+Dubré-Chirat   Nicole,Mbaye   Jean François,1,1
+Dubré-Chirat   Nicole,Panot   Mathilde,0,1
+Dubré-Chirat   Nicole,Genetet   Anne,1,1
+Dubré-Chirat   Nicole,Brotherson   Moetai,0,1
+Dubré-Chirat   Nicole,Charrière   Sylvie,1,1
+Dubré-Chirat   Nicole,Peu   Stéphane,0,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,0,1
+Dubré-Chirat   Nicole,Pouzyreff   Natalia,1,1
+Dubré-Chirat   Nicole,Provendier   Florence,1,1
+Dubré-Chirat   Nicole,Rudigoz   Thomas,1,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Fiat   Caroline,Zannier   Hélène,0,1
+Fiat   Caroline,Le Peih   Nicole,0,1
+Fiat   Caroline,Belhaddad   Belkhir,0,1
+Fiat   Caroline,Bruneel   Alain,1,1
+Fiat   Caroline,Bois   Pascal,0,1
+Fiat   Caroline,Mbaye   Jean François,0,1
+Fiat   Caroline,Panot   Mathilde,1,1
+Fiat   Caroline,Genetet   Anne,0,1
+Fiat   Caroline,Brotherson   Moetai,1,1
+Fiat   Caroline,Charrière   Sylvie,0,1
+Fiat   Caroline,Peu   Stéphane,1,1
+Fiat   Caroline,Faucillon   Elsa,1,1
+Fiat   Caroline,Pouzyreff   Natalia,0,1
+Fiat   Caroline,Provendier   Florence,0,1
+Fiat   Caroline,Rudigoz   Thomas,0,1
+Fiat   Caroline,Rebeyrotte   Rémy,0,1
+Zannier   Hélène,Le Peih   Nicole,1,1
+Zannier   Hélène,Belhaddad   Belkhir,1,1
+Zannier   Hélène,Bruneel   Alain,0,1
+Zannier   Hélène,Bois   Pascal,1,1
+Zannier   Hélène,Mbaye   Jean François,1,1
+Zannier   Hélène,Panot   Mathilde,0,1
+Zannier   Hélène,Genetet   Anne,1,1
+Zannier   Hélène,Brotherson   Moetai,0,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Peu   Stéphane,0,1
+Zannier   Hélène,Faucillon   Elsa,0,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,Provendier   Florence,1,1
+Zannier   Hélène,Rudigoz   Thomas,1,1
+Zannier   Hélène,Rebeyrotte   Rémy,1,1
+Le Peih   Nicole,Belhaddad   Belkhir,1,1
+Le Peih   Nicole,Bruneel   Alain,0,1
+Le Peih   Nicole,Bois   Pascal,1,1
+Le Peih   Nicole,Mbaye   Jean François,1,1
+Le Peih   Nicole,Panot   Mathilde,0,1
+Le Peih   Nicole,Genetet   Anne,1,1
+Le Peih   Nicole,Brotherson   Moetai,0,1
+Le Peih   Nicole,Charrière   Sylvie,1,1
+Le Peih   Nicole,Peu   Stéphane,0,1
+Le Peih   Nicole,Faucillon   Elsa,0,1
+Le Peih   Nicole,Pouzyreff   Natalia,1,1
+Le Peih   Nicole,Provendier   Florence,1,1
+Le Peih   Nicole,Rudigoz   Thomas,1,1
+Le Peih   Nicole,Rebeyrotte   Rémy,1,1
+Belhaddad   Belkhir,Bruneel   Alain,0,1
+Belhaddad   Belkhir,Bois   Pascal,1,1
+Belhaddad   Belkhir,Mbaye   Jean François,1,1
+Belhaddad   Belkhir,Panot   Mathilde,0,1
+Belhaddad   Belkhir,Genetet   Anne,1,1
+Belhaddad   Belkhir,Brotherson   Moetai,0,1
+Belhaddad   Belkhir,Charrière   Sylvie,1,1
+Belhaddad   Belkhir,Peu   Stéphane,0,1
+Belhaddad   Belkhir,Faucillon   Elsa,0,1
+Belhaddad   Belkhir,Pouzyreff   Natalia,1,1
+Belhaddad   Belkhir,Provendier   Florence,1,1
+Belhaddad   Belkhir,Rudigoz   Thomas,1,1
+Belhaddad   Belkhir,Rebeyrotte   Rémy,1,1
+Bruneel   Alain,Bois   Pascal,0,1
+Bruneel   Alain,Mbaye   Jean François,0,1
+Bruneel   Alain,Panot   Mathilde,1,1
+Bruneel   Alain,Genetet   Anne,0,1
+Bruneel   Alain,Brotherson   Moetai,1,1
+Bruneel   Alain,Charrière   Sylvie,0,1
+Bruneel   Alain,Peu   Stéphane,1,1
+Bruneel   Alain,Faucillon   Elsa,1,1
+Bruneel   Alain,Pouzyreff   Natalia,0,1
+Bruneel   Alain,Provendier   Florence,0,1
+Bruneel   Alain,Rudigoz   Thomas,0,1
+Bruneel   Alain,Rebeyrotte   Rémy,0,1
+Bois   Pascal,Mbaye   Jean François,1,1
+Bois   Pascal,Panot   Mathilde,0,1
+Bois   Pascal,Genetet   Anne,1,1
+Bois   Pascal,Brotherson   Moetai,0,1
+Bois   Pascal,Charrière   Sylvie,1,1
+Bois   Pascal,Peu   Stéphane,0,1
+Bois   Pascal,Faucillon   Elsa,0,1
+Bois   Pascal,Pouzyreff   Natalia,1,1
+Bois   Pascal,Provendier   Florence,1,1
+Bois   Pascal,Rudigoz   Thomas,1,1
+Bois   Pascal,Rebeyrotte   Rémy,1,1
+Mbaye   Jean François,Panot   Mathilde,0,1
+Mbaye   Jean François,Genetet   Anne,1,1
+Mbaye   Jean François,Brotherson   Moetai,0,1
+Mbaye   Jean François,Charrière   Sylvie,1,1
+Mbaye   Jean François,Peu   Stéphane,0,1
+Mbaye   Jean François,Faucillon   Elsa,0,1
+Mbaye   Jean François,Pouzyreff   Natalia,1,1
+Mbaye   Jean François,Provendier   Florence,1,1
+Mbaye   Jean François,Rudigoz   Thomas,1,1
+Mbaye   Jean François,Rebeyrotte   Rémy,1,1
+Panot   Mathilde,Genetet   Anne,0,1
+Panot   Mathilde,Brotherson   Moetai,1,1
+Panot   Mathilde,Charrière   Sylvie,0,1
+Panot   Mathilde,Peu   Stéphane,1,1
+Panot   Mathilde,Faucillon   Elsa,1,1
+Panot   Mathilde,Pouzyreff   Natalia,0,1
+Panot   Mathilde,Provendier   Florence,0,1
+Panot   Mathilde,Rudigoz   Thomas,0,1
+Panot   Mathilde,Rebeyrotte   Rémy,0,1
+Genetet   Anne,Brotherson   Moetai,0,1
+Genetet   Anne,Charrière   Sylvie,1,1
+Genetet   Anne,Peu   Stéphane,0,1
+Genetet   Anne,Faucillon   Elsa,0,1
+Genetet   Anne,Pouzyreff   Natalia,1,1
+Genetet   Anne,Provendier   Florence,1,1
+Genetet   Anne,Rudigoz   Thomas,1,1
+Genetet   Anne,Rebeyrotte   Rémy,1,1
+Brotherson   Moetai,Charrière   Sylvie,0,1
+Brotherson   Moetai,Peu   Stéphane,1,1
+Brotherson   Moetai,Faucillon   Elsa,1,1
+Brotherson   Moetai,Pouzyreff   Natalia,0,1
+Brotherson   Moetai,Provendier   Florence,0,1
+Brotherson   Moetai,Rudigoz   Thomas,0,1
+Brotherson   Moetai,Rebeyrotte   Rémy,0,1
+Charrière   Sylvie,Peu   Stéphane,0,1
+Charrière   Sylvie,Faucillon   Elsa,0,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,Provendier   Florence,1,1
+Charrière   Sylvie,Rudigoz   Thomas,1,1
+Charrière   Sylvie,Rebeyrotte   Rémy,1,1
+Peu   Stéphane,Faucillon   Elsa,1,1
+Peu   Stéphane,Pouzyreff   Natalia,0,1
+Peu   Stéphane,Provendier   Florence,0,1
+Peu   Stéphane,Rudigoz   Thomas,0,1
+Peu   Stéphane,Rebeyrotte   Rémy,0,1
+Faucillon   Elsa,Pouzyreff   Natalia,0,1
+Faucillon   Elsa,Provendier   Florence,0,1
+Faucillon   Elsa,Rudigoz   Thomas,0,1
+Faucillon   Elsa,Rebeyrotte   Rémy,0,1
+Pouzyreff   Natalia,Provendier   Florence,1,1
+Pouzyreff   Natalia,Rudigoz   Thomas,1,1
+Pouzyreff   Natalia,Rebeyrotte   Rémy,1,1
+Provendier   Florence,Rudigoz   Thomas,1,1
+Provendier   Florence,Rebeyrotte   Rémy,1,1
+Rudigoz   Thomas,Rebeyrotte   Rémy,1,1

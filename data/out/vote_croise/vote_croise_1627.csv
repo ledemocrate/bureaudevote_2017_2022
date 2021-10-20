@@ -1,0 +1,1712 @@
+from,to,vote_commun,loi_commun
+Habib   David,Pont   Jean-Pierre,0,1
+Habib   David,Gosselin   Philippe,1,1
+Habib   David,Favennec-Bécot   Yannick,1,1
+Habib   David,Firmin Le Bodo   Agnès,1,1
+Habib   David,Breton   Xavier,1,1
+Habib   David,Pinel   Sylvia,1,1
+Habib   David,Daniel   Yves,0,1
+Habib   David,Potier   Dominique,1,1
+Habib   David,Molac   Paul,1,1
+Habib   David,Pires Beaune   Christine,1,1
+Habib   David,Dubié   Jeanine,1,1
+Habib   David,Blein   Yves,0,1
+Habib   David,Untermaier   Cécile,1,1
+Habib   David,Aubert   Julien,1,1
+Habib   David,Nilor   Jean-Philippe,1,1
+Habib   David,Bazin   Thibault,1,1
+Habib   David,Christophe   Paul,1,1
+Habib   David,Claireaux   Stéphane,0,1
+Habib   David,Dive   Julien,1,1
+Habib   David,Louis   Alexandra,0,1
+Habib   David,Zulesi   Jean-Marc,0,1
+Habib   David,Michel-Brassart   Monica,0,1
+Habib   David,Castellani   Michel,1,1
+Habib   David,Clapot   Mireille,0,1
+Habib   David,Anthoine   Emmanuelle,1,1
+Habib   David,Le Feur   Sandrine,0,1
+Habib   David,Balanant   Erwan,0,1
+Habib   David,Poulliat   Éric,0,1
+Habib   David,Mirallès   Patricia,0,1
+Habib   David,Colas-Roy   Jean-Charles,0,1
+Habib   David,Limon   Monique,0,1
+Habib   David,Mis   Jean-Michel,0,1
+Habib   David,Dubré-Chirat   Nicole,0,1
+Habib   David,Krimi   Sonia,0,1
+Habib   David,Zannier   Hélène,0,1
+Habib   David,Perrot   Patrice,0,1
+Habib   David,Bernalicis   Ugo,1,1
+Habib   David,Potterie   Benoit,0,1
+Habib   David,Minot   Maxime,1,1
+Habib   David,Nury   Jérôme,1,1
+Habib   David,Waserman   Sylvain,0,1
+Habib   David,Lazaar   Fiona,0,1
+Habib   David,Da Silva   Dominique,0,1
+Habib   David,Schellenberger   Raphaël,1,1
+Habib   David,Le Gendre   Gilles,0,1
+Habib   David,Naegelen   Christophe,1,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Avia   Laetitia,0,1
+Habib   David,Lemoine   Patricia,1,1
+Habib   David,Lebec   Marie,0,1
+Habib   David,Morenas   Adrien,0,1
+Habib   David,Braun-Pivet   Yaël,0,1
+Habib   David,Obono   Danièle,1,1
+Habib   David,Latombe   Philippe,1,1
+Habib   David,Rudigoz   Thomas,0,1
+Habib   David,Thiébaut   Vincent,0,1
+Habib   David,Ali   Ramlati,0,1
+Habib   David,Savignat   Antoine,1,1
+Pont   Jean-Pierre,Gosselin   Philippe,0,1
+Pont   Jean-Pierre,Favennec-Bécot   Yannick,0,1
+Pont   Jean-Pierre,Firmin Le Bodo   Agnès,0,1
+Pont   Jean-Pierre,Breton   Xavier,0,1
+Pont   Jean-Pierre,Pinel   Sylvia,0,1
+Pont   Jean-Pierre,Daniel   Yves,1,1
+Pont   Jean-Pierre,Potier   Dominique,0,1
+Pont   Jean-Pierre,Molac   Paul,0,1
+Pont   Jean-Pierre,Pires Beaune   Christine,0,1
+Pont   Jean-Pierre,Dubié   Jeanine,0,1
+Pont   Jean-Pierre,Blein   Yves,1,1
+Pont   Jean-Pierre,Untermaier   Cécile,0,1
+Pont   Jean-Pierre,Aubert   Julien,0,1
+Pont   Jean-Pierre,Nilor   Jean-Philippe,0,1
+Pont   Jean-Pierre,Bazin   Thibault,0,1
+Pont   Jean-Pierre,Christophe   Paul,0,1
+Pont   Jean-Pierre,Claireaux   Stéphane,1,1
+Pont   Jean-Pierre,Dive   Julien,0,1
+Pont   Jean-Pierre,Louis   Alexandra,1,1
+Pont   Jean-Pierre,Zulesi   Jean-Marc,1,1
+Pont   Jean-Pierre,Michel-Brassart   Monica,1,1
+Pont   Jean-Pierre,Castellani   Michel,0,1
+Pont   Jean-Pierre,Clapot   Mireille,1,1
+Pont   Jean-Pierre,Anthoine   Emmanuelle,0,1
+Pont   Jean-Pierre,Le Feur   Sandrine,1,1
+Pont   Jean-Pierre,Balanant   Erwan,1,1
+Pont   Jean-Pierre,Poulliat   Éric,1,1
+Pont   Jean-Pierre,Mirallès   Patricia,1,1
+Pont   Jean-Pierre,Colas-Roy   Jean-Charles,1,1
+Pont   Jean-Pierre,Limon   Monique,1,1
+Pont   Jean-Pierre,Mis   Jean-Michel,1,1
+Pont   Jean-Pierre,Dubré-Chirat   Nicole,1,1
+Pont   Jean-Pierre,Krimi   Sonia,1,1
+Pont   Jean-Pierre,Zannier   Hélène,1,1
+Pont   Jean-Pierre,Perrot   Patrice,1,1
+Pont   Jean-Pierre,Bernalicis   Ugo,0,1
+Pont   Jean-Pierre,Potterie   Benoit,1,1
+Pont   Jean-Pierre,Minot   Maxime,0,1
+Pont   Jean-Pierre,Nury   Jérôme,0,1
+Pont   Jean-Pierre,Waserman   Sylvain,1,1
+Pont   Jean-Pierre,Lazaar   Fiona,1,1
+Pont   Jean-Pierre,Da Silva   Dominique,1,1
+Pont   Jean-Pierre,Schellenberger   Raphaël,0,1
+Pont   Jean-Pierre,Le Gendre   Gilles,1,1
+Pont   Jean-Pierre,Naegelen   Christophe,0,1
+Pont   Jean-Pierre,Terlier   Jean,1,1
+Pont   Jean-Pierre,Avia   Laetitia,1,1
+Pont   Jean-Pierre,Lemoine   Patricia,0,1
+Pont   Jean-Pierre,Lebec   Marie,1,1
+Pont   Jean-Pierre,Morenas   Adrien,1,1
+Pont   Jean-Pierre,Braun-Pivet   Yaël,1,1
+Pont   Jean-Pierre,Obono   Danièle,0,1
+Pont   Jean-Pierre,Latombe   Philippe,0,1
+Pont   Jean-Pierre,Rudigoz   Thomas,1,1
+Pont   Jean-Pierre,Thiébaut   Vincent,1,1
+Pont   Jean-Pierre,Ali   Ramlati,1,1
+Pont   Jean-Pierre,Savignat   Antoine,0,1
+Gosselin   Philippe,Favennec-Bécot   Yannick,1,1
+Gosselin   Philippe,Firmin Le Bodo   Agnès,1,1
+Gosselin   Philippe,Breton   Xavier,1,1
+Gosselin   Philippe,Pinel   Sylvia,1,1
+Gosselin   Philippe,Daniel   Yves,0,1
+Gosselin   Philippe,Potier   Dominique,1,1
+Gosselin   Philippe,Molac   Paul,1,1
+Gosselin   Philippe,Pires Beaune   Christine,1,1
+Gosselin   Philippe,Dubié   Jeanine,1,1
+Gosselin   Philippe,Blein   Yves,0,1
+Gosselin   Philippe,Untermaier   Cécile,1,1
+Gosselin   Philippe,Aubert   Julien,1,1
+Gosselin   Philippe,Nilor   Jean-Philippe,1,1
+Gosselin   Philippe,Bazin   Thibault,1,1
+Gosselin   Philippe,Christophe   Paul,1,1
+Gosselin   Philippe,Claireaux   Stéphane,0,1
+Gosselin   Philippe,Dive   Julien,1,1
+Gosselin   Philippe,Louis   Alexandra,0,1
+Gosselin   Philippe,Zulesi   Jean-Marc,0,1
+Gosselin   Philippe,Michel-Brassart   Monica,0,1
+Gosselin   Philippe,Castellani   Michel,1,1
+Gosselin   Philippe,Clapot   Mireille,0,1
+Gosselin   Philippe,Anthoine   Emmanuelle,1,1
+Gosselin   Philippe,Le Feur   Sandrine,0,1
+Gosselin   Philippe,Balanant   Erwan,0,1
+Gosselin   Philippe,Poulliat   Éric,0,1
+Gosselin   Philippe,Mirallès   Patricia,0,1
+Gosselin   Philippe,Colas-Roy   Jean-Charles,0,1
+Gosselin   Philippe,Limon   Monique,0,1
+Gosselin   Philippe,Mis   Jean-Michel,0,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,0,1
+Gosselin   Philippe,Krimi   Sonia,0,1
+Gosselin   Philippe,Zannier   Hélène,0,1
+Gosselin   Philippe,Perrot   Patrice,0,1
+Gosselin   Philippe,Bernalicis   Ugo,1,1
+Gosselin   Philippe,Potterie   Benoit,0,1
+Gosselin   Philippe,Minot   Maxime,1,1
+Gosselin   Philippe,Nury   Jérôme,1,1
+Gosselin   Philippe,Waserman   Sylvain,0,1
+Gosselin   Philippe,Lazaar   Fiona,0,1
+Gosselin   Philippe,Da Silva   Dominique,0,1
+Gosselin   Philippe,Schellenberger   Raphaël,1,1
+Gosselin   Philippe,Le Gendre   Gilles,0,1
+Gosselin   Philippe,Naegelen   Christophe,1,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Avia   Laetitia,0,1
+Gosselin   Philippe,Lemoine   Patricia,1,1
+Gosselin   Philippe,Lebec   Marie,0,1
+Gosselin   Philippe,Morenas   Adrien,0,1
+Gosselin   Philippe,Braun-Pivet   Yaël,0,1
+Gosselin   Philippe,Obono   Danièle,1,1
+Gosselin   Philippe,Latombe   Philippe,1,1
+Gosselin   Philippe,Rudigoz   Thomas,0,1
+Gosselin   Philippe,Thiébaut   Vincent,0,1
+Gosselin   Philippe,Ali   Ramlati,0,1
+Gosselin   Philippe,Savignat   Antoine,1,1
+Favennec-Bécot   Yannick,Firmin Le Bodo   Agnès,1,1
+Favennec-Bécot   Yannick,Breton   Xavier,1,1
+Favennec-Bécot   Yannick,Pinel   Sylvia,1,1
+Favennec-Bécot   Yannick,Daniel   Yves,0,1
+Favennec-Bécot   Yannick,Potier   Dominique,1,1
+Favennec-Bécot   Yannick,Molac   Paul,1,1
+Favennec-Bécot   Yannick,Pires Beaune   Christine,1,1
+Favennec-Bécot   Yannick,Dubié   Jeanine,1,1
+Favennec-Bécot   Yannick,Blein   Yves,0,1
+Favennec-Bécot   Yannick,Untermaier   Cécile,1,1
+Favennec-Bécot   Yannick,Aubert   Julien,1,1
+Favennec-Bécot   Yannick,Nilor   Jean-Philippe,1,1
+Favennec-Bécot   Yannick,Bazin   Thibault,1,1
+Favennec-Bécot   Yannick,Christophe   Paul,1,1
+Favennec-Bécot   Yannick,Claireaux   Stéphane,0,1
+Favennec-Bécot   Yannick,Dive   Julien,1,1
+Favennec-Bécot   Yannick,Louis   Alexandra,0,1
+Favennec-Bécot   Yannick,Zulesi   Jean-Marc,0,1
+Favennec-Bécot   Yannick,Michel-Brassart   Monica,0,1
+Favennec-Bécot   Yannick,Castellani   Michel,1,1
+Favennec-Bécot   Yannick,Clapot   Mireille,0,1
+Favennec-Bécot   Yannick,Anthoine   Emmanuelle,1,1
+Favennec-Bécot   Yannick,Le Feur   Sandrine,0,1
+Favennec-Bécot   Yannick,Balanant   Erwan,0,1
+Favennec-Bécot   Yannick,Poulliat   Éric,0,1
+Favennec-Bécot   Yannick,Mirallès   Patricia,0,1
+Favennec-Bécot   Yannick,Colas-Roy   Jean-Charles,0,1
+Favennec-Bécot   Yannick,Limon   Monique,0,1
+Favennec-Bécot   Yannick,Mis   Jean-Michel,0,1
+Favennec-Bécot   Yannick,Dubré-Chirat   Nicole,0,1
+Favennec-Bécot   Yannick,Krimi   Sonia,0,1
+Favennec-Bécot   Yannick,Zannier   Hélène,0,1
+Favennec-Bécot   Yannick,Perrot   Patrice,0,1
+Favennec-Bécot   Yannick,Bernalicis   Ugo,1,1
+Favennec-Bécot   Yannick,Potterie   Benoit,0,1
+Favennec-Bécot   Yannick,Minot   Maxime,1,1
+Favennec-Bécot   Yannick,Nury   Jérôme,1,1
+Favennec-Bécot   Yannick,Waserman   Sylvain,0,1
+Favennec-Bécot   Yannick,Lazaar   Fiona,0,1
+Favennec-Bécot   Yannick,Da Silva   Dominique,0,1
+Favennec-Bécot   Yannick,Schellenberger   Raphaël,1,1
+Favennec-Bécot   Yannick,Le Gendre   Gilles,0,1
+Favennec-Bécot   Yannick,Naegelen   Christophe,1,1
+Favennec-Bécot   Yannick,Terlier   Jean,0,1
+Favennec-Bécot   Yannick,Avia   Laetitia,0,1
+Favennec-Bécot   Yannick,Lemoine   Patricia,1,1
+Favennec-Bécot   Yannick,Lebec   Marie,0,1
+Favennec-Bécot   Yannick,Morenas   Adrien,0,1
+Favennec-Bécot   Yannick,Braun-Pivet   Yaël,0,1
+Favennec-Bécot   Yannick,Obono   Danièle,1,1
+Favennec-Bécot   Yannick,Latombe   Philippe,1,1
+Favennec-Bécot   Yannick,Rudigoz   Thomas,0,1
+Favennec-Bécot   Yannick,Thiébaut   Vincent,0,1
+Favennec-Bécot   Yannick,Ali   Ramlati,0,1
+Favennec-Bécot   Yannick,Savignat   Antoine,1,1
+Firmin Le Bodo   Agnès,Breton   Xavier,1,1
+Firmin Le Bodo   Agnès,Pinel   Sylvia,1,1
+Firmin Le Bodo   Agnès,Daniel   Yves,0,1
+Firmin Le Bodo   Agnès,Potier   Dominique,1,1
+Firmin Le Bodo   Agnès,Molac   Paul,1,1
+Firmin Le Bodo   Agnès,Pires Beaune   Christine,1,1
+Firmin Le Bodo   Agnès,Dubié   Jeanine,1,1
+Firmin Le Bodo   Agnès,Blein   Yves,0,1
+Firmin Le Bodo   Agnès,Untermaier   Cécile,1,1
+Firmin Le Bodo   Agnès,Aubert   Julien,1,1
+Firmin Le Bodo   Agnès,Nilor   Jean-Philippe,1,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,1,1
+Firmin Le Bodo   Agnès,Christophe   Paul,1,1
+Firmin Le Bodo   Agnès,Claireaux   Stéphane,0,1
+Firmin Le Bodo   Agnès,Dive   Julien,1,1
+Firmin Le Bodo   Agnès,Louis   Alexandra,0,1
+Firmin Le Bodo   Agnès,Zulesi   Jean-Marc,0,1
+Firmin Le Bodo   Agnès,Michel-Brassart   Monica,0,1
+Firmin Le Bodo   Agnès,Castellani   Michel,1,1
+Firmin Le Bodo   Agnès,Clapot   Mireille,0,1
+Firmin Le Bodo   Agnès,Anthoine   Emmanuelle,1,1
+Firmin Le Bodo   Agnès,Le Feur   Sandrine,0,1
+Firmin Le Bodo   Agnès,Balanant   Erwan,0,1
+Firmin Le Bodo   Agnès,Poulliat   Éric,0,1
+Firmin Le Bodo   Agnès,Mirallès   Patricia,0,1
+Firmin Le Bodo   Agnès,Colas-Roy   Jean-Charles,0,1
+Firmin Le Bodo   Agnès,Limon   Monique,0,1
+Firmin Le Bodo   Agnès,Mis   Jean-Michel,0,1
+Firmin Le Bodo   Agnès,Dubré-Chirat   Nicole,0,1
+Firmin Le Bodo   Agnès,Krimi   Sonia,0,1
+Firmin Le Bodo   Agnès,Zannier   Hélène,0,1
+Firmin Le Bodo   Agnès,Perrot   Patrice,0,1
+Firmin Le Bodo   Agnès,Bernalicis   Ugo,1,1
+Firmin Le Bodo   Agnès,Potterie   Benoit,0,1
+Firmin Le Bodo   Agnès,Minot   Maxime,1,1
+Firmin Le Bodo   Agnès,Nury   Jérôme,1,1
+Firmin Le Bodo   Agnès,Waserman   Sylvain,0,1
+Firmin Le Bodo   Agnès,Lazaar   Fiona,0,1
+Firmin Le Bodo   Agnès,Da Silva   Dominique,0,1
+Firmin Le Bodo   Agnès,Schellenberger   Raphaël,1,1
+Firmin Le Bodo   Agnès,Le Gendre   Gilles,0,1
+Firmin Le Bodo   Agnès,Naegelen   Christophe,1,1
+Firmin Le Bodo   Agnès,Terlier   Jean,0,1
+Firmin Le Bodo   Agnès,Avia   Laetitia,0,1
+Firmin Le Bodo   Agnès,Lemoine   Patricia,1,1
+Firmin Le Bodo   Agnès,Lebec   Marie,0,1
+Firmin Le Bodo   Agnès,Morenas   Adrien,0,1
+Firmin Le Bodo   Agnès,Braun-Pivet   Yaël,0,1
+Firmin Le Bodo   Agnès,Obono   Danièle,1,1
+Firmin Le Bodo   Agnès,Latombe   Philippe,1,1
+Firmin Le Bodo   Agnès,Rudigoz   Thomas,0,1
+Firmin Le Bodo   Agnès,Thiébaut   Vincent,0,1
+Firmin Le Bodo   Agnès,Ali   Ramlati,0,1
+Firmin Le Bodo   Agnès,Savignat   Antoine,1,1
+Breton   Xavier,Pinel   Sylvia,1,1
+Breton   Xavier,Daniel   Yves,0,1
+Breton   Xavier,Potier   Dominique,1,1
+Breton   Xavier,Molac   Paul,1,1
+Breton   Xavier,Pires Beaune   Christine,1,1
+Breton   Xavier,Dubié   Jeanine,1,1
+Breton   Xavier,Blein   Yves,0,1
+Breton   Xavier,Untermaier   Cécile,1,1
+Breton   Xavier,Aubert   Julien,1,1
+Breton   Xavier,Nilor   Jean-Philippe,1,1
+Breton   Xavier,Bazin   Thibault,1,1
+Breton   Xavier,Christophe   Paul,1,1
+Breton   Xavier,Claireaux   Stéphane,0,1
+Breton   Xavier,Dive   Julien,1,1
+Breton   Xavier,Louis   Alexandra,0,1
+Breton   Xavier,Zulesi   Jean-Marc,0,1
+Breton   Xavier,Michel-Brassart   Monica,0,1
+Breton   Xavier,Castellani   Michel,1,1
+Breton   Xavier,Clapot   Mireille,0,1
+Breton   Xavier,Anthoine   Emmanuelle,1,1
+Breton   Xavier,Le Feur   Sandrine,0,1
+Breton   Xavier,Balanant   Erwan,0,1
+Breton   Xavier,Poulliat   Éric,0,1
+Breton   Xavier,Mirallès   Patricia,0,1
+Breton   Xavier,Colas-Roy   Jean-Charles,0,1
+Breton   Xavier,Limon   Monique,0,1
+Breton   Xavier,Mis   Jean-Michel,0,1
+Breton   Xavier,Dubré-Chirat   Nicole,0,1
+Breton   Xavier,Krimi   Sonia,0,1
+Breton   Xavier,Zannier   Hélène,0,1
+Breton   Xavier,Perrot   Patrice,0,1
+Breton   Xavier,Bernalicis   Ugo,1,1
+Breton   Xavier,Potterie   Benoit,0,1
+Breton   Xavier,Minot   Maxime,1,1
+Breton   Xavier,Nury   Jérôme,1,1
+Breton   Xavier,Waserman   Sylvain,0,1
+Breton   Xavier,Lazaar   Fiona,0,1
+Breton   Xavier,Da Silva   Dominique,0,1
+Breton   Xavier,Schellenberger   Raphaël,1,1
+Breton   Xavier,Le Gendre   Gilles,0,1
+Breton   Xavier,Naegelen   Christophe,1,1
+Breton   Xavier,Terlier   Jean,0,1
+Breton   Xavier,Avia   Laetitia,0,1
+Breton   Xavier,Lemoine   Patricia,1,1
+Breton   Xavier,Lebec   Marie,0,1
+Breton   Xavier,Morenas   Adrien,0,1
+Breton   Xavier,Braun-Pivet   Yaël,0,1
+Breton   Xavier,Obono   Danièle,1,1
+Breton   Xavier,Latombe   Philippe,1,1
+Breton   Xavier,Rudigoz   Thomas,0,1
+Breton   Xavier,Thiébaut   Vincent,0,1
+Breton   Xavier,Ali   Ramlati,0,1
+Breton   Xavier,Savignat   Antoine,1,1
+Pinel   Sylvia,Daniel   Yves,0,1
+Pinel   Sylvia,Potier   Dominique,1,1
+Pinel   Sylvia,Molac   Paul,1,1
+Pinel   Sylvia,Pires Beaune   Christine,1,1
+Pinel   Sylvia,Dubié   Jeanine,1,1
+Pinel   Sylvia,Blein   Yves,0,1
+Pinel   Sylvia,Untermaier   Cécile,1,1
+Pinel   Sylvia,Aubert   Julien,1,1
+Pinel   Sylvia,Nilor   Jean-Philippe,1,1
+Pinel   Sylvia,Bazin   Thibault,1,1
+Pinel   Sylvia,Christophe   Paul,1,1
+Pinel   Sylvia,Claireaux   Stéphane,0,1
+Pinel   Sylvia,Dive   Julien,1,1
+Pinel   Sylvia,Louis   Alexandra,0,1
+Pinel   Sylvia,Zulesi   Jean-Marc,0,1
+Pinel   Sylvia,Michel-Brassart   Monica,0,1
+Pinel   Sylvia,Castellani   Michel,1,1
+Pinel   Sylvia,Clapot   Mireille,0,1
+Pinel   Sylvia,Anthoine   Emmanuelle,1,1
+Pinel   Sylvia,Le Feur   Sandrine,0,1
+Pinel   Sylvia,Balanant   Erwan,0,1
+Pinel   Sylvia,Poulliat   Éric,0,1
+Pinel   Sylvia,Mirallès   Patricia,0,1
+Pinel   Sylvia,Colas-Roy   Jean-Charles,0,1
+Pinel   Sylvia,Limon   Monique,0,1
+Pinel   Sylvia,Mis   Jean-Michel,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,0,1
+Pinel   Sylvia,Krimi   Sonia,0,1
+Pinel   Sylvia,Zannier   Hélène,0,1
+Pinel   Sylvia,Perrot   Patrice,0,1
+Pinel   Sylvia,Bernalicis   Ugo,1,1
+Pinel   Sylvia,Potterie   Benoit,0,1
+Pinel   Sylvia,Minot   Maxime,1,1
+Pinel   Sylvia,Nury   Jérôme,1,1
+Pinel   Sylvia,Waserman   Sylvain,0,1
+Pinel   Sylvia,Lazaar   Fiona,0,1
+Pinel   Sylvia,Da Silva   Dominique,0,1
+Pinel   Sylvia,Schellenberger   Raphaël,1,1
+Pinel   Sylvia,Le Gendre   Gilles,0,1
+Pinel   Sylvia,Naegelen   Christophe,1,1
+Pinel   Sylvia,Terlier   Jean,0,1
+Pinel   Sylvia,Avia   Laetitia,0,1
+Pinel   Sylvia,Lemoine   Patricia,1,1
+Pinel   Sylvia,Lebec   Marie,0,1
+Pinel   Sylvia,Morenas   Adrien,0,1
+Pinel   Sylvia,Braun-Pivet   Yaël,0,1
+Pinel   Sylvia,Obono   Danièle,1,1
+Pinel   Sylvia,Latombe   Philippe,1,1
+Pinel   Sylvia,Rudigoz   Thomas,0,1
+Pinel   Sylvia,Thiébaut   Vincent,0,1
+Pinel   Sylvia,Ali   Ramlati,0,1
+Pinel   Sylvia,Savignat   Antoine,1,1
+Daniel   Yves,Potier   Dominique,0,1
+Daniel   Yves,Molac   Paul,0,1
+Daniel   Yves,Pires Beaune   Christine,0,1
+Daniel   Yves,Dubié   Jeanine,0,1
+Daniel   Yves,Blein   Yves,1,1
+Daniel   Yves,Untermaier   Cécile,0,1
+Daniel   Yves,Aubert   Julien,0,1
+Daniel   Yves,Nilor   Jean-Philippe,0,1
+Daniel   Yves,Bazin   Thibault,0,1
+Daniel   Yves,Christophe   Paul,0,1
+Daniel   Yves,Claireaux   Stéphane,1,1
+Daniel   Yves,Dive   Julien,0,1
+Daniel   Yves,Louis   Alexandra,1,1
+Daniel   Yves,Zulesi   Jean-Marc,1,1
+Daniel   Yves,Michel-Brassart   Monica,1,1
+Daniel   Yves,Castellani   Michel,0,1
+Daniel   Yves,Clapot   Mireille,1,1
+Daniel   Yves,Anthoine   Emmanuelle,0,1
+Daniel   Yves,Le Feur   Sandrine,1,1
+Daniel   Yves,Balanant   Erwan,1,1
+Daniel   Yves,Poulliat   Éric,1,1
+Daniel   Yves,Mirallès   Patricia,1,1
+Daniel   Yves,Colas-Roy   Jean-Charles,1,1
+Daniel   Yves,Limon   Monique,1,1
+Daniel   Yves,Mis   Jean-Michel,1,1
+Daniel   Yves,Dubré-Chirat   Nicole,1,1
+Daniel   Yves,Krimi   Sonia,1,1
+Daniel   Yves,Zannier   Hélène,1,1
+Daniel   Yves,Perrot   Patrice,1,1
+Daniel   Yves,Bernalicis   Ugo,0,1
+Daniel   Yves,Potterie   Benoit,1,1
+Daniel   Yves,Minot   Maxime,0,1
+Daniel   Yves,Nury   Jérôme,0,1
+Daniel   Yves,Waserman   Sylvain,1,1
+Daniel   Yves,Lazaar   Fiona,1,1
+Daniel   Yves,Da Silva   Dominique,1,1
+Daniel   Yves,Schellenberger   Raphaël,0,1
+Daniel   Yves,Le Gendre   Gilles,1,1
+Daniel   Yves,Naegelen   Christophe,0,1
+Daniel   Yves,Terlier   Jean,1,1
+Daniel   Yves,Avia   Laetitia,1,1
+Daniel   Yves,Lemoine   Patricia,0,1
+Daniel   Yves,Lebec   Marie,1,1
+Daniel   Yves,Morenas   Adrien,1,1
+Daniel   Yves,Braun-Pivet   Yaël,1,1
+Daniel   Yves,Obono   Danièle,0,1
+Daniel   Yves,Latombe   Philippe,0,1
+Daniel   Yves,Rudigoz   Thomas,1,1
+Daniel   Yves,Thiébaut   Vincent,1,1
+Daniel   Yves,Ali   Ramlati,1,1
+Daniel   Yves,Savignat   Antoine,0,1
+Potier   Dominique,Molac   Paul,1,1
+Potier   Dominique,Pires Beaune   Christine,1,1
+Potier   Dominique,Dubié   Jeanine,1,1
+Potier   Dominique,Blein   Yves,0,1
+Potier   Dominique,Untermaier   Cécile,1,1
+Potier   Dominique,Aubert   Julien,1,1
+Potier   Dominique,Nilor   Jean-Philippe,1,1
+Potier   Dominique,Bazin   Thibault,1,1
+Potier   Dominique,Christophe   Paul,1,1
+Potier   Dominique,Claireaux   Stéphane,0,1
+Potier   Dominique,Dive   Julien,1,1
+Potier   Dominique,Louis   Alexandra,0,1
+Potier   Dominique,Zulesi   Jean-Marc,0,1
+Potier   Dominique,Michel-Brassart   Monica,0,1
+Potier   Dominique,Castellani   Michel,1,1
+Potier   Dominique,Clapot   Mireille,0,1
+Potier   Dominique,Anthoine   Emmanuelle,1,1
+Potier   Dominique,Le Feur   Sandrine,0,1
+Potier   Dominique,Balanant   Erwan,0,1
+Potier   Dominique,Poulliat   Éric,0,1
+Potier   Dominique,Mirallès   Patricia,0,1
+Potier   Dominique,Colas-Roy   Jean-Charles,0,1
+Potier   Dominique,Limon   Monique,0,1
+Potier   Dominique,Mis   Jean-Michel,0,1
+Potier   Dominique,Dubré-Chirat   Nicole,0,1
+Potier   Dominique,Krimi   Sonia,0,1
+Potier   Dominique,Zannier   Hélène,0,1
+Potier   Dominique,Perrot   Patrice,0,1
+Potier   Dominique,Bernalicis   Ugo,1,1
+Potier   Dominique,Potterie   Benoit,0,1
+Potier   Dominique,Minot   Maxime,1,1
+Potier   Dominique,Nury   Jérôme,1,1
+Potier   Dominique,Waserman   Sylvain,0,1
+Potier   Dominique,Lazaar   Fiona,0,1
+Potier   Dominique,Da Silva   Dominique,0,1
+Potier   Dominique,Schellenberger   Raphaël,1,1
+Potier   Dominique,Le Gendre   Gilles,0,1
+Potier   Dominique,Naegelen   Christophe,1,1
+Potier   Dominique,Terlier   Jean,0,1
+Potier   Dominique,Avia   Laetitia,0,1
+Potier   Dominique,Lemoine   Patricia,1,1
+Potier   Dominique,Lebec   Marie,0,1
+Potier   Dominique,Morenas   Adrien,0,1
+Potier   Dominique,Braun-Pivet   Yaël,0,1
+Potier   Dominique,Obono   Danièle,1,1
+Potier   Dominique,Latombe   Philippe,1,1
+Potier   Dominique,Rudigoz   Thomas,0,1
+Potier   Dominique,Thiébaut   Vincent,0,1
+Potier   Dominique,Ali   Ramlati,0,1
+Potier   Dominique,Savignat   Antoine,1,1
+Molac   Paul,Pires Beaune   Christine,1,1
+Molac   Paul,Dubié   Jeanine,1,1
+Molac   Paul,Blein   Yves,0,1
+Molac   Paul,Untermaier   Cécile,1,1
+Molac   Paul,Aubert   Julien,1,1
+Molac   Paul,Nilor   Jean-Philippe,1,1
+Molac   Paul,Bazin   Thibault,1,1
+Molac   Paul,Christophe   Paul,1,1
+Molac   Paul,Claireaux   Stéphane,0,1
+Molac   Paul,Dive   Julien,1,1
+Molac   Paul,Louis   Alexandra,0,1
+Molac   Paul,Zulesi   Jean-Marc,0,1
+Molac   Paul,Michel-Brassart   Monica,0,1
+Molac   Paul,Castellani   Michel,1,1
+Molac   Paul,Clapot   Mireille,0,1
+Molac   Paul,Anthoine   Emmanuelle,1,1
+Molac   Paul,Le Feur   Sandrine,0,1
+Molac   Paul,Balanant   Erwan,0,1
+Molac   Paul,Poulliat   Éric,0,1
+Molac   Paul,Mirallès   Patricia,0,1
+Molac   Paul,Colas-Roy   Jean-Charles,0,1
+Molac   Paul,Limon   Monique,0,1
+Molac   Paul,Mis   Jean-Michel,0,1
+Molac   Paul,Dubré-Chirat   Nicole,0,1
+Molac   Paul,Krimi   Sonia,0,1
+Molac   Paul,Zannier   Hélène,0,1
+Molac   Paul,Perrot   Patrice,0,1
+Molac   Paul,Bernalicis   Ugo,1,1
+Molac   Paul,Potterie   Benoit,0,1
+Molac   Paul,Minot   Maxime,1,1
+Molac   Paul,Nury   Jérôme,1,1
+Molac   Paul,Waserman   Sylvain,0,1
+Molac   Paul,Lazaar   Fiona,0,1
+Molac   Paul,Da Silva   Dominique,0,1
+Molac   Paul,Schellenberger   Raphaël,1,1
+Molac   Paul,Le Gendre   Gilles,0,1
+Molac   Paul,Naegelen   Christophe,1,1
+Molac   Paul,Terlier   Jean,0,1
+Molac   Paul,Avia   Laetitia,0,1
+Molac   Paul,Lemoine   Patricia,1,1
+Molac   Paul,Lebec   Marie,0,1
+Molac   Paul,Morenas   Adrien,0,1
+Molac   Paul,Braun-Pivet   Yaël,0,1
+Molac   Paul,Obono   Danièle,1,1
+Molac   Paul,Latombe   Philippe,1,1
+Molac   Paul,Rudigoz   Thomas,0,1
+Molac   Paul,Thiébaut   Vincent,0,1
+Molac   Paul,Ali   Ramlati,0,1
+Molac   Paul,Savignat   Antoine,1,1
+Pires Beaune   Christine,Dubié   Jeanine,1,1
+Pires Beaune   Christine,Blein   Yves,0,1
+Pires Beaune   Christine,Untermaier   Cécile,1,1
+Pires Beaune   Christine,Aubert   Julien,1,1
+Pires Beaune   Christine,Nilor   Jean-Philippe,1,1
+Pires Beaune   Christine,Bazin   Thibault,1,1
+Pires Beaune   Christine,Christophe   Paul,1,1
+Pires Beaune   Christine,Claireaux   Stéphane,0,1
+Pires Beaune   Christine,Dive   Julien,1,1
+Pires Beaune   Christine,Louis   Alexandra,0,1
+Pires Beaune   Christine,Zulesi   Jean-Marc,0,1
+Pires Beaune   Christine,Michel-Brassart   Monica,0,1
+Pires Beaune   Christine,Castellani   Michel,1,1
+Pires Beaune   Christine,Clapot   Mireille,0,1
+Pires Beaune   Christine,Anthoine   Emmanuelle,1,1
+Pires Beaune   Christine,Le Feur   Sandrine,0,1
+Pires Beaune   Christine,Balanant   Erwan,0,1
+Pires Beaune   Christine,Poulliat   Éric,0,1
+Pires Beaune   Christine,Mirallès   Patricia,0,1
+Pires Beaune   Christine,Colas-Roy   Jean-Charles,0,1
+Pires Beaune   Christine,Limon   Monique,0,1
+Pires Beaune   Christine,Mis   Jean-Michel,0,1
+Pires Beaune   Christine,Dubré-Chirat   Nicole,0,1
+Pires Beaune   Christine,Krimi   Sonia,0,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Perrot   Patrice,0,1
+Pires Beaune   Christine,Bernalicis   Ugo,1,1
+Pires Beaune   Christine,Potterie   Benoit,0,1
+Pires Beaune   Christine,Minot   Maxime,1,1
+Pires Beaune   Christine,Nury   Jérôme,1,1
+Pires Beaune   Christine,Waserman   Sylvain,0,1
+Pires Beaune   Christine,Lazaar   Fiona,0,1
+Pires Beaune   Christine,Da Silva   Dominique,0,1
+Pires Beaune   Christine,Schellenberger   Raphaël,1,1
+Pires Beaune   Christine,Le Gendre   Gilles,0,1
+Pires Beaune   Christine,Naegelen   Christophe,1,1
+Pires Beaune   Christine,Terlier   Jean,0,1
+Pires Beaune   Christine,Avia   Laetitia,0,1
+Pires Beaune   Christine,Lemoine   Patricia,1,1
+Pires Beaune   Christine,Lebec   Marie,0,1
+Pires Beaune   Christine,Morenas   Adrien,0,1
+Pires Beaune   Christine,Braun-Pivet   Yaël,0,1
+Pires Beaune   Christine,Obono   Danièle,1,1
+Pires Beaune   Christine,Latombe   Philippe,1,1
+Pires Beaune   Christine,Rudigoz   Thomas,0,1
+Pires Beaune   Christine,Thiébaut   Vincent,0,1
+Pires Beaune   Christine,Ali   Ramlati,0,1
+Pires Beaune   Christine,Savignat   Antoine,1,1
+Dubié   Jeanine,Blein   Yves,0,1
+Dubié   Jeanine,Untermaier   Cécile,1,1
+Dubié   Jeanine,Aubert   Julien,1,1
+Dubié   Jeanine,Nilor   Jean-Philippe,1,1
+Dubié   Jeanine,Bazin   Thibault,1,1
+Dubié   Jeanine,Christophe   Paul,1,1
+Dubié   Jeanine,Claireaux   Stéphane,0,1
+Dubié   Jeanine,Dive   Julien,1,1
+Dubié   Jeanine,Louis   Alexandra,0,1
+Dubié   Jeanine,Zulesi   Jean-Marc,0,1
+Dubié   Jeanine,Michel-Brassart   Monica,0,1
+Dubié   Jeanine,Castellani   Michel,1,1
+Dubié   Jeanine,Clapot   Mireille,0,1
+Dubié   Jeanine,Anthoine   Emmanuelle,1,1
+Dubié   Jeanine,Le Feur   Sandrine,0,1
+Dubié   Jeanine,Balanant   Erwan,0,1
+Dubié   Jeanine,Poulliat   Éric,0,1
+Dubié   Jeanine,Mirallès   Patricia,0,1
+Dubié   Jeanine,Colas-Roy   Jean-Charles,0,1
+Dubié   Jeanine,Limon   Monique,0,1
+Dubié   Jeanine,Mis   Jean-Michel,0,1
+Dubié   Jeanine,Dubré-Chirat   Nicole,0,1
+Dubié   Jeanine,Krimi   Sonia,0,1
+Dubié   Jeanine,Zannier   Hélène,0,1
+Dubié   Jeanine,Perrot   Patrice,0,1
+Dubié   Jeanine,Bernalicis   Ugo,1,1
+Dubié   Jeanine,Potterie   Benoit,0,1
+Dubié   Jeanine,Minot   Maxime,1,1
+Dubié   Jeanine,Nury   Jérôme,1,1
+Dubié   Jeanine,Waserman   Sylvain,0,1
+Dubié   Jeanine,Lazaar   Fiona,0,1
+Dubié   Jeanine,Da Silva   Dominique,0,1
+Dubié   Jeanine,Schellenberger   Raphaël,1,1
+Dubié   Jeanine,Le Gendre   Gilles,0,1
+Dubié   Jeanine,Naegelen   Christophe,1,1
+Dubié   Jeanine,Terlier   Jean,0,1
+Dubié   Jeanine,Avia   Laetitia,0,1
+Dubié   Jeanine,Lemoine   Patricia,1,1
+Dubié   Jeanine,Lebec   Marie,0,1
+Dubié   Jeanine,Morenas   Adrien,0,1
+Dubié   Jeanine,Braun-Pivet   Yaël,0,1
+Dubié   Jeanine,Obono   Danièle,1,1
+Dubié   Jeanine,Latombe   Philippe,1,1
+Dubié   Jeanine,Rudigoz   Thomas,0,1
+Dubié   Jeanine,Thiébaut   Vincent,0,1
+Dubié   Jeanine,Ali   Ramlati,0,1
+Dubié   Jeanine,Savignat   Antoine,1,1
+Blein   Yves,Untermaier   Cécile,0,1
+Blein   Yves,Aubert   Julien,0,1
+Blein   Yves,Nilor   Jean-Philippe,0,1
+Blein   Yves,Bazin   Thibault,0,1
+Blein   Yves,Christophe   Paul,0,1
+Blein   Yves,Claireaux   Stéphane,1,1
+Blein   Yves,Dive   Julien,0,1
+Blein   Yves,Louis   Alexandra,1,1
+Blein   Yves,Zulesi   Jean-Marc,1,1
+Blein   Yves,Michel-Brassart   Monica,1,1
+Blein   Yves,Castellani   Michel,0,1
+Blein   Yves,Clapot   Mireille,1,1
+Blein   Yves,Anthoine   Emmanuelle,0,1
+Blein   Yves,Le Feur   Sandrine,1,1
+Blein   Yves,Balanant   Erwan,1,1
+Blein   Yves,Poulliat   Éric,1,1
+Blein   Yves,Mirallès   Patricia,1,1
+Blein   Yves,Colas-Roy   Jean-Charles,1,1
+Blein   Yves,Limon   Monique,1,1
+Blein   Yves,Mis   Jean-Michel,1,1
+Blein   Yves,Dubré-Chirat   Nicole,1,1
+Blein   Yves,Krimi   Sonia,1,1
+Blein   Yves,Zannier   Hélène,1,1
+Blein   Yves,Perrot   Patrice,1,1
+Blein   Yves,Bernalicis   Ugo,0,1
+Blein   Yves,Potterie   Benoit,1,1
+Blein   Yves,Minot   Maxime,0,1
+Blein   Yves,Nury   Jérôme,0,1
+Blein   Yves,Waserman   Sylvain,1,1
+Blein   Yves,Lazaar   Fiona,1,1
+Blein   Yves,Da Silva   Dominique,1,1
+Blein   Yves,Schellenberger   Raphaël,0,1
+Blein   Yves,Le Gendre   Gilles,1,1
+Blein   Yves,Naegelen   Christophe,0,1
+Blein   Yves,Terlier   Jean,1,1
+Blein   Yves,Avia   Laetitia,1,1
+Blein   Yves,Lemoine   Patricia,0,1
+Blein   Yves,Lebec   Marie,1,1
+Blein   Yves,Morenas   Adrien,1,1
+Blein   Yves,Braun-Pivet   Yaël,1,1
+Blein   Yves,Obono   Danièle,0,1
+Blein   Yves,Latombe   Philippe,0,1
+Blein   Yves,Rudigoz   Thomas,1,1
+Blein   Yves,Thiébaut   Vincent,1,1
+Blein   Yves,Ali   Ramlati,1,1
+Blein   Yves,Savignat   Antoine,0,1
+Untermaier   Cécile,Aubert   Julien,1,1
+Untermaier   Cécile,Nilor   Jean-Philippe,1,1
+Untermaier   Cécile,Bazin   Thibault,1,1
+Untermaier   Cécile,Christophe   Paul,1,1
+Untermaier   Cécile,Claireaux   Stéphane,0,1
+Untermaier   Cécile,Dive   Julien,1,1
+Untermaier   Cécile,Louis   Alexandra,0,1
+Untermaier   Cécile,Zulesi   Jean-Marc,0,1
+Untermaier   Cécile,Michel-Brassart   Monica,0,1
+Untermaier   Cécile,Castellani   Michel,1,1
+Untermaier   Cécile,Clapot   Mireille,0,1
+Untermaier   Cécile,Anthoine   Emmanuelle,1,1
+Untermaier   Cécile,Le Feur   Sandrine,0,1
+Untermaier   Cécile,Balanant   Erwan,0,1
+Untermaier   Cécile,Poulliat   Éric,0,1
+Untermaier   Cécile,Mirallès   Patricia,0,1
+Untermaier   Cécile,Colas-Roy   Jean-Charles,0,1
+Untermaier   Cécile,Limon   Monique,0,1
+Untermaier   Cécile,Mis   Jean-Michel,0,1
+Untermaier   Cécile,Dubré-Chirat   Nicole,0,1
+Untermaier   Cécile,Krimi   Sonia,0,1
+Untermaier   Cécile,Zannier   Hélène,0,1
+Untermaier   Cécile,Perrot   Patrice,0,1
+Untermaier   Cécile,Bernalicis   Ugo,1,1
+Untermaier   Cécile,Potterie   Benoit,0,1
+Untermaier   Cécile,Minot   Maxime,1,1
+Untermaier   Cécile,Nury   Jérôme,1,1
+Untermaier   Cécile,Waserman   Sylvain,0,1
+Untermaier   Cécile,Lazaar   Fiona,0,1
+Untermaier   Cécile,Da Silva   Dominique,0,1
+Untermaier   Cécile,Schellenberger   Raphaël,1,1
+Untermaier   Cécile,Le Gendre   Gilles,0,1
+Untermaier   Cécile,Naegelen   Christophe,1,1
+Untermaier   Cécile,Terlier   Jean,0,1
+Untermaier   Cécile,Avia   Laetitia,0,1
+Untermaier   Cécile,Lemoine   Patricia,1,1
+Untermaier   Cécile,Lebec   Marie,0,1
+Untermaier   Cécile,Morenas   Adrien,0,1
+Untermaier   Cécile,Braun-Pivet   Yaël,0,1
+Untermaier   Cécile,Obono   Danièle,1,1
+Untermaier   Cécile,Latombe   Philippe,1,1
+Untermaier   Cécile,Rudigoz   Thomas,0,1
+Untermaier   Cécile,Thiébaut   Vincent,0,1
+Untermaier   Cécile,Ali   Ramlati,0,1
+Untermaier   Cécile,Savignat   Antoine,1,1
+Aubert   Julien,Nilor   Jean-Philippe,1,1
+Aubert   Julien,Bazin   Thibault,1,1
+Aubert   Julien,Christophe   Paul,1,1
+Aubert   Julien,Claireaux   Stéphane,0,1
+Aubert   Julien,Dive   Julien,1,1
+Aubert   Julien,Louis   Alexandra,0,1
+Aubert   Julien,Zulesi   Jean-Marc,0,1
+Aubert   Julien,Michel-Brassart   Monica,0,1
+Aubert   Julien,Castellani   Michel,1,1
+Aubert   Julien,Clapot   Mireille,0,1
+Aubert   Julien,Anthoine   Emmanuelle,1,1
+Aubert   Julien,Le Feur   Sandrine,0,1
+Aubert   Julien,Balanant   Erwan,0,1
+Aubert   Julien,Poulliat   Éric,0,1
+Aubert   Julien,Mirallès   Patricia,0,1
+Aubert   Julien,Colas-Roy   Jean-Charles,0,1
+Aubert   Julien,Limon   Monique,0,1
+Aubert   Julien,Mis   Jean-Michel,0,1
+Aubert   Julien,Dubré-Chirat   Nicole,0,1
+Aubert   Julien,Krimi   Sonia,0,1
+Aubert   Julien,Zannier   Hélène,0,1
+Aubert   Julien,Perrot   Patrice,0,1
+Aubert   Julien,Bernalicis   Ugo,1,1
+Aubert   Julien,Potterie   Benoit,0,1
+Aubert   Julien,Minot   Maxime,1,1
+Aubert   Julien,Nury   Jérôme,1,1
+Aubert   Julien,Waserman   Sylvain,0,1
+Aubert   Julien,Lazaar   Fiona,0,1
+Aubert   Julien,Da Silva   Dominique,0,1
+Aubert   Julien,Schellenberger   Raphaël,1,1
+Aubert   Julien,Le Gendre   Gilles,0,1
+Aubert   Julien,Naegelen   Christophe,1,1
+Aubert   Julien,Terlier   Jean,0,1
+Aubert   Julien,Avia   Laetitia,0,1
+Aubert   Julien,Lemoine   Patricia,1,1
+Aubert   Julien,Lebec   Marie,0,1
+Aubert   Julien,Morenas   Adrien,0,1
+Aubert   Julien,Braun-Pivet   Yaël,0,1
+Aubert   Julien,Obono   Danièle,1,1
+Aubert   Julien,Latombe   Philippe,1,1
+Aubert   Julien,Rudigoz   Thomas,0,1
+Aubert   Julien,Thiébaut   Vincent,0,1
+Aubert   Julien,Ali   Ramlati,0,1
+Aubert   Julien,Savignat   Antoine,1,1
+Nilor   Jean-Philippe,Bazin   Thibault,1,1
+Nilor   Jean-Philippe,Christophe   Paul,1,1
+Nilor   Jean-Philippe,Claireaux   Stéphane,0,1
+Nilor   Jean-Philippe,Dive   Julien,1,1
+Nilor   Jean-Philippe,Louis   Alexandra,0,1
+Nilor   Jean-Philippe,Zulesi   Jean-Marc,0,1
+Nilor   Jean-Philippe,Michel-Brassart   Monica,0,1
+Nilor   Jean-Philippe,Castellani   Michel,1,1
+Nilor   Jean-Philippe,Clapot   Mireille,0,1
+Nilor   Jean-Philippe,Anthoine   Emmanuelle,1,1
+Nilor   Jean-Philippe,Le Feur   Sandrine,0,1
+Nilor   Jean-Philippe,Balanant   Erwan,0,1
+Nilor   Jean-Philippe,Poulliat   Éric,0,1
+Nilor   Jean-Philippe,Mirallès   Patricia,0,1
+Nilor   Jean-Philippe,Colas-Roy   Jean-Charles,0,1
+Nilor   Jean-Philippe,Limon   Monique,0,1
+Nilor   Jean-Philippe,Mis   Jean-Michel,0,1
+Nilor   Jean-Philippe,Dubré-Chirat   Nicole,0,1
+Nilor   Jean-Philippe,Krimi   Sonia,0,1
+Nilor   Jean-Philippe,Zannier   Hélène,0,1
+Nilor   Jean-Philippe,Perrot   Patrice,0,1
+Nilor   Jean-Philippe,Bernalicis   Ugo,1,1
+Nilor   Jean-Philippe,Potterie   Benoit,0,1
+Nilor   Jean-Philippe,Minot   Maxime,1,1
+Nilor   Jean-Philippe,Nury   Jérôme,1,1
+Nilor   Jean-Philippe,Waserman   Sylvain,0,1
+Nilor   Jean-Philippe,Lazaar   Fiona,0,1
+Nilor   Jean-Philippe,Da Silva   Dominique,0,1
+Nilor   Jean-Philippe,Schellenberger   Raphaël,1,1
+Nilor   Jean-Philippe,Le Gendre   Gilles,0,1
+Nilor   Jean-Philippe,Naegelen   Christophe,1,1
+Nilor   Jean-Philippe,Terlier   Jean,0,1
+Nilor   Jean-Philippe,Avia   Laetitia,0,1
+Nilor   Jean-Philippe,Lemoine   Patricia,1,1
+Nilor   Jean-Philippe,Lebec   Marie,0,1
+Nilor   Jean-Philippe,Morenas   Adrien,0,1
+Nilor   Jean-Philippe,Braun-Pivet   Yaël,0,1
+Nilor   Jean-Philippe,Obono   Danièle,1,1
+Nilor   Jean-Philippe,Latombe   Philippe,1,1
+Nilor   Jean-Philippe,Rudigoz   Thomas,0,1
+Nilor   Jean-Philippe,Thiébaut   Vincent,0,1
+Nilor   Jean-Philippe,Ali   Ramlati,0,1
+Nilor   Jean-Philippe,Savignat   Antoine,1,1
+Bazin   Thibault,Christophe   Paul,1,1
+Bazin   Thibault,Claireaux   Stéphane,0,1
+Bazin   Thibault,Dive   Julien,1,1
+Bazin   Thibault,Louis   Alexandra,0,1
+Bazin   Thibault,Zulesi   Jean-Marc,0,1
+Bazin   Thibault,Michel-Brassart   Monica,0,1
+Bazin   Thibault,Castellani   Michel,1,1
+Bazin   Thibault,Clapot   Mireille,0,1
+Bazin   Thibault,Anthoine   Emmanuelle,1,1
+Bazin   Thibault,Le Feur   Sandrine,0,1
+Bazin   Thibault,Balanant   Erwan,0,1
+Bazin   Thibault,Poulliat   Éric,0,1
+Bazin   Thibault,Mirallès   Patricia,0,1
+Bazin   Thibault,Colas-Roy   Jean-Charles,0,1
+Bazin   Thibault,Limon   Monique,0,1
+Bazin   Thibault,Mis   Jean-Michel,0,1
+Bazin   Thibault,Dubré-Chirat   Nicole,0,1
+Bazin   Thibault,Krimi   Sonia,0,1
+Bazin   Thibault,Zannier   Hélène,0,1
+Bazin   Thibault,Perrot   Patrice,0,1
+Bazin   Thibault,Bernalicis   Ugo,1,1
+Bazin   Thibault,Potterie   Benoit,0,1
+Bazin   Thibault,Minot   Maxime,1,1
+Bazin   Thibault,Nury   Jérôme,1,1
+Bazin   Thibault,Waserman   Sylvain,0,1
+Bazin   Thibault,Lazaar   Fiona,0,1
+Bazin   Thibault,Da Silva   Dominique,0,1
+Bazin   Thibault,Schellenberger   Raphaël,1,1
+Bazin   Thibault,Le Gendre   Gilles,0,1
+Bazin   Thibault,Naegelen   Christophe,1,1
+Bazin   Thibault,Terlier   Jean,0,1
+Bazin   Thibault,Avia   Laetitia,0,1
+Bazin   Thibault,Lemoine   Patricia,1,1
+Bazin   Thibault,Lebec   Marie,0,1
+Bazin   Thibault,Morenas   Adrien,0,1
+Bazin   Thibault,Braun-Pivet   Yaël,0,1
+Bazin   Thibault,Obono   Danièle,1,1
+Bazin   Thibault,Latombe   Philippe,1,1
+Bazin   Thibault,Rudigoz   Thomas,0,1
+Bazin   Thibault,Thiébaut   Vincent,0,1
+Bazin   Thibault,Ali   Ramlati,0,1
+Bazin   Thibault,Savignat   Antoine,1,1
+Christophe   Paul,Claireaux   Stéphane,0,1
+Christophe   Paul,Dive   Julien,1,1
+Christophe   Paul,Louis   Alexandra,0,1
+Christophe   Paul,Zulesi   Jean-Marc,0,1
+Christophe   Paul,Michel-Brassart   Monica,0,1
+Christophe   Paul,Castellani   Michel,1,1
+Christophe   Paul,Clapot   Mireille,0,1
+Christophe   Paul,Anthoine   Emmanuelle,1,1
+Christophe   Paul,Le Feur   Sandrine,0,1
+Christophe   Paul,Balanant   Erwan,0,1
+Christophe   Paul,Poulliat   Éric,0,1
+Christophe   Paul,Mirallès   Patricia,0,1
+Christophe   Paul,Colas-Roy   Jean-Charles,0,1
+Christophe   Paul,Limon   Monique,0,1
+Christophe   Paul,Mis   Jean-Michel,0,1
+Christophe   Paul,Dubré-Chirat   Nicole,0,1
+Christophe   Paul,Krimi   Sonia,0,1
+Christophe   Paul,Zannier   Hélène,0,1
+Christophe   Paul,Perrot   Patrice,0,1
+Christophe   Paul,Bernalicis   Ugo,1,1
+Christophe   Paul,Potterie   Benoit,0,1
+Christophe   Paul,Minot   Maxime,1,1
+Christophe   Paul,Nury   Jérôme,1,1
+Christophe   Paul,Waserman   Sylvain,0,1
+Christophe   Paul,Lazaar   Fiona,0,1
+Christophe   Paul,Da Silva   Dominique,0,1
+Christophe   Paul,Schellenberger   Raphaël,1,1
+Christophe   Paul,Le Gendre   Gilles,0,1
+Christophe   Paul,Naegelen   Christophe,1,1
+Christophe   Paul,Terlier   Jean,0,1
+Christophe   Paul,Avia   Laetitia,0,1
+Christophe   Paul,Lemoine   Patricia,1,1
+Christophe   Paul,Lebec   Marie,0,1
+Christophe   Paul,Morenas   Adrien,0,1
+Christophe   Paul,Braun-Pivet   Yaël,0,1
+Christophe   Paul,Obono   Danièle,1,1
+Christophe   Paul,Latombe   Philippe,1,1
+Christophe   Paul,Rudigoz   Thomas,0,1
+Christophe   Paul,Thiébaut   Vincent,0,1
+Christophe   Paul,Ali   Ramlati,0,1
+Christophe   Paul,Savignat   Antoine,1,1
+Claireaux   Stéphane,Dive   Julien,0,1
+Claireaux   Stéphane,Louis   Alexandra,1,1
+Claireaux   Stéphane,Zulesi   Jean-Marc,1,1
+Claireaux   Stéphane,Michel-Brassart   Monica,1,1
+Claireaux   Stéphane,Castellani   Michel,0,1
+Claireaux   Stéphane,Clapot   Mireille,1,1
+Claireaux   Stéphane,Anthoine   Emmanuelle,0,1
+Claireaux   Stéphane,Le Feur   Sandrine,1,1
+Claireaux   Stéphane,Balanant   Erwan,1,1
+Claireaux   Stéphane,Poulliat   Éric,1,1
+Claireaux   Stéphane,Mirallès   Patricia,1,1
+Claireaux   Stéphane,Colas-Roy   Jean-Charles,1,1
+Claireaux   Stéphane,Limon   Monique,1,1
+Claireaux   Stéphane,Mis   Jean-Michel,1,1
+Claireaux   Stéphane,Dubré-Chirat   Nicole,1,1
+Claireaux   Stéphane,Krimi   Sonia,1,1
+Claireaux   Stéphane,Zannier   Hélène,1,1
+Claireaux   Stéphane,Perrot   Patrice,1,1
+Claireaux   Stéphane,Bernalicis   Ugo,0,1
+Claireaux   Stéphane,Potterie   Benoit,1,1
+Claireaux   Stéphane,Minot   Maxime,0,1
+Claireaux   Stéphane,Nury   Jérôme,0,1
+Claireaux   Stéphane,Waserman   Sylvain,1,1
+Claireaux   Stéphane,Lazaar   Fiona,1,1
+Claireaux   Stéphane,Da Silva   Dominique,1,1
+Claireaux   Stéphane,Schellenberger   Raphaël,0,1
+Claireaux   Stéphane,Le Gendre   Gilles,1,1
+Claireaux   Stéphane,Naegelen   Christophe,0,1
+Claireaux   Stéphane,Terlier   Jean,1,1
+Claireaux   Stéphane,Avia   Laetitia,1,1
+Claireaux   Stéphane,Lemoine   Patricia,0,1
+Claireaux   Stéphane,Lebec   Marie,1,1
+Claireaux   Stéphane,Morenas   Adrien,1,1
+Claireaux   Stéphane,Braun-Pivet   Yaël,1,1
+Claireaux   Stéphane,Obono   Danièle,0,1
+Claireaux   Stéphane,Latombe   Philippe,0,1
+Claireaux   Stéphane,Rudigoz   Thomas,1,1
+Claireaux   Stéphane,Thiébaut   Vincent,1,1
+Claireaux   Stéphane,Ali   Ramlati,1,1
+Claireaux   Stéphane,Savignat   Antoine,0,1
+Dive   Julien,Louis   Alexandra,0,1
+Dive   Julien,Zulesi   Jean-Marc,0,1
+Dive   Julien,Michel-Brassart   Monica,0,1
+Dive   Julien,Castellani   Michel,1,1
+Dive   Julien,Clapot   Mireille,0,1
+Dive   Julien,Anthoine   Emmanuelle,1,1
+Dive   Julien,Le Feur   Sandrine,0,1
+Dive   Julien,Balanant   Erwan,0,1
+Dive   Julien,Poulliat   Éric,0,1
+Dive   Julien,Mirallès   Patricia,0,1
+Dive   Julien,Colas-Roy   Jean-Charles,0,1
+Dive   Julien,Limon   Monique,0,1
+Dive   Julien,Mis   Jean-Michel,0,1
+Dive   Julien,Dubré-Chirat   Nicole,0,1
+Dive   Julien,Krimi   Sonia,0,1
+Dive   Julien,Zannier   Hélène,0,1
+Dive   Julien,Perrot   Patrice,0,1
+Dive   Julien,Bernalicis   Ugo,1,1
+Dive   Julien,Potterie   Benoit,0,1
+Dive   Julien,Minot   Maxime,1,1
+Dive   Julien,Nury   Jérôme,1,1
+Dive   Julien,Waserman   Sylvain,0,1
+Dive   Julien,Lazaar   Fiona,0,1
+Dive   Julien,Da Silva   Dominique,0,1
+Dive   Julien,Schellenberger   Raphaël,1,1
+Dive   Julien,Le Gendre   Gilles,0,1
+Dive   Julien,Naegelen   Christophe,1,1
+Dive   Julien,Terlier   Jean,0,1
+Dive   Julien,Avia   Laetitia,0,1
+Dive   Julien,Lemoine   Patricia,1,1
+Dive   Julien,Lebec   Marie,0,1
+Dive   Julien,Morenas   Adrien,0,1
+Dive   Julien,Braun-Pivet   Yaël,0,1
+Dive   Julien,Obono   Danièle,1,1
+Dive   Julien,Latombe   Philippe,1,1
+Dive   Julien,Rudigoz   Thomas,0,1
+Dive   Julien,Thiébaut   Vincent,0,1
+Dive   Julien,Ali   Ramlati,0,1
+Dive   Julien,Savignat   Antoine,1,1
+Louis   Alexandra,Zulesi   Jean-Marc,1,1
+Louis   Alexandra,Michel-Brassart   Monica,1,1
+Louis   Alexandra,Castellani   Michel,0,1
+Louis   Alexandra,Clapot   Mireille,1,1
+Louis   Alexandra,Anthoine   Emmanuelle,0,1
+Louis   Alexandra,Le Feur   Sandrine,1,1
+Louis   Alexandra,Balanant   Erwan,1,1
+Louis   Alexandra,Poulliat   Éric,1,1
+Louis   Alexandra,Mirallès   Patricia,1,1
+Louis   Alexandra,Colas-Roy   Jean-Charles,1,1
+Louis   Alexandra,Limon   Monique,1,1
+Louis   Alexandra,Mis   Jean-Michel,1,1
+Louis   Alexandra,Dubré-Chirat   Nicole,1,1
+Louis   Alexandra,Krimi   Sonia,1,1
+Louis   Alexandra,Zannier   Hélène,1,1
+Louis   Alexandra,Perrot   Patrice,1,1
+Louis   Alexandra,Bernalicis   Ugo,0,1
+Louis   Alexandra,Potterie   Benoit,1,1
+Louis   Alexandra,Minot   Maxime,0,1
+Louis   Alexandra,Nury   Jérôme,0,1
+Louis   Alexandra,Waserman   Sylvain,1,1
+Louis   Alexandra,Lazaar   Fiona,1,1
+Louis   Alexandra,Da Silva   Dominique,1,1
+Louis   Alexandra,Schellenberger   Raphaël,0,1
+Louis   Alexandra,Le Gendre   Gilles,1,1
+Louis   Alexandra,Naegelen   Christophe,0,1
+Louis   Alexandra,Terlier   Jean,1,1
+Louis   Alexandra,Avia   Laetitia,1,1
+Louis   Alexandra,Lemoine   Patricia,0,1
+Louis   Alexandra,Lebec   Marie,1,1
+Louis   Alexandra,Morenas   Adrien,1,1
+Louis   Alexandra,Braun-Pivet   Yaël,1,1
+Louis   Alexandra,Obono   Danièle,0,1
+Louis   Alexandra,Latombe   Philippe,0,1
+Louis   Alexandra,Rudigoz   Thomas,1,1
+Louis   Alexandra,Thiébaut   Vincent,1,1
+Louis   Alexandra,Ali   Ramlati,1,1
+Louis   Alexandra,Savignat   Antoine,0,1
+Zulesi   Jean-Marc,Michel-Brassart   Monica,1,1
+Zulesi   Jean-Marc,Castellani   Michel,0,1
+Zulesi   Jean-Marc,Clapot   Mireille,1,1
+Zulesi   Jean-Marc,Anthoine   Emmanuelle,0,1
+Zulesi   Jean-Marc,Le Feur   Sandrine,1,1
+Zulesi   Jean-Marc,Balanant   Erwan,1,1
+Zulesi   Jean-Marc,Poulliat   Éric,1,1
+Zulesi   Jean-Marc,Mirallès   Patricia,1,1
+Zulesi   Jean-Marc,Colas-Roy   Jean-Charles,1,1
+Zulesi   Jean-Marc,Limon   Monique,1,1
+Zulesi   Jean-Marc,Mis   Jean-Michel,1,1
+Zulesi   Jean-Marc,Dubré-Chirat   Nicole,1,1
+Zulesi   Jean-Marc,Krimi   Sonia,1,1
+Zulesi   Jean-Marc,Zannier   Hélène,1,1
+Zulesi   Jean-Marc,Perrot   Patrice,1,1
+Zulesi   Jean-Marc,Bernalicis   Ugo,0,1
+Zulesi   Jean-Marc,Potterie   Benoit,1,1
+Zulesi   Jean-Marc,Minot   Maxime,0,1
+Zulesi   Jean-Marc,Nury   Jérôme,0,1
+Zulesi   Jean-Marc,Waserman   Sylvain,1,1
+Zulesi   Jean-Marc,Lazaar   Fiona,1,1
+Zulesi   Jean-Marc,Da Silva   Dominique,1,1
+Zulesi   Jean-Marc,Schellenberger   Raphaël,0,1
+Zulesi   Jean-Marc,Le Gendre   Gilles,1,1
+Zulesi   Jean-Marc,Naegelen   Christophe,0,1
+Zulesi   Jean-Marc,Terlier   Jean,1,1
+Zulesi   Jean-Marc,Avia   Laetitia,1,1
+Zulesi   Jean-Marc,Lemoine   Patricia,0,1
+Zulesi   Jean-Marc,Lebec   Marie,1,1
+Zulesi   Jean-Marc,Morenas   Adrien,1,1
+Zulesi   Jean-Marc,Braun-Pivet   Yaël,1,1
+Zulesi   Jean-Marc,Obono   Danièle,0,1
+Zulesi   Jean-Marc,Latombe   Philippe,0,1
+Zulesi   Jean-Marc,Rudigoz   Thomas,1,1
+Zulesi   Jean-Marc,Thiébaut   Vincent,1,1
+Zulesi   Jean-Marc,Ali   Ramlati,1,1
+Zulesi   Jean-Marc,Savignat   Antoine,0,1
+Michel-Brassart   Monica,Castellani   Michel,0,1
+Michel-Brassart   Monica,Clapot   Mireille,1,1
+Michel-Brassart   Monica,Anthoine   Emmanuelle,0,1
+Michel-Brassart   Monica,Le Feur   Sandrine,1,1
+Michel-Brassart   Monica,Balanant   Erwan,1,1
+Michel-Brassart   Monica,Poulliat   Éric,1,1
+Michel-Brassart   Monica,Mirallès   Patricia,1,1
+Michel-Brassart   Monica,Colas-Roy   Jean-Charles,1,1
+Michel-Brassart   Monica,Limon   Monique,1,1
+Michel-Brassart   Monica,Mis   Jean-Michel,1,1
+Michel-Brassart   Monica,Dubré-Chirat   Nicole,1,1
+Michel-Brassart   Monica,Krimi   Sonia,1,1
+Michel-Brassart   Monica,Zannier   Hélène,1,1
+Michel-Brassart   Monica,Perrot   Patrice,1,1
+Michel-Brassart   Monica,Bernalicis   Ugo,0,1
+Michel-Brassart   Monica,Potterie   Benoit,1,1
+Michel-Brassart   Monica,Minot   Maxime,0,1
+Michel-Brassart   Monica,Nury   Jérôme,0,1
+Michel-Brassart   Monica,Waserman   Sylvain,1,1
+Michel-Brassart   Monica,Lazaar   Fiona,1,1
+Michel-Brassart   Monica,Da Silva   Dominique,1,1
+Michel-Brassart   Monica,Schellenberger   Raphaël,0,1
+Michel-Brassart   Monica,Le Gendre   Gilles,1,1
+Michel-Brassart   Monica,Naegelen   Christophe,0,1
+Michel-Brassart   Monica,Terlier   Jean,1,1
+Michel-Brassart   Monica,Avia   Laetitia,1,1
+Michel-Brassart   Monica,Lemoine   Patricia,0,1
+Michel-Brassart   Monica,Lebec   Marie,1,1
+Michel-Brassart   Monica,Morenas   Adrien,1,1
+Michel-Brassart   Monica,Braun-Pivet   Yaël,1,1
+Michel-Brassart   Monica,Obono   Danièle,0,1
+Michel-Brassart   Monica,Latombe   Philippe,0,1
+Michel-Brassart   Monica,Rudigoz   Thomas,1,1
+Michel-Brassart   Monica,Thiébaut   Vincent,1,1
+Michel-Brassart   Monica,Ali   Ramlati,1,1
+Michel-Brassart   Monica,Savignat   Antoine,0,1
+Castellani   Michel,Clapot   Mireille,0,1
+Castellani   Michel,Anthoine   Emmanuelle,1,1
+Castellani   Michel,Le Feur   Sandrine,0,1
+Castellani   Michel,Balanant   Erwan,0,1
+Castellani   Michel,Poulliat   Éric,0,1
+Castellani   Michel,Mirallès   Patricia,0,1
+Castellani   Michel,Colas-Roy   Jean-Charles,0,1
+Castellani   Michel,Limon   Monique,0,1
+Castellani   Michel,Mis   Jean-Michel,0,1
+Castellani   Michel,Dubré-Chirat   Nicole,0,1
+Castellani   Michel,Krimi   Sonia,0,1
+Castellani   Michel,Zannier   Hélène,0,1
+Castellani   Michel,Perrot   Patrice,0,1
+Castellani   Michel,Bernalicis   Ugo,1,1
+Castellani   Michel,Potterie   Benoit,0,1
+Castellani   Michel,Minot   Maxime,1,1
+Castellani   Michel,Nury   Jérôme,1,1
+Castellani   Michel,Waserman   Sylvain,0,1
+Castellani   Michel,Lazaar   Fiona,0,1
+Castellani   Michel,Da Silva   Dominique,0,1
+Castellani   Michel,Schellenberger   Raphaël,1,1
+Castellani   Michel,Le Gendre   Gilles,0,1
+Castellani   Michel,Naegelen   Christophe,1,1
+Castellani   Michel,Terlier   Jean,0,1
+Castellani   Michel,Avia   Laetitia,0,1
+Castellani   Michel,Lemoine   Patricia,1,1
+Castellani   Michel,Lebec   Marie,0,1
+Castellani   Michel,Morenas   Adrien,0,1
+Castellani   Michel,Braun-Pivet   Yaël,0,1
+Castellani   Michel,Obono   Danièle,1,1
+Castellani   Michel,Latombe   Philippe,1,1
+Castellani   Michel,Rudigoz   Thomas,0,1
+Castellani   Michel,Thiébaut   Vincent,0,1
+Castellani   Michel,Ali   Ramlati,0,1
+Castellani   Michel,Savignat   Antoine,1,1
+Clapot   Mireille,Anthoine   Emmanuelle,0,1
+Clapot   Mireille,Le Feur   Sandrine,1,1
+Clapot   Mireille,Balanant   Erwan,1,1
+Clapot   Mireille,Poulliat   Éric,1,1
+Clapot   Mireille,Mirallès   Patricia,1,1
+Clapot   Mireille,Colas-Roy   Jean-Charles,1,1
+Clapot   Mireille,Limon   Monique,1,1
+Clapot   Mireille,Mis   Jean-Michel,1,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Krimi   Sonia,1,1
+Clapot   Mireille,Zannier   Hélène,1,1
+Clapot   Mireille,Perrot   Patrice,1,1
+Clapot   Mireille,Bernalicis   Ugo,0,1
+Clapot   Mireille,Potterie   Benoit,1,1
+Clapot   Mireille,Minot   Maxime,0,1
+Clapot   Mireille,Nury   Jérôme,0,1
+Clapot   Mireille,Waserman   Sylvain,1,1
+Clapot   Mireille,Lazaar   Fiona,1,1
+Clapot   Mireille,Da Silva   Dominique,1,1
+Clapot   Mireille,Schellenberger   Raphaël,0,1
+Clapot   Mireille,Le Gendre   Gilles,1,1
+Clapot   Mireille,Naegelen   Christophe,0,1
+Clapot   Mireille,Terlier   Jean,1,1
+Clapot   Mireille,Avia   Laetitia,1,1
+Clapot   Mireille,Lemoine   Patricia,0,1
+Clapot   Mireille,Lebec   Marie,1,1
+Clapot   Mireille,Morenas   Adrien,1,1
+Clapot   Mireille,Braun-Pivet   Yaël,1,1
+Clapot   Mireille,Obono   Danièle,0,1
+Clapot   Mireille,Latombe   Philippe,0,1
+Clapot   Mireille,Rudigoz   Thomas,1,1
+Clapot   Mireille,Thiébaut   Vincent,1,1
+Clapot   Mireille,Ali   Ramlati,1,1
+Clapot   Mireille,Savignat   Antoine,0,1
+Anthoine   Emmanuelle,Le Feur   Sandrine,0,1
+Anthoine   Emmanuelle,Balanant   Erwan,0,1
+Anthoine   Emmanuelle,Poulliat   Éric,0,1
+Anthoine   Emmanuelle,Mirallès   Patricia,0,1
+Anthoine   Emmanuelle,Colas-Roy   Jean-Charles,0,1
+Anthoine   Emmanuelle,Limon   Monique,0,1
+Anthoine   Emmanuelle,Mis   Jean-Michel,0,1
+Anthoine   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Anthoine   Emmanuelle,Krimi   Sonia,0,1
+Anthoine   Emmanuelle,Zannier   Hélène,0,1
+Anthoine   Emmanuelle,Perrot   Patrice,0,1
+Anthoine   Emmanuelle,Bernalicis   Ugo,1,1
+Anthoine   Emmanuelle,Potterie   Benoit,0,1
+Anthoine   Emmanuelle,Minot   Maxime,1,1
+Anthoine   Emmanuelle,Nury   Jérôme,1,1
+Anthoine   Emmanuelle,Waserman   Sylvain,0,1
+Anthoine   Emmanuelle,Lazaar   Fiona,0,1
+Anthoine   Emmanuelle,Da Silva   Dominique,0,1
+Anthoine   Emmanuelle,Schellenberger   Raphaël,1,1
+Anthoine   Emmanuelle,Le Gendre   Gilles,0,1
+Anthoine   Emmanuelle,Naegelen   Christophe,1,1
+Anthoine   Emmanuelle,Terlier   Jean,0,1
+Anthoine   Emmanuelle,Avia   Laetitia,0,1
+Anthoine   Emmanuelle,Lemoine   Patricia,1,1
+Anthoine   Emmanuelle,Lebec   Marie,0,1
+Anthoine   Emmanuelle,Morenas   Adrien,0,1
+Anthoine   Emmanuelle,Braun-Pivet   Yaël,0,1
+Anthoine   Emmanuelle,Obono   Danièle,1,1
+Anthoine   Emmanuelle,Latombe   Philippe,1,1
+Anthoine   Emmanuelle,Rudigoz   Thomas,0,1
+Anthoine   Emmanuelle,Thiébaut   Vincent,0,1
+Anthoine   Emmanuelle,Ali   Ramlati,0,1
+Anthoine   Emmanuelle,Savignat   Antoine,1,1
+Le Feur   Sandrine,Balanant   Erwan,1,1
+Le Feur   Sandrine,Poulliat   Éric,1,1
+Le Feur   Sandrine,Mirallès   Patricia,1,1
+Le Feur   Sandrine,Colas-Roy   Jean-Charles,1,1
+Le Feur   Sandrine,Limon   Monique,1,1
+Le Feur   Sandrine,Mis   Jean-Michel,1,1
+Le Feur   Sandrine,Dubré-Chirat   Nicole,1,1
+Le Feur   Sandrine,Krimi   Sonia,1,1
+Le Feur   Sandrine,Zannier   Hélène,1,1
+Le Feur   Sandrine,Perrot   Patrice,1,1
+Le Feur   Sandrine,Bernalicis   Ugo,0,1
+Le Feur   Sandrine,Potterie   Benoit,1,1
+Le Feur   Sandrine,Minot   Maxime,0,1
+Le Feur   Sandrine,Nury   Jérôme,0,1
+Le Feur   Sandrine,Waserman   Sylvain,1,1
+Le Feur   Sandrine,Lazaar   Fiona,1,1
+Le Feur   Sandrine,Da Silva   Dominique,1,1
+Le Feur   Sandrine,Schellenberger   Raphaël,0,1
+Le Feur   Sandrine,Le Gendre   Gilles,1,1
+Le Feur   Sandrine,Naegelen   Christophe,0,1
+Le Feur   Sandrine,Terlier   Jean,1,1
+Le Feur   Sandrine,Avia   Laetitia,1,1
+Le Feur   Sandrine,Lemoine   Patricia,0,1
+Le Feur   Sandrine,Lebec   Marie,1,1
+Le Feur   Sandrine,Morenas   Adrien,1,1
+Le Feur   Sandrine,Braun-Pivet   Yaël,1,1
+Le Feur   Sandrine,Obono   Danièle,0,1
+Le Feur   Sandrine,Latombe   Philippe,0,1
+Le Feur   Sandrine,Rudigoz   Thomas,1,1
+Le Feur   Sandrine,Thiébaut   Vincent,1,1
+Le Feur   Sandrine,Ali   Ramlati,1,1
+Le Feur   Sandrine,Savignat   Antoine,0,1
+Balanant   Erwan,Poulliat   Éric,1,1
+Balanant   Erwan,Mirallès   Patricia,1,1
+Balanant   Erwan,Colas-Roy   Jean-Charles,1,1
+Balanant   Erwan,Limon   Monique,1,1
+Balanant   Erwan,Mis   Jean-Michel,1,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Krimi   Sonia,1,1
+Balanant   Erwan,Zannier   Hélène,1,1
+Balanant   Erwan,Perrot   Patrice,1,1
+Balanant   Erwan,Bernalicis   Ugo,0,1
+Balanant   Erwan,Potterie   Benoit,1,1
+Balanant   Erwan,Minot   Maxime,0,1
+Balanant   Erwan,Nury   Jérôme,0,1
+Balanant   Erwan,Waserman   Sylvain,1,1
+Balanant   Erwan,Lazaar   Fiona,1,1
+Balanant   Erwan,Da Silva   Dominique,1,1
+Balanant   Erwan,Schellenberger   Raphaël,0,1
+Balanant   Erwan,Le Gendre   Gilles,1,1
+Balanant   Erwan,Naegelen   Christophe,0,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Avia   Laetitia,1,1
+Balanant   Erwan,Lemoine   Patricia,0,1
+Balanant   Erwan,Lebec   Marie,1,1
+Balanant   Erwan,Morenas   Adrien,1,1
+Balanant   Erwan,Braun-Pivet   Yaël,1,1
+Balanant   Erwan,Obono   Danièle,0,1
+Balanant   Erwan,Latombe   Philippe,0,1
+Balanant   Erwan,Rudigoz   Thomas,1,1
+Balanant   Erwan,Thiébaut   Vincent,1,1
+Balanant   Erwan,Ali   Ramlati,1,1
+Balanant   Erwan,Savignat   Antoine,0,1
+Poulliat   Éric,Mirallès   Patricia,1,1
+Poulliat   Éric,Colas-Roy   Jean-Charles,1,1
+Poulliat   Éric,Limon   Monique,1,1
+Poulliat   Éric,Mis   Jean-Michel,1,1
+Poulliat   Éric,Dubré-Chirat   Nicole,1,1
+Poulliat   Éric,Krimi   Sonia,1,1
+Poulliat   Éric,Zannier   Hélène,1,1
+Poulliat   Éric,Perrot   Patrice,1,1
+Poulliat   Éric,Bernalicis   Ugo,0,1
+Poulliat   Éric,Potterie   Benoit,1,1
+Poulliat   Éric,Minot   Maxime,0,1
+Poulliat   Éric,Nury   Jérôme,0,1
+Poulliat   Éric,Waserman   Sylvain,1,1
+Poulliat   Éric,Lazaar   Fiona,1,1
+Poulliat   Éric,Da Silva   Dominique,1,1
+Poulliat   Éric,Schellenberger   Raphaël,0,1
+Poulliat   Éric,Le Gendre   Gilles,1,1
+Poulliat   Éric,Naegelen   Christophe,0,1
+Poulliat   Éric,Terlier   Jean,1,1
+Poulliat   Éric,Avia   Laetitia,1,1
+Poulliat   Éric,Lemoine   Patricia,0,1
+Poulliat   Éric,Lebec   Marie,1,1
+Poulliat   Éric,Morenas   Adrien,1,1
+Poulliat   Éric,Braun-Pivet   Yaël,1,1
+Poulliat   Éric,Obono   Danièle,0,1
+Poulliat   Éric,Latombe   Philippe,0,1
+Poulliat   Éric,Rudigoz   Thomas,1,1
+Poulliat   Éric,Thiébaut   Vincent,1,1
+Poulliat   Éric,Ali   Ramlati,1,1
+Poulliat   Éric,Savignat   Antoine,0,1
+Mirallès   Patricia,Colas-Roy   Jean-Charles,1,1
+Mirallès   Patricia,Limon   Monique,1,1
+Mirallès   Patricia,Mis   Jean-Michel,1,1
+Mirallès   Patricia,Dubré-Chirat   Nicole,1,1
+Mirallès   Patricia,Krimi   Sonia,1,1
+Mirallès   Patricia,Zannier   Hélène,1,1
+Mirallès   Patricia,Perrot   Patrice,1,1
+Mirallès   Patricia,Bernalicis   Ugo,0,1
+Mirallès   Patricia,Potterie   Benoit,1,1
+Mirallès   Patricia,Minot   Maxime,0,1
+Mirallès   Patricia,Nury   Jérôme,0,1
+Mirallès   Patricia,Waserman   Sylvain,1,1
+Mirallès   Patricia,Lazaar   Fiona,1,1
+Mirallès   Patricia,Da Silva   Dominique,1,1
+Mirallès   Patricia,Schellenberger   Raphaël,0,1
+Mirallès   Patricia,Le Gendre   Gilles,1,1
+Mirallès   Patricia,Naegelen   Christophe,0,1
+Mirallès   Patricia,Terlier   Jean,1,1
+Mirallès   Patricia,Avia   Laetitia,1,1
+Mirallès   Patricia,Lemoine   Patricia,0,1
+Mirallès   Patricia,Lebec   Marie,1,1
+Mirallès   Patricia,Morenas   Adrien,1,1
+Mirallès   Patricia,Braun-Pivet   Yaël,1,1
+Mirallès   Patricia,Obono   Danièle,0,1
+Mirallès   Patricia,Latombe   Philippe,0,1
+Mirallès   Patricia,Rudigoz   Thomas,1,1
+Mirallès   Patricia,Thiébaut   Vincent,1,1
+Mirallès   Patricia,Ali   Ramlati,1,1
+Mirallès   Patricia,Savignat   Antoine,0,1
+Colas-Roy   Jean-Charles,Limon   Monique,1,1
+Colas-Roy   Jean-Charles,Mis   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Dubré-Chirat   Nicole,1,1
+Colas-Roy   Jean-Charles,Krimi   Sonia,1,1
+Colas-Roy   Jean-Charles,Zannier   Hélène,1,1
+Colas-Roy   Jean-Charles,Perrot   Patrice,1,1
+Colas-Roy   Jean-Charles,Bernalicis   Ugo,0,1
+Colas-Roy   Jean-Charles,Potterie   Benoit,1,1
+Colas-Roy   Jean-Charles,Minot   Maxime,0,1
+Colas-Roy   Jean-Charles,Nury   Jérôme,0,1
+Colas-Roy   Jean-Charles,Waserman   Sylvain,1,1
+Colas-Roy   Jean-Charles,Lazaar   Fiona,1,1
+Colas-Roy   Jean-Charles,Da Silva   Dominique,1,1
+Colas-Roy   Jean-Charles,Schellenberger   Raphaël,0,1
+Colas-Roy   Jean-Charles,Le Gendre   Gilles,1,1
+Colas-Roy   Jean-Charles,Naegelen   Christophe,0,1
+Colas-Roy   Jean-Charles,Terlier   Jean,1,1
+Colas-Roy   Jean-Charles,Avia   Laetitia,1,1
+Colas-Roy   Jean-Charles,Lemoine   Patricia,0,1
+Colas-Roy   Jean-Charles,Lebec   Marie,1,1
+Colas-Roy   Jean-Charles,Morenas   Adrien,1,1
+Colas-Roy   Jean-Charles,Braun-Pivet   Yaël,1,1
+Colas-Roy   Jean-Charles,Obono   Danièle,0,1
+Colas-Roy   Jean-Charles,Latombe   Philippe,0,1
+Colas-Roy   Jean-Charles,Rudigoz   Thomas,1,1
+Colas-Roy   Jean-Charles,Thiébaut   Vincent,1,1
+Colas-Roy   Jean-Charles,Ali   Ramlati,1,1
+Colas-Roy   Jean-Charles,Savignat   Antoine,0,1
+Limon   Monique,Mis   Jean-Michel,1,1
+Limon   Monique,Dubré-Chirat   Nicole,1,1
+Limon   Monique,Krimi   Sonia,1,1
+Limon   Monique,Zannier   Hélène,1,1
+Limon   Monique,Perrot   Patrice,1,1
+Limon   Monique,Bernalicis   Ugo,0,1
+Limon   Monique,Potterie   Benoit,1,1
+Limon   Monique,Minot   Maxime,0,1
+Limon   Monique,Nury   Jérôme,0,1
+Limon   Monique,Waserman   Sylvain,1,1
+Limon   Monique,Lazaar   Fiona,1,1
+Limon   Monique,Da Silva   Dominique,1,1
+Limon   Monique,Schellenberger   Raphaël,0,1
+Limon   Monique,Le Gendre   Gilles,1,1
+Limon   Monique,Naegelen   Christophe,0,1
+Limon   Monique,Terlier   Jean,1,1
+Limon   Monique,Avia   Laetitia,1,1
+Limon   Monique,Lemoine   Patricia,0,1
+Limon   Monique,Lebec   Marie,1,1
+Limon   Monique,Morenas   Adrien,1,1
+Limon   Monique,Braun-Pivet   Yaël,1,1
+Limon   Monique,Obono   Danièle,0,1
+Limon   Monique,Latombe   Philippe,0,1
+Limon   Monique,Rudigoz   Thomas,1,1
+Limon   Monique,Thiébaut   Vincent,1,1
+Limon   Monique,Ali   Ramlati,1,1
+Limon   Monique,Savignat   Antoine,0,1
+Mis   Jean-Michel,Dubré-Chirat   Nicole,1,1
+Mis   Jean-Michel,Krimi   Sonia,1,1
+Mis   Jean-Michel,Zannier   Hélène,1,1
+Mis   Jean-Michel,Perrot   Patrice,1,1
+Mis   Jean-Michel,Bernalicis   Ugo,0,1
+Mis   Jean-Michel,Potterie   Benoit,1,1
+Mis   Jean-Michel,Minot   Maxime,0,1
+Mis   Jean-Michel,Nury   Jérôme,0,1
+Mis   Jean-Michel,Waserman   Sylvain,1,1
+Mis   Jean-Michel,Lazaar   Fiona,1,1
+Mis   Jean-Michel,Da Silva   Dominique,1,1
+Mis   Jean-Michel,Schellenberger   Raphaël,0,1
+Mis   Jean-Michel,Le Gendre   Gilles,1,1
+Mis   Jean-Michel,Naegelen   Christophe,0,1
+Mis   Jean-Michel,Terlier   Jean,1,1
+Mis   Jean-Michel,Avia   Laetitia,1,1
+Mis   Jean-Michel,Lemoine   Patricia,0,1
+Mis   Jean-Michel,Lebec   Marie,1,1
+Mis   Jean-Michel,Morenas   Adrien,1,1
+Mis   Jean-Michel,Braun-Pivet   Yaël,1,1
+Mis   Jean-Michel,Obono   Danièle,0,1
+Mis   Jean-Michel,Latombe   Philippe,0,1
+Mis   Jean-Michel,Rudigoz   Thomas,1,1
+Mis   Jean-Michel,Thiébaut   Vincent,1,1
+Mis   Jean-Michel,Ali   Ramlati,1,1
+Mis   Jean-Michel,Savignat   Antoine,0,1
+Dubré-Chirat   Nicole,Krimi   Sonia,1,1
+Dubré-Chirat   Nicole,Zannier   Hélène,1,1
+Dubré-Chirat   Nicole,Perrot   Patrice,1,1
+Dubré-Chirat   Nicole,Bernalicis   Ugo,0,1
+Dubré-Chirat   Nicole,Potterie   Benoit,1,1
+Dubré-Chirat   Nicole,Minot   Maxime,0,1
+Dubré-Chirat   Nicole,Nury   Jérôme,0,1
+Dubré-Chirat   Nicole,Waserman   Sylvain,1,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Da Silva   Dominique,1,1
+Dubré-Chirat   Nicole,Schellenberger   Raphaël,0,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Naegelen   Christophe,0,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Avia   Laetitia,1,1
+Dubré-Chirat   Nicole,Lemoine   Patricia,0,1
+Dubré-Chirat   Nicole,Lebec   Marie,1,1
+Dubré-Chirat   Nicole,Morenas   Adrien,1,1
+Dubré-Chirat   Nicole,Braun-Pivet   Yaël,1,1
+Dubré-Chirat   Nicole,Obono   Danièle,0,1
+Dubré-Chirat   Nicole,Latombe   Philippe,0,1
+Dubré-Chirat   Nicole,Rudigoz   Thomas,1,1
+Dubré-Chirat   Nicole,Thiébaut   Vincent,1,1
+Dubré-Chirat   Nicole,Ali   Ramlati,1,1
+Dubré-Chirat   Nicole,Savignat   Antoine,0,1
+Krimi   Sonia,Zannier   Hélène,1,1
+Krimi   Sonia,Perrot   Patrice,1,1
+Krimi   Sonia,Bernalicis   Ugo,0,1
+Krimi   Sonia,Potterie   Benoit,1,1
+Krimi   Sonia,Minot   Maxime,0,1
+Krimi   Sonia,Nury   Jérôme,0,1
+Krimi   Sonia,Waserman   Sylvain,1,1
+Krimi   Sonia,Lazaar   Fiona,1,1
+Krimi   Sonia,Da Silva   Dominique,1,1
+Krimi   Sonia,Schellenberger   Raphaël,0,1
+Krimi   Sonia,Le Gendre   Gilles,1,1
+Krimi   Sonia,Naegelen   Christophe,0,1
+Krimi   Sonia,Terlier   Jean,1,1
+Krimi   Sonia,Avia   Laetitia,1,1
+Krimi   Sonia,Lemoine   Patricia,0,1
+Krimi   Sonia,Lebec   Marie,1,1
+Krimi   Sonia,Morenas   Adrien,1,1
+Krimi   Sonia,Braun-Pivet   Yaël,1,1
+Krimi   Sonia,Obono   Danièle,0,1
+Krimi   Sonia,Latombe   Philippe,0,1
+Krimi   Sonia,Rudigoz   Thomas,1,1
+Krimi   Sonia,Thiébaut   Vincent,1,1
+Krimi   Sonia,Ali   Ramlati,1,1
+Krimi   Sonia,Savignat   Antoine,0,1
+Zannier   Hélène,Perrot   Patrice,1,1
+Zannier   Hélène,Bernalicis   Ugo,0,1
+Zannier   Hélène,Potterie   Benoit,1,1
+Zannier   Hélène,Minot   Maxime,0,1
+Zannier   Hélène,Nury   Jérôme,0,1
+Zannier   Hélène,Waserman   Sylvain,1,1
+Zannier   Hélène,Lazaar   Fiona,1,1
+Zannier   Hélène,Da Silva   Dominique,1,1
+Zannier   Hélène,Schellenberger   Raphaël,0,1
+Zannier   Hélène,Le Gendre   Gilles,1,1
+Zannier   Hélène,Naegelen   Christophe,0,1
+Zannier   Hélène,Terlier   Jean,1,1
+Zannier   Hélène,Avia   Laetitia,1,1
+Zannier   Hélène,Lemoine   Patricia,0,1
+Zannier   Hélène,Lebec   Marie,1,1
+Zannier   Hélène,Morenas   Adrien,1,1
+Zannier   Hélène,Braun-Pivet   Yaël,1,1
+Zannier   Hélène,Obono   Danièle,0,1
+Zannier   Hélène,Latombe   Philippe,0,1
+Zannier   Hélène,Rudigoz   Thomas,1,1
+Zannier   Hélène,Thiébaut   Vincent,1,1
+Zannier   Hélène,Ali   Ramlati,1,1
+Zannier   Hélène,Savignat   Antoine,0,1
+Perrot   Patrice,Bernalicis   Ugo,0,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Minot   Maxime,0,1
+Perrot   Patrice,Nury   Jérôme,0,1
+Perrot   Patrice,Waserman   Sylvain,1,1
+Perrot   Patrice,Lazaar   Fiona,1,1
+Perrot   Patrice,Da Silva   Dominique,1,1
+Perrot   Patrice,Schellenberger   Raphaël,0,1
+Perrot   Patrice,Le Gendre   Gilles,1,1
+Perrot   Patrice,Naegelen   Christophe,0,1
+Perrot   Patrice,Terlier   Jean,1,1
+Perrot   Patrice,Avia   Laetitia,1,1
+Perrot   Patrice,Lemoine   Patricia,0,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,Morenas   Adrien,1,1
+Perrot   Patrice,Braun-Pivet   Yaël,1,1
+Perrot   Patrice,Obono   Danièle,0,1
+Perrot   Patrice,Latombe   Philippe,0,1
+Perrot   Patrice,Rudigoz   Thomas,1,1
+Perrot   Patrice,Thiébaut   Vincent,1,1
+Perrot   Patrice,Ali   Ramlati,1,1
+Perrot   Patrice,Savignat   Antoine,0,1
+Bernalicis   Ugo,Potterie   Benoit,0,1
+Bernalicis   Ugo,Minot   Maxime,1,1
+Bernalicis   Ugo,Nury   Jérôme,1,1
+Bernalicis   Ugo,Waserman   Sylvain,0,1
+Bernalicis   Ugo,Lazaar   Fiona,0,1
+Bernalicis   Ugo,Da Silva   Dominique,0,1
+Bernalicis   Ugo,Schellenberger   Raphaël,1,1
+Bernalicis   Ugo,Le Gendre   Gilles,0,1
+Bernalicis   Ugo,Naegelen   Christophe,1,1
+Bernalicis   Ugo,Terlier   Jean,0,1
+Bernalicis   Ugo,Avia   Laetitia,0,1
+Bernalicis   Ugo,Lemoine   Patricia,1,1
+Bernalicis   Ugo,Lebec   Marie,0,1
+Bernalicis   Ugo,Morenas   Adrien,0,1
+Bernalicis   Ugo,Braun-Pivet   Yaël,0,1
+Bernalicis   Ugo,Obono   Danièle,1,1
+Bernalicis   Ugo,Latombe   Philippe,1,1
+Bernalicis   Ugo,Rudigoz   Thomas,0,1
+Bernalicis   Ugo,Thiébaut   Vincent,0,1
+Bernalicis   Ugo,Ali   Ramlati,0,1
+Bernalicis   Ugo,Savignat   Antoine,1,1
+Potterie   Benoit,Minot   Maxime,0,1
+Potterie   Benoit,Nury   Jérôme,0,1
+Potterie   Benoit,Waserman   Sylvain,1,1
+Potterie   Benoit,Lazaar   Fiona,1,1
+Potterie   Benoit,Da Silva   Dominique,1,1
+Potterie   Benoit,Schellenberger   Raphaël,0,1
+Potterie   Benoit,Le Gendre   Gilles,1,1
+Potterie   Benoit,Naegelen   Christophe,0,1
+Potterie   Benoit,Terlier   Jean,1,1
+Potterie   Benoit,Avia   Laetitia,1,1
+Potterie   Benoit,Lemoine   Patricia,0,1
+Potterie   Benoit,Lebec   Marie,1,1
+Potterie   Benoit,Morenas   Adrien,1,1
+Potterie   Benoit,Braun-Pivet   Yaël,1,1
+Potterie   Benoit,Obono   Danièle,0,1
+Potterie   Benoit,Latombe   Philippe,0,1
+Potterie   Benoit,Rudigoz   Thomas,1,1
+Potterie   Benoit,Thiébaut   Vincent,1,1
+Potterie   Benoit,Ali   Ramlati,1,1
+Potterie   Benoit,Savignat   Antoine,0,1
+Minot   Maxime,Nury   Jérôme,1,1
+Minot   Maxime,Waserman   Sylvain,0,1
+Minot   Maxime,Lazaar   Fiona,0,1
+Minot   Maxime,Da Silva   Dominique,0,1
+Minot   Maxime,Schellenberger   Raphaël,1,1
+Minot   Maxime,Le Gendre   Gilles,0,1
+Minot   Maxime,Naegelen   Christophe,1,1
+Minot   Maxime,Terlier   Jean,0,1
+Minot   Maxime,Avia   Laetitia,0,1
+Minot   Maxime,Lemoine   Patricia,1,1
+Minot   Maxime,Lebec   Marie,0,1
+Minot   Maxime,Morenas   Adrien,0,1
+Minot   Maxime,Braun-Pivet   Yaël,0,1
+Minot   Maxime,Obono   Danièle,1,1
+Minot   Maxime,Latombe   Philippe,1,1
+Minot   Maxime,Rudigoz   Thomas,0,1
+Minot   Maxime,Thiébaut   Vincent,0,1
+Minot   Maxime,Ali   Ramlati,0,1
+Minot   Maxime,Savignat   Antoine,1,1
+Nury   Jérôme,Waserman   Sylvain,0,1
+Nury   Jérôme,Lazaar   Fiona,0,1
+Nury   Jérôme,Da Silva   Dominique,0,1
+Nury   Jérôme,Schellenberger   Raphaël,1,1
+Nury   Jérôme,Le Gendre   Gilles,0,1
+Nury   Jérôme,Naegelen   Christophe,1,1
+Nury   Jérôme,Terlier   Jean,0,1
+Nury   Jérôme,Avia   Laetitia,0,1
+Nury   Jérôme,Lemoine   Patricia,1,1
+Nury   Jérôme,Lebec   Marie,0,1
+Nury   Jérôme,Morenas   Adrien,0,1
+Nury   Jérôme,Braun-Pivet   Yaël,0,1
+Nury   Jérôme,Obono   Danièle,1,1
+Nury   Jérôme,Latombe   Philippe,1,1
+Nury   Jérôme,Rudigoz   Thomas,0,1
+Nury   Jérôme,Thiébaut   Vincent,0,1
+Nury   Jérôme,Ali   Ramlati,0,1
+Nury   Jérôme,Savignat   Antoine,1,1
+Waserman   Sylvain,Lazaar   Fiona,1,1
+Waserman   Sylvain,Da Silva   Dominique,1,1
+Waserman   Sylvain,Schellenberger   Raphaël,0,1
+Waserman   Sylvain,Le Gendre   Gilles,1,1
+Waserman   Sylvain,Naegelen   Christophe,0,1
+Waserman   Sylvain,Terlier   Jean,1,1
+Waserman   Sylvain,Avia   Laetitia,1,1
+Waserman   Sylvain,Lemoine   Patricia,0,1
+Waserman   Sylvain,Lebec   Marie,1,1
+Waserman   Sylvain,Morenas   Adrien,1,1
+Waserman   Sylvain,Braun-Pivet   Yaël,1,1
+Waserman   Sylvain,Obono   Danièle,0,1
+Waserman   Sylvain,Latombe   Philippe,0,1
+Waserman   Sylvain,Rudigoz   Thomas,1,1
+Waserman   Sylvain,Thiébaut   Vincent,1,1
+Waserman   Sylvain,Ali   Ramlati,1,1
+Waserman   Sylvain,Savignat   Antoine,0,1
+Lazaar   Fiona,Da Silva   Dominique,1,1
+Lazaar   Fiona,Schellenberger   Raphaël,0,1
+Lazaar   Fiona,Le Gendre   Gilles,1,1
+Lazaar   Fiona,Naegelen   Christophe,0,1
+Lazaar   Fiona,Terlier   Jean,1,1
+Lazaar   Fiona,Avia   Laetitia,1,1
+Lazaar   Fiona,Lemoine   Patricia,0,1
+Lazaar   Fiona,Lebec   Marie,1,1
+Lazaar   Fiona,Morenas   Adrien,1,1
+Lazaar   Fiona,Braun-Pivet   Yaël,1,1
+Lazaar   Fiona,Obono   Danièle,0,1
+Lazaar   Fiona,Latombe   Philippe,0,1
+Lazaar   Fiona,Rudigoz   Thomas,1,1
+Lazaar   Fiona,Thiébaut   Vincent,1,1
+Lazaar   Fiona,Ali   Ramlati,1,1
+Lazaar   Fiona,Savignat   Antoine,0,1
+Da Silva   Dominique,Schellenberger   Raphaël,0,1
+Da Silva   Dominique,Le Gendre   Gilles,1,1
+Da Silva   Dominique,Naegelen   Christophe,0,1
+Da Silva   Dominique,Terlier   Jean,1,1
+Da Silva   Dominique,Avia   Laetitia,1,1
+Da Silva   Dominique,Lemoine   Patricia,0,1
+Da Silva   Dominique,Lebec   Marie,1,1
+Da Silva   Dominique,Morenas   Adrien,1,1
+Da Silva   Dominique,Braun-Pivet   Yaël,1,1
+Da Silva   Dominique,Obono   Danièle,0,1
+Da Silva   Dominique,Latombe   Philippe,0,1
+Da Silva   Dominique,Rudigoz   Thomas,1,1
+Da Silva   Dominique,Thiébaut   Vincent,1,1
+Da Silva   Dominique,Ali   Ramlati,1,1
+Da Silva   Dominique,Savignat   Antoine,0,1
+Schellenberger   Raphaël,Le Gendre   Gilles,0,1
+Schellenberger   Raphaël,Naegelen   Christophe,1,1
+Schellenberger   Raphaël,Terlier   Jean,0,1
+Schellenberger   Raphaël,Avia   Laetitia,0,1
+Schellenberger   Raphaël,Lemoine   Patricia,1,1
+Schellenberger   Raphaël,Lebec   Marie,0,1
+Schellenberger   Raphaël,Morenas   Adrien,0,1
+Schellenberger   Raphaël,Braun-Pivet   Yaël,0,1
+Schellenberger   Raphaël,Obono   Danièle,1,1
+Schellenberger   Raphaël,Latombe   Philippe,1,1
+Schellenberger   Raphaël,Rudigoz   Thomas,0,1
+Schellenberger   Raphaël,Thiébaut   Vincent,0,1
+Schellenberger   Raphaël,Ali   Ramlati,0,1
+Schellenberger   Raphaël,Savignat   Antoine,1,1
+Le Gendre   Gilles,Naegelen   Christophe,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Avia   Laetitia,1,1
+Le Gendre   Gilles,Lemoine   Patricia,0,1
+Le Gendre   Gilles,Lebec   Marie,1,1
+Le Gendre   Gilles,Morenas   Adrien,1,1
+Le Gendre   Gilles,Braun-Pivet   Yaël,1,1
+Le Gendre   Gilles,Obono   Danièle,0,1
+Le Gendre   Gilles,Latombe   Philippe,0,1
+Le Gendre   Gilles,Rudigoz   Thomas,1,1
+Le Gendre   Gilles,Thiébaut   Vincent,1,1
+Le Gendre   Gilles,Ali   Ramlati,1,1
+Le Gendre   Gilles,Savignat   Antoine,0,1
+Naegelen   Christophe,Terlier   Jean,0,1
+Naegelen   Christophe,Avia   Laetitia,0,1
+Naegelen   Christophe,Lemoine   Patricia,1,1
+Naegelen   Christophe,Lebec   Marie,0,1
+Naegelen   Christophe,Morenas   Adrien,0,1
+Naegelen   Christophe,Braun-Pivet   Yaël,0,1
+Naegelen   Christophe,Obono   Danièle,1,1
+Naegelen   Christophe,Latombe   Philippe,1,1
+Naegelen   Christophe,Rudigoz   Thomas,0,1
+Naegelen   Christophe,Thiébaut   Vincent,0,1
+Naegelen   Christophe,Ali   Ramlati,0,1
+Naegelen   Christophe,Savignat   Antoine,1,1
+Terlier   Jean,Avia   Laetitia,1,1
+Terlier   Jean,Lemoine   Patricia,0,1
+Terlier   Jean,Lebec   Marie,1,1
+Terlier   Jean,Morenas   Adrien,1,1
+Terlier   Jean,Braun-Pivet   Yaël,1,1
+Terlier   Jean,Obono   Danièle,0,1
+Terlier   Jean,Latombe   Philippe,0,1
+Terlier   Jean,Rudigoz   Thomas,1,1
+Terlier   Jean,Thiébaut   Vincent,1,1
+Terlier   Jean,Ali   Ramlati,1,1
+Terlier   Jean,Savignat   Antoine,0,1
+Avia   Laetitia,Lemoine   Patricia,0,1
+Avia   Laetitia,Lebec   Marie,1,1
+Avia   Laetitia,Morenas   Adrien,1,1
+Avia   Laetitia,Braun-Pivet   Yaël,1,1
+Avia   Laetitia,Obono   Danièle,0,1
+Avia   Laetitia,Latombe   Philippe,0,1
+Avia   Laetitia,Rudigoz   Thomas,1,1
+Avia   Laetitia,Thiébaut   Vincent,1,1
+Avia   Laetitia,Ali   Ramlati,1,1
+Avia   Laetitia,Savignat   Antoine,0,1
+Lemoine   Patricia,Lebec   Marie,0,1
+Lemoine   Patricia,Morenas   Adrien,0,1
+Lemoine   Patricia,Braun-Pivet   Yaël,0,1
+Lemoine   Patricia,Obono   Danièle,1,1
+Lemoine   Patricia,Latombe   Philippe,1,1
+Lemoine   Patricia,Rudigoz   Thomas,0,1
+Lemoine   Patricia,Thiébaut   Vincent,0,1
+Lemoine   Patricia,Ali   Ramlati,0,1
+Lemoine   Patricia,Savignat   Antoine,1,1
+Lebec   Marie,Morenas   Adrien,1,1
+Lebec   Marie,Braun-Pivet   Yaël,1,1
+Lebec   Marie,Obono   Danièle,0,1
+Lebec   Marie,Latombe   Philippe,0,1
+Lebec   Marie,Rudigoz   Thomas,1,1
+Lebec   Marie,Thiébaut   Vincent,1,1
+Lebec   Marie,Ali   Ramlati,1,1
+Lebec   Marie,Savignat   Antoine,0,1
+Morenas   Adrien,Braun-Pivet   Yaël,1,1
+Morenas   Adrien,Obono   Danièle,0,1
+Morenas   Adrien,Latombe   Philippe,0,1
+Morenas   Adrien,Rudigoz   Thomas,1,1
+Morenas   Adrien,Thiébaut   Vincent,1,1
+Morenas   Adrien,Ali   Ramlati,1,1
+Morenas   Adrien,Savignat   Antoine,0,1
+Braun-Pivet   Yaël,Obono   Danièle,0,1
+Braun-Pivet   Yaël,Latombe   Philippe,0,1
+Braun-Pivet   Yaël,Rudigoz   Thomas,1,1
+Braun-Pivet   Yaël,Thiébaut   Vincent,1,1
+Braun-Pivet   Yaël,Ali   Ramlati,1,1
+Braun-Pivet   Yaël,Savignat   Antoine,0,1
+Obono   Danièle,Latombe   Philippe,1,1
+Obono   Danièle,Rudigoz   Thomas,0,1
+Obono   Danièle,Thiébaut   Vincent,0,1
+Obono   Danièle,Ali   Ramlati,0,1
+Obono   Danièle,Savignat   Antoine,1,1
+Latombe   Philippe,Rudigoz   Thomas,0,1
+Latombe   Philippe,Thiébaut   Vincent,0,1
+Latombe   Philippe,Ali   Ramlati,0,1
+Latombe   Philippe,Savignat   Antoine,1,1
+Rudigoz   Thomas,Thiébaut   Vincent,1,1
+Rudigoz   Thomas,Ali   Ramlati,1,1
+Rudigoz   Thomas,Savignat   Antoine,0,1
+Thiébaut   Vincent,Ali   Ramlati,1,1
+Thiébaut   Vincent,Savignat   Antoine,0,1
+Ali   Ramlati,Savignat   Antoine,0,1

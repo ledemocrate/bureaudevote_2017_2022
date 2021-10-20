@@ -1,0 +1,781 @@
+from,to,vote_commun,loi_commun
+David   Alain,Herbillon   Michel,0,1
+David   Alain,Mélenchon   Jean-Luc,1,1
+David   Alain,Hutin   Christian,1,1
+David   Alain,Lecoq   Jean-Paul,1,1
+David   Alain,Autain   Clémentine,1,1
+David   Alain,Givernet   Olga,0,1
+David   Alain,Cordier   Pierre,0,1
+David   Alain,Larive   Michel,1,1
+David   Alain,Zulesi   Jean-Marc,0,1
+David   Alain,Laqhila   Mohamed,0,1
+David   Alain,Le Vigoureux   Fabrice,0,1
+David   Alain,Joncour   Bruno,0,1
+David   Alain,Kerlogot   Yannick,0,1
+David   Alain,Clapot   Mireille,0,1
+David   Alain,Chapelier   Annie,0,1
+David   Alain,Vignon   Corinne,0,1
+David   Alain,Mette   Sophie,0,1
+David   Alain,Kamowski   Catherine,0,1
+David   Alain,Amadou   Aude,0,1
+David   Alain,Saint-Paul   Laetitia,0,1
+David   Alain,Masséglia   Denis,0,1
+David   Alain,Kuric   Aina,0,1
+David   Alain,Girardin   Éric,0,1
+David   Alain,Fiat   Caroline,1,1
+David   Alain,Trisse   Nicole,0,1
+David   Alain,Di Pompeo   Christophe,0,1
+David   Alain,Liso   Brigitte,0,1
+David   Alain,Houbron   Dimitri,0,1
+David   Alain,Thomas   Valérie,0,1
+David   Alain,Rilhac   Cécile,0,1
+David   Alain,Lakrafi   Amélia,0,1
+David   Alain,Genetet   Anne,0,1
+David   Alain,Son-Forget   Joachim,0,1
+David   Alain,Petit   Frédéric,0,1
+David   Alain,Mignola   Patrick,0,1
+David   Alain,Lenne   Marion,0,1
+David   Alain,Fuchs   Bruno,0,1
+David   Alain,Thiébaut   Vincent,0,1
+David   Alain,Corneloup   Josiane,0,1
+Herbillon   Michel,Mélenchon   Jean-Luc,0,1
+Herbillon   Michel,Hutin   Christian,0,1
+Herbillon   Michel,Lecoq   Jean-Paul,0,1
+Herbillon   Michel,Autain   Clémentine,0,1
+Herbillon   Michel,Givernet   Olga,1,1
+Herbillon   Michel,Cordier   Pierre,1,1
+Herbillon   Michel,Larive   Michel,0,1
+Herbillon   Michel,Zulesi   Jean-Marc,1,1
+Herbillon   Michel,Laqhila   Mohamed,1,1
+Herbillon   Michel,Le Vigoureux   Fabrice,1,1
+Herbillon   Michel,Joncour   Bruno,1,1
+Herbillon   Michel,Kerlogot   Yannick,1,1
+Herbillon   Michel,Clapot   Mireille,1,1
+Herbillon   Michel,Chapelier   Annie,1,1
+Herbillon   Michel,Vignon   Corinne,1,1
+Herbillon   Michel,Mette   Sophie,1,1
+Herbillon   Michel,Kamowski   Catherine,1,1
+Herbillon   Michel,Amadou   Aude,1,1
+Herbillon   Michel,Saint-Paul   Laetitia,1,1
+Herbillon   Michel,Masséglia   Denis,1,1
+Herbillon   Michel,Kuric   Aina,1,1
+Herbillon   Michel,Girardin   Éric,1,1
+Herbillon   Michel,Fiat   Caroline,0,1
+Herbillon   Michel,Trisse   Nicole,1,1
+Herbillon   Michel,Di Pompeo   Christophe,1,1
+Herbillon   Michel,Liso   Brigitte,1,1
+Herbillon   Michel,Houbron   Dimitri,1,1
+Herbillon   Michel,Thomas   Valérie,1,1
+Herbillon   Michel,Rilhac   Cécile,1,1
+Herbillon   Michel,Lakrafi   Amélia,1,1
+Herbillon   Michel,Genetet   Anne,1,1
+Herbillon   Michel,Son-Forget   Joachim,1,1
+Herbillon   Michel,Petit   Frédéric,1,1
+Herbillon   Michel,Mignola   Patrick,1,1
+Herbillon   Michel,Lenne   Marion,1,1
+Herbillon   Michel,Fuchs   Bruno,1,1
+Herbillon   Michel,Thiébaut   Vincent,1,1
+Herbillon   Michel,Corneloup   Josiane,1,1
+Mélenchon   Jean-Luc,Hutin   Christian,1,1
+Mélenchon   Jean-Luc,Lecoq   Jean-Paul,1,1
+Mélenchon   Jean-Luc,Autain   Clémentine,1,1
+Mélenchon   Jean-Luc,Givernet   Olga,0,1
+Mélenchon   Jean-Luc,Cordier   Pierre,0,1
+Mélenchon   Jean-Luc,Larive   Michel,1,1
+Mélenchon   Jean-Luc,Zulesi   Jean-Marc,0,1
+Mélenchon   Jean-Luc,Laqhila   Mohamed,0,1
+Mélenchon   Jean-Luc,Le Vigoureux   Fabrice,0,1
+Mélenchon   Jean-Luc,Joncour   Bruno,0,1
+Mélenchon   Jean-Luc,Kerlogot   Yannick,0,1
+Mélenchon   Jean-Luc,Clapot   Mireille,0,1
+Mélenchon   Jean-Luc,Chapelier   Annie,0,1
+Mélenchon   Jean-Luc,Vignon   Corinne,0,1
+Mélenchon   Jean-Luc,Mette   Sophie,0,1
+Mélenchon   Jean-Luc,Kamowski   Catherine,0,1
+Mélenchon   Jean-Luc,Amadou   Aude,0,1
+Mélenchon   Jean-Luc,Saint-Paul   Laetitia,0,1
+Mélenchon   Jean-Luc,Masséglia   Denis,0,1
+Mélenchon   Jean-Luc,Kuric   Aina,0,1
+Mélenchon   Jean-Luc,Girardin   Éric,0,1
+Mélenchon   Jean-Luc,Fiat   Caroline,1,1
+Mélenchon   Jean-Luc,Trisse   Nicole,0,1
+Mélenchon   Jean-Luc,Di Pompeo   Christophe,0,1
+Mélenchon   Jean-Luc,Liso   Brigitte,0,1
+Mélenchon   Jean-Luc,Houbron   Dimitri,0,1
+Mélenchon   Jean-Luc,Thomas   Valérie,0,1
+Mélenchon   Jean-Luc,Rilhac   Cécile,0,1
+Mélenchon   Jean-Luc,Lakrafi   Amélia,0,1
+Mélenchon   Jean-Luc,Genetet   Anne,0,1
+Mélenchon   Jean-Luc,Son-Forget   Joachim,0,1
+Mélenchon   Jean-Luc,Petit   Frédéric,0,1
+Mélenchon   Jean-Luc,Mignola   Patrick,0,1
+Mélenchon   Jean-Luc,Lenne   Marion,0,1
+Mélenchon   Jean-Luc,Fuchs   Bruno,0,1
+Mélenchon   Jean-Luc,Thiébaut   Vincent,0,1
+Mélenchon   Jean-Luc,Corneloup   Josiane,0,1
+Hutin   Christian,Lecoq   Jean-Paul,1,1
+Hutin   Christian,Autain   Clémentine,1,1
+Hutin   Christian,Givernet   Olga,0,1
+Hutin   Christian,Cordier   Pierre,0,1
+Hutin   Christian,Larive   Michel,1,1
+Hutin   Christian,Zulesi   Jean-Marc,0,1
+Hutin   Christian,Laqhila   Mohamed,0,1
+Hutin   Christian,Le Vigoureux   Fabrice,0,1
+Hutin   Christian,Joncour   Bruno,0,1
+Hutin   Christian,Kerlogot   Yannick,0,1
+Hutin   Christian,Clapot   Mireille,0,1
+Hutin   Christian,Chapelier   Annie,0,1
+Hutin   Christian,Vignon   Corinne,0,1
+Hutin   Christian,Mette   Sophie,0,1
+Hutin   Christian,Kamowski   Catherine,0,1
+Hutin   Christian,Amadou   Aude,0,1
+Hutin   Christian,Saint-Paul   Laetitia,0,1
+Hutin   Christian,Masséglia   Denis,0,1
+Hutin   Christian,Kuric   Aina,0,1
+Hutin   Christian,Girardin   Éric,0,1
+Hutin   Christian,Fiat   Caroline,1,1
+Hutin   Christian,Trisse   Nicole,0,1
+Hutin   Christian,Di Pompeo   Christophe,0,1
+Hutin   Christian,Liso   Brigitte,0,1
+Hutin   Christian,Houbron   Dimitri,0,1
+Hutin   Christian,Thomas   Valérie,0,1
+Hutin   Christian,Rilhac   Cécile,0,1
+Hutin   Christian,Lakrafi   Amélia,0,1
+Hutin   Christian,Genetet   Anne,0,1
+Hutin   Christian,Son-Forget   Joachim,0,1
+Hutin   Christian,Petit   Frédéric,0,1
+Hutin   Christian,Mignola   Patrick,0,1
+Hutin   Christian,Lenne   Marion,0,1
+Hutin   Christian,Fuchs   Bruno,0,1
+Hutin   Christian,Thiébaut   Vincent,0,1
+Hutin   Christian,Corneloup   Josiane,0,1
+Lecoq   Jean-Paul,Autain   Clémentine,1,1
+Lecoq   Jean-Paul,Givernet   Olga,0,1
+Lecoq   Jean-Paul,Cordier   Pierre,0,1
+Lecoq   Jean-Paul,Larive   Michel,1,1
+Lecoq   Jean-Paul,Zulesi   Jean-Marc,0,1
+Lecoq   Jean-Paul,Laqhila   Mohamed,0,1
+Lecoq   Jean-Paul,Le Vigoureux   Fabrice,0,1
+Lecoq   Jean-Paul,Joncour   Bruno,0,1
+Lecoq   Jean-Paul,Kerlogot   Yannick,0,1
+Lecoq   Jean-Paul,Clapot   Mireille,0,1
+Lecoq   Jean-Paul,Chapelier   Annie,0,1
+Lecoq   Jean-Paul,Vignon   Corinne,0,1
+Lecoq   Jean-Paul,Mette   Sophie,0,1
+Lecoq   Jean-Paul,Kamowski   Catherine,0,1
+Lecoq   Jean-Paul,Amadou   Aude,0,1
+Lecoq   Jean-Paul,Saint-Paul   Laetitia,0,1
+Lecoq   Jean-Paul,Masséglia   Denis,0,1
+Lecoq   Jean-Paul,Kuric   Aina,0,1
+Lecoq   Jean-Paul,Girardin   Éric,0,1
+Lecoq   Jean-Paul,Fiat   Caroline,1,1
+Lecoq   Jean-Paul,Trisse   Nicole,0,1
+Lecoq   Jean-Paul,Di Pompeo   Christophe,0,1
+Lecoq   Jean-Paul,Liso   Brigitte,0,1
+Lecoq   Jean-Paul,Houbron   Dimitri,0,1
+Lecoq   Jean-Paul,Thomas   Valérie,0,1
+Lecoq   Jean-Paul,Rilhac   Cécile,0,1
+Lecoq   Jean-Paul,Lakrafi   Amélia,0,1
+Lecoq   Jean-Paul,Genetet   Anne,0,1
+Lecoq   Jean-Paul,Son-Forget   Joachim,0,1
+Lecoq   Jean-Paul,Petit   Frédéric,0,1
+Lecoq   Jean-Paul,Mignola   Patrick,0,1
+Lecoq   Jean-Paul,Lenne   Marion,0,1
+Lecoq   Jean-Paul,Fuchs   Bruno,0,1
+Lecoq   Jean-Paul,Thiébaut   Vincent,0,1
+Lecoq   Jean-Paul,Corneloup   Josiane,0,1
+Autain   Clémentine,Givernet   Olga,0,1
+Autain   Clémentine,Cordier   Pierre,0,1
+Autain   Clémentine,Larive   Michel,1,1
+Autain   Clémentine,Zulesi   Jean-Marc,0,1
+Autain   Clémentine,Laqhila   Mohamed,0,1
+Autain   Clémentine,Le Vigoureux   Fabrice,0,1
+Autain   Clémentine,Joncour   Bruno,0,1
+Autain   Clémentine,Kerlogot   Yannick,0,1
+Autain   Clémentine,Clapot   Mireille,0,1
+Autain   Clémentine,Chapelier   Annie,0,1
+Autain   Clémentine,Vignon   Corinne,0,1
+Autain   Clémentine,Mette   Sophie,0,1
+Autain   Clémentine,Kamowski   Catherine,0,1
+Autain   Clémentine,Amadou   Aude,0,1
+Autain   Clémentine,Saint-Paul   Laetitia,0,1
+Autain   Clémentine,Masséglia   Denis,0,1
+Autain   Clémentine,Kuric   Aina,0,1
+Autain   Clémentine,Girardin   Éric,0,1
+Autain   Clémentine,Fiat   Caroline,1,1
+Autain   Clémentine,Trisse   Nicole,0,1
+Autain   Clémentine,Di Pompeo   Christophe,0,1
+Autain   Clémentine,Liso   Brigitte,0,1
+Autain   Clémentine,Houbron   Dimitri,0,1
+Autain   Clémentine,Thomas   Valérie,0,1
+Autain   Clémentine,Rilhac   Cécile,0,1
+Autain   Clémentine,Lakrafi   Amélia,0,1
+Autain   Clémentine,Genetet   Anne,0,1
+Autain   Clémentine,Son-Forget   Joachim,0,1
+Autain   Clémentine,Petit   Frédéric,0,1
+Autain   Clémentine,Mignola   Patrick,0,1
+Autain   Clémentine,Lenne   Marion,0,1
+Autain   Clémentine,Fuchs   Bruno,0,1
+Autain   Clémentine,Thiébaut   Vincent,0,1
+Autain   Clémentine,Corneloup   Josiane,0,1
+Givernet   Olga,Cordier   Pierre,1,1
+Givernet   Olga,Larive   Michel,0,1
+Givernet   Olga,Zulesi   Jean-Marc,1,1
+Givernet   Olga,Laqhila   Mohamed,1,1
+Givernet   Olga,Le Vigoureux   Fabrice,1,1
+Givernet   Olga,Joncour   Bruno,1,1
+Givernet   Olga,Kerlogot   Yannick,1,1
+Givernet   Olga,Clapot   Mireille,1,1
+Givernet   Olga,Chapelier   Annie,1,1
+Givernet   Olga,Vignon   Corinne,1,1
+Givernet   Olga,Mette   Sophie,1,1
+Givernet   Olga,Kamowski   Catherine,1,1
+Givernet   Olga,Amadou   Aude,1,1
+Givernet   Olga,Saint-Paul   Laetitia,1,1
+Givernet   Olga,Masséglia   Denis,1,1
+Givernet   Olga,Kuric   Aina,1,1
+Givernet   Olga,Girardin   Éric,1,1
+Givernet   Olga,Fiat   Caroline,0,1
+Givernet   Olga,Trisse   Nicole,1,1
+Givernet   Olga,Di Pompeo   Christophe,1,1
+Givernet   Olga,Liso   Brigitte,1,1
+Givernet   Olga,Houbron   Dimitri,1,1
+Givernet   Olga,Thomas   Valérie,1,1
+Givernet   Olga,Rilhac   Cécile,1,1
+Givernet   Olga,Lakrafi   Amélia,1,1
+Givernet   Olga,Genetet   Anne,1,1
+Givernet   Olga,Son-Forget   Joachim,1,1
+Givernet   Olga,Petit   Frédéric,1,1
+Givernet   Olga,Mignola   Patrick,1,1
+Givernet   Olga,Lenne   Marion,1,1
+Givernet   Olga,Fuchs   Bruno,1,1
+Givernet   Olga,Thiébaut   Vincent,1,1
+Givernet   Olga,Corneloup   Josiane,1,1
+Cordier   Pierre,Larive   Michel,0,1
+Cordier   Pierre,Zulesi   Jean-Marc,1,1
+Cordier   Pierre,Laqhila   Mohamed,1,1
+Cordier   Pierre,Le Vigoureux   Fabrice,1,1
+Cordier   Pierre,Joncour   Bruno,1,1
+Cordier   Pierre,Kerlogot   Yannick,1,1
+Cordier   Pierre,Clapot   Mireille,1,1
+Cordier   Pierre,Chapelier   Annie,1,1
+Cordier   Pierre,Vignon   Corinne,1,1
+Cordier   Pierre,Mette   Sophie,1,1
+Cordier   Pierre,Kamowski   Catherine,1,1
+Cordier   Pierre,Amadou   Aude,1,1
+Cordier   Pierre,Saint-Paul   Laetitia,1,1
+Cordier   Pierre,Masséglia   Denis,1,1
+Cordier   Pierre,Kuric   Aina,1,1
+Cordier   Pierre,Girardin   Éric,1,1
+Cordier   Pierre,Fiat   Caroline,0,1
+Cordier   Pierre,Trisse   Nicole,1,1
+Cordier   Pierre,Di Pompeo   Christophe,1,1
+Cordier   Pierre,Liso   Brigitte,1,1
+Cordier   Pierre,Houbron   Dimitri,1,1
+Cordier   Pierre,Thomas   Valérie,1,1
+Cordier   Pierre,Rilhac   Cécile,1,1
+Cordier   Pierre,Lakrafi   Amélia,1,1
+Cordier   Pierre,Genetet   Anne,1,1
+Cordier   Pierre,Son-Forget   Joachim,1,1
+Cordier   Pierre,Petit   Frédéric,1,1
+Cordier   Pierre,Mignola   Patrick,1,1
+Cordier   Pierre,Lenne   Marion,1,1
+Cordier   Pierre,Fuchs   Bruno,1,1
+Cordier   Pierre,Thiébaut   Vincent,1,1
+Cordier   Pierre,Corneloup   Josiane,1,1
+Larive   Michel,Zulesi   Jean-Marc,0,1
+Larive   Michel,Laqhila   Mohamed,0,1
+Larive   Michel,Le Vigoureux   Fabrice,0,1
+Larive   Michel,Joncour   Bruno,0,1
+Larive   Michel,Kerlogot   Yannick,0,1
+Larive   Michel,Clapot   Mireille,0,1
+Larive   Michel,Chapelier   Annie,0,1
+Larive   Michel,Vignon   Corinne,0,1
+Larive   Michel,Mette   Sophie,0,1
+Larive   Michel,Kamowski   Catherine,0,1
+Larive   Michel,Amadou   Aude,0,1
+Larive   Michel,Saint-Paul   Laetitia,0,1
+Larive   Michel,Masséglia   Denis,0,1
+Larive   Michel,Kuric   Aina,0,1
+Larive   Michel,Girardin   Éric,0,1
+Larive   Michel,Fiat   Caroline,1,1
+Larive   Michel,Trisse   Nicole,0,1
+Larive   Michel,Di Pompeo   Christophe,0,1
+Larive   Michel,Liso   Brigitte,0,1
+Larive   Michel,Houbron   Dimitri,0,1
+Larive   Michel,Thomas   Valérie,0,1
+Larive   Michel,Rilhac   Cécile,0,1
+Larive   Michel,Lakrafi   Amélia,0,1
+Larive   Michel,Genetet   Anne,0,1
+Larive   Michel,Son-Forget   Joachim,0,1
+Larive   Michel,Petit   Frédéric,0,1
+Larive   Michel,Mignola   Patrick,0,1
+Larive   Michel,Lenne   Marion,0,1
+Larive   Michel,Fuchs   Bruno,0,1
+Larive   Michel,Thiébaut   Vincent,0,1
+Larive   Michel,Corneloup   Josiane,0,1
+Zulesi   Jean-Marc,Laqhila   Mohamed,1,1
+Zulesi   Jean-Marc,Le Vigoureux   Fabrice,1,1
+Zulesi   Jean-Marc,Joncour   Bruno,1,1
+Zulesi   Jean-Marc,Kerlogot   Yannick,1,1
+Zulesi   Jean-Marc,Clapot   Mireille,1,1
+Zulesi   Jean-Marc,Chapelier   Annie,1,1
+Zulesi   Jean-Marc,Vignon   Corinne,1,1
+Zulesi   Jean-Marc,Mette   Sophie,1,1
+Zulesi   Jean-Marc,Kamowski   Catherine,1,1
+Zulesi   Jean-Marc,Amadou   Aude,1,1
+Zulesi   Jean-Marc,Saint-Paul   Laetitia,1,1
+Zulesi   Jean-Marc,Masséglia   Denis,1,1
+Zulesi   Jean-Marc,Kuric   Aina,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,Fiat   Caroline,0,1
+Zulesi   Jean-Marc,Trisse   Nicole,1,1
+Zulesi   Jean-Marc,Di Pompeo   Christophe,1,1
+Zulesi   Jean-Marc,Liso   Brigitte,1,1
+Zulesi   Jean-Marc,Houbron   Dimitri,1,1
+Zulesi   Jean-Marc,Thomas   Valérie,1,1
+Zulesi   Jean-Marc,Rilhac   Cécile,1,1
+Zulesi   Jean-Marc,Lakrafi   Amélia,1,1
+Zulesi   Jean-Marc,Genetet   Anne,1,1
+Zulesi   Jean-Marc,Son-Forget   Joachim,1,1
+Zulesi   Jean-Marc,Petit   Frédéric,1,1
+Zulesi   Jean-Marc,Mignola   Patrick,1,1
+Zulesi   Jean-Marc,Lenne   Marion,1,1
+Zulesi   Jean-Marc,Fuchs   Bruno,1,1
+Zulesi   Jean-Marc,Thiébaut   Vincent,1,1
+Zulesi   Jean-Marc,Corneloup   Josiane,1,1
+Laqhila   Mohamed,Le Vigoureux   Fabrice,1,1
+Laqhila   Mohamed,Joncour   Bruno,1,1
+Laqhila   Mohamed,Kerlogot   Yannick,1,1
+Laqhila   Mohamed,Clapot   Mireille,1,1
+Laqhila   Mohamed,Chapelier   Annie,1,1
+Laqhila   Mohamed,Vignon   Corinne,1,1
+Laqhila   Mohamed,Mette   Sophie,1,1
+Laqhila   Mohamed,Kamowski   Catherine,1,1
+Laqhila   Mohamed,Amadou   Aude,1,1
+Laqhila   Mohamed,Saint-Paul   Laetitia,1,1
+Laqhila   Mohamed,Masséglia   Denis,1,1
+Laqhila   Mohamed,Kuric   Aina,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Fiat   Caroline,0,1
+Laqhila   Mohamed,Trisse   Nicole,1,1
+Laqhila   Mohamed,Di Pompeo   Christophe,1,1
+Laqhila   Mohamed,Liso   Brigitte,1,1
+Laqhila   Mohamed,Houbron   Dimitri,1,1
+Laqhila   Mohamed,Thomas   Valérie,1,1
+Laqhila   Mohamed,Rilhac   Cécile,1,1
+Laqhila   Mohamed,Lakrafi   Amélia,1,1
+Laqhila   Mohamed,Genetet   Anne,1,1
+Laqhila   Mohamed,Son-Forget   Joachim,1,1
+Laqhila   Mohamed,Petit   Frédéric,1,1
+Laqhila   Mohamed,Mignola   Patrick,1,1
+Laqhila   Mohamed,Lenne   Marion,1,1
+Laqhila   Mohamed,Fuchs   Bruno,1,1
+Laqhila   Mohamed,Thiébaut   Vincent,1,1
+Laqhila   Mohamed,Corneloup   Josiane,1,1
+Le Vigoureux   Fabrice,Joncour   Bruno,1,1
+Le Vigoureux   Fabrice,Kerlogot   Yannick,1,1
+Le Vigoureux   Fabrice,Clapot   Mireille,1,1
+Le Vigoureux   Fabrice,Chapelier   Annie,1,1
+Le Vigoureux   Fabrice,Vignon   Corinne,1,1
+Le Vigoureux   Fabrice,Mette   Sophie,1,1
+Le Vigoureux   Fabrice,Kamowski   Catherine,1,1
+Le Vigoureux   Fabrice,Amadou   Aude,1,1
+Le Vigoureux   Fabrice,Saint-Paul   Laetitia,1,1
+Le Vigoureux   Fabrice,Masséglia   Denis,1,1
+Le Vigoureux   Fabrice,Kuric   Aina,1,1
+Le Vigoureux   Fabrice,Girardin   Éric,1,1
+Le Vigoureux   Fabrice,Fiat   Caroline,0,1
+Le Vigoureux   Fabrice,Trisse   Nicole,1,1
+Le Vigoureux   Fabrice,Di Pompeo   Christophe,1,1
+Le Vigoureux   Fabrice,Liso   Brigitte,1,1
+Le Vigoureux   Fabrice,Houbron   Dimitri,1,1
+Le Vigoureux   Fabrice,Thomas   Valérie,1,1
+Le Vigoureux   Fabrice,Rilhac   Cécile,1,1
+Le Vigoureux   Fabrice,Lakrafi   Amélia,1,1
+Le Vigoureux   Fabrice,Genetet   Anne,1,1
+Le Vigoureux   Fabrice,Son-Forget   Joachim,1,1
+Le Vigoureux   Fabrice,Petit   Frédéric,1,1
+Le Vigoureux   Fabrice,Mignola   Patrick,1,1
+Le Vigoureux   Fabrice,Lenne   Marion,1,1
+Le Vigoureux   Fabrice,Fuchs   Bruno,1,1
+Le Vigoureux   Fabrice,Thiébaut   Vincent,1,1
+Le Vigoureux   Fabrice,Corneloup   Josiane,1,1
+Joncour   Bruno,Kerlogot   Yannick,1,1
+Joncour   Bruno,Clapot   Mireille,1,1
+Joncour   Bruno,Chapelier   Annie,1,1
+Joncour   Bruno,Vignon   Corinne,1,1
+Joncour   Bruno,Mette   Sophie,1,1
+Joncour   Bruno,Kamowski   Catherine,1,1
+Joncour   Bruno,Amadou   Aude,1,1
+Joncour   Bruno,Saint-Paul   Laetitia,1,1
+Joncour   Bruno,Masséglia   Denis,1,1
+Joncour   Bruno,Kuric   Aina,1,1
+Joncour   Bruno,Girardin   Éric,1,1
+Joncour   Bruno,Fiat   Caroline,0,1
+Joncour   Bruno,Trisse   Nicole,1,1
+Joncour   Bruno,Di Pompeo   Christophe,1,1
+Joncour   Bruno,Liso   Brigitte,1,1
+Joncour   Bruno,Houbron   Dimitri,1,1
+Joncour   Bruno,Thomas   Valérie,1,1
+Joncour   Bruno,Rilhac   Cécile,1,1
+Joncour   Bruno,Lakrafi   Amélia,1,1
+Joncour   Bruno,Genetet   Anne,1,1
+Joncour   Bruno,Son-Forget   Joachim,1,1
+Joncour   Bruno,Petit   Frédéric,1,1
+Joncour   Bruno,Mignola   Patrick,1,1
+Joncour   Bruno,Lenne   Marion,1,1
+Joncour   Bruno,Fuchs   Bruno,1,1
+Joncour   Bruno,Thiébaut   Vincent,1,1
+Joncour   Bruno,Corneloup   Josiane,1,1
+Kerlogot   Yannick,Clapot   Mireille,1,1
+Kerlogot   Yannick,Chapelier   Annie,1,1
+Kerlogot   Yannick,Vignon   Corinne,1,1
+Kerlogot   Yannick,Mette   Sophie,1,1
+Kerlogot   Yannick,Kamowski   Catherine,1,1
+Kerlogot   Yannick,Amadou   Aude,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Masséglia   Denis,1,1
+Kerlogot   Yannick,Kuric   Aina,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Fiat   Caroline,0,1
+Kerlogot   Yannick,Trisse   Nicole,1,1
+Kerlogot   Yannick,Di Pompeo   Christophe,1,1
+Kerlogot   Yannick,Liso   Brigitte,1,1
+Kerlogot   Yannick,Houbron   Dimitri,1,1
+Kerlogot   Yannick,Thomas   Valérie,1,1
+Kerlogot   Yannick,Rilhac   Cécile,1,1
+Kerlogot   Yannick,Lakrafi   Amélia,1,1
+Kerlogot   Yannick,Genetet   Anne,1,1
+Kerlogot   Yannick,Son-Forget   Joachim,1,1
+Kerlogot   Yannick,Petit   Frédéric,1,1
+Kerlogot   Yannick,Mignola   Patrick,1,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Fuchs   Bruno,1,1
+Kerlogot   Yannick,Thiébaut   Vincent,1,1
+Kerlogot   Yannick,Corneloup   Josiane,1,1
+Clapot   Mireille,Chapelier   Annie,1,1
+Clapot   Mireille,Vignon   Corinne,1,1
+Clapot   Mireille,Mette   Sophie,1,1
+Clapot   Mireille,Kamowski   Catherine,1,1
+Clapot   Mireille,Amadou   Aude,1,1
+Clapot   Mireille,Saint-Paul   Laetitia,1,1
+Clapot   Mireille,Masséglia   Denis,1,1
+Clapot   Mireille,Kuric   Aina,1,1
+Clapot   Mireille,Girardin   Éric,1,1
+Clapot   Mireille,Fiat   Caroline,0,1
+Clapot   Mireille,Trisse   Nicole,1,1
+Clapot   Mireille,Di Pompeo   Christophe,1,1
+Clapot   Mireille,Liso   Brigitte,1,1
+Clapot   Mireille,Houbron   Dimitri,1,1
+Clapot   Mireille,Thomas   Valérie,1,1
+Clapot   Mireille,Rilhac   Cécile,1,1
+Clapot   Mireille,Lakrafi   Amélia,1,1
+Clapot   Mireille,Genetet   Anne,1,1
+Clapot   Mireille,Son-Forget   Joachim,1,1
+Clapot   Mireille,Petit   Frédéric,1,1
+Clapot   Mireille,Mignola   Patrick,1,1
+Clapot   Mireille,Lenne   Marion,1,1
+Clapot   Mireille,Fuchs   Bruno,1,1
+Clapot   Mireille,Thiébaut   Vincent,1,1
+Clapot   Mireille,Corneloup   Josiane,1,1
+Chapelier   Annie,Vignon   Corinne,1,1
+Chapelier   Annie,Mette   Sophie,1,1
+Chapelier   Annie,Kamowski   Catherine,1,1
+Chapelier   Annie,Amadou   Aude,1,1
+Chapelier   Annie,Saint-Paul   Laetitia,1,1
+Chapelier   Annie,Masséglia   Denis,1,1
+Chapelier   Annie,Kuric   Aina,1,1
+Chapelier   Annie,Girardin   Éric,1,1
+Chapelier   Annie,Fiat   Caroline,0,1
+Chapelier   Annie,Trisse   Nicole,1,1
+Chapelier   Annie,Di Pompeo   Christophe,1,1
+Chapelier   Annie,Liso   Brigitte,1,1
+Chapelier   Annie,Houbron   Dimitri,1,1
+Chapelier   Annie,Thomas   Valérie,1,1
+Chapelier   Annie,Rilhac   Cécile,1,1
+Chapelier   Annie,Lakrafi   Amélia,1,1
+Chapelier   Annie,Genetet   Anne,1,1
+Chapelier   Annie,Son-Forget   Joachim,1,1
+Chapelier   Annie,Petit   Frédéric,1,1
+Chapelier   Annie,Mignola   Patrick,1,1
+Chapelier   Annie,Lenne   Marion,1,1
+Chapelier   Annie,Fuchs   Bruno,1,1
+Chapelier   Annie,Thiébaut   Vincent,1,1
+Chapelier   Annie,Corneloup   Josiane,1,1
+Vignon   Corinne,Mette   Sophie,1,1
+Vignon   Corinne,Kamowski   Catherine,1,1
+Vignon   Corinne,Amadou   Aude,1,1
+Vignon   Corinne,Saint-Paul   Laetitia,1,1
+Vignon   Corinne,Masséglia   Denis,1,1
+Vignon   Corinne,Kuric   Aina,1,1
+Vignon   Corinne,Girardin   Éric,1,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Trisse   Nicole,1,1
+Vignon   Corinne,Di Pompeo   Christophe,1,1
+Vignon   Corinne,Liso   Brigitte,1,1
+Vignon   Corinne,Houbron   Dimitri,1,1
+Vignon   Corinne,Thomas   Valérie,1,1
+Vignon   Corinne,Rilhac   Cécile,1,1
+Vignon   Corinne,Lakrafi   Amélia,1,1
+Vignon   Corinne,Genetet   Anne,1,1
+Vignon   Corinne,Son-Forget   Joachim,1,1
+Vignon   Corinne,Petit   Frédéric,1,1
+Vignon   Corinne,Mignola   Patrick,1,1
+Vignon   Corinne,Lenne   Marion,1,1
+Vignon   Corinne,Fuchs   Bruno,1,1
+Vignon   Corinne,Thiébaut   Vincent,1,1
+Vignon   Corinne,Corneloup   Josiane,1,1
+Mette   Sophie,Kamowski   Catherine,1,1
+Mette   Sophie,Amadou   Aude,1,1
+Mette   Sophie,Saint-Paul   Laetitia,1,1
+Mette   Sophie,Masséglia   Denis,1,1
+Mette   Sophie,Kuric   Aina,1,1
+Mette   Sophie,Girardin   Éric,1,1
+Mette   Sophie,Fiat   Caroline,0,1
+Mette   Sophie,Trisse   Nicole,1,1
+Mette   Sophie,Di Pompeo   Christophe,1,1
+Mette   Sophie,Liso   Brigitte,1,1
+Mette   Sophie,Houbron   Dimitri,1,1
+Mette   Sophie,Thomas   Valérie,1,1
+Mette   Sophie,Rilhac   Cécile,1,1
+Mette   Sophie,Lakrafi   Amélia,1,1
+Mette   Sophie,Genetet   Anne,1,1
+Mette   Sophie,Son-Forget   Joachim,1,1
+Mette   Sophie,Petit   Frédéric,1,1
+Mette   Sophie,Mignola   Patrick,1,1
+Mette   Sophie,Lenne   Marion,1,1
+Mette   Sophie,Fuchs   Bruno,1,1
+Mette   Sophie,Thiébaut   Vincent,1,1
+Mette   Sophie,Corneloup   Josiane,1,1
+Kamowski   Catherine,Amadou   Aude,1,1
+Kamowski   Catherine,Saint-Paul   Laetitia,1,1
+Kamowski   Catherine,Masséglia   Denis,1,1
+Kamowski   Catherine,Kuric   Aina,1,1
+Kamowski   Catherine,Girardin   Éric,1,1
+Kamowski   Catherine,Fiat   Caroline,0,1
+Kamowski   Catherine,Trisse   Nicole,1,1
+Kamowski   Catherine,Di Pompeo   Christophe,1,1
+Kamowski   Catherine,Liso   Brigitte,1,1
+Kamowski   Catherine,Houbron   Dimitri,1,1
+Kamowski   Catherine,Thomas   Valérie,1,1
+Kamowski   Catherine,Rilhac   Cécile,1,1
+Kamowski   Catherine,Lakrafi   Amélia,1,1
+Kamowski   Catherine,Genetet   Anne,1,1
+Kamowski   Catherine,Son-Forget   Joachim,1,1
+Kamowski   Catherine,Petit   Frédéric,1,1
+Kamowski   Catherine,Mignola   Patrick,1,1
+Kamowski   Catherine,Lenne   Marion,1,1
+Kamowski   Catherine,Fuchs   Bruno,1,1
+Kamowski   Catherine,Thiébaut   Vincent,1,1
+Kamowski   Catherine,Corneloup   Josiane,1,1
+Amadou   Aude,Saint-Paul   Laetitia,1,1
+Amadou   Aude,Masséglia   Denis,1,1
+Amadou   Aude,Kuric   Aina,1,1
+Amadou   Aude,Girardin   Éric,1,1
+Amadou   Aude,Fiat   Caroline,0,1
+Amadou   Aude,Trisse   Nicole,1,1
+Amadou   Aude,Di Pompeo   Christophe,1,1
+Amadou   Aude,Liso   Brigitte,1,1
+Amadou   Aude,Houbron   Dimitri,1,1
+Amadou   Aude,Thomas   Valérie,1,1
+Amadou   Aude,Rilhac   Cécile,1,1
+Amadou   Aude,Lakrafi   Amélia,1,1
+Amadou   Aude,Genetet   Anne,1,1
+Amadou   Aude,Son-Forget   Joachim,1,1
+Amadou   Aude,Petit   Frédéric,1,1
+Amadou   Aude,Mignola   Patrick,1,1
+Amadou   Aude,Lenne   Marion,1,1
+Amadou   Aude,Fuchs   Bruno,1,1
+Amadou   Aude,Thiébaut   Vincent,1,1
+Amadou   Aude,Corneloup   Josiane,1,1
+Saint-Paul   Laetitia,Masséglia   Denis,1,1
+Saint-Paul   Laetitia,Kuric   Aina,1,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Fiat   Caroline,0,1
+Saint-Paul   Laetitia,Trisse   Nicole,1,1
+Saint-Paul   Laetitia,Di Pompeo   Christophe,1,1
+Saint-Paul   Laetitia,Liso   Brigitte,1,1
+Saint-Paul   Laetitia,Houbron   Dimitri,1,1
+Saint-Paul   Laetitia,Thomas   Valérie,1,1
+Saint-Paul   Laetitia,Rilhac   Cécile,1,1
+Saint-Paul   Laetitia,Lakrafi   Amélia,1,1
+Saint-Paul   Laetitia,Genetet   Anne,1,1
+Saint-Paul   Laetitia,Son-Forget   Joachim,1,1
+Saint-Paul   Laetitia,Petit   Frédéric,1,1
+Saint-Paul   Laetitia,Mignola   Patrick,1,1
+Saint-Paul   Laetitia,Lenne   Marion,1,1
+Saint-Paul   Laetitia,Fuchs   Bruno,1,1
+Saint-Paul   Laetitia,Thiébaut   Vincent,1,1
+Saint-Paul   Laetitia,Corneloup   Josiane,1,1
+Masséglia   Denis,Kuric   Aina,1,1
+Masséglia   Denis,Girardin   Éric,1,1
+Masséglia   Denis,Fiat   Caroline,0,1
+Masséglia   Denis,Trisse   Nicole,1,1
+Masséglia   Denis,Di Pompeo   Christophe,1,1
+Masséglia   Denis,Liso   Brigitte,1,1
+Masséglia   Denis,Houbron   Dimitri,1,1
+Masséglia   Denis,Thomas   Valérie,1,1
+Masséglia   Denis,Rilhac   Cécile,1,1
+Masséglia   Denis,Lakrafi   Amélia,1,1
+Masséglia   Denis,Genetet   Anne,1,1
+Masséglia   Denis,Son-Forget   Joachim,1,1
+Masséglia   Denis,Petit   Frédéric,1,1
+Masséglia   Denis,Mignola   Patrick,1,1
+Masséglia   Denis,Lenne   Marion,1,1
+Masséglia   Denis,Fuchs   Bruno,1,1
+Masséglia   Denis,Thiébaut   Vincent,1,1
+Masséglia   Denis,Corneloup   Josiane,1,1
+Kuric   Aina,Girardin   Éric,1,1
+Kuric   Aina,Fiat   Caroline,0,1
+Kuric   Aina,Trisse   Nicole,1,1
+Kuric   Aina,Di Pompeo   Christophe,1,1
+Kuric   Aina,Liso   Brigitte,1,1
+Kuric   Aina,Houbron   Dimitri,1,1
+Kuric   Aina,Thomas   Valérie,1,1
+Kuric   Aina,Rilhac   Cécile,1,1
+Kuric   Aina,Lakrafi   Amélia,1,1
+Kuric   Aina,Genetet   Anne,1,1
+Kuric   Aina,Son-Forget   Joachim,1,1
+Kuric   Aina,Petit   Frédéric,1,1
+Kuric   Aina,Mignola   Patrick,1,1
+Kuric   Aina,Lenne   Marion,1,1
+Kuric   Aina,Fuchs   Bruno,1,1
+Kuric   Aina,Thiébaut   Vincent,1,1
+Kuric   Aina,Corneloup   Josiane,1,1
+Girardin   Éric,Fiat   Caroline,0,1
+Girardin   Éric,Trisse   Nicole,1,1
+Girardin   Éric,Di Pompeo   Christophe,1,1
+Girardin   Éric,Liso   Brigitte,1,1
+Girardin   Éric,Houbron   Dimitri,1,1
+Girardin   Éric,Thomas   Valérie,1,1
+Girardin   Éric,Rilhac   Cécile,1,1
+Girardin   Éric,Lakrafi   Amélia,1,1
+Girardin   Éric,Genetet   Anne,1,1
+Girardin   Éric,Son-Forget   Joachim,1,1
+Girardin   Éric,Petit   Frédéric,1,1
+Girardin   Éric,Mignola   Patrick,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Fuchs   Bruno,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Girardin   Éric,Corneloup   Josiane,1,1
+Fiat   Caroline,Trisse   Nicole,0,1
+Fiat   Caroline,Di Pompeo   Christophe,0,1
+Fiat   Caroline,Liso   Brigitte,0,1
+Fiat   Caroline,Houbron   Dimitri,0,1
+Fiat   Caroline,Thomas   Valérie,0,1
+Fiat   Caroline,Rilhac   Cécile,0,1
+Fiat   Caroline,Lakrafi   Amélia,0,1
+Fiat   Caroline,Genetet   Anne,0,1
+Fiat   Caroline,Son-Forget   Joachim,0,1
+Fiat   Caroline,Petit   Frédéric,0,1
+Fiat   Caroline,Mignola   Patrick,0,1
+Fiat   Caroline,Lenne   Marion,0,1
+Fiat   Caroline,Fuchs   Bruno,0,1
+Fiat   Caroline,Thiébaut   Vincent,0,1
+Fiat   Caroline,Corneloup   Josiane,0,1
+Trisse   Nicole,Di Pompeo   Christophe,1,1
+Trisse   Nicole,Liso   Brigitte,1,1
+Trisse   Nicole,Houbron   Dimitri,1,1
+Trisse   Nicole,Thomas   Valérie,1,1
+Trisse   Nicole,Rilhac   Cécile,1,1
+Trisse   Nicole,Lakrafi   Amélia,1,1
+Trisse   Nicole,Genetet   Anne,1,1
+Trisse   Nicole,Son-Forget   Joachim,1,1
+Trisse   Nicole,Petit   Frédéric,1,1
+Trisse   Nicole,Mignola   Patrick,1,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Fuchs   Bruno,1,1
+Trisse   Nicole,Thiébaut   Vincent,1,1
+Trisse   Nicole,Corneloup   Josiane,1,1
+Di Pompeo   Christophe,Liso   Brigitte,1,1
+Di Pompeo   Christophe,Houbron   Dimitri,1,1
+Di Pompeo   Christophe,Thomas   Valérie,1,1
+Di Pompeo   Christophe,Rilhac   Cécile,1,1
+Di Pompeo   Christophe,Lakrafi   Amélia,1,1
+Di Pompeo   Christophe,Genetet   Anne,1,1
+Di Pompeo   Christophe,Son-Forget   Joachim,1,1
+Di Pompeo   Christophe,Petit   Frédéric,1,1
+Di Pompeo   Christophe,Mignola   Patrick,1,1
+Di Pompeo   Christophe,Lenne   Marion,1,1
+Di Pompeo   Christophe,Fuchs   Bruno,1,1
+Di Pompeo   Christophe,Thiébaut   Vincent,1,1
+Di Pompeo   Christophe,Corneloup   Josiane,1,1
+Liso   Brigitte,Houbron   Dimitri,1,1
+Liso   Brigitte,Thomas   Valérie,1,1
+Liso   Brigitte,Rilhac   Cécile,1,1
+Liso   Brigitte,Lakrafi   Amélia,1,1
+Liso   Brigitte,Genetet   Anne,1,1
+Liso   Brigitte,Son-Forget   Joachim,1,1
+Liso   Brigitte,Petit   Frédéric,1,1
+Liso   Brigitte,Mignola   Patrick,1,1
+Liso   Brigitte,Lenne   Marion,1,1
+Liso   Brigitte,Fuchs   Bruno,1,1
+Liso   Brigitte,Thiébaut   Vincent,1,1
+Liso   Brigitte,Corneloup   Josiane,1,1
+Houbron   Dimitri,Thomas   Valérie,1,1
+Houbron   Dimitri,Rilhac   Cécile,1,1
+Houbron   Dimitri,Lakrafi   Amélia,1,1
+Houbron   Dimitri,Genetet   Anne,1,1
+Houbron   Dimitri,Son-Forget   Joachim,1,1
+Houbron   Dimitri,Petit   Frédéric,1,1
+Houbron   Dimitri,Mignola   Patrick,1,1
+Houbron   Dimitri,Lenne   Marion,1,1
+Houbron   Dimitri,Fuchs   Bruno,1,1
+Houbron   Dimitri,Thiébaut   Vincent,1,1
+Houbron   Dimitri,Corneloup   Josiane,1,1
+Thomas   Valérie,Rilhac   Cécile,1,1
+Thomas   Valérie,Lakrafi   Amélia,1,1
+Thomas   Valérie,Genetet   Anne,1,1
+Thomas   Valérie,Son-Forget   Joachim,1,1
+Thomas   Valérie,Petit   Frédéric,1,1
+Thomas   Valérie,Mignola   Patrick,1,1
+Thomas   Valérie,Lenne   Marion,1,1
+Thomas   Valérie,Fuchs   Bruno,1,1
+Thomas   Valérie,Thiébaut   Vincent,1,1
+Thomas   Valérie,Corneloup   Josiane,1,1
+Rilhac   Cécile,Lakrafi   Amélia,1,1
+Rilhac   Cécile,Genetet   Anne,1,1
+Rilhac   Cécile,Son-Forget   Joachim,1,1
+Rilhac   Cécile,Petit   Frédéric,1,1
+Rilhac   Cécile,Mignola   Patrick,1,1
+Rilhac   Cécile,Lenne   Marion,1,1
+Rilhac   Cécile,Fuchs   Bruno,1,1
+Rilhac   Cécile,Thiébaut   Vincent,1,1
+Rilhac   Cécile,Corneloup   Josiane,1,1
+Lakrafi   Amélia,Genetet   Anne,1,1
+Lakrafi   Amélia,Son-Forget   Joachim,1,1
+Lakrafi   Amélia,Petit   Frédéric,1,1
+Lakrafi   Amélia,Mignola   Patrick,1,1
+Lakrafi   Amélia,Lenne   Marion,1,1
+Lakrafi   Amélia,Fuchs   Bruno,1,1
+Lakrafi   Amélia,Thiébaut   Vincent,1,1
+Lakrafi   Amélia,Corneloup   Josiane,1,1
+Genetet   Anne,Son-Forget   Joachim,1,1
+Genetet   Anne,Petit   Frédéric,1,1
+Genetet   Anne,Mignola   Patrick,1,1
+Genetet   Anne,Lenne   Marion,1,1
+Genetet   Anne,Fuchs   Bruno,1,1
+Genetet   Anne,Thiébaut   Vincent,1,1
+Genetet   Anne,Corneloup   Josiane,1,1
+Son-Forget   Joachim,Petit   Frédéric,1,1
+Son-Forget   Joachim,Mignola   Patrick,1,1
+Son-Forget   Joachim,Lenne   Marion,1,1
+Son-Forget   Joachim,Fuchs   Bruno,1,1
+Son-Forget   Joachim,Thiébaut   Vincent,1,1
+Son-Forget   Joachim,Corneloup   Josiane,1,1
+Petit   Frédéric,Mignola   Patrick,1,1
+Petit   Frédéric,Lenne   Marion,1,1
+Petit   Frédéric,Fuchs   Bruno,1,1
+Petit   Frédéric,Thiébaut   Vincent,1,1
+Petit   Frédéric,Corneloup   Josiane,1,1
+Mignola   Patrick,Lenne   Marion,1,1
+Mignola   Patrick,Fuchs   Bruno,1,1
+Mignola   Patrick,Thiébaut   Vincent,1,1
+Mignola   Patrick,Corneloup   Josiane,1,1
+Lenne   Marion,Fuchs   Bruno,1,1
+Lenne   Marion,Thiébaut   Vincent,1,1
+Lenne   Marion,Corneloup   Josiane,1,1
+Fuchs   Bruno,Thiébaut   Vincent,1,1
+Fuchs   Bruno,Corneloup   Josiane,1,1
+Thiébaut   Vincent,Corneloup   Josiane,1,1

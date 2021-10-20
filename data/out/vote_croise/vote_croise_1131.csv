@@ -1,0 +1,821 @@
+from,to,vote_commun,loi_commun
+Chassaigne   André,Benoit   Thierry,0,1
+Chassaigne   André,Batho   Delphine,1,1
+Chassaigne   André,Lambert   François-Michel,0,1
+Chassaigne   André,Potier   Dominique,0,1
+Chassaigne   André,Bridey   Jean-Jacques,0,1
+Chassaigne   André,Delatte   Marc,0,1
+Chassaigne   André,Zulesi   Jean-Marc,0,1
+Chassaigne   André,Blanc   Anne,0,1
+Chassaigne   André,Martin   Didier,0,1
+Chassaigne   André,Moreau   Jean-Baptiste,0,1
+Chassaigne   André,de Lavergne   Célia,0,1
+Chassaigne   André,Le Meur   Annaïg,0,1
+Chassaigne   André,Cazeneuve   Jean-René,0,1
+Chassaigne   André,Toutut-Picard   Élisabeth,0,1
+Chassaigne   André,Ménard   Emmanuelle,1,1
+Chassaigne   André,Dubos   Christelle,0,1
+Chassaigne   André,Maillart-Méhaignerie   Laurence,0,1
+Chassaigne   André,Labaronne   Daniel,0,1
+Chassaigne   André,Colboc   Fabienne,0,1
+Chassaigne   André,Limon   Monique,0,1
+Chassaigne   André,Dubré-Chirat   Nicole,0,1
+Chassaigne   André,Beauvais   Valérie,1,1
+Chassaigne   André,Magnier   Lise,0,1
+Chassaigne   André,Le Peih   Nicole,0,1
+Chassaigne   André,Nury   Jérôme,1,1
+Chassaigne   André,Lachaud   Bastien,1,1
+Chassaigne   André,Bassire   Nathalie,1,1
+Chassaigne   André,Dunoyer   Philippe,0,1
+Chassaigne   André,Gaillot   Albane,0,1
+Chassaigne   André,Pichereau   Damien,0,1
+Chassaigne   André,Rossi   Laurianne,0,1
+Chassaigne   André,Piron   Béatrice,0,1
+Chassaigne   André,de Vaucouleurs   Michèle,0,1
+Chassaigne   André,Bournazel   Pierre-Yves,0,1
+Chassaigne   André,Wulfranc   Hubert,1,1
+Chassaigne   André,Ruffin   François,1,1
+Chassaigne   André,Turquois   Nicolas,0,1
+Chassaigne   André,Jumel   Sébastien,1,1
+Chassaigne   André,Leclabart   Jean-Claude,0,1
+Chassaigne   André,Fugit   Jean-Luc,0,1
+Benoit   Thierry,Batho   Delphine,0,1
+Benoit   Thierry,Lambert   François-Michel,1,1
+Benoit   Thierry,Potier   Dominique,1,1
+Benoit   Thierry,Bridey   Jean-Jacques,0,1
+Benoit   Thierry,Delatte   Marc,0,1
+Benoit   Thierry,Zulesi   Jean-Marc,0,1
+Benoit   Thierry,Blanc   Anne,0,1
+Benoit   Thierry,Martin   Didier,0,1
+Benoit   Thierry,Moreau   Jean-Baptiste,0,1
+Benoit   Thierry,de Lavergne   Célia,0,1
+Benoit   Thierry,Le Meur   Annaïg,0,1
+Benoit   Thierry,Cazeneuve   Jean-René,0,1
+Benoit   Thierry,Toutut-Picard   Élisabeth,0,1
+Benoit   Thierry,Ménard   Emmanuelle,0,1
+Benoit   Thierry,Dubos   Christelle,0,1
+Benoit   Thierry,Maillart-Méhaignerie   Laurence,0,1
+Benoit   Thierry,Labaronne   Daniel,0,1
+Benoit   Thierry,Colboc   Fabienne,0,1
+Benoit   Thierry,Limon   Monique,0,1
+Benoit   Thierry,Dubré-Chirat   Nicole,0,1
+Benoit   Thierry,Beauvais   Valérie,0,1
+Benoit   Thierry,Magnier   Lise,1,1
+Benoit   Thierry,Le Peih   Nicole,0,1
+Benoit   Thierry,Nury   Jérôme,0,1
+Benoit   Thierry,Lachaud   Bastien,0,1
+Benoit   Thierry,Bassire   Nathalie,0,1
+Benoit   Thierry,Dunoyer   Philippe,1,1
+Benoit   Thierry,Gaillot   Albane,0,1
+Benoit   Thierry,Pichereau   Damien,0,1
+Benoit   Thierry,Rossi   Laurianne,0,1
+Benoit   Thierry,Piron   Béatrice,0,1
+Benoit   Thierry,de Vaucouleurs   Michèle,0,1
+Benoit   Thierry,Bournazel   Pierre-Yves,1,1
+Benoit   Thierry,Wulfranc   Hubert,0,1
+Benoit   Thierry,Ruffin   François,0,1
+Benoit   Thierry,Turquois   Nicolas,0,1
+Benoit   Thierry,Jumel   Sébastien,0,1
+Benoit   Thierry,Leclabart   Jean-Claude,0,1
+Benoit   Thierry,Fugit   Jean-Luc,0,1
+Batho   Delphine,Lambert   François-Michel,0,1
+Batho   Delphine,Potier   Dominique,0,1
+Batho   Delphine,Bridey   Jean-Jacques,0,1
+Batho   Delphine,Delatte   Marc,0,1
+Batho   Delphine,Zulesi   Jean-Marc,0,1
+Batho   Delphine,Blanc   Anne,0,1
+Batho   Delphine,Martin   Didier,0,1
+Batho   Delphine,Moreau   Jean-Baptiste,0,1
+Batho   Delphine,de Lavergne   Célia,0,1
+Batho   Delphine,Le Meur   Annaïg,0,1
+Batho   Delphine,Cazeneuve   Jean-René,0,1
+Batho   Delphine,Toutut-Picard   Élisabeth,0,1
+Batho   Delphine,Ménard   Emmanuelle,1,1
+Batho   Delphine,Dubos   Christelle,0,1
+Batho   Delphine,Maillart-Méhaignerie   Laurence,0,1
+Batho   Delphine,Labaronne   Daniel,0,1
+Batho   Delphine,Colboc   Fabienne,0,1
+Batho   Delphine,Limon   Monique,0,1
+Batho   Delphine,Dubré-Chirat   Nicole,0,1
+Batho   Delphine,Beauvais   Valérie,1,1
+Batho   Delphine,Magnier   Lise,0,1
+Batho   Delphine,Le Peih   Nicole,0,1
+Batho   Delphine,Nury   Jérôme,1,1
+Batho   Delphine,Lachaud   Bastien,1,1
+Batho   Delphine,Bassire   Nathalie,1,1
+Batho   Delphine,Dunoyer   Philippe,0,1
+Batho   Delphine,Gaillot   Albane,0,1
+Batho   Delphine,Pichereau   Damien,0,1
+Batho   Delphine,Rossi   Laurianne,0,1
+Batho   Delphine,Piron   Béatrice,0,1
+Batho   Delphine,de Vaucouleurs   Michèle,0,1
+Batho   Delphine,Bournazel   Pierre-Yves,0,1
+Batho   Delphine,Wulfranc   Hubert,1,1
+Batho   Delphine,Ruffin   François,1,1
+Batho   Delphine,Turquois   Nicolas,0,1
+Batho   Delphine,Jumel   Sébastien,1,1
+Batho   Delphine,Leclabart   Jean-Claude,0,1
+Batho   Delphine,Fugit   Jean-Luc,0,1
+Lambert   François-Michel,Potier   Dominique,1,1
+Lambert   François-Michel,Bridey   Jean-Jacques,0,1
+Lambert   François-Michel,Delatte   Marc,0,1
+Lambert   François-Michel,Zulesi   Jean-Marc,0,1
+Lambert   François-Michel,Blanc   Anne,0,1
+Lambert   François-Michel,Martin   Didier,0,1
+Lambert   François-Michel,Moreau   Jean-Baptiste,0,1
+Lambert   François-Michel,de Lavergne   Célia,0,1
+Lambert   François-Michel,Le Meur   Annaïg,0,1
+Lambert   François-Michel,Cazeneuve   Jean-René,0,1
+Lambert   François-Michel,Toutut-Picard   Élisabeth,0,1
+Lambert   François-Michel,Ménard   Emmanuelle,0,1
+Lambert   François-Michel,Dubos   Christelle,0,1
+Lambert   François-Michel,Maillart-Méhaignerie   Laurence,0,1
+Lambert   François-Michel,Labaronne   Daniel,0,1
+Lambert   François-Michel,Colboc   Fabienne,0,1
+Lambert   François-Michel,Limon   Monique,0,1
+Lambert   François-Michel,Dubré-Chirat   Nicole,0,1
+Lambert   François-Michel,Beauvais   Valérie,0,1
+Lambert   François-Michel,Magnier   Lise,1,1
+Lambert   François-Michel,Le Peih   Nicole,0,1
+Lambert   François-Michel,Nury   Jérôme,0,1
+Lambert   François-Michel,Lachaud   Bastien,0,1
+Lambert   François-Michel,Bassire   Nathalie,0,1
+Lambert   François-Michel,Dunoyer   Philippe,1,1
+Lambert   François-Michel,Gaillot   Albane,0,1
+Lambert   François-Michel,Pichereau   Damien,0,1
+Lambert   François-Michel,Rossi   Laurianne,0,1
+Lambert   François-Michel,Piron   Béatrice,0,1
+Lambert   François-Michel,de Vaucouleurs   Michèle,0,1
+Lambert   François-Michel,Bournazel   Pierre-Yves,1,1
+Lambert   François-Michel,Wulfranc   Hubert,0,1
+Lambert   François-Michel,Ruffin   François,0,1
+Lambert   François-Michel,Turquois   Nicolas,0,1
+Lambert   François-Michel,Jumel   Sébastien,0,1
+Lambert   François-Michel,Leclabart   Jean-Claude,0,1
+Lambert   François-Michel,Fugit   Jean-Luc,0,1
+Potier   Dominique,Bridey   Jean-Jacques,0,1
+Potier   Dominique,Delatte   Marc,0,1
+Potier   Dominique,Zulesi   Jean-Marc,0,1
+Potier   Dominique,Blanc   Anne,0,1
+Potier   Dominique,Martin   Didier,0,1
+Potier   Dominique,Moreau   Jean-Baptiste,0,1
+Potier   Dominique,de Lavergne   Célia,0,1
+Potier   Dominique,Le Meur   Annaïg,0,1
+Potier   Dominique,Cazeneuve   Jean-René,0,1
+Potier   Dominique,Toutut-Picard   Élisabeth,0,1
+Potier   Dominique,Ménard   Emmanuelle,0,1
+Potier   Dominique,Dubos   Christelle,0,1
+Potier   Dominique,Maillart-Méhaignerie   Laurence,0,1
+Potier   Dominique,Labaronne   Daniel,0,1
+Potier   Dominique,Colboc   Fabienne,0,1
+Potier   Dominique,Limon   Monique,0,1
+Potier   Dominique,Dubré-Chirat   Nicole,0,1
+Potier   Dominique,Beauvais   Valérie,0,1
+Potier   Dominique,Magnier   Lise,1,1
+Potier   Dominique,Le Peih   Nicole,0,1
+Potier   Dominique,Nury   Jérôme,0,1
+Potier   Dominique,Lachaud   Bastien,0,1
+Potier   Dominique,Bassire   Nathalie,0,1
+Potier   Dominique,Dunoyer   Philippe,1,1
+Potier   Dominique,Gaillot   Albane,0,1
+Potier   Dominique,Pichereau   Damien,0,1
+Potier   Dominique,Rossi   Laurianne,0,1
+Potier   Dominique,Piron   Béatrice,0,1
+Potier   Dominique,de Vaucouleurs   Michèle,0,1
+Potier   Dominique,Bournazel   Pierre-Yves,1,1
+Potier   Dominique,Wulfranc   Hubert,0,1
+Potier   Dominique,Ruffin   François,0,1
+Potier   Dominique,Turquois   Nicolas,0,1
+Potier   Dominique,Jumel   Sébastien,0,1
+Potier   Dominique,Leclabart   Jean-Claude,0,1
+Potier   Dominique,Fugit   Jean-Luc,0,1
+Bridey   Jean-Jacques,Delatte   Marc,1,1
+Bridey   Jean-Jacques,Zulesi   Jean-Marc,1,1
+Bridey   Jean-Jacques,Blanc   Anne,1,1
+Bridey   Jean-Jacques,Martin   Didier,1,1
+Bridey   Jean-Jacques,Moreau   Jean-Baptiste,1,1
+Bridey   Jean-Jacques,de Lavergne   Célia,1,1
+Bridey   Jean-Jacques,Le Meur   Annaïg,1,1
+Bridey   Jean-Jacques,Cazeneuve   Jean-René,1,1
+Bridey   Jean-Jacques,Toutut-Picard   Élisabeth,1,1
+Bridey   Jean-Jacques,Ménard   Emmanuelle,0,1
+Bridey   Jean-Jacques,Dubos   Christelle,1,1
+Bridey   Jean-Jacques,Maillart-Méhaignerie   Laurence,1,1
+Bridey   Jean-Jacques,Labaronne   Daniel,1,1
+Bridey   Jean-Jacques,Colboc   Fabienne,1,1
+Bridey   Jean-Jacques,Limon   Monique,1,1
+Bridey   Jean-Jacques,Dubré-Chirat   Nicole,1,1
+Bridey   Jean-Jacques,Beauvais   Valérie,0,1
+Bridey   Jean-Jacques,Magnier   Lise,0,1
+Bridey   Jean-Jacques,Le Peih   Nicole,1,1
+Bridey   Jean-Jacques,Nury   Jérôme,0,1
+Bridey   Jean-Jacques,Lachaud   Bastien,0,1
+Bridey   Jean-Jacques,Bassire   Nathalie,0,1
+Bridey   Jean-Jacques,Dunoyer   Philippe,0,1
+Bridey   Jean-Jacques,Gaillot   Albane,1,1
+Bridey   Jean-Jacques,Pichereau   Damien,1,1
+Bridey   Jean-Jacques,Rossi   Laurianne,1,1
+Bridey   Jean-Jacques,Piron   Béatrice,1,1
+Bridey   Jean-Jacques,de Vaucouleurs   Michèle,1,1
+Bridey   Jean-Jacques,Bournazel   Pierre-Yves,0,1
+Bridey   Jean-Jacques,Wulfranc   Hubert,0,1
+Bridey   Jean-Jacques,Ruffin   François,0,1
+Bridey   Jean-Jacques,Turquois   Nicolas,1,1
+Bridey   Jean-Jacques,Jumel   Sébastien,0,1
+Bridey   Jean-Jacques,Leclabart   Jean-Claude,1,1
+Bridey   Jean-Jacques,Fugit   Jean-Luc,1,1
+Delatte   Marc,Zulesi   Jean-Marc,1,1
+Delatte   Marc,Blanc   Anne,1,1
+Delatte   Marc,Martin   Didier,1,1
+Delatte   Marc,Moreau   Jean-Baptiste,1,1
+Delatte   Marc,de Lavergne   Célia,1,1
+Delatte   Marc,Le Meur   Annaïg,1,1
+Delatte   Marc,Cazeneuve   Jean-René,1,1
+Delatte   Marc,Toutut-Picard   Élisabeth,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,Dubos   Christelle,1,1
+Delatte   Marc,Maillart-Méhaignerie   Laurence,1,1
+Delatte   Marc,Labaronne   Daniel,1,1
+Delatte   Marc,Colboc   Fabienne,1,1
+Delatte   Marc,Limon   Monique,1,1
+Delatte   Marc,Dubré-Chirat   Nicole,1,1
+Delatte   Marc,Beauvais   Valérie,0,1
+Delatte   Marc,Magnier   Lise,0,1
+Delatte   Marc,Le Peih   Nicole,1,1
+Delatte   Marc,Nury   Jérôme,0,1
+Delatte   Marc,Lachaud   Bastien,0,1
+Delatte   Marc,Bassire   Nathalie,0,1
+Delatte   Marc,Dunoyer   Philippe,0,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Pichereau   Damien,1,1
+Delatte   Marc,Rossi   Laurianne,1,1
+Delatte   Marc,Piron   Béatrice,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Bournazel   Pierre-Yves,0,1
+Delatte   Marc,Wulfranc   Hubert,0,1
+Delatte   Marc,Ruffin   François,0,1
+Delatte   Marc,Turquois   Nicolas,1,1
+Delatte   Marc,Jumel   Sébastien,0,1
+Delatte   Marc,Leclabart   Jean-Claude,1,1
+Delatte   Marc,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,Blanc   Anne,1,1
+Zulesi   Jean-Marc,Martin   Didier,1,1
+Zulesi   Jean-Marc,Moreau   Jean-Baptiste,1,1
+Zulesi   Jean-Marc,de Lavergne   Célia,1,1
+Zulesi   Jean-Marc,Le Meur   Annaïg,1,1
+Zulesi   Jean-Marc,Cazeneuve   Jean-René,1,1
+Zulesi   Jean-Marc,Toutut-Picard   Élisabeth,1,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,0,1
+Zulesi   Jean-Marc,Dubos   Christelle,1,1
+Zulesi   Jean-Marc,Maillart-Méhaignerie   Laurence,1,1
+Zulesi   Jean-Marc,Labaronne   Daniel,1,1
+Zulesi   Jean-Marc,Colboc   Fabienne,1,1
+Zulesi   Jean-Marc,Limon   Monique,1,1
+Zulesi   Jean-Marc,Dubré-Chirat   Nicole,1,1
+Zulesi   Jean-Marc,Beauvais   Valérie,0,1
+Zulesi   Jean-Marc,Magnier   Lise,0,1
+Zulesi   Jean-Marc,Le Peih   Nicole,1,1
+Zulesi   Jean-Marc,Nury   Jérôme,0,1
+Zulesi   Jean-Marc,Lachaud   Bastien,0,1
+Zulesi   Jean-Marc,Bassire   Nathalie,0,1
+Zulesi   Jean-Marc,Dunoyer   Philippe,0,1
+Zulesi   Jean-Marc,Gaillot   Albane,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Rossi   Laurianne,1,1
+Zulesi   Jean-Marc,Piron   Béatrice,1,1
+Zulesi   Jean-Marc,de Vaucouleurs   Michèle,1,1
+Zulesi   Jean-Marc,Bournazel   Pierre-Yves,0,1
+Zulesi   Jean-Marc,Wulfranc   Hubert,0,1
+Zulesi   Jean-Marc,Ruffin   François,0,1
+Zulesi   Jean-Marc,Turquois   Nicolas,1,1
+Zulesi   Jean-Marc,Jumel   Sébastien,0,1
+Zulesi   Jean-Marc,Leclabart   Jean-Claude,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+Blanc   Anne,Martin   Didier,1,1
+Blanc   Anne,Moreau   Jean-Baptiste,1,1
+Blanc   Anne,de Lavergne   Célia,1,1
+Blanc   Anne,Le Meur   Annaïg,1,1
+Blanc   Anne,Cazeneuve   Jean-René,1,1
+Blanc   Anne,Toutut-Picard   Élisabeth,1,1
+Blanc   Anne,Ménard   Emmanuelle,0,1
+Blanc   Anne,Dubos   Christelle,1,1
+Blanc   Anne,Maillart-Méhaignerie   Laurence,1,1
+Blanc   Anne,Labaronne   Daniel,1,1
+Blanc   Anne,Colboc   Fabienne,1,1
+Blanc   Anne,Limon   Monique,1,1
+Blanc   Anne,Dubré-Chirat   Nicole,1,1
+Blanc   Anne,Beauvais   Valérie,0,1
+Blanc   Anne,Magnier   Lise,0,1
+Blanc   Anne,Le Peih   Nicole,1,1
+Blanc   Anne,Nury   Jérôme,0,1
+Blanc   Anne,Lachaud   Bastien,0,1
+Blanc   Anne,Bassire   Nathalie,0,1
+Blanc   Anne,Dunoyer   Philippe,0,1
+Blanc   Anne,Gaillot   Albane,1,1
+Blanc   Anne,Pichereau   Damien,1,1
+Blanc   Anne,Rossi   Laurianne,1,1
+Blanc   Anne,Piron   Béatrice,1,1
+Blanc   Anne,de Vaucouleurs   Michèle,1,1
+Blanc   Anne,Bournazel   Pierre-Yves,0,1
+Blanc   Anne,Wulfranc   Hubert,0,1
+Blanc   Anne,Ruffin   François,0,1
+Blanc   Anne,Turquois   Nicolas,1,1
+Blanc   Anne,Jumel   Sébastien,0,1
+Blanc   Anne,Leclabart   Jean-Claude,1,1
+Blanc   Anne,Fugit   Jean-Luc,1,1
+Martin   Didier,Moreau   Jean-Baptiste,1,1
+Martin   Didier,de Lavergne   Célia,1,1
+Martin   Didier,Le Meur   Annaïg,1,1
+Martin   Didier,Cazeneuve   Jean-René,1,1
+Martin   Didier,Toutut-Picard   Élisabeth,1,1
+Martin   Didier,Ménard   Emmanuelle,0,1
+Martin   Didier,Dubos   Christelle,1,1
+Martin   Didier,Maillart-Méhaignerie   Laurence,1,1
+Martin   Didier,Labaronne   Daniel,1,1
+Martin   Didier,Colboc   Fabienne,1,1
+Martin   Didier,Limon   Monique,1,1
+Martin   Didier,Dubré-Chirat   Nicole,1,1
+Martin   Didier,Beauvais   Valérie,0,1
+Martin   Didier,Magnier   Lise,0,1
+Martin   Didier,Le Peih   Nicole,1,1
+Martin   Didier,Nury   Jérôme,0,1
+Martin   Didier,Lachaud   Bastien,0,1
+Martin   Didier,Bassire   Nathalie,0,1
+Martin   Didier,Dunoyer   Philippe,0,1
+Martin   Didier,Gaillot   Albane,1,1
+Martin   Didier,Pichereau   Damien,1,1
+Martin   Didier,Rossi   Laurianne,1,1
+Martin   Didier,Piron   Béatrice,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Bournazel   Pierre-Yves,0,1
+Martin   Didier,Wulfranc   Hubert,0,1
+Martin   Didier,Ruffin   François,0,1
+Martin   Didier,Turquois   Nicolas,1,1
+Martin   Didier,Jumel   Sébastien,0,1
+Martin   Didier,Leclabart   Jean-Claude,1,1
+Martin   Didier,Fugit   Jean-Luc,1,1
+Moreau   Jean-Baptiste,de Lavergne   Célia,1,1
+Moreau   Jean-Baptiste,Le Meur   Annaïg,1,1
+Moreau   Jean-Baptiste,Cazeneuve   Jean-René,1,1
+Moreau   Jean-Baptiste,Toutut-Picard   Élisabeth,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,0,1
+Moreau   Jean-Baptiste,Dubos   Christelle,1,1
+Moreau   Jean-Baptiste,Maillart-Méhaignerie   Laurence,1,1
+Moreau   Jean-Baptiste,Labaronne   Daniel,1,1
+Moreau   Jean-Baptiste,Colboc   Fabienne,1,1
+Moreau   Jean-Baptiste,Limon   Monique,1,1
+Moreau   Jean-Baptiste,Dubré-Chirat   Nicole,1,1
+Moreau   Jean-Baptiste,Beauvais   Valérie,0,1
+Moreau   Jean-Baptiste,Magnier   Lise,0,1
+Moreau   Jean-Baptiste,Le Peih   Nicole,1,1
+Moreau   Jean-Baptiste,Nury   Jérôme,0,1
+Moreau   Jean-Baptiste,Lachaud   Bastien,0,1
+Moreau   Jean-Baptiste,Bassire   Nathalie,0,1
+Moreau   Jean-Baptiste,Dunoyer   Philippe,0,1
+Moreau   Jean-Baptiste,Gaillot   Albane,1,1
+Moreau   Jean-Baptiste,Pichereau   Damien,1,1
+Moreau   Jean-Baptiste,Rossi   Laurianne,1,1
+Moreau   Jean-Baptiste,Piron   Béatrice,1,1
+Moreau   Jean-Baptiste,de Vaucouleurs   Michèle,1,1
+Moreau   Jean-Baptiste,Bournazel   Pierre-Yves,0,1
+Moreau   Jean-Baptiste,Wulfranc   Hubert,0,1
+Moreau   Jean-Baptiste,Ruffin   François,0,1
+Moreau   Jean-Baptiste,Turquois   Nicolas,1,1
+Moreau   Jean-Baptiste,Jumel   Sébastien,0,1
+Moreau   Jean-Baptiste,Leclabart   Jean-Claude,1,1
+Moreau   Jean-Baptiste,Fugit   Jean-Luc,1,1
+de Lavergne   Célia,Le Meur   Annaïg,1,1
+de Lavergne   Célia,Cazeneuve   Jean-René,1,1
+de Lavergne   Célia,Toutut-Picard   Élisabeth,1,1
+de Lavergne   Célia,Ménard   Emmanuelle,0,1
+de Lavergne   Célia,Dubos   Christelle,1,1
+de Lavergne   Célia,Maillart-Méhaignerie   Laurence,1,1
+de Lavergne   Célia,Labaronne   Daniel,1,1
+de Lavergne   Célia,Colboc   Fabienne,1,1
+de Lavergne   Célia,Limon   Monique,1,1
+de Lavergne   Célia,Dubré-Chirat   Nicole,1,1
+de Lavergne   Célia,Beauvais   Valérie,0,1
+de Lavergne   Célia,Magnier   Lise,0,1
+de Lavergne   Célia,Le Peih   Nicole,1,1
+de Lavergne   Célia,Nury   Jérôme,0,1
+de Lavergne   Célia,Lachaud   Bastien,0,1
+de Lavergne   Célia,Bassire   Nathalie,0,1
+de Lavergne   Célia,Dunoyer   Philippe,0,1
+de Lavergne   Célia,Gaillot   Albane,1,1
+de Lavergne   Célia,Pichereau   Damien,1,1
+de Lavergne   Célia,Rossi   Laurianne,1,1
+de Lavergne   Célia,Piron   Béatrice,1,1
+de Lavergne   Célia,de Vaucouleurs   Michèle,1,1
+de Lavergne   Célia,Bournazel   Pierre-Yves,0,1
+de Lavergne   Célia,Wulfranc   Hubert,0,1
+de Lavergne   Célia,Ruffin   François,0,1
+de Lavergne   Célia,Turquois   Nicolas,1,1
+de Lavergne   Célia,Jumel   Sébastien,0,1
+de Lavergne   Célia,Leclabart   Jean-Claude,1,1
+de Lavergne   Célia,Fugit   Jean-Luc,1,1
+Le Meur   Annaïg,Cazeneuve   Jean-René,1,1
+Le Meur   Annaïg,Toutut-Picard   Élisabeth,1,1
+Le Meur   Annaïg,Ménard   Emmanuelle,0,1
+Le Meur   Annaïg,Dubos   Christelle,1,1
+Le Meur   Annaïg,Maillart-Méhaignerie   Laurence,1,1
+Le Meur   Annaïg,Labaronne   Daniel,1,1
+Le Meur   Annaïg,Colboc   Fabienne,1,1
+Le Meur   Annaïg,Limon   Monique,1,1
+Le Meur   Annaïg,Dubré-Chirat   Nicole,1,1
+Le Meur   Annaïg,Beauvais   Valérie,0,1
+Le Meur   Annaïg,Magnier   Lise,0,1
+Le Meur   Annaïg,Le Peih   Nicole,1,1
+Le Meur   Annaïg,Nury   Jérôme,0,1
+Le Meur   Annaïg,Lachaud   Bastien,0,1
+Le Meur   Annaïg,Bassire   Nathalie,0,1
+Le Meur   Annaïg,Dunoyer   Philippe,0,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Pichereau   Damien,1,1
+Le Meur   Annaïg,Rossi   Laurianne,1,1
+Le Meur   Annaïg,Piron   Béatrice,1,1
+Le Meur   Annaïg,de Vaucouleurs   Michèle,1,1
+Le Meur   Annaïg,Bournazel   Pierre-Yves,0,1
+Le Meur   Annaïg,Wulfranc   Hubert,0,1
+Le Meur   Annaïg,Ruffin   François,0,1
+Le Meur   Annaïg,Turquois   Nicolas,1,1
+Le Meur   Annaïg,Jumel   Sébastien,0,1
+Le Meur   Annaïg,Leclabart   Jean-Claude,1,1
+Le Meur   Annaïg,Fugit   Jean-Luc,1,1
+Cazeneuve   Jean-René,Toutut-Picard   Élisabeth,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,Dubos   Christelle,1,1
+Cazeneuve   Jean-René,Maillart-Méhaignerie   Laurence,1,1
+Cazeneuve   Jean-René,Labaronne   Daniel,1,1
+Cazeneuve   Jean-René,Colboc   Fabienne,1,1
+Cazeneuve   Jean-René,Limon   Monique,1,1
+Cazeneuve   Jean-René,Dubré-Chirat   Nicole,1,1
+Cazeneuve   Jean-René,Beauvais   Valérie,0,1
+Cazeneuve   Jean-René,Magnier   Lise,0,1
+Cazeneuve   Jean-René,Le Peih   Nicole,1,1
+Cazeneuve   Jean-René,Nury   Jérôme,0,1
+Cazeneuve   Jean-René,Lachaud   Bastien,0,1
+Cazeneuve   Jean-René,Bassire   Nathalie,0,1
+Cazeneuve   Jean-René,Dunoyer   Philippe,0,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Pichereau   Damien,1,1
+Cazeneuve   Jean-René,Rossi   Laurianne,1,1
+Cazeneuve   Jean-René,Piron   Béatrice,1,1
+Cazeneuve   Jean-René,de Vaucouleurs   Michèle,1,1
+Cazeneuve   Jean-René,Bournazel   Pierre-Yves,0,1
+Cazeneuve   Jean-René,Wulfranc   Hubert,0,1
+Cazeneuve   Jean-René,Ruffin   François,0,1
+Cazeneuve   Jean-René,Turquois   Nicolas,1,1
+Cazeneuve   Jean-René,Jumel   Sébastien,0,1
+Cazeneuve   Jean-René,Leclabart   Jean-Claude,1,1
+Cazeneuve   Jean-René,Fugit   Jean-Luc,1,1
+Toutut-Picard   Élisabeth,Ménard   Emmanuelle,0,1
+Toutut-Picard   Élisabeth,Dubos   Christelle,1,1
+Toutut-Picard   Élisabeth,Maillart-Méhaignerie   Laurence,1,1
+Toutut-Picard   Élisabeth,Labaronne   Daniel,1,1
+Toutut-Picard   Élisabeth,Colboc   Fabienne,1,1
+Toutut-Picard   Élisabeth,Limon   Monique,1,1
+Toutut-Picard   Élisabeth,Dubré-Chirat   Nicole,1,1
+Toutut-Picard   Élisabeth,Beauvais   Valérie,0,1
+Toutut-Picard   Élisabeth,Magnier   Lise,0,1
+Toutut-Picard   Élisabeth,Le Peih   Nicole,1,1
+Toutut-Picard   Élisabeth,Nury   Jérôme,0,1
+Toutut-Picard   Élisabeth,Lachaud   Bastien,0,1
+Toutut-Picard   Élisabeth,Bassire   Nathalie,0,1
+Toutut-Picard   Élisabeth,Dunoyer   Philippe,0,1
+Toutut-Picard   Élisabeth,Gaillot   Albane,1,1
+Toutut-Picard   Élisabeth,Pichereau   Damien,1,1
+Toutut-Picard   Élisabeth,Rossi   Laurianne,1,1
+Toutut-Picard   Élisabeth,Piron   Béatrice,1,1
+Toutut-Picard   Élisabeth,de Vaucouleurs   Michèle,1,1
+Toutut-Picard   Élisabeth,Bournazel   Pierre-Yves,0,1
+Toutut-Picard   Élisabeth,Wulfranc   Hubert,0,1
+Toutut-Picard   Élisabeth,Ruffin   François,0,1
+Toutut-Picard   Élisabeth,Turquois   Nicolas,1,1
+Toutut-Picard   Élisabeth,Jumel   Sébastien,0,1
+Toutut-Picard   Élisabeth,Leclabart   Jean-Claude,1,1
+Toutut-Picard   Élisabeth,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Dubos   Christelle,0,1
+Ménard   Emmanuelle,Maillart-Méhaignerie   Laurence,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Colboc   Fabienne,0,1
+Ménard   Emmanuelle,Limon   Monique,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Beauvais   Valérie,1,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Le Peih   Nicole,0,1
+Ménard   Emmanuelle,Nury   Jérôme,1,1
+Ménard   Emmanuelle,Lachaud   Bastien,1,1
+Ménard   Emmanuelle,Bassire   Nathalie,1,1
+Ménard   Emmanuelle,Dunoyer   Philippe,0,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Pichereau   Damien,0,1
+Ménard   Emmanuelle,Rossi   Laurianne,0,1
+Ménard   Emmanuelle,Piron   Béatrice,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Bournazel   Pierre-Yves,0,1
+Ménard   Emmanuelle,Wulfranc   Hubert,1,1
+Ménard   Emmanuelle,Ruffin   François,1,1
+Ménard   Emmanuelle,Turquois   Nicolas,0,1
+Ménard   Emmanuelle,Jumel   Sébastien,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,0,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,0,1
+Dubos   Christelle,Maillart-Méhaignerie   Laurence,1,1
+Dubos   Christelle,Labaronne   Daniel,1,1
+Dubos   Christelle,Colboc   Fabienne,1,1
+Dubos   Christelle,Limon   Monique,1,1
+Dubos   Christelle,Dubré-Chirat   Nicole,1,1
+Dubos   Christelle,Beauvais   Valérie,0,1
+Dubos   Christelle,Magnier   Lise,0,1
+Dubos   Christelle,Le Peih   Nicole,1,1
+Dubos   Christelle,Nury   Jérôme,0,1
+Dubos   Christelle,Lachaud   Bastien,0,1
+Dubos   Christelle,Bassire   Nathalie,0,1
+Dubos   Christelle,Dunoyer   Philippe,0,1
+Dubos   Christelle,Gaillot   Albane,1,1
+Dubos   Christelle,Pichereau   Damien,1,1
+Dubos   Christelle,Rossi   Laurianne,1,1
+Dubos   Christelle,Piron   Béatrice,1,1
+Dubos   Christelle,de Vaucouleurs   Michèle,1,1
+Dubos   Christelle,Bournazel   Pierre-Yves,0,1
+Dubos   Christelle,Wulfranc   Hubert,0,1
+Dubos   Christelle,Ruffin   François,0,1
+Dubos   Christelle,Turquois   Nicolas,1,1
+Dubos   Christelle,Jumel   Sébastien,0,1
+Dubos   Christelle,Leclabart   Jean-Claude,1,1
+Dubos   Christelle,Fugit   Jean-Luc,1,1
+Maillart-Méhaignerie   Laurence,Labaronne   Daniel,1,1
+Maillart-Méhaignerie   Laurence,Colboc   Fabienne,1,1
+Maillart-Méhaignerie   Laurence,Limon   Monique,1,1
+Maillart-Méhaignerie   Laurence,Dubré-Chirat   Nicole,1,1
+Maillart-Méhaignerie   Laurence,Beauvais   Valérie,0,1
+Maillart-Méhaignerie   Laurence,Magnier   Lise,0,1
+Maillart-Méhaignerie   Laurence,Le Peih   Nicole,1,1
+Maillart-Méhaignerie   Laurence,Nury   Jérôme,0,1
+Maillart-Méhaignerie   Laurence,Lachaud   Bastien,0,1
+Maillart-Méhaignerie   Laurence,Bassire   Nathalie,0,1
+Maillart-Méhaignerie   Laurence,Dunoyer   Philippe,0,1
+Maillart-Méhaignerie   Laurence,Gaillot   Albane,1,1
+Maillart-Méhaignerie   Laurence,Pichereau   Damien,1,1
+Maillart-Méhaignerie   Laurence,Rossi   Laurianne,1,1
+Maillart-Méhaignerie   Laurence,Piron   Béatrice,1,1
+Maillart-Méhaignerie   Laurence,de Vaucouleurs   Michèle,1,1
+Maillart-Méhaignerie   Laurence,Bournazel   Pierre-Yves,0,1
+Maillart-Méhaignerie   Laurence,Wulfranc   Hubert,0,1
+Maillart-Méhaignerie   Laurence,Ruffin   François,0,1
+Maillart-Méhaignerie   Laurence,Turquois   Nicolas,1,1
+Maillart-Méhaignerie   Laurence,Jumel   Sébastien,0,1
+Maillart-Méhaignerie   Laurence,Leclabart   Jean-Claude,1,1
+Maillart-Méhaignerie   Laurence,Fugit   Jean-Luc,1,1
+Labaronne   Daniel,Colboc   Fabienne,1,1
+Labaronne   Daniel,Limon   Monique,1,1
+Labaronne   Daniel,Dubré-Chirat   Nicole,1,1
+Labaronne   Daniel,Beauvais   Valérie,0,1
+Labaronne   Daniel,Magnier   Lise,0,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Nury   Jérôme,0,1
+Labaronne   Daniel,Lachaud   Bastien,0,1
+Labaronne   Daniel,Bassire   Nathalie,0,1
+Labaronne   Daniel,Dunoyer   Philippe,0,1
+Labaronne   Daniel,Gaillot   Albane,1,1
+Labaronne   Daniel,Pichereau   Damien,1,1
+Labaronne   Daniel,Rossi   Laurianne,1,1
+Labaronne   Daniel,Piron   Béatrice,1,1
+Labaronne   Daniel,de Vaucouleurs   Michèle,1,1
+Labaronne   Daniel,Bournazel   Pierre-Yves,0,1
+Labaronne   Daniel,Wulfranc   Hubert,0,1
+Labaronne   Daniel,Ruffin   François,0,1
+Labaronne   Daniel,Turquois   Nicolas,1,1
+Labaronne   Daniel,Jumel   Sébastien,0,1
+Labaronne   Daniel,Leclabart   Jean-Claude,1,1
+Labaronne   Daniel,Fugit   Jean-Luc,1,1
+Colboc   Fabienne,Limon   Monique,1,1
+Colboc   Fabienne,Dubré-Chirat   Nicole,1,1
+Colboc   Fabienne,Beauvais   Valérie,0,1
+Colboc   Fabienne,Magnier   Lise,0,1
+Colboc   Fabienne,Le Peih   Nicole,1,1
+Colboc   Fabienne,Nury   Jérôme,0,1
+Colboc   Fabienne,Lachaud   Bastien,0,1
+Colboc   Fabienne,Bassire   Nathalie,0,1
+Colboc   Fabienne,Dunoyer   Philippe,0,1
+Colboc   Fabienne,Gaillot   Albane,1,1
+Colboc   Fabienne,Pichereau   Damien,1,1
+Colboc   Fabienne,Rossi   Laurianne,1,1
+Colboc   Fabienne,Piron   Béatrice,1,1
+Colboc   Fabienne,de Vaucouleurs   Michèle,1,1
+Colboc   Fabienne,Bournazel   Pierre-Yves,0,1
+Colboc   Fabienne,Wulfranc   Hubert,0,1
+Colboc   Fabienne,Ruffin   François,0,1
+Colboc   Fabienne,Turquois   Nicolas,1,1
+Colboc   Fabienne,Jumel   Sébastien,0,1
+Colboc   Fabienne,Leclabart   Jean-Claude,1,1
+Colboc   Fabienne,Fugit   Jean-Luc,1,1
+Limon   Monique,Dubré-Chirat   Nicole,1,1
+Limon   Monique,Beauvais   Valérie,0,1
+Limon   Monique,Magnier   Lise,0,1
+Limon   Monique,Le Peih   Nicole,1,1
+Limon   Monique,Nury   Jérôme,0,1
+Limon   Monique,Lachaud   Bastien,0,1
+Limon   Monique,Bassire   Nathalie,0,1
+Limon   Monique,Dunoyer   Philippe,0,1
+Limon   Monique,Gaillot   Albane,1,1
+Limon   Monique,Pichereau   Damien,1,1
+Limon   Monique,Rossi   Laurianne,1,1
+Limon   Monique,Piron   Béatrice,1,1
+Limon   Monique,de Vaucouleurs   Michèle,1,1
+Limon   Monique,Bournazel   Pierre-Yves,0,1
+Limon   Monique,Wulfranc   Hubert,0,1
+Limon   Monique,Ruffin   François,0,1
+Limon   Monique,Turquois   Nicolas,1,1
+Limon   Monique,Jumel   Sébastien,0,1
+Limon   Monique,Leclabart   Jean-Claude,1,1
+Limon   Monique,Fugit   Jean-Luc,1,1
+Dubré-Chirat   Nicole,Beauvais   Valérie,0,1
+Dubré-Chirat   Nicole,Magnier   Lise,0,1
+Dubré-Chirat   Nicole,Le Peih   Nicole,1,1
+Dubré-Chirat   Nicole,Nury   Jérôme,0,1
+Dubré-Chirat   Nicole,Lachaud   Bastien,0,1
+Dubré-Chirat   Nicole,Bassire   Nathalie,0,1
+Dubré-Chirat   Nicole,Dunoyer   Philippe,0,1
+Dubré-Chirat   Nicole,Gaillot   Albane,1,1
+Dubré-Chirat   Nicole,Pichereau   Damien,1,1
+Dubré-Chirat   Nicole,Rossi   Laurianne,1,1
+Dubré-Chirat   Nicole,Piron   Béatrice,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Bournazel   Pierre-Yves,0,1
+Dubré-Chirat   Nicole,Wulfranc   Hubert,0,1
+Dubré-Chirat   Nicole,Ruffin   François,0,1
+Dubré-Chirat   Nicole,Turquois   Nicolas,1,1
+Dubré-Chirat   Nicole,Jumel   Sébastien,0,1
+Dubré-Chirat   Nicole,Leclabart   Jean-Claude,1,1
+Dubré-Chirat   Nicole,Fugit   Jean-Luc,1,1
+Beauvais   Valérie,Magnier   Lise,0,1
+Beauvais   Valérie,Le Peih   Nicole,0,1
+Beauvais   Valérie,Nury   Jérôme,1,1
+Beauvais   Valérie,Lachaud   Bastien,1,1
+Beauvais   Valérie,Bassire   Nathalie,1,1
+Beauvais   Valérie,Dunoyer   Philippe,0,1
+Beauvais   Valérie,Gaillot   Albane,0,1
+Beauvais   Valérie,Pichereau   Damien,0,1
+Beauvais   Valérie,Rossi   Laurianne,0,1
+Beauvais   Valérie,Piron   Béatrice,0,1
+Beauvais   Valérie,de Vaucouleurs   Michèle,0,1
+Beauvais   Valérie,Bournazel   Pierre-Yves,0,1
+Beauvais   Valérie,Wulfranc   Hubert,1,1
+Beauvais   Valérie,Ruffin   François,1,1
+Beauvais   Valérie,Turquois   Nicolas,0,1
+Beauvais   Valérie,Jumel   Sébastien,1,1
+Beauvais   Valérie,Leclabart   Jean-Claude,0,1
+Beauvais   Valérie,Fugit   Jean-Luc,0,1
+Magnier   Lise,Le Peih   Nicole,0,1
+Magnier   Lise,Nury   Jérôme,0,1
+Magnier   Lise,Lachaud   Bastien,0,1
+Magnier   Lise,Bassire   Nathalie,0,1
+Magnier   Lise,Dunoyer   Philippe,1,1
+Magnier   Lise,Gaillot   Albane,0,1
+Magnier   Lise,Pichereau   Damien,0,1
+Magnier   Lise,Rossi   Laurianne,0,1
+Magnier   Lise,Piron   Béatrice,0,1
+Magnier   Lise,de Vaucouleurs   Michèle,0,1
+Magnier   Lise,Bournazel   Pierre-Yves,1,1
+Magnier   Lise,Wulfranc   Hubert,0,1
+Magnier   Lise,Ruffin   François,0,1
+Magnier   Lise,Turquois   Nicolas,0,1
+Magnier   Lise,Jumel   Sébastien,0,1
+Magnier   Lise,Leclabart   Jean-Claude,0,1
+Magnier   Lise,Fugit   Jean-Luc,0,1
+Le Peih   Nicole,Nury   Jérôme,0,1
+Le Peih   Nicole,Lachaud   Bastien,0,1
+Le Peih   Nicole,Bassire   Nathalie,0,1
+Le Peih   Nicole,Dunoyer   Philippe,0,1
+Le Peih   Nicole,Gaillot   Albane,1,1
+Le Peih   Nicole,Pichereau   Damien,1,1
+Le Peih   Nicole,Rossi   Laurianne,1,1
+Le Peih   Nicole,Piron   Béatrice,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Bournazel   Pierre-Yves,0,1
+Le Peih   Nicole,Wulfranc   Hubert,0,1
+Le Peih   Nicole,Ruffin   François,0,1
+Le Peih   Nicole,Turquois   Nicolas,1,1
+Le Peih   Nicole,Jumel   Sébastien,0,1
+Le Peih   Nicole,Leclabart   Jean-Claude,1,1
+Le Peih   Nicole,Fugit   Jean-Luc,1,1
+Nury   Jérôme,Lachaud   Bastien,1,1
+Nury   Jérôme,Bassire   Nathalie,1,1
+Nury   Jérôme,Dunoyer   Philippe,0,1
+Nury   Jérôme,Gaillot   Albane,0,1
+Nury   Jérôme,Pichereau   Damien,0,1
+Nury   Jérôme,Rossi   Laurianne,0,1
+Nury   Jérôme,Piron   Béatrice,0,1
+Nury   Jérôme,de Vaucouleurs   Michèle,0,1
+Nury   Jérôme,Bournazel   Pierre-Yves,0,1
+Nury   Jérôme,Wulfranc   Hubert,1,1
+Nury   Jérôme,Ruffin   François,1,1
+Nury   Jérôme,Turquois   Nicolas,0,1
+Nury   Jérôme,Jumel   Sébastien,1,1
+Nury   Jérôme,Leclabart   Jean-Claude,0,1
+Nury   Jérôme,Fugit   Jean-Luc,0,1
+Lachaud   Bastien,Bassire   Nathalie,1,1
+Lachaud   Bastien,Dunoyer   Philippe,0,1
+Lachaud   Bastien,Gaillot   Albane,0,1
+Lachaud   Bastien,Pichereau   Damien,0,1
+Lachaud   Bastien,Rossi   Laurianne,0,1
+Lachaud   Bastien,Piron   Béatrice,0,1
+Lachaud   Bastien,de Vaucouleurs   Michèle,0,1
+Lachaud   Bastien,Bournazel   Pierre-Yves,0,1
+Lachaud   Bastien,Wulfranc   Hubert,1,1
+Lachaud   Bastien,Ruffin   François,1,1
+Lachaud   Bastien,Turquois   Nicolas,0,1
+Lachaud   Bastien,Jumel   Sébastien,1,1
+Lachaud   Bastien,Leclabart   Jean-Claude,0,1
+Lachaud   Bastien,Fugit   Jean-Luc,0,1
+Bassire   Nathalie,Dunoyer   Philippe,0,1
+Bassire   Nathalie,Gaillot   Albane,0,1
+Bassire   Nathalie,Pichereau   Damien,0,1
+Bassire   Nathalie,Rossi   Laurianne,0,1
+Bassire   Nathalie,Piron   Béatrice,0,1
+Bassire   Nathalie,de Vaucouleurs   Michèle,0,1
+Bassire   Nathalie,Bournazel   Pierre-Yves,0,1
+Bassire   Nathalie,Wulfranc   Hubert,1,1
+Bassire   Nathalie,Ruffin   François,1,1
+Bassire   Nathalie,Turquois   Nicolas,0,1
+Bassire   Nathalie,Jumel   Sébastien,1,1
+Bassire   Nathalie,Leclabart   Jean-Claude,0,1
+Bassire   Nathalie,Fugit   Jean-Luc,0,1
+Dunoyer   Philippe,Gaillot   Albane,0,1
+Dunoyer   Philippe,Pichereau   Damien,0,1
+Dunoyer   Philippe,Rossi   Laurianne,0,1
+Dunoyer   Philippe,Piron   Béatrice,0,1
+Dunoyer   Philippe,de Vaucouleurs   Michèle,0,1
+Dunoyer   Philippe,Bournazel   Pierre-Yves,1,1
+Dunoyer   Philippe,Wulfranc   Hubert,0,1
+Dunoyer   Philippe,Ruffin   François,0,1
+Dunoyer   Philippe,Turquois   Nicolas,0,1
+Dunoyer   Philippe,Jumel   Sébastien,0,1
+Dunoyer   Philippe,Leclabart   Jean-Claude,0,1
+Dunoyer   Philippe,Fugit   Jean-Luc,0,1
+Gaillot   Albane,Pichereau   Damien,1,1
+Gaillot   Albane,Rossi   Laurianne,1,1
+Gaillot   Albane,Piron   Béatrice,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,1,1
+Gaillot   Albane,Bournazel   Pierre-Yves,0,1
+Gaillot   Albane,Wulfranc   Hubert,0,1
+Gaillot   Albane,Ruffin   François,0,1
+Gaillot   Albane,Turquois   Nicolas,1,1
+Gaillot   Albane,Jumel   Sébastien,0,1
+Gaillot   Albane,Leclabart   Jean-Claude,1,1
+Gaillot   Albane,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Rossi   Laurianne,1,1
+Pichereau   Damien,Piron   Béatrice,1,1
+Pichereau   Damien,de Vaucouleurs   Michèle,1,1
+Pichereau   Damien,Bournazel   Pierre-Yves,0,1
+Pichereau   Damien,Wulfranc   Hubert,0,1
+Pichereau   Damien,Ruffin   François,0,1
+Pichereau   Damien,Turquois   Nicolas,1,1
+Pichereau   Damien,Jumel   Sébastien,0,1
+Pichereau   Damien,Leclabart   Jean-Claude,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Rossi   Laurianne,Piron   Béatrice,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,1,1
+Rossi   Laurianne,Bournazel   Pierre-Yves,0,1
+Rossi   Laurianne,Wulfranc   Hubert,0,1
+Rossi   Laurianne,Ruffin   François,0,1
+Rossi   Laurianne,Turquois   Nicolas,1,1
+Rossi   Laurianne,Jumel   Sébastien,0,1
+Rossi   Laurianne,Leclabart   Jean-Claude,1,1
+Rossi   Laurianne,Fugit   Jean-Luc,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,1,1
+Piron   Béatrice,Bournazel   Pierre-Yves,0,1
+Piron   Béatrice,Wulfranc   Hubert,0,1
+Piron   Béatrice,Ruffin   François,0,1
+Piron   Béatrice,Turquois   Nicolas,1,1
+Piron   Béatrice,Jumel   Sébastien,0,1
+Piron   Béatrice,Leclabart   Jean-Claude,1,1
+Piron   Béatrice,Fugit   Jean-Luc,1,1
+de Vaucouleurs   Michèle,Bournazel   Pierre-Yves,0,1
+de Vaucouleurs   Michèle,Wulfranc   Hubert,0,1
+de Vaucouleurs   Michèle,Ruffin   François,0,1
+de Vaucouleurs   Michèle,Turquois   Nicolas,1,1
+de Vaucouleurs   Michèle,Jumel   Sébastien,0,1
+de Vaucouleurs   Michèle,Leclabart   Jean-Claude,1,1
+de Vaucouleurs   Michèle,Fugit   Jean-Luc,1,1
+Bournazel   Pierre-Yves,Wulfranc   Hubert,0,1
+Bournazel   Pierre-Yves,Ruffin   François,0,1
+Bournazel   Pierre-Yves,Turquois   Nicolas,0,1
+Bournazel   Pierre-Yves,Jumel   Sébastien,0,1
+Bournazel   Pierre-Yves,Leclabart   Jean-Claude,0,1
+Bournazel   Pierre-Yves,Fugit   Jean-Luc,0,1
+Wulfranc   Hubert,Ruffin   François,1,1
+Wulfranc   Hubert,Turquois   Nicolas,0,1
+Wulfranc   Hubert,Jumel   Sébastien,1,1
+Wulfranc   Hubert,Leclabart   Jean-Claude,0,1
+Wulfranc   Hubert,Fugit   Jean-Luc,0,1
+Ruffin   François,Turquois   Nicolas,0,1
+Ruffin   François,Jumel   Sébastien,1,1
+Ruffin   François,Leclabart   Jean-Claude,0,1
+Ruffin   François,Fugit   Jean-Luc,0,1
+Turquois   Nicolas,Jumel   Sébastien,0,1
+Turquois   Nicolas,Leclabart   Jean-Claude,1,1
+Turquois   Nicolas,Fugit   Jean-Luc,1,1
+Jumel   Sébastien,Leclabart   Jean-Claude,0,1
+Jumel   Sébastien,Fugit   Jean-Luc,0,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1

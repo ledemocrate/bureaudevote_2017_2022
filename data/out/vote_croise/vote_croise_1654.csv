@@ -1,0 +1,2416 @@
+from,to,vote_commun,loi_commun
+David   Alain,Dumont   Laurence,1,1
+David   Alain,Juanico   Régis,1,1
+David   Alain,Garot   Guillaume,1,1
+David   Alain,Pancher   Bertrand,0,1
+David   Alain,Hutin   Christian,1,1
+David   Alain,Victory   Michèle,1,1
+David   Alain,Battistel   Marie-Noëlle,1,1
+David   Alain,Le Grip   Constance,1,1
+David   Alain,Travert   Stéphane,0,1
+David   Alain,Pires Beaune   Christine,1,1
+David   Alain,Tolmont   Sylvie,1,1
+David   Alain,Rabault   Valérie,1,1
+David   Alain,Aviragnet   Joël,1,1
+David   Alain,Lang   Anne-Christine,0,1
+David   Alain,Bagarry   Delphine,0,1
+David   Alain,Robert   Mireille,0,1
+David   Alain,Pitollat   Claire,0,1
+David   Alain,Racon-Bouzon   Cathy,0,1
+David   Alain,Bouyx   Bertrand,0,1
+David   Alain,Gérard   Raphaël,0,1
+David   Alain,Martin   Didier,0,1
+David   Alain,Dubois   Jacqueline,0,1
+David   Alain,Charvier   Fannette,0,1
+David   Alain,Khattabi   Fadila,0,1
+David   Alain,Kerlogot   Yannick,0,1
+David   Alain,Gipson   Séverine,0,1
+David   Alain,Vignon   Corinne,0,1
+David   Alain,Toutut-Picard   Élisabeth,0,1
+David   Alain,Tanguy   Liliana,0,1
+David   Alain,Ménard   Emmanuelle,1,1
+David   Alain,Mette   Sophie,0,1
+David   Alain,Labaronne   Daniel,0,1
+David   Alain,Brulebois   Danielle,0,1
+David   Alain,Vallaud   Boris,1,1
+David   Alain,Mis   Jean-Michel,0,1
+David   Alain,Borowczyk   Julien,0,1
+David   Alain,Freschi   Alexandre,0,1
+David   Alain,Pradié   Aurélien,1,1
+David   Alain,Amadou   Aude,0,1
+David   Alain,Saint-Paul   Laetitia,0,1
+David   Alain,Girardin   Éric,0,1
+David   Alain,Bannier   Géraldine,0,1
+David   Alain,Orphelin   Matthieu,0,1
+David   Alain,Fiat   Caroline,1,1
+David   Alain,Zannier   Hélène,0,1
+David   Alain,Studer   Bruno,0,1
+David   Alain,Testé   Stéphane,0,1
+David   Alain,Rilhac   Cécile,0,1
+David   Alain,Manin   Josette,1,1
+David   Alain,El Guerrab   M'jid,0,1
+David   Alain,Kéclard-Mondésir   Manuéla,1,1
+David   Alain,Bassire   Nathalie,1,1
+David   Alain,Guion-Firmin   Claire,1,1
+David   Alain,Cazebonne   Samantha,0,1
+David   Alain,Dumas   Frédérique,1,1
+David   Alain,Charrière   Sylvie,0,1
+David   Alain,Brugnera   Anne,0,1
+David   Alain,Batut   Xavier,0,1
+David   Alain,Verdier-Jouclas   Marie-Christine,0,1
+David   Alain,Peyron   Michèle,0,1
+David   Alain,Calvez   Céline,0,1
+David   Alain,Piron   Béatrice,0,1
+David   Alain,Faucillon   Elsa,1,1
+David   Alain,Pouzyreff   Natalia,0,1
+David   Alain,de Vaucouleurs   Michèle,0,1
+David   Alain,Marilossian   Jacques,0,1
+David   Alain,Wulfranc   Hubert,1,1
+David   Alain,Provendier   Florence,0,1
+David   Alain,Fugit   Jean-Luc,0,1
+Dumont   Laurence,Juanico   Régis,1,1
+Dumont   Laurence,Garot   Guillaume,1,1
+Dumont   Laurence,Pancher   Bertrand,0,1
+Dumont   Laurence,Hutin   Christian,1,1
+Dumont   Laurence,Victory   Michèle,1,1
+Dumont   Laurence,Battistel   Marie-Noëlle,1,1
+Dumont   Laurence,Le Grip   Constance,1,1
+Dumont   Laurence,Travert   Stéphane,0,1
+Dumont   Laurence,Pires Beaune   Christine,1,1
+Dumont   Laurence,Tolmont   Sylvie,1,1
+Dumont   Laurence,Rabault   Valérie,1,1
+Dumont   Laurence,Aviragnet   Joël,1,1
+Dumont   Laurence,Lang   Anne-Christine,0,1
+Dumont   Laurence,Bagarry   Delphine,0,1
+Dumont   Laurence,Robert   Mireille,0,1
+Dumont   Laurence,Pitollat   Claire,0,1
+Dumont   Laurence,Racon-Bouzon   Cathy,0,1
+Dumont   Laurence,Bouyx   Bertrand,0,1
+Dumont   Laurence,Gérard   Raphaël,0,1
+Dumont   Laurence,Martin   Didier,0,1
+Dumont   Laurence,Dubois   Jacqueline,0,1
+Dumont   Laurence,Charvier   Fannette,0,1
+Dumont   Laurence,Khattabi   Fadila,0,1
+Dumont   Laurence,Kerlogot   Yannick,0,1
+Dumont   Laurence,Gipson   Séverine,0,1
+Dumont   Laurence,Vignon   Corinne,0,1
+Dumont   Laurence,Toutut-Picard   Élisabeth,0,1
+Dumont   Laurence,Tanguy   Liliana,0,1
+Dumont   Laurence,Ménard   Emmanuelle,1,1
+Dumont   Laurence,Mette   Sophie,0,1
+Dumont   Laurence,Labaronne   Daniel,0,1
+Dumont   Laurence,Brulebois   Danielle,0,1
+Dumont   Laurence,Vallaud   Boris,1,1
+Dumont   Laurence,Mis   Jean-Michel,0,1
+Dumont   Laurence,Borowczyk   Julien,0,1
+Dumont   Laurence,Freschi   Alexandre,0,1
+Dumont   Laurence,Pradié   Aurélien,1,1
+Dumont   Laurence,Amadou   Aude,0,1
+Dumont   Laurence,Saint-Paul   Laetitia,0,1
+Dumont   Laurence,Girardin   Éric,0,1
+Dumont   Laurence,Bannier   Géraldine,0,1
+Dumont   Laurence,Orphelin   Matthieu,0,1
+Dumont   Laurence,Fiat   Caroline,1,1
+Dumont   Laurence,Zannier   Hélène,0,1
+Dumont   Laurence,Studer   Bruno,0,1
+Dumont   Laurence,Testé   Stéphane,0,1
+Dumont   Laurence,Rilhac   Cécile,0,1
+Dumont   Laurence,Manin   Josette,1,1
+Dumont   Laurence,El Guerrab   M'jid,0,1
+Dumont   Laurence,Kéclard-Mondésir   Manuéla,1,1
+Dumont   Laurence,Bassire   Nathalie,1,1
+Dumont   Laurence,Guion-Firmin   Claire,1,1
+Dumont   Laurence,Cazebonne   Samantha,0,1
+Dumont   Laurence,Dumas   Frédérique,1,1
+Dumont   Laurence,Charrière   Sylvie,0,1
+Dumont   Laurence,Brugnera   Anne,0,1
+Dumont   Laurence,Batut   Xavier,0,1
+Dumont   Laurence,Verdier-Jouclas   Marie-Christine,0,1
+Dumont   Laurence,Peyron   Michèle,0,1
+Dumont   Laurence,Calvez   Céline,0,1
+Dumont   Laurence,Piron   Béatrice,0,1
+Dumont   Laurence,Faucillon   Elsa,1,1
+Dumont   Laurence,Pouzyreff   Natalia,0,1
+Dumont   Laurence,de Vaucouleurs   Michèle,0,1
+Dumont   Laurence,Marilossian   Jacques,0,1
+Dumont   Laurence,Wulfranc   Hubert,1,1
+Dumont   Laurence,Provendier   Florence,0,1
+Dumont   Laurence,Fugit   Jean-Luc,0,1
+Juanico   Régis,Garot   Guillaume,1,1
+Juanico   Régis,Pancher   Bertrand,0,1
+Juanico   Régis,Hutin   Christian,1,1
+Juanico   Régis,Victory   Michèle,1,1
+Juanico   Régis,Battistel   Marie-Noëlle,1,1
+Juanico   Régis,Le Grip   Constance,1,1
+Juanico   Régis,Travert   Stéphane,0,1
+Juanico   Régis,Pires Beaune   Christine,1,1
+Juanico   Régis,Tolmont   Sylvie,1,1
+Juanico   Régis,Rabault   Valérie,1,1
+Juanico   Régis,Aviragnet   Joël,1,1
+Juanico   Régis,Lang   Anne-Christine,0,1
+Juanico   Régis,Bagarry   Delphine,0,1
+Juanico   Régis,Robert   Mireille,0,1
+Juanico   Régis,Pitollat   Claire,0,1
+Juanico   Régis,Racon-Bouzon   Cathy,0,1
+Juanico   Régis,Bouyx   Bertrand,0,1
+Juanico   Régis,Gérard   Raphaël,0,1
+Juanico   Régis,Martin   Didier,0,1
+Juanico   Régis,Dubois   Jacqueline,0,1
+Juanico   Régis,Charvier   Fannette,0,1
+Juanico   Régis,Khattabi   Fadila,0,1
+Juanico   Régis,Kerlogot   Yannick,0,1
+Juanico   Régis,Gipson   Séverine,0,1
+Juanico   Régis,Vignon   Corinne,0,1
+Juanico   Régis,Toutut-Picard   Élisabeth,0,1
+Juanico   Régis,Tanguy   Liliana,0,1
+Juanico   Régis,Ménard   Emmanuelle,1,1
+Juanico   Régis,Mette   Sophie,0,1
+Juanico   Régis,Labaronne   Daniel,0,1
+Juanico   Régis,Brulebois   Danielle,0,1
+Juanico   Régis,Vallaud   Boris,1,1
+Juanico   Régis,Mis   Jean-Michel,0,1
+Juanico   Régis,Borowczyk   Julien,0,1
+Juanico   Régis,Freschi   Alexandre,0,1
+Juanico   Régis,Pradié   Aurélien,1,1
+Juanico   Régis,Amadou   Aude,0,1
+Juanico   Régis,Saint-Paul   Laetitia,0,1
+Juanico   Régis,Girardin   Éric,0,1
+Juanico   Régis,Bannier   Géraldine,0,1
+Juanico   Régis,Orphelin   Matthieu,0,1
+Juanico   Régis,Fiat   Caroline,1,1
+Juanico   Régis,Zannier   Hélène,0,1
+Juanico   Régis,Studer   Bruno,0,1
+Juanico   Régis,Testé   Stéphane,0,1
+Juanico   Régis,Rilhac   Cécile,0,1
+Juanico   Régis,Manin   Josette,1,1
+Juanico   Régis,El Guerrab   M'jid,0,1
+Juanico   Régis,Kéclard-Mondésir   Manuéla,1,1
+Juanico   Régis,Bassire   Nathalie,1,1
+Juanico   Régis,Guion-Firmin   Claire,1,1
+Juanico   Régis,Cazebonne   Samantha,0,1
+Juanico   Régis,Dumas   Frédérique,1,1
+Juanico   Régis,Charrière   Sylvie,0,1
+Juanico   Régis,Brugnera   Anne,0,1
+Juanico   Régis,Batut   Xavier,0,1
+Juanico   Régis,Verdier-Jouclas   Marie-Christine,0,1
+Juanico   Régis,Peyron   Michèle,0,1
+Juanico   Régis,Calvez   Céline,0,1
+Juanico   Régis,Piron   Béatrice,0,1
+Juanico   Régis,Faucillon   Elsa,1,1
+Juanico   Régis,Pouzyreff   Natalia,0,1
+Juanico   Régis,de Vaucouleurs   Michèle,0,1
+Juanico   Régis,Marilossian   Jacques,0,1
+Juanico   Régis,Wulfranc   Hubert,1,1
+Juanico   Régis,Provendier   Florence,0,1
+Juanico   Régis,Fugit   Jean-Luc,0,1
+Garot   Guillaume,Pancher   Bertrand,0,1
+Garot   Guillaume,Hutin   Christian,1,1
+Garot   Guillaume,Victory   Michèle,1,1
+Garot   Guillaume,Battistel   Marie-Noëlle,1,1
+Garot   Guillaume,Le Grip   Constance,1,1
+Garot   Guillaume,Travert   Stéphane,0,1
+Garot   Guillaume,Pires Beaune   Christine,1,1
+Garot   Guillaume,Tolmont   Sylvie,1,1
+Garot   Guillaume,Rabault   Valérie,1,1
+Garot   Guillaume,Aviragnet   Joël,1,1
+Garot   Guillaume,Lang   Anne-Christine,0,1
+Garot   Guillaume,Bagarry   Delphine,0,1
+Garot   Guillaume,Robert   Mireille,0,1
+Garot   Guillaume,Pitollat   Claire,0,1
+Garot   Guillaume,Racon-Bouzon   Cathy,0,1
+Garot   Guillaume,Bouyx   Bertrand,0,1
+Garot   Guillaume,Gérard   Raphaël,0,1
+Garot   Guillaume,Martin   Didier,0,1
+Garot   Guillaume,Dubois   Jacqueline,0,1
+Garot   Guillaume,Charvier   Fannette,0,1
+Garot   Guillaume,Khattabi   Fadila,0,1
+Garot   Guillaume,Kerlogot   Yannick,0,1
+Garot   Guillaume,Gipson   Séverine,0,1
+Garot   Guillaume,Vignon   Corinne,0,1
+Garot   Guillaume,Toutut-Picard   Élisabeth,0,1
+Garot   Guillaume,Tanguy   Liliana,0,1
+Garot   Guillaume,Ménard   Emmanuelle,1,1
+Garot   Guillaume,Mette   Sophie,0,1
+Garot   Guillaume,Labaronne   Daniel,0,1
+Garot   Guillaume,Brulebois   Danielle,0,1
+Garot   Guillaume,Vallaud   Boris,1,1
+Garot   Guillaume,Mis   Jean-Michel,0,1
+Garot   Guillaume,Borowczyk   Julien,0,1
+Garot   Guillaume,Freschi   Alexandre,0,1
+Garot   Guillaume,Pradié   Aurélien,1,1
+Garot   Guillaume,Amadou   Aude,0,1
+Garot   Guillaume,Saint-Paul   Laetitia,0,1
+Garot   Guillaume,Girardin   Éric,0,1
+Garot   Guillaume,Bannier   Géraldine,0,1
+Garot   Guillaume,Orphelin   Matthieu,0,1
+Garot   Guillaume,Fiat   Caroline,1,1
+Garot   Guillaume,Zannier   Hélène,0,1
+Garot   Guillaume,Studer   Bruno,0,1
+Garot   Guillaume,Testé   Stéphane,0,1
+Garot   Guillaume,Rilhac   Cécile,0,1
+Garot   Guillaume,Manin   Josette,1,1
+Garot   Guillaume,El Guerrab   M'jid,0,1
+Garot   Guillaume,Kéclard-Mondésir   Manuéla,1,1
+Garot   Guillaume,Bassire   Nathalie,1,1
+Garot   Guillaume,Guion-Firmin   Claire,1,1
+Garot   Guillaume,Cazebonne   Samantha,0,1
+Garot   Guillaume,Dumas   Frédérique,1,1
+Garot   Guillaume,Charrière   Sylvie,0,1
+Garot   Guillaume,Brugnera   Anne,0,1
+Garot   Guillaume,Batut   Xavier,0,1
+Garot   Guillaume,Verdier-Jouclas   Marie-Christine,0,1
+Garot   Guillaume,Peyron   Michèle,0,1
+Garot   Guillaume,Calvez   Céline,0,1
+Garot   Guillaume,Piron   Béatrice,0,1
+Garot   Guillaume,Faucillon   Elsa,1,1
+Garot   Guillaume,Pouzyreff   Natalia,0,1
+Garot   Guillaume,de Vaucouleurs   Michèle,0,1
+Garot   Guillaume,Marilossian   Jacques,0,1
+Garot   Guillaume,Wulfranc   Hubert,1,1
+Garot   Guillaume,Provendier   Florence,0,1
+Garot   Guillaume,Fugit   Jean-Luc,0,1
+Pancher   Bertrand,Hutin   Christian,0,1
+Pancher   Bertrand,Victory   Michèle,0,1
+Pancher   Bertrand,Battistel   Marie-Noëlle,0,1
+Pancher   Bertrand,Le Grip   Constance,0,1
+Pancher   Bertrand,Travert   Stéphane,1,1
+Pancher   Bertrand,Pires Beaune   Christine,0,1
+Pancher   Bertrand,Tolmont   Sylvie,0,1
+Pancher   Bertrand,Rabault   Valérie,0,1
+Pancher   Bertrand,Aviragnet   Joël,0,1
+Pancher   Bertrand,Lang   Anne-Christine,1,1
+Pancher   Bertrand,Bagarry   Delphine,1,1
+Pancher   Bertrand,Robert   Mireille,1,1
+Pancher   Bertrand,Pitollat   Claire,1,1
+Pancher   Bertrand,Racon-Bouzon   Cathy,1,1
+Pancher   Bertrand,Bouyx   Bertrand,1,1
+Pancher   Bertrand,Gérard   Raphaël,1,1
+Pancher   Bertrand,Martin   Didier,1,1
+Pancher   Bertrand,Dubois   Jacqueline,1,1
+Pancher   Bertrand,Charvier   Fannette,1,1
+Pancher   Bertrand,Khattabi   Fadila,1,1
+Pancher   Bertrand,Kerlogot   Yannick,1,1
+Pancher   Bertrand,Gipson   Séverine,1,1
+Pancher   Bertrand,Vignon   Corinne,1,1
+Pancher   Bertrand,Toutut-Picard   Élisabeth,1,1
+Pancher   Bertrand,Tanguy   Liliana,1,1
+Pancher   Bertrand,Ménard   Emmanuelle,0,1
+Pancher   Bertrand,Mette   Sophie,1,1
+Pancher   Bertrand,Labaronne   Daniel,1,1
+Pancher   Bertrand,Brulebois   Danielle,1,1
+Pancher   Bertrand,Vallaud   Boris,0,1
+Pancher   Bertrand,Mis   Jean-Michel,1,1
+Pancher   Bertrand,Borowczyk   Julien,1,1
+Pancher   Bertrand,Freschi   Alexandre,1,1
+Pancher   Bertrand,Pradié   Aurélien,0,1
+Pancher   Bertrand,Amadou   Aude,1,1
+Pancher   Bertrand,Saint-Paul   Laetitia,1,1
+Pancher   Bertrand,Girardin   Éric,1,1
+Pancher   Bertrand,Bannier   Géraldine,1,1
+Pancher   Bertrand,Orphelin   Matthieu,1,1
+Pancher   Bertrand,Fiat   Caroline,0,1
+Pancher   Bertrand,Zannier   Hélène,1,1
+Pancher   Bertrand,Studer   Bruno,1,1
+Pancher   Bertrand,Testé   Stéphane,1,1
+Pancher   Bertrand,Rilhac   Cécile,1,1
+Pancher   Bertrand,Manin   Josette,0,1
+Pancher   Bertrand,El Guerrab   M'jid,1,1
+Pancher   Bertrand,Kéclard-Mondésir   Manuéla,0,1
+Pancher   Bertrand,Bassire   Nathalie,0,1
+Pancher   Bertrand,Guion-Firmin   Claire,0,1
+Pancher   Bertrand,Cazebonne   Samantha,1,1
+Pancher   Bertrand,Dumas   Frédérique,0,1
+Pancher   Bertrand,Charrière   Sylvie,1,1
+Pancher   Bertrand,Brugnera   Anne,1,1
+Pancher   Bertrand,Batut   Xavier,1,1
+Pancher   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Pancher   Bertrand,Peyron   Michèle,1,1
+Pancher   Bertrand,Calvez   Céline,1,1
+Pancher   Bertrand,Piron   Béatrice,1,1
+Pancher   Bertrand,Faucillon   Elsa,0,1
+Pancher   Bertrand,Pouzyreff   Natalia,1,1
+Pancher   Bertrand,de Vaucouleurs   Michèle,1,1
+Pancher   Bertrand,Marilossian   Jacques,1,1
+Pancher   Bertrand,Wulfranc   Hubert,0,1
+Pancher   Bertrand,Provendier   Florence,1,1
+Pancher   Bertrand,Fugit   Jean-Luc,1,1
+Hutin   Christian,Victory   Michèle,1,1
+Hutin   Christian,Battistel   Marie-Noëlle,1,1
+Hutin   Christian,Le Grip   Constance,1,1
+Hutin   Christian,Travert   Stéphane,0,1
+Hutin   Christian,Pires Beaune   Christine,1,1
+Hutin   Christian,Tolmont   Sylvie,1,1
+Hutin   Christian,Rabault   Valérie,1,1
+Hutin   Christian,Aviragnet   Joël,1,1
+Hutin   Christian,Lang   Anne-Christine,0,1
+Hutin   Christian,Bagarry   Delphine,0,1
+Hutin   Christian,Robert   Mireille,0,1
+Hutin   Christian,Pitollat   Claire,0,1
+Hutin   Christian,Racon-Bouzon   Cathy,0,1
+Hutin   Christian,Bouyx   Bertrand,0,1
+Hutin   Christian,Gérard   Raphaël,0,1
+Hutin   Christian,Martin   Didier,0,1
+Hutin   Christian,Dubois   Jacqueline,0,1
+Hutin   Christian,Charvier   Fannette,0,1
+Hutin   Christian,Khattabi   Fadila,0,1
+Hutin   Christian,Kerlogot   Yannick,0,1
+Hutin   Christian,Gipson   Séverine,0,1
+Hutin   Christian,Vignon   Corinne,0,1
+Hutin   Christian,Toutut-Picard   Élisabeth,0,1
+Hutin   Christian,Tanguy   Liliana,0,1
+Hutin   Christian,Ménard   Emmanuelle,1,1
+Hutin   Christian,Mette   Sophie,0,1
+Hutin   Christian,Labaronne   Daniel,0,1
+Hutin   Christian,Brulebois   Danielle,0,1
+Hutin   Christian,Vallaud   Boris,1,1
+Hutin   Christian,Mis   Jean-Michel,0,1
+Hutin   Christian,Borowczyk   Julien,0,1
+Hutin   Christian,Freschi   Alexandre,0,1
+Hutin   Christian,Pradié   Aurélien,1,1
+Hutin   Christian,Amadou   Aude,0,1
+Hutin   Christian,Saint-Paul   Laetitia,0,1
+Hutin   Christian,Girardin   Éric,0,1
+Hutin   Christian,Bannier   Géraldine,0,1
+Hutin   Christian,Orphelin   Matthieu,0,1
+Hutin   Christian,Fiat   Caroline,1,1
+Hutin   Christian,Zannier   Hélène,0,1
+Hutin   Christian,Studer   Bruno,0,1
+Hutin   Christian,Testé   Stéphane,0,1
+Hutin   Christian,Rilhac   Cécile,0,1
+Hutin   Christian,Manin   Josette,1,1
+Hutin   Christian,El Guerrab   M'jid,0,1
+Hutin   Christian,Kéclard-Mondésir   Manuéla,1,1
+Hutin   Christian,Bassire   Nathalie,1,1
+Hutin   Christian,Guion-Firmin   Claire,1,1
+Hutin   Christian,Cazebonne   Samantha,0,1
+Hutin   Christian,Dumas   Frédérique,1,1
+Hutin   Christian,Charrière   Sylvie,0,1
+Hutin   Christian,Brugnera   Anne,0,1
+Hutin   Christian,Batut   Xavier,0,1
+Hutin   Christian,Verdier-Jouclas   Marie-Christine,0,1
+Hutin   Christian,Peyron   Michèle,0,1
+Hutin   Christian,Calvez   Céline,0,1
+Hutin   Christian,Piron   Béatrice,0,1
+Hutin   Christian,Faucillon   Elsa,1,1
+Hutin   Christian,Pouzyreff   Natalia,0,1
+Hutin   Christian,de Vaucouleurs   Michèle,0,1
+Hutin   Christian,Marilossian   Jacques,0,1
+Hutin   Christian,Wulfranc   Hubert,1,1
+Hutin   Christian,Provendier   Florence,0,1
+Hutin   Christian,Fugit   Jean-Luc,0,1
+Victory   Michèle,Battistel   Marie-Noëlle,1,1
+Victory   Michèle,Le Grip   Constance,1,1
+Victory   Michèle,Travert   Stéphane,0,1
+Victory   Michèle,Pires Beaune   Christine,1,1
+Victory   Michèle,Tolmont   Sylvie,1,1
+Victory   Michèle,Rabault   Valérie,1,1
+Victory   Michèle,Aviragnet   Joël,1,1
+Victory   Michèle,Lang   Anne-Christine,0,1
+Victory   Michèle,Bagarry   Delphine,0,1
+Victory   Michèle,Robert   Mireille,0,1
+Victory   Michèle,Pitollat   Claire,0,1
+Victory   Michèle,Racon-Bouzon   Cathy,0,1
+Victory   Michèle,Bouyx   Bertrand,0,1
+Victory   Michèle,Gérard   Raphaël,0,1
+Victory   Michèle,Martin   Didier,0,1
+Victory   Michèle,Dubois   Jacqueline,0,1
+Victory   Michèle,Charvier   Fannette,0,1
+Victory   Michèle,Khattabi   Fadila,0,1
+Victory   Michèle,Kerlogot   Yannick,0,1
+Victory   Michèle,Gipson   Séverine,0,1
+Victory   Michèle,Vignon   Corinne,0,1
+Victory   Michèle,Toutut-Picard   Élisabeth,0,1
+Victory   Michèle,Tanguy   Liliana,0,1
+Victory   Michèle,Ménard   Emmanuelle,1,1
+Victory   Michèle,Mette   Sophie,0,1
+Victory   Michèle,Labaronne   Daniel,0,1
+Victory   Michèle,Brulebois   Danielle,0,1
+Victory   Michèle,Vallaud   Boris,1,1
+Victory   Michèle,Mis   Jean-Michel,0,1
+Victory   Michèle,Borowczyk   Julien,0,1
+Victory   Michèle,Freschi   Alexandre,0,1
+Victory   Michèle,Pradié   Aurélien,1,1
+Victory   Michèle,Amadou   Aude,0,1
+Victory   Michèle,Saint-Paul   Laetitia,0,1
+Victory   Michèle,Girardin   Éric,0,1
+Victory   Michèle,Bannier   Géraldine,0,1
+Victory   Michèle,Orphelin   Matthieu,0,1
+Victory   Michèle,Fiat   Caroline,1,1
+Victory   Michèle,Zannier   Hélène,0,1
+Victory   Michèle,Studer   Bruno,0,1
+Victory   Michèle,Testé   Stéphane,0,1
+Victory   Michèle,Rilhac   Cécile,0,1
+Victory   Michèle,Manin   Josette,1,1
+Victory   Michèle,El Guerrab   M'jid,0,1
+Victory   Michèle,Kéclard-Mondésir   Manuéla,1,1
+Victory   Michèle,Bassire   Nathalie,1,1
+Victory   Michèle,Guion-Firmin   Claire,1,1
+Victory   Michèle,Cazebonne   Samantha,0,1
+Victory   Michèle,Dumas   Frédérique,1,1
+Victory   Michèle,Charrière   Sylvie,0,1
+Victory   Michèle,Brugnera   Anne,0,1
+Victory   Michèle,Batut   Xavier,0,1
+Victory   Michèle,Verdier-Jouclas   Marie-Christine,0,1
+Victory   Michèle,Peyron   Michèle,0,1
+Victory   Michèle,Calvez   Céline,0,1
+Victory   Michèle,Piron   Béatrice,0,1
+Victory   Michèle,Faucillon   Elsa,1,1
+Victory   Michèle,Pouzyreff   Natalia,0,1
+Victory   Michèle,de Vaucouleurs   Michèle,0,1
+Victory   Michèle,Marilossian   Jacques,0,1
+Victory   Michèle,Wulfranc   Hubert,1,1
+Victory   Michèle,Provendier   Florence,0,1
+Victory   Michèle,Fugit   Jean-Luc,0,1
+Battistel   Marie-Noëlle,Le Grip   Constance,1,1
+Battistel   Marie-Noëlle,Travert   Stéphane,0,1
+Battistel   Marie-Noëlle,Pires Beaune   Christine,1,1
+Battistel   Marie-Noëlle,Tolmont   Sylvie,1,1
+Battistel   Marie-Noëlle,Rabault   Valérie,1,1
+Battistel   Marie-Noëlle,Aviragnet   Joël,1,1
+Battistel   Marie-Noëlle,Lang   Anne-Christine,0,1
+Battistel   Marie-Noëlle,Bagarry   Delphine,0,1
+Battistel   Marie-Noëlle,Robert   Mireille,0,1
+Battistel   Marie-Noëlle,Pitollat   Claire,0,1
+Battistel   Marie-Noëlle,Racon-Bouzon   Cathy,0,1
+Battistel   Marie-Noëlle,Bouyx   Bertrand,0,1
+Battistel   Marie-Noëlle,Gérard   Raphaël,0,1
+Battistel   Marie-Noëlle,Martin   Didier,0,1
+Battistel   Marie-Noëlle,Dubois   Jacqueline,0,1
+Battistel   Marie-Noëlle,Charvier   Fannette,0,1
+Battistel   Marie-Noëlle,Khattabi   Fadila,0,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,0,1
+Battistel   Marie-Noëlle,Gipson   Séverine,0,1
+Battistel   Marie-Noëlle,Vignon   Corinne,0,1
+Battistel   Marie-Noëlle,Toutut-Picard   Élisabeth,0,1
+Battistel   Marie-Noëlle,Tanguy   Liliana,0,1
+Battistel   Marie-Noëlle,Ménard   Emmanuelle,1,1
+Battistel   Marie-Noëlle,Mette   Sophie,0,1
+Battistel   Marie-Noëlle,Labaronne   Daniel,0,1
+Battistel   Marie-Noëlle,Brulebois   Danielle,0,1
+Battistel   Marie-Noëlle,Vallaud   Boris,1,1
+Battistel   Marie-Noëlle,Mis   Jean-Michel,0,1
+Battistel   Marie-Noëlle,Borowczyk   Julien,0,1
+Battistel   Marie-Noëlle,Freschi   Alexandre,0,1
+Battistel   Marie-Noëlle,Pradié   Aurélien,1,1
+Battistel   Marie-Noëlle,Amadou   Aude,0,1
+Battistel   Marie-Noëlle,Saint-Paul   Laetitia,0,1
+Battistel   Marie-Noëlle,Girardin   Éric,0,1
+Battistel   Marie-Noëlle,Bannier   Géraldine,0,1
+Battistel   Marie-Noëlle,Orphelin   Matthieu,0,1
+Battistel   Marie-Noëlle,Fiat   Caroline,1,1
+Battistel   Marie-Noëlle,Zannier   Hélène,0,1
+Battistel   Marie-Noëlle,Studer   Bruno,0,1
+Battistel   Marie-Noëlle,Testé   Stéphane,0,1
+Battistel   Marie-Noëlle,Rilhac   Cécile,0,1
+Battistel   Marie-Noëlle,Manin   Josette,1,1
+Battistel   Marie-Noëlle,El Guerrab   M'jid,0,1
+Battistel   Marie-Noëlle,Kéclard-Mondésir   Manuéla,1,1
+Battistel   Marie-Noëlle,Bassire   Nathalie,1,1
+Battistel   Marie-Noëlle,Guion-Firmin   Claire,1,1
+Battistel   Marie-Noëlle,Cazebonne   Samantha,0,1
+Battistel   Marie-Noëlle,Dumas   Frédérique,1,1
+Battistel   Marie-Noëlle,Charrière   Sylvie,0,1
+Battistel   Marie-Noëlle,Brugnera   Anne,0,1
+Battistel   Marie-Noëlle,Batut   Xavier,0,1
+Battistel   Marie-Noëlle,Verdier-Jouclas   Marie-Christine,0,1
+Battistel   Marie-Noëlle,Peyron   Michèle,0,1
+Battistel   Marie-Noëlle,Calvez   Céline,0,1
+Battistel   Marie-Noëlle,Piron   Béatrice,0,1
+Battistel   Marie-Noëlle,Faucillon   Elsa,1,1
+Battistel   Marie-Noëlle,Pouzyreff   Natalia,0,1
+Battistel   Marie-Noëlle,de Vaucouleurs   Michèle,0,1
+Battistel   Marie-Noëlle,Marilossian   Jacques,0,1
+Battistel   Marie-Noëlle,Wulfranc   Hubert,1,1
+Battistel   Marie-Noëlle,Provendier   Florence,0,1
+Battistel   Marie-Noëlle,Fugit   Jean-Luc,0,1
+Le Grip   Constance,Travert   Stéphane,0,1
+Le Grip   Constance,Pires Beaune   Christine,1,1
+Le Grip   Constance,Tolmont   Sylvie,1,1
+Le Grip   Constance,Rabault   Valérie,1,1
+Le Grip   Constance,Aviragnet   Joël,1,1
+Le Grip   Constance,Lang   Anne-Christine,0,1
+Le Grip   Constance,Bagarry   Delphine,0,1
+Le Grip   Constance,Robert   Mireille,0,1
+Le Grip   Constance,Pitollat   Claire,0,1
+Le Grip   Constance,Racon-Bouzon   Cathy,0,1
+Le Grip   Constance,Bouyx   Bertrand,0,1
+Le Grip   Constance,Gérard   Raphaël,0,1
+Le Grip   Constance,Martin   Didier,0,1
+Le Grip   Constance,Dubois   Jacqueline,0,1
+Le Grip   Constance,Charvier   Fannette,0,1
+Le Grip   Constance,Khattabi   Fadila,0,1
+Le Grip   Constance,Kerlogot   Yannick,0,1
+Le Grip   Constance,Gipson   Séverine,0,1
+Le Grip   Constance,Vignon   Corinne,0,1
+Le Grip   Constance,Toutut-Picard   Élisabeth,0,1
+Le Grip   Constance,Tanguy   Liliana,0,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Mette   Sophie,0,1
+Le Grip   Constance,Labaronne   Daniel,0,1
+Le Grip   Constance,Brulebois   Danielle,0,1
+Le Grip   Constance,Vallaud   Boris,1,1
+Le Grip   Constance,Mis   Jean-Michel,0,1
+Le Grip   Constance,Borowczyk   Julien,0,1
+Le Grip   Constance,Freschi   Alexandre,0,1
+Le Grip   Constance,Pradié   Aurélien,1,1
+Le Grip   Constance,Amadou   Aude,0,1
+Le Grip   Constance,Saint-Paul   Laetitia,0,1
+Le Grip   Constance,Girardin   Éric,0,1
+Le Grip   Constance,Bannier   Géraldine,0,1
+Le Grip   Constance,Orphelin   Matthieu,0,1
+Le Grip   Constance,Fiat   Caroline,1,1
+Le Grip   Constance,Zannier   Hélène,0,1
+Le Grip   Constance,Studer   Bruno,0,1
+Le Grip   Constance,Testé   Stéphane,0,1
+Le Grip   Constance,Rilhac   Cécile,0,1
+Le Grip   Constance,Manin   Josette,1,1
+Le Grip   Constance,El Guerrab   M'jid,0,1
+Le Grip   Constance,Kéclard-Mondésir   Manuéla,1,1
+Le Grip   Constance,Bassire   Nathalie,1,1
+Le Grip   Constance,Guion-Firmin   Claire,1,1
+Le Grip   Constance,Cazebonne   Samantha,0,1
+Le Grip   Constance,Dumas   Frédérique,1,1
+Le Grip   Constance,Charrière   Sylvie,0,1
+Le Grip   Constance,Brugnera   Anne,0,1
+Le Grip   Constance,Batut   Xavier,0,1
+Le Grip   Constance,Verdier-Jouclas   Marie-Christine,0,1
+Le Grip   Constance,Peyron   Michèle,0,1
+Le Grip   Constance,Calvez   Céline,0,1
+Le Grip   Constance,Piron   Béatrice,0,1
+Le Grip   Constance,Faucillon   Elsa,1,1
+Le Grip   Constance,Pouzyreff   Natalia,0,1
+Le Grip   Constance,de Vaucouleurs   Michèle,0,1
+Le Grip   Constance,Marilossian   Jacques,0,1
+Le Grip   Constance,Wulfranc   Hubert,1,1
+Le Grip   Constance,Provendier   Florence,0,1
+Le Grip   Constance,Fugit   Jean-Luc,0,1
+Travert   Stéphane,Pires Beaune   Christine,0,1
+Travert   Stéphane,Tolmont   Sylvie,0,1
+Travert   Stéphane,Rabault   Valérie,0,1
+Travert   Stéphane,Aviragnet   Joël,0,1
+Travert   Stéphane,Lang   Anne-Christine,1,1
+Travert   Stéphane,Bagarry   Delphine,1,1
+Travert   Stéphane,Robert   Mireille,1,1
+Travert   Stéphane,Pitollat   Claire,1,1
+Travert   Stéphane,Racon-Bouzon   Cathy,1,1
+Travert   Stéphane,Bouyx   Bertrand,1,1
+Travert   Stéphane,Gérard   Raphaël,1,1
+Travert   Stéphane,Martin   Didier,1,1
+Travert   Stéphane,Dubois   Jacqueline,1,1
+Travert   Stéphane,Charvier   Fannette,1,1
+Travert   Stéphane,Khattabi   Fadila,1,1
+Travert   Stéphane,Kerlogot   Yannick,1,1
+Travert   Stéphane,Gipson   Séverine,1,1
+Travert   Stéphane,Vignon   Corinne,1,1
+Travert   Stéphane,Toutut-Picard   Élisabeth,1,1
+Travert   Stéphane,Tanguy   Liliana,1,1
+Travert   Stéphane,Ménard   Emmanuelle,0,1
+Travert   Stéphane,Mette   Sophie,1,1
+Travert   Stéphane,Labaronne   Daniel,1,1
+Travert   Stéphane,Brulebois   Danielle,1,1
+Travert   Stéphane,Vallaud   Boris,0,1
+Travert   Stéphane,Mis   Jean-Michel,1,1
+Travert   Stéphane,Borowczyk   Julien,1,1
+Travert   Stéphane,Freschi   Alexandre,1,1
+Travert   Stéphane,Pradié   Aurélien,0,1
+Travert   Stéphane,Amadou   Aude,1,1
+Travert   Stéphane,Saint-Paul   Laetitia,1,1
+Travert   Stéphane,Girardin   Éric,1,1
+Travert   Stéphane,Bannier   Géraldine,1,1
+Travert   Stéphane,Orphelin   Matthieu,1,1
+Travert   Stéphane,Fiat   Caroline,0,1
+Travert   Stéphane,Zannier   Hélène,1,1
+Travert   Stéphane,Studer   Bruno,1,1
+Travert   Stéphane,Testé   Stéphane,1,1
+Travert   Stéphane,Rilhac   Cécile,1,1
+Travert   Stéphane,Manin   Josette,0,1
+Travert   Stéphane,El Guerrab   M'jid,1,1
+Travert   Stéphane,Kéclard-Mondésir   Manuéla,0,1
+Travert   Stéphane,Bassire   Nathalie,0,1
+Travert   Stéphane,Guion-Firmin   Claire,0,1
+Travert   Stéphane,Cazebonne   Samantha,1,1
+Travert   Stéphane,Dumas   Frédérique,0,1
+Travert   Stéphane,Charrière   Sylvie,1,1
+Travert   Stéphane,Brugnera   Anne,1,1
+Travert   Stéphane,Batut   Xavier,1,1
+Travert   Stéphane,Verdier-Jouclas   Marie-Christine,1,1
+Travert   Stéphane,Peyron   Michèle,1,1
+Travert   Stéphane,Calvez   Céline,1,1
+Travert   Stéphane,Piron   Béatrice,1,1
+Travert   Stéphane,Faucillon   Elsa,0,1
+Travert   Stéphane,Pouzyreff   Natalia,1,1
+Travert   Stéphane,de Vaucouleurs   Michèle,1,1
+Travert   Stéphane,Marilossian   Jacques,1,1
+Travert   Stéphane,Wulfranc   Hubert,0,1
+Travert   Stéphane,Provendier   Florence,1,1
+Travert   Stéphane,Fugit   Jean-Luc,1,1
+Pires Beaune   Christine,Tolmont   Sylvie,1,1
+Pires Beaune   Christine,Rabault   Valérie,1,1
+Pires Beaune   Christine,Aviragnet   Joël,1,1
+Pires Beaune   Christine,Lang   Anne-Christine,0,1
+Pires Beaune   Christine,Bagarry   Delphine,0,1
+Pires Beaune   Christine,Robert   Mireille,0,1
+Pires Beaune   Christine,Pitollat   Claire,0,1
+Pires Beaune   Christine,Racon-Bouzon   Cathy,0,1
+Pires Beaune   Christine,Bouyx   Bertrand,0,1
+Pires Beaune   Christine,Gérard   Raphaël,0,1
+Pires Beaune   Christine,Martin   Didier,0,1
+Pires Beaune   Christine,Dubois   Jacqueline,0,1
+Pires Beaune   Christine,Charvier   Fannette,0,1
+Pires Beaune   Christine,Khattabi   Fadila,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Gipson   Séverine,0,1
+Pires Beaune   Christine,Vignon   Corinne,0,1
+Pires Beaune   Christine,Toutut-Picard   Élisabeth,0,1
+Pires Beaune   Christine,Tanguy   Liliana,0,1
+Pires Beaune   Christine,Ménard   Emmanuelle,1,1
+Pires Beaune   Christine,Mette   Sophie,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Brulebois   Danielle,0,1
+Pires Beaune   Christine,Vallaud   Boris,1,1
+Pires Beaune   Christine,Mis   Jean-Michel,0,1
+Pires Beaune   Christine,Borowczyk   Julien,0,1
+Pires Beaune   Christine,Freschi   Alexandre,0,1
+Pires Beaune   Christine,Pradié   Aurélien,1,1
+Pires Beaune   Christine,Amadou   Aude,0,1
+Pires Beaune   Christine,Saint-Paul   Laetitia,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Bannier   Géraldine,0,1
+Pires Beaune   Christine,Orphelin   Matthieu,0,1
+Pires Beaune   Christine,Fiat   Caroline,1,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Studer   Bruno,0,1
+Pires Beaune   Christine,Testé   Stéphane,0,1
+Pires Beaune   Christine,Rilhac   Cécile,0,1
+Pires Beaune   Christine,Manin   Josette,1,1
+Pires Beaune   Christine,El Guerrab   M'jid,0,1
+Pires Beaune   Christine,Kéclard-Mondésir   Manuéla,1,1
+Pires Beaune   Christine,Bassire   Nathalie,1,1
+Pires Beaune   Christine,Guion-Firmin   Claire,1,1
+Pires Beaune   Christine,Cazebonne   Samantha,0,1
+Pires Beaune   Christine,Dumas   Frédérique,1,1
+Pires Beaune   Christine,Charrière   Sylvie,0,1
+Pires Beaune   Christine,Brugnera   Anne,0,1
+Pires Beaune   Christine,Batut   Xavier,0,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Peyron   Michèle,0,1
+Pires Beaune   Christine,Calvez   Céline,0,1
+Pires Beaune   Christine,Piron   Béatrice,0,1
+Pires Beaune   Christine,Faucillon   Elsa,1,1
+Pires Beaune   Christine,Pouzyreff   Natalia,0,1
+Pires Beaune   Christine,de Vaucouleurs   Michèle,0,1
+Pires Beaune   Christine,Marilossian   Jacques,0,1
+Pires Beaune   Christine,Wulfranc   Hubert,1,1
+Pires Beaune   Christine,Provendier   Florence,0,1
+Pires Beaune   Christine,Fugit   Jean-Luc,0,1
+Tolmont   Sylvie,Rabault   Valérie,1,1
+Tolmont   Sylvie,Aviragnet   Joël,1,1
+Tolmont   Sylvie,Lang   Anne-Christine,0,1
+Tolmont   Sylvie,Bagarry   Delphine,0,1
+Tolmont   Sylvie,Robert   Mireille,0,1
+Tolmont   Sylvie,Pitollat   Claire,0,1
+Tolmont   Sylvie,Racon-Bouzon   Cathy,0,1
+Tolmont   Sylvie,Bouyx   Bertrand,0,1
+Tolmont   Sylvie,Gérard   Raphaël,0,1
+Tolmont   Sylvie,Martin   Didier,0,1
+Tolmont   Sylvie,Dubois   Jacqueline,0,1
+Tolmont   Sylvie,Charvier   Fannette,0,1
+Tolmont   Sylvie,Khattabi   Fadila,0,1
+Tolmont   Sylvie,Kerlogot   Yannick,0,1
+Tolmont   Sylvie,Gipson   Séverine,0,1
+Tolmont   Sylvie,Vignon   Corinne,0,1
+Tolmont   Sylvie,Toutut-Picard   Élisabeth,0,1
+Tolmont   Sylvie,Tanguy   Liliana,0,1
+Tolmont   Sylvie,Ménard   Emmanuelle,1,1
+Tolmont   Sylvie,Mette   Sophie,0,1
+Tolmont   Sylvie,Labaronne   Daniel,0,1
+Tolmont   Sylvie,Brulebois   Danielle,0,1
+Tolmont   Sylvie,Vallaud   Boris,1,1
+Tolmont   Sylvie,Mis   Jean-Michel,0,1
+Tolmont   Sylvie,Borowczyk   Julien,0,1
+Tolmont   Sylvie,Freschi   Alexandre,0,1
+Tolmont   Sylvie,Pradié   Aurélien,1,1
+Tolmont   Sylvie,Amadou   Aude,0,1
+Tolmont   Sylvie,Saint-Paul   Laetitia,0,1
+Tolmont   Sylvie,Girardin   Éric,0,1
+Tolmont   Sylvie,Bannier   Géraldine,0,1
+Tolmont   Sylvie,Orphelin   Matthieu,0,1
+Tolmont   Sylvie,Fiat   Caroline,1,1
+Tolmont   Sylvie,Zannier   Hélène,0,1
+Tolmont   Sylvie,Studer   Bruno,0,1
+Tolmont   Sylvie,Testé   Stéphane,0,1
+Tolmont   Sylvie,Rilhac   Cécile,0,1
+Tolmont   Sylvie,Manin   Josette,1,1
+Tolmont   Sylvie,El Guerrab   M'jid,0,1
+Tolmont   Sylvie,Kéclard-Mondésir   Manuéla,1,1
+Tolmont   Sylvie,Bassire   Nathalie,1,1
+Tolmont   Sylvie,Guion-Firmin   Claire,1,1
+Tolmont   Sylvie,Cazebonne   Samantha,0,1
+Tolmont   Sylvie,Dumas   Frédérique,1,1
+Tolmont   Sylvie,Charrière   Sylvie,0,1
+Tolmont   Sylvie,Brugnera   Anne,0,1
+Tolmont   Sylvie,Batut   Xavier,0,1
+Tolmont   Sylvie,Verdier-Jouclas   Marie-Christine,0,1
+Tolmont   Sylvie,Peyron   Michèle,0,1
+Tolmont   Sylvie,Calvez   Céline,0,1
+Tolmont   Sylvie,Piron   Béatrice,0,1
+Tolmont   Sylvie,Faucillon   Elsa,1,1
+Tolmont   Sylvie,Pouzyreff   Natalia,0,1
+Tolmont   Sylvie,de Vaucouleurs   Michèle,0,1
+Tolmont   Sylvie,Marilossian   Jacques,0,1
+Tolmont   Sylvie,Wulfranc   Hubert,1,1
+Tolmont   Sylvie,Provendier   Florence,0,1
+Tolmont   Sylvie,Fugit   Jean-Luc,0,1
+Rabault   Valérie,Aviragnet   Joël,1,1
+Rabault   Valérie,Lang   Anne-Christine,0,1
+Rabault   Valérie,Bagarry   Delphine,0,1
+Rabault   Valérie,Robert   Mireille,0,1
+Rabault   Valérie,Pitollat   Claire,0,1
+Rabault   Valérie,Racon-Bouzon   Cathy,0,1
+Rabault   Valérie,Bouyx   Bertrand,0,1
+Rabault   Valérie,Gérard   Raphaël,0,1
+Rabault   Valérie,Martin   Didier,0,1
+Rabault   Valérie,Dubois   Jacqueline,0,1
+Rabault   Valérie,Charvier   Fannette,0,1
+Rabault   Valérie,Khattabi   Fadila,0,1
+Rabault   Valérie,Kerlogot   Yannick,0,1
+Rabault   Valérie,Gipson   Séverine,0,1
+Rabault   Valérie,Vignon   Corinne,0,1
+Rabault   Valérie,Toutut-Picard   Élisabeth,0,1
+Rabault   Valérie,Tanguy   Liliana,0,1
+Rabault   Valérie,Ménard   Emmanuelle,1,1
+Rabault   Valérie,Mette   Sophie,0,1
+Rabault   Valérie,Labaronne   Daniel,0,1
+Rabault   Valérie,Brulebois   Danielle,0,1
+Rabault   Valérie,Vallaud   Boris,1,1
+Rabault   Valérie,Mis   Jean-Michel,0,1
+Rabault   Valérie,Borowczyk   Julien,0,1
+Rabault   Valérie,Freschi   Alexandre,0,1
+Rabault   Valérie,Pradié   Aurélien,1,1
+Rabault   Valérie,Amadou   Aude,0,1
+Rabault   Valérie,Saint-Paul   Laetitia,0,1
+Rabault   Valérie,Girardin   Éric,0,1
+Rabault   Valérie,Bannier   Géraldine,0,1
+Rabault   Valérie,Orphelin   Matthieu,0,1
+Rabault   Valérie,Fiat   Caroline,1,1
+Rabault   Valérie,Zannier   Hélène,0,1
+Rabault   Valérie,Studer   Bruno,0,1
+Rabault   Valérie,Testé   Stéphane,0,1
+Rabault   Valérie,Rilhac   Cécile,0,1
+Rabault   Valérie,Manin   Josette,1,1
+Rabault   Valérie,El Guerrab   M'jid,0,1
+Rabault   Valérie,Kéclard-Mondésir   Manuéla,1,1
+Rabault   Valérie,Bassire   Nathalie,1,1
+Rabault   Valérie,Guion-Firmin   Claire,1,1
+Rabault   Valérie,Cazebonne   Samantha,0,1
+Rabault   Valérie,Dumas   Frédérique,1,1
+Rabault   Valérie,Charrière   Sylvie,0,1
+Rabault   Valérie,Brugnera   Anne,0,1
+Rabault   Valérie,Batut   Xavier,0,1
+Rabault   Valérie,Verdier-Jouclas   Marie-Christine,0,1
+Rabault   Valérie,Peyron   Michèle,0,1
+Rabault   Valérie,Calvez   Céline,0,1
+Rabault   Valérie,Piron   Béatrice,0,1
+Rabault   Valérie,Faucillon   Elsa,1,1
+Rabault   Valérie,Pouzyreff   Natalia,0,1
+Rabault   Valérie,de Vaucouleurs   Michèle,0,1
+Rabault   Valérie,Marilossian   Jacques,0,1
+Rabault   Valérie,Wulfranc   Hubert,1,1
+Rabault   Valérie,Provendier   Florence,0,1
+Rabault   Valérie,Fugit   Jean-Luc,0,1
+Aviragnet   Joël,Lang   Anne-Christine,0,1
+Aviragnet   Joël,Bagarry   Delphine,0,1
+Aviragnet   Joël,Robert   Mireille,0,1
+Aviragnet   Joël,Pitollat   Claire,0,1
+Aviragnet   Joël,Racon-Bouzon   Cathy,0,1
+Aviragnet   Joël,Bouyx   Bertrand,0,1
+Aviragnet   Joël,Gérard   Raphaël,0,1
+Aviragnet   Joël,Martin   Didier,0,1
+Aviragnet   Joël,Dubois   Jacqueline,0,1
+Aviragnet   Joël,Charvier   Fannette,0,1
+Aviragnet   Joël,Khattabi   Fadila,0,1
+Aviragnet   Joël,Kerlogot   Yannick,0,1
+Aviragnet   Joël,Gipson   Séverine,0,1
+Aviragnet   Joël,Vignon   Corinne,0,1
+Aviragnet   Joël,Toutut-Picard   Élisabeth,0,1
+Aviragnet   Joël,Tanguy   Liliana,0,1
+Aviragnet   Joël,Ménard   Emmanuelle,1,1
+Aviragnet   Joël,Mette   Sophie,0,1
+Aviragnet   Joël,Labaronne   Daniel,0,1
+Aviragnet   Joël,Brulebois   Danielle,0,1
+Aviragnet   Joël,Vallaud   Boris,1,1
+Aviragnet   Joël,Mis   Jean-Michel,0,1
+Aviragnet   Joël,Borowczyk   Julien,0,1
+Aviragnet   Joël,Freschi   Alexandre,0,1
+Aviragnet   Joël,Pradié   Aurélien,1,1
+Aviragnet   Joël,Amadou   Aude,0,1
+Aviragnet   Joël,Saint-Paul   Laetitia,0,1
+Aviragnet   Joël,Girardin   Éric,0,1
+Aviragnet   Joël,Bannier   Géraldine,0,1
+Aviragnet   Joël,Orphelin   Matthieu,0,1
+Aviragnet   Joël,Fiat   Caroline,1,1
+Aviragnet   Joël,Zannier   Hélène,0,1
+Aviragnet   Joël,Studer   Bruno,0,1
+Aviragnet   Joël,Testé   Stéphane,0,1
+Aviragnet   Joël,Rilhac   Cécile,0,1
+Aviragnet   Joël,Manin   Josette,1,1
+Aviragnet   Joël,El Guerrab   M'jid,0,1
+Aviragnet   Joël,Kéclard-Mondésir   Manuéla,1,1
+Aviragnet   Joël,Bassire   Nathalie,1,1
+Aviragnet   Joël,Guion-Firmin   Claire,1,1
+Aviragnet   Joël,Cazebonne   Samantha,0,1
+Aviragnet   Joël,Dumas   Frédérique,1,1
+Aviragnet   Joël,Charrière   Sylvie,0,1
+Aviragnet   Joël,Brugnera   Anne,0,1
+Aviragnet   Joël,Batut   Xavier,0,1
+Aviragnet   Joël,Verdier-Jouclas   Marie-Christine,0,1
+Aviragnet   Joël,Peyron   Michèle,0,1
+Aviragnet   Joël,Calvez   Céline,0,1
+Aviragnet   Joël,Piron   Béatrice,0,1
+Aviragnet   Joël,Faucillon   Elsa,1,1
+Aviragnet   Joël,Pouzyreff   Natalia,0,1
+Aviragnet   Joël,de Vaucouleurs   Michèle,0,1
+Aviragnet   Joël,Marilossian   Jacques,0,1
+Aviragnet   Joël,Wulfranc   Hubert,1,1
+Aviragnet   Joël,Provendier   Florence,0,1
+Aviragnet   Joël,Fugit   Jean-Luc,0,1
+Lang   Anne-Christine,Bagarry   Delphine,1,1
+Lang   Anne-Christine,Robert   Mireille,1,1
+Lang   Anne-Christine,Pitollat   Claire,1,1
+Lang   Anne-Christine,Racon-Bouzon   Cathy,1,1
+Lang   Anne-Christine,Bouyx   Bertrand,1,1
+Lang   Anne-Christine,Gérard   Raphaël,1,1
+Lang   Anne-Christine,Martin   Didier,1,1
+Lang   Anne-Christine,Dubois   Jacqueline,1,1
+Lang   Anne-Christine,Charvier   Fannette,1,1
+Lang   Anne-Christine,Khattabi   Fadila,1,1
+Lang   Anne-Christine,Kerlogot   Yannick,1,1
+Lang   Anne-Christine,Gipson   Séverine,1,1
+Lang   Anne-Christine,Vignon   Corinne,1,1
+Lang   Anne-Christine,Toutut-Picard   Élisabeth,1,1
+Lang   Anne-Christine,Tanguy   Liliana,1,1
+Lang   Anne-Christine,Ménard   Emmanuelle,0,1
+Lang   Anne-Christine,Mette   Sophie,1,1
+Lang   Anne-Christine,Labaronne   Daniel,1,1
+Lang   Anne-Christine,Brulebois   Danielle,1,1
+Lang   Anne-Christine,Vallaud   Boris,0,1
+Lang   Anne-Christine,Mis   Jean-Michel,1,1
+Lang   Anne-Christine,Borowczyk   Julien,1,1
+Lang   Anne-Christine,Freschi   Alexandre,1,1
+Lang   Anne-Christine,Pradié   Aurélien,0,1
+Lang   Anne-Christine,Amadou   Aude,1,1
+Lang   Anne-Christine,Saint-Paul   Laetitia,1,1
+Lang   Anne-Christine,Girardin   Éric,1,1
+Lang   Anne-Christine,Bannier   Géraldine,1,1
+Lang   Anne-Christine,Orphelin   Matthieu,1,1
+Lang   Anne-Christine,Fiat   Caroline,0,1
+Lang   Anne-Christine,Zannier   Hélène,1,1
+Lang   Anne-Christine,Studer   Bruno,1,1
+Lang   Anne-Christine,Testé   Stéphane,1,1
+Lang   Anne-Christine,Rilhac   Cécile,1,1
+Lang   Anne-Christine,Manin   Josette,0,1
+Lang   Anne-Christine,El Guerrab   M'jid,1,1
+Lang   Anne-Christine,Kéclard-Mondésir   Manuéla,0,1
+Lang   Anne-Christine,Bassire   Nathalie,0,1
+Lang   Anne-Christine,Guion-Firmin   Claire,0,1
+Lang   Anne-Christine,Cazebonne   Samantha,1,1
+Lang   Anne-Christine,Dumas   Frédérique,0,1
+Lang   Anne-Christine,Charrière   Sylvie,1,1
+Lang   Anne-Christine,Brugnera   Anne,1,1
+Lang   Anne-Christine,Batut   Xavier,1,1
+Lang   Anne-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Lang   Anne-Christine,Peyron   Michèle,1,1
+Lang   Anne-Christine,Calvez   Céline,1,1
+Lang   Anne-Christine,Piron   Béatrice,1,1
+Lang   Anne-Christine,Faucillon   Elsa,0,1
+Lang   Anne-Christine,Pouzyreff   Natalia,1,1
+Lang   Anne-Christine,de Vaucouleurs   Michèle,1,1
+Lang   Anne-Christine,Marilossian   Jacques,1,1
+Lang   Anne-Christine,Wulfranc   Hubert,0,1
+Lang   Anne-Christine,Provendier   Florence,1,1
+Lang   Anne-Christine,Fugit   Jean-Luc,1,1
+Bagarry   Delphine,Robert   Mireille,1,1
+Bagarry   Delphine,Pitollat   Claire,1,1
+Bagarry   Delphine,Racon-Bouzon   Cathy,1,1
+Bagarry   Delphine,Bouyx   Bertrand,1,1
+Bagarry   Delphine,Gérard   Raphaël,1,1
+Bagarry   Delphine,Martin   Didier,1,1
+Bagarry   Delphine,Dubois   Jacqueline,1,1
+Bagarry   Delphine,Charvier   Fannette,1,1
+Bagarry   Delphine,Khattabi   Fadila,1,1
+Bagarry   Delphine,Kerlogot   Yannick,1,1
+Bagarry   Delphine,Gipson   Séverine,1,1
+Bagarry   Delphine,Vignon   Corinne,1,1
+Bagarry   Delphine,Toutut-Picard   Élisabeth,1,1
+Bagarry   Delphine,Tanguy   Liliana,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,Mette   Sophie,1,1
+Bagarry   Delphine,Labaronne   Daniel,1,1
+Bagarry   Delphine,Brulebois   Danielle,1,1
+Bagarry   Delphine,Vallaud   Boris,0,1
+Bagarry   Delphine,Mis   Jean-Michel,1,1
+Bagarry   Delphine,Borowczyk   Julien,1,1
+Bagarry   Delphine,Freschi   Alexandre,1,1
+Bagarry   Delphine,Pradié   Aurélien,0,1
+Bagarry   Delphine,Amadou   Aude,1,1
+Bagarry   Delphine,Saint-Paul   Laetitia,1,1
+Bagarry   Delphine,Girardin   Éric,1,1
+Bagarry   Delphine,Bannier   Géraldine,1,1
+Bagarry   Delphine,Orphelin   Matthieu,1,1
+Bagarry   Delphine,Fiat   Caroline,0,1
+Bagarry   Delphine,Zannier   Hélène,1,1
+Bagarry   Delphine,Studer   Bruno,1,1
+Bagarry   Delphine,Testé   Stéphane,1,1
+Bagarry   Delphine,Rilhac   Cécile,1,1
+Bagarry   Delphine,Manin   Josette,0,1
+Bagarry   Delphine,El Guerrab   M'jid,1,1
+Bagarry   Delphine,Kéclard-Mondésir   Manuéla,0,1
+Bagarry   Delphine,Bassire   Nathalie,0,1
+Bagarry   Delphine,Guion-Firmin   Claire,0,1
+Bagarry   Delphine,Cazebonne   Samantha,1,1
+Bagarry   Delphine,Dumas   Frédérique,0,1
+Bagarry   Delphine,Charrière   Sylvie,1,1
+Bagarry   Delphine,Brugnera   Anne,1,1
+Bagarry   Delphine,Batut   Xavier,1,1
+Bagarry   Delphine,Verdier-Jouclas   Marie-Christine,1,1
+Bagarry   Delphine,Peyron   Michèle,1,1
+Bagarry   Delphine,Calvez   Céline,1,1
+Bagarry   Delphine,Piron   Béatrice,1,1
+Bagarry   Delphine,Faucillon   Elsa,0,1
+Bagarry   Delphine,Pouzyreff   Natalia,1,1
+Bagarry   Delphine,de Vaucouleurs   Michèle,1,1
+Bagarry   Delphine,Marilossian   Jacques,1,1
+Bagarry   Delphine,Wulfranc   Hubert,0,1
+Bagarry   Delphine,Provendier   Florence,1,1
+Bagarry   Delphine,Fugit   Jean-Luc,1,1
+Robert   Mireille,Pitollat   Claire,1,1
+Robert   Mireille,Racon-Bouzon   Cathy,1,1
+Robert   Mireille,Bouyx   Bertrand,1,1
+Robert   Mireille,Gérard   Raphaël,1,1
+Robert   Mireille,Martin   Didier,1,1
+Robert   Mireille,Dubois   Jacqueline,1,1
+Robert   Mireille,Charvier   Fannette,1,1
+Robert   Mireille,Khattabi   Fadila,1,1
+Robert   Mireille,Kerlogot   Yannick,1,1
+Robert   Mireille,Gipson   Séverine,1,1
+Robert   Mireille,Vignon   Corinne,1,1
+Robert   Mireille,Toutut-Picard   Élisabeth,1,1
+Robert   Mireille,Tanguy   Liliana,1,1
+Robert   Mireille,Ménard   Emmanuelle,0,1
+Robert   Mireille,Mette   Sophie,1,1
+Robert   Mireille,Labaronne   Daniel,1,1
+Robert   Mireille,Brulebois   Danielle,1,1
+Robert   Mireille,Vallaud   Boris,0,1
+Robert   Mireille,Mis   Jean-Michel,1,1
+Robert   Mireille,Borowczyk   Julien,1,1
+Robert   Mireille,Freschi   Alexandre,1,1
+Robert   Mireille,Pradié   Aurélien,0,1
+Robert   Mireille,Amadou   Aude,1,1
+Robert   Mireille,Saint-Paul   Laetitia,1,1
+Robert   Mireille,Girardin   Éric,1,1
+Robert   Mireille,Bannier   Géraldine,1,1
+Robert   Mireille,Orphelin   Matthieu,1,1
+Robert   Mireille,Fiat   Caroline,0,1
+Robert   Mireille,Zannier   Hélène,1,1
+Robert   Mireille,Studer   Bruno,1,1
+Robert   Mireille,Testé   Stéphane,1,1
+Robert   Mireille,Rilhac   Cécile,1,1
+Robert   Mireille,Manin   Josette,0,1
+Robert   Mireille,El Guerrab   M'jid,1,1
+Robert   Mireille,Kéclard-Mondésir   Manuéla,0,1
+Robert   Mireille,Bassire   Nathalie,0,1
+Robert   Mireille,Guion-Firmin   Claire,0,1
+Robert   Mireille,Cazebonne   Samantha,1,1
+Robert   Mireille,Dumas   Frédérique,0,1
+Robert   Mireille,Charrière   Sylvie,1,1
+Robert   Mireille,Brugnera   Anne,1,1
+Robert   Mireille,Batut   Xavier,1,1
+Robert   Mireille,Verdier-Jouclas   Marie-Christine,1,1
+Robert   Mireille,Peyron   Michèle,1,1
+Robert   Mireille,Calvez   Céline,1,1
+Robert   Mireille,Piron   Béatrice,1,1
+Robert   Mireille,Faucillon   Elsa,0,1
+Robert   Mireille,Pouzyreff   Natalia,1,1
+Robert   Mireille,de Vaucouleurs   Michèle,1,1
+Robert   Mireille,Marilossian   Jacques,1,1
+Robert   Mireille,Wulfranc   Hubert,0,1
+Robert   Mireille,Provendier   Florence,1,1
+Robert   Mireille,Fugit   Jean-Luc,1,1
+Pitollat   Claire,Racon-Bouzon   Cathy,1,1
+Pitollat   Claire,Bouyx   Bertrand,1,1
+Pitollat   Claire,Gérard   Raphaël,1,1
+Pitollat   Claire,Martin   Didier,1,1
+Pitollat   Claire,Dubois   Jacqueline,1,1
+Pitollat   Claire,Charvier   Fannette,1,1
+Pitollat   Claire,Khattabi   Fadila,1,1
+Pitollat   Claire,Kerlogot   Yannick,1,1
+Pitollat   Claire,Gipson   Séverine,1,1
+Pitollat   Claire,Vignon   Corinne,1,1
+Pitollat   Claire,Toutut-Picard   Élisabeth,1,1
+Pitollat   Claire,Tanguy   Liliana,1,1
+Pitollat   Claire,Ménard   Emmanuelle,0,1
+Pitollat   Claire,Mette   Sophie,1,1
+Pitollat   Claire,Labaronne   Daniel,1,1
+Pitollat   Claire,Brulebois   Danielle,1,1
+Pitollat   Claire,Vallaud   Boris,0,1
+Pitollat   Claire,Mis   Jean-Michel,1,1
+Pitollat   Claire,Borowczyk   Julien,1,1
+Pitollat   Claire,Freschi   Alexandre,1,1
+Pitollat   Claire,Pradié   Aurélien,0,1
+Pitollat   Claire,Amadou   Aude,1,1
+Pitollat   Claire,Saint-Paul   Laetitia,1,1
+Pitollat   Claire,Girardin   Éric,1,1
+Pitollat   Claire,Bannier   Géraldine,1,1
+Pitollat   Claire,Orphelin   Matthieu,1,1
+Pitollat   Claire,Fiat   Caroline,0,1
+Pitollat   Claire,Zannier   Hélène,1,1
+Pitollat   Claire,Studer   Bruno,1,1
+Pitollat   Claire,Testé   Stéphane,1,1
+Pitollat   Claire,Rilhac   Cécile,1,1
+Pitollat   Claire,Manin   Josette,0,1
+Pitollat   Claire,El Guerrab   M'jid,1,1
+Pitollat   Claire,Kéclard-Mondésir   Manuéla,0,1
+Pitollat   Claire,Bassire   Nathalie,0,1
+Pitollat   Claire,Guion-Firmin   Claire,0,1
+Pitollat   Claire,Cazebonne   Samantha,1,1
+Pitollat   Claire,Dumas   Frédérique,0,1
+Pitollat   Claire,Charrière   Sylvie,1,1
+Pitollat   Claire,Brugnera   Anne,1,1
+Pitollat   Claire,Batut   Xavier,1,1
+Pitollat   Claire,Verdier-Jouclas   Marie-Christine,1,1
+Pitollat   Claire,Peyron   Michèle,1,1
+Pitollat   Claire,Calvez   Céline,1,1
+Pitollat   Claire,Piron   Béatrice,1,1
+Pitollat   Claire,Faucillon   Elsa,0,1
+Pitollat   Claire,Pouzyreff   Natalia,1,1
+Pitollat   Claire,de Vaucouleurs   Michèle,1,1
+Pitollat   Claire,Marilossian   Jacques,1,1
+Pitollat   Claire,Wulfranc   Hubert,0,1
+Pitollat   Claire,Provendier   Florence,1,1
+Pitollat   Claire,Fugit   Jean-Luc,1,1
+Racon-Bouzon   Cathy,Bouyx   Bertrand,1,1
+Racon-Bouzon   Cathy,Gérard   Raphaël,1,1
+Racon-Bouzon   Cathy,Martin   Didier,1,1
+Racon-Bouzon   Cathy,Dubois   Jacqueline,1,1
+Racon-Bouzon   Cathy,Charvier   Fannette,1,1
+Racon-Bouzon   Cathy,Khattabi   Fadila,1,1
+Racon-Bouzon   Cathy,Kerlogot   Yannick,1,1
+Racon-Bouzon   Cathy,Gipson   Séverine,1,1
+Racon-Bouzon   Cathy,Vignon   Corinne,1,1
+Racon-Bouzon   Cathy,Toutut-Picard   Élisabeth,1,1
+Racon-Bouzon   Cathy,Tanguy   Liliana,1,1
+Racon-Bouzon   Cathy,Ménard   Emmanuelle,0,1
+Racon-Bouzon   Cathy,Mette   Sophie,1,1
+Racon-Bouzon   Cathy,Labaronne   Daniel,1,1
+Racon-Bouzon   Cathy,Brulebois   Danielle,1,1
+Racon-Bouzon   Cathy,Vallaud   Boris,0,1
+Racon-Bouzon   Cathy,Mis   Jean-Michel,1,1
+Racon-Bouzon   Cathy,Borowczyk   Julien,1,1
+Racon-Bouzon   Cathy,Freschi   Alexandre,1,1
+Racon-Bouzon   Cathy,Pradié   Aurélien,0,1
+Racon-Bouzon   Cathy,Amadou   Aude,1,1
+Racon-Bouzon   Cathy,Saint-Paul   Laetitia,1,1
+Racon-Bouzon   Cathy,Girardin   Éric,1,1
+Racon-Bouzon   Cathy,Bannier   Géraldine,1,1
+Racon-Bouzon   Cathy,Orphelin   Matthieu,1,1
+Racon-Bouzon   Cathy,Fiat   Caroline,0,1
+Racon-Bouzon   Cathy,Zannier   Hélène,1,1
+Racon-Bouzon   Cathy,Studer   Bruno,1,1
+Racon-Bouzon   Cathy,Testé   Stéphane,1,1
+Racon-Bouzon   Cathy,Rilhac   Cécile,1,1
+Racon-Bouzon   Cathy,Manin   Josette,0,1
+Racon-Bouzon   Cathy,El Guerrab   M'jid,1,1
+Racon-Bouzon   Cathy,Kéclard-Mondésir   Manuéla,0,1
+Racon-Bouzon   Cathy,Bassire   Nathalie,0,1
+Racon-Bouzon   Cathy,Guion-Firmin   Claire,0,1
+Racon-Bouzon   Cathy,Cazebonne   Samantha,1,1
+Racon-Bouzon   Cathy,Dumas   Frédérique,0,1
+Racon-Bouzon   Cathy,Charrière   Sylvie,1,1
+Racon-Bouzon   Cathy,Brugnera   Anne,1,1
+Racon-Bouzon   Cathy,Batut   Xavier,1,1
+Racon-Bouzon   Cathy,Verdier-Jouclas   Marie-Christine,1,1
+Racon-Bouzon   Cathy,Peyron   Michèle,1,1
+Racon-Bouzon   Cathy,Calvez   Céline,1,1
+Racon-Bouzon   Cathy,Piron   Béatrice,1,1
+Racon-Bouzon   Cathy,Faucillon   Elsa,0,1
+Racon-Bouzon   Cathy,Pouzyreff   Natalia,1,1
+Racon-Bouzon   Cathy,de Vaucouleurs   Michèle,1,1
+Racon-Bouzon   Cathy,Marilossian   Jacques,1,1
+Racon-Bouzon   Cathy,Wulfranc   Hubert,0,1
+Racon-Bouzon   Cathy,Provendier   Florence,1,1
+Racon-Bouzon   Cathy,Fugit   Jean-Luc,1,1
+Bouyx   Bertrand,Gérard   Raphaël,1,1
+Bouyx   Bertrand,Martin   Didier,1,1
+Bouyx   Bertrand,Dubois   Jacqueline,1,1
+Bouyx   Bertrand,Charvier   Fannette,1,1
+Bouyx   Bertrand,Khattabi   Fadila,1,1
+Bouyx   Bertrand,Kerlogot   Yannick,1,1
+Bouyx   Bertrand,Gipson   Séverine,1,1
+Bouyx   Bertrand,Vignon   Corinne,1,1
+Bouyx   Bertrand,Toutut-Picard   Élisabeth,1,1
+Bouyx   Bertrand,Tanguy   Liliana,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,0,1
+Bouyx   Bertrand,Mette   Sophie,1,1
+Bouyx   Bertrand,Labaronne   Daniel,1,1
+Bouyx   Bertrand,Brulebois   Danielle,1,1
+Bouyx   Bertrand,Vallaud   Boris,0,1
+Bouyx   Bertrand,Mis   Jean-Michel,1,1
+Bouyx   Bertrand,Borowczyk   Julien,1,1
+Bouyx   Bertrand,Freschi   Alexandre,1,1
+Bouyx   Bertrand,Pradié   Aurélien,0,1
+Bouyx   Bertrand,Amadou   Aude,1,1
+Bouyx   Bertrand,Saint-Paul   Laetitia,1,1
+Bouyx   Bertrand,Girardin   Éric,1,1
+Bouyx   Bertrand,Bannier   Géraldine,1,1
+Bouyx   Bertrand,Orphelin   Matthieu,1,1
+Bouyx   Bertrand,Fiat   Caroline,0,1
+Bouyx   Bertrand,Zannier   Hélène,1,1
+Bouyx   Bertrand,Studer   Bruno,1,1
+Bouyx   Bertrand,Testé   Stéphane,1,1
+Bouyx   Bertrand,Rilhac   Cécile,1,1
+Bouyx   Bertrand,Manin   Josette,0,1
+Bouyx   Bertrand,El Guerrab   M'jid,1,1
+Bouyx   Bertrand,Kéclard-Mondésir   Manuéla,0,1
+Bouyx   Bertrand,Bassire   Nathalie,0,1
+Bouyx   Bertrand,Guion-Firmin   Claire,0,1
+Bouyx   Bertrand,Cazebonne   Samantha,1,1
+Bouyx   Bertrand,Dumas   Frédérique,0,1
+Bouyx   Bertrand,Charrière   Sylvie,1,1
+Bouyx   Bertrand,Brugnera   Anne,1,1
+Bouyx   Bertrand,Batut   Xavier,1,1
+Bouyx   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Calvez   Céline,1,1
+Bouyx   Bertrand,Piron   Béatrice,1,1
+Bouyx   Bertrand,Faucillon   Elsa,0,1
+Bouyx   Bertrand,Pouzyreff   Natalia,1,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,1,1
+Bouyx   Bertrand,Marilossian   Jacques,1,1
+Bouyx   Bertrand,Wulfranc   Hubert,0,1
+Bouyx   Bertrand,Provendier   Florence,1,1
+Bouyx   Bertrand,Fugit   Jean-Luc,1,1
+Gérard   Raphaël,Martin   Didier,1,1
+Gérard   Raphaël,Dubois   Jacqueline,1,1
+Gérard   Raphaël,Charvier   Fannette,1,1
+Gérard   Raphaël,Khattabi   Fadila,1,1
+Gérard   Raphaël,Kerlogot   Yannick,1,1
+Gérard   Raphaël,Gipson   Séverine,1,1
+Gérard   Raphaël,Vignon   Corinne,1,1
+Gérard   Raphaël,Toutut-Picard   Élisabeth,1,1
+Gérard   Raphaël,Tanguy   Liliana,1,1
+Gérard   Raphaël,Ménard   Emmanuelle,0,1
+Gérard   Raphaël,Mette   Sophie,1,1
+Gérard   Raphaël,Labaronne   Daniel,1,1
+Gérard   Raphaël,Brulebois   Danielle,1,1
+Gérard   Raphaël,Vallaud   Boris,0,1
+Gérard   Raphaël,Mis   Jean-Michel,1,1
+Gérard   Raphaël,Borowczyk   Julien,1,1
+Gérard   Raphaël,Freschi   Alexandre,1,1
+Gérard   Raphaël,Pradié   Aurélien,0,1
+Gérard   Raphaël,Amadou   Aude,1,1
+Gérard   Raphaël,Saint-Paul   Laetitia,1,1
+Gérard   Raphaël,Girardin   Éric,1,1
+Gérard   Raphaël,Bannier   Géraldine,1,1
+Gérard   Raphaël,Orphelin   Matthieu,1,1
+Gérard   Raphaël,Fiat   Caroline,0,1
+Gérard   Raphaël,Zannier   Hélène,1,1
+Gérard   Raphaël,Studer   Bruno,1,1
+Gérard   Raphaël,Testé   Stéphane,1,1
+Gérard   Raphaël,Rilhac   Cécile,1,1
+Gérard   Raphaël,Manin   Josette,0,1
+Gérard   Raphaël,El Guerrab   M'jid,1,1
+Gérard   Raphaël,Kéclard-Mondésir   Manuéla,0,1
+Gérard   Raphaël,Bassire   Nathalie,0,1
+Gérard   Raphaël,Guion-Firmin   Claire,0,1
+Gérard   Raphaël,Cazebonne   Samantha,1,1
+Gérard   Raphaël,Dumas   Frédérique,0,1
+Gérard   Raphaël,Charrière   Sylvie,1,1
+Gérard   Raphaël,Brugnera   Anne,1,1
+Gérard   Raphaël,Batut   Xavier,1,1
+Gérard   Raphaël,Verdier-Jouclas   Marie-Christine,1,1
+Gérard   Raphaël,Peyron   Michèle,1,1
+Gérard   Raphaël,Calvez   Céline,1,1
+Gérard   Raphaël,Piron   Béatrice,1,1
+Gérard   Raphaël,Faucillon   Elsa,0,1
+Gérard   Raphaël,Pouzyreff   Natalia,1,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,1,1
+Gérard   Raphaël,Marilossian   Jacques,1,1
+Gérard   Raphaël,Wulfranc   Hubert,0,1
+Gérard   Raphaël,Provendier   Florence,1,1
+Gérard   Raphaël,Fugit   Jean-Luc,1,1
+Martin   Didier,Dubois   Jacqueline,1,1
+Martin   Didier,Charvier   Fannette,1,1
+Martin   Didier,Khattabi   Fadila,1,1
+Martin   Didier,Kerlogot   Yannick,1,1
+Martin   Didier,Gipson   Séverine,1,1
+Martin   Didier,Vignon   Corinne,1,1
+Martin   Didier,Toutut-Picard   Élisabeth,1,1
+Martin   Didier,Tanguy   Liliana,1,1
+Martin   Didier,Ménard   Emmanuelle,0,1
+Martin   Didier,Mette   Sophie,1,1
+Martin   Didier,Labaronne   Daniel,1,1
+Martin   Didier,Brulebois   Danielle,1,1
+Martin   Didier,Vallaud   Boris,0,1
+Martin   Didier,Mis   Jean-Michel,1,1
+Martin   Didier,Borowczyk   Julien,1,1
+Martin   Didier,Freschi   Alexandre,1,1
+Martin   Didier,Pradié   Aurélien,0,1
+Martin   Didier,Amadou   Aude,1,1
+Martin   Didier,Saint-Paul   Laetitia,1,1
+Martin   Didier,Girardin   Éric,1,1
+Martin   Didier,Bannier   Géraldine,1,1
+Martin   Didier,Orphelin   Matthieu,1,1
+Martin   Didier,Fiat   Caroline,0,1
+Martin   Didier,Zannier   Hélène,1,1
+Martin   Didier,Studer   Bruno,1,1
+Martin   Didier,Testé   Stéphane,1,1
+Martin   Didier,Rilhac   Cécile,1,1
+Martin   Didier,Manin   Josette,0,1
+Martin   Didier,El Guerrab   M'jid,1,1
+Martin   Didier,Kéclard-Mondésir   Manuéla,0,1
+Martin   Didier,Bassire   Nathalie,0,1
+Martin   Didier,Guion-Firmin   Claire,0,1
+Martin   Didier,Cazebonne   Samantha,1,1
+Martin   Didier,Dumas   Frédérique,0,1
+Martin   Didier,Charrière   Sylvie,1,1
+Martin   Didier,Brugnera   Anne,1,1
+Martin   Didier,Batut   Xavier,1,1
+Martin   Didier,Verdier-Jouclas   Marie-Christine,1,1
+Martin   Didier,Peyron   Michèle,1,1
+Martin   Didier,Calvez   Céline,1,1
+Martin   Didier,Piron   Béatrice,1,1
+Martin   Didier,Faucillon   Elsa,0,1
+Martin   Didier,Pouzyreff   Natalia,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Marilossian   Jacques,1,1
+Martin   Didier,Wulfranc   Hubert,0,1
+Martin   Didier,Provendier   Florence,1,1
+Martin   Didier,Fugit   Jean-Luc,1,1
+Dubois   Jacqueline,Charvier   Fannette,1,1
+Dubois   Jacqueline,Khattabi   Fadila,1,1
+Dubois   Jacqueline,Kerlogot   Yannick,1,1
+Dubois   Jacqueline,Gipson   Séverine,1,1
+Dubois   Jacqueline,Vignon   Corinne,1,1
+Dubois   Jacqueline,Toutut-Picard   Élisabeth,1,1
+Dubois   Jacqueline,Tanguy   Liliana,1,1
+Dubois   Jacqueline,Ménard   Emmanuelle,0,1
+Dubois   Jacqueline,Mette   Sophie,1,1
+Dubois   Jacqueline,Labaronne   Daniel,1,1
+Dubois   Jacqueline,Brulebois   Danielle,1,1
+Dubois   Jacqueline,Vallaud   Boris,0,1
+Dubois   Jacqueline,Mis   Jean-Michel,1,1
+Dubois   Jacqueline,Borowczyk   Julien,1,1
+Dubois   Jacqueline,Freschi   Alexandre,1,1
+Dubois   Jacqueline,Pradié   Aurélien,0,1
+Dubois   Jacqueline,Amadou   Aude,1,1
+Dubois   Jacqueline,Saint-Paul   Laetitia,1,1
+Dubois   Jacqueline,Girardin   Éric,1,1
+Dubois   Jacqueline,Bannier   Géraldine,1,1
+Dubois   Jacqueline,Orphelin   Matthieu,1,1
+Dubois   Jacqueline,Fiat   Caroline,0,1
+Dubois   Jacqueline,Zannier   Hélène,1,1
+Dubois   Jacqueline,Studer   Bruno,1,1
+Dubois   Jacqueline,Testé   Stéphane,1,1
+Dubois   Jacqueline,Rilhac   Cécile,1,1
+Dubois   Jacqueline,Manin   Josette,0,1
+Dubois   Jacqueline,El Guerrab   M'jid,1,1
+Dubois   Jacqueline,Kéclard-Mondésir   Manuéla,0,1
+Dubois   Jacqueline,Bassire   Nathalie,0,1
+Dubois   Jacqueline,Guion-Firmin   Claire,0,1
+Dubois   Jacqueline,Cazebonne   Samantha,1,1
+Dubois   Jacqueline,Dumas   Frédérique,0,1
+Dubois   Jacqueline,Charrière   Sylvie,1,1
+Dubois   Jacqueline,Brugnera   Anne,1,1
+Dubois   Jacqueline,Batut   Xavier,1,1
+Dubois   Jacqueline,Verdier-Jouclas   Marie-Christine,1,1
+Dubois   Jacqueline,Peyron   Michèle,1,1
+Dubois   Jacqueline,Calvez   Céline,1,1
+Dubois   Jacqueline,Piron   Béatrice,1,1
+Dubois   Jacqueline,Faucillon   Elsa,0,1
+Dubois   Jacqueline,Pouzyreff   Natalia,1,1
+Dubois   Jacqueline,de Vaucouleurs   Michèle,1,1
+Dubois   Jacqueline,Marilossian   Jacques,1,1
+Dubois   Jacqueline,Wulfranc   Hubert,0,1
+Dubois   Jacqueline,Provendier   Florence,1,1
+Dubois   Jacqueline,Fugit   Jean-Luc,1,1
+Charvier   Fannette,Khattabi   Fadila,1,1
+Charvier   Fannette,Kerlogot   Yannick,1,1
+Charvier   Fannette,Gipson   Séverine,1,1
+Charvier   Fannette,Vignon   Corinne,1,1
+Charvier   Fannette,Toutut-Picard   Élisabeth,1,1
+Charvier   Fannette,Tanguy   Liliana,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,Mette   Sophie,1,1
+Charvier   Fannette,Labaronne   Daniel,1,1
+Charvier   Fannette,Brulebois   Danielle,1,1
+Charvier   Fannette,Vallaud   Boris,0,1
+Charvier   Fannette,Mis   Jean-Michel,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Freschi   Alexandre,1,1
+Charvier   Fannette,Pradié   Aurélien,0,1
+Charvier   Fannette,Amadou   Aude,1,1
+Charvier   Fannette,Saint-Paul   Laetitia,1,1
+Charvier   Fannette,Girardin   Éric,1,1
+Charvier   Fannette,Bannier   Géraldine,1,1
+Charvier   Fannette,Orphelin   Matthieu,1,1
+Charvier   Fannette,Fiat   Caroline,0,1
+Charvier   Fannette,Zannier   Hélène,1,1
+Charvier   Fannette,Studer   Bruno,1,1
+Charvier   Fannette,Testé   Stéphane,1,1
+Charvier   Fannette,Rilhac   Cécile,1,1
+Charvier   Fannette,Manin   Josette,0,1
+Charvier   Fannette,El Guerrab   M'jid,1,1
+Charvier   Fannette,Kéclard-Mondésir   Manuéla,0,1
+Charvier   Fannette,Bassire   Nathalie,0,1
+Charvier   Fannette,Guion-Firmin   Claire,0,1
+Charvier   Fannette,Cazebonne   Samantha,1,1
+Charvier   Fannette,Dumas   Frédérique,0,1
+Charvier   Fannette,Charrière   Sylvie,1,1
+Charvier   Fannette,Brugnera   Anne,1,1
+Charvier   Fannette,Batut   Xavier,1,1
+Charvier   Fannette,Verdier-Jouclas   Marie-Christine,1,1
+Charvier   Fannette,Peyron   Michèle,1,1
+Charvier   Fannette,Calvez   Céline,1,1
+Charvier   Fannette,Piron   Béatrice,1,1
+Charvier   Fannette,Faucillon   Elsa,0,1
+Charvier   Fannette,Pouzyreff   Natalia,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,1,1
+Charvier   Fannette,Marilossian   Jacques,1,1
+Charvier   Fannette,Wulfranc   Hubert,0,1
+Charvier   Fannette,Provendier   Florence,1,1
+Charvier   Fannette,Fugit   Jean-Luc,1,1
+Khattabi   Fadila,Kerlogot   Yannick,1,1
+Khattabi   Fadila,Gipson   Séverine,1,1
+Khattabi   Fadila,Vignon   Corinne,1,1
+Khattabi   Fadila,Toutut-Picard   Élisabeth,1,1
+Khattabi   Fadila,Tanguy   Liliana,1,1
+Khattabi   Fadila,Ménard   Emmanuelle,0,1
+Khattabi   Fadila,Mette   Sophie,1,1
+Khattabi   Fadila,Labaronne   Daniel,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Vallaud   Boris,0,1
+Khattabi   Fadila,Mis   Jean-Michel,1,1
+Khattabi   Fadila,Borowczyk   Julien,1,1
+Khattabi   Fadila,Freschi   Alexandre,1,1
+Khattabi   Fadila,Pradié   Aurélien,0,1
+Khattabi   Fadila,Amadou   Aude,1,1
+Khattabi   Fadila,Saint-Paul   Laetitia,1,1
+Khattabi   Fadila,Girardin   Éric,1,1
+Khattabi   Fadila,Bannier   Géraldine,1,1
+Khattabi   Fadila,Orphelin   Matthieu,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Zannier   Hélène,1,1
+Khattabi   Fadila,Studer   Bruno,1,1
+Khattabi   Fadila,Testé   Stéphane,1,1
+Khattabi   Fadila,Rilhac   Cécile,1,1
+Khattabi   Fadila,Manin   Josette,0,1
+Khattabi   Fadila,El Guerrab   M'jid,1,1
+Khattabi   Fadila,Kéclard-Mondésir   Manuéla,0,1
+Khattabi   Fadila,Bassire   Nathalie,0,1
+Khattabi   Fadila,Guion-Firmin   Claire,0,1
+Khattabi   Fadila,Cazebonne   Samantha,1,1
+Khattabi   Fadila,Dumas   Frédérique,0,1
+Khattabi   Fadila,Charrière   Sylvie,1,1
+Khattabi   Fadila,Brugnera   Anne,1,1
+Khattabi   Fadila,Batut   Xavier,1,1
+Khattabi   Fadila,Verdier-Jouclas   Marie-Christine,1,1
+Khattabi   Fadila,Peyron   Michèle,1,1
+Khattabi   Fadila,Calvez   Céline,1,1
+Khattabi   Fadila,Piron   Béatrice,1,1
+Khattabi   Fadila,Faucillon   Elsa,0,1
+Khattabi   Fadila,Pouzyreff   Natalia,1,1
+Khattabi   Fadila,de Vaucouleurs   Michèle,1,1
+Khattabi   Fadila,Marilossian   Jacques,1,1
+Khattabi   Fadila,Wulfranc   Hubert,0,1
+Khattabi   Fadila,Provendier   Florence,1,1
+Khattabi   Fadila,Fugit   Jean-Luc,1,1
+Kerlogot   Yannick,Gipson   Séverine,1,1
+Kerlogot   Yannick,Vignon   Corinne,1,1
+Kerlogot   Yannick,Toutut-Picard   Élisabeth,1,1
+Kerlogot   Yannick,Tanguy   Liliana,1,1
+Kerlogot   Yannick,Ménard   Emmanuelle,0,1
+Kerlogot   Yannick,Mette   Sophie,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Brulebois   Danielle,1,1
+Kerlogot   Yannick,Vallaud   Boris,0,1
+Kerlogot   Yannick,Mis   Jean-Michel,1,1
+Kerlogot   Yannick,Borowczyk   Julien,1,1
+Kerlogot   Yannick,Freschi   Alexandre,1,1
+Kerlogot   Yannick,Pradié   Aurélien,0,1
+Kerlogot   Yannick,Amadou   Aude,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Bannier   Géraldine,1,1
+Kerlogot   Yannick,Orphelin   Matthieu,1,1
+Kerlogot   Yannick,Fiat   Caroline,0,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Studer   Bruno,1,1
+Kerlogot   Yannick,Testé   Stéphane,1,1
+Kerlogot   Yannick,Rilhac   Cécile,1,1
+Kerlogot   Yannick,Manin   Josette,0,1
+Kerlogot   Yannick,El Guerrab   M'jid,1,1
+Kerlogot   Yannick,Kéclard-Mondésir   Manuéla,0,1
+Kerlogot   Yannick,Bassire   Nathalie,0,1
+Kerlogot   Yannick,Guion-Firmin   Claire,0,1
+Kerlogot   Yannick,Cazebonne   Samantha,1,1
+Kerlogot   Yannick,Dumas   Frédérique,0,1
+Kerlogot   Yannick,Charrière   Sylvie,1,1
+Kerlogot   Yannick,Brugnera   Anne,1,1
+Kerlogot   Yannick,Batut   Xavier,1,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Peyron   Michèle,1,1
+Kerlogot   Yannick,Calvez   Céline,1,1
+Kerlogot   Yannick,Piron   Béatrice,1,1
+Kerlogot   Yannick,Faucillon   Elsa,0,1
+Kerlogot   Yannick,Pouzyreff   Natalia,1,1
+Kerlogot   Yannick,de Vaucouleurs   Michèle,1,1
+Kerlogot   Yannick,Marilossian   Jacques,1,1
+Kerlogot   Yannick,Wulfranc   Hubert,0,1
+Kerlogot   Yannick,Provendier   Florence,1,1
+Kerlogot   Yannick,Fugit   Jean-Luc,1,1
+Gipson   Séverine,Vignon   Corinne,1,1
+Gipson   Séverine,Toutut-Picard   Élisabeth,1,1
+Gipson   Séverine,Tanguy   Liliana,1,1
+Gipson   Séverine,Ménard   Emmanuelle,0,1
+Gipson   Séverine,Mette   Sophie,1,1
+Gipson   Séverine,Labaronne   Daniel,1,1
+Gipson   Séverine,Brulebois   Danielle,1,1
+Gipson   Séverine,Vallaud   Boris,0,1
+Gipson   Séverine,Mis   Jean-Michel,1,1
+Gipson   Séverine,Borowczyk   Julien,1,1
+Gipson   Séverine,Freschi   Alexandre,1,1
+Gipson   Séverine,Pradié   Aurélien,0,1
+Gipson   Séverine,Amadou   Aude,1,1
+Gipson   Séverine,Saint-Paul   Laetitia,1,1
+Gipson   Séverine,Girardin   Éric,1,1
+Gipson   Séverine,Bannier   Géraldine,1,1
+Gipson   Séverine,Orphelin   Matthieu,1,1
+Gipson   Séverine,Fiat   Caroline,0,1
+Gipson   Séverine,Zannier   Hélène,1,1
+Gipson   Séverine,Studer   Bruno,1,1
+Gipson   Séverine,Testé   Stéphane,1,1
+Gipson   Séverine,Rilhac   Cécile,1,1
+Gipson   Séverine,Manin   Josette,0,1
+Gipson   Séverine,El Guerrab   M'jid,1,1
+Gipson   Séverine,Kéclard-Mondésir   Manuéla,0,1
+Gipson   Séverine,Bassire   Nathalie,0,1
+Gipson   Séverine,Guion-Firmin   Claire,0,1
+Gipson   Séverine,Cazebonne   Samantha,1,1
+Gipson   Séverine,Dumas   Frédérique,0,1
+Gipson   Séverine,Charrière   Sylvie,1,1
+Gipson   Séverine,Brugnera   Anne,1,1
+Gipson   Séverine,Batut   Xavier,1,1
+Gipson   Séverine,Verdier-Jouclas   Marie-Christine,1,1
+Gipson   Séverine,Peyron   Michèle,1,1
+Gipson   Séverine,Calvez   Céline,1,1
+Gipson   Séverine,Piron   Béatrice,1,1
+Gipson   Séverine,Faucillon   Elsa,0,1
+Gipson   Séverine,Pouzyreff   Natalia,1,1
+Gipson   Séverine,de Vaucouleurs   Michèle,1,1
+Gipson   Séverine,Marilossian   Jacques,1,1
+Gipson   Séverine,Wulfranc   Hubert,0,1
+Gipson   Séverine,Provendier   Florence,1,1
+Gipson   Séverine,Fugit   Jean-Luc,1,1
+Vignon   Corinne,Toutut-Picard   Élisabeth,1,1
+Vignon   Corinne,Tanguy   Liliana,1,1
+Vignon   Corinne,Ménard   Emmanuelle,0,1
+Vignon   Corinne,Mette   Sophie,1,1
+Vignon   Corinne,Labaronne   Daniel,1,1
+Vignon   Corinne,Brulebois   Danielle,1,1
+Vignon   Corinne,Vallaud   Boris,0,1
+Vignon   Corinne,Mis   Jean-Michel,1,1
+Vignon   Corinne,Borowczyk   Julien,1,1
+Vignon   Corinne,Freschi   Alexandre,1,1
+Vignon   Corinne,Pradié   Aurélien,0,1
+Vignon   Corinne,Amadou   Aude,1,1
+Vignon   Corinne,Saint-Paul   Laetitia,1,1
+Vignon   Corinne,Girardin   Éric,1,1
+Vignon   Corinne,Bannier   Géraldine,1,1
+Vignon   Corinne,Orphelin   Matthieu,1,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Zannier   Hélène,1,1
+Vignon   Corinne,Studer   Bruno,1,1
+Vignon   Corinne,Testé   Stéphane,1,1
+Vignon   Corinne,Rilhac   Cécile,1,1
+Vignon   Corinne,Manin   Josette,0,1
+Vignon   Corinne,El Guerrab   M'jid,1,1
+Vignon   Corinne,Kéclard-Mondésir   Manuéla,0,1
+Vignon   Corinne,Bassire   Nathalie,0,1
+Vignon   Corinne,Guion-Firmin   Claire,0,1
+Vignon   Corinne,Cazebonne   Samantha,1,1
+Vignon   Corinne,Dumas   Frédérique,0,1
+Vignon   Corinne,Charrière   Sylvie,1,1
+Vignon   Corinne,Brugnera   Anne,1,1
+Vignon   Corinne,Batut   Xavier,1,1
+Vignon   Corinne,Verdier-Jouclas   Marie-Christine,1,1
+Vignon   Corinne,Peyron   Michèle,1,1
+Vignon   Corinne,Calvez   Céline,1,1
+Vignon   Corinne,Piron   Béatrice,1,1
+Vignon   Corinne,Faucillon   Elsa,0,1
+Vignon   Corinne,Pouzyreff   Natalia,1,1
+Vignon   Corinne,de Vaucouleurs   Michèle,1,1
+Vignon   Corinne,Marilossian   Jacques,1,1
+Vignon   Corinne,Wulfranc   Hubert,0,1
+Vignon   Corinne,Provendier   Florence,1,1
+Vignon   Corinne,Fugit   Jean-Luc,1,1
+Toutut-Picard   Élisabeth,Tanguy   Liliana,1,1
+Toutut-Picard   Élisabeth,Ménard   Emmanuelle,0,1
+Toutut-Picard   Élisabeth,Mette   Sophie,1,1
+Toutut-Picard   Élisabeth,Labaronne   Daniel,1,1
+Toutut-Picard   Élisabeth,Brulebois   Danielle,1,1
+Toutut-Picard   Élisabeth,Vallaud   Boris,0,1
+Toutut-Picard   Élisabeth,Mis   Jean-Michel,1,1
+Toutut-Picard   Élisabeth,Borowczyk   Julien,1,1
+Toutut-Picard   Élisabeth,Freschi   Alexandre,1,1
+Toutut-Picard   Élisabeth,Pradié   Aurélien,0,1
+Toutut-Picard   Élisabeth,Amadou   Aude,1,1
+Toutut-Picard   Élisabeth,Saint-Paul   Laetitia,1,1
+Toutut-Picard   Élisabeth,Girardin   Éric,1,1
+Toutut-Picard   Élisabeth,Bannier   Géraldine,1,1
+Toutut-Picard   Élisabeth,Orphelin   Matthieu,1,1
+Toutut-Picard   Élisabeth,Fiat   Caroline,0,1
+Toutut-Picard   Élisabeth,Zannier   Hélène,1,1
+Toutut-Picard   Élisabeth,Studer   Bruno,1,1
+Toutut-Picard   Élisabeth,Testé   Stéphane,1,1
+Toutut-Picard   Élisabeth,Rilhac   Cécile,1,1
+Toutut-Picard   Élisabeth,Manin   Josette,0,1
+Toutut-Picard   Élisabeth,El Guerrab   M'jid,1,1
+Toutut-Picard   Élisabeth,Kéclard-Mondésir   Manuéla,0,1
+Toutut-Picard   Élisabeth,Bassire   Nathalie,0,1
+Toutut-Picard   Élisabeth,Guion-Firmin   Claire,0,1
+Toutut-Picard   Élisabeth,Cazebonne   Samantha,1,1
+Toutut-Picard   Élisabeth,Dumas   Frédérique,0,1
+Toutut-Picard   Élisabeth,Charrière   Sylvie,1,1
+Toutut-Picard   Élisabeth,Brugnera   Anne,1,1
+Toutut-Picard   Élisabeth,Batut   Xavier,1,1
+Toutut-Picard   Élisabeth,Verdier-Jouclas   Marie-Christine,1,1
+Toutut-Picard   Élisabeth,Peyron   Michèle,1,1
+Toutut-Picard   Élisabeth,Calvez   Céline,1,1
+Toutut-Picard   Élisabeth,Piron   Béatrice,1,1
+Toutut-Picard   Élisabeth,Faucillon   Elsa,0,1
+Toutut-Picard   Élisabeth,Pouzyreff   Natalia,1,1
+Toutut-Picard   Élisabeth,de Vaucouleurs   Michèle,1,1
+Toutut-Picard   Élisabeth,Marilossian   Jacques,1,1
+Toutut-Picard   Élisabeth,Wulfranc   Hubert,0,1
+Toutut-Picard   Élisabeth,Provendier   Florence,1,1
+Toutut-Picard   Élisabeth,Fugit   Jean-Luc,1,1
+Tanguy   Liliana,Ménard   Emmanuelle,0,1
+Tanguy   Liliana,Mette   Sophie,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Brulebois   Danielle,1,1
+Tanguy   Liliana,Vallaud   Boris,0,1
+Tanguy   Liliana,Mis   Jean-Michel,1,1
+Tanguy   Liliana,Borowczyk   Julien,1,1
+Tanguy   Liliana,Freschi   Alexandre,1,1
+Tanguy   Liliana,Pradié   Aurélien,0,1
+Tanguy   Liliana,Amadou   Aude,1,1
+Tanguy   Liliana,Saint-Paul   Laetitia,1,1
+Tanguy   Liliana,Girardin   Éric,1,1
+Tanguy   Liliana,Bannier   Géraldine,1,1
+Tanguy   Liliana,Orphelin   Matthieu,1,1
+Tanguy   Liliana,Fiat   Caroline,0,1
+Tanguy   Liliana,Zannier   Hélène,1,1
+Tanguy   Liliana,Studer   Bruno,1,1
+Tanguy   Liliana,Testé   Stéphane,1,1
+Tanguy   Liliana,Rilhac   Cécile,1,1
+Tanguy   Liliana,Manin   Josette,0,1
+Tanguy   Liliana,El Guerrab   M'jid,1,1
+Tanguy   Liliana,Kéclard-Mondésir   Manuéla,0,1
+Tanguy   Liliana,Bassire   Nathalie,0,1
+Tanguy   Liliana,Guion-Firmin   Claire,0,1
+Tanguy   Liliana,Cazebonne   Samantha,1,1
+Tanguy   Liliana,Dumas   Frédérique,0,1
+Tanguy   Liliana,Charrière   Sylvie,1,1
+Tanguy   Liliana,Brugnera   Anne,1,1
+Tanguy   Liliana,Batut   Xavier,1,1
+Tanguy   Liliana,Verdier-Jouclas   Marie-Christine,1,1
+Tanguy   Liliana,Peyron   Michèle,1,1
+Tanguy   Liliana,Calvez   Céline,1,1
+Tanguy   Liliana,Piron   Béatrice,1,1
+Tanguy   Liliana,Faucillon   Elsa,0,1
+Tanguy   Liliana,Pouzyreff   Natalia,1,1
+Tanguy   Liliana,de Vaucouleurs   Michèle,1,1
+Tanguy   Liliana,Marilossian   Jacques,1,1
+Tanguy   Liliana,Wulfranc   Hubert,0,1
+Tanguy   Liliana,Provendier   Florence,1,1
+Tanguy   Liliana,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Mette   Sophie,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Brulebois   Danielle,0,1
+Ménard   Emmanuelle,Vallaud   Boris,1,1
+Ménard   Emmanuelle,Mis   Jean-Michel,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Freschi   Alexandre,0,1
+Ménard   Emmanuelle,Pradié   Aurélien,1,1
+Ménard   Emmanuelle,Amadou   Aude,0,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Bannier   Géraldine,0,1
+Ménard   Emmanuelle,Orphelin   Matthieu,0,1
+Ménard   Emmanuelle,Fiat   Caroline,1,1
+Ménard   Emmanuelle,Zannier   Hélène,0,1
+Ménard   Emmanuelle,Studer   Bruno,0,1
+Ménard   Emmanuelle,Testé   Stéphane,0,1
+Ménard   Emmanuelle,Rilhac   Cécile,0,1
+Ménard   Emmanuelle,Manin   Josette,1,1
+Ménard   Emmanuelle,El Guerrab   M'jid,0,1
+Ménard   Emmanuelle,Kéclard-Mondésir   Manuéla,1,1
+Ménard   Emmanuelle,Bassire   Nathalie,1,1
+Ménard   Emmanuelle,Guion-Firmin   Claire,1,1
+Ménard   Emmanuelle,Cazebonne   Samantha,0,1
+Ménard   Emmanuelle,Dumas   Frédérique,1,1
+Ménard   Emmanuelle,Charrière   Sylvie,0,1
+Ménard   Emmanuelle,Brugnera   Anne,0,1
+Ménard   Emmanuelle,Batut   Xavier,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Peyron   Michèle,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Piron   Béatrice,0,1
+Ménard   Emmanuelle,Faucillon   Elsa,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Marilossian   Jacques,0,1
+Ménard   Emmanuelle,Wulfranc   Hubert,1,1
+Ménard   Emmanuelle,Provendier   Florence,0,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,0,1
+Mette   Sophie,Labaronne   Daniel,1,1
+Mette   Sophie,Brulebois   Danielle,1,1
+Mette   Sophie,Vallaud   Boris,0,1
+Mette   Sophie,Mis   Jean-Michel,1,1
+Mette   Sophie,Borowczyk   Julien,1,1
+Mette   Sophie,Freschi   Alexandre,1,1
+Mette   Sophie,Pradié   Aurélien,0,1
+Mette   Sophie,Amadou   Aude,1,1
+Mette   Sophie,Saint-Paul   Laetitia,1,1
+Mette   Sophie,Girardin   Éric,1,1
+Mette   Sophie,Bannier   Géraldine,1,1
+Mette   Sophie,Orphelin   Matthieu,1,1
+Mette   Sophie,Fiat   Caroline,0,1
+Mette   Sophie,Zannier   Hélène,1,1
+Mette   Sophie,Studer   Bruno,1,1
+Mette   Sophie,Testé   Stéphane,1,1
+Mette   Sophie,Rilhac   Cécile,1,1
+Mette   Sophie,Manin   Josette,0,1
+Mette   Sophie,El Guerrab   M'jid,1,1
+Mette   Sophie,Kéclard-Mondésir   Manuéla,0,1
+Mette   Sophie,Bassire   Nathalie,0,1
+Mette   Sophie,Guion-Firmin   Claire,0,1
+Mette   Sophie,Cazebonne   Samantha,1,1
+Mette   Sophie,Dumas   Frédérique,0,1
+Mette   Sophie,Charrière   Sylvie,1,1
+Mette   Sophie,Brugnera   Anne,1,1
+Mette   Sophie,Batut   Xavier,1,1
+Mette   Sophie,Verdier-Jouclas   Marie-Christine,1,1
+Mette   Sophie,Peyron   Michèle,1,1
+Mette   Sophie,Calvez   Céline,1,1
+Mette   Sophie,Piron   Béatrice,1,1
+Mette   Sophie,Faucillon   Elsa,0,1
+Mette   Sophie,Pouzyreff   Natalia,1,1
+Mette   Sophie,de Vaucouleurs   Michèle,1,1
+Mette   Sophie,Marilossian   Jacques,1,1
+Mette   Sophie,Wulfranc   Hubert,0,1
+Mette   Sophie,Provendier   Florence,1,1
+Mette   Sophie,Fugit   Jean-Luc,1,1
+Labaronne   Daniel,Brulebois   Danielle,1,1
+Labaronne   Daniel,Vallaud   Boris,0,1
+Labaronne   Daniel,Mis   Jean-Michel,1,1
+Labaronne   Daniel,Borowczyk   Julien,1,1
+Labaronne   Daniel,Freschi   Alexandre,1,1
+Labaronne   Daniel,Pradié   Aurélien,0,1
+Labaronne   Daniel,Amadou   Aude,1,1
+Labaronne   Daniel,Saint-Paul   Laetitia,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Bannier   Géraldine,1,1
+Labaronne   Daniel,Orphelin   Matthieu,1,1
+Labaronne   Daniel,Fiat   Caroline,0,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Studer   Bruno,1,1
+Labaronne   Daniel,Testé   Stéphane,1,1
+Labaronne   Daniel,Rilhac   Cécile,1,1
+Labaronne   Daniel,Manin   Josette,0,1
+Labaronne   Daniel,El Guerrab   M'jid,1,1
+Labaronne   Daniel,Kéclard-Mondésir   Manuéla,0,1
+Labaronne   Daniel,Bassire   Nathalie,0,1
+Labaronne   Daniel,Guion-Firmin   Claire,0,1
+Labaronne   Daniel,Cazebonne   Samantha,1,1
+Labaronne   Daniel,Dumas   Frédérique,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Brugnera   Anne,1,1
+Labaronne   Daniel,Batut   Xavier,1,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Peyron   Michèle,1,1
+Labaronne   Daniel,Calvez   Céline,1,1
+Labaronne   Daniel,Piron   Béatrice,1,1
+Labaronne   Daniel,Faucillon   Elsa,0,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,de Vaucouleurs   Michèle,1,1
+Labaronne   Daniel,Marilossian   Jacques,1,1
+Labaronne   Daniel,Wulfranc   Hubert,0,1
+Labaronne   Daniel,Provendier   Florence,1,1
+Labaronne   Daniel,Fugit   Jean-Luc,1,1
+Brulebois   Danielle,Vallaud   Boris,0,1
+Brulebois   Danielle,Mis   Jean-Michel,1,1
+Brulebois   Danielle,Borowczyk   Julien,1,1
+Brulebois   Danielle,Freschi   Alexandre,1,1
+Brulebois   Danielle,Pradié   Aurélien,0,1
+Brulebois   Danielle,Amadou   Aude,1,1
+Brulebois   Danielle,Saint-Paul   Laetitia,1,1
+Brulebois   Danielle,Girardin   Éric,1,1
+Brulebois   Danielle,Bannier   Géraldine,1,1
+Brulebois   Danielle,Orphelin   Matthieu,1,1
+Brulebois   Danielle,Fiat   Caroline,0,1
+Brulebois   Danielle,Zannier   Hélène,1,1
+Brulebois   Danielle,Studer   Bruno,1,1
+Brulebois   Danielle,Testé   Stéphane,1,1
+Brulebois   Danielle,Rilhac   Cécile,1,1
+Brulebois   Danielle,Manin   Josette,0,1
+Brulebois   Danielle,El Guerrab   M'jid,1,1
+Brulebois   Danielle,Kéclard-Mondésir   Manuéla,0,1
+Brulebois   Danielle,Bassire   Nathalie,0,1
+Brulebois   Danielle,Guion-Firmin   Claire,0,1
+Brulebois   Danielle,Cazebonne   Samantha,1,1
+Brulebois   Danielle,Dumas   Frédérique,0,1
+Brulebois   Danielle,Charrière   Sylvie,1,1
+Brulebois   Danielle,Brugnera   Anne,1,1
+Brulebois   Danielle,Batut   Xavier,1,1
+Brulebois   Danielle,Verdier-Jouclas   Marie-Christine,1,1
+Brulebois   Danielle,Peyron   Michèle,1,1
+Brulebois   Danielle,Calvez   Céline,1,1
+Brulebois   Danielle,Piron   Béatrice,1,1
+Brulebois   Danielle,Faucillon   Elsa,0,1
+Brulebois   Danielle,Pouzyreff   Natalia,1,1
+Brulebois   Danielle,de Vaucouleurs   Michèle,1,1
+Brulebois   Danielle,Marilossian   Jacques,1,1
+Brulebois   Danielle,Wulfranc   Hubert,0,1
+Brulebois   Danielle,Provendier   Florence,1,1
+Brulebois   Danielle,Fugit   Jean-Luc,1,1
+Vallaud   Boris,Mis   Jean-Michel,0,1
+Vallaud   Boris,Borowczyk   Julien,0,1
+Vallaud   Boris,Freschi   Alexandre,0,1
+Vallaud   Boris,Pradié   Aurélien,1,1
+Vallaud   Boris,Amadou   Aude,0,1
+Vallaud   Boris,Saint-Paul   Laetitia,0,1
+Vallaud   Boris,Girardin   Éric,0,1
+Vallaud   Boris,Bannier   Géraldine,0,1
+Vallaud   Boris,Orphelin   Matthieu,0,1
+Vallaud   Boris,Fiat   Caroline,1,1
+Vallaud   Boris,Zannier   Hélène,0,1
+Vallaud   Boris,Studer   Bruno,0,1
+Vallaud   Boris,Testé   Stéphane,0,1
+Vallaud   Boris,Rilhac   Cécile,0,1
+Vallaud   Boris,Manin   Josette,1,1
+Vallaud   Boris,El Guerrab   M'jid,0,1
+Vallaud   Boris,Kéclard-Mondésir   Manuéla,1,1
+Vallaud   Boris,Bassire   Nathalie,1,1
+Vallaud   Boris,Guion-Firmin   Claire,1,1
+Vallaud   Boris,Cazebonne   Samantha,0,1
+Vallaud   Boris,Dumas   Frédérique,1,1
+Vallaud   Boris,Charrière   Sylvie,0,1
+Vallaud   Boris,Brugnera   Anne,0,1
+Vallaud   Boris,Batut   Xavier,0,1
+Vallaud   Boris,Verdier-Jouclas   Marie-Christine,0,1
+Vallaud   Boris,Peyron   Michèle,0,1
+Vallaud   Boris,Calvez   Céline,0,1
+Vallaud   Boris,Piron   Béatrice,0,1
+Vallaud   Boris,Faucillon   Elsa,1,1
+Vallaud   Boris,Pouzyreff   Natalia,0,1
+Vallaud   Boris,de Vaucouleurs   Michèle,0,1
+Vallaud   Boris,Marilossian   Jacques,0,1
+Vallaud   Boris,Wulfranc   Hubert,1,1
+Vallaud   Boris,Provendier   Florence,0,1
+Vallaud   Boris,Fugit   Jean-Luc,0,1
+Mis   Jean-Michel,Borowczyk   Julien,1,1
+Mis   Jean-Michel,Freschi   Alexandre,1,1
+Mis   Jean-Michel,Pradié   Aurélien,0,1
+Mis   Jean-Michel,Amadou   Aude,1,1
+Mis   Jean-Michel,Saint-Paul   Laetitia,1,1
+Mis   Jean-Michel,Girardin   Éric,1,1
+Mis   Jean-Michel,Bannier   Géraldine,1,1
+Mis   Jean-Michel,Orphelin   Matthieu,1,1
+Mis   Jean-Michel,Fiat   Caroline,0,1
+Mis   Jean-Michel,Zannier   Hélène,1,1
+Mis   Jean-Michel,Studer   Bruno,1,1
+Mis   Jean-Michel,Testé   Stéphane,1,1
+Mis   Jean-Michel,Rilhac   Cécile,1,1
+Mis   Jean-Michel,Manin   Josette,0,1
+Mis   Jean-Michel,El Guerrab   M'jid,1,1
+Mis   Jean-Michel,Kéclard-Mondésir   Manuéla,0,1
+Mis   Jean-Michel,Bassire   Nathalie,0,1
+Mis   Jean-Michel,Guion-Firmin   Claire,0,1
+Mis   Jean-Michel,Cazebonne   Samantha,1,1
+Mis   Jean-Michel,Dumas   Frédérique,0,1
+Mis   Jean-Michel,Charrière   Sylvie,1,1
+Mis   Jean-Michel,Brugnera   Anne,1,1
+Mis   Jean-Michel,Batut   Xavier,1,1
+Mis   Jean-Michel,Verdier-Jouclas   Marie-Christine,1,1
+Mis   Jean-Michel,Peyron   Michèle,1,1
+Mis   Jean-Michel,Calvez   Céline,1,1
+Mis   Jean-Michel,Piron   Béatrice,1,1
+Mis   Jean-Michel,Faucillon   Elsa,0,1
+Mis   Jean-Michel,Pouzyreff   Natalia,1,1
+Mis   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Mis   Jean-Michel,Marilossian   Jacques,1,1
+Mis   Jean-Michel,Wulfranc   Hubert,0,1
+Mis   Jean-Michel,Provendier   Florence,1,1
+Mis   Jean-Michel,Fugit   Jean-Luc,1,1
+Borowczyk   Julien,Freschi   Alexandre,1,1
+Borowczyk   Julien,Pradié   Aurélien,0,1
+Borowczyk   Julien,Amadou   Aude,1,1
+Borowczyk   Julien,Saint-Paul   Laetitia,1,1
+Borowczyk   Julien,Girardin   Éric,1,1
+Borowczyk   Julien,Bannier   Géraldine,1,1
+Borowczyk   Julien,Orphelin   Matthieu,1,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Zannier   Hélène,1,1
+Borowczyk   Julien,Studer   Bruno,1,1
+Borowczyk   Julien,Testé   Stéphane,1,1
+Borowczyk   Julien,Rilhac   Cécile,1,1
+Borowczyk   Julien,Manin   Josette,0,1
+Borowczyk   Julien,El Guerrab   M'jid,1,1
+Borowczyk   Julien,Kéclard-Mondésir   Manuéla,0,1
+Borowczyk   Julien,Bassire   Nathalie,0,1
+Borowczyk   Julien,Guion-Firmin   Claire,0,1
+Borowczyk   Julien,Cazebonne   Samantha,1,1
+Borowczyk   Julien,Dumas   Frédérique,0,1
+Borowczyk   Julien,Charrière   Sylvie,1,1
+Borowczyk   Julien,Brugnera   Anne,1,1
+Borowczyk   Julien,Batut   Xavier,1,1
+Borowczyk   Julien,Verdier-Jouclas   Marie-Christine,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Calvez   Céline,1,1
+Borowczyk   Julien,Piron   Béatrice,1,1
+Borowczyk   Julien,Faucillon   Elsa,0,1
+Borowczyk   Julien,Pouzyreff   Natalia,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Marilossian   Jacques,1,1
+Borowczyk   Julien,Wulfranc   Hubert,0,1
+Borowczyk   Julien,Provendier   Florence,1,1
+Borowczyk   Julien,Fugit   Jean-Luc,1,1
+Freschi   Alexandre,Pradié   Aurélien,0,1
+Freschi   Alexandre,Amadou   Aude,1,1
+Freschi   Alexandre,Saint-Paul   Laetitia,1,1
+Freschi   Alexandre,Girardin   Éric,1,1
+Freschi   Alexandre,Bannier   Géraldine,1,1
+Freschi   Alexandre,Orphelin   Matthieu,1,1
+Freschi   Alexandre,Fiat   Caroline,0,1
+Freschi   Alexandre,Zannier   Hélène,1,1
+Freschi   Alexandre,Studer   Bruno,1,1
+Freschi   Alexandre,Testé   Stéphane,1,1
+Freschi   Alexandre,Rilhac   Cécile,1,1
+Freschi   Alexandre,Manin   Josette,0,1
+Freschi   Alexandre,El Guerrab   M'jid,1,1
+Freschi   Alexandre,Kéclard-Mondésir   Manuéla,0,1
+Freschi   Alexandre,Bassire   Nathalie,0,1
+Freschi   Alexandre,Guion-Firmin   Claire,0,1
+Freschi   Alexandre,Cazebonne   Samantha,1,1
+Freschi   Alexandre,Dumas   Frédérique,0,1
+Freschi   Alexandre,Charrière   Sylvie,1,1
+Freschi   Alexandre,Brugnera   Anne,1,1
+Freschi   Alexandre,Batut   Xavier,1,1
+Freschi   Alexandre,Verdier-Jouclas   Marie-Christine,1,1
+Freschi   Alexandre,Peyron   Michèle,1,1
+Freschi   Alexandre,Calvez   Céline,1,1
+Freschi   Alexandre,Piron   Béatrice,1,1
+Freschi   Alexandre,Faucillon   Elsa,0,1
+Freschi   Alexandre,Pouzyreff   Natalia,1,1
+Freschi   Alexandre,de Vaucouleurs   Michèle,1,1
+Freschi   Alexandre,Marilossian   Jacques,1,1
+Freschi   Alexandre,Wulfranc   Hubert,0,1
+Freschi   Alexandre,Provendier   Florence,1,1
+Freschi   Alexandre,Fugit   Jean-Luc,1,1
+Pradié   Aurélien,Amadou   Aude,0,1
+Pradié   Aurélien,Saint-Paul   Laetitia,0,1
+Pradié   Aurélien,Girardin   Éric,0,1
+Pradié   Aurélien,Bannier   Géraldine,0,1
+Pradié   Aurélien,Orphelin   Matthieu,0,1
+Pradié   Aurélien,Fiat   Caroline,1,1
+Pradié   Aurélien,Zannier   Hélène,0,1
+Pradié   Aurélien,Studer   Bruno,0,1
+Pradié   Aurélien,Testé   Stéphane,0,1
+Pradié   Aurélien,Rilhac   Cécile,0,1
+Pradié   Aurélien,Manin   Josette,1,1
+Pradié   Aurélien,El Guerrab   M'jid,0,1
+Pradié   Aurélien,Kéclard-Mondésir   Manuéla,1,1
+Pradié   Aurélien,Bassire   Nathalie,1,1
+Pradié   Aurélien,Guion-Firmin   Claire,1,1
+Pradié   Aurélien,Cazebonne   Samantha,0,1
+Pradié   Aurélien,Dumas   Frédérique,1,1
+Pradié   Aurélien,Charrière   Sylvie,0,1
+Pradié   Aurélien,Brugnera   Anne,0,1
+Pradié   Aurélien,Batut   Xavier,0,1
+Pradié   Aurélien,Verdier-Jouclas   Marie-Christine,0,1
+Pradié   Aurélien,Peyron   Michèle,0,1
+Pradié   Aurélien,Calvez   Céline,0,1
+Pradié   Aurélien,Piron   Béatrice,0,1
+Pradié   Aurélien,Faucillon   Elsa,1,1
+Pradié   Aurélien,Pouzyreff   Natalia,0,1
+Pradié   Aurélien,de Vaucouleurs   Michèle,0,1
+Pradié   Aurélien,Marilossian   Jacques,0,1
+Pradié   Aurélien,Wulfranc   Hubert,1,1
+Pradié   Aurélien,Provendier   Florence,0,1
+Pradié   Aurélien,Fugit   Jean-Luc,0,1
+Amadou   Aude,Saint-Paul   Laetitia,1,1
+Amadou   Aude,Girardin   Éric,1,1
+Amadou   Aude,Bannier   Géraldine,1,1
+Amadou   Aude,Orphelin   Matthieu,1,1
+Amadou   Aude,Fiat   Caroline,0,1
+Amadou   Aude,Zannier   Hélène,1,1
+Amadou   Aude,Studer   Bruno,1,1
+Amadou   Aude,Testé   Stéphane,1,1
+Amadou   Aude,Rilhac   Cécile,1,1
+Amadou   Aude,Manin   Josette,0,1
+Amadou   Aude,El Guerrab   M'jid,1,1
+Amadou   Aude,Kéclard-Mondésir   Manuéla,0,1
+Amadou   Aude,Bassire   Nathalie,0,1
+Amadou   Aude,Guion-Firmin   Claire,0,1
+Amadou   Aude,Cazebonne   Samantha,1,1
+Amadou   Aude,Dumas   Frédérique,0,1
+Amadou   Aude,Charrière   Sylvie,1,1
+Amadou   Aude,Brugnera   Anne,1,1
+Amadou   Aude,Batut   Xavier,1,1
+Amadou   Aude,Verdier-Jouclas   Marie-Christine,1,1
+Amadou   Aude,Peyron   Michèle,1,1
+Amadou   Aude,Calvez   Céline,1,1
+Amadou   Aude,Piron   Béatrice,1,1
+Amadou   Aude,Faucillon   Elsa,0,1
+Amadou   Aude,Pouzyreff   Natalia,1,1
+Amadou   Aude,de Vaucouleurs   Michèle,1,1
+Amadou   Aude,Marilossian   Jacques,1,1
+Amadou   Aude,Wulfranc   Hubert,0,1
+Amadou   Aude,Provendier   Florence,1,1
+Amadou   Aude,Fugit   Jean-Luc,1,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Bannier   Géraldine,1,1
+Saint-Paul   Laetitia,Orphelin   Matthieu,1,1
+Saint-Paul   Laetitia,Fiat   Caroline,0,1
+Saint-Paul   Laetitia,Zannier   Hélène,1,1
+Saint-Paul   Laetitia,Studer   Bruno,1,1
+Saint-Paul   Laetitia,Testé   Stéphane,1,1
+Saint-Paul   Laetitia,Rilhac   Cécile,1,1
+Saint-Paul   Laetitia,Manin   Josette,0,1
+Saint-Paul   Laetitia,El Guerrab   M'jid,1,1
+Saint-Paul   Laetitia,Kéclard-Mondésir   Manuéla,0,1
+Saint-Paul   Laetitia,Bassire   Nathalie,0,1
+Saint-Paul   Laetitia,Guion-Firmin   Claire,0,1
+Saint-Paul   Laetitia,Cazebonne   Samantha,1,1
+Saint-Paul   Laetitia,Dumas   Frédérique,0,1
+Saint-Paul   Laetitia,Charrière   Sylvie,1,1
+Saint-Paul   Laetitia,Brugnera   Anne,1,1
+Saint-Paul   Laetitia,Batut   Xavier,1,1
+Saint-Paul   Laetitia,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Paul   Laetitia,Peyron   Michèle,1,1
+Saint-Paul   Laetitia,Calvez   Céline,1,1
+Saint-Paul   Laetitia,Piron   Béatrice,1,1
+Saint-Paul   Laetitia,Faucillon   Elsa,0,1
+Saint-Paul   Laetitia,Pouzyreff   Natalia,1,1
+Saint-Paul   Laetitia,de Vaucouleurs   Michèle,1,1
+Saint-Paul   Laetitia,Marilossian   Jacques,1,1
+Saint-Paul   Laetitia,Wulfranc   Hubert,0,1
+Saint-Paul   Laetitia,Provendier   Florence,1,1
+Saint-Paul   Laetitia,Fugit   Jean-Luc,1,1
+Girardin   Éric,Bannier   Géraldine,1,1
+Girardin   Éric,Orphelin   Matthieu,1,1
+Girardin   Éric,Fiat   Caroline,0,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Studer   Bruno,1,1
+Girardin   Éric,Testé   Stéphane,1,1
+Girardin   Éric,Rilhac   Cécile,1,1
+Girardin   Éric,Manin   Josette,0,1
+Girardin   Éric,El Guerrab   M'jid,1,1
+Girardin   Éric,Kéclard-Mondésir   Manuéla,0,1
+Girardin   Éric,Bassire   Nathalie,0,1
+Girardin   Éric,Guion-Firmin   Claire,0,1
+Girardin   Éric,Cazebonne   Samantha,1,1
+Girardin   Éric,Dumas   Frédérique,0,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Brugnera   Anne,1,1
+Girardin   Éric,Batut   Xavier,1,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Peyron   Michèle,1,1
+Girardin   Éric,Calvez   Céline,1,1
+Girardin   Éric,Piron   Béatrice,1,1
+Girardin   Éric,Faucillon   Elsa,0,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,de Vaucouleurs   Michèle,1,1
+Girardin   Éric,Marilossian   Jacques,1,1
+Girardin   Éric,Wulfranc   Hubert,0,1
+Girardin   Éric,Provendier   Florence,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Bannier   Géraldine,Orphelin   Matthieu,1,1
+Bannier   Géraldine,Fiat   Caroline,0,1
+Bannier   Géraldine,Zannier   Hélène,1,1
+Bannier   Géraldine,Studer   Bruno,1,1
+Bannier   Géraldine,Testé   Stéphane,1,1
+Bannier   Géraldine,Rilhac   Cécile,1,1
+Bannier   Géraldine,Manin   Josette,0,1
+Bannier   Géraldine,El Guerrab   M'jid,1,1
+Bannier   Géraldine,Kéclard-Mondésir   Manuéla,0,1
+Bannier   Géraldine,Bassire   Nathalie,0,1
+Bannier   Géraldine,Guion-Firmin   Claire,0,1
+Bannier   Géraldine,Cazebonne   Samantha,1,1
+Bannier   Géraldine,Dumas   Frédérique,0,1
+Bannier   Géraldine,Charrière   Sylvie,1,1
+Bannier   Géraldine,Brugnera   Anne,1,1
+Bannier   Géraldine,Batut   Xavier,1,1
+Bannier   Géraldine,Verdier-Jouclas   Marie-Christine,1,1
+Bannier   Géraldine,Peyron   Michèle,1,1
+Bannier   Géraldine,Calvez   Céline,1,1
+Bannier   Géraldine,Piron   Béatrice,1,1
+Bannier   Géraldine,Faucillon   Elsa,0,1
+Bannier   Géraldine,Pouzyreff   Natalia,1,1
+Bannier   Géraldine,de Vaucouleurs   Michèle,1,1
+Bannier   Géraldine,Marilossian   Jacques,1,1
+Bannier   Géraldine,Wulfranc   Hubert,0,1
+Bannier   Géraldine,Provendier   Florence,1,1
+Bannier   Géraldine,Fugit   Jean-Luc,1,1
+Orphelin   Matthieu,Fiat   Caroline,0,1
+Orphelin   Matthieu,Zannier   Hélène,1,1
+Orphelin   Matthieu,Studer   Bruno,1,1
+Orphelin   Matthieu,Testé   Stéphane,1,1
+Orphelin   Matthieu,Rilhac   Cécile,1,1
+Orphelin   Matthieu,Manin   Josette,0,1
+Orphelin   Matthieu,El Guerrab   M'jid,1,1
+Orphelin   Matthieu,Kéclard-Mondésir   Manuéla,0,1
+Orphelin   Matthieu,Bassire   Nathalie,0,1
+Orphelin   Matthieu,Guion-Firmin   Claire,0,1
+Orphelin   Matthieu,Cazebonne   Samantha,1,1
+Orphelin   Matthieu,Dumas   Frédérique,0,1
+Orphelin   Matthieu,Charrière   Sylvie,1,1
+Orphelin   Matthieu,Brugnera   Anne,1,1
+Orphelin   Matthieu,Batut   Xavier,1,1
+Orphelin   Matthieu,Verdier-Jouclas   Marie-Christine,1,1
+Orphelin   Matthieu,Peyron   Michèle,1,1
+Orphelin   Matthieu,Calvez   Céline,1,1
+Orphelin   Matthieu,Piron   Béatrice,1,1
+Orphelin   Matthieu,Faucillon   Elsa,0,1
+Orphelin   Matthieu,Pouzyreff   Natalia,1,1
+Orphelin   Matthieu,de Vaucouleurs   Michèle,1,1
+Orphelin   Matthieu,Marilossian   Jacques,1,1
+Orphelin   Matthieu,Wulfranc   Hubert,0,1
+Orphelin   Matthieu,Provendier   Florence,1,1
+Orphelin   Matthieu,Fugit   Jean-Luc,1,1
+Fiat   Caroline,Zannier   Hélène,0,1
+Fiat   Caroline,Studer   Bruno,0,1
+Fiat   Caroline,Testé   Stéphane,0,1
+Fiat   Caroline,Rilhac   Cécile,0,1
+Fiat   Caroline,Manin   Josette,1,1
+Fiat   Caroline,El Guerrab   M'jid,0,1
+Fiat   Caroline,Kéclard-Mondésir   Manuéla,1,1
+Fiat   Caroline,Bassire   Nathalie,1,1
+Fiat   Caroline,Guion-Firmin   Claire,1,1
+Fiat   Caroline,Cazebonne   Samantha,0,1
+Fiat   Caroline,Dumas   Frédérique,1,1
+Fiat   Caroline,Charrière   Sylvie,0,1
+Fiat   Caroline,Brugnera   Anne,0,1
+Fiat   Caroline,Batut   Xavier,0,1
+Fiat   Caroline,Verdier-Jouclas   Marie-Christine,0,1
+Fiat   Caroline,Peyron   Michèle,0,1
+Fiat   Caroline,Calvez   Céline,0,1
+Fiat   Caroline,Piron   Béatrice,0,1
+Fiat   Caroline,Faucillon   Elsa,1,1
+Fiat   Caroline,Pouzyreff   Natalia,0,1
+Fiat   Caroline,de Vaucouleurs   Michèle,0,1
+Fiat   Caroline,Marilossian   Jacques,0,1
+Fiat   Caroline,Wulfranc   Hubert,1,1
+Fiat   Caroline,Provendier   Florence,0,1
+Fiat   Caroline,Fugit   Jean-Luc,0,1
+Zannier   Hélène,Studer   Bruno,1,1
+Zannier   Hélène,Testé   Stéphane,1,1
+Zannier   Hélène,Rilhac   Cécile,1,1
+Zannier   Hélène,Manin   Josette,0,1
+Zannier   Hélène,El Guerrab   M'jid,1,1
+Zannier   Hélène,Kéclard-Mondésir   Manuéla,0,1
+Zannier   Hélène,Bassire   Nathalie,0,1
+Zannier   Hélène,Guion-Firmin   Claire,0,1
+Zannier   Hélène,Cazebonne   Samantha,1,1
+Zannier   Hélène,Dumas   Frédérique,0,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Brugnera   Anne,1,1
+Zannier   Hélène,Batut   Xavier,1,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Peyron   Michèle,1,1
+Zannier   Hélène,Calvez   Céline,1,1
+Zannier   Hélène,Piron   Béatrice,1,1
+Zannier   Hélène,Faucillon   Elsa,0,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,de Vaucouleurs   Michèle,1,1
+Zannier   Hélène,Marilossian   Jacques,1,1
+Zannier   Hélène,Wulfranc   Hubert,0,1
+Zannier   Hélène,Provendier   Florence,1,1
+Zannier   Hélène,Fugit   Jean-Luc,1,1
+Studer   Bruno,Testé   Stéphane,1,1
+Studer   Bruno,Rilhac   Cécile,1,1
+Studer   Bruno,Manin   Josette,0,1
+Studer   Bruno,El Guerrab   M'jid,1,1
+Studer   Bruno,Kéclard-Mondésir   Manuéla,0,1
+Studer   Bruno,Bassire   Nathalie,0,1
+Studer   Bruno,Guion-Firmin   Claire,0,1
+Studer   Bruno,Cazebonne   Samantha,1,1
+Studer   Bruno,Dumas   Frédérique,0,1
+Studer   Bruno,Charrière   Sylvie,1,1
+Studer   Bruno,Brugnera   Anne,1,1
+Studer   Bruno,Batut   Xavier,1,1
+Studer   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Studer   Bruno,Peyron   Michèle,1,1
+Studer   Bruno,Calvez   Céline,1,1
+Studer   Bruno,Piron   Béatrice,1,1
+Studer   Bruno,Faucillon   Elsa,0,1
+Studer   Bruno,Pouzyreff   Natalia,1,1
+Studer   Bruno,de Vaucouleurs   Michèle,1,1
+Studer   Bruno,Marilossian   Jacques,1,1
+Studer   Bruno,Wulfranc   Hubert,0,1
+Studer   Bruno,Provendier   Florence,1,1
+Studer   Bruno,Fugit   Jean-Luc,1,1
+Testé   Stéphane,Rilhac   Cécile,1,1
+Testé   Stéphane,Manin   Josette,0,1
+Testé   Stéphane,El Guerrab   M'jid,1,1
+Testé   Stéphane,Kéclard-Mondésir   Manuéla,0,1
+Testé   Stéphane,Bassire   Nathalie,0,1
+Testé   Stéphane,Guion-Firmin   Claire,0,1
+Testé   Stéphane,Cazebonne   Samantha,1,1
+Testé   Stéphane,Dumas   Frédérique,0,1
+Testé   Stéphane,Charrière   Sylvie,1,1
+Testé   Stéphane,Brugnera   Anne,1,1
+Testé   Stéphane,Batut   Xavier,1,1
+Testé   Stéphane,Verdier-Jouclas   Marie-Christine,1,1
+Testé   Stéphane,Peyron   Michèle,1,1
+Testé   Stéphane,Calvez   Céline,1,1
+Testé   Stéphane,Piron   Béatrice,1,1
+Testé   Stéphane,Faucillon   Elsa,0,1
+Testé   Stéphane,Pouzyreff   Natalia,1,1
+Testé   Stéphane,de Vaucouleurs   Michèle,1,1
+Testé   Stéphane,Marilossian   Jacques,1,1
+Testé   Stéphane,Wulfranc   Hubert,0,1
+Testé   Stéphane,Provendier   Florence,1,1
+Testé   Stéphane,Fugit   Jean-Luc,1,1
+Rilhac   Cécile,Manin   Josette,0,1
+Rilhac   Cécile,El Guerrab   M'jid,1,1
+Rilhac   Cécile,Kéclard-Mondésir   Manuéla,0,1
+Rilhac   Cécile,Bassire   Nathalie,0,1
+Rilhac   Cécile,Guion-Firmin   Claire,0,1
+Rilhac   Cécile,Cazebonne   Samantha,1,1
+Rilhac   Cécile,Dumas   Frédérique,0,1
+Rilhac   Cécile,Charrière   Sylvie,1,1
+Rilhac   Cécile,Brugnera   Anne,1,1
+Rilhac   Cécile,Batut   Xavier,1,1
+Rilhac   Cécile,Verdier-Jouclas   Marie-Christine,1,1
+Rilhac   Cécile,Peyron   Michèle,1,1
+Rilhac   Cécile,Calvez   Céline,1,1
+Rilhac   Cécile,Piron   Béatrice,1,1
+Rilhac   Cécile,Faucillon   Elsa,0,1
+Rilhac   Cécile,Pouzyreff   Natalia,1,1
+Rilhac   Cécile,de Vaucouleurs   Michèle,1,1
+Rilhac   Cécile,Marilossian   Jacques,1,1
+Rilhac   Cécile,Wulfranc   Hubert,0,1
+Rilhac   Cécile,Provendier   Florence,1,1
+Rilhac   Cécile,Fugit   Jean-Luc,1,1
+Manin   Josette,El Guerrab   M'jid,0,1
+Manin   Josette,Kéclard-Mondésir   Manuéla,1,1
+Manin   Josette,Bassire   Nathalie,1,1
+Manin   Josette,Guion-Firmin   Claire,1,1
+Manin   Josette,Cazebonne   Samantha,0,1
+Manin   Josette,Dumas   Frédérique,1,1
+Manin   Josette,Charrière   Sylvie,0,1
+Manin   Josette,Brugnera   Anne,0,1
+Manin   Josette,Batut   Xavier,0,1
+Manin   Josette,Verdier-Jouclas   Marie-Christine,0,1
+Manin   Josette,Peyron   Michèle,0,1
+Manin   Josette,Calvez   Céline,0,1
+Manin   Josette,Piron   Béatrice,0,1
+Manin   Josette,Faucillon   Elsa,1,1
+Manin   Josette,Pouzyreff   Natalia,0,1
+Manin   Josette,de Vaucouleurs   Michèle,0,1
+Manin   Josette,Marilossian   Jacques,0,1
+Manin   Josette,Wulfranc   Hubert,1,1
+Manin   Josette,Provendier   Florence,0,1
+Manin   Josette,Fugit   Jean-Luc,0,1
+El Guerrab   M'jid,Kéclard-Mondésir   Manuéla,0,1
+El Guerrab   M'jid,Bassire   Nathalie,0,1
+El Guerrab   M'jid,Guion-Firmin   Claire,0,1
+El Guerrab   M'jid,Cazebonne   Samantha,1,1
+El Guerrab   M'jid,Dumas   Frédérique,0,1
+El Guerrab   M'jid,Charrière   Sylvie,1,1
+El Guerrab   M'jid,Brugnera   Anne,1,1
+El Guerrab   M'jid,Batut   Xavier,1,1
+El Guerrab   M'jid,Verdier-Jouclas   Marie-Christine,1,1
+El Guerrab   M'jid,Peyron   Michèle,1,1
+El Guerrab   M'jid,Calvez   Céline,1,1
+El Guerrab   M'jid,Piron   Béatrice,1,1
+El Guerrab   M'jid,Faucillon   Elsa,0,1
+El Guerrab   M'jid,Pouzyreff   Natalia,1,1
+El Guerrab   M'jid,de Vaucouleurs   Michèle,1,1
+El Guerrab   M'jid,Marilossian   Jacques,1,1
+El Guerrab   M'jid,Wulfranc   Hubert,0,1
+El Guerrab   M'jid,Provendier   Florence,1,1
+El Guerrab   M'jid,Fugit   Jean-Luc,1,1
+Kéclard-Mondésir   Manuéla,Bassire   Nathalie,1,1
+Kéclard-Mondésir   Manuéla,Guion-Firmin   Claire,1,1
+Kéclard-Mondésir   Manuéla,Cazebonne   Samantha,0,1
+Kéclard-Mondésir   Manuéla,Dumas   Frédérique,1,1
+Kéclard-Mondésir   Manuéla,Charrière   Sylvie,0,1
+Kéclard-Mondésir   Manuéla,Brugnera   Anne,0,1
+Kéclard-Mondésir   Manuéla,Batut   Xavier,0,1
+Kéclard-Mondésir   Manuéla,Verdier-Jouclas   Marie-Christine,0,1
+Kéclard-Mondésir   Manuéla,Peyron   Michèle,0,1
+Kéclard-Mondésir   Manuéla,Calvez   Céline,0,1
+Kéclard-Mondésir   Manuéla,Piron   Béatrice,0,1
+Kéclard-Mondésir   Manuéla,Faucillon   Elsa,1,1
+Kéclard-Mondésir   Manuéla,Pouzyreff   Natalia,0,1
+Kéclard-Mondésir   Manuéla,de Vaucouleurs   Michèle,0,1
+Kéclard-Mondésir   Manuéla,Marilossian   Jacques,0,1
+Kéclard-Mondésir   Manuéla,Wulfranc   Hubert,1,1
+Kéclard-Mondésir   Manuéla,Provendier   Florence,0,1
+Kéclard-Mondésir   Manuéla,Fugit   Jean-Luc,0,1
+Bassire   Nathalie,Guion-Firmin   Claire,1,1
+Bassire   Nathalie,Cazebonne   Samantha,0,1
+Bassire   Nathalie,Dumas   Frédérique,1,1
+Bassire   Nathalie,Charrière   Sylvie,0,1
+Bassire   Nathalie,Brugnera   Anne,0,1
+Bassire   Nathalie,Batut   Xavier,0,1
+Bassire   Nathalie,Verdier-Jouclas   Marie-Christine,0,1
+Bassire   Nathalie,Peyron   Michèle,0,1
+Bassire   Nathalie,Calvez   Céline,0,1
+Bassire   Nathalie,Piron   Béatrice,0,1
+Bassire   Nathalie,Faucillon   Elsa,1,1
+Bassire   Nathalie,Pouzyreff   Natalia,0,1
+Bassire   Nathalie,de Vaucouleurs   Michèle,0,1
+Bassire   Nathalie,Marilossian   Jacques,0,1
+Bassire   Nathalie,Wulfranc   Hubert,1,1
+Bassire   Nathalie,Provendier   Florence,0,1
+Bassire   Nathalie,Fugit   Jean-Luc,0,1
+Guion-Firmin   Claire,Cazebonne   Samantha,0,1
+Guion-Firmin   Claire,Dumas   Frédérique,1,1
+Guion-Firmin   Claire,Charrière   Sylvie,0,1
+Guion-Firmin   Claire,Brugnera   Anne,0,1
+Guion-Firmin   Claire,Batut   Xavier,0,1
+Guion-Firmin   Claire,Verdier-Jouclas   Marie-Christine,0,1
+Guion-Firmin   Claire,Peyron   Michèle,0,1
+Guion-Firmin   Claire,Calvez   Céline,0,1
+Guion-Firmin   Claire,Piron   Béatrice,0,1
+Guion-Firmin   Claire,Faucillon   Elsa,1,1
+Guion-Firmin   Claire,Pouzyreff   Natalia,0,1
+Guion-Firmin   Claire,de Vaucouleurs   Michèle,0,1
+Guion-Firmin   Claire,Marilossian   Jacques,0,1
+Guion-Firmin   Claire,Wulfranc   Hubert,1,1
+Guion-Firmin   Claire,Provendier   Florence,0,1
+Guion-Firmin   Claire,Fugit   Jean-Luc,0,1
+Cazebonne   Samantha,Dumas   Frédérique,0,1
+Cazebonne   Samantha,Charrière   Sylvie,1,1
+Cazebonne   Samantha,Brugnera   Anne,1,1
+Cazebonne   Samantha,Batut   Xavier,1,1
+Cazebonne   Samantha,Verdier-Jouclas   Marie-Christine,1,1
+Cazebonne   Samantha,Peyron   Michèle,1,1
+Cazebonne   Samantha,Calvez   Céline,1,1
+Cazebonne   Samantha,Piron   Béatrice,1,1
+Cazebonne   Samantha,Faucillon   Elsa,0,1
+Cazebonne   Samantha,Pouzyreff   Natalia,1,1
+Cazebonne   Samantha,de Vaucouleurs   Michèle,1,1
+Cazebonne   Samantha,Marilossian   Jacques,1,1
+Cazebonne   Samantha,Wulfranc   Hubert,0,1
+Cazebonne   Samantha,Provendier   Florence,1,1
+Cazebonne   Samantha,Fugit   Jean-Luc,1,1
+Dumas   Frédérique,Charrière   Sylvie,0,1
+Dumas   Frédérique,Brugnera   Anne,0,1
+Dumas   Frédérique,Batut   Xavier,0,1
+Dumas   Frédérique,Verdier-Jouclas   Marie-Christine,0,1
+Dumas   Frédérique,Peyron   Michèle,0,1
+Dumas   Frédérique,Calvez   Céline,0,1
+Dumas   Frédérique,Piron   Béatrice,0,1
+Dumas   Frédérique,Faucillon   Elsa,1,1
+Dumas   Frédérique,Pouzyreff   Natalia,0,1
+Dumas   Frédérique,de Vaucouleurs   Michèle,0,1
+Dumas   Frédérique,Marilossian   Jacques,0,1
+Dumas   Frédérique,Wulfranc   Hubert,1,1
+Dumas   Frédérique,Provendier   Florence,0,1
+Dumas   Frédérique,Fugit   Jean-Luc,0,1
+Charrière   Sylvie,Brugnera   Anne,1,1
+Charrière   Sylvie,Batut   Xavier,1,1
+Charrière   Sylvie,Verdier-Jouclas   Marie-Christine,1,1
+Charrière   Sylvie,Peyron   Michèle,1,1
+Charrière   Sylvie,Calvez   Céline,1,1
+Charrière   Sylvie,Piron   Béatrice,1,1
+Charrière   Sylvie,Faucillon   Elsa,0,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,de Vaucouleurs   Michèle,1,1
+Charrière   Sylvie,Marilossian   Jacques,1,1
+Charrière   Sylvie,Wulfranc   Hubert,0,1
+Charrière   Sylvie,Provendier   Florence,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Brugnera   Anne,Batut   Xavier,1,1
+Brugnera   Anne,Verdier-Jouclas   Marie-Christine,1,1
+Brugnera   Anne,Peyron   Michèle,1,1
+Brugnera   Anne,Calvez   Céline,1,1
+Brugnera   Anne,Piron   Béatrice,1,1
+Brugnera   Anne,Faucillon   Elsa,0,1
+Brugnera   Anne,Pouzyreff   Natalia,1,1
+Brugnera   Anne,de Vaucouleurs   Michèle,1,1
+Brugnera   Anne,Marilossian   Jacques,1,1
+Brugnera   Anne,Wulfranc   Hubert,0,1
+Brugnera   Anne,Provendier   Florence,1,1
+Brugnera   Anne,Fugit   Jean-Luc,1,1
+Batut   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Batut   Xavier,Peyron   Michèle,1,1
+Batut   Xavier,Calvez   Céline,1,1
+Batut   Xavier,Piron   Béatrice,1,1
+Batut   Xavier,Faucillon   Elsa,0,1
+Batut   Xavier,Pouzyreff   Natalia,1,1
+Batut   Xavier,de Vaucouleurs   Michèle,1,1
+Batut   Xavier,Marilossian   Jacques,1,1
+Batut   Xavier,Wulfranc   Hubert,0,1
+Batut   Xavier,Provendier   Florence,1,1
+Batut   Xavier,Fugit   Jean-Luc,1,1
+Verdier-Jouclas   Marie-Christine,Peyron   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Calvez   Céline,1,1
+Verdier-Jouclas   Marie-Christine,Piron   Béatrice,1,1
+Verdier-Jouclas   Marie-Christine,Faucillon   Elsa,0,1
+Verdier-Jouclas   Marie-Christine,Pouzyreff   Natalia,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Marilossian   Jacques,1,1
+Verdier-Jouclas   Marie-Christine,Wulfranc   Hubert,0,1
+Verdier-Jouclas   Marie-Christine,Provendier   Florence,1,1
+Verdier-Jouclas   Marie-Christine,Fugit   Jean-Luc,1,1
+Peyron   Michèle,Calvez   Céline,1,1
+Peyron   Michèle,Piron   Béatrice,1,1
+Peyron   Michèle,Faucillon   Elsa,0,1
+Peyron   Michèle,Pouzyreff   Natalia,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Marilossian   Jacques,1,1
+Peyron   Michèle,Wulfranc   Hubert,0,1
+Peyron   Michèle,Provendier   Florence,1,1
+Peyron   Michèle,Fugit   Jean-Luc,1,1
+Calvez   Céline,Piron   Béatrice,1,1
+Calvez   Céline,Faucillon   Elsa,0,1
+Calvez   Céline,Pouzyreff   Natalia,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Marilossian   Jacques,1,1
+Calvez   Céline,Wulfranc   Hubert,0,1
+Calvez   Céline,Provendier   Florence,1,1
+Calvez   Céline,Fugit   Jean-Luc,1,1
+Piron   Béatrice,Faucillon   Elsa,0,1
+Piron   Béatrice,Pouzyreff   Natalia,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,1,1
+Piron   Béatrice,Marilossian   Jacques,1,1
+Piron   Béatrice,Wulfranc   Hubert,0,1
+Piron   Béatrice,Provendier   Florence,1,1
+Piron   Béatrice,Fugit   Jean-Luc,1,1
+Faucillon   Elsa,Pouzyreff   Natalia,0,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,0,1
+Faucillon   Elsa,Marilossian   Jacques,0,1
+Faucillon   Elsa,Wulfranc   Hubert,1,1
+Faucillon   Elsa,Provendier   Florence,0,1
+Faucillon   Elsa,Fugit   Jean-Luc,0,1
+Pouzyreff   Natalia,de Vaucouleurs   Michèle,1,1
+Pouzyreff   Natalia,Marilossian   Jacques,1,1
+Pouzyreff   Natalia,Wulfranc   Hubert,0,1
+Pouzyreff   Natalia,Provendier   Florence,1,1
+Pouzyreff   Natalia,Fugit   Jean-Luc,1,1
+de Vaucouleurs   Michèle,Marilossian   Jacques,1,1
+de Vaucouleurs   Michèle,Wulfranc   Hubert,0,1
+de Vaucouleurs   Michèle,Provendier   Florence,1,1
+de Vaucouleurs   Michèle,Fugit   Jean-Luc,1,1
+Marilossian   Jacques,Wulfranc   Hubert,0,1
+Marilossian   Jacques,Provendier   Florence,1,1
+Marilossian   Jacques,Fugit   Jean-Luc,1,1
+Wulfranc   Hubert,Provendier   Florence,0,1
+Wulfranc   Hubert,Fugit   Jean-Luc,0,1
+Provendier   Florence,Fugit   Jean-Luc,1,1

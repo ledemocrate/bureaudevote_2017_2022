@@ -1,0 +1,562 @@
+from,to,vote_commun,loi_commun
+Lagarde   Jean-Christophe,Benoit   Thierry,1,1
+Lagarde   Jean-Christophe,Christophe   Paul,1,1
+Lagarde   Jean-Christophe,Becht   Olivier,1,1
+Lagarde   Jean-Christophe,Sage   Maina,1,1
+Lagarde   Jean-Christophe,Robert   Mireille,0,1
+Lagarde   Jean-Christophe,Dharréville   Pierre,1,1
+Lagarde   Jean-Christophe,Martin   Didier,0,1
+Lagarde   Jean-Christophe,de Lavergne   Célia,0,1
+Lagarde   Jean-Christophe,Le Meur   Annaïg,0,1
+Lagarde   Jean-Christophe,Cazeneuve   Jean-René,0,1
+Lagarde   Jean-Christophe,Hammerer   Véronique,0,1
+Lagarde   Jean-Christophe,Eliaou   Jean-François,0,1
+Lagarde   Jean-Christophe,Motin   Cendra,0,1
+Lagarde   Jean-Christophe,Borowczyk   Julien,0,1
+Lagarde   Jean-Christophe,Lauzzana   Michel,0,1
+Lagarde   Jean-Christophe,Rist   Stéphanie,0,1
+Lagarde   Jean-Christophe,Magnier   Lise,1,1
+Lagarde   Jean-Christophe,Fiat   Caroline,1,1
+Lagarde   Jean-Christophe,Paluszkiewicz   Xavier,0,1
+Lagarde   Jean-Christophe,Descamps   Béatrice,1,1
+Lagarde   Jean-Christophe,Charrière   Sylvie,0,1
+Lagarde   Jean-Christophe,Gaillot   Albane,0,1
+Lagarde   Jean-Christophe,Riotton   Véronique,0,1
+Lagarde   Jean-Christophe,Naegelen   Christophe,1,1
+Lagarde   Jean-Christophe,Kerbarh   Stéphanie,0,1
+Lagarde   Jean-Christophe,Rupin   Pacôme,0,1
+Lagarde   Jean-Christophe,Lemoine   Patricia,1,1
+Lagarde   Jean-Christophe,Calvez   Céline,0,1
+Lagarde   Jean-Christophe,Piron   Béatrice,0,1
+Lagarde   Jean-Christophe,Lebec   Marie,0,1
+Lagarde   Jean-Christophe,de Vaucouleurs   Michèle,0,1
+Lagarde   Jean-Christophe,Buchou   Stéphane,0,1
+Lagarde   Jean-Christophe,Brial   Sylvain,1,1
+Benoit   Thierry,Christophe   Paul,1,1
+Benoit   Thierry,Becht   Olivier,1,1
+Benoit   Thierry,Sage   Maina,1,1
+Benoit   Thierry,Robert   Mireille,0,1
+Benoit   Thierry,Dharréville   Pierre,1,1
+Benoit   Thierry,Martin   Didier,0,1
+Benoit   Thierry,de Lavergne   Célia,0,1
+Benoit   Thierry,Le Meur   Annaïg,0,1
+Benoit   Thierry,Cazeneuve   Jean-René,0,1
+Benoit   Thierry,Hammerer   Véronique,0,1
+Benoit   Thierry,Eliaou   Jean-François,0,1
+Benoit   Thierry,Motin   Cendra,0,1
+Benoit   Thierry,Borowczyk   Julien,0,1
+Benoit   Thierry,Lauzzana   Michel,0,1
+Benoit   Thierry,Rist   Stéphanie,0,1
+Benoit   Thierry,Magnier   Lise,1,1
+Benoit   Thierry,Fiat   Caroline,1,1
+Benoit   Thierry,Paluszkiewicz   Xavier,0,1
+Benoit   Thierry,Descamps   Béatrice,1,1
+Benoit   Thierry,Charrière   Sylvie,0,1
+Benoit   Thierry,Gaillot   Albane,0,1
+Benoit   Thierry,Riotton   Véronique,0,1
+Benoit   Thierry,Naegelen   Christophe,1,1
+Benoit   Thierry,Kerbarh   Stéphanie,0,1
+Benoit   Thierry,Rupin   Pacôme,0,1
+Benoit   Thierry,Lemoine   Patricia,1,1
+Benoit   Thierry,Calvez   Céline,0,1
+Benoit   Thierry,Piron   Béatrice,0,1
+Benoit   Thierry,Lebec   Marie,0,1
+Benoit   Thierry,de Vaucouleurs   Michèle,0,1
+Benoit   Thierry,Buchou   Stéphane,0,1
+Benoit   Thierry,Brial   Sylvain,1,1
+Christophe   Paul,Becht   Olivier,1,1
+Christophe   Paul,Sage   Maina,1,1
+Christophe   Paul,Robert   Mireille,0,1
+Christophe   Paul,Dharréville   Pierre,1,1
+Christophe   Paul,Martin   Didier,0,1
+Christophe   Paul,de Lavergne   Célia,0,1
+Christophe   Paul,Le Meur   Annaïg,0,1
+Christophe   Paul,Cazeneuve   Jean-René,0,1
+Christophe   Paul,Hammerer   Véronique,0,1
+Christophe   Paul,Eliaou   Jean-François,0,1
+Christophe   Paul,Motin   Cendra,0,1
+Christophe   Paul,Borowczyk   Julien,0,1
+Christophe   Paul,Lauzzana   Michel,0,1
+Christophe   Paul,Rist   Stéphanie,0,1
+Christophe   Paul,Magnier   Lise,1,1
+Christophe   Paul,Fiat   Caroline,1,1
+Christophe   Paul,Paluszkiewicz   Xavier,0,1
+Christophe   Paul,Descamps   Béatrice,1,1
+Christophe   Paul,Charrière   Sylvie,0,1
+Christophe   Paul,Gaillot   Albane,0,1
+Christophe   Paul,Riotton   Véronique,0,1
+Christophe   Paul,Naegelen   Christophe,1,1
+Christophe   Paul,Kerbarh   Stéphanie,0,1
+Christophe   Paul,Rupin   Pacôme,0,1
+Christophe   Paul,Lemoine   Patricia,1,1
+Christophe   Paul,Calvez   Céline,0,1
+Christophe   Paul,Piron   Béatrice,0,1
+Christophe   Paul,Lebec   Marie,0,1
+Christophe   Paul,de Vaucouleurs   Michèle,0,1
+Christophe   Paul,Buchou   Stéphane,0,1
+Christophe   Paul,Brial   Sylvain,1,1
+Becht   Olivier,Sage   Maina,1,1
+Becht   Olivier,Robert   Mireille,0,1
+Becht   Olivier,Dharréville   Pierre,1,1
+Becht   Olivier,Martin   Didier,0,1
+Becht   Olivier,de Lavergne   Célia,0,1
+Becht   Olivier,Le Meur   Annaïg,0,1
+Becht   Olivier,Cazeneuve   Jean-René,0,1
+Becht   Olivier,Hammerer   Véronique,0,1
+Becht   Olivier,Eliaou   Jean-François,0,1
+Becht   Olivier,Motin   Cendra,0,1
+Becht   Olivier,Borowczyk   Julien,0,1
+Becht   Olivier,Lauzzana   Michel,0,1
+Becht   Olivier,Rist   Stéphanie,0,1
+Becht   Olivier,Magnier   Lise,1,1
+Becht   Olivier,Fiat   Caroline,1,1
+Becht   Olivier,Paluszkiewicz   Xavier,0,1
+Becht   Olivier,Descamps   Béatrice,1,1
+Becht   Olivier,Charrière   Sylvie,0,1
+Becht   Olivier,Gaillot   Albane,0,1
+Becht   Olivier,Riotton   Véronique,0,1
+Becht   Olivier,Naegelen   Christophe,1,1
+Becht   Olivier,Kerbarh   Stéphanie,0,1
+Becht   Olivier,Rupin   Pacôme,0,1
+Becht   Olivier,Lemoine   Patricia,1,1
+Becht   Olivier,Calvez   Céline,0,1
+Becht   Olivier,Piron   Béatrice,0,1
+Becht   Olivier,Lebec   Marie,0,1
+Becht   Olivier,de Vaucouleurs   Michèle,0,1
+Becht   Olivier,Buchou   Stéphane,0,1
+Becht   Olivier,Brial   Sylvain,1,1
+Sage   Maina,Robert   Mireille,0,1
+Sage   Maina,Dharréville   Pierre,1,1
+Sage   Maina,Martin   Didier,0,1
+Sage   Maina,de Lavergne   Célia,0,1
+Sage   Maina,Le Meur   Annaïg,0,1
+Sage   Maina,Cazeneuve   Jean-René,0,1
+Sage   Maina,Hammerer   Véronique,0,1
+Sage   Maina,Eliaou   Jean-François,0,1
+Sage   Maina,Motin   Cendra,0,1
+Sage   Maina,Borowczyk   Julien,0,1
+Sage   Maina,Lauzzana   Michel,0,1
+Sage   Maina,Rist   Stéphanie,0,1
+Sage   Maina,Magnier   Lise,1,1
+Sage   Maina,Fiat   Caroline,1,1
+Sage   Maina,Paluszkiewicz   Xavier,0,1
+Sage   Maina,Descamps   Béatrice,1,1
+Sage   Maina,Charrière   Sylvie,0,1
+Sage   Maina,Gaillot   Albane,0,1
+Sage   Maina,Riotton   Véronique,0,1
+Sage   Maina,Naegelen   Christophe,1,1
+Sage   Maina,Kerbarh   Stéphanie,0,1
+Sage   Maina,Rupin   Pacôme,0,1
+Sage   Maina,Lemoine   Patricia,1,1
+Sage   Maina,Calvez   Céline,0,1
+Sage   Maina,Piron   Béatrice,0,1
+Sage   Maina,Lebec   Marie,0,1
+Sage   Maina,de Vaucouleurs   Michèle,0,1
+Sage   Maina,Buchou   Stéphane,0,1
+Sage   Maina,Brial   Sylvain,1,1
+Robert   Mireille,Dharréville   Pierre,0,1
+Robert   Mireille,Martin   Didier,1,1
+Robert   Mireille,de Lavergne   Célia,1,1
+Robert   Mireille,Le Meur   Annaïg,1,1
+Robert   Mireille,Cazeneuve   Jean-René,1,1
+Robert   Mireille,Hammerer   Véronique,1,1
+Robert   Mireille,Eliaou   Jean-François,1,1
+Robert   Mireille,Motin   Cendra,1,1
+Robert   Mireille,Borowczyk   Julien,1,1
+Robert   Mireille,Lauzzana   Michel,1,1
+Robert   Mireille,Rist   Stéphanie,1,1
+Robert   Mireille,Magnier   Lise,0,1
+Robert   Mireille,Fiat   Caroline,0,1
+Robert   Mireille,Paluszkiewicz   Xavier,1,1
+Robert   Mireille,Descamps   Béatrice,0,1
+Robert   Mireille,Charrière   Sylvie,1,1
+Robert   Mireille,Gaillot   Albane,1,1
+Robert   Mireille,Riotton   Véronique,1,1
+Robert   Mireille,Naegelen   Christophe,0,1
+Robert   Mireille,Kerbarh   Stéphanie,1,1
+Robert   Mireille,Rupin   Pacôme,1,1
+Robert   Mireille,Lemoine   Patricia,0,1
+Robert   Mireille,Calvez   Céline,1,1
+Robert   Mireille,Piron   Béatrice,1,1
+Robert   Mireille,Lebec   Marie,1,1
+Robert   Mireille,de Vaucouleurs   Michèle,1,1
+Robert   Mireille,Buchou   Stéphane,1,1
+Robert   Mireille,Brial   Sylvain,0,1
+Dharréville   Pierre,Martin   Didier,0,1
+Dharréville   Pierre,de Lavergne   Célia,0,1
+Dharréville   Pierre,Le Meur   Annaïg,0,1
+Dharréville   Pierre,Cazeneuve   Jean-René,0,1
+Dharréville   Pierre,Hammerer   Véronique,0,1
+Dharréville   Pierre,Eliaou   Jean-François,0,1
+Dharréville   Pierre,Motin   Cendra,0,1
+Dharréville   Pierre,Borowczyk   Julien,0,1
+Dharréville   Pierre,Lauzzana   Michel,0,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Magnier   Lise,1,1
+Dharréville   Pierre,Fiat   Caroline,1,1
+Dharréville   Pierre,Paluszkiewicz   Xavier,0,1
+Dharréville   Pierre,Descamps   Béatrice,1,1
+Dharréville   Pierre,Charrière   Sylvie,0,1
+Dharréville   Pierre,Gaillot   Albane,0,1
+Dharréville   Pierre,Riotton   Véronique,0,1
+Dharréville   Pierre,Naegelen   Christophe,1,1
+Dharréville   Pierre,Kerbarh   Stéphanie,0,1
+Dharréville   Pierre,Rupin   Pacôme,0,1
+Dharréville   Pierre,Lemoine   Patricia,1,1
+Dharréville   Pierre,Calvez   Céline,0,1
+Dharréville   Pierre,Piron   Béatrice,0,1
+Dharréville   Pierre,Lebec   Marie,0,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,0,1
+Dharréville   Pierre,Buchou   Stéphane,0,1
+Dharréville   Pierre,Brial   Sylvain,1,1
+Martin   Didier,de Lavergne   Célia,1,1
+Martin   Didier,Le Meur   Annaïg,1,1
+Martin   Didier,Cazeneuve   Jean-René,1,1
+Martin   Didier,Hammerer   Véronique,1,1
+Martin   Didier,Eliaou   Jean-François,1,1
+Martin   Didier,Motin   Cendra,1,1
+Martin   Didier,Borowczyk   Julien,1,1
+Martin   Didier,Lauzzana   Michel,1,1
+Martin   Didier,Rist   Stéphanie,1,1
+Martin   Didier,Magnier   Lise,0,1
+Martin   Didier,Fiat   Caroline,0,1
+Martin   Didier,Paluszkiewicz   Xavier,1,1
+Martin   Didier,Descamps   Béatrice,0,1
+Martin   Didier,Charrière   Sylvie,1,1
+Martin   Didier,Gaillot   Albane,1,1
+Martin   Didier,Riotton   Véronique,1,1
+Martin   Didier,Naegelen   Christophe,0,1
+Martin   Didier,Kerbarh   Stéphanie,1,1
+Martin   Didier,Rupin   Pacôme,1,1
+Martin   Didier,Lemoine   Patricia,0,1
+Martin   Didier,Calvez   Céline,1,1
+Martin   Didier,Piron   Béatrice,1,1
+Martin   Didier,Lebec   Marie,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Buchou   Stéphane,1,1
+Martin   Didier,Brial   Sylvain,0,1
+de Lavergne   Célia,Le Meur   Annaïg,1,1
+de Lavergne   Célia,Cazeneuve   Jean-René,1,1
+de Lavergne   Célia,Hammerer   Véronique,1,1
+de Lavergne   Célia,Eliaou   Jean-François,1,1
+de Lavergne   Célia,Motin   Cendra,1,1
+de Lavergne   Célia,Borowczyk   Julien,1,1
+de Lavergne   Célia,Lauzzana   Michel,1,1
+de Lavergne   Célia,Rist   Stéphanie,1,1
+de Lavergne   Célia,Magnier   Lise,0,1
+de Lavergne   Célia,Fiat   Caroline,0,1
+de Lavergne   Célia,Paluszkiewicz   Xavier,1,1
+de Lavergne   Célia,Descamps   Béatrice,0,1
+de Lavergne   Célia,Charrière   Sylvie,1,1
+de Lavergne   Célia,Gaillot   Albane,1,1
+de Lavergne   Célia,Riotton   Véronique,1,1
+de Lavergne   Célia,Naegelen   Christophe,0,1
+de Lavergne   Célia,Kerbarh   Stéphanie,1,1
+de Lavergne   Célia,Rupin   Pacôme,1,1
+de Lavergne   Célia,Lemoine   Patricia,0,1
+de Lavergne   Célia,Calvez   Céline,1,1
+de Lavergne   Célia,Piron   Béatrice,1,1
+de Lavergne   Célia,Lebec   Marie,1,1
+de Lavergne   Célia,de Vaucouleurs   Michèle,1,1
+de Lavergne   Célia,Buchou   Stéphane,1,1
+de Lavergne   Célia,Brial   Sylvain,0,1
+Le Meur   Annaïg,Cazeneuve   Jean-René,1,1
+Le Meur   Annaïg,Hammerer   Véronique,1,1
+Le Meur   Annaïg,Eliaou   Jean-François,1,1
+Le Meur   Annaïg,Motin   Cendra,1,1
+Le Meur   Annaïg,Borowczyk   Julien,1,1
+Le Meur   Annaïg,Lauzzana   Michel,1,1
+Le Meur   Annaïg,Rist   Stéphanie,1,1
+Le Meur   Annaïg,Magnier   Lise,0,1
+Le Meur   Annaïg,Fiat   Caroline,0,1
+Le Meur   Annaïg,Paluszkiewicz   Xavier,1,1
+Le Meur   Annaïg,Descamps   Béatrice,0,1
+Le Meur   Annaïg,Charrière   Sylvie,1,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Riotton   Véronique,1,1
+Le Meur   Annaïg,Naegelen   Christophe,0,1
+Le Meur   Annaïg,Kerbarh   Stéphanie,1,1
+Le Meur   Annaïg,Rupin   Pacôme,1,1
+Le Meur   Annaïg,Lemoine   Patricia,0,1
+Le Meur   Annaïg,Calvez   Céline,1,1
+Le Meur   Annaïg,Piron   Béatrice,1,1
+Le Meur   Annaïg,Lebec   Marie,1,1
+Le Meur   Annaïg,de Vaucouleurs   Michèle,1,1
+Le Meur   Annaïg,Buchou   Stéphane,1,1
+Le Meur   Annaïg,Brial   Sylvain,0,1
+Cazeneuve   Jean-René,Hammerer   Véronique,1,1
+Cazeneuve   Jean-René,Eliaou   Jean-François,1,1
+Cazeneuve   Jean-René,Motin   Cendra,1,1
+Cazeneuve   Jean-René,Borowczyk   Julien,1,1
+Cazeneuve   Jean-René,Lauzzana   Michel,1,1
+Cazeneuve   Jean-René,Rist   Stéphanie,1,1
+Cazeneuve   Jean-René,Magnier   Lise,0,1
+Cazeneuve   Jean-René,Fiat   Caroline,0,1
+Cazeneuve   Jean-René,Paluszkiewicz   Xavier,1,1
+Cazeneuve   Jean-René,Descamps   Béatrice,0,1
+Cazeneuve   Jean-René,Charrière   Sylvie,1,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Riotton   Véronique,1,1
+Cazeneuve   Jean-René,Naegelen   Christophe,0,1
+Cazeneuve   Jean-René,Kerbarh   Stéphanie,1,1
+Cazeneuve   Jean-René,Rupin   Pacôme,1,1
+Cazeneuve   Jean-René,Lemoine   Patricia,0,1
+Cazeneuve   Jean-René,Calvez   Céline,1,1
+Cazeneuve   Jean-René,Piron   Béatrice,1,1
+Cazeneuve   Jean-René,Lebec   Marie,1,1
+Cazeneuve   Jean-René,de Vaucouleurs   Michèle,1,1
+Cazeneuve   Jean-René,Buchou   Stéphane,1,1
+Cazeneuve   Jean-René,Brial   Sylvain,0,1
+Hammerer   Véronique,Eliaou   Jean-François,1,1
+Hammerer   Véronique,Motin   Cendra,1,1
+Hammerer   Véronique,Borowczyk   Julien,1,1
+Hammerer   Véronique,Lauzzana   Michel,1,1
+Hammerer   Véronique,Rist   Stéphanie,1,1
+Hammerer   Véronique,Magnier   Lise,0,1
+Hammerer   Véronique,Fiat   Caroline,0,1
+Hammerer   Véronique,Paluszkiewicz   Xavier,1,1
+Hammerer   Véronique,Descamps   Béatrice,0,1
+Hammerer   Véronique,Charrière   Sylvie,1,1
+Hammerer   Véronique,Gaillot   Albane,1,1
+Hammerer   Véronique,Riotton   Véronique,1,1
+Hammerer   Véronique,Naegelen   Christophe,0,1
+Hammerer   Véronique,Kerbarh   Stéphanie,1,1
+Hammerer   Véronique,Rupin   Pacôme,1,1
+Hammerer   Véronique,Lemoine   Patricia,0,1
+Hammerer   Véronique,Calvez   Céline,1,1
+Hammerer   Véronique,Piron   Béatrice,1,1
+Hammerer   Véronique,Lebec   Marie,1,1
+Hammerer   Véronique,de Vaucouleurs   Michèle,1,1
+Hammerer   Véronique,Buchou   Stéphane,1,1
+Hammerer   Véronique,Brial   Sylvain,0,1
+Eliaou   Jean-François,Motin   Cendra,1,1
+Eliaou   Jean-François,Borowczyk   Julien,1,1
+Eliaou   Jean-François,Lauzzana   Michel,1,1
+Eliaou   Jean-François,Rist   Stéphanie,1,1
+Eliaou   Jean-François,Magnier   Lise,0,1
+Eliaou   Jean-François,Fiat   Caroline,0,1
+Eliaou   Jean-François,Paluszkiewicz   Xavier,1,1
+Eliaou   Jean-François,Descamps   Béatrice,0,1
+Eliaou   Jean-François,Charrière   Sylvie,1,1
+Eliaou   Jean-François,Gaillot   Albane,1,1
+Eliaou   Jean-François,Riotton   Véronique,1,1
+Eliaou   Jean-François,Naegelen   Christophe,0,1
+Eliaou   Jean-François,Kerbarh   Stéphanie,1,1
+Eliaou   Jean-François,Rupin   Pacôme,1,1
+Eliaou   Jean-François,Lemoine   Patricia,0,1
+Eliaou   Jean-François,Calvez   Céline,1,1
+Eliaou   Jean-François,Piron   Béatrice,1,1
+Eliaou   Jean-François,Lebec   Marie,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Brial   Sylvain,0,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Lauzzana   Michel,1,1
+Motin   Cendra,Rist   Stéphanie,1,1
+Motin   Cendra,Magnier   Lise,0,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Descamps   Béatrice,0,1
+Motin   Cendra,Charrière   Sylvie,1,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Riotton   Véronique,1,1
+Motin   Cendra,Naegelen   Christophe,0,1
+Motin   Cendra,Kerbarh   Stéphanie,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Lemoine   Patricia,0,1
+Motin   Cendra,Calvez   Céline,1,1
+Motin   Cendra,Piron   Béatrice,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,1,1
+Motin   Cendra,Buchou   Stéphane,1,1
+Motin   Cendra,Brial   Sylvain,0,1
+Borowczyk   Julien,Lauzzana   Michel,1,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Magnier   Lise,0,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Paluszkiewicz   Xavier,1,1
+Borowczyk   Julien,Descamps   Béatrice,0,1
+Borowczyk   Julien,Charrière   Sylvie,1,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Riotton   Véronique,1,1
+Borowczyk   Julien,Naegelen   Christophe,0,1
+Borowczyk   Julien,Kerbarh   Stéphanie,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Lemoine   Patricia,0,1
+Borowczyk   Julien,Calvez   Céline,1,1
+Borowczyk   Julien,Piron   Béatrice,1,1
+Borowczyk   Julien,Lebec   Marie,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Buchou   Stéphane,1,1
+Borowczyk   Julien,Brial   Sylvain,0,1
+Lauzzana   Michel,Rist   Stéphanie,1,1
+Lauzzana   Michel,Magnier   Lise,0,1
+Lauzzana   Michel,Fiat   Caroline,0,1
+Lauzzana   Michel,Paluszkiewicz   Xavier,1,1
+Lauzzana   Michel,Descamps   Béatrice,0,1
+Lauzzana   Michel,Charrière   Sylvie,1,1
+Lauzzana   Michel,Gaillot   Albane,1,1
+Lauzzana   Michel,Riotton   Véronique,1,1
+Lauzzana   Michel,Naegelen   Christophe,0,1
+Lauzzana   Michel,Kerbarh   Stéphanie,1,1
+Lauzzana   Michel,Rupin   Pacôme,1,1
+Lauzzana   Michel,Lemoine   Patricia,0,1
+Lauzzana   Michel,Calvez   Céline,1,1
+Lauzzana   Michel,Piron   Béatrice,1,1
+Lauzzana   Michel,Lebec   Marie,1,1
+Lauzzana   Michel,de Vaucouleurs   Michèle,1,1
+Lauzzana   Michel,Buchou   Stéphane,1,1
+Lauzzana   Michel,Brial   Sylvain,0,1
+Rist   Stéphanie,Magnier   Lise,0,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Paluszkiewicz   Xavier,1,1
+Rist   Stéphanie,Descamps   Béatrice,0,1
+Rist   Stéphanie,Charrière   Sylvie,1,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Riotton   Véronique,1,1
+Rist   Stéphanie,Naegelen   Christophe,0,1
+Rist   Stéphanie,Kerbarh   Stéphanie,1,1
+Rist   Stéphanie,Rupin   Pacôme,1,1
+Rist   Stéphanie,Lemoine   Patricia,0,1
+Rist   Stéphanie,Calvez   Céline,1,1
+Rist   Stéphanie,Piron   Béatrice,1,1
+Rist   Stéphanie,Lebec   Marie,1,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,1,1
+Rist   Stéphanie,Buchou   Stéphane,1,1
+Rist   Stéphanie,Brial   Sylvain,0,1
+Magnier   Lise,Fiat   Caroline,1,1
+Magnier   Lise,Paluszkiewicz   Xavier,0,1
+Magnier   Lise,Descamps   Béatrice,1,1
+Magnier   Lise,Charrière   Sylvie,0,1
+Magnier   Lise,Gaillot   Albane,0,1
+Magnier   Lise,Riotton   Véronique,0,1
+Magnier   Lise,Naegelen   Christophe,1,1
+Magnier   Lise,Kerbarh   Stéphanie,0,1
+Magnier   Lise,Rupin   Pacôme,0,1
+Magnier   Lise,Lemoine   Patricia,1,1
+Magnier   Lise,Calvez   Céline,0,1
+Magnier   Lise,Piron   Béatrice,0,1
+Magnier   Lise,Lebec   Marie,0,1
+Magnier   Lise,de Vaucouleurs   Michèle,0,1
+Magnier   Lise,Buchou   Stéphane,0,1
+Magnier   Lise,Brial   Sylvain,1,1
+Fiat   Caroline,Paluszkiewicz   Xavier,0,1
+Fiat   Caroline,Descamps   Béatrice,1,1
+Fiat   Caroline,Charrière   Sylvie,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Riotton   Véronique,0,1
+Fiat   Caroline,Naegelen   Christophe,1,1
+Fiat   Caroline,Kerbarh   Stéphanie,0,1
+Fiat   Caroline,Rupin   Pacôme,0,1
+Fiat   Caroline,Lemoine   Patricia,1,1
+Fiat   Caroline,Calvez   Céline,0,1
+Fiat   Caroline,Piron   Béatrice,0,1
+Fiat   Caroline,Lebec   Marie,0,1
+Fiat   Caroline,de Vaucouleurs   Michèle,0,1
+Fiat   Caroline,Buchou   Stéphane,0,1
+Fiat   Caroline,Brial   Sylvain,1,1
+Paluszkiewicz   Xavier,Descamps   Béatrice,0,1
+Paluszkiewicz   Xavier,Charrière   Sylvie,1,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Riotton   Véronique,1,1
+Paluszkiewicz   Xavier,Naegelen   Christophe,0,1
+Paluszkiewicz   Xavier,Kerbarh   Stéphanie,1,1
+Paluszkiewicz   Xavier,Rupin   Pacôme,1,1
+Paluszkiewicz   Xavier,Lemoine   Patricia,0,1
+Paluszkiewicz   Xavier,Calvez   Céline,1,1
+Paluszkiewicz   Xavier,Piron   Béatrice,1,1
+Paluszkiewicz   Xavier,Lebec   Marie,1,1
+Paluszkiewicz   Xavier,de Vaucouleurs   Michèle,1,1
+Paluszkiewicz   Xavier,Buchou   Stéphane,1,1
+Paluszkiewicz   Xavier,Brial   Sylvain,0,1
+Descamps   Béatrice,Charrière   Sylvie,0,1
+Descamps   Béatrice,Gaillot   Albane,0,1
+Descamps   Béatrice,Riotton   Véronique,0,1
+Descamps   Béatrice,Naegelen   Christophe,1,1
+Descamps   Béatrice,Kerbarh   Stéphanie,0,1
+Descamps   Béatrice,Rupin   Pacôme,0,1
+Descamps   Béatrice,Lemoine   Patricia,1,1
+Descamps   Béatrice,Calvez   Céline,0,1
+Descamps   Béatrice,Piron   Béatrice,0,1
+Descamps   Béatrice,Lebec   Marie,0,1
+Descamps   Béatrice,de Vaucouleurs   Michèle,0,1
+Descamps   Béatrice,Buchou   Stéphane,0,1
+Descamps   Béatrice,Brial   Sylvain,1,1
+Charrière   Sylvie,Gaillot   Albane,1,1
+Charrière   Sylvie,Riotton   Véronique,1,1
+Charrière   Sylvie,Naegelen   Christophe,0,1
+Charrière   Sylvie,Kerbarh   Stéphanie,1,1
+Charrière   Sylvie,Rupin   Pacôme,1,1
+Charrière   Sylvie,Lemoine   Patricia,0,1
+Charrière   Sylvie,Calvez   Céline,1,1
+Charrière   Sylvie,Piron   Béatrice,1,1
+Charrière   Sylvie,Lebec   Marie,1,1
+Charrière   Sylvie,de Vaucouleurs   Michèle,1,1
+Charrière   Sylvie,Buchou   Stéphane,1,1
+Charrière   Sylvie,Brial   Sylvain,0,1
+Gaillot   Albane,Riotton   Véronique,1,1
+Gaillot   Albane,Naegelen   Christophe,0,1
+Gaillot   Albane,Kerbarh   Stéphanie,1,1
+Gaillot   Albane,Rupin   Pacôme,1,1
+Gaillot   Albane,Lemoine   Patricia,0,1
+Gaillot   Albane,Calvez   Céline,1,1
+Gaillot   Albane,Piron   Béatrice,1,1
+Gaillot   Albane,Lebec   Marie,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,1,1
+Gaillot   Albane,Buchou   Stéphane,1,1
+Gaillot   Albane,Brial   Sylvain,0,1
+Riotton   Véronique,Naegelen   Christophe,0,1
+Riotton   Véronique,Kerbarh   Stéphanie,1,1
+Riotton   Véronique,Rupin   Pacôme,1,1
+Riotton   Véronique,Lemoine   Patricia,0,1
+Riotton   Véronique,Calvez   Céline,1,1
+Riotton   Véronique,Piron   Béatrice,1,1
+Riotton   Véronique,Lebec   Marie,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,1,1
+Riotton   Véronique,Buchou   Stéphane,1,1
+Riotton   Véronique,Brial   Sylvain,0,1
+Naegelen   Christophe,Kerbarh   Stéphanie,0,1
+Naegelen   Christophe,Rupin   Pacôme,0,1
+Naegelen   Christophe,Lemoine   Patricia,1,1
+Naegelen   Christophe,Calvez   Céline,0,1
+Naegelen   Christophe,Piron   Béatrice,0,1
+Naegelen   Christophe,Lebec   Marie,0,1
+Naegelen   Christophe,de Vaucouleurs   Michèle,0,1
+Naegelen   Christophe,Buchou   Stéphane,0,1
+Naegelen   Christophe,Brial   Sylvain,1,1
+Kerbarh   Stéphanie,Rupin   Pacôme,1,1
+Kerbarh   Stéphanie,Lemoine   Patricia,0,1
+Kerbarh   Stéphanie,Calvez   Céline,1,1
+Kerbarh   Stéphanie,Piron   Béatrice,1,1
+Kerbarh   Stéphanie,Lebec   Marie,1,1
+Kerbarh   Stéphanie,de Vaucouleurs   Michèle,1,1
+Kerbarh   Stéphanie,Buchou   Stéphane,1,1
+Kerbarh   Stéphanie,Brial   Sylvain,0,1
+Rupin   Pacôme,Lemoine   Patricia,0,1
+Rupin   Pacôme,Calvez   Céline,1,1
+Rupin   Pacôme,Piron   Béatrice,1,1
+Rupin   Pacôme,Lebec   Marie,1,1
+Rupin   Pacôme,de Vaucouleurs   Michèle,1,1
+Rupin   Pacôme,Buchou   Stéphane,1,1
+Rupin   Pacôme,Brial   Sylvain,0,1
+Lemoine   Patricia,Calvez   Céline,0,1
+Lemoine   Patricia,Piron   Béatrice,0,1
+Lemoine   Patricia,Lebec   Marie,0,1
+Lemoine   Patricia,de Vaucouleurs   Michèle,0,1
+Lemoine   Patricia,Buchou   Stéphane,0,1
+Lemoine   Patricia,Brial   Sylvain,1,1
+Calvez   Céline,Piron   Béatrice,1,1
+Calvez   Céline,Lebec   Marie,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Buchou   Stéphane,1,1
+Calvez   Céline,Brial   Sylvain,0,1
+Piron   Béatrice,Lebec   Marie,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,1,1
+Piron   Béatrice,Buchou   Stéphane,1,1
+Piron   Béatrice,Brial   Sylvain,0,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Buchou   Stéphane,1,1
+Lebec   Marie,Brial   Sylvain,0,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,1,1
+de Vaucouleurs   Michèle,Brial   Sylvain,0,1
+Buchou   Stéphane,Brial   Sylvain,0,1

@@ -1,0 +1,596 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Touraine   Jean-Louis,1,1
+Firmin Le Bodo   Agnès,Pinel   Sylvia,0,1
+Firmin Le Bodo   Agnès,Biémouret   Gisèle,1,1
+Firmin Le Bodo   Agnès,Aviragnet   Joël,0,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,1,1
+Firmin Le Bodo   Agnès,Delatte   Marc,1,1
+Firmin Le Bodo   Agnès,Blanchet   Christophe,1,1
+Firmin Le Bodo   Agnès,Mesnier   Thomas,1,1
+Firmin Le Bodo   Agnès,Charvier   Fannette,1,1
+Firmin Le Bodo   Agnès,Khattabi   Fadila,1,1
+Firmin Le Bodo   Agnès,Melchior   Graziella,1,1
+Firmin Le Bodo   Agnès,Tamarelle-Verhaeghe   Marie,1,1
+Firmin Le Bodo   Agnès,Chapelier   Annie,1,1
+Firmin Le Bodo   Agnès,Vignon   Corinne,1,1
+Firmin Le Bodo   Agnès,Cloarec-Le Nabour   Christine,1,1
+Firmin Le Bodo   Agnès,Motin   Cendra,1,1
+Firmin Le Bodo   Agnès,Borowczyk   Julien,1,1
+Firmin Le Bodo   Agnès,Dufeu   Audrey,1,1
+Firmin Le Bodo   Agnès,Janvier   Caroline,1,1
+Firmin Le Bodo   Agnès,Fiat   Caroline,0,1
+Firmin Le Bodo   Agnès,Hammouche   Brahim,0,1
+Firmin Le Bodo   Agnès,Bruneel   Alain,0,1
+Firmin Le Bodo   Agnès,Thill   Agnès,1,1
+Firmin Le Bodo   Agnès,Thomas   Valérie,1,1
+Firmin Le Bodo   Agnès,Mbaye   Jean François,1,1
+Firmin Le Bodo   Agnès,Da Silva   Dominique,1,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,1,1
+Firmin Le Bodo   Agnès,Rupin   Pacôme,1,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,1,1
+Firmin Le Bodo   Agnès,Mauborgne   Sereine,1,1
+Firmin Le Bodo   Agnès,Florennes   Isabelle,1,1
+Firmin Le Bodo   Agnès,Obono   Danièle,0,1
+Firmin Le Bodo   Agnès,Hennion   Christine,1,1
+Firmin Le Bodo   Agnès,Villani   Cédric,1,1
+Touraine   Jean-Louis,Pinel   Sylvia,0,1
+Touraine   Jean-Louis,Biémouret   Gisèle,1,1
+Touraine   Jean-Louis,Aviragnet   Joël,0,1
+Touraine   Jean-Louis,Maillard   Sylvain,1,1
+Touraine   Jean-Louis,Delatte   Marc,1,1
+Touraine   Jean-Louis,Blanchet   Christophe,1,1
+Touraine   Jean-Louis,Mesnier   Thomas,1,1
+Touraine   Jean-Louis,Charvier   Fannette,1,1
+Touraine   Jean-Louis,Khattabi   Fadila,1,1
+Touraine   Jean-Louis,Melchior   Graziella,1,1
+Touraine   Jean-Louis,Tamarelle-Verhaeghe   Marie,1,1
+Touraine   Jean-Louis,Chapelier   Annie,1,1
+Touraine   Jean-Louis,Vignon   Corinne,1,1
+Touraine   Jean-Louis,Cloarec-Le Nabour   Christine,1,1
+Touraine   Jean-Louis,Motin   Cendra,1,1
+Touraine   Jean-Louis,Borowczyk   Julien,1,1
+Touraine   Jean-Louis,Dufeu   Audrey,1,1
+Touraine   Jean-Louis,Janvier   Caroline,1,1
+Touraine   Jean-Louis,Fiat   Caroline,0,1
+Touraine   Jean-Louis,Hammouche   Brahim,0,1
+Touraine   Jean-Louis,Bruneel   Alain,0,1
+Touraine   Jean-Louis,Thill   Agnès,1,1
+Touraine   Jean-Louis,Thomas   Valérie,1,1
+Touraine   Jean-Louis,Mbaye   Jean François,1,1
+Touraine   Jean-Louis,Da Silva   Dominique,1,1
+Touraine   Jean-Louis,Gaillot   Albane,1,1
+Touraine   Jean-Louis,Rupin   Pacôme,1,1
+Touraine   Jean-Louis,Peyron   Michèle,1,1
+Touraine   Jean-Louis,Mauborgne   Sereine,1,1
+Touraine   Jean-Louis,Florennes   Isabelle,1,1
+Touraine   Jean-Louis,Obono   Danièle,0,1
+Touraine   Jean-Louis,Hennion   Christine,1,1
+Touraine   Jean-Louis,Villani   Cédric,1,1
+Pinel   Sylvia,Biémouret   Gisèle,0,1
+Pinel   Sylvia,Aviragnet   Joël,1,1
+Pinel   Sylvia,Maillard   Sylvain,0,1
+Pinel   Sylvia,Delatte   Marc,0,1
+Pinel   Sylvia,Blanchet   Christophe,0,1
+Pinel   Sylvia,Mesnier   Thomas,0,1
+Pinel   Sylvia,Charvier   Fannette,0,1
+Pinel   Sylvia,Khattabi   Fadila,0,1
+Pinel   Sylvia,Melchior   Graziella,0,1
+Pinel   Sylvia,Tamarelle-Verhaeghe   Marie,0,1
+Pinel   Sylvia,Chapelier   Annie,0,1
+Pinel   Sylvia,Vignon   Corinne,0,1
+Pinel   Sylvia,Cloarec-Le Nabour   Christine,0,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Borowczyk   Julien,0,1
+Pinel   Sylvia,Dufeu   Audrey,0,1
+Pinel   Sylvia,Janvier   Caroline,0,1
+Pinel   Sylvia,Fiat   Caroline,1,1
+Pinel   Sylvia,Hammouche   Brahim,1,1
+Pinel   Sylvia,Bruneel   Alain,1,1
+Pinel   Sylvia,Thill   Agnès,0,1
+Pinel   Sylvia,Thomas   Valérie,0,1
+Pinel   Sylvia,Mbaye   Jean François,0,1
+Pinel   Sylvia,Da Silva   Dominique,0,1
+Pinel   Sylvia,Gaillot   Albane,0,1
+Pinel   Sylvia,Rupin   Pacôme,0,1
+Pinel   Sylvia,Peyron   Michèle,0,1
+Pinel   Sylvia,Mauborgne   Sereine,0,1
+Pinel   Sylvia,Florennes   Isabelle,0,1
+Pinel   Sylvia,Obono   Danièle,1,1
+Pinel   Sylvia,Hennion   Christine,0,1
+Pinel   Sylvia,Villani   Cédric,0,1
+Biémouret   Gisèle,Aviragnet   Joël,0,1
+Biémouret   Gisèle,Maillard   Sylvain,1,1
+Biémouret   Gisèle,Delatte   Marc,1,1
+Biémouret   Gisèle,Blanchet   Christophe,1,1
+Biémouret   Gisèle,Mesnier   Thomas,1,1
+Biémouret   Gisèle,Charvier   Fannette,1,1
+Biémouret   Gisèle,Khattabi   Fadila,1,1
+Biémouret   Gisèle,Melchior   Graziella,1,1
+Biémouret   Gisèle,Tamarelle-Verhaeghe   Marie,1,1
+Biémouret   Gisèle,Chapelier   Annie,1,1
+Biémouret   Gisèle,Vignon   Corinne,1,1
+Biémouret   Gisèle,Cloarec-Le Nabour   Christine,1,1
+Biémouret   Gisèle,Motin   Cendra,1,1
+Biémouret   Gisèle,Borowczyk   Julien,1,1
+Biémouret   Gisèle,Dufeu   Audrey,1,1
+Biémouret   Gisèle,Janvier   Caroline,1,1
+Biémouret   Gisèle,Fiat   Caroline,0,1
+Biémouret   Gisèle,Hammouche   Brahim,0,1
+Biémouret   Gisèle,Bruneel   Alain,0,1
+Biémouret   Gisèle,Thill   Agnès,1,1
+Biémouret   Gisèle,Thomas   Valérie,1,1
+Biémouret   Gisèle,Mbaye   Jean François,1,1
+Biémouret   Gisèle,Da Silva   Dominique,1,1
+Biémouret   Gisèle,Gaillot   Albane,1,1
+Biémouret   Gisèle,Rupin   Pacôme,1,1
+Biémouret   Gisèle,Peyron   Michèle,1,1
+Biémouret   Gisèle,Mauborgne   Sereine,1,1
+Biémouret   Gisèle,Florennes   Isabelle,1,1
+Biémouret   Gisèle,Obono   Danièle,0,1
+Biémouret   Gisèle,Hennion   Christine,1,1
+Biémouret   Gisèle,Villani   Cédric,1,1
+Aviragnet   Joël,Maillard   Sylvain,0,1
+Aviragnet   Joël,Delatte   Marc,0,1
+Aviragnet   Joël,Blanchet   Christophe,0,1
+Aviragnet   Joël,Mesnier   Thomas,0,1
+Aviragnet   Joël,Charvier   Fannette,0,1
+Aviragnet   Joël,Khattabi   Fadila,0,1
+Aviragnet   Joël,Melchior   Graziella,0,1
+Aviragnet   Joël,Tamarelle-Verhaeghe   Marie,0,1
+Aviragnet   Joël,Chapelier   Annie,0,1
+Aviragnet   Joël,Vignon   Corinne,0,1
+Aviragnet   Joël,Cloarec-Le Nabour   Christine,0,1
+Aviragnet   Joël,Motin   Cendra,0,1
+Aviragnet   Joël,Borowczyk   Julien,0,1
+Aviragnet   Joël,Dufeu   Audrey,0,1
+Aviragnet   Joël,Janvier   Caroline,0,1
+Aviragnet   Joël,Fiat   Caroline,1,1
+Aviragnet   Joël,Hammouche   Brahim,1,1
+Aviragnet   Joël,Bruneel   Alain,1,1
+Aviragnet   Joël,Thill   Agnès,0,1
+Aviragnet   Joël,Thomas   Valérie,0,1
+Aviragnet   Joël,Mbaye   Jean François,0,1
+Aviragnet   Joël,Da Silva   Dominique,0,1
+Aviragnet   Joël,Gaillot   Albane,0,1
+Aviragnet   Joël,Rupin   Pacôme,0,1
+Aviragnet   Joël,Peyron   Michèle,0,1
+Aviragnet   Joël,Mauborgne   Sereine,0,1
+Aviragnet   Joël,Florennes   Isabelle,0,1
+Aviragnet   Joël,Obono   Danièle,1,1
+Aviragnet   Joël,Hennion   Christine,0,1
+Aviragnet   Joël,Villani   Cédric,0,1
+Maillard   Sylvain,Delatte   Marc,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Mesnier   Thomas,1,1
+Maillard   Sylvain,Charvier   Fannette,1,1
+Maillard   Sylvain,Khattabi   Fadila,1,1
+Maillard   Sylvain,Melchior   Graziella,1,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,1,1
+Maillard   Sylvain,Chapelier   Annie,1,1
+Maillard   Sylvain,Vignon   Corinne,1,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Dufeu   Audrey,1,1
+Maillard   Sylvain,Janvier   Caroline,1,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Hammouche   Brahim,0,1
+Maillard   Sylvain,Bruneel   Alain,0,1
+Maillard   Sylvain,Thill   Agnès,1,1
+Maillard   Sylvain,Thomas   Valérie,1,1
+Maillard   Sylvain,Mbaye   Jean François,1,1
+Maillard   Sylvain,Da Silva   Dominique,1,1
+Maillard   Sylvain,Gaillot   Albane,1,1
+Maillard   Sylvain,Rupin   Pacôme,1,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Mauborgne   Sereine,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,Obono   Danièle,0,1
+Maillard   Sylvain,Hennion   Christine,1,1
+Maillard   Sylvain,Villani   Cédric,1,1
+Delatte   Marc,Blanchet   Christophe,1,1
+Delatte   Marc,Mesnier   Thomas,1,1
+Delatte   Marc,Charvier   Fannette,1,1
+Delatte   Marc,Khattabi   Fadila,1,1
+Delatte   Marc,Melchior   Graziella,1,1
+Delatte   Marc,Tamarelle-Verhaeghe   Marie,1,1
+Delatte   Marc,Chapelier   Annie,1,1
+Delatte   Marc,Vignon   Corinne,1,1
+Delatte   Marc,Cloarec-Le Nabour   Christine,1,1
+Delatte   Marc,Motin   Cendra,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Dufeu   Audrey,1,1
+Delatte   Marc,Janvier   Caroline,1,1
+Delatte   Marc,Fiat   Caroline,0,1
+Delatte   Marc,Hammouche   Brahim,0,1
+Delatte   Marc,Bruneel   Alain,0,1
+Delatte   Marc,Thill   Agnès,1,1
+Delatte   Marc,Thomas   Valérie,1,1
+Delatte   Marc,Mbaye   Jean François,1,1
+Delatte   Marc,Da Silva   Dominique,1,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Rupin   Pacôme,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Mauborgne   Sereine,1,1
+Delatte   Marc,Florennes   Isabelle,1,1
+Delatte   Marc,Obono   Danièle,0,1
+Delatte   Marc,Hennion   Christine,1,1
+Delatte   Marc,Villani   Cédric,1,1
+Blanchet   Christophe,Mesnier   Thomas,1,1
+Blanchet   Christophe,Charvier   Fannette,1,1
+Blanchet   Christophe,Khattabi   Fadila,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Tamarelle-Verhaeghe   Marie,1,1
+Blanchet   Christophe,Chapelier   Annie,1,1
+Blanchet   Christophe,Vignon   Corinne,1,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Dufeu   Audrey,1,1
+Blanchet   Christophe,Janvier   Caroline,1,1
+Blanchet   Christophe,Fiat   Caroline,0,1
+Blanchet   Christophe,Hammouche   Brahim,0,1
+Blanchet   Christophe,Bruneel   Alain,0,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Thomas   Valérie,1,1
+Blanchet   Christophe,Mbaye   Jean François,1,1
+Blanchet   Christophe,Da Silva   Dominique,1,1
+Blanchet   Christophe,Gaillot   Albane,1,1
+Blanchet   Christophe,Rupin   Pacôme,1,1
+Blanchet   Christophe,Peyron   Michèle,1,1
+Blanchet   Christophe,Mauborgne   Sereine,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Obono   Danièle,0,1
+Blanchet   Christophe,Hennion   Christine,1,1
+Blanchet   Christophe,Villani   Cédric,1,1
+Mesnier   Thomas,Charvier   Fannette,1,1
+Mesnier   Thomas,Khattabi   Fadila,1,1
+Mesnier   Thomas,Melchior   Graziella,1,1
+Mesnier   Thomas,Tamarelle-Verhaeghe   Marie,1,1
+Mesnier   Thomas,Chapelier   Annie,1,1
+Mesnier   Thomas,Vignon   Corinne,1,1
+Mesnier   Thomas,Cloarec-Le Nabour   Christine,1,1
+Mesnier   Thomas,Motin   Cendra,1,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Dufeu   Audrey,1,1
+Mesnier   Thomas,Janvier   Caroline,1,1
+Mesnier   Thomas,Fiat   Caroline,0,1
+Mesnier   Thomas,Hammouche   Brahim,0,1
+Mesnier   Thomas,Bruneel   Alain,0,1
+Mesnier   Thomas,Thill   Agnès,1,1
+Mesnier   Thomas,Thomas   Valérie,1,1
+Mesnier   Thomas,Mbaye   Jean François,1,1
+Mesnier   Thomas,Da Silva   Dominique,1,1
+Mesnier   Thomas,Gaillot   Albane,1,1
+Mesnier   Thomas,Rupin   Pacôme,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Mauborgne   Sereine,1,1
+Mesnier   Thomas,Florennes   Isabelle,1,1
+Mesnier   Thomas,Obono   Danièle,0,1
+Mesnier   Thomas,Hennion   Christine,1,1
+Mesnier   Thomas,Villani   Cédric,1,1
+Charvier   Fannette,Khattabi   Fadila,1,1
+Charvier   Fannette,Melchior   Graziella,1,1
+Charvier   Fannette,Tamarelle-Verhaeghe   Marie,1,1
+Charvier   Fannette,Chapelier   Annie,1,1
+Charvier   Fannette,Vignon   Corinne,1,1
+Charvier   Fannette,Cloarec-Le Nabour   Christine,1,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Dufeu   Audrey,1,1
+Charvier   Fannette,Janvier   Caroline,1,1
+Charvier   Fannette,Fiat   Caroline,0,1
+Charvier   Fannette,Hammouche   Brahim,0,1
+Charvier   Fannette,Bruneel   Alain,0,1
+Charvier   Fannette,Thill   Agnès,1,1
+Charvier   Fannette,Thomas   Valérie,1,1
+Charvier   Fannette,Mbaye   Jean François,1,1
+Charvier   Fannette,Da Silva   Dominique,1,1
+Charvier   Fannette,Gaillot   Albane,1,1
+Charvier   Fannette,Rupin   Pacôme,1,1
+Charvier   Fannette,Peyron   Michèle,1,1
+Charvier   Fannette,Mauborgne   Sereine,1,1
+Charvier   Fannette,Florennes   Isabelle,1,1
+Charvier   Fannette,Obono   Danièle,0,1
+Charvier   Fannette,Hennion   Christine,1,1
+Charvier   Fannette,Villani   Cédric,1,1
+Khattabi   Fadila,Melchior   Graziella,1,1
+Khattabi   Fadila,Tamarelle-Verhaeghe   Marie,1,1
+Khattabi   Fadila,Chapelier   Annie,1,1
+Khattabi   Fadila,Vignon   Corinne,1,1
+Khattabi   Fadila,Cloarec-Le Nabour   Christine,1,1
+Khattabi   Fadila,Motin   Cendra,1,1
+Khattabi   Fadila,Borowczyk   Julien,1,1
+Khattabi   Fadila,Dufeu   Audrey,1,1
+Khattabi   Fadila,Janvier   Caroline,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Hammouche   Brahim,0,1
+Khattabi   Fadila,Bruneel   Alain,0,1
+Khattabi   Fadila,Thill   Agnès,1,1
+Khattabi   Fadila,Thomas   Valérie,1,1
+Khattabi   Fadila,Mbaye   Jean François,1,1
+Khattabi   Fadila,Da Silva   Dominique,1,1
+Khattabi   Fadila,Gaillot   Albane,1,1
+Khattabi   Fadila,Rupin   Pacôme,1,1
+Khattabi   Fadila,Peyron   Michèle,1,1
+Khattabi   Fadila,Mauborgne   Sereine,1,1
+Khattabi   Fadila,Florennes   Isabelle,1,1
+Khattabi   Fadila,Obono   Danièle,0,1
+Khattabi   Fadila,Hennion   Christine,1,1
+Khattabi   Fadila,Villani   Cédric,1,1
+Melchior   Graziella,Tamarelle-Verhaeghe   Marie,1,1
+Melchior   Graziella,Chapelier   Annie,1,1
+Melchior   Graziella,Vignon   Corinne,1,1
+Melchior   Graziella,Cloarec-Le Nabour   Christine,1,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Borowczyk   Julien,1,1
+Melchior   Graziella,Dufeu   Audrey,1,1
+Melchior   Graziella,Janvier   Caroline,1,1
+Melchior   Graziella,Fiat   Caroline,0,1
+Melchior   Graziella,Hammouche   Brahim,0,1
+Melchior   Graziella,Bruneel   Alain,0,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,Mbaye   Jean François,1,1
+Melchior   Graziella,Da Silva   Dominique,1,1
+Melchior   Graziella,Gaillot   Albane,1,1
+Melchior   Graziella,Rupin   Pacôme,1,1
+Melchior   Graziella,Peyron   Michèle,1,1
+Melchior   Graziella,Mauborgne   Sereine,1,1
+Melchior   Graziella,Florennes   Isabelle,1,1
+Melchior   Graziella,Obono   Danièle,0,1
+Melchior   Graziella,Hennion   Christine,1,1
+Melchior   Graziella,Villani   Cédric,1,1
+Tamarelle-Verhaeghe   Marie,Chapelier   Annie,1,1
+Tamarelle-Verhaeghe   Marie,Vignon   Corinne,1,1
+Tamarelle-Verhaeghe   Marie,Cloarec-Le Nabour   Christine,1,1
+Tamarelle-Verhaeghe   Marie,Motin   Cendra,1,1
+Tamarelle-Verhaeghe   Marie,Borowczyk   Julien,1,1
+Tamarelle-Verhaeghe   Marie,Dufeu   Audrey,1,1
+Tamarelle-Verhaeghe   Marie,Janvier   Caroline,1,1
+Tamarelle-Verhaeghe   Marie,Fiat   Caroline,0,1
+Tamarelle-Verhaeghe   Marie,Hammouche   Brahim,0,1
+Tamarelle-Verhaeghe   Marie,Bruneel   Alain,0,1
+Tamarelle-Verhaeghe   Marie,Thill   Agnès,1,1
+Tamarelle-Verhaeghe   Marie,Thomas   Valérie,1,1
+Tamarelle-Verhaeghe   Marie,Mbaye   Jean François,1,1
+Tamarelle-Verhaeghe   Marie,Da Silva   Dominique,1,1
+Tamarelle-Verhaeghe   Marie,Gaillot   Albane,1,1
+Tamarelle-Verhaeghe   Marie,Rupin   Pacôme,1,1
+Tamarelle-Verhaeghe   Marie,Peyron   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Mauborgne   Sereine,1,1
+Tamarelle-Verhaeghe   Marie,Florennes   Isabelle,1,1
+Tamarelle-Verhaeghe   Marie,Obono   Danièle,0,1
+Tamarelle-Verhaeghe   Marie,Hennion   Christine,1,1
+Tamarelle-Verhaeghe   Marie,Villani   Cédric,1,1
+Chapelier   Annie,Vignon   Corinne,1,1
+Chapelier   Annie,Cloarec-Le Nabour   Christine,1,1
+Chapelier   Annie,Motin   Cendra,1,1
+Chapelier   Annie,Borowczyk   Julien,1,1
+Chapelier   Annie,Dufeu   Audrey,1,1
+Chapelier   Annie,Janvier   Caroline,1,1
+Chapelier   Annie,Fiat   Caroline,0,1
+Chapelier   Annie,Hammouche   Brahim,0,1
+Chapelier   Annie,Bruneel   Alain,0,1
+Chapelier   Annie,Thill   Agnès,1,1
+Chapelier   Annie,Thomas   Valérie,1,1
+Chapelier   Annie,Mbaye   Jean François,1,1
+Chapelier   Annie,Da Silva   Dominique,1,1
+Chapelier   Annie,Gaillot   Albane,1,1
+Chapelier   Annie,Rupin   Pacôme,1,1
+Chapelier   Annie,Peyron   Michèle,1,1
+Chapelier   Annie,Mauborgne   Sereine,1,1
+Chapelier   Annie,Florennes   Isabelle,1,1
+Chapelier   Annie,Obono   Danièle,0,1
+Chapelier   Annie,Hennion   Christine,1,1
+Chapelier   Annie,Villani   Cédric,1,1
+Vignon   Corinne,Cloarec-Le Nabour   Christine,1,1
+Vignon   Corinne,Motin   Cendra,1,1
+Vignon   Corinne,Borowczyk   Julien,1,1
+Vignon   Corinne,Dufeu   Audrey,1,1
+Vignon   Corinne,Janvier   Caroline,1,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Hammouche   Brahim,0,1
+Vignon   Corinne,Bruneel   Alain,0,1
+Vignon   Corinne,Thill   Agnès,1,1
+Vignon   Corinne,Thomas   Valérie,1,1
+Vignon   Corinne,Mbaye   Jean François,1,1
+Vignon   Corinne,Da Silva   Dominique,1,1
+Vignon   Corinne,Gaillot   Albane,1,1
+Vignon   Corinne,Rupin   Pacôme,1,1
+Vignon   Corinne,Peyron   Michèle,1,1
+Vignon   Corinne,Mauborgne   Sereine,1,1
+Vignon   Corinne,Florennes   Isabelle,1,1
+Vignon   Corinne,Obono   Danièle,0,1
+Vignon   Corinne,Hennion   Christine,1,1
+Vignon   Corinne,Villani   Cédric,1,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dufeu   Audrey,1,1
+Cloarec-Le Nabour   Christine,Janvier   Caroline,1,1
+Cloarec-Le Nabour   Christine,Fiat   Caroline,0,1
+Cloarec-Le Nabour   Christine,Hammouche   Brahim,0,1
+Cloarec-Le Nabour   Christine,Bruneel   Alain,0,1
+Cloarec-Le Nabour   Christine,Thill   Agnès,1,1
+Cloarec-Le Nabour   Christine,Thomas   Valérie,1,1
+Cloarec-Le Nabour   Christine,Mbaye   Jean François,1,1
+Cloarec-Le Nabour   Christine,Da Silva   Dominique,1,1
+Cloarec-Le Nabour   Christine,Gaillot   Albane,1,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,1,1
+Cloarec-Le Nabour   Christine,Peyron   Michèle,1,1
+Cloarec-Le Nabour   Christine,Mauborgne   Sereine,1,1
+Cloarec-Le Nabour   Christine,Florennes   Isabelle,1,1
+Cloarec-Le Nabour   Christine,Obono   Danièle,0,1
+Cloarec-Le Nabour   Christine,Hennion   Christine,1,1
+Cloarec-Le Nabour   Christine,Villani   Cédric,1,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Dufeu   Audrey,1,1
+Motin   Cendra,Janvier   Caroline,1,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Hammouche   Brahim,0,1
+Motin   Cendra,Bruneel   Alain,0,1
+Motin   Cendra,Thill   Agnès,1,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,Mbaye   Jean François,1,1
+Motin   Cendra,Da Silva   Dominique,1,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Peyron   Michèle,1,1
+Motin   Cendra,Mauborgne   Sereine,1,1
+Motin   Cendra,Florennes   Isabelle,1,1
+Motin   Cendra,Obono   Danièle,0,1
+Motin   Cendra,Hennion   Christine,1,1
+Motin   Cendra,Villani   Cédric,1,1
+Borowczyk   Julien,Dufeu   Audrey,1,1
+Borowczyk   Julien,Janvier   Caroline,1,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Hammouche   Brahim,0,1
+Borowczyk   Julien,Bruneel   Alain,0,1
+Borowczyk   Julien,Thill   Agnès,1,1
+Borowczyk   Julien,Thomas   Valérie,1,1
+Borowczyk   Julien,Mbaye   Jean François,1,1
+Borowczyk   Julien,Da Silva   Dominique,1,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Mauborgne   Sereine,1,1
+Borowczyk   Julien,Florennes   Isabelle,1,1
+Borowczyk   Julien,Obono   Danièle,0,1
+Borowczyk   Julien,Hennion   Christine,1,1
+Borowczyk   Julien,Villani   Cédric,1,1
+Dufeu   Audrey,Janvier   Caroline,1,1
+Dufeu   Audrey,Fiat   Caroline,0,1
+Dufeu   Audrey,Hammouche   Brahim,0,1
+Dufeu   Audrey,Bruneel   Alain,0,1
+Dufeu   Audrey,Thill   Agnès,1,1
+Dufeu   Audrey,Thomas   Valérie,1,1
+Dufeu   Audrey,Mbaye   Jean François,1,1
+Dufeu   Audrey,Da Silva   Dominique,1,1
+Dufeu   Audrey,Gaillot   Albane,1,1
+Dufeu   Audrey,Rupin   Pacôme,1,1
+Dufeu   Audrey,Peyron   Michèle,1,1
+Dufeu   Audrey,Mauborgne   Sereine,1,1
+Dufeu   Audrey,Florennes   Isabelle,1,1
+Dufeu   Audrey,Obono   Danièle,0,1
+Dufeu   Audrey,Hennion   Christine,1,1
+Dufeu   Audrey,Villani   Cédric,1,1
+Janvier   Caroline,Fiat   Caroline,0,1
+Janvier   Caroline,Hammouche   Brahim,0,1
+Janvier   Caroline,Bruneel   Alain,0,1
+Janvier   Caroline,Thill   Agnès,1,1
+Janvier   Caroline,Thomas   Valérie,1,1
+Janvier   Caroline,Mbaye   Jean François,1,1
+Janvier   Caroline,Da Silva   Dominique,1,1
+Janvier   Caroline,Gaillot   Albane,1,1
+Janvier   Caroline,Rupin   Pacôme,1,1
+Janvier   Caroline,Peyron   Michèle,1,1
+Janvier   Caroline,Mauborgne   Sereine,1,1
+Janvier   Caroline,Florennes   Isabelle,1,1
+Janvier   Caroline,Obono   Danièle,0,1
+Janvier   Caroline,Hennion   Christine,1,1
+Janvier   Caroline,Villani   Cédric,1,1
+Fiat   Caroline,Hammouche   Brahim,1,1
+Fiat   Caroline,Bruneel   Alain,1,1
+Fiat   Caroline,Thill   Agnès,0,1
+Fiat   Caroline,Thomas   Valérie,0,1
+Fiat   Caroline,Mbaye   Jean François,0,1
+Fiat   Caroline,Da Silva   Dominique,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Rupin   Pacôme,0,1
+Fiat   Caroline,Peyron   Michèle,0,1
+Fiat   Caroline,Mauborgne   Sereine,0,1
+Fiat   Caroline,Florennes   Isabelle,0,1
+Fiat   Caroline,Obono   Danièle,1,1
+Fiat   Caroline,Hennion   Christine,0,1
+Fiat   Caroline,Villani   Cédric,0,1
+Hammouche   Brahim,Bruneel   Alain,1,1
+Hammouche   Brahim,Thill   Agnès,0,1
+Hammouche   Brahim,Thomas   Valérie,0,1
+Hammouche   Brahim,Mbaye   Jean François,0,1
+Hammouche   Brahim,Da Silva   Dominique,0,1
+Hammouche   Brahim,Gaillot   Albane,0,1
+Hammouche   Brahim,Rupin   Pacôme,0,1
+Hammouche   Brahim,Peyron   Michèle,0,1
+Hammouche   Brahim,Mauborgne   Sereine,0,1
+Hammouche   Brahim,Florennes   Isabelle,0,1
+Hammouche   Brahim,Obono   Danièle,1,1
+Hammouche   Brahim,Hennion   Christine,0,1
+Hammouche   Brahim,Villani   Cédric,0,1
+Bruneel   Alain,Thill   Agnès,0,1
+Bruneel   Alain,Thomas   Valérie,0,1
+Bruneel   Alain,Mbaye   Jean François,0,1
+Bruneel   Alain,Da Silva   Dominique,0,1
+Bruneel   Alain,Gaillot   Albane,0,1
+Bruneel   Alain,Rupin   Pacôme,0,1
+Bruneel   Alain,Peyron   Michèle,0,1
+Bruneel   Alain,Mauborgne   Sereine,0,1
+Bruneel   Alain,Florennes   Isabelle,0,1
+Bruneel   Alain,Obono   Danièle,1,1
+Bruneel   Alain,Hennion   Christine,0,1
+Bruneel   Alain,Villani   Cédric,0,1
+Thill   Agnès,Thomas   Valérie,1,1
+Thill   Agnès,Mbaye   Jean François,1,1
+Thill   Agnès,Da Silva   Dominique,1,1
+Thill   Agnès,Gaillot   Albane,1,1
+Thill   Agnès,Rupin   Pacôme,1,1
+Thill   Agnès,Peyron   Michèle,1,1
+Thill   Agnès,Mauborgne   Sereine,1,1
+Thill   Agnès,Florennes   Isabelle,1,1
+Thill   Agnès,Obono   Danièle,0,1
+Thill   Agnès,Hennion   Christine,1,1
+Thill   Agnès,Villani   Cédric,1,1
+Thomas   Valérie,Mbaye   Jean François,1,1
+Thomas   Valérie,Da Silva   Dominique,1,1
+Thomas   Valérie,Gaillot   Albane,1,1
+Thomas   Valérie,Rupin   Pacôme,1,1
+Thomas   Valérie,Peyron   Michèle,1,1
+Thomas   Valérie,Mauborgne   Sereine,1,1
+Thomas   Valérie,Florennes   Isabelle,1,1
+Thomas   Valérie,Obono   Danièle,0,1
+Thomas   Valérie,Hennion   Christine,1,1
+Thomas   Valérie,Villani   Cédric,1,1
+Mbaye   Jean François,Da Silva   Dominique,1,1
+Mbaye   Jean François,Gaillot   Albane,1,1
+Mbaye   Jean François,Rupin   Pacôme,1,1
+Mbaye   Jean François,Peyron   Michèle,1,1
+Mbaye   Jean François,Mauborgne   Sereine,1,1
+Mbaye   Jean François,Florennes   Isabelle,1,1
+Mbaye   Jean François,Obono   Danièle,0,1
+Mbaye   Jean François,Hennion   Christine,1,1
+Mbaye   Jean François,Villani   Cédric,1,1
+Da Silva   Dominique,Gaillot   Albane,1,1
+Da Silva   Dominique,Rupin   Pacôme,1,1
+Da Silva   Dominique,Peyron   Michèle,1,1
+Da Silva   Dominique,Mauborgne   Sereine,1,1
+Da Silva   Dominique,Florennes   Isabelle,1,1
+Da Silva   Dominique,Obono   Danièle,0,1
+Da Silva   Dominique,Hennion   Christine,1,1
+Da Silva   Dominique,Villani   Cédric,1,1
+Gaillot   Albane,Rupin   Pacôme,1,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,Mauborgne   Sereine,1,1
+Gaillot   Albane,Florennes   Isabelle,1,1
+Gaillot   Albane,Obono   Danièle,0,1
+Gaillot   Albane,Hennion   Christine,1,1
+Gaillot   Albane,Villani   Cédric,1,1
+Rupin   Pacôme,Peyron   Michèle,1,1
+Rupin   Pacôme,Mauborgne   Sereine,1,1
+Rupin   Pacôme,Florennes   Isabelle,1,1
+Rupin   Pacôme,Obono   Danièle,0,1
+Rupin   Pacôme,Hennion   Christine,1,1
+Rupin   Pacôme,Villani   Cédric,1,1
+Peyron   Michèle,Mauborgne   Sereine,1,1
+Peyron   Michèle,Florennes   Isabelle,1,1
+Peyron   Michèle,Obono   Danièle,0,1
+Peyron   Michèle,Hennion   Christine,1,1
+Peyron   Michèle,Villani   Cédric,1,1
+Mauborgne   Sereine,Florennes   Isabelle,1,1
+Mauborgne   Sereine,Obono   Danièle,0,1
+Mauborgne   Sereine,Hennion   Christine,1,1
+Mauborgne   Sereine,Villani   Cédric,1,1
+Florennes   Isabelle,Obono   Danièle,0,1
+Florennes   Isabelle,Hennion   Christine,1,1
+Florennes   Isabelle,Villani   Cédric,1,1
+Obono   Danièle,Hennion   Christine,0,1
+Obono   Danièle,Villani   Cédric,0,1
+Hennion   Christine,Villani   Cédric,1,1

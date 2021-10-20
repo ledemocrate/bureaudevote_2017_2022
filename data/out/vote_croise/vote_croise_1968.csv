@@ -1,0 +1,781 @@
+from,to,vote_commun,loi_commun
+Forissier   Nicolas,Reiss   Frédéric,1,1
+Forissier   Nicolas,Gosselin   Philippe,1,1
+Forissier   Nicolas,Ciotti   Éric,1,1
+Forissier   Nicolas,Le Grip   Constance,1,1
+Forissier   Nicolas,Maquet   Emmanuel,1,1
+Forissier   Nicolas,Abad   Damien,1,1
+Forissier   Nicolas,Travert   Stéphane,0,1
+Forissier   Nicolas,Hetzel   Patrick,1,1
+Forissier   Nicolas,Dive   Julien,1,1
+Forissier   Nicolas,Peyrol   Bénédicte,0,1
+Forissier   Nicolas,Robert   Mireille,0,1
+Forissier   Nicolas,Le Vigoureux   Fabrice,0,1
+Forissier   Nicolas,Marsaud   Sandra,0,1
+Forissier   Nicolas,Dubois   Jacqueline,0,1
+Forissier   Nicolas,Charvier   Fannette,0,1
+Forissier   Nicolas,Thourot   Alice,0,1
+Forissier   Nicolas,Anthoine   Emmanuelle,1,1
+Forissier   Nicolas,Cazeneuve   Jean-René,0,1
+Forissier   Nicolas,Balanant   Erwan,0,1
+Forissier   Nicolas,Ménard   Emmanuelle,1,1
+Forissier   Nicolas,Cloarec-Le Nabour   Christine,0,1
+Forissier   Nicolas,Motin   Cendra,0,1
+Forissier   Nicolas,Borowczyk   Julien,0,1
+Forissier   Nicolas,Dubré-Chirat   Nicole,0,1
+Forissier   Nicolas,Damaisin   Olivier,0,1
+Forissier   Nicolas,Lioger   Richard,0,1
+Forissier   Nicolas,Di Filippo   Fabien,1,1
+Forissier   Nicolas,Goulet   Perrine,0,1
+Forissier   Nicolas,Minot   Maxime,1,1
+Forissier   Nicolas,Thomas   Valérie,0,1
+Forissier   Nicolas,El Guerrab   M'jid,0,1
+Forissier   Nicolas,Peu   Stéphane,0,1
+Forissier   Nicolas,Kuster   Brigitte,1,1
+Forissier   Nicolas,Terlier   Jean,0,1
+Forissier   Nicolas,Rupin   Pacôme,0,1
+Forissier   Nicolas,Lemoine   Patricia,0,1
+Forissier   Nicolas,Fuchs   Bruno,0,1
+Forissier   Nicolas,Thiébaut   Vincent,0,1
+Forissier   Nicolas,Corneloup   Josiane,1,1
+Reiss   Frédéric,Gosselin   Philippe,1,1
+Reiss   Frédéric,Ciotti   Éric,1,1
+Reiss   Frédéric,Le Grip   Constance,1,1
+Reiss   Frédéric,Maquet   Emmanuel,1,1
+Reiss   Frédéric,Abad   Damien,1,1
+Reiss   Frédéric,Travert   Stéphane,0,1
+Reiss   Frédéric,Hetzel   Patrick,1,1
+Reiss   Frédéric,Dive   Julien,1,1
+Reiss   Frédéric,Peyrol   Bénédicte,0,1
+Reiss   Frédéric,Robert   Mireille,0,1
+Reiss   Frédéric,Le Vigoureux   Fabrice,0,1
+Reiss   Frédéric,Marsaud   Sandra,0,1
+Reiss   Frédéric,Dubois   Jacqueline,0,1
+Reiss   Frédéric,Charvier   Fannette,0,1
+Reiss   Frédéric,Thourot   Alice,0,1
+Reiss   Frédéric,Anthoine   Emmanuelle,1,1
+Reiss   Frédéric,Cazeneuve   Jean-René,0,1
+Reiss   Frédéric,Balanant   Erwan,0,1
+Reiss   Frédéric,Ménard   Emmanuelle,1,1
+Reiss   Frédéric,Cloarec-Le Nabour   Christine,0,1
+Reiss   Frédéric,Motin   Cendra,0,1
+Reiss   Frédéric,Borowczyk   Julien,0,1
+Reiss   Frédéric,Dubré-Chirat   Nicole,0,1
+Reiss   Frédéric,Damaisin   Olivier,0,1
+Reiss   Frédéric,Lioger   Richard,0,1
+Reiss   Frédéric,Di Filippo   Fabien,1,1
+Reiss   Frédéric,Goulet   Perrine,0,1
+Reiss   Frédéric,Minot   Maxime,1,1
+Reiss   Frédéric,Thomas   Valérie,0,1
+Reiss   Frédéric,El Guerrab   M'jid,0,1
+Reiss   Frédéric,Peu   Stéphane,0,1
+Reiss   Frédéric,Kuster   Brigitte,1,1
+Reiss   Frédéric,Terlier   Jean,0,1
+Reiss   Frédéric,Rupin   Pacôme,0,1
+Reiss   Frédéric,Lemoine   Patricia,0,1
+Reiss   Frédéric,Fuchs   Bruno,0,1
+Reiss   Frédéric,Thiébaut   Vincent,0,1
+Reiss   Frédéric,Corneloup   Josiane,1,1
+Gosselin   Philippe,Ciotti   Éric,1,1
+Gosselin   Philippe,Le Grip   Constance,1,1
+Gosselin   Philippe,Maquet   Emmanuel,1,1
+Gosselin   Philippe,Abad   Damien,1,1
+Gosselin   Philippe,Travert   Stéphane,0,1
+Gosselin   Philippe,Hetzel   Patrick,1,1
+Gosselin   Philippe,Dive   Julien,1,1
+Gosselin   Philippe,Peyrol   Bénédicte,0,1
+Gosselin   Philippe,Robert   Mireille,0,1
+Gosselin   Philippe,Le Vigoureux   Fabrice,0,1
+Gosselin   Philippe,Marsaud   Sandra,0,1
+Gosselin   Philippe,Dubois   Jacqueline,0,1
+Gosselin   Philippe,Charvier   Fannette,0,1
+Gosselin   Philippe,Thourot   Alice,0,1
+Gosselin   Philippe,Anthoine   Emmanuelle,1,1
+Gosselin   Philippe,Cazeneuve   Jean-René,0,1
+Gosselin   Philippe,Balanant   Erwan,0,1
+Gosselin   Philippe,Ménard   Emmanuelle,1,1
+Gosselin   Philippe,Cloarec-Le Nabour   Christine,0,1
+Gosselin   Philippe,Motin   Cendra,0,1
+Gosselin   Philippe,Borowczyk   Julien,0,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,0,1
+Gosselin   Philippe,Damaisin   Olivier,0,1
+Gosselin   Philippe,Lioger   Richard,0,1
+Gosselin   Philippe,Di Filippo   Fabien,1,1
+Gosselin   Philippe,Goulet   Perrine,0,1
+Gosselin   Philippe,Minot   Maxime,1,1
+Gosselin   Philippe,Thomas   Valérie,0,1
+Gosselin   Philippe,El Guerrab   M'jid,0,1
+Gosselin   Philippe,Peu   Stéphane,0,1
+Gosselin   Philippe,Kuster   Brigitte,1,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Rupin   Pacôme,0,1
+Gosselin   Philippe,Lemoine   Patricia,0,1
+Gosselin   Philippe,Fuchs   Bruno,0,1
+Gosselin   Philippe,Thiébaut   Vincent,0,1
+Gosselin   Philippe,Corneloup   Josiane,1,1
+Ciotti   Éric,Le Grip   Constance,1,1
+Ciotti   Éric,Maquet   Emmanuel,1,1
+Ciotti   Éric,Abad   Damien,1,1
+Ciotti   Éric,Travert   Stéphane,0,1
+Ciotti   Éric,Hetzel   Patrick,1,1
+Ciotti   Éric,Dive   Julien,1,1
+Ciotti   Éric,Peyrol   Bénédicte,0,1
+Ciotti   Éric,Robert   Mireille,0,1
+Ciotti   Éric,Le Vigoureux   Fabrice,0,1
+Ciotti   Éric,Marsaud   Sandra,0,1
+Ciotti   Éric,Dubois   Jacqueline,0,1
+Ciotti   Éric,Charvier   Fannette,0,1
+Ciotti   Éric,Thourot   Alice,0,1
+Ciotti   Éric,Anthoine   Emmanuelle,1,1
+Ciotti   Éric,Cazeneuve   Jean-René,0,1
+Ciotti   Éric,Balanant   Erwan,0,1
+Ciotti   Éric,Ménard   Emmanuelle,1,1
+Ciotti   Éric,Cloarec-Le Nabour   Christine,0,1
+Ciotti   Éric,Motin   Cendra,0,1
+Ciotti   Éric,Borowczyk   Julien,0,1
+Ciotti   Éric,Dubré-Chirat   Nicole,0,1
+Ciotti   Éric,Damaisin   Olivier,0,1
+Ciotti   Éric,Lioger   Richard,0,1
+Ciotti   Éric,Di Filippo   Fabien,1,1
+Ciotti   Éric,Goulet   Perrine,0,1
+Ciotti   Éric,Minot   Maxime,1,1
+Ciotti   Éric,Thomas   Valérie,0,1
+Ciotti   Éric,El Guerrab   M'jid,0,1
+Ciotti   Éric,Peu   Stéphane,0,1
+Ciotti   Éric,Kuster   Brigitte,1,1
+Ciotti   Éric,Terlier   Jean,0,1
+Ciotti   Éric,Rupin   Pacôme,0,1
+Ciotti   Éric,Lemoine   Patricia,0,1
+Ciotti   Éric,Fuchs   Bruno,0,1
+Ciotti   Éric,Thiébaut   Vincent,0,1
+Ciotti   Éric,Corneloup   Josiane,1,1
+Le Grip   Constance,Maquet   Emmanuel,1,1
+Le Grip   Constance,Abad   Damien,1,1
+Le Grip   Constance,Travert   Stéphane,0,1
+Le Grip   Constance,Hetzel   Patrick,1,1
+Le Grip   Constance,Dive   Julien,1,1
+Le Grip   Constance,Peyrol   Bénédicte,0,1
+Le Grip   Constance,Robert   Mireille,0,1
+Le Grip   Constance,Le Vigoureux   Fabrice,0,1
+Le Grip   Constance,Marsaud   Sandra,0,1
+Le Grip   Constance,Dubois   Jacqueline,0,1
+Le Grip   Constance,Charvier   Fannette,0,1
+Le Grip   Constance,Thourot   Alice,0,1
+Le Grip   Constance,Anthoine   Emmanuelle,1,1
+Le Grip   Constance,Cazeneuve   Jean-René,0,1
+Le Grip   Constance,Balanant   Erwan,0,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Cloarec-Le Nabour   Christine,0,1
+Le Grip   Constance,Motin   Cendra,0,1
+Le Grip   Constance,Borowczyk   Julien,0,1
+Le Grip   Constance,Dubré-Chirat   Nicole,0,1
+Le Grip   Constance,Damaisin   Olivier,0,1
+Le Grip   Constance,Lioger   Richard,0,1
+Le Grip   Constance,Di Filippo   Fabien,1,1
+Le Grip   Constance,Goulet   Perrine,0,1
+Le Grip   Constance,Minot   Maxime,1,1
+Le Grip   Constance,Thomas   Valérie,0,1
+Le Grip   Constance,El Guerrab   M'jid,0,1
+Le Grip   Constance,Peu   Stéphane,0,1
+Le Grip   Constance,Kuster   Brigitte,1,1
+Le Grip   Constance,Terlier   Jean,0,1
+Le Grip   Constance,Rupin   Pacôme,0,1
+Le Grip   Constance,Lemoine   Patricia,0,1
+Le Grip   Constance,Fuchs   Bruno,0,1
+Le Grip   Constance,Thiébaut   Vincent,0,1
+Le Grip   Constance,Corneloup   Josiane,1,1
+Maquet   Emmanuel,Abad   Damien,1,1
+Maquet   Emmanuel,Travert   Stéphane,0,1
+Maquet   Emmanuel,Hetzel   Patrick,1,1
+Maquet   Emmanuel,Dive   Julien,1,1
+Maquet   Emmanuel,Peyrol   Bénédicte,0,1
+Maquet   Emmanuel,Robert   Mireille,0,1
+Maquet   Emmanuel,Le Vigoureux   Fabrice,0,1
+Maquet   Emmanuel,Marsaud   Sandra,0,1
+Maquet   Emmanuel,Dubois   Jacqueline,0,1
+Maquet   Emmanuel,Charvier   Fannette,0,1
+Maquet   Emmanuel,Thourot   Alice,0,1
+Maquet   Emmanuel,Anthoine   Emmanuelle,1,1
+Maquet   Emmanuel,Cazeneuve   Jean-René,0,1
+Maquet   Emmanuel,Balanant   Erwan,0,1
+Maquet   Emmanuel,Ménard   Emmanuelle,1,1
+Maquet   Emmanuel,Cloarec-Le Nabour   Christine,0,1
+Maquet   Emmanuel,Motin   Cendra,0,1
+Maquet   Emmanuel,Borowczyk   Julien,0,1
+Maquet   Emmanuel,Dubré-Chirat   Nicole,0,1
+Maquet   Emmanuel,Damaisin   Olivier,0,1
+Maquet   Emmanuel,Lioger   Richard,0,1
+Maquet   Emmanuel,Di Filippo   Fabien,1,1
+Maquet   Emmanuel,Goulet   Perrine,0,1
+Maquet   Emmanuel,Minot   Maxime,1,1
+Maquet   Emmanuel,Thomas   Valérie,0,1
+Maquet   Emmanuel,El Guerrab   M'jid,0,1
+Maquet   Emmanuel,Peu   Stéphane,0,1
+Maquet   Emmanuel,Kuster   Brigitte,1,1
+Maquet   Emmanuel,Terlier   Jean,0,1
+Maquet   Emmanuel,Rupin   Pacôme,0,1
+Maquet   Emmanuel,Lemoine   Patricia,0,1
+Maquet   Emmanuel,Fuchs   Bruno,0,1
+Maquet   Emmanuel,Thiébaut   Vincent,0,1
+Maquet   Emmanuel,Corneloup   Josiane,1,1
+Abad   Damien,Travert   Stéphane,0,1
+Abad   Damien,Hetzel   Patrick,1,1
+Abad   Damien,Dive   Julien,1,1
+Abad   Damien,Peyrol   Bénédicte,0,1
+Abad   Damien,Robert   Mireille,0,1
+Abad   Damien,Le Vigoureux   Fabrice,0,1
+Abad   Damien,Marsaud   Sandra,0,1
+Abad   Damien,Dubois   Jacqueline,0,1
+Abad   Damien,Charvier   Fannette,0,1
+Abad   Damien,Thourot   Alice,0,1
+Abad   Damien,Anthoine   Emmanuelle,1,1
+Abad   Damien,Cazeneuve   Jean-René,0,1
+Abad   Damien,Balanant   Erwan,0,1
+Abad   Damien,Ménard   Emmanuelle,1,1
+Abad   Damien,Cloarec-Le Nabour   Christine,0,1
+Abad   Damien,Motin   Cendra,0,1
+Abad   Damien,Borowczyk   Julien,0,1
+Abad   Damien,Dubré-Chirat   Nicole,0,1
+Abad   Damien,Damaisin   Olivier,0,1
+Abad   Damien,Lioger   Richard,0,1
+Abad   Damien,Di Filippo   Fabien,1,1
+Abad   Damien,Goulet   Perrine,0,1
+Abad   Damien,Minot   Maxime,1,1
+Abad   Damien,Thomas   Valérie,0,1
+Abad   Damien,El Guerrab   M'jid,0,1
+Abad   Damien,Peu   Stéphane,0,1
+Abad   Damien,Kuster   Brigitte,1,1
+Abad   Damien,Terlier   Jean,0,1
+Abad   Damien,Rupin   Pacôme,0,1
+Abad   Damien,Lemoine   Patricia,0,1
+Abad   Damien,Fuchs   Bruno,0,1
+Abad   Damien,Thiébaut   Vincent,0,1
+Abad   Damien,Corneloup   Josiane,1,1
+Travert   Stéphane,Hetzel   Patrick,0,1
+Travert   Stéphane,Dive   Julien,0,1
+Travert   Stéphane,Peyrol   Bénédicte,1,1
+Travert   Stéphane,Robert   Mireille,1,1
+Travert   Stéphane,Le Vigoureux   Fabrice,1,1
+Travert   Stéphane,Marsaud   Sandra,1,1
+Travert   Stéphane,Dubois   Jacqueline,1,1
+Travert   Stéphane,Charvier   Fannette,1,1
+Travert   Stéphane,Thourot   Alice,1,1
+Travert   Stéphane,Anthoine   Emmanuelle,0,1
+Travert   Stéphane,Cazeneuve   Jean-René,1,1
+Travert   Stéphane,Balanant   Erwan,1,1
+Travert   Stéphane,Ménard   Emmanuelle,0,1
+Travert   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Travert   Stéphane,Motin   Cendra,1,1
+Travert   Stéphane,Borowczyk   Julien,1,1
+Travert   Stéphane,Dubré-Chirat   Nicole,1,1
+Travert   Stéphane,Damaisin   Olivier,1,1
+Travert   Stéphane,Lioger   Richard,1,1
+Travert   Stéphane,Di Filippo   Fabien,0,1
+Travert   Stéphane,Goulet   Perrine,1,1
+Travert   Stéphane,Minot   Maxime,0,1
+Travert   Stéphane,Thomas   Valérie,1,1
+Travert   Stéphane,El Guerrab   M'jid,1,1
+Travert   Stéphane,Peu   Stéphane,1,1
+Travert   Stéphane,Kuster   Brigitte,0,1
+Travert   Stéphane,Terlier   Jean,1,1
+Travert   Stéphane,Rupin   Pacôme,1,1
+Travert   Stéphane,Lemoine   Patricia,1,1
+Travert   Stéphane,Fuchs   Bruno,1,1
+Travert   Stéphane,Thiébaut   Vincent,1,1
+Travert   Stéphane,Corneloup   Josiane,0,1
+Hetzel   Patrick,Dive   Julien,1,1
+Hetzel   Patrick,Peyrol   Bénédicte,0,1
+Hetzel   Patrick,Robert   Mireille,0,1
+Hetzel   Patrick,Le Vigoureux   Fabrice,0,1
+Hetzel   Patrick,Marsaud   Sandra,0,1
+Hetzel   Patrick,Dubois   Jacqueline,0,1
+Hetzel   Patrick,Charvier   Fannette,0,1
+Hetzel   Patrick,Thourot   Alice,0,1
+Hetzel   Patrick,Anthoine   Emmanuelle,1,1
+Hetzel   Patrick,Cazeneuve   Jean-René,0,1
+Hetzel   Patrick,Balanant   Erwan,0,1
+Hetzel   Patrick,Ménard   Emmanuelle,1,1
+Hetzel   Patrick,Cloarec-Le Nabour   Christine,0,1
+Hetzel   Patrick,Motin   Cendra,0,1
+Hetzel   Patrick,Borowczyk   Julien,0,1
+Hetzel   Patrick,Dubré-Chirat   Nicole,0,1
+Hetzel   Patrick,Damaisin   Olivier,0,1
+Hetzel   Patrick,Lioger   Richard,0,1
+Hetzel   Patrick,Di Filippo   Fabien,1,1
+Hetzel   Patrick,Goulet   Perrine,0,1
+Hetzel   Patrick,Minot   Maxime,1,1
+Hetzel   Patrick,Thomas   Valérie,0,1
+Hetzel   Patrick,El Guerrab   M'jid,0,1
+Hetzel   Patrick,Peu   Stéphane,0,1
+Hetzel   Patrick,Kuster   Brigitte,1,1
+Hetzel   Patrick,Terlier   Jean,0,1
+Hetzel   Patrick,Rupin   Pacôme,0,1
+Hetzel   Patrick,Lemoine   Patricia,0,1
+Hetzel   Patrick,Fuchs   Bruno,0,1
+Hetzel   Patrick,Thiébaut   Vincent,0,1
+Hetzel   Patrick,Corneloup   Josiane,1,1
+Dive   Julien,Peyrol   Bénédicte,0,1
+Dive   Julien,Robert   Mireille,0,1
+Dive   Julien,Le Vigoureux   Fabrice,0,1
+Dive   Julien,Marsaud   Sandra,0,1
+Dive   Julien,Dubois   Jacqueline,0,1
+Dive   Julien,Charvier   Fannette,0,1
+Dive   Julien,Thourot   Alice,0,1
+Dive   Julien,Anthoine   Emmanuelle,1,1
+Dive   Julien,Cazeneuve   Jean-René,0,1
+Dive   Julien,Balanant   Erwan,0,1
+Dive   Julien,Ménard   Emmanuelle,1,1
+Dive   Julien,Cloarec-Le Nabour   Christine,0,1
+Dive   Julien,Motin   Cendra,0,1
+Dive   Julien,Borowczyk   Julien,0,1
+Dive   Julien,Dubré-Chirat   Nicole,0,1
+Dive   Julien,Damaisin   Olivier,0,1
+Dive   Julien,Lioger   Richard,0,1
+Dive   Julien,Di Filippo   Fabien,1,1
+Dive   Julien,Goulet   Perrine,0,1
+Dive   Julien,Minot   Maxime,1,1
+Dive   Julien,Thomas   Valérie,0,1
+Dive   Julien,El Guerrab   M'jid,0,1
+Dive   Julien,Peu   Stéphane,0,1
+Dive   Julien,Kuster   Brigitte,1,1
+Dive   Julien,Terlier   Jean,0,1
+Dive   Julien,Rupin   Pacôme,0,1
+Dive   Julien,Lemoine   Patricia,0,1
+Dive   Julien,Fuchs   Bruno,0,1
+Dive   Julien,Thiébaut   Vincent,0,1
+Dive   Julien,Corneloup   Josiane,1,1
+Peyrol   Bénédicte,Robert   Mireille,1,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Marsaud   Sandra,1,1
+Peyrol   Bénédicte,Dubois   Jacqueline,1,1
+Peyrol   Bénédicte,Charvier   Fannette,1,1
+Peyrol   Bénédicte,Thourot   Alice,1,1
+Peyrol   Bénédicte,Anthoine   Emmanuelle,0,1
+Peyrol   Bénédicte,Cazeneuve   Jean-René,1,1
+Peyrol   Bénédicte,Balanant   Erwan,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,Cloarec-Le Nabour   Christine,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Borowczyk   Julien,1,1
+Peyrol   Bénédicte,Dubré-Chirat   Nicole,1,1
+Peyrol   Bénédicte,Damaisin   Olivier,1,1
+Peyrol   Bénédicte,Lioger   Richard,1,1
+Peyrol   Bénédicte,Di Filippo   Fabien,0,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Minot   Maxime,0,1
+Peyrol   Bénédicte,Thomas   Valérie,1,1
+Peyrol   Bénédicte,El Guerrab   M'jid,1,1
+Peyrol   Bénédicte,Peu   Stéphane,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,0,1
+Peyrol   Bénédicte,Terlier   Jean,1,1
+Peyrol   Bénédicte,Rupin   Pacôme,1,1
+Peyrol   Bénédicte,Lemoine   Patricia,1,1
+Peyrol   Bénédicte,Fuchs   Bruno,1,1
+Peyrol   Bénédicte,Thiébaut   Vincent,1,1
+Peyrol   Bénédicte,Corneloup   Josiane,0,1
+Robert   Mireille,Le Vigoureux   Fabrice,1,1
+Robert   Mireille,Marsaud   Sandra,1,1
+Robert   Mireille,Dubois   Jacqueline,1,1
+Robert   Mireille,Charvier   Fannette,1,1
+Robert   Mireille,Thourot   Alice,1,1
+Robert   Mireille,Anthoine   Emmanuelle,0,1
+Robert   Mireille,Cazeneuve   Jean-René,1,1
+Robert   Mireille,Balanant   Erwan,1,1
+Robert   Mireille,Ménard   Emmanuelle,0,1
+Robert   Mireille,Cloarec-Le Nabour   Christine,1,1
+Robert   Mireille,Motin   Cendra,1,1
+Robert   Mireille,Borowczyk   Julien,1,1
+Robert   Mireille,Dubré-Chirat   Nicole,1,1
+Robert   Mireille,Damaisin   Olivier,1,1
+Robert   Mireille,Lioger   Richard,1,1
+Robert   Mireille,Di Filippo   Fabien,0,1
+Robert   Mireille,Goulet   Perrine,1,1
+Robert   Mireille,Minot   Maxime,0,1
+Robert   Mireille,Thomas   Valérie,1,1
+Robert   Mireille,El Guerrab   M'jid,1,1
+Robert   Mireille,Peu   Stéphane,1,1
+Robert   Mireille,Kuster   Brigitte,0,1
+Robert   Mireille,Terlier   Jean,1,1
+Robert   Mireille,Rupin   Pacôme,1,1
+Robert   Mireille,Lemoine   Patricia,1,1
+Robert   Mireille,Fuchs   Bruno,1,1
+Robert   Mireille,Thiébaut   Vincent,1,1
+Robert   Mireille,Corneloup   Josiane,0,1
+Le Vigoureux   Fabrice,Marsaud   Sandra,1,1
+Le Vigoureux   Fabrice,Dubois   Jacqueline,1,1
+Le Vigoureux   Fabrice,Charvier   Fannette,1,1
+Le Vigoureux   Fabrice,Thourot   Alice,1,1
+Le Vigoureux   Fabrice,Anthoine   Emmanuelle,0,1
+Le Vigoureux   Fabrice,Cazeneuve   Jean-René,1,1
+Le Vigoureux   Fabrice,Balanant   Erwan,1,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,0,1
+Le Vigoureux   Fabrice,Cloarec-Le Nabour   Christine,1,1
+Le Vigoureux   Fabrice,Motin   Cendra,1,1
+Le Vigoureux   Fabrice,Borowczyk   Julien,1,1
+Le Vigoureux   Fabrice,Dubré-Chirat   Nicole,1,1
+Le Vigoureux   Fabrice,Damaisin   Olivier,1,1
+Le Vigoureux   Fabrice,Lioger   Richard,1,1
+Le Vigoureux   Fabrice,Di Filippo   Fabien,0,1
+Le Vigoureux   Fabrice,Goulet   Perrine,1,1
+Le Vigoureux   Fabrice,Minot   Maxime,0,1
+Le Vigoureux   Fabrice,Thomas   Valérie,1,1
+Le Vigoureux   Fabrice,El Guerrab   M'jid,1,1
+Le Vigoureux   Fabrice,Peu   Stéphane,1,1
+Le Vigoureux   Fabrice,Kuster   Brigitte,0,1
+Le Vigoureux   Fabrice,Terlier   Jean,1,1
+Le Vigoureux   Fabrice,Rupin   Pacôme,1,1
+Le Vigoureux   Fabrice,Lemoine   Patricia,1,1
+Le Vigoureux   Fabrice,Fuchs   Bruno,1,1
+Le Vigoureux   Fabrice,Thiébaut   Vincent,1,1
+Le Vigoureux   Fabrice,Corneloup   Josiane,0,1
+Marsaud   Sandra,Dubois   Jacqueline,1,1
+Marsaud   Sandra,Charvier   Fannette,1,1
+Marsaud   Sandra,Thourot   Alice,1,1
+Marsaud   Sandra,Anthoine   Emmanuelle,0,1
+Marsaud   Sandra,Cazeneuve   Jean-René,1,1
+Marsaud   Sandra,Balanant   Erwan,1,1
+Marsaud   Sandra,Ménard   Emmanuelle,0,1
+Marsaud   Sandra,Cloarec-Le Nabour   Christine,1,1
+Marsaud   Sandra,Motin   Cendra,1,1
+Marsaud   Sandra,Borowczyk   Julien,1,1
+Marsaud   Sandra,Dubré-Chirat   Nicole,1,1
+Marsaud   Sandra,Damaisin   Olivier,1,1
+Marsaud   Sandra,Lioger   Richard,1,1
+Marsaud   Sandra,Di Filippo   Fabien,0,1
+Marsaud   Sandra,Goulet   Perrine,1,1
+Marsaud   Sandra,Minot   Maxime,0,1
+Marsaud   Sandra,Thomas   Valérie,1,1
+Marsaud   Sandra,El Guerrab   M'jid,1,1
+Marsaud   Sandra,Peu   Stéphane,1,1
+Marsaud   Sandra,Kuster   Brigitte,0,1
+Marsaud   Sandra,Terlier   Jean,1,1
+Marsaud   Sandra,Rupin   Pacôme,1,1
+Marsaud   Sandra,Lemoine   Patricia,1,1
+Marsaud   Sandra,Fuchs   Bruno,1,1
+Marsaud   Sandra,Thiébaut   Vincent,1,1
+Marsaud   Sandra,Corneloup   Josiane,0,1
+Dubois   Jacqueline,Charvier   Fannette,1,1
+Dubois   Jacqueline,Thourot   Alice,1,1
+Dubois   Jacqueline,Anthoine   Emmanuelle,0,1
+Dubois   Jacqueline,Cazeneuve   Jean-René,1,1
+Dubois   Jacqueline,Balanant   Erwan,1,1
+Dubois   Jacqueline,Ménard   Emmanuelle,0,1
+Dubois   Jacqueline,Cloarec-Le Nabour   Christine,1,1
+Dubois   Jacqueline,Motin   Cendra,1,1
+Dubois   Jacqueline,Borowczyk   Julien,1,1
+Dubois   Jacqueline,Dubré-Chirat   Nicole,1,1
+Dubois   Jacqueline,Damaisin   Olivier,1,1
+Dubois   Jacqueline,Lioger   Richard,1,1
+Dubois   Jacqueline,Di Filippo   Fabien,0,1
+Dubois   Jacqueline,Goulet   Perrine,1,1
+Dubois   Jacqueline,Minot   Maxime,0,1
+Dubois   Jacqueline,Thomas   Valérie,1,1
+Dubois   Jacqueline,El Guerrab   M'jid,1,1
+Dubois   Jacqueline,Peu   Stéphane,1,1
+Dubois   Jacqueline,Kuster   Brigitte,0,1
+Dubois   Jacqueline,Terlier   Jean,1,1
+Dubois   Jacqueline,Rupin   Pacôme,1,1
+Dubois   Jacqueline,Lemoine   Patricia,1,1
+Dubois   Jacqueline,Fuchs   Bruno,1,1
+Dubois   Jacqueline,Thiébaut   Vincent,1,1
+Dubois   Jacqueline,Corneloup   Josiane,0,1
+Charvier   Fannette,Thourot   Alice,1,1
+Charvier   Fannette,Anthoine   Emmanuelle,0,1
+Charvier   Fannette,Cazeneuve   Jean-René,1,1
+Charvier   Fannette,Balanant   Erwan,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,Cloarec-Le Nabour   Christine,1,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Dubré-Chirat   Nicole,1,1
+Charvier   Fannette,Damaisin   Olivier,1,1
+Charvier   Fannette,Lioger   Richard,1,1
+Charvier   Fannette,Di Filippo   Fabien,0,1
+Charvier   Fannette,Goulet   Perrine,1,1
+Charvier   Fannette,Minot   Maxime,0,1
+Charvier   Fannette,Thomas   Valérie,1,1
+Charvier   Fannette,El Guerrab   M'jid,1,1
+Charvier   Fannette,Peu   Stéphane,1,1
+Charvier   Fannette,Kuster   Brigitte,0,1
+Charvier   Fannette,Terlier   Jean,1,1
+Charvier   Fannette,Rupin   Pacôme,1,1
+Charvier   Fannette,Lemoine   Patricia,1,1
+Charvier   Fannette,Fuchs   Bruno,1,1
+Charvier   Fannette,Thiébaut   Vincent,1,1
+Charvier   Fannette,Corneloup   Josiane,0,1
+Thourot   Alice,Anthoine   Emmanuelle,0,1
+Thourot   Alice,Cazeneuve   Jean-René,1,1
+Thourot   Alice,Balanant   Erwan,1,1
+Thourot   Alice,Ménard   Emmanuelle,0,1
+Thourot   Alice,Cloarec-Le Nabour   Christine,1,1
+Thourot   Alice,Motin   Cendra,1,1
+Thourot   Alice,Borowczyk   Julien,1,1
+Thourot   Alice,Dubré-Chirat   Nicole,1,1
+Thourot   Alice,Damaisin   Olivier,1,1
+Thourot   Alice,Lioger   Richard,1,1
+Thourot   Alice,Di Filippo   Fabien,0,1
+Thourot   Alice,Goulet   Perrine,1,1
+Thourot   Alice,Minot   Maxime,0,1
+Thourot   Alice,Thomas   Valérie,1,1
+Thourot   Alice,El Guerrab   M'jid,1,1
+Thourot   Alice,Peu   Stéphane,1,1
+Thourot   Alice,Kuster   Brigitte,0,1
+Thourot   Alice,Terlier   Jean,1,1
+Thourot   Alice,Rupin   Pacôme,1,1
+Thourot   Alice,Lemoine   Patricia,1,1
+Thourot   Alice,Fuchs   Bruno,1,1
+Thourot   Alice,Thiébaut   Vincent,1,1
+Thourot   Alice,Corneloup   Josiane,0,1
+Anthoine   Emmanuelle,Cazeneuve   Jean-René,0,1
+Anthoine   Emmanuelle,Balanant   Erwan,0,1
+Anthoine   Emmanuelle,Ménard   Emmanuelle,1,1
+Anthoine   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Anthoine   Emmanuelle,Motin   Cendra,0,1
+Anthoine   Emmanuelle,Borowczyk   Julien,0,1
+Anthoine   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Anthoine   Emmanuelle,Damaisin   Olivier,0,1
+Anthoine   Emmanuelle,Lioger   Richard,0,1
+Anthoine   Emmanuelle,Di Filippo   Fabien,1,1
+Anthoine   Emmanuelle,Goulet   Perrine,0,1
+Anthoine   Emmanuelle,Minot   Maxime,1,1
+Anthoine   Emmanuelle,Thomas   Valérie,0,1
+Anthoine   Emmanuelle,El Guerrab   M'jid,0,1
+Anthoine   Emmanuelle,Peu   Stéphane,0,1
+Anthoine   Emmanuelle,Kuster   Brigitte,1,1
+Anthoine   Emmanuelle,Terlier   Jean,0,1
+Anthoine   Emmanuelle,Rupin   Pacôme,0,1
+Anthoine   Emmanuelle,Lemoine   Patricia,0,1
+Anthoine   Emmanuelle,Fuchs   Bruno,0,1
+Anthoine   Emmanuelle,Thiébaut   Vincent,0,1
+Anthoine   Emmanuelle,Corneloup   Josiane,1,1
+Cazeneuve   Jean-René,Balanant   Erwan,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,Cloarec-Le Nabour   Christine,1,1
+Cazeneuve   Jean-René,Motin   Cendra,1,1
+Cazeneuve   Jean-René,Borowczyk   Julien,1,1
+Cazeneuve   Jean-René,Dubré-Chirat   Nicole,1,1
+Cazeneuve   Jean-René,Damaisin   Olivier,1,1
+Cazeneuve   Jean-René,Lioger   Richard,1,1
+Cazeneuve   Jean-René,Di Filippo   Fabien,0,1
+Cazeneuve   Jean-René,Goulet   Perrine,1,1
+Cazeneuve   Jean-René,Minot   Maxime,0,1
+Cazeneuve   Jean-René,Thomas   Valérie,1,1
+Cazeneuve   Jean-René,El Guerrab   M'jid,1,1
+Cazeneuve   Jean-René,Peu   Stéphane,1,1
+Cazeneuve   Jean-René,Kuster   Brigitte,0,1
+Cazeneuve   Jean-René,Terlier   Jean,1,1
+Cazeneuve   Jean-René,Rupin   Pacôme,1,1
+Cazeneuve   Jean-René,Lemoine   Patricia,1,1
+Cazeneuve   Jean-René,Fuchs   Bruno,1,1
+Cazeneuve   Jean-René,Thiébaut   Vincent,1,1
+Cazeneuve   Jean-René,Corneloup   Josiane,0,1
+Balanant   Erwan,Ménard   Emmanuelle,0,1
+Balanant   Erwan,Cloarec-Le Nabour   Christine,1,1
+Balanant   Erwan,Motin   Cendra,1,1
+Balanant   Erwan,Borowczyk   Julien,1,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Damaisin   Olivier,1,1
+Balanant   Erwan,Lioger   Richard,1,1
+Balanant   Erwan,Di Filippo   Fabien,0,1
+Balanant   Erwan,Goulet   Perrine,1,1
+Balanant   Erwan,Minot   Maxime,0,1
+Balanant   Erwan,Thomas   Valérie,1,1
+Balanant   Erwan,El Guerrab   M'jid,1,1
+Balanant   Erwan,Peu   Stéphane,1,1
+Balanant   Erwan,Kuster   Brigitte,0,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Rupin   Pacôme,1,1
+Balanant   Erwan,Lemoine   Patricia,1,1
+Balanant   Erwan,Fuchs   Bruno,1,1
+Balanant   Erwan,Thiébaut   Vincent,1,1
+Balanant   Erwan,Corneloup   Josiane,0,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Damaisin   Olivier,0,1
+Ménard   Emmanuelle,Lioger   Richard,0,1
+Ménard   Emmanuelle,Di Filippo   Fabien,1,1
+Ménard   Emmanuelle,Goulet   Perrine,0,1
+Ménard   Emmanuelle,Minot   Maxime,1,1
+Ménard   Emmanuelle,Thomas   Valérie,0,1
+Ménard   Emmanuelle,El Guerrab   M'jid,0,1
+Ménard   Emmanuelle,Peu   Stéphane,0,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Rupin   Pacôme,0,1
+Ménard   Emmanuelle,Lemoine   Patricia,0,1
+Ménard   Emmanuelle,Fuchs   Bruno,0,1
+Ménard   Emmanuelle,Thiébaut   Vincent,0,1
+Ménard   Emmanuelle,Corneloup   Josiane,1,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Damaisin   Olivier,1,1
+Cloarec-Le Nabour   Christine,Lioger   Richard,1,1
+Cloarec-Le Nabour   Christine,Di Filippo   Fabien,0,1
+Cloarec-Le Nabour   Christine,Goulet   Perrine,1,1
+Cloarec-Le Nabour   Christine,Minot   Maxime,0,1
+Cloarec-Le Nabour   Christine,Thomas   Valérie,1,1
+Cloarec-Le Nabour   Christine,El Guerrab   M'jid,1,1
+Cloarec-Le Nabour   Christine,Peu   Stéphane,1,1
+Cloarec-Le Nabour   Christine,Kuster   Brigitte,0,1
+Cloarec-Le Nabour   Christine,Terlier   Jean,1,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,1,1
+Cloarec-Le Nabour   Christine,Lemoine   Patricia,1,1
+Cloarec-Le Nabour   Christine,Fuchs   Bruno,1,1
+Cloarec-Le Nabour   Christine,Thiébaut   Vincent,1,1
+Cloarec-Le Nabour   Christine,Corneloup   Josiane,0,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Dubré-Chirat   Nicole,1,1
+Motin   Cendra,Damaisin   Olivier,1,1
+Motin   Cendra,Lioger   Richard,1,1
+Motin   Cendra,Di Filippo   Fabien,0,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Minot   Maxime,0,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,El Guerrab   M'jid,1,1
+Motin   Cendra,Peu   Stéphane,1,1
+Motin   Cendra,Kuster   Brigitte,0,1
+Motin   Cendra,Terlier   Jean,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Lemoine   Patricia,1,1
+Motin   Cendra,Fuchs   Bruno,1,1
+Motin   Cendra,Thiébaut   Vincent,1,1
+Motin   Cendra,Corneloup   Josiane,0,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Damaisin   Olivier,1,1
+Borowczyk   Julien,Lioger   Richard,1,1
+Borowczyk   Julien,Di Filippo   Fabien,0,1
+Borowczyk   Julien,Goulet   Perrine,1,1
+Borowczyk   Julien,Minot   Maxime,0,1
+Borowczyk   Julien,Thomas   Valérie,1,1
+Borowczyk   Julien,El Guerrab   M'jid,1,1
+Borowczyk   Julien,Peu   Stéphane,1,1
+Borowczyk   Julien,Kuster   Brigitte,0,1
+Borowczyk   Julien,Terlier   Jean,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Lemoine   Patricia,1,1
+Borowczyk   Julien,Fuchs   Bruno,1,1
+Borowczyk   Julien,Thiébaut   Vincent,1,1
+Borowczyk   Julien,Corneloup   Josiane,0,1
+Dubré-Chirat   Nicole,Damaisin   Olivier,1,1
+Dubré-Chirat   Nicole,Lioger   Richard,1,1
+Dubré-Chirat   Nicole,Di Filippo   Fabien,0,1
+Dubré-Chirat   Nicole,Goulet   Perrine,1,1
+Dubré-Chirat   Nicole,Minot   Maxime,0,1
+Dubré-Chirat   Nicole,Thomas   Valérie,1,1
+Dubré-Chirat   Nicole,El Guerrab   M'jid,1,1
+Dubré-Chirat   Nicole,Peu   Stéphane,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,0,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Rupin   Pacôme,1,1
+Dubré-Chirat   Nicole,Lemoine   Patricia,1,1
+Dubré-Chirat   Nicole,Fuchs   Bruno,1,1
+Dubré-Chirat   Nicole,Thiébaut   Vincent,1,1
+Dubré-Chirat   Nicole,Corneloup   Josiane,0,1
+Damaisin   Olivier,Lioger   Richard,1,1
+Damaisin   Olivier,Di Filippo   Fabien,0,1
+Damaisin   Olivier,Goulet   Perrine,1,1
+Damaisin   Olivier,Minot   Maxime,0,1
+Damaisin   Olivier,Thomas   Valérie,1,1
+Damaisin   Olivier,El Guerrab   M'jid,1,1
+Damaisin   Olivier,Peu   Stéphane,1,1
+Damaisin   Olivier,Kuster   Brigitte,0,1
+Damaisin   Olivier,Terlier   Jean,1,1
+Damaisin   Olivier,Rupin   Pacôme,1,1
+Damaisin   Olivier,Lemoine   Patricia,1,1
+Damaisin   Olivier,Fuchs   Bruno,1,1
+Damaisin   Olivier,Thiébaut   Vincent,1,1
+Damaisin   Olivier,Corneloup   Josiane,0,1
+Lioger   Richard,Di Filippo   Fabien,0,1
+Lioger   Richard,Goulet   Perrine,1,1
+Lioger   Richard,Minot   Maxime,0,1
+Lioger   Richard,Thomas   Valérie,1,1
+Lioger   Richard,El Guerrab   M'jid,1,1
+Lioger   Richard,Peu   Stéphane,1,1
+Lioger   Richard,Kuster   Brigitte,0,1
+Lioger   Richard,Terlier   Jean,1,1
+Lioger   Richard,Rupin   Pacôme,1,1
+Lioger   Richard,Lemoine   Patricia,1,1
+Lioger   Richard,Fuchs   Bruno,1,1
+Lioger   Richard,Thiébaut   Vincent,1,1
+Lioger   Richard,Corneloup   Josiane,0,1
+Di Filippo   Fabien,Goulet   Perrine,0,1
+Di Filippo   Fabien,Minot   Maxime,1,1
+Di Filippo   Fabien,Thomas   Valérie,0,1
+Di Filippo   Fabien,El Guerrab   M'jid,0,1
+Di Filippo   Fabien,Peu   Stéphane,0,1
+Di Filippo   Fabien,Kuster   Brigitte,1,1
+Di Filippo   Fabien,Terlier   Jean,0,1
+Di Filippo   Fabien,Rupin   Pacôme,0,1
+Di Filippo   Fabien,Lemoine   Patricia,0,1
+Di Filippo   Fabien,Fuchs   Bruno,0,1
+Di Filippo   Fabien,Thiébaut   Vincent,0,1
+Di Filippo   Fabien,Corneloup   Josiane,1,1
+Goulet   Perrine,Minot   Maxime,0,1
+Goulet   Perrine,Thomas   Valérie,1,1
+Goulet   Perrine,El Guerrab   M'jid,1,1
+Goulet   Perrine,Peu   Stéphane,1,1
+Goulet   Perrine,Kuster   Brigitte,0,1
+Goulet   Perrine,Terlier   Jean,1,1
+Goulet   Perrine,Rupin   Pacôme,1,1
+Goulet   Perrine,Lemoine   Patricia,1,1
+Goulet   Perrine,Fuchs   Bruno,1,1
+Goulet   Perrine,Thiébaut   Vincent,1,1
+Goulet   Perrine,Corneloup   Josiane,0,1
+Minot   Maxime,Thomas   Valérie,0,1
+Minot   Maxime,El Guerrab   M'jid,0,1
+Minot   Maxime,Peu   Stéphane,0,1
+Minot   Maxime,Kuster   Brigitte,1,1
+Minot   Maxime,Terlier   Jean,0,1
+Minot   Maxime,Rupin   Pacôme,0,1
+Minot   Maxime,Lemoine   Patricia,0,1
+Minot   Maxime,Fuchs   Bruno,0,1
+Minot   Maxime,Thiébaut   Vincent,0,1
+Minot   Maxime,Corneloup   Josiane,1,1
+Thomas   Valérie,El Guerrab   M'jid,1,1
+Thomas   Valérie,Peu   Stéphane,1,1
+Thomas   Valérie,Kuster   Brigitte,0,1
+Thomas   Valérie,Terlier   Jean,1,1
+Thomas   Valérie,Rupin   Pacôme,1,1
+Thomas   Valérie,Lemoine   Patricia,1,1
+Thomas   Valérie,Fuchs   Bruno,1,1
+Thomas   Valérie,Thiébaut   Vincent,1,1
+Thomas   Valérie,Corneloup   Josiane,0,1
+El Guerrab   M'jid,Peu   Stéphane,1,1
+El Guerrab   M'jid,Kuster   Brigitte,0,1
+El Guerrab   M'jid,Terlier   Jean,1,1
+El Guerrab   M'jid,Rupin   Pacôme,1,1
+El Guerrab   M'jid,Lemoine   Patricia,1,1
+El Guerrab   M'jid,Fuchs   Bruno,1,1
+El Guerrab   M'jid,Thiébaut   Vincent,1,1
+El Guerrab   M'jid,Corneloup   Josiane,0,1
+Peu   Stéphane,Kuster   Brigitte,0,1
+Peu   Stéphane,Terlier   Jean,1,1
+Peu   Stéphane,Rupin   Pacôme,1,1
+Peu   Stéphane,Lemoine   Patricia,1,1
+Peu   Stéphane,Fuchs   Bruno,1,1
+Peu   Stéphane,Thiébaut   Vincent,1,1
+Peu   Stéphane,Corneloup   Josiane,0,1
+Kuster   Brigitte,Terlier   Jean,0,1
+Kuster   Brigitte,Rupin   Pacôme,0,1
+Kuster   Brigitte,Lemoine   Patricia,0,1
+Kuster   Brigitte,Fuchs   Bruno,0,1
+Kuster   Brigitte,Thiébaut   Vincent,0,1
+Kuster   Brigitte,Corneloup   Josiane,1,1
+Terlier   Jean,Rupin   Pacôme,1,1
+Terlier   Jean,Lemoine   Patricia,1,1
+Terlier   Jean,Fuchs   Bruno,1,1
+Terlier   Jean,Thiébaut   Vincent,1,1
+Terlier   Jean,Corneloup   Josiane,0,1
+Rupin   Pacôme,Lemoine   Patricia,1,1
+Rupin   Pacôme,Fuchs   Bruno,1,1
+Rupin   Pacôme,Thiébaut   Vincent,1,1
+Rupin   Pacôme,Corneloup   Josiane,0,1
+Lemoine   Patricia,Fuchs   Bruno,1,1
+Lemoine   Patricia,Thiébaut   Vincent,1,1
+Lemoine   Patricia,Corneloup   Josiane,0,1
+Fuchs   Bruno,Thiébaut   Vincent,1,1
+Fuchs   Bruno,Corneloup   Josiane,0,1
+Thiébaut   Vincent,Corneloup   Josiane,0,1

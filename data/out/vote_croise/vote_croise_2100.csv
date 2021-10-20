@@ -1,0 +1,904 @@
+from,to,vote_commun,loi_commun
+Gosselin   Philippe,Favennec-Bécot   Yannick,0,1
+Gosselin   Philippe,Firmin Le Bodo   Agnès,1,1
+Gosselin   Philippe,Breton   Xavier,1,1
+Gosselin   Philippe,Brindeau   Pascal,1,1
+Gosselin   Philippe,Hetzel   Patrick,1,1
+Gosselin   Philippe,Bazin   Thibault,1,1
+Gosselin   Philippe,Maillard   Sylvain,1,1
+Gosselin   Philippe,Vanceunebrock   Laurence,0,1
+Gosselin   Philippe,Dharréville   Pierre,1,1
+Gosselin   Philippe,Gérard   Raphaël,0,1
+Gosselin   Philippe,Charvier   Fannette,1,1
+Gosselin   Philippe,Tamarelle-Verhaeghe   Marie,1,1
+Gosselin   Philippe,Ménard   Emmanuelle,1,1
+Gosselin   Philippe,Cloarec-Le Nabour   Christine,0,1
+Gosselin   Philippe,Motin   Cendra,1,1
+Gosselin   Philippe,Limon   Monique,1,1
+Gosselin   Philippe,Dufeu   Audrey,1,1
+Gosselin   Philippe,Brunet   Anne-France,0,1
+Gosselin   Philippe,Bannier   Géraldine,1,1
+Gosselin   Philippe,Minot   Maxime,1,1
+Gosselin   Philippe,Poueyto   Josy,1,1
+Gosselin   Philippe,Lachaud   Bastien,1,1
+Gosselin   Philippe,Mbaye   Jean François,1,1
+Gosselin   Philippe,Moutchou   Naïma,0,1
+Gosselin   Philippe,Manin   Josette,0,1
+Gosselin   Philippe,Ramadier   Alain,1,1
+Gosselin   Philippe,Le Gendre   Gilles,1,1
+Gosselin   Philippe,Rossi   Laurianne,1,1
+Gosselin   Philippe,Rupin   Pacôme,1,1
+Gosselin   Philippe,Mauborgne   Sereine,1,1
+Gosselin   Philippe,Guévenoux   Marie,1,1
+Gosselin   Philippe,Faucillon   Elsa,1,1
+Gosselin   Philippe,de Vaucouleurs   Michèle,0,1
+Gosselin   Philippe,Buchou   Stéphane,1,1
+Gosselin   Philippe,Bergé   Aurore,1,1
+Gosselin   Philippe,Pételle   Bénédicte,1,1
+Gosselin   Philippe,Hennion   Christine,1,1
+Gosselin   Philippe,Chiche   Guillaume,0,1
+Gosselin   Philippe,Provendier   Florence,1,1
+Gosselin   Philippe,Wonner   Martine,1,1
+Gosselin   Philippe,Fuchs   Bruno,0,1
+Gosselin   Philippe,Chouat   Francis,1,1
+Favennec-Bécot   Yannick,Firmin Le Bodo   Agnès,0,1
+Favennec-Bécot   Yannick,Breton   Xavier,0,1
+Favennec-Bécot   Yannick,Brindeau   Pascal,0,1
+Favennec-Bécot   Yannick,Hetzel   Patrick,0,1
+Favennec-Bécot   Yannick,Bazin   Thibault,0,1
+Favennec-Bécot   Yannick,Maillard   Sylvain,0,1
+Favennec-Bécot   Yannick,Vanceunebrock   Laurence,0,1
+Favennec-Bécot   Yannick,Dharréville   Pierre,0,1
+Favennec-Bécot   Yannick,Gérard   Raphaël,0,1
+Favennec-Bécot   Yannick,Charvier   Fannette,0,1
+Favennec-Bécot   Yannick,Tamarelle-Verhaeghe   Marie,0,1
+Favennec-Bécot   Yannick,Ménard   Emmanuelle,0,1
+Favennec-Bécot   Yannick,Cloarec-Le Nabour   Christine,0,1
+Favennec-Bécot   Yannick,Motin   Cendra,0,1
+Favennec-Bécot   Yannick,Limon   Monique,0,1
+Favennec-Bécot   Yannick,Dufeu   Audrey,0,1
+Favennec-Bécot   Yannick,Brunet   Anne-France,0,1
+Favennec-Bécot   Yannick,Bannier   Géraldine,0,1
+Favennec-Bécot   Yannick,Minot   Maxime,0,1
+Favennec-Bécot   Yannick,Poueyto   Josy,0,1
+Favennec-Bécot   Yannick,Lachaud   Bastien,0,1
+Favennec-Bécot   Yannick,Mbaye   Jean François,0,1
+Favennec-Bécot   Yannick,Moutchou   Naïma,1,1
+Favennec-Bécot   Yannick,Manin   Josette,1,1
+Favennec-Bécot   Yannick,Ramadier   Alain,0,1
+Favennec-Bécot   Yannick,Le Gendre   Gilles,0,1
+Favennec-Bécot   Yannick,Rossi   Laurianne,0,1
+Favennec-Bécot   Yannick,Rupin   Pacôme,0,1
+Favennec-Bécot   Yannick,Mauborgne   Sereine,0,1
+Favennec-Bécot   Yannick,Guévenoux   Marie,0,1
+Favennec-Bécot   Yannick,Faucillon   Elsa,0,1
+Favennec-Bécot   Yannick,de Vaucouleurs   Michèle,1,1
+Favennec-Bécot   Yannick,Buchou   Stéphane,0,1
+Favennec-Bécot   Yannick,Bergé   Aurore,0,1
+Favennec-Bécot   Yannick,Pételle   Bénédicte,0,1
+Favennec-Bécot   Yannick,Hennion   Christine,0,1
+Favennec-Bécot   Yannick,Chiche   Guillaume,1,1
+Favennec-Bécot   Yannick,Provendier   Florence,0,1
+Favennec-Bécot   Yannick,Wonner   Martine,0,1
+Favennec-Bécot   Yannick,Fuchs   Bruno,0,1
+Favennec-Bécot   Yannick,Chouat   Francis,0,1
+Firmin Le Bodo   Agnès,Breton   Xavier,1,1
+Firmin Le Bodo   Agnès,Brindeau   Pascal,1,1
+Firmin Le Bodo   Agnès,Hetzel   Patrick,1,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,1,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,1,1
+Firmin Le Bodo   Agnès,Vanceunebrock   Laurence,0,1
+Firmin Le Bodo   Agnès,Dharréville   Pierre,1,1
+Firmin Le Bodo   Agnès,Gérard   Raphaël,0,1
+Firmin Le Bodo   Agnès,Charvier   Fannette,1,1
+Firmin Le Bodo   Agnès,Tamarelle-Verhaeghe   Marie,1,1
+Firmin Le Bodo   Agnès,Ménard   Emmanuelle,1,1
+Firmin Le Bodo   Agnès,Cloarec-Le Nabour   Christine,0,1
+Firmin Le Bodo   Agnès,Motin   Cendra,1,1
+Firmin Le Bodo   Agnès,Limon   Monique,1,1
+Firmin Le Bodo   Agnès,Dufeu   Audrey,1,1
+Firmin Le Bodo   Agnès,Brunet   Anne-France,0,1
+Firmin Le Bodo   Agnès,Bannier   Géraldine,1,1
+Firmin Le Bodo   Agnès,Minot   Maxime,1,1
+Firmin Le Bodo   Agnès,Poueyto   Josy,1,1
+Firmin Le Bodo   Agnès,Lachaud   Bastien,1,1
+Firmin Le Bodo   Agnès,Mbaye   Jean François,1,1
+Firmin Le Bodo   Agnès,Moutchou   Naïma,0,1
+Firmin Le Bodo   Agnès,Manin   Josette,0,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,1,1
+Firmin Le Bodo   Agnès,Le Gendre   Gilles,1,1
+Firmin Le Bodo   Agnès,Rossi   Laurianne,1,1
+Firmin Le Bodo   Agnès,Rupin   Pacôme,1,1
+Firmin Le Bodo   Agnès,Mauborgne   Sereine,1,1
+Firmin Le Bodo   Agnès,Guévenoux   Marie,1,1
+Firmin Le Bodo   Agnès,Faucillon   Elsa,1,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,0,1
+Firmin Le Bodo   Agnès,Buchou   Stéphane,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Pételle   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Hennion   Christine,1,1
+Firmin Le Bodo   Agnès,Chiche   Guillaume,0,1
+Firmin Le Bodo   Agnès,Provendier   Florence,1,1
+Firmin Le Bodo   Agnès,Wonner   Martine,1,1
+Firmin Le Bodo   Agnès,Fuchs   Bruno,0,1
+Firmin Le Bodo   Agnès,Chouat   Francis,1,1
+Breton   Xavier,Brindeau   Pascal,1,1
+Breton   Xavier,Hetzel   Patrick,1,1
+Breton   Xavier,Bazin   Thibault,1,1
+Breton   Xavier,Maillard   Sylvain,1,1
+Breton   Xavier,Vanceunebrock   Laurence,0,1
+Breton   Xavier,Dharréville   Pierre,1,1
+Breton   Xavier,Gérard   Raphaël,0,1
+Breton   Xavier,Charvier   Fannette,1,1
+Breton   Xavier,Tamarelle-Verhaeghe   Marie,1,1
+Breton   Xavier,Ménard   Emmanuelle,1,1
+Breton   Xavier,Cloarec-Le Nabour   Christine,0,1
+Breton   Xavier,Motin   Cendra,1,1
+Breton   Xavier,Limon   Monique,1,1
+Breton   Xavier,Dufeu   Audrey,1,1
+Breton   Xavier,Brunet   Anne-France,0,1
+Breton   Xavier,Bannier   Géraldine,1,1
+Breton   Xavier,Minot   Maxime,1,1
+Breton   Xavier,Poueyto   Josy,1,1
+Breton   Xavier,Lachaud   Bastien,1,1
+Breton   Xavier,Mbaye   Jean François,1,1
+Breton   Xavier,Moutchou   Naïma,0,1
+Breton   Xavier,Manin   Josette,0,1
+Breton   Xavier,Ramadier   Alain,1,1
+Breton   Xavier,Le Gendre   Gilles,1,1
+Breton   Xavier,Rossi   Laurianne,1,1
+Breton   Xavier,Rupin   Pacôme,1,1
+Breton   Xavier,Mauborgne   Sereine,1,1
+Breton   Xavier,Guévenoux   Marie,1,1
+Breton   Xavier,Faucillon   Elsa,1,1
+Breton   Xavier,de Vaucouleurs   Michèle,0,1
+Breton   Xavier,Buchou   Stéphane,1,1
+Breton   Xavier,Bergé   Aurore,1,1
+Breton   Xavier,Pételle   Bénédicte,1,1
+Breton   Xavier,Hennion   Christine,1,1
+Breton   Xavier,Chiche   Guillaume,0,1
+Breton   Xavier,Provendier   Florence,1,1
+Breton   Xavier,Wonner   Martine,1,1
+Breton   Xavier,Fuchs   Bruno,0,1
+Breton   Xavier,Chouat   Francis,1,1
+Brindeau   Pascal,Hetzel   Patrick,1,1
+Brindeau   Pascal,Bazin   Thibault,1,1
+Brindeau   Pascal,Maillard   Sylvain,1,1
+Brindeau   Pascal,Vanceunebrock   Laurence,0,1
+Brindeau   Pascal,Dharréville   Pierre,1,1
+Brindeau   Pascal,Gérard   Raphaël,0,1
+Brindeau   Pascal,Charvier   Fannette,1,1
+Brindeau   Pascal,Tamarelle-Verhaeghe   Marie,1,1
+Brindeau   Pascal,Ménard   Emmanuelle,1,1
+Brindeau   Pascal,Cloarec-Le Nabour   Christine,0,1
+Brindeau   Pascal,Motin   Cendra,1,1
+Brindeau   Pascal,Limon   Monique,1,1
+Brindeau   Pascal,Dufeu   Audrey,1,1
+Brindeau   Pascal,Brunet   Anne-France,0,1
+Brindeau   Pascal,Bannier   Géraldine,1,1
+Brindeau   Pascal,Minot   Maxime,1,1
+Brindeau   Pascal,Poueyto   Josy,1,1
+Brindeau   Pascal,Lachaud   Bastien,1,1
+Brindeau   Pascal,Mbaye   Jean François,1,1
+Brindeau   Pascal,Moutchou   Naïma,0,1
+Brindeau   Pascal,Manin   Josette,0,1
+Brindeau   Pascal,Ramadier   Alain,1,1
+Brindeau   Pascal,Le Gendre   Gilles,1,1
+Brindeau   Pascal,Rossi   Laurianne,1,1
+Brindeau   Pascal,Rupin   Pacôme,1,1
+Brindeau   Pascal,Mauborgne   Sereine,1,1
+Brindeau   Pascal,Guévenoux   Marie,1,1
+Brindeau   Pascal,Faucillon   Elsa,1,1
+Brindeau   Pascal,de Vaucouleurs   Michèle,0,1
+Brindeau   Pascal,Buchou   Stéphane,1,1
+Brindeau   Pascal,Bergé   Aurore,1,1
+Brindeau   Pascal,Pételle   Bénédicte,1,1
+Brindeau   Pascal,Hennion   Christine,1,1
+Brindeau   Pascal,Chiche   Guillaume,0,1
+Brindeau   Pascal,Provendier   Florence,1,1
+Brindeau   Pascal,Wonner   Martine,1,1
+Brindeau   Pascal,Fuchs   Bruno,0,1
+Brindeau   Pascal,Chouat   Francis,1,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Maillard   Sylvain,1,1
+Hetzel   Patrick,Vanceunebrock   Laurence,0,1
+Hetzel   Patrick,Dharréville   Pierre,1,1
+Hetzel   Patrick,Gérard   Raphaël,0,1
+Hetzel   Patrick,Charvier   Fannette,1,1
+Hetzel   Patrick,Tamarelle-Verhaeghe   Marie,1,1
+Hetzel   Patrick,Ménard   Emmanuelle,1,1
+Hetzel   Patrick,Cloarec-Le Nabour   Christine,0,1
+Hetzel   Patrick,Motin   Cendra,1,1
+Hetzel   Patrick,Limon   Monique,1,1
+Hetzel   Patrick,Dufeu   Audrey,1,1
+Hetzel   Patrick,Brunet   Anne-France,0,1
+Hetzel   Patrick,Bannier   Géraldine,1,1
+Hetzel   Patrick,Minot   Maxime,1,1
+Hetzel   Patrick,Poueyto   Josy,1,1
+Hetzel   Patrick,Lachaud   Bastien,1,1
+Hetzel   Patrick,Mbaye   Jean François,1,1
+Hetzel   Patrick,Moutchou   Naïma,0,1
+Hetzel   Patrick,Manin   Josette,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Le Gendre   Gilles,1,1
+Hetzel   Patrick,Rossi   Laurianne,1,1
+Hetzel   Patrick,Rupin   Pacôme,1,1
+Hetzel   Patrick,Mauborgne   Sereine,1,1
+Hetzel   Patrick,Guévenoux   Marie,1,1
+Hetzel   Patrick,Faucillon   Elsa,1,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,0,1
+Hetzel   Patrick,Buchou   Stéphane,1,1
+Hetzel   Patrick,Bergé   Aurore,1,1
+Hetzel   Patrick,Pételle   Bénédicte,1,1
+Hetzel   Patrick,Hennion   Christine,1,1
+Hetzel   Patrick,Chiche   Guillaume,0,1
+Hetzel   Patrick,Provendier   Florence,1,1
+Hetzel   Patrick,Wonner   Martine,1,1
+Hetzel   Patrick,Fuchs   Bruno,0,1
+Hetzel   Patrick,Chouat   Francis,1,1
+Bazin   Thibault,Maillard   Sylvain,1,1
+Bazin   Thibault,Vanceunebrock   Laurence,0,1
+Bazin   Thibault,Dharréville   Pierre,1,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Charvier   Fannette,1,1
+Bazin   Thibault,Tamarelle-Verhaeghe   Marie,1,1
+Bazin   Thibault,Ménard   Emmanuelle,1,1
+Bazin   Thibault,Cloarec-Le Nabour   Christine,0,1
+Bazin   Thibault,Motin   Cendra,1,1
+Bazin   Thibault,Limon   Monique,1,1
+Bazin   Thibault,Dufeu   Audrey,1,1
+Bazin   Thibault,Brunet   Anne-France,0,1
+Bazin   Thibault,Bannier   Géraldine,1,1
+Bazin   Thibault,Minot   Maxime,1,1
+Bazin   Thibault,Poueyto   Josy,1,1
+Bazin   Thibault,Lachaud   Bastien,1,1
+Bazin   Thibault,Mbaye   Jean François,1,1
+Bazin   Thibault,Moutchou   Naïma,0,1
+Bazin   Thibault,Manin   Josette,0,1
+Bazin   Thibault,Ramadier   Alain,1,1
+Bazin   Thibault,Le Gendre   Gilles,1,1
+Bazin   Thibault,Rossi   Laurianne,1,1
+Bazin   Thibault,Rupin   Pacôme,1,1
+Bazin   Thibault,Mauborgne   Sereine,1,1
+Bazin   Thibault,Guévenoux   Marie,1,1
+Bazin   Thibault,Faucillon   Elsa,1,1
+Bazin   Thibault,de Vaucouleurs   Michèle,0,1
+Bazin   Thibault,Buchou   Stéphane,1,1
+Bazin   Thibault,Bergé   Aurore,1,1
+Bazin   Thibault,Pételle   Bénédicte,1,1
+Bazin   Thibault,Hennion   Christine,1,1
+Bazin   Thibault,Chiche   Guillaume,0,1
+Bazin   Thibault,Provendier   Florence,1,1
+Bazin   Thibault,Wonner   Martine,1,1
+Bazin   Thibault,Fuchs   Bruno,0,1
+Bazin   Thibault,Chouat   Francis,1,1
+Maillard   Sylvain,Vanceunebrock   Laurence,0,1
+Maillard   Sylvain,Dharréville   Pierre,1,1
+Maillard   Sylvain,Gérard   Raphaël,0,1
+Maillard   Sylvain,Charvier   Fannette,1,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,1,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,0,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Dufeu   Audrey,1,1
+Maillard   Sylvain,Brunet   Anne-France,0,1
+Maillard   Sylvain,Bannier   Géraldine,1,1
+Maillard   Sylvain,Minot   Maxime,1,1
+Maillard   Sylvain,Poueyto   Josy,1,1
+Maillard   Sylvain,Lachaud   Bastien,1,1
+Maillard   Sylvain,Mbaye   Jean François,1,1
+Maillard   Sylvain,Moutchou   Naïma,0,1
+Maillard   Sylvain,Manin   Josette,0,1
+Maillard   Sylvain,Ramadier   Alain,1,1
+Maillard   Sylvain,Le Gendre   Gilles,1,1
+Maillard   Sylvain,Rossi   Laurianne,1,1
+Maillard   Sylvain,Rupin   Pacôme,1,1
+Maillard   Sylvain,Mauborgne   Sereine,1,1
+Maillard   Sylvain,Guévenoux   Marie,1,1
+Maillard   Sylvain,Faucillon   Elsa,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,0,1
+Maillard   Sylvain,Buchou   Stéphane,1,1
+Maillard   Sylvain,Bergé   Aurore,1,1
+Maillard   Sylvain,Pételle   Bénédicte,1,1
+Maillard   Sylvain,Hennion   Christine,1,1
+Maillard   Sylvain,Chiche   Guillaume,0,1
+Maillard   Sylvain,Provendier   Florence,1,1
+Maillard   Sylvain,Wonner   Martine,1,1
+Maillard   Sylvain,Fuchs   Bruno,0,1
+Maillard   Sylvain,Chouat   Francis,1,1
+Vanceunebrock   Laurence,Dharréville   Pierre,0,1
+Vanceunebrock   Laurence,Gérard   Raphaël,1,1
+Vanceunebrock   Laurence,Charvier   Fannette,0,1
+Vanceunebrock   Laurence,Tamarelle-Verhaeghe   Marie,0,1
+Vanceunebrock   Laurence,Ménard   Emmanuelle,0,1
+Vanceunebrock   Laurence,Cloarec-Le Nabour   Christine,1,1
+Vanceunebrock   Laurence,Motin   Cendra,0,1
+Vanceunebrock   Laurence,Limon   Monique,0,1
+Vanceunebrock   Laurence,Dufeu   Audrey,0,1
+Vanceunebrock   Laurence,Brunet   Anne-France,1,1
+Vanceunebrock   Laurence,Bannier   Géraldine,0,1
+Vanceunebrock   Laurence,Minot   Maxime,0,1
+Vanceunebrock   Laurence,Poueyto   Josy,0,1
+Vanceunebrock   Laurence,Lachaud   Bastien,0,1
+Vanceunebrock   Laurence,Mbaye   Jean François,0,1
+Vanceunebrock   Laurence,Moutchou   Naïma,0,1
+Vanceunebrock   Laurence,Manin   Josette,0,1
+Vanceunebrock   Laurence,Ramadier   Alain,0,1
+Vanceunebrock   Laurence,Le Gendre   Gilles,0,1
+Vanceunebrock   Laurence,Rossi   Laurianne,0,1
+Vanceunebrock   Laurence,Rupin   Pacôme,0,1
+Vanceunebrock   Laurence,Mauborgne   Sereine,0,1
+Vanceunebrock   Laurence,Guévenoux   Marie,0,1
+Vanceunebrock   Laurence,Faucillon   Elsa,0,1
+Vanceunebrock   Laurence,de Vaucouleurs   Michèle,0,1
+Vanceunebrock   Laurence,Buchou   Stéphane,0,1
+Vanceunebrock   Laurence,Bergé   Aurore,0,1
+Vanceunebrock   Laurence,Pételle   Bénédicte,0,1
+Vanceunebrock   Laurence,Hennion   Christine,0,1
+Vanceunebrock   Laurence,Chiche   Guillaume,0,1
+Vanceunebrock   Laurence,Provendier   Florence,0,1
+Vanceunebrock   Laurence,Wonner   Martine,0,1
+Vanceunebrock   Laurence,Fuchs   Bruno,1,1
+Vanceunebrock   Laurence,Chouat   Francis,0,1
+Dharréville   Pierre,Gérard   Raphaël,0,1
+Dharréville   Pierre,Charvier   Fannette,1,1
+Dharréville   Pierre,Tamarelle-Verhaeghe   Marie,1,1
+Dharréville   Pierre,Ménard   Emmanuelle,1,1
+Dharréville   Pierre,Cloarec-Le Nabour   Christine,0,1
+Dharréville   Pierre,Motin   Cendra,1,1
+Dharréville   Pierre,Limon   Monique,1,1
+Dharréville   Pierre,Dufeu   Audrey,1,1
+Dharréville   Pierre,Brunet   Anne-France,0,1
+Dharréville   Pierre,Bannier   Géraldine,1,1
+Dharréville   Pierre,Minot   Maxime,1,1
+Dharréville   Pierre,Poueyto   Josy,1,1
+Dharréville   Pierre,Lachaud   Bastien,1,1
+Dharréville   Pierre,Mbaye   Jean François,1,1
+Dharréville   Pierre,Moutchou   Naïma,0,1
+Dharréville   Pierre,Manin   Josette,0,1
+Dharréville   Pierre,Ramadier   Alain,1,1
+Dharréville   Pierre,Le Gendre   Gilles,1,1
+Dharréville   Pierre,Rossi   Laurianne,1,1
+Dharréville   Pierre,Rupin   Pacôme,1,1
+Dharréville   Pierre,Mauborgne   Sereine,1,1
+Dharréville   Pierre,Guévenoux   Marie,1,1
+Dharréville   Pierre,Faucillon   Elsa,1,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,0,1
+Dharréville   Pierre,Buchou   Stéphane,1,1
+Dharréville   Pierre,Bergé   Aurore,1,1
+Dharréville   Pierre,Pételle   Bénédicte,1,1
+Dharréville   Pierre,Hennion   Christine,1,1
+Dharréville   Pierre,Chiche   Guillaume,0,1
+Dharréville   Pierre,Provendier   Florence,1,1
+Dharréville   Pierre,Wonner   Martine,1,1
+Dharréville   Pierre,Fuchs   Bruno,0,1
+Dharréville   Pierre,Chouat   Francis,1,1
+Gérard   Raphaël,Charvier   Fannette,0,1
+Gérard   Raphaël,Tamarelle-Verhaeghe   Marie,0,1
+Gérard   Raphaël,Ménard   Emmanuelle,0,1
+Gérard   Raphaël,Cloarec-Le Nabour   Christine,1,1
+Gérard   Raphaël,Motin   Cendra,0,1
+Gérard   Raphaël,Limon   Monique,0,1
+Gérard   Raphaël,Dufeu   Audrey,0,1
+Gérard   Raphaël,Brunet   Anne-France,1,1
+Gérard   Raphaël,Bannier   Géraldine,0,1
+Gérard   Raphaël,Minot   Maxime,0,1
+Gérard   Raphaël,Poueyto   Josy,0,1
+Gérard   Raphaël,Lachaud   Bastien,0,1
+Gérard   Raphaël,Mbaye   Jean François,0,1
+Gérard   Raphaël,Moutchou   Naïma,0,1
+Gérard   Raphaël,Manin   Josette,0,1
+Gérard   Raphaël,Ramadier   Alain,0,1
+Gérard   Raphaël,Le Gendre   Gilles,0,1
+Gérard   Raphaël,Rossi   Laurianne,0,1
+Gérard   Raphaël,Rupin   Pacôme,0,1
+Gérard   Raphaël,Mauborgne   Sereine,0,1
+Gérard   Raphaël,Guévenoux   Marie,0,1
+Gérard   Raphaël,Faucillon   Elsa,0,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,0,1
+Gérard   Raphaël,Buchou   Stéphane,0,1
+Gérard   Raphaël,Bergé   Aurore,0,1
+Gérard   Raphaël,Pételle   Bénédicte,0,1
+Gérard   Raphaël,Hennion   Christine,0,1
+Gérard   Raphaël,Chiche   Guillaume,0,1
+Gérard   Raphaël,Provendier   Florence,0,1
+Gérard   Raphaël,Wonner   Martine,0,1
+Gérard   Raphaël,Fuchs   Bruno,1,1
+Gérard   Raphaël,Chouat   Francis,0,1
+Charvier   Fannette,Tamarelle-Verhaeghe   Marie,1,1
+Charvier   Fannette,Ménard   Emmanuelle,1,1
+Charvier   Fannette,Cloarec-Le Nabour   Christine,0,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Limon   Monique,1,1
+Charvier   Fannette,Dufeu   Audrey,1,1
+Charvier   Fannette,Brunet   Anne-France,0,1
+Charvier   Fannette,Bannier   Géraldine,1,1
+Charvier   Fannette,Minot   Maxime,1,1
+Charvier   Fannette,Poueyto   Josy,1,1
+Charvier   Fannette,Lachaud   Bastien,1,1
+Charvier   Fannette,Mbaye   Jean François,1,1
+Charvier   Fannette,Moutchou   Naïma,0,1
+Charvier   Fannette,Manin   Josette,0,1
+Charvier   Fannette,Ramadier   Alain,1,1
+Charvier   Fannette,Le Gendre   Gilles,1,1
+Charvier   Fannette,Rossi   Laurianne,1,1
+Charvier   Fannette,Rupin   Pacôme,1,1
+Charvier   Fannette,Mauborgne   Sereine,1,1
+Charvier   Fannette,Guévenoux   Marie,1,1
+Charvier   Fannette,Faucillon   Elsa,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,0,1
+Charvier   Fannette,Buchou   Stéphane,1,1
+Charvier   Fannette,Bergé   Aurore,1,1
+Charvier   Fannette,Pételle   Bénédicte,1,1
+Charvier   Fannette,Hennion   Christine,1,1
+Charvier   Fannette,Chiche   Guillaume,0,1
+Charvier   Fannette,Provendier   Florence,1,1
+Charvier   Fannette,Wonner   Martine,1,1
+Charvier   Fannette,Fuchs   Bruno,0,1
+Charvier   Fannette,Chouat   Francis,1,1
+Tamarelle-Verhaeghe   Marie,Ménard   Emmanuelle,1,1
+Tamarelle-Verhaeghe   Marie,Cloarec-Le Nabour   Christine,0,1
+Tamarelle-Verhaeghe   Marie,Motin   Cendra,1,1
+Tamarelle-Verhaeghe   Marie,Limon   Monique,1,1
+Tamarelle-Verhaeghe   Marie,Dufeu   Audrey,1,1
+Tamarelle-Verhaeghe   Marie,Brunet   Anne-France,0,1
+Tamarelle-Verhaeghe   Marie,Bannier   Géraldine,1,1
+Tamarelle-Verhaeghe   Marie,Minot   Maxime,1,1
+Tamarelle-Verhaeghe   Marie,Poueyto   Josy,1,1
+Tamarelle-Verhaeghe   Marie,Lachaud   Bastien,1,1
+Tamarelle-Verhaeghe   Marie,Mbaye   Jean François,1,1
+Tamarelle-Verhaeghe   Marie,Moutchou   Naïma,0,1
+Tamarelle-Verhaeghe   Marie,Manin   Josette,0,1
+Tamarelle-Verhaeghe   Marie,Ramadier   Alain,1,1
+Tamarelle-Verhaeghe   Marie,Le Gendre   Gilles,1,1
+Tamarelle-Verhaeghe   Marie,Rossi   Laurianne,1,1
+Tamarelle-Verhaeghe   Marie,Rupin   Pacôme,1,1
+Tamarelle-Verhaeghe   Marie,Mauborgne   Sereine,1,1
+Tamarelle-Verhaeghe   Marie,Guévenoux   Marie,1,1
+Tamarelle-Verhaeghe   Marie,Faucillon   Elsa,1,1
+Tamarelle-Verhaeghe   Marie,de Vaucouleurs   Michèle,0,1
+Tamarelle-Verhaeghe   Marie,Buchou   Stéphane,1,1
+Tamarelle-Verhaeghe   Marie,Bergé   Aurore,1,1
+Tamarelle-Verhaeghe   Marie,Pételle   Bénédicte,1,1
+Tamarelle-Verhaeghe   Marie,Hennion   Christine,1,1
+Tamarelle-Verhaeghe   Marie,Chiche   Guillaume,0,1
+Tamarelle-Verhaeghe   Marie,Provendier   Florence,1,1
+Tamarelle-Verhaeghe   Marie,Wonner   Martine,1,1
+Tamarelle-Verhaeghe   Marie,Fuchs   Bruno,0,1
+Tamarelle-Verhaeghe   Marie,Chouat   Francis,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Motin   Cendra,1,1
+Ménard   Emmanuelle,Limon   Monique,1,1
+Ménard   Emmanuelle,Dufeu   Audrey,1,1
+Ménard   Emmanuelle,Brunet   Anne-France,0,1
+Ménard   Emmanuelle,Bannier   Géraldine,1,1
+Ménard   Emmanuelle,Minot   Maxime,1,1
+Ménard   Emmanuelle,Poueyto   Josy,1,1
+Ménard   Emmanuelle,Lachaud   Bastien,1,1
+Ménard   Emmanuelle,Mbaye   Jean François,1,1
+Ménard   Emmanuelle,Moutchou   Naïma,0,1
+Ménard   Emmanuelle,Manin   Josette,0,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Le Gendre   Gilles,1,1
+Ménard   Emmanuelle,Rossi   Laurianne,1,1
+Ménard   Emmanuelle,Rupin   Pacôme,1,1
+Ménard   Emmanuelle,Mauborgne   Sereine,1,1
+Ménard   Emmanuelle,Guévenoux   Marie,1,1
+Ménard   Emmanuelle,Faucillon   Elsa,1,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Buchou   Stéphane,1,1
+Ménard   Emmanuelle,Bergé   Aurore,1,1
+Ménard   Emmanuelle,Pételle   Bénédicte,1,1
+Ménard   Emmanuelle,Hennion   Christine,1,1
+Ménard   Emmanuelle,Chiche   Guillaume,0,1
+Ménard   Emmanuelle,Provendier   Florence,1,1
+Ménard   Emmanuelle,Wonner   Martine,1,1
+Ménard   Emmanuelle,Fuchs   Bruno,0,1
+Ménard   Emmanuelle,Chouat   Francis,1,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,0,1
+Cloarec-Le Nabour   Christine,Limon   Monique,0,1
+Cloarec-Le Nabour   Christine,Dufeu   Audrey,0,1
+Cloarec-Le Nabour   Christine,Brunet   Anne-France,1,1
+Cloarec-Le Nabour   Christine,Bannier   Géraldine,0,1
+Cloarec-Le Nabour   Christine,Minot   Maxime,0,1
+Cloarec-Le Nabour   Christine,Poueyto   Josy,0,1
+Cloarec-Le Nabour   Christine,Lachaud   Bastien,0,1
+Cloarec-Le Nabour   Christine,Mbaye   Jean François,0,1
+Cloarec-Le Nabour   Christine,Moutchou   Naïma,0,1
+Cloarec-Le Nabour   Christine,Manin   Josette,0,1
+Cloarec-Le Nabour   Christine,Ramadier   Alain,0,1
+Cloarec-Le Nabour   Christine,Le Gendre   Gilles,0,1
+Cloarec-Le Nabour   Christine,Rossi   Laurianne,0,1
+Cloarec-Le Nabour   Christine,Rupin   Pacôme,0,1
+Cloarec-Le Nabour   Christine,Mauborgne   Sereine,0,1
+Cloarec-Le Nabour   Christine,Guévenoux   Marie,0,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,0,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,0,1
+Cloarec-Le Nabour   Christine,Buchou   Stéphane,0,1
+Cloarec-Le Nabour   Christine,Bergé   Aurore,0,1
+Cloarec-Le Nabour   Christine,Pételle   Bénédicte,0,1
+Cloarec-Le Nabour   Christine,Hennion   Christine,0,1
+Cloarec-Le Nabour   Christine,Chiche   Guillaume,0,1
+Cloarec-Le Nabour   Christine,Provendier   Florence,0,1
+Cloarec-Le Nabour   Christine,Wonner   Martine,0,1
+Cloarec-Le Nabour   Christine,Fuchs   Bruno,1,1
+Cloarec-Le Nabour   Christine,Chouat   Francis,0,1
+Motin   Cendra,Limon   Monique,1,1
+Motin   Cendra,Dufeu   Audrey,1,1
+Motin   Cendra,Brunet   Anne-France,0,1
+Motin   Cendra,Bannier   Géraldine,1,1
+Motin   Cendra,Minot   Maxime,1,1
+Motin   Cendra,Poueyto   Josy,1,1
+Motin   Cendra,Lachaud   Bastien,1,1
+Motin   Cendra,Mbaye   Jean François,1,1
+Motin   Cendra,Moutchou   Naïma,0,1
+Motin   Cendra,Manin   Josette,0,1
+Motin   Cendra,Ramadier   Alain,1,1
+Motin   Cendra,Le Gendre   Gilles,1,1
+Motin   Cendra,Rossi   Laurianne,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Mauborgne   Sereine,1,1
+Motin   Cendra,Guévenoux   Marie,1,1
+Motin   Cendra,Faucillon   Elsa,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,0,1
+Motin   Cendra,Buchou   Stéphane,1,1
+Motin   Cendra,Bergé   Aurore,1,1
+Motin   Cendra,Pételle   Bénédicte,1,1
+Motin   Cendra,Hennion   Christine,1,1
+Motin   Cendra,Chiche   Guillaume,0,1
+Motin   Cendra,Provendier   Florence,1,1
+Motin   Cendra,Wonner   Martine,1,1
+Motin   Cendra,Fuchs   Bruno,0,1
+Motin   Cendra,Chouat   Francis,1,1
+Limon   Monique,Dufeu   Audrey,1,1
+Limon   Monique,Brunet   Anne-France,0,1
+Limon   Monique,Bannier   Géraldine,1,1
+Limon   Monique,Minot   Maxime,1,1
+Limon   Monique,Poueyto   Josy,1,1
+Limon   Monique,Lachaud   Bastien,1,1
+Limon   Monique,Mbaye   Jean François,1,1
+Limon   Monique,Moutchou   Naïma,0,1
+Limon   Monique,Manin   Josette,0,1
+Limon   Monique,Ramadier   Alain,1,1
+Limon   Monique,Le Gendre   Gilles,1,1
+Limon   Monique,Rossi   Laurianne,1,1
+Limon   Monique,Rupin   Pacôme,1,1
+Limon   Monique,Mauborgne   Sereine,1,1
+Limon   Monique,Guévenoux   Marie,1,1
+Limon   Monique,Faucillon   Elsa,1,1
+Limon   Monique,de Vaucouleurs   Michèle,0,1
+Limon   Monique,Buchou   Stéphane,1,1
+Limon   Monique,Bergé   Aurore,1,1
+Limon   Monique,Pételle   Bénédicte,1,1
+Limon   Monique,Hennion   Christine,1,1
+Limon   Monique,Chiche   Guillaume,0,1
+Limon   Monique,Provendier   Florence,1,1
+Limon   Monique,Wonner   Martine,1,1
+Limon   Monique,Fuchs   Bruno,0,1
+Limon   Monique,Chouat   Francis,1,1
+Dufeu   Audrey,Brunet   Anne-France,0,1
+Dufeu   Audrey,Bannier   Géraldine,1,1
+Dufeu   Audrey,Minot   Maxime,1,1
+Dufeu   Audrey,Poueyto   Josy,1,1
+Dufeu   Audrey,Lachaud   Bastien,1,1
+Dufeu   Audrey,Mbaye   Jean François,1,1
+Dufeu   Audrey,Moutchou   Naïma,0,1
+Dufeu   Audrey,Manin   Josette,0,1
+Dufeu   Audrey,Ramadier   Alain,1,1
+Dufeu   Audrey,Le Gendre   Gilles,1,1
+Dufeu   Audrey,Rossi   Laurianne,1,1
+Dufeu   Audrey,Rupin   Pacôme,1,1
+Dufeu   Audrey,Mauborgne   Sereine,1,1
+Dufeu   Audrey,Guévenoux   Marie,1,1
+Dufeu   Audrey,Faucillon   Elsa,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,0,1
+Dufeu   Audrey,Buchou   Stéphane,1,1
+Dufeu   Audrey,Bergé   Aurore,1,1
+Dufeu   Audrey,Pételle   Bénédicte,1,1
+Dufeu   Audrey,Hennion   Christine,1,1
+Dufeu   Audrey,Chiche   Guillaume,0,1
+Dufeu   Audrey,Provendier   Florence,1,1
+Dufeu   Audrey,Wonner   Martine,1,1
+Dufeu   Audrey,Fuchs   Bruno,0,1
+Dufeu   Audrey,Chouat   Francis,1,1
+Brunet   Anne-France,Bannier   Géraldine,0,1
+Brunet   Anne-France,Minot   Maxime,0,1
+Brunet   Anne-France,Poueyto   Josy,0,1
+Brunet   Anne-France,Lachaud   Bastien,0,1
+Brunet   Anne-France,Mbaye   Jean François,0,1
+Brunet   Anne-France,Moutchou   Naïma,0,1
+Brunet   Anne-France,Manin   Josette,0,1
+Brunet   Anne-France,Ramadier   Alain,0,1
+Brunet   Anne-France,Le Gendre   Gilles,0,1
+Brunet   Anne-France,Rossi   Laurianne,0,1
+Brunet   Anne-France,Rupin   Pacôme,0,1
+Brunet   Anne-France,Mauborgne   Sereine,0,1
+Brunet   Anne-France,Guévenoux   Marie,0,1
+Brunet   Anne-France,Faucillon   Elsa,0,1
+Brunet   Anne-France,de Vaucouleurs   Michèle,0,1
+Brunet   Anne-France,Buchou   Stéphane,0,1
+Brunet   Anne-France,Bergé   Aurore,0,1
+Brunet   Anne-France,Pételle   Bénédicte,0,1
+Brunet   Anne-France,Hennion   Christine,0,1
+Brunet   Anne-France,Chiche   Guillaume,0,1
+Brunet   Anne-France,Provendier   Florence,0,1
+Brunet   Anne-France,Wonner   Martine,0,1
+Brunet   Anne-France,Fuchs   Bruno,1,1
+Brunet   Anne-France,Chouat   Francis,0,1
+Bannier   Géraldine,Minot   Maxime,1,1
+Bannier   Géraldine,Poueyto   Josy,1,1
+Bannier   Géraldine,Lachaud   Bastien,1,1
+Bannier   Géraldine,Mbaye   Jean François,1,1
+Bannier   Géraldine,Moutchou   Naïma,0,1
+Bannier   Géraldine,Manin   Josette,0,1
+Bannier   Géraldine,Ramadier   Alain,1,1
+Bannier   Géraldine,Le Gendre   Gilles,1,1
+Bannier   Géraldine,Rossi   Laurianne,1,1
+Bannier   Géraldine,Rupin   Pacôme,1,1
+Bannier   Géraldine,Mauborgne   Sereine,1,1
+Bannier   Géraldine,Guévenoux   Marie,1,1
+Bannier   Géraldine,Faucillon   Elsa,1,1
+Bannier   Géraldine,de Vaucouleurs   Michèle,0,1
+Bannier   Géraldine,Buchou   Stéphane,1,1
+Bannier   Géraldine,Bergé   Aurore,1,1
+Bannier   Géraldine,Pételle   Bénédicte,1,1
+Bannier   Géraldine,Hennion   Christine,1,1
+Bannier   Géraldine,Chiche   Guillaume,0,1
+Bannier   Géraldine,Provendier   Florence,1,1
+Bannier   Géraldine,Wonner   Martine,1,1
+Bannier   Géraldine,Fuchs   Bruno,0,1
+Bannier   Géraldine,Chouat   Francis,1,1
+Minot   Maxime,Poueyto   Josy,1,1
+Minot   Maxime,Lachaud   Bastien,1,1
+Minot   Maxime,Mbaye   Jean François,1,1
+Minot   Maxime,Moutchou   Naïma,0,1
+Minot   Maxime,Manin   Josette,0,1
+Minot   Maxime,Ramadier   Alain,1,1
+Minot   Maxime,Le Gendre   Gilles,1,1
+Minot   Maxime,Rossi   Laurianne,1,1
+Minot   Maxime,Rupin   Pacôme,1,1
+Minot   Maxime,Mauborgne   Sereine,1,1
+Minot   Maxime,Guévenoux   Marie,1,1
+Minot   Maxime,Faucillon   Elsa,1,1
+Minot   Maxime,de Vaucouleurs   Michèle,0,1
+Minot   Maxime,Buchou   Stéphane,1,1
+Minot   Maxime,Bergé   Aurore,1,1
+Minot   Maxime,Pételle   Bénédicte,1,1
+Minot   Maxime,Hennion   Christine,1,1
+Minot   Maxime,Chiche   Guillaume,0,1
+Minot   Maxime,Provendier   Florence,1,1
+Minot   Maxime,Wonner   Martine,1,1
+Minot   Maxime,Fuchs   Bruno,0,1
+Minot   Maxime,Chouat   Francis,1,1
+Poueyto   Josy,Lachaud   Bastien,1,1
+Poueyto   Josy,Mbaye   Jean François,1,1
+Poueyto   Josy,Moutchou   Naïma,0,1
+Poueyto   Josy,Manin   Josette,0,1
+Poueyto   Josy,Ramadier   Alain,1,1
+Poueyto   Josy,Le Gendre   Gilles,1,1
+Poueyto   Josy,Rossi   Laurianne,1,1
+Poueyto   Josy,Rupin   Pacôme,1,1
+Poueyto   Josy,Mauborgne   Sereine,1,1
+Poueyto   Josy,Guévenoux   Marie,1,1
+Poueyto   Josy,Faucillon   Elsa,1,1
+Poueyto   Josy,de Vaucouleurs   Michèle,0,1
+Poueyto   Josy,Buchou   Stéphane,1,1
+Poueyto   Josy,Bergé   Aurore,1,1
+Poueyto   Josy,Pételle   Bénédicte,1,1
+Poueyto   Josy,Hennion   Christine,1,1
+Poueyto   Josy,Chiche   Guillaume,0,1
+Poueyto   Josy,Provendier   Florence,1,1
+Poueyto   Josy,Wonner   Martine,1,1
+Poueyto   Josy,Fuchs   Bruno,0,1
+Poueyto   Josy,Chouat   Francis,1,1
+Lachaud   Bastien,Mbaye   Jean François,1,1
+Lachaud   Bastien,Moutchou   Naïma,0,1
+Lachaud   Bastien,Manin   Josette,0,1
+Lachaud   Bastien,Ramadier   Alain,1,1
+Lachaud   Bastien,Le Gendre   Gilles,1,1
+Lachaud   Bastien,Rossi   Laurianne,1,1
+Lachaud   Bastien,Rupin   Pacôme,1,1
+Lachaud   Bastien,Mauborgne   Sereine,1,1
+Lachaud   Bastien,Guévenoux   Marie,1,1
+Lachaud   Bastien,Faucillon   Elsa,1,1
+Lachaud   Bastien,de Vaucouleurs   Michèle,0,1
+Lachaud   Bastien,Buchou   Stéphane,1,1
+Lachaud   Bastien,Bergé   Aurore,1,1
+Lachaud   Bastien,Pételle   Bénédicte,1,1
+Lachaud   Bastien,Hennion   Christine,1,1
+Lachaud   Bastien,Chiche   Guillaume,0,1
+Lachaud   Bastien,Provendier   Florence,1,1
+Lachaud   Bastien,Wonner   Martine,1,1
+Lachaud   Bastien,Fuchs   Bruno,0,1
+Lachaud   Bastien,Chouat   Francis,1,1
+Mbaye   Jean François,Moutchou   Naïma,0,1
+Mbaye   Jean François,Manin   Josette,0,1
+Mbaye   Jean François,Ramadier   Alain,1,1
+Mbaye   Jean François,Le Gendre   Gilles,1,1
+Mbaye   Jean François,Rossi   Laurianne,1,1
+Mbaye   Jean François,Rupin   Pacôme,1,1
+Mbaye   Jean François,Mauborgne   Sereine,1,1
+Mbaye   Jean François,Guévenoux   Marie,1,1
+Mbaye   Jean François,Faucillon   Elsa,1,1
+Mbaye   Jean François,de Vaucouleurs   Michèle,0,1
+Mbaye   Jean François,Buchou   Stéphane,1,1
+Mbaye   Jean François,Bergé   Aurore,1,1
+Mbaye   Jean François,Pételle   Bénédicte,1,1
+Mbaye   Jean François,Hennion   Christine,1,1
+Mbaye   Jean François,Chiche   Guillaume,0,1
+Mbaye   Jean François,Provendier   Florence,1,1
+Mbaye   Jean François,Wonner   Martine,1,1
+Mbaye   Jean François,Fuchs   Bruno,0,1
+Mbaye   Jean François,Chouat   Francis,1,1
+Moutchou   Naïma,Manin   Josette,1,1
+Moutchou   Naïma,Ramadier   Alain,0,1
+Moutchou   Naïma,Le Gendre   Gilles,0,1
+Moutchou   Naïma,Rossi   Laurianne,0,1
+Moutchou   Naïma,Rupin   Pacôme,0,1
+Moutchou   Naïma,Mauborgne   Sereine,0,1
+Moutchou   Naïma,Guévenoux   Marie,0,1
+Moutchou   Naïma,Faucillon   Elsa,0,1
+Moutchou   Naïma,de Vaucouleurs   Michèle,1,1
+Moutchou   Naïma,Buchou   Stéphane,0,1
+Moutchou   Naïma,Bergé   Aurore,0,1
+Moutchou   Naïma,Pételle   Bénédicte,0,1
+Moutchou   Naïma,Hennion   Christine,0,1
+Moutchou   Naïma,Chiche   Guillaume,1,1
+Moutchou   Naïma,Provendier   Florence,0,1
+Moutchou   Naïma,Wonner   Martine,0,1
+Moutchou   Naïma,Fuchs   Bruno,0,1
+Moutchou   Naïma,Chouat   Francis,0,1
+Manin   Josette,Ramadier   Alain,0,1
+Manin   Josette,Le Gendre   Gilles,0,1
+Manin   Josette,Rossi   Laurianne,0,1
+Manin   Josette,Rupin   Pacôme,0,1
+Manin   Josette,Mauborgne   Sereine,0,1
+Manin   Josette,Guévenoux   Marie,0,1
+Manin   Josette,Faucillon   Elsa,0,1
+Manin   Josette,de Vaucouleurs   Michèle,1,1
+Manin   Josette,Buchou   Stéphane,0,1
+Manin   Josette,Bergé   Aurore,0,1
+Manin   Josette,Pételle   Bénédicte,0,1
+Manin   Josette,Hennion   Christine,0,1
+Manin   Josette,Chiche   Guillaume,1,1
+Manin   Josette,Provendier   Florence,0,1
+Manin   Josette,Wonner   Martine,0,1
+Manin   Josette,Fuchs   Bruno,0,1
+Manin   Josette,Chouat   Francis,0,1
+Ramadier   Alain,Le Gendre   Gilles,1,1
+Ramadier   Alain,Rossi   Laurianne,1,1
+Ramadier   Alain,Rupin   Pacôme,1,1
+Ramadier   Alain,Mauborgne   Sereine,1,1
+Ramadier   Alain,Guévenoux   Marie,1,1
+Ramadier   Alain,Faucillon   Elsa,1,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Buchou   Stéphane,1,1
+Ramadier   Alain,Bergé   Aurore,1,1
+Ramadier   Alain,Pételle   Bénédicte,1,1
+Ramadier   Alain,Hennion   Christine,1,1
+Ramadier   Alain,Chiche   Guillaume,0,1
+Ramadier   Alain,Provendier   Florence,1,1
+Ramadier   Alain,Wonner   Martine,1,1
+Ramadier   Alain,Fuchs   Bruno,0,1
+Ramadier   Alain,Chouat   Francis,1,1
+Le Gendre   Gilles,Rossi   Laurianne,1,1
+Le Gendre   Gilles,Rupin   Pacôme,1,1
+Le Gendre   Gilles,Mauborgne   Sereine,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,Faucillon   Elsa,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,0,1
+Le Gendre   Gilles,Buchou   Stéphane,1,1
+Le Gendre   Gilles,Bergé   Aurore,1,1
+Le Gendre   Gilles,Pételle   Bénédicte,1,1
+Le Gendre   Gilles,Hennion   Christine,1,1
+Le Gendre   Gilles,Chiche   Guillaume,0,1
+Le Gendre   Gilles,Provendier   Florence,1,1
+Le Gendre   Gilles,Wonner   Martine,1,1
+Le Gendre   Gilles,Fuchs   Bruno,0,1
+Le Gendre   Gilles,Chouat   Francis,1,1
+Rossi   Laurianne,Rupin   Pacôme,1,1
+Rossi   Laurianne,Mauborgne   Sereine,1,1
+Rossi   Laurianne,Guévenoux   Marie,1,1
+Rossi   Laurianne,Faucillon   Elsa,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,0,1
+Rossi   Laurianne,Buchou   Stéphane,1,1
+Rossi   Laurianne,Bergé   Aurore,1,1
+Rossi   Laurianne,Pételle   Bénédicte,1,1
+Rossi   Laurianne,Hennion   Christine,1,1
+Rossi   Laurianne,Chiche   Guillaume,0,1
+Rossi   Laurianne,Provendier   Florence,1,1
+Rossi   Laurianne,Wonner   Martine,1,1
+Rossi   Laurianne,Fuchs   Bruno,0,1
+Rossi   Laurianne,Chouat   Francis,1,1
+Rupin   Pacôme,Mauborgne   Sereine,1,1
+Rupin   Pacôme,Guévenoux   Marie,1,1
+Rupin   Pacôme,Faucillon   Elsa,1,1
+Rupin   Pacôme,de Vaucouleurs   Michèle,0,1
+Rupin   Pacôme,Buchou   Stéphane,1,1
+Rupin   Pacôme,Bergé   Aurore,1,1
+Rupin   Pacôme,Pételle   Bénédicte,1,1
+Rupin   Pacôme,Hennion   Christine,1,1
+Rupin   Pacôme,Chiche   Guillaume,0,1
+Rupin   Pacôme,Provendier   Florence,1,1
+Rupin   Pacôme,Wonner   Martine,1,1
+Rupin   Pacôme,Fuchs   Bruno,0,1
+Rupin   Pacôme,Chouat   Francis,1,1
+Mauborgne   Sereine,Guévenoux   Marie,1,1
+Mauborgne   Sereine,Faucillon   Elsa,1,1
+Mauborgne   Sereine,de Vaucouleurs   Michèle,0,1
+Mauborgne   Sereine,Buchou   Stéphane,1,1
+Mauborgne   Sereine,Bergé   Aurore,1,1
+Mauborgne   Sereine,Pételle   Bénédicte,1,1
+Mauborgne   Sereine,Hennion   Christine,1,1
+Mauborgne   Sereine,Chiche   Guillaume,0,1
+Mauborgne   Sereine,Provendier   Florence,1,1
+Mauborgne   Sereine,Wonner   Martine,1,1
+Mauborgne   Sereine,Fuchs   Bruno,0,1
+Mauborgne   Sereine,Chouat   Francis,1,1
+Guévenoux   Marie,Faucillon   Elsa,1,1
+Guévenoux   Marie,de Vaucouleurs   Michèle,0,1
+Guévenoux   Marie,Buchou   Stéphane,1,1
+Guévenoux   Marie,Bergé   Aurore,1,1
+Guévenoux   Marie,Pételle   Bénédicte,1,1
+Guévenoux   Marie,Hennion   Christine,1,1
+Guévenoux   Marie,Chiche   Guillaume,0,1
+Guévenoux   Marie,Provendier   Florence,1,1
+Guévenoux   Marie,Wonner   Martine,1,1
+Guévenoux   Marie,Fuchs   Bruno,0,1
+Guévenoux   Marie,Chouat   Francis,1,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,0,1
+Faucillon   Elsa,Buchou   Stéphane,1,1
+Faucillon   Elsa,Bergé   Aurore,1,1
+Faucillon   Elsa,Pételle   Bénédicte,1,1
+Faucillon   Elsa,Hennion   Christine,1,1
+Faucillon   Elsa,Chiche   Guillaume,0,1
+Faucillon   Elsa,Provendier   Florence,1,1
+Faucillon   Elsa,Wonner   Martine,1,1
+Faucillon   Elsa,Fuchs   Bruno,0,1
+Faucillon   Elsa,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,0,1
+de Vaucouleurs   Michèle,Bergé   Aurore,0,1
+de Vaucouleurs   Michèle,Pételle   Bénédicte,0,1
+de Vaucouleurs   Michèle,Hennion   Christine,0,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,1,1
+de Vaucouleurs   Michèle,Provendier   Florence,0,1
+de Vaucouleurs   Michèle,Wonner   Martine,0,1
+de Vaucouleurs   Michèle,Fuchs   Bruno,0,1
+de Vaucouleurs   Michèle,Chouat   Francis,0,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Hennion   Christine,1,1
+Buchou   Stéphane,Chiche   Guillaume,0,1
+Buchou   Stéphane,Provendier   Florence,1,1
+Buchou   Stéphane,Wonner   Martine,1,1
+Buchou   Stéphane,Fuchs   Bruno,0,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Hennion   Christine,1,1
+Bergé   Aurore,Chiche   Guillaume,0,1
+Bergé   Aurore,Provendier   Florence,1,1
+Bergé   Aurore,Wonner   Martine,1,1
+Bergé   Aurore,Fuchs   Bruno,0,1
+Bergé   Aurore,Chouat   Francis,1,1
+Pételle   Bénédicte,Hennion   Christine,1,1
+Pételle   Bénédicte,Chiche   Guillaume,0,1
+Pételle   Bénédicte,Provendier   Florence,1,1
+Pételle   Bénédicte,Wonner   Martine,1,1
+Pételle   Bénédicte,Fuchs   Bruno,0,1
+Pételle   Bénédicte,Chouat   Francis,1,1
+Hennion   Christine,Chiche   Guillaume,0,1
+Hennion   Christine,Provendier   Florence,1,1
+Hennion   Christine,Wonner   Martine,1,1
+Hennion   Christine,Fuchs   Bruno,0,1
+Hennion   Christine,Chouat   Francis,1,1
+Chiche   Guillaume,Provendier   Florence,0,1
+Chiche   Guillaume,Wonner   Martine,0,1
+Chiche   Guillaume,Fuchs   Bruno,0,1
+Chiche   Guillaume,Chouat   Francis,0,1
+Provendier   Florence,Wonner   Martine,1,1
+Provendier   Florence,Fuchs   Bruno,0,1
+Provendier   Florence,Chouat   Francis,1,1
+Wonner   Martine,Fuchs   Bruno,0,1
+Wonner   Martine,Chouat   Francis,1,1
+Fuchs   Bruno,Chouat   Francis,0,1

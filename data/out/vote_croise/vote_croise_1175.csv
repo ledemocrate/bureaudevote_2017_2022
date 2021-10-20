@@ -1,0 +1,562 @@
+from,to,vote_commun,loi_commun
+Bony   Jean-Yves,Dalloz   Marie-Christine,1,1
+Bony   Jean-Yves,Dupont   Stella,0,1
+Bony   Jean-Yves,Maillard   Sylvain,0,1
+Bony   Jean-Yves,Boyer   Pascale,0,1
+Bony   Jean-Yves,Dufrègne   Jean-Paul,0,1
+Bony   Jean-Yves,Brun   Fabrice,1,1
+Bony   Jean-Yves,Roussel   Cédric,0,1
+Bony   Jean-Yves,Laqhila   Mohamed,0,1
+Bony   Jean-Yves,Kasbarian   Guillaume,0,1
+Bony   Jean-Yves,Sommer   Denis,0,1
+Bony   Jean-Yves,Ménard   Emmanuelle,1,1
+Bony   Jean-Yves,Motin   Cendra,0,1
+Bony   Jean-Yves,Masséglia   Denis,0,1
+Bony   Jean-Yves,Dubré-Chirat   Nicole,0,1
+Bony   Jean-Yves,Bolo   Philippe,0,1
+Bony   Jean-Yves,Girardin   Éric,0,1
+Bony   Jean-Yves,Perrot   Patrice,0,1
+Bony   Jean-Yves,Bruneel   Alain,0,1
+Bony   Jean-Yves,Mattei   Jean-Paul,0,1
+Bony   Jean-Yves,Thomas   Valérie,0,1
+Bony   Jean-Yves,Rilhac   Cécile,0,1
+Bony   Jean-Yves,Ratenon   Jean-Hugues,0,1
+Bony   Jean-Yves,Lescure   Roland,0,1
+Bony   Jean-Yves,Brugnera   Anne,0,1
+Bony   Jean-Yves,Bonnell   Bruno,0,1
+Bony   Jean-Yves,Guerini   Stanislas,0,1
+Bony   Jean-Yves,Kuster   Brigitte,1,1
+Bony   Jean-Yves,Verdier-Jouclas   Marie-Christine,0,1
+Bony   Jean-Yves,Terlier   Jean,0,1
+Bony   Jean-Yves,Lebec   Marie,0,1
+Bony   Jean-Yves,de Vaucouleurs   Michèle,0,1
+Bony   Jean-Yves,Latombe   Philippe,0,1
+Bony   Jean-Yves,de Courson   Charles,0,1
+Dalloz   Marie-Christine,Dupont   Stella,0,1
+Dalloz   Marie-Christine,Maillard   Sylvain,0,1
+Dalloz   Marie-Christine,Boyer   Pascale,0,1
+Dalloz   Marie-Christine,Dufrègne   Jean-Paul,0,1
+Dalloz   Marie-Christine,Brun   Fabrice,1,1
+Dalloz   Marie-Christine,Roussel   Cédric,0,1
+Dalloz   Marie-Christine,Laqhila   Mohamed,0,1
+Dalloz   Marie-Christine,Kasbarian   Guillaume,0,1
+Dalloz   Marie-Christine,Sommer   Denis,0,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Motin   Cendra,0,1
+Dalloz   Marie-Christine,Masséglia   Denis,0,1
+Dalloz   Marie-Christine,Dubré-Chirat   Nicole,0,1
+Dalloz   Marie-Christine,Bolo   Philippe,0,1
+Dalloz   Marie-Christine,Girardin   Éric,0,1
+Dalloz   Marie-Christine,Perrot   Patrice,0,1
+Dalloz   Marie-Christine,Bruneel   Alain,0,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,0,1
+Dalloz   Marie-Christine,Thomas   Valérie,0,1
+Dalloz   Marie-Christine,Rilhac   Cécile,0,1
+Dalloz   Marie-Christine,Ratenon   Jean-Hugues,0,1
+Dalloz   Marie-Christine,Lescure   Roland,0,1
+Dalloz   Marie-Christine,Brugnera   Anne,0,1
+Dalloz   Marie-Christine,Bonnell   Bruno,0,1
+Dalloz   Marie-Christine,Guerini   Stanislas,0,1
+Dalloz   Marie-Christine,Kuster   Brigitte,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,0,1
+Dalloz   Marie-Christine,Terlier   Jean,0,1
+Dalloz   Marie-Christine,Lebec   Marie,0,1
+Dalloz   Marie-Christine,de Vaucouleurs   Michèle,0,1
+Dalloz   Marie-Christine,Latombe   Philippe,0,1
+Dalloz   Marie-Christine,de Courson   Charles,0,1
+Dupont   Stella,Maillard   Sylvain,1,1
+Dupont   Stella,Boyer   Pascale,1,1
+Dupont   Stella,Dufrègne   Jean-Paul,1,1
+Dupont   Stella,Brun   Fabrice,0,1
+Dupont   Stella,Roussel   Cédric,1,1
+Dupont   Stella,Laqhila   Mohamed,1,1
+Dupont   Stella,Kasbarian   Guillaume,1,1
+Dupont   Stella,Sommer   Denis,1,1
+Dupont   Stella,Ménard   Emmanuelle,0,1
+Dupont   Stella,Motin   Cendra,1,1
+Dupont   Stella,Masséglia   Denis,1,1
+Dupont   Stella,Dubré-Chirat   Nicole,1,1
+Dupont   Stella,Bolo   Philippe,1,1
+Dupont   Stella,Girardin   Éric,1,1
+Dupont   Stella,Perrot   Patrice,1,1
+Dupont   Stella,Bruneel   Alain,1,1
+Dupont   Stella,Mattei   Jean-Paul,1,1
+Dupont   Stella,Thomas   Valérie,1,1
+Dupont   Stella,Rilhac   Cécile,1,1
+Dupont   Stella,Ratenon   Jean-Hugues,1,1
+Dupont   Stella,Lescure   Roland,1,1
+Dupont   Stella,Brugnera   Anne,1,1
+Dupont   Stella,Bonnell   Bruno,1,1
+Dupont   Stella,Guerini   Stanislas,1,1
+Dupont   Stella,Kuster   Brigitte,0,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Terlier   Jean,1,1
+Dupont   Stella,Lebec   Marie,1,1
+Dupont   Stella,de Vaucouleurs   Michèle,1,1
+Dupont   Stella,Latombe   Philippe,1,1
+Dupont   Stella,de Courson   Charles,1,1
+Maillard   Sylvain,Boyer   Pascale,1,1
+Maillard   Sylvain,Dufrègne   Jean-Paul,1,1
+Maillard   Sylvain,Brun   Fabrice,0,1
+Maillard   Sylvain,Roussel   Cédric,1,1
+Maillard   Sylvain,Laqhila   Mohamed,1,1
+Maillard   Sylvain,Kasbarian   Guillaume,1,1
+Maillard   Sylvain,Sommer   Denis,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Masséglia   Denis,1,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Bolo   Philippe,1,1
+Maillard   Sylvain,Girardin   Éric,1,1
+Maillard   Sylvain,Perrot   Patrice,1,1
+Maillard   Sylvain,Bruneel   Alain,1,1
+Maillard   Sylvain,Mattei   Jean-Paul,1,1
+Maillard   Sylvain,Thomas   Valérie,1,1
+Maillard   Sylvain,Rilhac   Cécile,1,1
+Maillard   Sylvain,Ratenon   Jean-Hugues,1,1
+Maillard   Sylvain,Lescure   Roland,1,1
+Maillard   Sylvain,Brugnera   Anne,1,1
+Maillard   Sylvain,Bonnell   Bruno,1,1
+Maillard   Sylvain,Guerini   Stanislas,1,1
+Maillard   Sylvain,Kuster   Brigitte,0,1
+Maillard   Sylvain,Verdier-Jouclas   Marie-Christine,1,1
+Maillard   Sylvain,Terlier   Jean,1,1
+Maillard   Sylvain,Lebec   Marie,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Latombe   Philippe,1,1
+Maillard   Sylvain,de Courson   Charles,1,1
+Boyer   Pascale,Dufrègne   Jean-Paul,1,1
+Boyer   Pascale,Brun   Fabrice,0,1
+Boyer   Pascale,Roussel   Cédric,1,1
+Boyer   Pascale,Laqhila   Mohamed,1,1
+Boyer   Pascale,Kasbarian   Guillaume,1,1
+Boyer   Pascale,Sommer   Denis,1,1
+Boyer   Pascale,Ménard   Emmanuelle,0,1
+Boyer   Pascale,Motin   Cendra,1,1
+Boyer   Pascale,Masséglia   Denis,1,1
+Boyer   Pascale,Dubré-Chirat   Nicole,1,1
+Boyer   Pascale,Bolo   Philippe,1,1
+Boyer   Pascale,Girardin   Éric,1,1
+Boyer   Pascale,Perrot   Patrice,1,1
+Boyer   Pascale,Bruneel   Alain,1,1
+Boyer   Pascale,Mattei   Jean-Paul,1,1
+Boyer   Pascale,Thomas   Valérie,1,1
+Boyer   Pascale,Rilhac   Cécile,1,1
+Boyer   Pascale,Ratenon   Jean-Hugues,1,1
+Boyer   Pascale,Lescure   Roland,1,1
+Boyer   Pascale,Brugnera   Anne,1,1
+Boyer   Pascale,Bonnell   Bruno,1,1
+Boyer   Pascale,Guerini   Stanislas,1,1
+Boyer   Pascale,Kuster   Brigitte,0,1
+Boyer   Pascale,Verdier-Jouclas   Marie-Christine,1,1
+Boyer   Pascale,Terlier   Jean,1,1
+Boyer   Pascale,Lebec   Marie,1,1
+Boyer   Pascale,de Vaucouleurs   Michèle,1,1
+Boyer   Pascale,Latombe   Philippe,1,1
+Boyer   Pascale,de Courson   Charles,1,1
+Dufrègne   Jean-Paul,Brun   Fabrice,0,1
+Dufrègne   Jean-Paul,Roussel   Cédric,1,1
+Dufrègne   Jean-Paul,Laqhila   Mohamed,1,1
+Dufrègne   Jean-Paul,Kasbarian   Guillaume,1,1
+Dufrègne   Jean-Paul,Sommer   Denis,1,1
+Dufrègne   Jean-Paul,Ménard   Emmanuelle,0,1
+Dufrègne   Jean-Paul,Motin   Cendra,1,1
+Dufrègne   Jean-Paul,Masséglia   Denis,1,1
+Dufrègne   Jean-Paul,Dubré-Chirat   Nicole,1,1
+Dufrègne   Jean-Paul,Bolo   Philippe,1,1
+Dufrègne   Jean-Paul,Girardin   Éric,1,1
+Dufrègne   Jean-Paul,Perrot   Patrice,1,1
+Dufrègne   Jean-Paul,Bruneel   Alain,1,1
+Dufrègne   Jean-Paul,Mattei   Jean-Paul,1,1
+Dufrègne   Jean-Paul,Thomas   Valérie,1,1
+Dufrègne   Jean-Paul,Rilhac   Cécile,1,1
+Dufrègne   Jean-Paul,Ratenon   Jean-Hugues,1,1
+Dufrègne   Jean-Paul,Lescure   Roland,1,1
+Dufrègne   Jean-Paul,Brugnera   Anne,1,1
+Dufrègne   Jean-Paul,Bonnell   Bruno,1,1
+Dufrègne   Jean-Paul,Guerini   Stanislas,1,1
+Dufrègne   Jean-Paul,Kuster   Brigitte,0,1
+Dufrègne   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Dufrègne   Jean-Paul,Terlier   Jean,1,1
+Dufrègne   Jean-Paul,Lebec   Marie,1,1
+Dufrègne   Jean-Paul,de Vaucouleurs   Michèle,1,1
+Dufrègne   Jean-Paul,Latombe   Philippe,1,1
+Dufrègne   Jean-Paul,de Courson   Charles,1,1
+Brun   Fabrice,Roussel   Cédric,0,1
+Brun   Fabrice,Laqhila   Mohamed,0,1
+Brun   Fabrice,Kasbarian   Guillaume,0,1
+Brun   Fabrice,Sommer   Denis,0,1
+Brun   Fabrice,Ménard   Emmanuelle,1,1
+Brun   Fabrice,Motin   Cendra,0,1
+Brun   Fabrice,Masséglia   Denis,0,1
+Brun   Fabrice,Dubré-Chirat   Nicole,0,1
+Brun   Fabrice,Bolo   Philippe,0,1
+Brun   Fabrice,Girardin   Éric,0,1
+Brun   Fabrice,Perrot   Patrice,0,1
+Brun   Fabrice,Bruneel   Alain,0,1
+Brun   Fabrice,Mattei   Jean-Paul,0,1
+Brun   Fabrice,Thomas   Valérie,0,1
+Brun   Fabrice,Rilhac   Cécile,0,1
+Brun   Fabrice,Ratenon   Jean-Hugues,0,1
+Brun   Fabrice,Lescure   Roland,0,1
+Brun   Fabrice,Brugnera   Anne,0,1
+Brun   Fabrice,Bonnell   Bruno,0,1
+Brun   Fabrice,Guerini   Stanislas,0,1
+Brun   Fabrice,Kuster   Brigitte,1,1
+Brun   Fabrice,Verdier-Jouclas   Marie-Christine,0,1
+Brun   Fabrice,Terlier   Jean,0,1
+Brun   Fabrice,Lebec   Marie,0,1
+Brun   Fabrice,de Vaucouleurs   Michèle,0,1
+Brun   Fabrice,Latombe   Philippe,0,1
+Brun   Fabrice,de Courson   Charles,0,1
+Roussel   Cédric,Laqhila   Mohamed,1,1
+Roussel   Cédric,Kasbarian   Guillaume,1,1
+Roussel   Cédric,Sommer   Denis,1,1
+Roussel   Cédric,Ménard   Emmanuelle,0,1
+Roussel   Cédric,Motin   Cendra,1,1
+Roussel   Cédric,Masséglia   Denis,1,1
+Roussel   Cédric,Dubré-Chirat   Nicole,1,1
+Roussel   Cédric,Bolo   Philippe,1,1
+Roussel   Cédric,Girardin   Éric,1,1
+Roussel   Cédric,Perrot   Patrice,1,1
+Roussel   Cédric,Bruneel   Alain,1,1
+Roussel   Cédric,Mattei   Jean-Paul,1,1
+Roussel   Cédric,Thomas   Valérie,1,1
+Roussel   Cédric,Rilhac   Cécile,1,1
+Roussel   Cédric,Ratenon   Jean-Hugues,1,1
+Roussel   Cédric,Lescure   Roland,1,1
+Roussel   Cédric,Brugnera   Anne,1,1
+Roussel   Cédric,Bonnell   Bruno,1,1
+Roussel   Cédric,Guerini   Stanislas,1,1
+Roussel   Cédric,Kuster   Brigitte,0,1
+Roussel   Cédric,Verdier-Jouclas   Marie-Christine,1,1
+Roussel   Cédric,Terlier   Jean,1,1
+Roussel   Cédric,Lebec   Marie,1,1
+Roussel   Cédric,de Vaucouleurs   Michèle,1,1
+Roussel   Cédric,Latombe   Philippe,1,1
+Roussel   Cédric,de Courson   Charles,1,1
+Laqhila   Mohamed,Kasbarian   Guillaume,1,1
+Laqhila   Mohamed,Sommer   Denis,1,1
+Laqhila   Mohamed,Ménard   Emmanuelle,0,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Masséglia   Denis,1,1
+Laqhila   Mohamed,Dubré-Chirat   Nicole,1,1
+Laqhila   Mohamed,Bolo   Philippe,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Perrot   Patrice,1,1
+Laqhila   Mohamed,Bruneel   Alain,1,1
+Laqhila   Mohamed,Mattei   Jean-Paul,1,1
+Laqhila   Mohamed,Thomas   Valérie,1,1
+Laqhila   Mohamed,Rilhac   Cécile,1,1
+Laqhila   Mohamed,Ratenon   Jean-Hugues,1,1
+Laqhila   Mohamed,Lescure   Roland,1,1
+Laqhila   Mohamed,Brugnera   Anne,1,1
+Laqhila   Mohamed,Bonnell   Bruno,1,1
+Laqhila   Mohamed,Guerini   Stanislas,1,1
+Laqhila   Mohamed,Kuster   Brigitte,0,1
+Laqhila   Mohamed,Verdier-Jouclas   Marie-Christine,1,1
+Laqhila   Mohamed,Terlier   Jean,1,1
+Laqhila   Mohamed,Lebec   Marie,1,1
+Laqhila   Mohamed,de Vaucouleurs   Michèle,1,1
+Laqhila   Mohamed,Latombe   Philippe,1,1
+Laqhila   Mohamed,de Courson   Charles,1,1
+Kasbarian   Guillaume,Sommer   Denis,1,1
+Kasbarian   Guillaume,Ménard   Emmanuelle,0,1
+Kasbarian   Guillaume,Motin   Cendra,1,1
+Kasbarian   Guillaume,Masséglia   Denis,1,1
+Kasbarian   Guillaume,Dubré-Chirat   Nicole,1,1
+Kasbarian   Guillaume,Bolo   Philippe,1,1
+Kasbarian   Guillaume,Girardin   Éric,1,1
+Kasbarian   Guillaume,Perrot   Patrice,1,1
+Kasbarian   Guillaume,Bruneel   Alain,1,1
+Kasbarian   Guillaume,Mattei   Jean-Paul,1,1
+Kasbarian   Guillaume,Thomas   Valérie,1,1
+Kasbarian   Guillaume,Rilhac   Cécile,1,1
+Kasbarian   Guillaume,Ratenon   Jean-Hugues,1,1
+Kasbarian   Guillaume,Lescure   Roland,1,1
+Kasbarian   Guillaume,Brugnera   Anne,1,1
+Kasbarian   Guillaume,Bonnell   Bruno,1,1
+Kasbarian   Guillaume,Guerini   Stanislas,1,1
+Kasbarian   Guillaume,Kuster   Brigitte,0,1
+Kasbarian   Guillaume,Verdier-Jouclas   Marie-Christine,1,1
+Kasbarian   Guillaume,Terlier   Jean,1,1
+Kasbarian   Guillaume,Lebec   Marie,1,1
+Kasbarian   Guillaume,de Vaucouleurs   Michèle,1,1
+Kasbarian   Guillaume,Latombe   Philippe,1,1
+Kasbarian   Guillaume,de Courson   Charles,1,1
+Sommer   Denis,Ménard   Emmanuelle,0,1
+Sommer   Denis,Motin   Cendra,1,1
+Sommer   Denis,Masséglia   Denis,1,1
+Sommer   Denis,Dubré-Chirat   Nicole,1,1
+Sommer   Denis,Bolo   Philippe,1,1
+Sommer   Denis,Girardin   Éric,1,1
+Sommer   Denis,Perrot   Patrice,1,1
+Sommer   Denis,Bruneel   Alain,1,1
+Sommer   Denis,Mattei   Jean-Paul,1,1
+Sommer   Denis,Thomas   Valérie,1,1
+Sommer   Denis,Rilhac   Cécile,1,1
+Sommer   Denis,Ratenon   Jean-Hugues,1,1
+Sommer   Denis,Lescure   Roland,1,1
+Sommer   Denis,Brugnera   Anne,1,1
+Sommer   Denis,Bonnell   Bruno,1,1
+Sommer   Denis,Guerini   Stanislas,1,1
+Sommer   Denis,Kuster   Brigitte,0,1
+Sommer   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Sommer   Denis,Terlier   Jean,1,1
+Sommer   Denis,Lebec   Marie,1,1
+Sommer   Denis,de Vaucouleurs   Michèle,1,1
+Sommer   Denis,Latombe   Philippe,1,1
+Sommer   Denis,de Courson   Charles,1,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Masséglia   Denis,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Bolo   Philippe,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Bruneel   Alain,0,1
+Ménard   Emmanuelle,Mattei   Jean-Paul,0,1
+Ménard   Emmanuelle,Thomas   Valérie,0,1
+Ménard   Emmanuelle,Rilhac   Cécile,0,1
+Ménard   Emmanuelle,Ratenon   Jean-Hugues,0,1
+Ménard   Emmanuelle,Lescure   Roland,0,1
+Ménard   Emmanuelle,Brugnera   Anne,0,1
+Ménard   Emmanuelle,Bonnell   Bruno,0,1
+Ménard   Emmanuelle,Guerini   Stanislas,0,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Lebec   Marie,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Latombe   Philippe,0,1
+Ménard   Emmanuelle,de Courson   Charles,0,1
+Motin   Cendra,Masséglia   Denis,1,1
+Motin   Cendra,Dubré-Chirat   Nicole,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Perrot   Patrice,1,1
+Motin   Cendra,Bruneel   Alain,1,1
+Motin   Cendra,Mattei   Jean-Paul,1,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,Rilhac   Cécile,1,1
+Motin   Cendra,Ratenon   Jean-Hugues,1,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Brugnera   Anne,1,1
+Motin   Cendra,Bonnell   Bruno,1,1
+Motin   Cendra,Guerini   Stanislas,1,1
+Motin   Cendra,Kuster   Brigitte,0,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Terlier   Jean,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,1,1
+Motin   Cendra,Latombe   Philippe,1,1
+Motin   Cendra,de Courson   Charles,1,1
+Masséglia   Denis,Dubré-Chirat   Nicole,1,1
+Masséglia   Denis,Bolo   Philippe,1,1
+Masséglia   Denis,Girardin   Éric,1,1
+Masséglia   Denis,Perrot   Patrice,1,1
+Masséglia   Denis,Bruneel   Alain,1,1
+Masséglia   Denis,Mattei   Jean-Paul,1,1
+Masséglia   Denis,Thomas   Valérie,1,1
+Masséglia   Denis,Rilhac   Cécile,1,1
+Masséglia   Denis,Ratenon   Jean-Hugues,1,1
+Masséglia   Denis,Lescure   Roland,1,1
+Masséglia   Denis,Brugnera   Anne,1,1
+Masséglia   Denis,Bonnell   Bruno,1,1
+Masséglia   Denis,Guerini   Stanislas,1,1
+Masséglia   Denis,Kuster   Brigitte,0,1
+Masséglia   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Masséglia   Denis,Terlier   Jean,1,1
+Masséglia   Denis,Lebec   Marie,1,1
+Masséglia   Denis,de Vaucouleurs   Michèle,1,1
+Masséglia   Denis,Latombe   Philippe,1,1
+Masséglia   Denis,de Courson   Charles,1,1
+Dubré-Chirat   Nicole,Bolo   Philippe,1,1
+Dubré-Chirat   Nicole,Girardin   Éric,1,1
+Dubré-Chirat   Nicole,Perrot   Patrice,1,1
+Dubré-Chirat   Nicole,Bruneel   Alain,1,1
+Dubré-Chirat   Nicole,Mattei   Jean-Paul,1,1
+Dubré-Chirat   Nicole,Thomas   Valérie,1,1
+Dubré-Chirat   Nicole,Rilhac   Cécile,1,1
+Dubré-Chirat   Nicole,Ratenon   Jean-Hugues,1,1
+Dubré-Chirat   Nicole,Lescure   Roland,1,1
+Dubré-Chirat   Nicole,Brugnera   Anne,1,1
+Dubré-Chirat   Nicole,Bonnell   Bruno,1,1
+Dubré-Chirat   Nicole,Guerini   Stanislas,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,0,1
+Dubré-Chirat   Nicole,Verdier-Jouclas   Marie-Christine,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Lebec   Marie,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Latombe   Philippe,1,1
+Dubré-Chirat   Nicole,de Courson   Charles,1,1
+Bolo   Philippe,Girardin   Éric,1,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Bruneel   Alain,1,1
+Bolo   Philippe,Mattei   Jean-Paul,1,1
+Bolo   Philippe,Thomas   Valérie,1,1
+Bolo   Philippe,Rilhac   Cécile,1,1
+Bolo   Philippe,Ratenon   Jean-Hugues,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Brugnera   Anne,1,1
+Bolo   Philippe,Bonnell   Bruno,1,1
+Bolo   Philippe,Guerini   Stanislas,1,1
+Bolo   Philippe,Kuster   Brigitte,0,1
+Bolo   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Bolo   Philippe,Terlier   Jean,1,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Latombe   Philippe,1,1
+Bolo   Philippe,de Courson   Charles,1,1
+Girardin   Éric,Perrot   Patrice,1,1
+Girardin   Éric,Bruneel   Alain,1,1
+Girardin   Éric,Mattei   Jean-Paul,1,1
+Girardin   Éric,Thomas   Valérie,1,1
+Girardin   Éric,Rilhac   Cécile,1,1
+Girardin   Éric,Ratenon   Jean-Hugues,1,1
+Girardin   Éric,Lescure   Roland,1,1
+Girardin   Éric,Brugnera   Anne,1,1
+Girardin   Éric,Bonnell   Bruno,1,1
+Girardin   Éric,Guerini   Stanislas,1,1
+Girardin   Éric,Kuster   Brigitte,0,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Terlier   Jean,1,1
+Girardin   Éric,Lebec   Marie,1,1
+Girardin   Éric,de Vaucouleurs   Michèle,1,1
+Girardin   Éric,Latombe   Philippe,1,1
+Girardin   Éric,de Courson   Charles,1,1
+Perrot   Patrice,Bruneel   Alain,1,1
+Perrot   Patrice,Mattei   Jean-Paul,1,1
+Perrot   Patrice,Thomas   Valérie,1,1
+Perrot   Patrice,Rilhac   Cécile,1,1
+Perrot   Patrice,Ratenon   Jean-Hugues,1,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Brugnera   Anne,1,1
+Perrot   Patrice,Bonnell   Bruno,1,1
+Perrot   Patrice,Guerini   Stanislas,1,1
+Perrot   Patrice,Kuster   Brigitte,0,1
+Perrot   Patrice,Verdier-Jouclas   Marie-Christine,1,1
+Perrot   Patrice,Terlier   Jean,1,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Latombe   Philippe,1,1
+Perrot   Patrice,de Courson   Charles,1,1
+Bruneel   Alain,Mattei   Jean-Paul,1,1
+Bruneel   Alain,Thomas   Valérie,1,1
+Bruneel   Alain,Rilhac   Cécile,1,1
+Bruneel   Alain,Ratenon   Jean-Hugues,1,1
+Bruneel   Alain,Lescure   Roland,1,1
+Bruneel   Alain,Brugnera   Anne,1,1
+Bruneel   Alain,Bonnell   Bruno,1,1
+Bruneel   Alain,Guerini   Stanislas,1,1
+Bruneel   Alain,Kuster   Brigitte,0,1
+Bruneel   Alain,Verdier-Jouclas   Marie-Christine,1,1
+Bruneel   Alain,Terlier   Jean,1,1
+Bruneel   Alain,Lebec   Marie,1,1
+Bruneel   Alain,de Vaucouleurs   Michèle,1,1
+Bruneel   Alain,Latombe   Philippe,1,1
+Bruneel   Alain,de Courson   Charles,1,1
+Mattei   Jean-Paul,Thomas   Valérie,1,1
+Mattei   Jean-Paul,Rilhac   Cécile,1,1
+Mattei   Jean-Paul,Ratenon   Jean-Hugues,1,1
+Mattei   Jean-Paul,Lescure   Roland,1,1
+Mattei   Jean-Paul,Brugnera   Anne,1,1
+Mattei   Jean-Paul,Bonnell   Bruno,1,1
+Mattei   Jean-Paul,Guerini   Stanislas,1,1
+Mattei   Jean-Paul,Kuster   Brigitte,0,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Mattei   Jean-Paul,Terlier   Jean,1,1
+Mattei   Jean-Paul,Lebec   Marie,1,1
+Mattei   Jean-Paul,de Vaucouleurs   Michèle,1,1
+Mattei   Jean-Paul,Latombe   Philippe,1,1
+Mattei   Jean-Paul,de Courson   Charles,1,1
+Thomas   Valérie,Rilhac   Cécile,1,1
+Thomas   Valérie,Ratenon   Jean-Hugues,1,1
+Thomas   Valérie,Lescure   Roland,1,1
+Thomas   Valérie,Brugnera   Anne,1,1
+Thomas   Valérie,Bonnell   Bruno,1,1
+Thomas   Valérie,Guerini   Stanislas,1,1
+Thomas   Valérie,Kuster   Brigitte,0,1
+Thomas   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Thomas   Valérie,Terlier   Jean,1,1
+Thomas   Valérie,Lebec   Marie,1,1
+Thomas   Valérie,de Vaucouleurs   Michèle,1,1
+Thomas   Valérie,Latombe   Philippe,1,1
+Thomas   Valérie,de Courson   Charles,1,1
+Rilhac   Cécile,Ratenon   Jean-Hugues,1,1
+Rilhac   Cécile,Lescure   Roland,1,1
+Rilhac   Cécile,Brugnera   Anne,1,1
+Rilhac   Cécile,Bonnell   Bruno,1,1
+Rilhac   Cécile,Guerini   Stanislas,1,1
+Rilhac   Cécile,Kuster   Brigitte,0,1
+Rilhac   Cécile,Verdier-Jouclas   Marie-Christine,1,1
+Rilhac   Cécile,Terlier   Jean,1,1
+Rilhac   Cécile,Lebec   Marie,1,1
+Rilhac   Cécile,de Vaucouleurs   Michèle,1,1
+Rilhac   Cécile,Latombe   Philippe,1,1
+Rilhac   Cécile,de Courson   Charles,1,1
+Ratenon   Jean-Hugues,Lescure   Roland,1,1
+Ratenon   Jean-Hugues,Brugnera   Anne,1,1
+Ratenon   Jean-Hugues,Bonnell   Bruno,1,1
+Ratenon   Jean-Hugues,Guerini   Stanislas,1,1
+Ratenon   Jean-Hugues,Kuster   Brigitte,0,1
+Ratenon   Jean-Hugues,Verdier-Jouclas   Marie-Christine,1,1
+Ratenon   Jean-Hugues,Terlier   Jean,1,1
+Ratenon   Jean-Hugues,Lebec   Marie,1,1
+Ratenon   Jean-Hugues,de Vaucouleurs   Michèle,1,1
+Ratenon   Jean-Hugues,Latombe   Philippe,1,1
+Ratenon   Jean-Hugues,de Courson   Charles,1,1
+Lescure   Roland,Brugnera   Anne,1,1
+Lescure   Roland,Bonnell   Bruno,1,1
+Lescure   Roland,Guerini   Stanislas,1,1
+Lescure   Roland,Kuster   Brigitte,0,1
+Lescure   Roland,Verdier-Jouclas   Marie-Christine,1,1
+Lescure   Roland,Terlier   Jean,1,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,de Vaucouleurs   Michèle,1,1
+Lescure   Roland,Latombe   Philippe,1,1
+Lescure   Roland,de Courson   Charles,1,1
+Brugnera   Anne,Bonnell   Bruno,1,1
+Brugnera   Anne,Guerini   Stanislas,1,1
+Brugnera   Anne,Kuster   Brigitte,0,1
+Brugnera   Anne,Verdier-Jouclas   Marie-Christine,1,1
+Brugnera   Anne,Terlier   Jean,1,1
+Brugnera   Anne,Lebec   Marie,1,1
+Brugnera   Anne,de Vaucouleurs   Michèle,1,1
+Brugnera   Anne,Latombe   Philippe,1,1
+Brugnera   Anne,de Courson   Charles,1,1
+Bonnell   Bruno,Guerini   Stanislas,1,1
+Bonnell   Bruno,Kuster   Brigitte,0,1
+Bonnell   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Bonnell   Bruno,Terlier   Jean,1,1
+Bonnell   Bruno,Lebec   Marie,1,1
+Bonnell   Bruno,de Vaucouleurs   Michèle,1,1
+Bonnell   Bruno,Latombe   Philippe,1,1
+Bonnell   Bruno,de Courson   Charles,1,1
+Guerini   Stanislas,Kuster   Brigitte,0,1
+Guerini   Stanislas,Verdier-Jouclas   Marie-Christine,1,1
+Guerini   Stanislas,Terlier   Jean,1,1
+Guerini   Stanislas,Lebec   Marie,1,1
+Guerini   Stanislas,de Vaucouleurs   Michèle,1,1
+Guerini   Stanislas,Latombe   Philippe,1,1
+Guerini   Stanislas,de Courson   Charles,1,1
+Kuster   Brigitte,Verdier-Jouclas   Marie-Christine,0,1
+Kuster   Brigitte,Terlier   Jean,0,1
+Kuster   Brigitte,Lebec   Marie,0,1
+Kuster   Brigitte,de Vaucouleurs   Michèle,0,1
+Kuster   Brigitte,Latombe   Philippe,0,1
+Kuster   Brigitte,de Courson   Charles,0,1
+Verdier-Jouclas   Marie-Christine,Terlier   Jean,1,1
+Verdier-Jouclas   Marie-Christine,Lebec   Marie,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Latombe   Philippe,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,1,1
+Terlier   Jean,Lebec   Marie,1,1
+Terlier   Jean,de Vaucouleurs   Michèle,1,1
+Terlier   Jean,Latombe   Philippe,1,1
+Terlier   Jean,de Courson   Charles,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Latombe   Philippe,1,1
+Lebec   Marie,de Courson   Charles,1,1
+de Vaucouleurs   Michèle,Latombe   Philippe,1,1
+de Vaucouleurs   Michèle,de Courson   Charles,1,1
+Latombe   Philippe,de Courson   Charles,1,1

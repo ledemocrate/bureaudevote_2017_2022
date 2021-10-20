@@ -1,0 +1,1486 @@
+from,to,vote_commun,loi_commun
+Le Fur   Marc,Menuel   Gérard,1,1
+Le Fur   Marc,Woerth   Éric,1,1
+Le Fur   Marc,Descoeur   Vincent,1,1
+Le Fur   Marc,Dalloz   Marie-Christine,1,1
+Le Fur   Marc,Pupponi   François,1,1
+Le Fur   Marc,Alauzet   Éric,0,1
+Le Fur   Marc,Pellois   Hervé,0,1
+Le Fur   Marc,Louwagie   Véronique,1,1
+Le Fur   Marc,Pires Beaune   Christine,0,1
+Le Fur   Marc,Bothorel   Éric,0,1
+Le Fur   Marc,Bazin   Thibault,1,1
+Le Fur   Marc,Dive   Julien,1,1
+Le Fur   Marc,Peyrol   Bénédicte,0,1
+Le Fur   Marc,Bono-Vandorme   Aude,0,1
+Le Fur   Marc,Ahamada   Saïd,0,1
+Le Fur   Marc,Laqhila   Mohamed,0,1
+Le Fur   Marc,Ardouin   Jean-Philippe,0,1
+Le Fur   Marc,Gérard   Raphaël,0,1
+Le Fur   Marc,Kerlogot   Yannick,0,1
+Le Fur   Marc,Chassaing   Philippe,0,1
+Le Fur   Marc,Cubertafon   Jean-Pierre,1,1
+Le Fur   Marc,Gouttefarde   Fabien,0,1
+Le Fur   Marc,Mörch   Sandrine,0,1
+Le Fur   Marc,Tanguy   Liliana,0,1
+Le Fur   Marc,Ménard   Emmanuelle,1,1
+Le Fur   Marc,Jolivet   François,0,1
+Le Fur   Marc,Labaronne   Daniel,0,1
+Le Fur   Marc,Motin   Cendra,0,1
+Le Fur   Marc,Brulebois   Danielle,0,1
+Le Fur   Marc,Lauzzana   Michel,0,1
+Le Fur   Marc,Janvier   Caroline,0,1
+Le Fur   Marc,Saint-Paul   Laetitia,0,1
+Le Fur   Marc,Masséglia   Denis,0,1
+Le Fur   Marc,Girardin   Éric,0,1
+Le Fur   Marc,Magnier   Lise,0,1
+Le Fur   Marc,Damaisin   Olivier,0,1
+Le Fur   Marc,Cariou   Émilie,0,1
+Le Fur   Marc,Zannier   Hélène,0,1
+Le Fur   Marc,Goulet   Perrine,0,1
+Le Fur   Marc,Mattei   Jean-Paul,0,1
+Le Fur   Marc,Testé   Stéphane,0,1
+Le Fur   Marc,Holroyd   Alexandre,0,1
+Le Fur   Marc,Coquerel   Éric,1,1
+Le Fur   Marc,Lardet   Frédérique,0,1
+Le Fur   Marc,Kuster   Brigitte,1,1
+Le Fur   Marc,Verdier-Jouclas   Marie-Christine,0,1
+Le Fur   Marc,Person   Pierre,0,1
+Le Fur   Marc,Fauvergue   Jean-Michel,0,1
+Le Fur   Marc,Michel-Kleisbauer   Philippe,0,1
+Le Fur   Marc,Pouzyreff   Natalia,0,1
+Le Fur   Marc,Marilossian   Jacques,0,1
+Le Fur   Marc,Millienne   Bruno,0,1
+Le Fur   Marc,Dirx   Benjamin,0,1
+Le Fur   Marc,de Courson   Charles,1,1
+Menuel   Gérard,Woerth   Éric,1,1
+Menuel   Gérard,Descoeur   Vincent,1,1
+Menuel   Gérard,Dalloz   Marie-Christine,1,1
+Menuel   Gérard,Pupponi   François,1,1
+Menuel   Gérard,Alauzet   Éric,0,1
+Menuel   Gérard,Pellois   Hervé,0,1
+Menuel   Gérard,Louwagie   Véronique,1,1
+Menuel   Gérard,Pires Beaune   Christine,0,1
+Menuel   Gérard,Bothorel   Éric,0,1
+Menuel   Gérard,Bazin   Thibault,1,1
+Menuel   Gérard,Dive   Julien,1,1
+Menuel   Gérard,Peyrol   Bénédicte,0,1
+Menuel   Gérard,Bono-Vandorme   Aude,0,1
+Menuel   Gérard,Ahamada   Saïd,0,1
+Menuel   Gérard,Laqhila   Mohamed,0,1
+Menuel   Gérard,Ardouin   Jean-Philippe,0,1
+Menuel   Gérard,Gérard   Raphaël,0,1
+Menuel   Gérard,Kerlogot   Yannick,0,1
+Menuel   Gérard,Chassaing   Philippe,0,1
+Menuel   Gérard,Cubertafon   Jean-Pierre,1,1
+Menuel   Gérard,Gouttefarde   Fabien,0,1
+Menuel   Gérard,Mörch   Sandrine,0,1
+Menuel   Gérard,Tanguy   Liliana,0,1
+Menuel   Gérard,Ménard   Emmanuelle,1,1
+Menuel   Gérard,Jolivet   François,0,1
+Menuel   Gérard,Labaronne   Daniel,0,1
+Menuel   Gérard,Motin   Cendra,0,1
+Menuel   Gérard,Brulebois   Danielle,0,1
+Menuel   Gérard,Lauzzana   Michel,0,1
+Menuel   Gérard,Janvier   Caroline,0,1
+Menuel   Gérard,Saint-Paul   Laetitia,0,1
+Menuel   Gérard,Masséglia   Denis,0,1
+Menuel   Gérard,Girardin   Éric,0,1
+Menuel   Gérard,Magnier   Lise,0,1
+Menuel   Gérard,Damaisin   Olivier,0,1
+Menuel   Gérard,Cariou   Émilie,0,1
+Menuel   Gérard,Zannier   Hélène,0,1
+Menuel   Gérard,Goulet   Perrine,0,1
+Menuel   Gérard,Mattei   Jean-Paul,0,1
+Menuel   Gérard,Testé   Stéphane,0,1
+Menuel   Gérard,Holroyd   Alexandre,0,1
+Menuel   Gérard,Coquerel   Éric,1,1
+Menuel   Gérard,Lardet   Frédérique,0,1
+Menuel   Gérard,Kuster   Brigitte,1,1
+Menuel   Gérard,Verdier-Jouclas   Marie-Christine,0,1
+Menuel   Gérard,Person   Pierre,0,1
+Menuel   Gérard,Fauvergue   Jean-Michel,0,1
+Menuel   Gérard,Michel-Kleisbauer   Philippe,0,1
+Menuel   Gérard,Pouzyreff   Natalia,0,1
+Menuel   Gérard,Marilossian   Jacques,0,1
+Menuel   Gérard,Millienne   Bruno,0,1
+Menuel   Gérard,Dirx   Benjamin,0,1
+Menuel   Gérard,de Courson   Charles,1,1
+Woerth   Éric,Descoeur   Vincent,1,1
+Woerth   Éric,Dalloz   Marie-Christine,1,1
+Woerth   Éric,Pupponi   François,1,1
+Woerth   Éric,Alauzet   Éric,0,1
+Woerth   Éric,Pellois   Hervé,0,1
+Woerth   Éric,Louwagie   Véronique,1,1
+Woerth   Éric,Pires Beaune   Christine,0,1
+Woerth   Éric,Bothorel   Éric,0,1
+Woerth   Éric,Bazin   Thibault,1,1
+Woerth   Éric,Dive   Julien,1,1
+Woerth   Éric,Peyrol   Bénédicte,0,1
+Woerth   Éric,Bono-Vandorme   Aude,0,1
+Woerth   Éric,Ahamada   Saïd,0,1
+Woerth   Éric,Laqhila   Mohamed,0,1
+Woerth   Éric,Ardouin   Jean-Philippe,0,1
+Woerth   Éric,Gérard   Raphaël,0,1
+Woerth   Éric,Kerlogot   Yannick,0,1
+Woerth   Éric,Chassaing   Philippe,0,1
+Woerth   Éric,Cubertafon   Jean-Pierre,1,1
+Woerth   Éric,Gouttefarde   Fabien,0,1
+Woerth   Éric,Mörch   Sandrine,0,1
+Woerth   Éric,Tanguy   Liliana,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Jolivet   François,0,1
+Woerth   Éric,Labaronne   Daniel,0,1
+Woerth   Éric,Motin   Cendra,0,1
+Woerth   Éric,Brulebois   Danielle,0,1
+Woerth   Éric,Lauzzana   Michel,0,1
+Woerth   Éric,Janvier   Caroline,0,1
+Woerth   Éric,Saint-Paul   Laetitia,0,1
+Woerth   Éric,Masséglia   Denis,0,1
+Woerth   Éric,Girardin   Éric,0,1
+Woerth   Éric,Magnier   Lise,0,1
+Woerth   Éric,Damaisin   Olivier,0,1
+Woerth   Éric,Cariou   Émilie,0,1
+Woerth   Éric,Zannier   Hélène,0,1
+Woerth   Éric,Goulet   Perrine,0,1
+Woerth   Éric,Mattei   Jean-Paul,0,1
+Woerth   Éric,Testé   Stéphane,0,1
+Woerth   Éric,Holroyd   Alexandre,0,1
+Woerth   Éric,Coquerel   Éric,1,1
+Woerth   Éric,Lardet   Frédérique,0,1
+Woerth   Éric,Kuster   Brigitte,1,1
+Woerth   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Woerth   Éric,Person   Pierre,0,1
+Woerth   Éric,Fauvergue   Jean-Michel,0,1
+Woerth   Éric,Michel-Kleisbauer   Philippe,0,1
+Woerth   Éric,Pouzyreff   Natalia,0,1
+Woerth   Éric,Marilossian   Jacques,0,1
+Woerth   Éric,Millienne   Bruno,0,1
+Woerth   Éric,Dirx   Benjamin,0,1
+Woerth   Éric,de Courson   Charles,1,1
+Descoeur   Vincent,Dalloz   Marie-Christine,1,1
+Descoeur   Vincent,Pupponi   François,1,1
+Descoeur   Vincent,Alauzet   Éric,0,1
+Descoeur   Vincent,Pellois   Hervé,0,1
+Descoeur   Vincent,Louwagie   Véronique,1,1
+Descoeur   Vincent,Pires Beaune   Christine,0,1
+Descoeur   Vincent,Bothorel   Éric,0,1
+Descoeur   Vincent,Bazin   Thibault,1,1
+Descoeur   Vincent,Dive   Julien,1,1
+Descoeur   Vincent,Peyrol   Bénédicte,0,1
+Descoeur   Vincent,Bono-Vandorme   Aude,0,1
+Descoeur   Vincent,Ahamada   Saïd,0,1
+Descoeur   Vincent,Laqhila   Mohamed,0,1
+Descoeur   Vincent,Ardouin   Jean-Philippe,0,1
+Descoeur   Vincent,Gérard   Raphaël,0,1
+Descoeur   Vincent,Kerlogot   Yannick,0,1
+Descoeur   Vincent,Chassaing   Philippe,0,1
+Descoeur   Vincent,Cubertafon   Jean-Pierre,1,1
+Descoeur   Vincent,Gouttefarde   Fabien,0,1
+Descoeur   Vincent,Mörch   Sandrine,0,1
+Descoeur   Vincent,Tanguy   Liliana,0,1
+Descoeur   Vincent,Ménard   Emmanuelle,1,1
+Descoeur   Vincent,Jolivet   François,0,1
+Descoeur   Vincent,Labaronne   Daniel,0,1
+Descoeur   Vincent,Motin   Cendra,0,1
+Descoeur   Vincent,Brulebois   Danielle,0,1
+Descoeur   Vincent,Lauzzana   Michel,0,1
+Descoeur   Vincent,Janvier   Caroline,0,1
+Descoeur   Vincent,Saint-Paul   Laetitia,0,1
+Descoeur   Vincent,Masséglia   Denis,0,1
+Descoeur   Vincent,Girardin   Éric,0,1
+Descoeur   Vincent,Magnier   Lise,0,1
+Descoeur   Vincent,Damaisin   Olivier,0,1
+Descoeur   Vincent,Cariou   Émilie,0,1
+Descoeur   Vincent,Zannier   Hélène,0,1
+Descoeur   Vincent,Goulet   Perrine,0,1
+Descoeur   Vincent,Mattei   Jean-Paul,0,1
+Descoeur   Vincent,Testé   Stéphane,0,1
+Descoeur   Vincent,Holroyd   Alexandre,0,1
+Descoeur   Vincent,Coquerel   Éric,1,1
+Descoeur   Vincent,Lardet   Frédérique,0,1
+Descoeur   Vincent,Kuster   Brigitte,1,1
+Descoeur   Vincent,Verdier-Jouclas   Marie-Christine,0,1
+Descoeur   Vincent,Person   Pierre,0,1
+Descoeur   Vincent,Fauvergue   Jean-Michel,0,1
+Descoeur   Vincent,Michel-Kleisbauer   Philippe,0,1
+Descoeur   Vincent,Pouzyreff   Natalia,0,1
+Descoeur   Vincent,Marilossian   Jacques,0,1
+Descoeur   Vincent,Millienne   Bruno,0,1
+Descoeur   Vincent,Dirx   Benjamin,0,1
+Descoeur   Vincent,de Courson   Charles,1,1
+Dalloz   Marie-Christine,Pupponi   François,1,1
+Dalloz   Marie-Christine,Alauzet   Éric,0,1
+Dalloz   Marie-Christine,Pellois   Hervé,0,1
+Dalloz   Marie-Christine,Louwagie   Véronique,1,1
+Dalloz   Marie-Christine,Pires Beaune   Christine,0,1
+Dalloz   Marie-Christine,Bothorel   Éric,0,1
+Dalloz   Marie-Christine,Bazin   Thibault,1,1
+Dalloz   Marie-Christine,Dive   Julien,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,0,1
+Dalloz   Marie-Christine,Bono-Vandorme   Aude,0,1
+Dalloz   Marie-Christine,Ahamada   Saïd,0,1
+Dalloz   Marie-Christine,Laqhila   Mohamed,0,1
+Dalloz   Marie-Christine,Ardouin   Jean-Philippe,0,1
+Dalloz   Marie-Christine,Gérard   Raphaël,0,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,0,1
+Dalloz   Marie-Christine,Chassaing   Philippe,0,1
+Dalloz   Marie-Christine,Cubertafon   Jean-Pierre,1,1
+Dalloz   Marie-Christine,Gouttefarde   Fabien,0,1
+Dalloz   Marie-Christine,Mörch   Sandrine,0,1
+Dalloz   Marie-Christine,Tanguy   Liliana,0,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Jolivet   François,0,1
+Dalloz   Marie-Christine,Labaronne   Daniel,0,1
+Dalloz   Marie-Christine,Motin   Cendra,0,1
+Dalloz   Marie-Christine,Brulebois   Danielle,0,1
+Dalloz   Marie-Christine,Lauzzana   Michel,0,1
+Dalloz   Marie-Christine,Janvier   Caroline,0,1
+Dalloz   Marie-Christine,Saint-Paul   Laetitia,0,1
+Dalloz   Marie-Christine,Masséglia   Denis,0,1
+Dalloz   Marie-Christine,Girardin   Éric,0,1
+Dalloz   Marie-Christine,Magnier   Lise,0,1
+Dalloz   Marie-Christine,Damaisin   Olivier,0,1
+Dalloz   Marie-Christine,Cariou   Émilie,0,1
+Dalloz   Marie-Christine,Zannier   Hélène,0,1
+Dalloz   Marie-Christine,Goulet   Perrine,0,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,0,1
+Dalloz   Marie-Christine,Testé   Stéphane,0,1
+Dalloz   Marie-Christine,Holroyd   Alexandre,0,1
+Dalloz   Marie-Christine,Coquerel   Éric,1,1
+Dalloz   Marie-Christine,Lardet   Frédérique,0,1
+Dalloz   Marie-Christine,Kuster   Brigitte,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,0,1
+Dalloz   Marie-Christine,Person   Pierre,0,1
+Dalloz   Marie-Christine,Fauvergue   Jean-Michel,0,1
+Dalloz   Marie-Christine,Michel-Kleisbauer   Philippe,0,1
+Dalloz   Marie-Christine,Pouzyreff   Natalia,0,1
+Dalloz   Marie-Christine,Marilossian   Jacques,0,1
+Dalloz   Marie-Christine,Millienne   Bruno,0,1
+Dalloz   Marie-Christine,Dirx   Benjamin,0,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Pupponi   François,Alauzet   Éric,0,1
+Pupponi   François,Pellois   Hervé,0,1
+Pupponi   François,Louwagie   Véronique,1,1
+Pupponi   François,Pires Beaune   Christine,0,1
+Pupponi   François,Bothorel   Éric,0,1
+Pupponi   François,Bazin   Thibault,1,1
+Pupponi   François,Dive   Julien,1,1
+Pupponi   François,Peyrol   Bénédicte,0,1
+Pupponi   François,Bono-Vandorme   Aude,0,1
+Pupponi   François,Ahamada   Saïd,0,1
+Pupponi   François,Laqhila   Mohamed,0,1
+Pupponi   François,Ardouin   Jean-Philippe,0,1
+Pupponi   François,Gérard   Raphaël,0,1
+Pupponi   François,Kerlogot   Yannick,0,1
+Pupponi   François,Chassaing   Philippe,0,1
+Pupponi   François,Cubertafon   Jean-Pierre,1,1
+Pupponi   François,Gouttefarde   Fabien,0,1
+Pupponi   François,Mörch   Sandrine,0,1
+Pupponi   François,Tanguy   Liliana,0,1
+Pupponi   François,Ménard   Emmanuelle,1,1
+Pupponi   François,Jolivet   François,0,1
+Pupponi   François,Labaronne   Daniel,0,1
+Pupponi   François,Motin   Cendra,0,1
+Pupponi   François,Brulebois   Danielle,0,1
+Pupponi   François,Lauzzana   Michel,0,1
+Pupponi   François,Janvier   Caroline,0,1
+Pupponi   François,Saint-Paul   Laetitia,0,1
+Pupponi   François,Masséglia   Denis,0,1
+Pupponi   François,Girardin   Éric,0,1
+Pupponi   François,Magnier   Lise,0,1
+Pupponi   François,Damaisin   Olivier,0,1
+Pupponi   François,Cariou   Émilie,0,1
+Pupponi   François,Zannier   Hélène,0,1
+Pupponi   François,Goulet   Perrine,0,1
+Pupponi   François,Mattei   Jean-Paul,0,1
+Pupponi   François,Testé   Stéphane,0,1
+Pupponi   François,Holroyd   Alexandre,0,1
+Pupponi   François,Coquerel   Éric,1,1
+Pupponi   François,Lardet   Frédérique,0,1
+Pupponi   François,Kuster   Brigitte,1,1
+Pupponi   François,Verdier-Jouclas   Marie-Christine,0,1
+Pupponi   François,Person   Pierre,0,1
+Pupponi   François,Fauvergue   Jean-Michel,0,1
+Pupponi   François,Michel-Kleisbauer   Philippe,0,1
+Pupponi   François,Pouzyreff   Natalia,0,1
+Pupponi   François,Marilossian   Jacques,0,1
+Pupponi   François,Millienne   Bruno,0,1
+Pupponi   François,Dirx   Benjamin,0,1
+Pupponi   François,de Courson   Charles,1,1
+Alauzet   Éric,Pellois   Hervé,1,1
+Alauzet   Éric,Louwagie   Véronique,0,1
+Alauzet   Éric,Pires Beaune   Christine,1,1
+Alauzet   Éric,Bothorel   Éric,1,1
+Alauzet   Éric,Bazin   Thibault,0,1
+Alauzet   Éric,Dive   Julien,0,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Bono-Vandorme   Aude,1,1
+Alauzet   Éric,Ahamada   Saïd,1,1
+Alauzet   Éric,Laqhila   Mohamed,1,1
+Alauzet   Éric,Ardouin   Jean-Philippe,1,1
+Alauzet   Éric,Gérard   Raphaël,1,1
+Alauzet   Éric,Kerlogot   Yannick,1,1
+Alauzet   Éric,Chassaing   Philippe,1,1
+Alauzet   Éric,Cubertafon   Jean-Pierre,0,1
+Alauzet   Éric,Gouttefarde   Fabien,1,1
+Alauzet   Éric,Mörch   Sandrine,1,1
+Alauzet   Éric,Tanguy   Liliana,1,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,Jolivet   François,1,1
+Alauzet   Éric,Labaronne   Daniel,1,1
+Alauzet   Éric,Motin   Cendra,1,1
+Alauzet   Éric,Brulebois   Danielle,1,1
+Alauzet   Éric,Lauzzana   Michel,1,1
+Alauzet   Éric,Janvier   Caroline,1,1
+Alauzet   Éric,Saint-Paul   Laetitia,1,1
+Alauzet   Éric,Masséglia   Denis,1,1
+Alauzet   Éric,Girardin   Éric,1,1
+Alauzet   Éric,Magnier   Lise,1,1
+Alauzet   Éric,Damaisin   Olivier,1,1
+Alauzet   Éric,Cariou   Émilie,1,1
+Alauzet   Éric,Zannier   Hélène,1,1
+Alauzet   Éric,Goulet   Perrine,1,1
+Alauzet   Éric,Mattei   Jean-Paul,1,1
+Alauzet   Éric,Testé   Stéphane,1,1
+Alauzet   Éric,Holroyd   Alexandre,1,1
+Alauzet   Éric,Coquerel   Éric,0,1
+Alauzet   Éric,Lardet   Frédérique,1,1
+Alauzet   Éric,Kuster   Brigitte,0,1
+Alauzet   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Alauzet   Éric,Person   Pierre,1,1
+Alauzet   Éric,Fauvergue   Jean-Michel,1,1
+Alauzet   Éric,Michel-Kleisbauer   Philippe,1,1
+Alauzet   Éric,Pouzyreff   Natalia,1,1
+Alauzet   Éric,Marilossian   Jacques,1,1
+Alauzet   Éric,Millienne   Bruno,1,1
+Alauzet   Éric,Dirx   Benjamin,1,1
+Alauzet   Éric,de Courson   Charles,0,1
+Pellois   Hervé,Louwagie   Véronique,0,1
+Pellois   Hervé,Pires Beaune   Christine,1,1
+Pellois   Hervé,Bothorel   Éric,1,1
+Pellois   Hervé,Bazin   Thibault,0,1
+Pellois   Hervé,Dive   Julien,0,1
+Pellois   Hervé,Peyrol   Bénédicte,1,1
+Pellois   Hervé,Bono-Vandorme   Aude,1,1
+Pellois   Hervé,Ahamada   Saïd,1,1
+Pellois   Hervé,Laqhila   Mohamed,1,1
+Pellois   Hervé,Ardouin   Jean-Philippe,1,1
+Pellois   Hervé,Gérard   Raphaël,1,1
+Pellois   Hervé,Kerlogot   Yannick,1,1
+Pellois   Hervé,Chassaing   Philippe,1,1
+Pellois   Hervé,Cubertafon   Jean-Pierre,0,1
+Pellois   Hervé,Gouttefarde   Fabien,1,1
+Pellois   Hervé,Mörch   Sandrine,1,1
+Pellois   Hervé,Tanguy   Liliana,1,1
+Pellois   Hervé,Ménard   Emmanuelle,0,1
+Pellois   Hervé,Jolivet   François,1,1
+Pellois   Hervé,Labaronne   Daniel,1,1
+Pellois   Hervé,Motin   Cendra,1,1
+Pellois   Hervé,Brulebois   Danielle,1,1
+Pellois   Hervé,Lauzzana   Michel,1,1
+Pellois   Hervé,Janvier   Caroline,1,1
+Pellois   Hervé,Saint-Paul   Laetitia,1,1
+Pellois   Hervé,Masséglia   Denis,1,1
+Pellois   Hervé,Girardin   Éric,1,1
+Pellois   Hervé,Magnier   Lise,1,1
+Pellois   Hervé,Damaisin   Olivier,1,1
+Pellois   Hervé,Cariou   Émilie,1,1
+Pellois   Hervé,Zannier   Hélène,1,1
+Pellois   Hervé,Goulet   Perrine,1,1
+Pellois   Hervé,Mattei   Jean-Paul,1,1
+Pellois   Hervé,Testé   Stéphane,1,1
+Pellois   Hervé,Holroyd   Alexandre,1,1
+Pellois   Hervé,Coquerel   Éric,0,1
+Pellois   Hervé,Lardet   Frédérique,1,1
+Pellois   Hervé,Kuster   Brigitte,0,1
+Pellois   Hervé,Verdier-Jouclas   Marie-Christine,1,1
+Pellois   Hervé,Person   Pierre,1,1
+Pellois   Hervé,Fauvergue   Jean-Michel,1,1
+Pellois   Hervé,Michel-Kleisbauer   Philippe,1,1
+Pellois   Hervé,Pouzyreff   Natalia,1,1
+Pellois   Hervé,Marilossian   Jacques,1,1
+Pellois   Hervé,Millienne   Bruno,1,1
+Pellois   Hervé,Dirx   Benjamin,1,1
+Pellois   Hervé,de Courson   Charles,0,1
+Louwagie   Véronique,Pires Beaune   Christine,0,1
+Louwagie   Véronique,Bothorel   Éric,0,1
+Louwagie   Véronique,Bazin   Thibault,1,1
+Louwagie   Véronique,Dive   Julien,1,1
+Louwagie   Véronique,Peyrol   Bénédicte,0,1
+Louwagie   Véronique,Bono-Vandorme   Aude,0,1
+Louwagie   Véronique,Ahamada   Saïd,0,1
+Louwagie   Véronique,Laqhila   Mohamed,0,1
+Louwagie   Véronique,Ardouin   Jean-Philippe,0,1
+Louwagie   Véronique,Gérard   Raphaël,0,1
+Louwagie   Véronique,Kerlogot   Yannick,0,1
+Louwagie   Véronique,Chassaing   Philippe,0,1
+Louwagie   Véronique,Cubertafon   Jean-Pierre,1,1
+Louwagie   Véronique,Gouttefarde   Fabien,0,1
+Louwagie   Véronique,Mörch   Sandrine,0,1
+Louwagie   Véronique,Tanguy   Liliana,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Jolivet   François,0,1
+Louwagie   Véronique,Labaronne   Daniel,0,1
+Louwagie   Véronique,Motin   Cendra,0,1
+Louwagie   Véronique,Brulebois   Danielle,0,1
+Louwagie   Véronique,Lauzzana   Michel,0,1
+Louwagie   Véronique,Janvier   Caroline,0,1
+Louwagie   Véronique,Saint-Paul   Laetitia,0,1
+Louwagie   Véronique,Masséglia   Denis,0,1
+Louwagie   Véronique,Girardin   Éric,0,1
+Louwagie   Véronique,Magnier   Lise,0,1
+Louwagie   Véronique,Damaisin   Olivier,0,1
+Louwagie   Véronique,Cariou   Émilie,0,1
+Louwagie   Véronique,Zannier   Hélène,0,1
+Louwagie   Véronique,Goulet   Perrine,0,1
+Louwagie   Véronique,Mattei   Jean-Paul,0,1
+Louwagie   Véronique,Testé   Stéphane,0,1
+Louwagie   Véronique,Holroyd   Alexandre,0,1
+Louwagie   Véronique,Coquerel   Éric,1,1
+Louwagie   Véronique,Lardet   Frédérique,0,1
+Louwagie   Véronique,Kuster   Brigitte,1,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Person   Pierre,0,1
+Louwagie   Véronique,Fauvergue   Jean-Michel,0,1
+Louwagie   Véronique,Michel-Kleisbauer   Philippe,0,1
+Louwagie   Véronique,Pouzyreff   Natalia,0,1
+Louwagie   Véronique,Marilossian   Jacques,0,1
+Louwagie   Véronique,Millienne   Bruno,0,1
+Louwagie   Véronique,Dirx   Benjamin,0,1
+Louwagie   Véronique,de Courson   Charles,1,1
+Pires Beaune   Christine,Bothorel   Éric,1,1
+Pires Beaune   Christine,Bazin   Thibault,0,1
+Pires Beaune   Christine,Dive   Julien,0,1
+Pires Beaune   Christine,Peyrol   Bénédicte,1,1
+Pires Beaune   Christine,Bono-Vandorme   Aude,1,1
+Pires Beaune   Christine,Ahamada   Saïd,1,1
+Pires Beaune   Christine,Laqhila   Mohamed,1,1
+Pires Beaune   Christine,Ardouin   Jean-Philippe,1,1
+Pires Beaune   Christine,Gérard   Raphaël,1,1
+Pires Beaune   Christine,Kerlogot   Yannick,1,1
+Pires Beaune   Christine,Chassaing   Philippe,1,1
+Pires Beaune   Christine,Cubertafon   Jean-Pierre,0,1
+Pires Beaune   Christine,Gouttefarde   Fabien,1,1
+Pires Beaune   Christine,Mörch   Sandrine,1,1
+Pires Beaune   Christine,Tanguy   Liliana,1,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,Jolivet   François,1,1
+Pires Beaune   Christine,Labaronne   Daniel,1,1
+Pires Beaune   Christine,Motin   Cendra,1,1
+Pires Beaune   Christine,Brulebois   Danielle,1,1
+Pires Beaune   Christine,Lauzzana   Michel,1,1
+Pires Beaune   Christine,Janvier   Caroline,1,1
+Pires Beaune   Christine,Saint-Paul   Laetitia,1,1
+Pires Beaune   Christine,Masséglia   Denis,1,1
+Pires Beaune   Christine,Girardin   Éric,1,1
+Pires Beaune   Christine,Magnier   Lise,1,1
+Pires Beaune   Christine,Damaisin   Olivier,1,1
+Pires Beaune   Christine,Cariou   Émilie,1,1
+Pires Beaune   Christine,Zannier   Hélène,1,1
+Pires Beaune   Christine,Goulet   Perrine,1,1
+Pires Beaune   Christine,Mattei   Jean-Paul,1,1
+Pires Beaune   Christine,Testé   Stéphane,1,1
+Pires Beaune   Christine,Holroyd   Alexandre,1,1
+Pires Beaune   Christine,Coquerel   Éric,0,1
+Pires Beaune   Christine,Lardet   Frédérique,1,1
+Pires Beaune   Christine,Kuster   Brigitte,0,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,1,1
+Pires Beaune   Christine,Person   Pierre,1,1
+Pires Beaune   Christine,Fauvergue   Jean-Michel,1,1
+Pires Beaune   Christine,Michel-Kleisbauer   Philippe,1,1
+Pires Beaune   Christine,Pouzyreff   Natalia,1,1
+Pires Beaune   Christine,Marilossian   Jacques,1,1
+Pires Beaune   Christine,Millienne   Bruno,1,1
+Pires Beaune   Christine,Dirx   Benjamin,1,1
+Pires Beaune   Christine,de Courson   Charles,0,1
+Bothorel   Éric,Bazin   Thibault,0,1
+Bothorel   Éric,Dive   Julien,0,1
+Bothorel   Éric,Peyrol   Bénédicte,1,1
+Bothorel   Éric,Bono-Vandorme   Aude,1,1
+Bothorel   Éric,Ahamada   Saïd,1,1
+Bothorel   Éric,Laqhila   Mohamed,1,1
+Bothorel   Éric,Ardouin   Jean-Philippe,1,1
+Bothorel   Éric,Gérard   Raphaël,1,1
+Bothorel   Éric,Kerlogot   Yannick,1,1
+Bothorel   Éric,Chassaing   Philippe,1,1
+Bothorel   Éric,Cubertafon   Jean-Pierre,0,1
+Bothorel   Éric,Gouttefarde   Fabien,1,1
+Bothorel   Éric,Mörch   Sandrine,1,1
+Bothorel   Éric,Tanguy   Liliana,1,1
+Bothorel   Éric,Ménard   Emmanuelle,0,1
+Bothorel   Éric,Jolivet   François,1,1
+Bothorel   Éric,Labaronne   Daniel,1,1
+Bothorel   Éric,Motin   Cendra,1,1
+Bothorel   Éric,Brulebois   Danielle,1,1
+Bothorel   Éric,Lauzzana   Michel,1,1
+Bothorel   Éric,Janvier   Caroline,1,1
+Bothorel   Éric,Saint-Paul   Laetitia,1,1
+Bothorel   Éric,Masséglia   Denis,1,1
+Bothorel   Éric,Girardin   Éric,1,1
+Bothorel   Éric,Magnier   Lise,1,1
+Bothorel   Éric,Damaisin   Olivier,1,1
+Bothorel   Éric,Cariou   Émilie,1,1
+Bothorel   Éric,Zannier   Hélène,1,1
+Bothorel   Éric,Goulet   Perrine,1,1
+Bothorel   Éric,Mattei   Jean-Paul,1,1
+Bothorel   Éric,Testé   Stéphane,1,1
+Bothorel   Éric,Holroyd   Alexandre,1,1
+Bothorel   Éric,Coquerel   Éric,0,1
+Bothorel   Éric,Lardet   Frédérique,1,1
+Bothorel   Éric,Kuster   Brigitte,0,1
+Bothorel   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Bothorel   Éric,Person   Pierre,1,1
+Bothorel   Éric,Fauvergue   Jean-Michel,1,1
+Bothorel   Éric,Michel-Kleisbauer   Philippe,1,1
+Bothorel   Éric,Pouzyreff   Natalia,1,1
+Bothorel   Éric,Marilossian   Jacques,1,1
+Bothorel   Éric,Millienne   Bruno,1,1
+Bothorel   Éric,Dirx   Benjamin,1,1
+Bothorel   Éric,de Courson   Charles,0,1
+Bazin   Thibault,Dive   Julien,1,1
+Bazin   Thibault,Peyrol   Bénédicte,0,1
+Bazin   Thibault,Bono-Vandorme   Aude,0,1
+Bazin   Thibault,Ahamada   Saïd,0,1
+Bazin   Thibault,Laqhila   Mohamed,0,1
+Bazin   Thibault,Ardouin   Jean-Philippe,0,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Kerlogot   Yannick,0,1
+Bazin   Thibault,Chassaing   Philippe,0,1
+Bazin   Thibault,Cubertafon   Jean-Pierre,1,1
+Bazin   Thibault,Gouttefarde   Fabien,0,1
+Bazin   Thibault,Mörch   Sandrine,0,1
+Bazin   Thibault,Tanguy   Liliana,0,1
+Bazin   Thibault,Ménard   Emmanuelle,1,1
+Bazin   Thibault,Jolivet   François,0,1
+Bazin   Thibault,Labaronne   Daniel,0,1
+Bazin   Thibault,Motin   Cendra,0,1
+Bazin   Thibault,Brulebois   Danielle,0,1
+Bazin   Thibault,Lauzzana   Michel,0,1
+Bazin   Thibault,Janvier   Caroline,0,1
+Bazin   Thibault,Saint-Paul   Laetitia,0,1
+Bazin   Thibault,Masséglia   Denis,0,1
+Bazin   Thibault,Girardin   Éric,0,1
+Bazin   Thibault,Magnier   Lise,0,1
+Bazin   Thibault,Damaisin   Olivier,0,1
+Bazin   Thibault,Cariou   Émilie,0,1
+Bazin   Thibault,Zannier   Hélène,0,1
+Bazin   Thibault,Goulet   Perrine,0,1
+Bazin   Thibault,Mattei   Jean-Paul,0,1
+Bazin   Thibault,Testé   Stéphane,0,1
+Bazin   Thibault,Holroyd   Alexandre,0,1
+Bazin   Thibault,Coquerel   Éric,1,1
+Bazin   Thibault,Lardet   Frédérique,0,1
+Bazin   Thibault,Kuster   Brigitte,1,1
+Bazin   Thibault,Verdier-Jouclas   Marie-Christine,0,1
+Bazin   Thibault,Person   Pierre,0,1
+Bazin   Thibault,Fauvergue   Jean-Michel,0,1
+Bazin   Thibault,Michel-Kleisbauer   Philippe,0,1
+Bazin   Thibault,Pouzyreff   Natalia,0,1
+Bazin   Thibault,Marilossian   Jacques,0,1
+Bazin   Thibault,Millienne   Bruno,0,1
+Bazin   Thibault,Dirx   Benjamin,0,1
+Bazin   Thibault,de Courson   Charles,1,1
+Dive   Julien,Peyrol   Bénédicte,0,1
+Dive   Julien,Bono-Vandorme   Aude,0,1
+Dive   Julien,Ahamada   Saïd,0,1
+Dive   Julien,Laqhila   Mohamed,0,1
+Dive   Julien,Ardouin   Jean-Philippe,0,1
+Dive   Julien,Gérard   Raphaël,0,1
+Dive   Julien,Kerlogot   Yannick,0,1
+Dive   Julien,Chassaing   Philippe,0,1
+Dive   Julien,Cubertafon   Jean-Pierre,1,1
+Dive   Julien,Gouttefarde   Fabien,0,1
+Dive   Julien,Mörch   Sandrine,0,1
+Dive   Julien,Tanguy   Liliana,0,1
+Dive   Julien,Ménard   Emmanuelle,1,1
+Dive   Julien,Jolivet   François,0,1
+Dive   Julien,Labaronne   Daniel,0,1
+Dive   Julien,Motin   Cendra,0,1
+Dive   Julien,Brulebois   Danielle,0,1
+Dive   Julien,Lauzzana   Michel,0,1
+Dive   Julien,Janvier   Caroline,0,1
+Dive   Julien,Saint-Paul   Laetitia,0,1
+Dive   Julien,Masséglia   Denis,0,1
+Dive   Julien,Girardin   Éric,0,1
+Dive   Julien,Magnier   Lise,0,1
+Dive   Julien,Damaisin   Olivier,0,1
+Dive   Julien,Cariou   Émilie,0,1
+Dive   Julien,Zannier   Hélène,0,1
+Dive   Julien,Goulet   Perrine,0,1
+Dive   Julien,Mattei   Jean-Paul,0,1
+Dive   Julien,Testé   Stéphane,0,1
+Dive   Julien,Holroyd   Alexandre,0,1
+Dive   Julien,Coquerel   Éric,1,1
+Dive   Julien,Lardet   Frédérique,0,1
+Dive   Julien,Kuster   Brigitte,1,1
+Dive   Julien,Verdier-Jouclas   Marie-Christine,0,1
+Dive   Julien,Person   Pierre,0,1
+Dive   Julien,Fauvergue   Jean-Michel,0,1
+Dive   Julien,Michel-Kleisbauer   Philippe,0,1
+Dive   Julien,Pouzyreff   Natalia,0,1
+Dive   Julien,Marilossian   Jacques,0,1
+Dive   Julien,Millienne   Bruno,0,1
+Dive   Julien,Dirx   Benjamin,0,1
+Dive   Julien,de Courson   Charles,1,1
+Peyrol   Bénédicte,Bono-Vandorme   Aude,1,1
+Peyrol   Bénédicte,Ahamada   Saïd,1,1
+Peyrol   Bénédicte,Laqhila   Mohamed,1,1
+Peyrol   Bénédicte,Ardouin   Jean-Philippe,1,1
+Peyrol   Bénédicte,Gérard   Raphaël,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Chassaing   Philippe,1,1
+Peyrol   Bénédicte,Cubertafon   Jean-Pierre,0,1
+Peyrol   Bénédicte,Gouttefarde   Fabien,1,1
+Peyrol   Bénédicte,Mörch   Sandrine,1,1
+Peyrol   Bénédicte,Tanguy   Liliana,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,Jolivet   François,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Brulebois   Danielle,1,1
+Peyrol   Bénédicte,Lauzzana   Michel,1,1
+Peyrol   Bénédicte,Janvier   Caroline,1,1
+Peyrol   Bénédicte,Saint-Paul   Laetitia,1,1
+Peyrol   Bénédicte,Masséglia   Denis,1,1
+Peyrol   Bénédicte,Girardin   Éric,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Damaisin   Olivier,1,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,1,1
+Peyrol   Bénédicte,Testé   Stéphane,1,1
+Peyrol   Bénédicte,Holroyd   Alexandre,1,1
+Peyrol   Bénédicte,Coquerel   Éric,0,1
+Peyrol   Bénédicte,Lardet   Frédérique,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,0,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Person   Pierre,1,1
+Peyrol   Bénédicte,Fauvergue   Jean-Michel,1,1
+Peyrol   Bénédicte,Michel-Kleisbauer   Philippe,1,1
+Peyrol   Bénédicte,Pouzyreff   Natalia,1,1
+Peyrol   Bénédicte,Marilossian   Jacques,1,1
+Peyrol   Bénédicte,Millienne   Bruno,1,1
+Peyrol   Bénédicte,Dirx   Benjamin,1,1
+Peyrol   Bénédicte,de Courson   Charles,0,1
+Bono-Vandorme   Aude,Ahamada   Saïd,1,1
+Bono-Vandorme   Aude,Laqhila   Mohamed,1,1
+Bono-Vandorme   Aude,Ardouin   Jean-Philippe,1,1
+Bono-Vandorme   Aude,Gérard   Raphaël,1,1
+Bono-Vandorme   Aude,Kerlogot   Yannick,1,1
+Bono-Vandorme   Aude,Chassaing   Philippe,1,1
+Bono-Vandorme   Aude,Cubertafon   Jean-Pierre,0,1
+Bono-Vandorme   Aude,Gouttefarde   Fabien,1,1
+Bono-Vandorme   Aude,Mörch   Sandrine,1,1
+Bono-Vandorme   Aude,Tanguy   Liliana,1,1
+Bono-Vandorme   Aude,Ménard   Emmanuelle,0,1
+Bono-Vandorme   Aude,Jolivet   François,1,1
+Bono-Vandorme   Aude,Labaronne   Daniel,1,1
+Bono-Vandorme   Aude,Motin   Cendra,1,1
+Bono-Vandorme   Aude,Brulebois   Danielle,1,1
+Bono-Vandorme   Aude,Lauzzana   Michel,1,1
+Bono-Vandorme   Aude,Janvier   Caroline,1,1
+Bono-Vandorme   Aude,Saint-Paul   Laetitia,1,1
+Bono-Vandorme   Aude,Masséglia   Denis,1,1
+Bono-Vandorme   Aude,Girardin   Éric,1,1
+Bono-Vandorme   Aude,Magnier   Lise,1,1
+Bono-Vandorme   Aude,Damaisin   Olivier,1,1
+Bono-Vandorme   Aude,Cariou   Émilie,1,1
+Bono-Vandorme   Aude,Zannier   Hélène,1,1
+Bono-Vandorme   Aude,Goulet   Perrine,1,1
+Bono-Vandorme   Aude,Mattei   Jean-Paul,1,1
+Bono-Vandorme   Aude,Testé   Stéphane,1,1
+Bono-Vandorme   Aude,Holroyd   Alexandre,1,1
+Bono-Vandorme   Aude,Coquerel   Éric,0,1
+Bono-Vandorme   Aude,Lardet   Frédérique,1,1
+Bono-Vandorme   Aude,Kuster   Brigitte,0,1
+Bono-Vandorme   Aude,Verdier-Jouclas   Marie-Christine,1,1
+Bono-Vandorme   Aude,Person   Pierre,1,1
+Bono-Vandorme   Aude,Fauvergue   Jean-Michel,1,1
+Bono-Vandorme   Aude,Michel-Kleisbauer   Philippe,1,1
+Bono-Vandorme   Aude,Pouzyreff   Natalia,1,1
+Bono-Vandorme   Aude,Marilossian   Jacques,1,1
+Bono-Vandorme   Aude,Millienne   Bruno,1,1
+Bono-Vandorme   Aude,Dirx   Benjamin,1,1
+Bono-Vandorme   Aude,de Courson   Charles,0,1
+Ahamada   Saïd,Laqhila   Mohamed,1,1
+Ahamada   Saïd,Ardouin   Jean-Philippe,1,1
+Ahamada   Saïd,Gérard   Raphaël,1,1
+Ahamada   Saïd,Kerlogot   Yannick,1,1
+Ahamada   Saïd,Chassaing   Philippe,1,1
+Ahamada   Saïd,Cubertafon   Jean-Pierre,0,1
+Ahamada   Saïd,Gouttefarde   Fabien,1,1
+Ahamada   Saïd,Mörch   Sandrine,1,1
+Ahamada   Saïd,Tanguy   Liliana,1,1
+Ahamada   Saïd,Ménard   Emmanuelle,0,1
+Ahamada   Saïd,Jolivet   François,1,1
+Ahamada   Saïd,Labaronne   Daniel,1,1
+Ahamada   Saïd,Motin   Cendra,1,1
+Ahamada   Saïd,Brulebois   Danielle,1,1
+Ahamada   Saïd,Lauzzana   Michel,1,1
+Ahamada   Saïd,Janvier   Caroline,1,1
+Ahamada   Saïd,Saint-Paul   Laetitia,1,1
+Ahamada   Saïd,Masséglia   Denis,1,1
+Ahamada   Saïd,Girardin   Éric,1,1
+Ahamada   Saïd,Magnier   Lise,1,1
+Ahamada   Saïd,Damaisin   Olivier,1,1
+Ahamada   Saïd,Cariou   Émilie,1,1
+Ahamada   Saïd,Zannier   Hélène,1,1
+Ahamada   Saïd,Goulet   Perrine,1,1
+Ahamada   Saïd,Mattei   Jean-Paul,1,1
+Ahamada   Saïd,Testé   Stéphane,1,1
+Ahamada   Saïd,Holroyd   Alexandre,1,1
+Ahamada   Saïd,Coquerel   Éric,0,1
+Ahamada   Saïd,Lardet   Frédérique,1,1
+Ahamada   Saïd,Kuster   Brigitte,0,1
+Ahamada   Saïd,Verdier-Jouclas   Marie-Christine,1,1
+Ahamada   Saïd,Person   Pierre,1,1
+Ahamada   Saïd,Fauvergue   Jean-Michel,1,1
+Ahamada   Saïd,Michel-Kleisbauer   Philippe,1,1
+Ahamada   Saïd,Pouzyreff   Natalia,1,1
+Ahamada   Saïd,Marilossian   Jacques,1,1
+Ahamada   Saïd,Millienne   Bruno,1,1
+Ahamada   Saïd,Dirx   Benjamin,1,1
+Ahamada   Saïd,de Courson   Charles,0,1
+Laqhila   Mohamed,Ardouin   Jean-Philippe,1,1
+Laqhila   Mohamed,Gérard   Raphaël,1,1
+Laqhila   Mohamed,Kerlogot   Yannick,1,1
+Laqhila   Mohamed,Chassaing   Philippe,1,1
+Laqhila   Mohamed,Cubertafon   Jean-Pierre,0,1
+Laqhila   Mohamed,Gouttefarde   Fabien,1,1
+Laqhila   Mohamed,Mörch   Sandrine,1,1
+Laqhila   Mohamed,Tanguy   Liliana,1,1
+Laqhila   Mohamed,Ménard   Emmanuelle,0,1
+Laqhila   Mohamed,Jolivet   François,1,1
+Laqhila   Mohamed,Labaronne   Daniel,1,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Brulebois   Danielle,1,1
+Laqhila   Mohamed,Lauzzana   Michel,1,1
+Laqhila   Mohamed,Janvier   Caroline,1,1
+Laqhila   Mohamed,Saint-Paul   Laetitia,1,1
+Laqhila   Mohamed,Masséglia   Denis,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Magnier   Lise,1,1
+Laqhila   Mohamed,Damaisin   Olivier,1,1
+Laqhila   Mohamed,Cariou   Émilie,1,1
+Laqhila   Mohamed,Zannier   Hélène,1,1
+Laqhila   Mohamed,Goulet   Perrine,1,1
+Laqhila   Mohamed,Mattei   Jean-Paul,1,1
+Laqhila   Mohamed,Testé   Stéphane,1,1
+Laqhila   Mohamed,Holroyd   Alexandre,1,1
+Laqhila   Mohamed,Coquerel   Éric,0,1
+Laqhila   Mohamed,Lardet   Frédérique,1,1
+Laqhila   Mohamed,Kuster   Brigitte,0,1
+Laqhila   Mohamed,Verdier-Jouclas   Marie-Christine,1,1
+Laqhila   Mohamed,Person   Pierre,1,1
+Laqhila   Mohamed,Fauvergue   Jean-Michel,1,1
+Laqhila   Mohamed,Michel-Kleisbauer   Philippe,1,1
+Laqhila   Mohamed,Pouzyreff   Natalia,1,1
+Laqhila   Mohamed,Marilossian   Jacques,1,1
+Laqhila   Mohamed,Millienne   Bruno,1,1
+Laqhila   Mohamed,Dirx   Benjamin,1,1
+Laqhila   Mohamed,de Courson   Charles,0,1
+Ardouin   Jean-Philippe,Gérard   Raphaël,1,1
+Ardouin   Jean-Philippe,Kerlogot   Yannick,1,1
+Ardouin   Jean-Philippe,Chassaing   Philippe,1,1
+Ardouin   Jean-Philippe,Cubertafon   Jean-Pierre,0,1
+Ardouin   Jean-Philippe,Gouttefarde   Fabien,1,1
+Ardouin   Jean-Philippe,Mörch   Sandrine,1,1
+Ardouin   Jean-Philippe,Tanguy   Liliana,1,1
+Ardouin   Jean-Philippe,Ménard   Emmanuelle,0,1
+Ardouin   Jean-Philippe,Jolivet   François,1,1
+Ardouin   Jean-Philippe,Labaronne   Daniel,1,1
+Ardouin   Jean-Philippe,Motin   Cendra,1,1
+Ardouin   Jean-Philippe,Brulebois   Danielle,1,1
+Ardouin   Jean-Philippe,Lauzzana   Michel,1,1
+Ardouin   Jean-Philippe,Janvier   Caroline,1,1
+Ardouin   Jean-Philippe,Saint-Paul   Laetitia,1,1
+Ardouin   Jean-Philippe,Masséglia   Denis,1,1
+Ardouin   Jean-Philippe,Girardin   Éric,1,1
+Ardouin   Jean-Philippe,Magnier   Lise,1,1
+Ardouin   Jean-Philippe,Damaisin   Olivier,1,1
+Ardouin   Jean-Philippe,Cariou   Émilie,1,1
+Ardouin   Jean-Philippe,Zannier   Hélène,1,1
+Ardouin   Jean-Philippe,Goulet   Perrine,1,1
+Ardouin   Jean-Philippe,Mattei   Jean-Paul,1,1
+Ardouin   Jean-Philippe,Testé   Stéphane,1,1
+Ardouin   Jean-Philippe,Holroyd   Alexandre,1,1
+Ardouin   Jean-Philippe,Coquerel   Éric,0,1
+Ardouin   Jean-Philippe,Lardet   Frédérique,1,1
+Ardouin   Jean-Philippe,Kuster   Brigitte,0,1
+Ardouin   Jean-Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Ardouin   Jean-Philippe,Person   Pierre,1,1
+Ardouin   Jean-Philippe,Fauvergue   Jean-Michel,1,1
+Ardouin   Jean-Philippe,Michel-Kleisbauer   Philippe,1,1
+Ardouin   Jean-Philippe,Pouzyreff   Natalia,1,1
+Ardouin   Jean-Philippe,Marilossian   Jacques,1,1
+Ardouin   Jean-Philippe,Millienne   Bruno,1,1
+Ardouin   Jean-Philippe,Dirx   Benjamin,1,1
+Ardouin   Jean-Philippe,de Courson   Charles,0,1
+Gérard   Raphaël,Kerlogot   Yannick,1,1
+Gérard   Raphaël,Chassaing   Philippe,1,1
+Gérard   Raphaël,Cubertafon   Jean-Pierre,0,1
+Gérard   Raphaël,Gouttefarde   Fabien,1,1
+Gérard   Raphaël,Mörch   Sandrine,1,1
+Gérard   Raphaël,Tanguy   Liliana,1,1
+Gérard   Raphaël,Ménard   Emmanuelle,0,1
+Gérard   Raphaël,Jolivet   François,1,1
+Gérard   Raphaël,Labaronne   Daniel,1,1
+Gérard   Raphaël,Motin   Cendra,1,1
+Gérard   Raphaël,Brulebois   Danielle,1,1
+Gérard   Raphaël,Lauzzana   Michel,1,1
+Gérard   Raphaël,Janvier   Caroline,1,1
+Gérard   Raphaël,Saint-Paul   Laetitia,1,1
+Gérard   Raphaël,Masséglia   Denis,1,1
+Gérard   Raphaël,Girardin   Éric,1,1
+Gérard   Raphaël,Magnier   Lise,1,1
+Gérard   Raphaël,Damaisin   Olivier,1,1
+Gérard   Raphaël,Cariou   Émilie,1,1
+Gérard   Raphaël,Zannier   Hélène,1,1
+Gérard   Raphaël,Goulet   Perrine,1,1
+Gérard   Raphaël,Mattei   Jean-Paul,1,1
+Gérard   Raphaël,Testé   Stéphane,1,1
+Gérard   Raphaël,Holroyd   Alexandre,1,1
+Gérard   Raphaël,Coquerel   Éric,0,1
+Gérard   Raphaël,Lardet   Frédérique,1,1
+Gérard   Raphaël,Kuster   Brigitte,0,1
+Gérard   Raphaël,Verdier-Jouclas   Marie-Christine,1,1
+Gérard   Raphaël,Person   Pierre,1,1
+Gérard   Raphaël,Fauvergue   Jean-Michel,1,1
+Gérard   Raphaël,Michel-Kleisbauer   Philippe,1,1
+Gérard   Raphaël,Pouzyreff   Natalia,1,1
+Gérard   Raphaël,Marilossian   Jacques,1,1
+Gérard   Raphaël,Millienne   Bruno,1,1
+Gérard   Raphaël,Dirx   Benjamin,1,1
+Gérard   Raphaël,de Courson   Charles,0,1
+Kerlogot   Yannick,Chassaing   Philippe,1,1
+Kerlogot   Yannick,Cubertafon   Jean-Pierre,0,1
+Kerlogot   Yannick,Gouttefarde   Fabien,1,1
+Kerlogot   Yannick,Mörch   Sandrine,1,1
+Kerlogot   Yannick,Tanguy   Liliana,1,1
+Kerlogot   Yannick,Ménard   Emmanuelle,0,1
+Kerlogot   Yannick,Jolivet   François,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Motin   Cendra,1,1
+Kerlogot   Yannick,Brulebois   Danielle,1,1
+Kerlogot   Yannick,Lauzzana   Michel,1,1
+Kerlogot   Yannick,Janvier   Caroline,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Masséglia   Denis,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Magnier   Lise,1,1
+Kerlogot   Yannick,Damaisin   Olivier,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Mattei   Jean-Paul,1,1
+Kerlogot   Yannick,Testé   Stéphane,1,1
+Kerlogot   Yannick,Holroyd   Alexandre,1,1
+Kerlogot   Yannick,Coquerel   Éric,0,1
+Kerlogot   Yannick,Lardet   Frédérique,1,1
+Kerlogot   Yannick,Kuster   Brigitte,0,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Person   Pierre,1,1
+Kerlogot   Yannick,Fauvergue   Jean-Michel,1,1
+Kerlogot   Yannick,Michel-Kleisbauer   Philippe,1,1
+Kerlogot   Yannick,Pouzyreff   Natalia,1,1
+Kerlogot   Yannick,Marilossian   Jacques,1,1
+Kerlogot   Yannick,Millienne   Bruno,1,1
+Kerlogot   Yannick,Dirx   Benjamin,1,1
+Kerlogot   Yannick,de Courson   Charles,0,1
+Chassaing   Philippe,Cubertafon   Jean-Pierre,0,1
+Chassaing   Philippe,Gouttefarde   Fabien,1,1
+Chassaing   Philippe,Mörch   Sandrine,1,1
+Chassaing   Philippe,Tanguy   Liliana,1,1
+Chassaing   Philippe,Ménard   Emmanuelle,0,1
+Chassaing   Philippe,Jolivet   François,1,1
+Chassaing   Philippe,Labaronne   Daniel,1,1
+Chassaing   Philippe,Motin   Cendra,1,1
+Chassaing   Philippe,Brulebois   Danielle,1,1
+Chassaing   Philippe,Lauzzana   Michel,1,1
+Chassaing   Philippe,Janvier   Caroline,1,1
+Chassaing   Philippe,Saint-Paul   Laetitia,1,1
+Chassaing   Philippe,Masséglia   Denis,1,1
+Chassaing   Philippe,Girardin   Éric,1,1
+Chassaing   Philippe,Magnier   Lise,1,1
+Chassaing   Philippe,Damaisin   Olivier,1,1
+Chassaing   Philippe,Cariou   Émilie,1,1
+Chassaing   Philippe,Zannier   Hélène,1,1
+Chassaing   Philippe,Goulet   Perrine,1,1
+Chassaing   Philippe,Mattei   Jean-Paul,1,1
+Chassaing   Philippe,Testé   Stéphane,1,1
+Chassaing   Philippe,Holroyd   Alexandre,1,1
+Chassaing   Philippe,Coquerel   Éric,0,1
+Chassaing   Philippe,Lardet   Frédérique,1,1
+Chassaing   Philippe,Kuster   Brigitte,0,1
+Chassaing   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Chassaing   Philippe,Person   Pierre,1,1
+Chassaing   Philippe,Fauvergue   Jean-Michel,1,1
+Chassaing   Philippe,Michel-Kleisbauer   Philippe,1,1
+Chassaing   Philippe,Pouzyreff   Natalia,1,1
+Chassaing   Philippe,Marilossian   Jacques,1,1
+Chassaing   Philippe,Millienne   Bruno,1,1
+Chassaing   Philippe,Dirx   Benjamin,1,1
+Chassaing   Philippe,de Courson   Charles,0,1
+Cubertafon   Jean-Pierre,Gouttefarde   Fabien,0,1
+Cubertafon   Jean-Pierre,Mörch   Sandrine,0,1
+Cubertafon   Jean-Pierre,Tanguy   Liliana,0,1
+Cubertafon   Jean-Pierre,Ménard   Emmanuelle,1,1
+Cubertafon   Jean-Pierre,Jolivet   François,0,1
+Cubertafon   Jean-Pierre,Labaronne   Daniel,0,1
+Cubertafon   Jean-Pierre,Motin   Cendra,0,1
+Cubertafon   Jean-Pierre,Brulebois   Danielle,0,1
+Cubertafon   Jean-Pierre,Lauzzana   Michel,0,1
+Cubertafon   Jean-Pierre,Janvier   Caroline,0,1
+Cubertafon   Jean-Pierre,Saint-Paul   Laetitia,0,1
+Cubertafon   Jean-Pierre,Masséglia   Denis,0,1
+Cubertafon   Jean-Pierre,Girardin   Éric,0,1
+Cubertafon   Jean-Pierre,Magnier   Lise,0,1
+Cubertafon   Jean-Pierre,Damaisin   Olivier,0,1
+Cubertafon   Jean-Pierre,Cariou   Émilie,0,1
+Cubertafon   Jean-Pierre,Zannier   Hélène,0,1
+Cubertafon   Jean-Pierre,Goulet   Perrine,0,1
+Cubertafon   Jean-Pierre,Mattei   Jean-Paul,0,1
+Cubertafon   Jean-Pierre,Testé   Stéphane,0,1
+Cubertafon   Jean-Pierre,Holroyd   Alexandre,0,1
+Cubertafon   Jean-Pierre,Coquerel   Éric,1,1
+Cubertafon   Jean-Pierre,Lardet   Frédérique,0,1
+Cubertafon   Jean-Pierre,Kuster   Brigitte,1,1
+Cubertafon   Jean-Pierre,Verdier-Jouclas   Marie-Christine,0,1
+Cubertafon   Jean-Pierre,Person   Pierre,0,1
+Cubertafon   Jean-Pierre,Fauvergue   Jean-Michel,0,1
+Cubertafon   Jean-Pierre,Michel-Kleisbauer   Philippe,0,1
+Cubertafon   Jean-Pierre,Pouzyreff   Natalia,0,1
+Cubertafon   Jean-Pierre,Marilossian   Jacques,0,1
+Cubertafon   Jean-Pierre,Millienne   Bruno,0,1
+Cubertafon   Jean-Pierre,Dirx   Benjamin,0,1
+Cubertafon   Jean-Pierre,de Courson   Charles,1,1
+Gouttefarde   Fabien,Mörch   Sandrine,1,1
+Gouttefarde   Fabien,Tanguy   Liliana,1,1
+Gouttefarde   Fabien,Ménard   Emmanuelle,0,1
+Gouttefarde   Fabien,Jolivet   François,1,1
+Gouttefarde   Fabien,Labaronne   Daniel,1,1
+Gouttefarde   Fabien,Motin   Cendra,1,1
+Gouttefarde   Fabien,Brulebois   Danielle,1,1
+Gouttefarde   Fabien,Lauzzana   Michel,1,1
+Gouttefarde   Fabien,Janvier   Caroline,1,1
+Gouttefarde   Fabien,Saint-Paul   Laetitia,1,1
+Gouttefarde   Fabien,Masséglia   Denis,1,1
+Gouttefarde   Fabien,Girardin   Éric,1,1
+Gouttefarde   Fabien,Magnier   Lise,1,1
+Gouttefarde   Fabien,Damaisin   Olivier,1,1
+Gouttefarde   Fabien,Cariou   Émilie,1,1
+Gouttefarde   Fabien,Zannier   Hélène,1,1
+Gouttefarde   Fabien,Goulet   Perrine,1,1
+Gouttefarde   Fabien,Mattei   Jean-Paul,1,1
+Gouttefarde   Fabien,Testé   Stéphane,1,1
+Gouttefarde   Fabien,Holroyd   Alexandre,1,1
+Gouttefarde   Fabien,Coquerel   Éric,0,1
+Gouttefarde   Fabien,Lardet   Frédérique,1,1
+Gouttefarde   Fabien,Kuster   Brigitte,0,1
+Gouttefarde   Fabien,Verdier-Jouclas   Marie-Christine,1,1
+Gouttefarde   Fabien,Person   Pierre,1,1
+Gouttefarde   Fabien,Fauvergue   Jean-Michel,1,1
+Gouttefarde   Fabien,Michel-Kleisbauer   Philippe,1,1
+Gouttefarde   Fabien,Pouzyreff   Natalia,1,1
+Gouttefarde   Fabien,Marilossian   Jacques,1,1
+Gouttefarde   Fabien,Millienne   Bruno,1,1
+Gouttefarde   Fabien,Dirx   Benjamin,1,1
+Gouttefarde   Fabien,de Courson   Charles,0,1
+Mörch   Sandrine,Tanguy   Liliana,1,1
+Mörch   Sandrine,Ménard   Emmanuelle,0,1
+Mörch   Sandrine,Jolivet   François,1,1
+Mörch   Sandrine,Labaronne   Daniel,1,1
+Mörch   Sandrine,Motin   Cendra,1,1
+Mörch   Sandrine,Brulebois   Danielle,1,1
+Mörch   Sandrine,Lauzzana   Michel,1,1
+Mörch   Sandrine,Janvier   Caroline,1,1
+Mörch   Sandrine,Saint-Paul   Laetitia,1,1
+Mörch   Sandrine,Masséglia   Denis,1,1
+Mörch   Sandrine,Girardin   Éric,1,1
+Mörch   Sandrine,Magnier   Lise,1,1
+Mörch   Sandrine,Damaisin   Olivier,1,1
+Mörch   Sandrine,Cariou   Émilie,1,1
+Mörch   Sandrine,Zannier   Hélène,1,1
+Mörch   Sandrine,Goulet   Perrine,1,1
+Mörch   Sandrine,Mattei   Jean-Paul,1,1
+Mörch   Sandrine,Testé   Stéphane,1,1
+Mörch   Sandrine,Holroyd   Alexandre,1,1
+Mörch   Sandrine,Coquerel   Éric,0,1
+Mörch   Sandrine,Lardet   Frédérique,1,1
+Mörch   Sandrine,Kuster   Brigitte,0,1
+Mörch   Sandrine,Verdier-Jouclas   Marie-Christine,1,1
+Mörch   Sandrine,Person   Pierre,1,1
+Mörch   Sandrine,Fauvergue   Jean-Michel,1,1
+Mörch   Sandrine,Michel-Kleisbauer   Philippe,1,1
+Mörch   Sandrine,Pouzyreff   Natalia,1,1
+Mörch   Sandrine,Marilossian   Jacques,1,1
+Mörch   Sandrine,Millienne   Bruno,1,1
+Mörch   Sandrine,Dirx   Benjamin,1,1
+Mörch   Sandrine,de Courson   Charles,0,1
+Tanguy   Liliana,Ménard   Emmanuelle,0,1
+Tanguy   Liliana,Jolivet   François,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Motin   Cendra,1,1
+Tanguy   Liliana,Brulebois   Danielle,1,1
+Tanguy   Liliana,Lauzzana   Michel,1,1
+Tanguy   Liliana,Janvier   Caroline,1,1
+Tanguy   Liliana,Saint-Paul   Laetitia,1,1
+Tanguy   Liliana,Masséglia   Denis,1,1
+Tanguy   Liliana,Girardin   Éric,1,1
+Tanguy   Liliana,Magnier   Lise,1,1
+Tanguy   Liliana,Damaisin   Olivier,1,1
+Tanguy   Liliana,Cariou   Émilie,1,1
+Tanguy   Liliana,Zannier   Hélène,1,1
+Tanguy   Liliana,Goulet   Perrine,1,1
+Tanguy   Liliana,Mattei   Jean-Paul,1,1
+Tanguy   Liliana,Testé   Stéphane,1,1
+Tanguy   Liliana,Holroyd   Alexandre,1,1
+Tanguy   Liliana,Coquerel   Éric,0,1
+Tanguy   Liliana,Lardet   Frédérique,1,1
+Tanguy   Liliana,Kuster   Brigitte,0,1
+Tanguy   Liliana,Verdier-Jouclas   Marie-Christine,1,1
+Tanguy   Liliana,Person   Pierre,1,1
+Tanguy   Liliana,Fauvergue   Jean-Michel,1,1
+Tanguy   Liliana,Michel-Kleisbauer   Philippe,1,1
+Tanguy   Liliana,Pouzyreff   Natalia,1,1
+Tanguy   Liliana,Marilossian   Jacques,1,1
+Tanguy   Liliana,Millienne   Bruno,1,1
+Tanguy   Liliana,Dirx   Benjamin,1,1
+Tanguy   Liliana,de Courson   Charles,0,1
+Ménard   Emmanuelle,Jolivet   François,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Brulebois   Danielle,0,1
+Ménard   Emmanuelle,Lauzzana   Michel,0,1
+Ménard   Emmanuelle,Janvier   Caroline,0,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,0,1
+Ménard   Emmanuelle,Masséglia   Denis,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Damaisin   Olivier,0,1
+Ménard   Emmanuelle,Cariou   Émilie,0,1
+Ménard   Emmanuelle,Zannier   Hélène,0,1
+Ménard   Emmanuelle,Goulet   Perrine,0,1
+Ménard   Emmanuelle,Mattei   Jean-Paul,0,1
+Ménard   Emmanuelle,Testé   Stéphane,0,1
+Ménard   Emmanuelle,Holroyd   Alexandre,0,1
+Ménard   Emmanuelle,Coquerel   Éric,1,1
+Ménard   Emmanuelle,Lardet   Frédérique,0,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Person   Pierre,0,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,0,1
+Ménard   Emmanuelle,Michel-Kleisbauer   Philippe,0,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,0,1
+Ménard   Emmanuelle,Marilossian   Jacques,0,1
+Ménard   Emmanuelle,Millienne   Bruno,0,1
+Ménard   Emmanuelle,Dirx   Benjamin,0,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+Jolivet   François,Labaronne   Daniel,1,1
+Jolivet   François,Motin   Cendra,1,1
+Jolivet   François,Brulebois   Danielle,1,1
+Jolivet   François,Lauzzana   Michel,1,1
+Jolivet   François,Janvier   Caroline,1,1
+Jolivet   François,Saint-Paul   Laetitia,1,1
+Jolivet   François,Masséglia   Denis,1,1
+Jolivet   François,Girardin   Éric,1,1
+Jolivet   François,Magnier   Lise,1,1
+Jolivet   François,Damaisin   Olivier,1,1
+Jolivet   François,Cariou   Émilie,1,1
+Jolivet   François,Zannier   Hélène,1,1
+Jolivet   François,Goulet   Perrine,1,1
+Jolivet   François,Mattei   Jean-Paul,1,1
+Jolivet   François,Testé   Stéphane,1,1
+Jolivet   François,Holroyd   Alexandre,1,1
+Jolivet   François,Coquerel   Éric,0,1
+Jolivet   François,Lardet   Frédérique,1,1
+Jolivet   François,Kuster   Brigitte,0,1
+Jolivet   François,Verdier-Jouclas   Marie-Christine,1,1
+Jolivet   François,Person   Pierre,1,1
+Jolivet   François,Fauvergue   Jean-Michel,1,1
+Jolivet   François,Michel-Kleisbauer   Philippe,1,1
+Jolivet   François,Pouzyreff   Natalia,1,1
+Jolivet   François,Marilossian   Jacques,1,1
+Jolivet   François,Millienne   Bruno,1,1
+Jolivet   François,Dirx   Benjamin,1,1
+Jolivet   François,de Courson   Charles,0,1
+Labaronne   Daniel,Motin   Cendra,1,1
+Labaronne   Daniel,Brulebois   Danielle,1,1
+Labaronne   Daniel,Lauzzana   Michel,1,1
+Labaronne   Daniel,Janvier   Caroline,1,1
+Labaronne   Daniel,Saint-Paul   Laetitia,1,1
+Labaronne   Daniel,Masséglia   Denis,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Magnier   Lise,1,1
+Labaronne   Daniel,Damaisin   Olivier,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Mattei   Jean-Paul,1,1
+Labaronne   Daniel,Testé   Stéphane,1,1
+Labaronne   Daniel,Holroyd   Alexandre,1,1
+Labaronne   Daniel,Coquerel   Éric,0,1
+Labaronne   Daniel,Lardet   Frédérique,1,1
+Labaronne   Daniel,Kuster   Brigitte,0,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Person   Pierre,1,1
+Labaronne   Daniel,Fauvergue   Jean-Michel,1,1
+Labaronne   Daniel,Michel-Kleisbauer   Philippe,1,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,Marilossian   Jacques,1,1
+Labaronne   Daniel,Millienne   Bruno,1,1
+Labaronne   Daniel,Dirx   Benjamin,1,1
+Labaronne   Daniel,de Courson   Charles,0,1
+Motin   Cendra,Brulebois   Danielle,1,1
+Motin   Cendra,Lauzzana   Michel,1,1
+Motin   Cendra,Janvier   Caroline,1,1
+Motin   Cendra,Saint-Paul   Laetitia,1,1
+Motin   Cendra,Masséglia   Denis,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Magnier   Lise,1,1
+Motin   Cendra,Damaisin   Olivier,1,1
+Motin   Cendra,Cariou   Émilie,1,1
+Motin   Cendra,Zannier   Hélène,1,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Mattei   Jean-Paul,1,1
+Motin   Cendra,Testé   Stéphane,1,1
+Motin   Cendra,Holroyd   Alexandre,1,1
+Motin   Cendra,Coquerel   Éric,0,1
+Motin   Cendra,Lardet   Frédérique,1,1
+Motin   Cendra,Kuster   Brigitte,0,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Person   Pierre,1,1
+Motin   Cendra,Fauvergue   Jean-Michel,1,1
+Motin   Cendra,Michel-Kleisbauer   Philippe,1,1
+Motin   Cendra,Pouzyreff   Natalia,1,1
+Motin   Cendra,Marilossian   Jacques,1,1
+Motin   Cendra,Millienne   Bruno,1,1
+Motin   Cendra,Dirx   Benjamin,1,1
+Motin   Cendra,de Courson   Charles,0,1
+Brulebois   Danielle,Lauzzana   Michel,1,1
+Brulebois   Danielle,Janvier   Caroline,1,1
+Brulebois   Danielle,Saint-Paul   Laetitia,1,1
+Brulebois   Danielle,Masséglia   Denis,1,1
+Brulebois   Danielle,Girardin   Éric,1,1
+Brulebois   Danielle,Magnier   Lise,1,1
+Brulebois   Danielle,Damaisin   Olivier,1,1
+Brulebois   Danielle,Cariou   Émilie,1,1
+Brulebois   Danielle,Zannier   Hélène,1,1
+Brulebois   Danielle,Goulet   Perrine,1,1
+Brulebois   Danielle,Mattei   Jean-Paul,1,1
+Brulebois   Danielle,Testé   Stéphane,1,1
+Brulebois   Danielle,Holroyd   Alexandre,1,1
+Brulebois   Danielle,Coquerel   Éric,0,1
+Brulebois   Danielle,Lardet   Frédérique,1,1
+Brulebois   Danielle,Kuster   Brigitte,0,1
+Brulebois   Danielle,Verdier-Jouclas   Marie-Christine,1,1
+Brulebois   Danielle,Person   Pierre,1,1
+Brulebois   Danielle,Fauvergue   Jean-Michel,1,1
+Brulebois   Danielle,Michel-Kleisbauer   Philippe,1,1
+Brulebois   Danielle,Pouzyreff   Natalia,1,1
+Brulebois   Danielle,Marilossian   Jacques,1,1
+Brulebois   Danielle,Millienne   Bruno,1,1
+Brulebois   Danielle,Dirx   Benjamin,1,1
+Brulebois   Danielle,de Courson   Charles,0,1
+Lauzzana   Michel,Janvier   Caroline,1,1
+Lauzzana   Michel,Saint-Paul   Laetitia,1,1
+Lauzzana   Michel,Masséglia   Denis,1,1
+Lauzzana   Michel,Girardin   Éric,1,1
+Lauzzana   Michel,Magnier   Lise,1,1
+Lauzzana   Michel,Damaisin   Olivier,1,1
+Lauzzana   Michel,Cariou   Émilie,1,1
+Lauzzana   Michel,Zannier   Hélène,1,1
+Lauzzana   Michel,Goulet   Perrine,1,1
+Lauzzana   Michel,Mattei   Jean-Paul,1,1
+Lauzzana   Michel,Testé   Stéphane,1,1
+Lauzzana   Michel,Holroyd   Alexandre,1,1
+Lauzzana   Michel,Coquerel   Éric,0,1
+Lauzzana   Michel,Lardet   Frédérique,1,1
+Lauzzana   Michel,Kuster   Brigitte,0,1
+Lauzzana   Michel,Verdier-Jouclas   Marie-Christine,1,1
+Lauzzana   Michel,Person   Pierre,1,1
+Lauzzana   Michel,Fauvergue   Jean-Michel,1,1
+Lauzzana   Michel,Michel-Kleisbauer   Philippe,1,1
+Lauzzana   Michel,Pouzyreff   Natalia,1,1
+Lauzzana   Michel,Marilossian   Jacques,1,1
+Lauzzana   Michel,Millienne   Bruno,1,1
+Lauzzana   Michel,Dirx   Benjamin,1,1
+Lauzzana   Michel,de Courson   Charles,0,1
+Janvier   Caroline,Saint-Paul   Laetitia,1,1
+Janvier   Caroline,Masséglia   Denis,1,1
+Janvier   Caroline,Girardin   Éric,1,1
+Janvier   Caroline,Magnier   Lise,1,1
+Janvier   Caroline,Damaisin   Olivier,1,1
+Janvier   Caroline,Cariou   Émilie,1,1
+Janvier   Caroline,Zannier   Hélène,1,1
+Janvier   Caroline,Goulet   Perrine,1,1
+Janvier   Caroline,Mattei   Jean-Paul,1,1
+Janvier   Caroline,Testé   Stéphane,1,1
+Janvier   Caroline,Holroyd   Alexandre,1,1
+Janvier   Caroline,Coquerel   Éric,0,1
+Janvier   Caroline,Lardet   Frédérique,1,1
+Janvier   Caroline,Kuster   Brigitte,0,1
+Janvier   Caroline,Verdier-Jouclas   Marie-Christine,1,1
+Janvier   Caroline,Person   Pierre,1,1
+Janvier   Caroline,Fauvergue   Jean-Michel,1,1
+Janvier   Caroline,Michel-Kleisbauer   Philippe,1,1
+Janvier   Caroline,Pouzyreff   Natalia,1,1
+Janvier   Caroline,Marilossian   Jacques,1,1
+Janvier   Caroline,Millienne   Bruno,1,1
+Janvier   Caroline,Dirx   Benjamin,1,1
+Janvier   Caroline,de Courson   Charles,0,1
+Saint-Paul   Laetitia,Masséglia   Denis,1,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Magnier   Lise,1,1
+Saint-Paul   Laetitia,Damaisin   Olivier,1,1
+Saint-Paul   Laetitia,Cariou   Émilie,1,1
+Saint-Paul   Laetitia,Zannier   Hélène,1,1
+Saint-Paul   Laetitia,Goulet   Perrine,1,1
+Saint-Paul   Laetitia,Mattei   Jean-Paul,1,1
+Saint-Paul   Laetitia,Testé   Stéphane,1,1
+Saint-Paul   Laetitia,Holroyd   Alexandre,1,1
+Saint-Paul   Laetitia,Coquerel   Éric,0,1
+Saint-Paul   Laetitia,Lardet   Frédérique,1,1
+Saint-Paul   Laetitia,Kuster   Brigitte,0,1
+Saint-Paul   Laetitia,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Paul   Laetitia,Person   Pierre,1,1
+Saint-Paul   Laetitia,Fauvergue   Jean-Michel,1,1
+Saint-Paul   Laetitia,Michel-Kleisbauer   Philippe,1,1
+Saint-Paul   Laetitia,Pouzyreff   Natalia,1,1
+Saint-Paul   Laetitia,Marilossian   Jacques,1,1
+Saint-Paul   Laetitia,Millienne   Bruno,1,1
+Saint-Paul   Laetitia,Dirx   Benjamin,1,1
+Saint-Paul   Laetitia,de Courson   Charles,0,1
+Masséglia   Denis,Girardin   Éric,1,1
+Masséglia   Denis,Magnier   Lise,1,1
+Masséglia   Denis,Damaisin   Olivier,1,1
+Masséglia   Denis,Cariou   Émilie,1,1
+Masséglia   Denis,Zannier   Hélène,1,1
+Masséglia   Denis,Goulet   Perrine,1,1
+Masséglia   Denis,Mattei   Jean-Paul,1,1
+Masséglia   Denis,Testé   Stéphane,1,1
+Masséglia   Denis,Holroyd   Alexandre,1,1
+Masséglia   Denis,Coquerel   Éric,0,1
+Masséglia   Denis,Lardet   Frédérique,1,1
+Masséglia   Denis,Kuster   Brigitte,0,1
+Masséglia   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Masséglia   Denis,Person   Pierre,1,1
+Masséglia   Denis,Fauvergue   Jean-Michel,1,1
+Masséglia   Denis,Michel-Kleisbauer   Philippe,1,1
+Masséglia   Denis,Pouzyreff   Natalia,1,1
+Masséglia   Denis,Marilossian   Jacques,1,1
+Masséglia   Denis,Millienne   Bruno,1,1
+Masséglia   Denis,Dirx   Benjamin,1,1
+Masséglia   Denis,de Courson   Charles,0,1
+Girardin   Éric,Magnier   Lise,1,1
+Girardin   Éric,Damaisin   Olivier,1,1
+Girardin   Éric,Cariou   Émilie,1,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Goulet   Perrine,1,1
+Girardin   Éric,Mattei   Jean-Paul,1,1
+Girardin   Éric,Testé   Stéphane,1,1
+Girardin   Éric,Holroyd   Alexandre,1,1
+Girardin   Éric,Coquerel   Éric,0,1
+Girardin   Éric,Lardet   Frédérique,1,1
+Girardin   Éric,Kuster   Brigitte,0,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Person   Pierre,1,1
+Girardin   Éric,Fauvergue   Jean-Michel,1,1
+Girardin   Éric,Michel-Kleisbauer   Philippe,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Marilossian   Jacques,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Dirx   Benjamin,1,1
+Girardin   Éric,de Courson   Charles,0,1
+Magnier   Lise,Damaisin   Olivier,1,1
+Magnier   Lise,Cariou   Émilie,1,1
+Magnier   Lise,Zannier   Hélène,1,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Mattei   Jean-Paul,1,1
+Magnier   Lise,Testé   Stéphane,1,1
+Magnier   Lise,Holroyd   Alexandre,1,1
+Magnier   Lise,Coquerel   Éric,0,1
+Magnier   Lise,Lardet   Frédérique,1,1
+Magnier   Lise,Kuster   Brigitte,0,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,1,1
+Magnier   Lise,Person   Pierre,1,1
+Magnier   Lise,Fauvergue   Jean-Michel,1,1
+Magnier   Lise,Michel-Kleisbauer   Philippe,1,1
+Magnier   Lise,Pouzyreff   Natalia,1,1
+Magnier   Lise,Marilossian   Jacques,1,1
+Magnier   Lise,Millienne   Bruno,1,1
+Magnier   Lise,Dirx   Benjamin,1,1
+Magnier   Lise,de Courson   Charles,0,1
+Damaisin   Olivier,Cariou   Émilie,1,1
+Damaisin   Olivier,Zannier   Hélène,1,1
+Damaisin   Olivier,Goulet   Perrine,1,1
+Damaisin   Olivier,Mattei   Jean-Paul,1,1
+Damaisin   Olivier,Testé   Stéphane,1,1
+Damaisin   Olivier,Holroyd   Alexandre,1,1
+Damaisin   Olivier,Coquerel   Éric,0,1
+Damaisin   Olivier,Lardet   Frédérique,1,1
+Damaisin   Olivier,Kuster   Brigitte,0,1
+Damaisin   Olivier,Verdier-Jouclas   Marie-Christine,1,1
+Damaisin   Olivier,Person   Pierre,1,1
+Damaisin   Olivier,Fauvergue   Jean-Michel,1,1
+Damaisin   Olivier,Michel-Kleisbauer   Philippe,1,1
+Damaisin   Olivier,Pouzyreff   Natalia,1,1
+Damaisin   Olivier,Marilossian   Jacques,1,1
+Damaisin   Olivier,Millienne   Bruno,1,1
+Damaisin   Olivier,Dirx   Benjamin,1,1
+Damaisin   Olivier,de Courson   Charles,0,1
+Cariou   Émilie,Zannier   Hélène,1,1
+Cariou   Émilie,Goulet   Perrine,1,1
+Cariou   Émilie,Mattei   Jean-Paul,1,1
+Cariou   Émilie,Testé   Stéphane,1,1
+Cariou   Émilie,Holroyd   Alexandre,1,1
+Cariou   Émilie,Coquerel   Éric,0,1
+Cariou   Émilie,Lardet   Frédérique,1,1
+Cariou   Émilie,Kuster   Brigitte,0,1
+Cariou   Émilie,Verdier-Jouclas   Marie-Christine,1,1
+Cariou   Émilie,Person   Pierre,1,1
+Cariou   Émilie,Fauvergue   Jean-Michel,1,1
+Cariou   Émilie,Michel-Kleisbauer   Philippe,1,1
+Cariou   Émilie,Pouzyreff   Natalia,1,1
+Cariou   Émilie,Marilossian   Jacques,1,1
+Cariou   Émilie,Millienne   Bruno,1,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Cariou   Émilie,de Courson   Charles,0,1
+Zannier   Hélène,Goulet   Perrine,1,1
+Zannier   Hélène,Mattei   Jean-Paul,1,1
+Zannier   Hélène,Testé   Stéphane,1,1
+Zannier   Hélène,Holroyd   Alexandre,1,1
+Zannier   Hélène,Coquerel   Éric,0,1
+Zannier   Hélène,Lardet   Frédérique,1,1
+Zannier   Hélène,Kuster   Brigitte,0,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Person   Pierre,1,1
+Zannier   Hélène,Fauvergue   Jean-Michel,1,1
+Zannier   Hélène,Michel-Kleisbauer   Philippe,1,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,Marilossian   Jacques,1,1
+Zannier   Hélène,Millienne   Bruno,1,1
+Zannier   Hélène,Dirx   Benjamin,1,1
+Zannier   Hélène,de Courson   Charles,0,1
+Goulet   Perrine,Mattei   Jean-Paul,1,1
+Goulet   Perrine,Testé   Stéphane,1,1
+Goulet   Perrine,Holroyd   Alexandre,1,1
+Goulet   Perrine,Coquerel   Éric,0,1
+Goulet   Perrine,Lardet   Frédérique,1,1
+Goulet   Perrine,Kuster   Brigitte,0,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Person   Pierre,1,1
+Goulet   Perrine,Fauvergue   Jean-Michel,1,1
+Goulet   Perrine,Michel-Kleisbauer   Philippe,1,1
+Goulet   Perrine,Pouzyreff   Natalia,1,1
+Goulet   Perrine,Marilossian   Jacques,1,1
+Goulet   Perrine,Millienne   Bruno,1,1
+Goulet   Perrine,Dirx   Benjamin,1,1
+Goulet   Perrine,de Courson   Charles,0,1
+Mattei   Jean-Paul,Testé   Stéphane,1,1
+Mattei   Jean-Paul,Holroyd   Alexandre,1,1
+Mattei   Jean-Paul,Coquerel   Éric,0,1
+Mattei   Jean-Paul,Lardet   Frédérique,1,1
+Mattei   Jean-Paul,Kuster   Brigitte,0,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Mattei   Jean-Paul,Person   Pierre,1,1
+Mattei   Jean-Paul,Fauvergue   Jean-Michel,1,1
+Mattei   Jean-Paul,Michel-Kleisbauer   Philippe,1,1
+Mattei   Jean-Paul,Pouzyreff   Natalia,1,1
+Mattei   Jean-Paul,Marilossian   Jacques,1,1
+Mattei   Jean-Paul,Millienne   Bruno,1,1
+Mattei   Jean-Paul,Dirx   Benjamin,1,1
+Mattei   Jean-Paul,de Courson   Charles,0,1
+Testé   Stéphane,Holroyd   Alexandre,1,1
+Testé   Stéphane,Coquerel   Éric,0,1
+Testé   Stéphane,Lardet   Frédérique,1,1
+Testé   Stéphane,Kuster   Brigitte,0,1
+Testé   Stéphane,Verdier-Jouclas   Marie-Christine,1,1
+Testé   Stéphane,Person   Pierre,1,1
+Testé   Stéphane,Fauvergue   Jean-Michel,1,1
+Testé   Stéphane,Michel-Kleisbauer   Philippe,1,1
+Testé   Stéphane,Pouzyreff   Natalia,1,1
+Testé   Stéphane,Marilossian   Jacques,1,1
+Testé   Stéphane,Millienne   Bruno,1,1
+Testé   Stéphane,Dirx   Benjamin,1,1
+Testé   Stéphane,de Courson   Charles,0,1
+Holroyd   Alexandre,Coquerel   Éric,0,1
+Holroyd   Alexandre,Lardet   Frédérique,1,1
+Holroyd   Alexandre,Kuster   Brigitte,0,1
+Holroyd   Alexandre,Verdier-Jouclas   Marie-Christine,1,1
+Holroyd   Alexandre,Person   Pierre,1,1
+Holroyd   Alexandre,Fauvergue   Jean-Michel,1,1
+Holroyd   Alexandre,Michel-Kleisbauer   Philippe,1,1
+Holroyd   Alexandre,Pouzyreff   Natalia,1,1
+Holroyd   Alexandre,Marilossian   Jacques,1,1
+Holroyd   Alexandre,Millienne   Bruno,1,1
+Holroyd   Alexandre,Dirx   Benjamin,1,1
+Holroyd   Alexandre,de Courson   Charles,0,1
+Coquerel   Éric,Lardet   Frédérique,0,1
+Coquerel   Éric,Kuster   Brigitte,1,1
+Coquerel   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Coquerel   Éric,Person   Pierre,0,1
+Coquerel   Éric,Fauvergue   Jean-Michel,0,1
+Coquerel   Éric,Michel-Kleisbauer   Philippe,0,1
+Coquerel   Éric,Pouzyreff   Natalia,0,1
+Coquerel   Éric,Marilossian   Jacques,0,1
+Coquerel   Éric,Millienne   Bruno,0,1
+Coquerel   Éric,Dirx   Benjamin,0,1
+Coquerel   Éric,de Courson   Charles,1,1
+Lardet   Frédérique,Kuster   Brigitte,0,1
+Lardet   Frédérique,Verdier-Jouclas   Marie-Christine,1,1
+Lardet   Frédérique,Person   Pierre,1,1
+Lardet   Frédérique,Fauvergue   Jean-Michel,1,1
+Lardet   Frédérique,Michel-Kleisbauer   Philippe,1,1
+Lardet   Frédérique,Pouzyreff   Natalia,1,1
+Lardet   Frédérique,Marilossian   Jacques,1,1
+Lardet   Frédérique,Millienne   Bruno,1,1
+Lardet   Frédérique,Dirx   Benjamin,1,1
+Lardet   Frédérique,de Courson   Charles,0,1
+Kuster   Brigitte,Verdier-Jouclas   Marie-Christine,0,1
+Kuster   Brigitte,Person   Pierre,0,1
+Kuster   Brigitte,Fauvergue   Jean-Michel,0,1
+Kuster   Brigitte,Michel-Kleisbauer   Philippe,0,1
+Kuster   Brigitte,Pouzyreff   Natalia,0,1
+Kuster   Brigitte,Marilossian   Jacques,0,1
+Kuster   Brigitte,Millienne   Bruno,0,1
+Kuster   Brigitte,Dirx   Benjamin,0,1
+Kuster   Brigitte,de Courson   Charles,1,1
+Verdier-Jouclas   Marie-Christine,Person   Pierre,1,1
+Verdier-Jouclas   Marie-Christine,Fauvergue   Jean-Michel,1,1
+Verdier-Jouclas   Marie-Christine,Michel-Kleisbauer   Philippe,1,1
+Verdier-Jouclas   Marie-Christine,Pouzyreff   Natalia,1,1
+Verdier-Jouclas   Marie-Christine,Marilossian   Jacques,1,1
+Verdier-Jouclas   Marie-Christine,Millienne   Bruno,1,1
+Verdier-Jouclas   Marie-Christine,Dirx   Benjamin,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,0,1
+Person   Pierre,Fauvergue   Jean-Michel,1,1
+Person   Pierre,Michel-Kleisbauer   Philippe,1,1
+Person   Pierre,Pouzyreff   Natalia,1,1
+Person   Pierre,Marilossian   Jacques,1,1
+Person   Pierre,Millienne   Bruno,1,1
+Person   Pierre,Dirx   Benjamin,1,1
+Person   Pierre,de Courson   Charles,0,1
+Fauvergue   Jean-Michel,Michel-Kleisbauer   Philippe,1,1
+Fauvergue   Jean-Michel,Pouzyreff   Natalia,1,1
+Fauvergue   Jean-Michel,Marilossian   Jacques,1,1
+Fauvergue   Jean-Michel,Millienne   Bruno,1,1
+Fauvergue   Jean-Michel,Dirx   Benjamin,1,1
+Fauvergue   Jean-Michel,de Courson   Charles,0,1
+Michel-Kleisbauer   Philippe,Pouzyreff   Natalia,1,1
+Michel-Kleisbauer   Philippe,Marilossian   Jacques,1,1
+Michel-Kleisbauer   Philippe,Millienne   Bruno,1,1
+Michel-Kleisbauer   Philippe,Dirx   Benjamin,1,1
+Michel-Kleisbauer   Philippe,de Courson   Charles,0,1
+Pouzyreff   Natalia,Marilossian   Jacques,1,1
+Pouzyreff   Natalia,Millienne   Bruno,1,1
+Pouzyreff   Natalia,Dirx   Benjamin,1,1
+Pouzyreff   Natalia,de Courson   Charles,0,1
+Marilossian   Jacques,Millienne   Bruno,1,1
+Marilossian   Jacques,Dirx   Benjamin,1,1
+Marilossian   Jacques,de Courson   Charles,0,1
+Millienne   Bruno,Dirx   Benjamin,1,1
+Millienne   Bruno,de Courson   Charles,0,1
+Dirx   Benjamin,de Courson   Charles,0,1

@@ -1,0 +1,862 @@
+from,to,vote_commun,loi_commun
+Le Fur   Marc,Dalloz   Marie-Christine,1,1
+Le Fur   Marc,Bricout   Jean-Louis,0,1
+Le Fur   Marc,Alauzet   Éric,1,1
+Le Fur   Marc,Pellois   Hervé,1,1
+Le Fur   Marc,Louwagie   Véronique,1,1
+Le Fur   Marc,Pires Beaune   Christine,0,1
+Le Fur   Marc,Dupont   Stella,1,1
+Le Fur   Marc,Peyrol   Bénédicte,1,1
+Le Fur   Marc,Roussel   Cédric,1,1
+Le Fur   Marc,Ahamada   Saïd,1,1
+Le Fur   Marc,Le Vigoureux   Fabrice,1,1
+Le Fur   Marc,Bouyx   Bertrand,1,1
+Le Fur   Marc,Jerretie   Christophe,1,1
+Le Fur   Marc,de Courson   Yolaine,1,1
+Le Fur   Marc,Kerlogot   Yannick,1,1
+Le Fur   Marc,Tanguy   Liliana,1,1
+Le Fur   Marc,Ménard   Emmanuelle,1,1
+Le Fur   Marc,Labaronne   Daniel,1,1
+Le Fur   Marc,Dufeu   Audrey,1,1
+Le Fur   Marc,Magnier   Lise,1,1
+Le Fur   Marc,Cariou   Émilie,1,1
+Le Fur   Marc,Zannier   Hélène,1,1
+Le Fur   Marc,Pahun   Jimmy,1,1
+Le Fur   Marc,Paluszkiewicz   Xavier,1,1
+Le Fur   Marc,Goulet   Perrine,1,1
+Le Fur   Marc,Bois   Pascal,1,1
+Le Fur   Marc,Roussel   Fabien,0,1
+Le Fur   Marc,Mattei   Jean-Paul,1,1
+Le Fur   Marc,Saint-Martin   Laurent,1,1
+Le Fur   Marc,Dunoyer   Philippe,1,1
+Le Fur   Marc,Guion-Firmin   Claire,1,1
+Le Fur   Marc,Corbière   Alexis,0,1
+Le Fur   Marc,Charrière   Sylvie,1,1
+Le Fur   Marc,Bonnivard   Émilie,1,1
+Le Fur   Marc,Kuster   Brigitte,1,1
+Le Fur   Marc,Obono   Danièle,0,1
+Le Fur   Marc,Magne   Marie-Ange,1,1
+Le Fur   Marc,Rudigoz   Thomas,1,1
+Le Fur   Marc,Fugit   Jean-Luc,1,1
+Le Fur   Marc,Dirx   Benjamin,1,1
+Le Fur   Marc,de Courson   Charles,1,1
+Dalloz   Marie-Christine,Bricout   Jean-Louis,0,1
+Dalloz   Marie-Christine,Alauzet   Éric,1,1
+Dalloz   Marie-Christine,Pellois   Hervé,1,1
+Dalloz   Marie-Christine,Louwagie   Véronique,1,1
+Dalloz   Marie-Christine,Pires Beaune   Christine,0,1
+Dalloz   Marie-Christine,Dupont   Stella,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Roussel   Cédric,1,1
+Dalloz   Marie-Christine,Ahamada   Saïd,1,1
+Dalloz   Marie-Christine,Le Vigoureux   Fabrice,1,1
+Dalloz   Marie-Christine,Bouyx   Bertrand,1,1
+Dalloz   Marie-Christine,Jerretie   Christophe,1,1
+Dalloz   Marie-Christine,de Courson   Yolaine,1,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,1,1
+Dalloz   Marie-Christine,Tanguy   Liliana,1,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Labaronne   Daniel,1,1
+Dalloz   Marie-Christine,Dufeu   Audrey,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Cariou   Émilie,1,1
+Dalloz   Marie-Christine,Zannier   Hélène,1,1
+Dalloz   Marie-Christine,Pahun   Jimmy,1,1
+Dalloz   Marie-Christine,Paluszkiewicz   Xavier,1,1
+Dalloz   Marie-Christine,Goulet   Perrine,1,1
+Dalloz   Marie-Christine,Bois   Pascal,1,1
+Dalloz   Marie-Christine,Roussel   Fabien,0,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,1,1
+Dalloz   Marie-Christine,Saint-Martin   Laurent,1,1
+Dalloz   Marie-Christine,Dunoyer   Philippe,1,1
+Dalloz   Marie-Christine,Guion-Firmin   Claire,1,1
+Dalloz   Marie-Christine,Corbière   Alexis,0,1
+Dalloz   Marie-Christine,Charrière   Sylvie,1,1
+Dalloz   Marie-Christine,Bonnivard   Émilie,1,1
+Dalloz   Marie-Christine,Kuster   Brigitte,1,1
+Dalloz   Marie-Christine,Obono   Danièle,0,1
+Dalloz   Marie-Christine,Magne   Marie-Ange,1,1
+Dalloz   Marie-Christine,Rudigoz   Thomas,1,1
+Dalloz   Marie-Christine,Fugit   Jean-Luc,1,1
+Dalloz   Marie-Christine,Dirx   Benjamin,1,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Bricout   Jean-Louis,Alauzet   Éric,0,1
+Bricout   Jean-Louis,Pellois   Hervé,0,1
+Bricout   Jean-Louis,Louwagie   Véronique,0,1
+Bricout   Jean-Louis,Pires Beaune   Christine,1,1
+Bricout   Jean-Louis,Dupont   Stella,0,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Roussel   Cédric,0,1
+Bricout   Jean-Louis,Ahamada   Saïd,0,1
+Bricout   Jean-Louis,Le Vigoureux   Fabrice,0,1
+Bricout   Jean-Louis,Bouyx   Bertrand,0,1
+Bricout   Jean-Louis,Jerretie   Christophe,0,1
+Bricout   Jean-Louis,de Courson   Yolaine,0,1
+Bricout   Jean-Louis,Kerlogot   Yannick,0,1
+Bricout   Jean-Louis,Tanguy   Liliana,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,Labaronne   Daniel,0,1
+Bricout   Jean-Louis,Dufeu   Audrey,0,1
+Bricout   Jean-Louis,Magnier   Lise,0,1
+Bricout   Jean-Louis,Cariou   Émilie,0,1
+Bricout   Jean-Louis,Zannier   Hélène,0,1
+Bricout   Jean-Louis,Pahun   Jimmy,0,1
+Bricout   Jean-Louis,Paluszkiewicz   Xavier,0,1
+Bricout   Jean-Louis,Goulet   Perrine,0,1
+Bricout   Jean-Louis,Bois   Pascal,0,1
+Bricout   Jean-Louis,Roussel   Fabien,1,1
+Bricout   Jean-Louis,Mattei   Jean-Paul,0,1
+Bricout   Jean-Louis,Saint-Martin   Laurent,0,1
+Bricout   Jean-Louis,Dunoyer   Philippe,0,1
+Bricout   Jean-Louis,Guion-Firmin   Claire,0,1
+Bricout   Jean-Louis,Corbière   Alexis,1,1
+Bricout   Jean-Louis,Charrière   Sylvie,0,1
+Bricout   Jean-Louis,Bonnivard   Émilie,0,1
+Bricout   Jean-Louis,Kuster   Brigitte,0,1
+Bricout   Jean-Louis,Obono   Danièle,1,1
+Bricout   Jean-Louis,Magne   Marie-Ange,0,1
+Bricout   Jean-Louis,Rudigoz   Thomas,0,1
+Bricout   Jean-Louis,Fugit   Jean-Luc,0,1
+Bricout   Jean-Louis,Dirx   Benjamin,0,1
+Bricout   Jean-Louis,de Courson   Charles,0,1
+Alauzet   Éric,Pellois   Hervé,1,1
+Alauzet   Éric,Louwagie   Véronique,1,1
+Alauzet   Éric,Pires Beaune   Christine,0,1
+Alauzet   Éric,Dupont   Stella,1,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Roussel   Cédric,1,1
+Alauzet   Éric,Ahamada   Saïd,1,1
+Alauzet   Éric,Le Vigoureux   Fabrice,1,1
+Alauzet   Éric,Bouyx   Bertrand,1,1
+Alauzet   Éric,Jerretie   Christophe,1,1
+Alauzet   Éric,de Courson   Yolaine,1,1
+Alauzet   Éric,Kerlogot   Yannick,1,1
+Alauzet   Éric,Tanguy   Liliana,1,1
+Alauzet   Éric,Ménard   Emmanuelle,1,1
+Alauzet   Éric,Labaronne   Daniel,1,1
+Alauzet   Éric,Dufeu   Audrey,1,1
+Alauzet   Éric,Magnier   Lise,1,1
+Alauzet   Éric,Cariou   Émilie,1,1
+Alauzet   Éric,Zannier   Hélène,1,1
+Alauzet   Éric,Pahun   Jimmy,1,1
+Alauzet   Éric,Paluszkiewicz   Xavier,1,1
+Alauzet   Éric,Goulet   Perrine,1,1
+Alauzet   Éric,Bois   Pascal,1,1
+Alauzet   Éric,Roussel   Fabien,0,1
+Alauzet   Éric,Mattei   Jean-Paul,1,1
+Alauzet   Éric,Saint-Martin   Laurent,1,1
+Alauzet   Éric,Dunoyer   Philippe,1,1
+Alauzet   Éric,Guion-Firmin   Claire,1,1
+Alauzet   Éric,Corbière   Alexis,0,1
+Alauzet   Éric,Charrière   Sylvie,1,1
+Alauzet   Éric,Bonnivard   Émilie,1,1
+Alauzet   Éric,Kuster   Brigitte,1,1
+Alauzet   Éric,Obono   Danièle,0,1
+Alauzet   Éric,Magne   Marie-Ange,1,1
+Alauzet   Éric,Rudigoz   Thomas,1,1
+Alauzet   Éric,Fugit   Jean-Luc,1,1
+Alauzet   Éric,Dirx   Benjamin,1,1
+Alauzet   Éric,de Courson   Charles,1,1
+Pellois   Hervé,Louwagie   Véronique,1,1
+Pellois   Hervé,Pires Beaune   Christine,0,1
+Pellois   Hervé,Dupont   Stella,1,1
+Pellois   Hervé,Peyrol   Bénédicte,1,1
+Pellois   Hervé,Roussel   Cédric,1,1
+Pellois   Hervé,Ahamada   Saïd,1,1
+Pellois   Hervé,Le Vigoureux   Fabrice,1,1
+Pellois   Hervé,Bouyx   Bertrand,1,1
+Pellois   Hervé,Jerretie   Christophe,1,1
+Pellois   Hervé,de Courson   Yolaine,1,1
+Pellois   Hervé,Kerlogot   Yannick,1,1
+Pellois   Hervé,Tanguy   Liliana,1,1
+Pellois   Hervé,Ménard   Emmanuelle,1,1
+Pellois   Hervé,Labaronne   Daniel,1,1
+Pellois   Hervé,Dufeu   Audrey,1,1
+Pellois   Hervé,Magnier   Lise,1,1
+Pellois   Hervé,Cariou   Émilie,1,1
+Pellois   Hervé,Zannier   Hélène,1,1
+Pellois   Hervé,Pahun   Jimmy,1,1
+Pellois   Hervé,Paluszkiewicz   Xavier,1,1
+Pellois   Hervé,Goulet   Perrine,1,1
+Pellois   Hervé,Bois   Pascal,1,1
+Pellois   Hervé,Roussel   Fabien,0,1
+Pellois   Hervé,Mattei   Jean-Paul,1,1
+Pellois   Hervé,Saint-Martin   Laurent,1,1
+Pellois   Hervé,Dunoyer   Philippe,1,1
+Pellois   Hervé,Guion-Firmin   Claire,1,1
+Pellois   Hervé,Corbière   Alexis,0,1
+Pellois   Hervé,Charrière   Sylvie,1,1
+Pellois   Hervé,Bonnivard   Émilie,1,1
+Pellois   Hervé,Kuster   Brigitte,1,1
+Pellois   Hervé,Obono   Danièle,0,1
+Pellois   Hervé,Magne   Marie-Ange,1,1
+Pellois   Hervé,Rudigoz   Thomas,1,1
+Pellois   Hervé,Fugit   Jean-Luc,1,1
+Pellois   Hervé,Dirx   Benjamin,1,1
+Pellois   Hervé,de Courson   Charles,1,1
+Louwagie   Véronique,Pires Beaune   Christine,0,1
+Louwagie   Véronique,Dupont   Stella,1,1
+Louwagie   Véronique,Peyrol   Bénédicte,1,1
+Louwagie   Véronique,Roussel   Cédric,1,1
+Louwagie   Véronique,Ahamada   Saïd,1,1
+Louwagie   Véronique,Le Vigoureux   Fabrice,1,1
+Louwagie   Véronique,Bouyx   Bertrand,1,1
+Louwagie   Véronique,Jerretie   Christophe,1,1
+Louwagie   Véronique,de Courson   Yolaine,1,1
+Louwagie   Véronique,Kerlogot   Yannick,1,1
+Louwagie   Véronique,Tanguy   Liliana,1,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Labaronne   Daniel,1,1
+Louwagie   Véronique,Dufeu   Audrey,1,1
+Louwagie   Véronique,Magnier   Lise,1,1
+Louwagie   Véronique,Cariou   Émilie,1,1
+Louwagie   Véronique,Zannier   Hélène,1,1
+Louwagie   Véronique,Pahun   Jimmy,1,1
+Louwagie   Véronique,Paluszkiewicz   Xavier,1,1
+Louwagie   Véronique,Goulet   Perrine,1,1
+Louwagie   Véronique,Bois   Pascal,1,1
+Louwagie   Véronique,Roussel   Fabien,0,1
+Louwagie   Véronique,Mattei   Jean-Paul,1,1
+Louwagie   Véronique,Saint-Martin   Laurent,1,1
+Louwagie   Véronique,Dunoyer   Philippe,1,1
+Louwagie   Véronique,Guion-Firmin   Claire,1,1
+Louwagie   Véronique,Corbière   Alexis,0,1
+Louwagie   Véronique,Charrière   Sylvie,1,1
+Louwagie   Véronique,Bonnivard   Émilie,1,1
+Louwagie   Véronique,Kuster   Brigitte,1,1
+Louwagie   Véronique,Obono   Danièle,0,1
+Louwagie   Véronique,Magne   Marie-Ange,1,1
+Louwagie   Véronique,Rudigoz   Thomas,1,1
+Louwagie   Véronique,Fugit   Jean-Luc,1,1
+Louwagie   Véronique,Dirx   Benjamin,1,1
+Louwagie   Véronique,de Courson   Charles,1,1
+Pires Beaune   Christine,Dupont   Stella,0,1
+Pires Beaune   Christine,Peyrol   Bénédicte,0,1
+Pires Beaune   Christine,Roussel   Cédric,0,1
+Pires Beaune   Christine,Ahamada   Saïd,0,1
+Pires Beaune   Christine,Le Vigoureux   Fabrice,0,1
+Pires Beaune   Christine,Bouyx   Bertrand,0,1
+Pires Beaune   Christine,Jerretie   Christophe,0,1
+Pires Beaune   Christine,de Courson   Yolaine,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Tanguy   Liliana,0,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Dufeu   Audrey,0,1
+Pires Beaune   Christine,Magnier   Lise,0,1
+Pires Beaune   Christine,Cariou   Émilie,0,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Pahun   Jimmy,0,1
+Pires Beaune   Christine,Paluszkiewicz   Xavier,0,1
+Pires Beaune   Christine,Goulet   Perrine,0,1
+Pires Beaune   Christine,Bois   Pascal,0,1
+Pires Beaune   Christine,Roussel   Fabien,1,1
+Pires Beaune   Christine,Mattei   Jean-Paul,0,1
+Pires Beaune   Christine,Saint-Martin   Laurent,0,1
+Pires Beaune   Christine,Dunoyer   Philippe,0,1
+Pires Beaune   Christine,Guion-Firmin   Claire,0,1
+Pires Beaune   Christine,Corbière   Alexis,1,1
+Pires Beaune   Christine,Charrière   Sylvie,0,1
+Pires Beaune   Christine,Bonnivard   Émilie,0,1
+Pires Beaune   Christine,Kuster   Brigitte,0,1
+Pires Beaune   Christine,Obono   Danièle,1,1
+Pires Beaune   Christine,Magne   Marie-Ange,0,1
+Pires Beaune   Christine,Rudigoz   Thomas,0,1
+Pires Beaune   Christine,Fugit   Jean-Luc,0,1
+Pires Beaune   Christine,Dirx   Benjamin,0,1
+Pires Beaune   Christine,de Courson   Charles,0,1
+Dupont   Stella,Peyrol   Bénédicte,1,1
+Dupont   Stella,Roussel   Cédric,1,1
+Dupont   Stella,Ahamada   Saïd,1,1
+Dupont   Stella,Le Vigoureux   Fabrice,1,1
+Dupont   Stella,Bouyx   Bertrand,1,1
+Dupont   Stella,Jerretie   Christophe,1,1
+Dupont   Stella,de Courson   Yolaine,1,1
+Dupont   Stella,Kerlogot   Yannick,1,1
+Dupont   Stella,Tanguy   Liliana,1,1
+Dupont   Stella,Ménard   Emmanuelle,1,1
+Dupont   Stella,Labaronne   Daniel,1,1
+Dupont   Stella,Dufeu   Audrey,1,1
+Dupont   Stella,Magnier   Lise,1,1
+Dupont   Stella,Cariou   Émilie,1,1
+Dupont   Stella,Zannier   Hélène,1,1
+Dupont   Stella,Pahun   Jimmy,1,1
+Dupont   Stella,Paluszkiewicz   Xavier,1,1
+Dupont   Stella,Goulet   Perrine,1,1
+Dupont   Stella,Bois   Pascal,1,1
+Dupont   Stella,Roussel   Fabien,0,1
+Dupont   Stella,Mattei   Jean-Paul,1,1
+Dupont   Stella,Saint-Martin   Laurent,1,1
+Dupont   Stella,Dunoyer   Philippe,1,1
+Dupont   Stella,Guion-Firmin   Claire,1,1
+Dupont   Stella,Corbière   Alexis,0,1
+Dupont   Stella,Charrière   Sylvie,1,1
+Dupont   Stella,Bonnivard   Émilie,1,1
+Dupont   Stella,Kuster   Brigitte,1,1
+Dupont   Stella,Obono   Danièle,0,1
+Dupont   Stella,Magne   Marie-Ange,1,1
+Dupont   Stella,Rudigoz   Thomas,1,1
+Dupont   Stella,Fugit   Jean-Luc,1,1
+Dupont   Stella,Dirx   Benjamin,1,1
+Dupont   Stella,de Courson   Charles,1,1
+Peyrol   Bénédicte,Roussel   Cédric,1,1
+Peyrol   Bénédicte,Ahamada   Saïd,1,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Bouyx   Bertrand,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,de Courson   Yolaine,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Tanguy   Liliana,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Dufeu   Audrey,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Pahun   Jimmy,1,1
+Peyrol   Bénédicte,Paluszkiewicz   Xavier,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Bois   Pascal,1,1
+Peyrol   Bénédicte,Roussel   Fabien,0,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,1,1
+Peyrol   Bénédicte,Saint-Martin   Laurent,1,1
+Peyrol   Bénédicte,Dunoyer   Philippe,1,1
+Peyrol   Bénédicte,Guion-Firmin   Claire,1,1
+Peyrol   Bénédicte,Corbière   Alexis,0,1
+Peyrol   Bénédicte,Charrière   Sylvie,1,1
+Peyrol   Bénédicte,Bonnivard   Émilie,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,1,1
+Peyrol   Bénédicte,Obono   Danièle,0,1
+Peyrol   Bénédicte,Magne   Marie-Ange,1,1
+Peyrol   Bénédicte,Rudigoz   Thomas,1,1
+Peyrol   Bénédicte,Fugit   Jean-Luc,1,1
+Peyrol   Bénédicte,Dirx   Benjamin,1,1
+Peyrol   Bénédicte,de Courson   Charles,1,1
+Roussel   Cédric,Ahamada   Saïd,1,1
+Roussel   Cédric,Le Vigoureux   Fabrice,1,1
+Roussel   Cédric,Bouyx   Bertrand,1,1
+Roussel   Cédric,Jerretie   Christophe,1,1
+Roussel   Cédric,de Courson   Yolaine,1,1
+Roussel   Cédric,Kerlogot   Yannick,1,1
+Roussel   Cédric,Tanguy   Liliana,1,1
+Roussel   Cédric,Ménard   Emmanuelle,1,1
+Roussel   Cédric,Labaronne   Daniel,1,1
+Roussel   Cédric,Dufeu   Audrey,1,1
+Roussel   Cédric,Magnier   Lise,1,1
+Roussel   Cédric,Cariou   Émilie,1,1
+Roussel   Cédric,Zannier   Hélène,1,1
+Roussel   Cédric,Pahun   Jimmy,1,1
+Roussel   Cédric,Paluszkiewicz   Xavier,1,1
+Roussel   Cédric,Goulet   Perrine,1,1
+Roussel   Cédric,Bois   Pascal,1,1
+Roussel   Cédric,Roussel   Fabien,0,1
+Roussel   Cédric,Mattei   Jean-Paul,1,1
+Roussel   Cédric,Saint-Martin   Laurent,1,1
+Roussel   Cédric,Dunoyer   Philippe,1,1
+Roussel   Cédric,Guion-Firmin   Claire,1,1
+Roussel   Cédric,Corbière   Alexis,0,1
+Roussel   Cédric,Charrière   Sylvie,1,1
+Roussel   Cédric,Bonnivard   Émilie,1,1
+Roussel   Cédric,Kuster   Brigitte,1,1
+Roussel   Cédric,Obono   Danièle,0,1
+Roussel   Cédric,Magne   Marie-Ange,1,1
+Roussel   Cédric,Rudigoz   Thomas,1,1
+Roussel   Cédric,Fugit   Jean-Luc,1,1
+Roussel   Cédric,Dirx   Benjamin,1,1
+Roussel   Cédric,de Courson   Charles,1,1
+Ahamada   Saïd,Le Vigoureux   Fabrice,1,1
+Ahamada   Saïd,Bouyx   Bertrand,1,1
+Ahamada   Saïd,Jerretie   Christophe,1,1
+Ahamada   Saïd,de Courson   Yolaine,1,1
+Ahamada   Saïd,Kerlogot   Yannick,1,1
+Ahamada   Saïd,Tanguy   Liliana,1,1
+Ahamada   Saïd,Ménard   Emmanuelle,1,1
+Ahamada   Saïd,Labaronne   Daniel,1,1
+Ahamada   Saïd,Dufeu   Audrey,1,1
+Ahamada   Saïd,Magnier   Lise,1,1
+Ahamada   Saïd,Cariou   Émilie,1,1
+Ahamada   Saïd,Zannier   Hélène,1,1
+Ahamada   Saïd,Pahun   Jimmy,1,1
+Ahamada   Saïd,Paluszkiewicz   Xavier,1,1
+Ahamada   Saïd,Goulet   Perrine,1,1
+Ahamada   Saïd,Bois   Pascal,1,1
+Ahamada   Saïd,Roussel   Fabien,0,1
+Ahamada   Saïd,Mattei   Jean-Paul,1,1
+Ahamada   Saïd,Saint-Martin   Laurent,1,1
+Ahamada   Saïd,Dunoyer   Philippe,1,1
+Ahamada   Saïd,Guion-Firmin   Claire,1,1
+Ahamada   Saïd,Corbière   Alexis,0,1
+Ahamada   Saïd,Charrière   Sylvie,1,1
+Ahamada   Saïd,Bonnivard   Émilie,1,1
+Ahamada   Saïd,Kuster   Brigitte,1,1
+Ahamada   Saïd,Obono   Danièle,0,1
+Ahamada   Saïd,Magne   Marie-Ange,1,1
+Ahamada   Saïd,Rudigoz   Thomas,1,1
+Ahamada   Saïd,Fugit   Jean-Luc,1,1
+Ahamada   Saïd,Dirx   Benjamin,1,1
+Ahamada   Saïd,de Courson   Charles,1,1
+Le Vigoureux   Fabrice,Bouyx   Bertrand,1,1
+Le Vigoureux   Fabrice,Jerretie   Christophe,1,1
+Le Vigoureux   Fabrice,de Courson   Yolaine,1,1
+Le Vigoureux   Fabrice,Kerlogot   Yannick,1,1
+Le Vigoureux   Fabrice,Tanguy   Liliana,1,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,1,1
+Le Vigoureux   Fabrice,Labaronne   Daniel,1,1
+Le Vigoureux   Fabrice,Dufeu   Audrey,1,1
+Le Vigoureux   Fabrice,Magnier   Lise,1,1
+Le Vigoureux   Fabrice,Cariou   Émilie,1,1
+Le Vigoureux   Fabrice,Zannier   Hélène,1,1
+Le Vigoureux   Fabrice,Pahun   Jimmy,1,1
+Le Vigoureux   Fabrice,Paluszkiewicz   Xavier,1,1
+Le Vigoureux   Fabrice,Goulet   Perrine,1,1
+Le Vigoureux   Fabrice,Bois   Pascal,1,1
+Le Vigoureux   Fabrice,Roussel   Fabien,0,1
+Le Vigoureux   Fabrice,Mattei   Jean-Paul,1,1
+Le Vigoureux   Fabrice,Saint-Martin   Laurent,1,1
+Le Vigoureux   Fabrice,Dunoyer   Philippe,1,1
+Le Vigoureux   Fabrice,Guion-Firmin   Claire,1,1
+Le Vigoureux   Fabrice,Corbière   Alexis,0,1
+Le Vigoureux   Fabrice,Charrière   Sylvie,1,1
+Le Vigoureux   Fabrice,Bonnivard   Émilie,1,1
+Le Vigoureux   Fabrice,Kuster   Brigitte,1,1
+Le Vigoureux   Fabrice,Obono   Danièle,0,1
+Le Vigoureux   Fabrice,Magne   Marie-Ange,1,1
+Le Vigoureux   Fabrice,Rudigoz   Thomas,1,1
+Le Vigoureux   Fabrice,Fugit   Jean-Luc,1,1
+Le Vigoureux   Fabrice,Dirx   Benjamin,1,1
+Le Vigoureux   Fabrice,de Courson   Charles,1,1
+Bouyx   Bertrand,Jerretie   Christophe,1,1
+Bouyx   Bertrand,de Courson   Yolaine,1,1
+Bouyx   Bertrand,Kerlogot   Yannick,1,1
+Bouyx   Bertrand,Tanguy   Liliana,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,1,1
+Bouyx   Bertrand,Labaronne   Daniel,1,1
+Bouyx   Bertrand,Dufeu   Audrey,1,1
+Bouyx   Bertrand,Magnier   Lise,1,1
+Bouyx   Bertrand,Cariou   Émilie,1,1
+Bouyx   Bertrand,Zannier   Hélène,1,1
+Bouyx   Bertrand,Pahun   Jimmy,1,1
+Bouyx   Bertrand,Paluszkiewicz   Xavier,1,1
+Bouyx   Bertrand,Goulet   Perrine,1,1
+Bouyx   Bertrand,Bois   Pascal,1,1
+Bouyx   Bertrand,Roussel   Fabien,0,1
+Bouyx   Bertrand,Mattei   Jean-Paul,1,1
+Bouyx   Bertrand,Saint-Martin   Laurent,1,1
+Bouyx   Bertrand,Dunoyer   Philippe,1,1
+Bouyx   Bertrand,Guion-Firmin   Claire,1,1
+Bouyx   Bertrand,Corbière   Alexis,0,1
+Bouyx   Bertrand,Charrière   Sylvie,1,1
+Bouyx   Bertrand,Bonnivard   Émilie,1,1
+Bouyx   Bertrand,Kuster   Brigitte,1,1
+Bouyx   Bertrand,Obono   Danièle,0,1
+Bouyx   Bertrand,Magne   Marie-Ange,1,1
+Bouyx   Bertrand,Rudigoz   Thomas,1,1
+Bouyx   Bertrand,Fugit   Jean-Luc,1,1
+Bouyx   Bertrand,Dirx   Benjamin,1,1
+Bouyx   Bertrand,de Courson   Charles,1,1
+Jerretie   Christophe,de Courson   Yolaine,1,1
+Jerretie   Christophe,Kerlogot   Yannick,1,1
+Jerretie   Christophe,Tanguy   Liliana,1,1
+Jerretie   Christophe,Ménard   Emmanuelle,1,1
+Jerretie   Christophe,Labaronne   Daniel,1,1
+Jerretie   Christophe,Dufeu   Audrey,1,1
+Jerretie   Christophe,Magnier   Lise,1,1
+Jerretie   Christophe,Cariou   Émilie,1,1
+Jerretie   Christophe,Zannier   Hélène,1,1
+Jerretie   Christophe,Pahun   Jimmy,1,1
+Jerretie   Christophe,Paluszkiewicz   Xavier,1,1
+Jerretie   Christophe,Goulet   Perrine,1,1
+Jerretie   Christophe,Bois   Pascal,1,1
+Jerretie   Christophe,Roussel   Fabien,0,1
+Jerretie   Christophe,Mattei   Jean-Paul,1,1
+Jerretie   Christophe,Saint-Martin   Laurent,1,1
+Jerretie   Christophe,Dunoyer   Philippe,1,1
+Jerretie   Christophe,Guion-Firmin   Claire,1,1
+Jerretie   Christophe,Corbière   Alexis,0,1
+Jerretie   Christophe,Charrière   Sylvie,1,1
+Jerretie   Christophe,Bonnivard   Émilie,1,1
+Jerretie   Christophe,Kuster   Brigitte,1,1
+Jerretie   Christophe,Obono   Danièle,0,1
+Jerretie   Christophe,Magne   Marie-Ange,1,1
+Jerretie   Christophe,Rudigoz   Thomas,1,1
+Jerretie   Christophe,Fugit   Jean-Luc,1,1
+Jerretie   Christophe,Dirx   Benjamin,1,1
+Jerretie   Christophe,de Courson   Charles,1,1
+de Courson   Yolaine,Kerlogot   Yannick,1,1
+de Courson   Yolaine,Tanguy   Liliana,1,1
+de Courson   Yolaine,Ménard   Emmanuelle,1,1
+de Courson   Yolaine,Labaronne   Daniel,1,1
+de Courson   Yolaine,Dufeu   Audrey,1,1
+de Courson   Yolaine,Magnier   Lise,1,1
+de Courson   Yolaine,Cariou   Émilie,1,1
+de Courson   Yolaine,Zannier   Hélène,1,1
+de Courson   Yolaine,Pahun   Jimmy,1,1
+de Courson   Yolaine,Paluszkiewicz   Xavier,1,1
+de Courson   Yolaine,Goulet   Perrine,1,1
+de Courson   Yolaine,Bois   Pascal,1,1
+de Courson   Yolaine,Roussel   Fabien,0,1
+de Courson   Yolaine,Mattei   Jean-Paul,1,1
+de Courson   Yolaine,Saint-Martin   Laurent,1,1
+de Courson   Yolaine,Dunoyer   Philippe,1,1
+de Courson   Yolaine,Guion-Firmin   Claire,1,1
+de Courson   Yolaine,Corbière   Alexis,0,1
+de Courson   Yolaine,Charrière   Sylvie,1,1
+de Courson   Yolaine,Bonnivard   Émilie,1,1
+de Courson   Yolaine,Kuster   Brigitte,1,1
+de Courson   Yolaine,Obono   Danièle,0,1
+de Courson   Yolaine,Magne   Marie-Ange,1,1
+de Courson   Yolaine,Rudigoz   Thomas,1,1
+de Courson   Yolaine,Fugit   Jean-Luc,1,1
+de Courson   Yolaine,Dirx   Benjamin,1,1
+de Courson   Yolaine,de Courson   Charles,1,1
+Kerlogot   Yannick,Tanguy   Liliana,1,1
+Kerlogot   Yannick,Ménard   Emmanuelle,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Dufeu   Audrey,1,1
+Kerlogot   Yannick,Magnier   Lise,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Pahun   Jimmy,1,1
+Kerlogot   Yannick,Paluszkiewicz   Xavier,1,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Bois   Pascal,1,1
+Kerlogot   Yannick,Roussel   Fabien,0,1
+Kerlogot   Yannick,Mattei   Jean-Paul,1,1
+Kerlogot   Yannick,Saint-Martin   Laurent,1,1
+Kerlogot   Yannick,Dunoyer   Philippe,1,1
+Kerlogot   Yannick,Guion-Firmin   Claire,1,1
+Kerlogot   Yannick,Corbière   Alexis,0,1
+Kerlogot   Yannick,Charrière   Sylvie,1,1
+Kerlogot   Yannick,Bonnivard   Émilie,1,1
+Kerlogot   Yannick,Kuster   Brigitte,1,1
+Kerlogot   Yannick,Obono   Danièle,0,1
+Kerlogot   Yannick,Magne   Marie-Ange,1,1
+Kerlogot   Yannick,Rudigoz   Thomas,1,1
+Kerlogot   Yannick,Fugit   Jean-Luc,1,1
+Kerlogot   Yannick,Dirx   Benjamin,1,1
+Kerlogot   Yannick,de Courson   Charles,1,1
+Tanguy   Liliana,Ménard   Emmanuelle,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Dufeu   Audrey,1,1
+Tanguy   Liliana,Magnier   Lise,1,1
+Tanguy   Liliana,Cariou   Émilie,1,1
+Tanguy   Liliana,Zannier   Hélène,1,1
+Tanguy   Liliana,Pahun   Jimmy,1,1
+Tanguy   Liliana,Paluszkiewicz   Xavier,1,1
+Tanguy   Liliana,Goulet   Perrine,1,1
+Tanguy   Liliana,Bois   Pascal,1,1
+Tanguy   Liliana,Roussel   Fabien,0,1
+Tanguy   Liliana,Mattei   Jean-Paul,1,1
+Tanguy   Liliana,Saint-Martin   Laurent,1,1
+Tanguy   Liliana,Dunoyer   Philippe,1,1
+Tanguy   Liliana,Guion-Firmin   Claire,1,1
+Tanguy   Liliana,Corbière   Alexis,0,1
+Tanguy   Liliana,Charrière   Sylvie,1,1
+Tanguy   Liliana,Bonnivard   Émilie,1,1
+Tanguy   Liliana,Kuster   Brigitte,1,1
+Tanguy   Liliana,Obono   Danièle,0,1
+Tanguy   Liliana,Magne   Marie-Ange,1,1
+Tanguy   Liliana,Rudigoz   Thomas,1,1
+Tanguy   Liliana,Fugit   Jean-Luc,1,1
+Tanguy   Liliana,Dirx   Benjamin,1,1
+Tanguy   Liliana,de Courson   Charles,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,1,1
+Ménard   Emmanuelle,Dufeu   Audrey,1,1
+Ménard   Emmanuelle,Magnier   Lise,1,1
+Ménard   Emmanuelle,Cariou   Émilie,1,1
+Ménard   Emmanuelle,Zannier   Hélène,1,1
+Ménard   Emmanuelle,Pahun   Jimmy,1,1
+Ménard   Emmanuelle,Paluszkiewicz   Xavier,1,1
+Ménard   Emmanuelle,Goulet   Perrine,1,1
+Ménard   Emmanuelle,Bois   Pascal,1,1
+Ménard   Emmanuelle,Roussel   Fabien,0,1
+Ménard   Emmanuelle,Mattei   Jean-Paul,1,1
+Ménard   Emmanuelle,Saint-Martin   Laurent,1,1
+Ménard   Emmanuelle,Dunoyer   Philippe,1,1
+Ménard   Emmanuelle,Guion-Firmin   Claire,1,1
+Ménard   Emmanuelle,Corbière   Alexis,0,1
+Ménard   Emmanuelle,Charrière   Sylvie,1,1
+Ménard   Emmanuelle,Bonnivard   Émilie,1,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Obono   Danièle,0,1
+Ménard   Emmanuelle,Magne   Marie-Ange,1,1
+Ménard   Emmanuelle,Rudigoz   Thomas,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Dirx   Benjamin,1,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+Labaronne   Daniel,Dufeu   Audrey,1,1
+Labaronne   Daniel,Magnier   Lise,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Pahun   Jimmy,1,1
+Labaronne   Daniel,Paluszkiewicz   Xavier,1,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Bois   Pascal,1,1
+Labaronne   Daniel,Roussel   Fabien,0,1
+Labaronne   Daniel,Mattei   Jean-Paul,1,1
+Labaronne   Daniel,Saint-Martin   Laurent,1,1
+Labaronne   Daniel,Dunoyer   Philippe,1,1
+Labaronne   Daniel,Guion-Firmin   Claire,1,1
+Labaronne   Daniel,Corbière   Alexis,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Bonnivard   Émilie,1,1
+Labaronne   Daniel,Kuster   Brigitte,1,1
+Labaronne   Daniel,Obono   Danièle,0,1
+Labaronne   Daniel,Magne   Marie-Ange,1,1
+Labaronne   Daniel,Rudigoz   Thomas,1,1
+Labaronne   Daniel,Fugit   Jean-Luc,1,1
+Labaronne   Daniel,Dirx   Benjamin,1,1
+Labaronne   Daniel,de Courson   Charles,1,1
+Dufeu   Audrey,Magnier   Lise,1,1
+Dufeu   Audrey,Cariou   Émilie,1,1
+Dufeu   Audrey,Zannier   Hélène,1,1
+Dufeu   Audrey,Pahun   Jimmy,1,1
+Dufeu   Audrey,Paluszkiewicz   Xavier,1,1
+Dufeu   Audrey,Goulet   Perrine,1,1
+Dufeu   Audrey,Bois   Pascal,1,1
+Dufeu   Audrey,Roussel   Fabien,0,1
+Dufeu   Audrey,Mattei   Jean-Paul,1,1
+Dufeu   Audrey,Saint-Martin   Laurent,1,1
+Dufeu   Audrey,Dunoyer   Philippe,1,1
+Dufeu   Audrey,Guion-Firmin   Claire,1,1
+Dufeu   Audrey,Corbière   Alexis,0,1
+Dufeu   Audrey,Charrière   Sylvie,1,1
+Dufeu   Audrey,Bonnivard   Émilie,1,1
+Dufeu   Audrey,Kuster   Brigitte,1,1
+Dufeu   Audrey,Obono   Danièle,0,1
+Dufeu   Audrey,Magne   Marie-Ange,1,1
+Dufeu   Audrey,Rudigoz   Thomas,1,1
+Dufeu   Audrey,Fugit   Jean-Luc,1,1
+Dufeu   Audrey,Dirx   Benjamin,1,1
+Dufeu   Audrey,de Courson   Charles,1,1
+Magnier   Lise,Cariou   Émilie,1,1
+Magnier   Lise,Zannier   Hélène,1,1
+Magnier   Lise,Pahun   Jimmy,1,1
+Magnier   Lise,Paluszkiewicz   Xavier,1,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Bois   Pascal,1,1
+Magnier   Lise,Roussel   Fabien,0,1
+Magnier   Lise,Mattei   Jean-Paul,1,1
+Magnier   Lise,Saint-Martin   Laurent,1,1
+Magnier   Lise,Dunoyer   Philippe,1,1
+Magnier   Lise,Guion-Firmin   Claire,1,1
+Magnier   Lise,Corbière   Alexis,0,1
+Magnier   Lise,Charrière   Sylvie,1,1
+Magnier   Lise,Bonnivard   Émilie,1,1
+Magnier   Lise,Kuster   Brigitte,1,1
+Magnier   Lise,Obono   Danièle,0,1
+Magnier   Lise,Magne   Marie-Ange,1,1
+Magnier   Lise,Rudigoz   Thomas,1,1
+Magnier   Lise,Fugit   Jean-Luc,1,1
+Magnier   Lise,Dirx   Benjamin,1,1
+Magnier   Lise,de Courson   Charles,1,1
+Cariou   Émilie,Zannier   Hélène,1,1
+Cariou   Émilie,Pahun   Jimmy,1,1
+Cariou   Émilie,Paluszkiewicz   Xavier,1,1
+Cariou   Émilie,Goulet   Perrine,1,1
+Cariou   Émilie,Bois   Pascal,1,1
+Cariou   Émilie,Roussel   Fabien,0,1
+Cariou   Émilie,Mattei   Jean-Paul,1,1
+Cariou   Émilie,Saint-Martin   Laurent,1,1
+Cariou   Émilie,Dunoyer   Philippe,1,1
+Cariou   Émilie,Guion-Firmin   Claire,1,1
+Cariou   Émilie,Corbière   Alexis,0,1
+Cariou   Émilie,Charrière   Sylvie,1,1
+Cariou   Émilie,Bonnivard   Émilie,1,1
+Cariou   Émilie,Kuster   Brigitte,1,1
+Cariou   Émilie,Obono   Danièle,0,1
+Cariou   Émilie,Magne   Marie-Ange,1,1
+Cariou   Émilie,Rudigoz   Thomas,1,1
+Cariou   Émilie,Fugit   Jean-Luc,1,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Cariou   Émilie,de Courson   Charles,1,1
+Zannier   Hélène,Pahun   Jimmy,1,1
+Zannier   Hélène,Paluszkiewicz   Xavier,1,1
+Zannier   Hélène,Goulet   Perrine,1,1
+Zannier   Hélène,Bois   Pascal,1,1
+Zannier   Hélène,Roussel   Fabien,0,1
+Zannier   Hélène,Mattei   Jean-Paul,1,1
+Zannier   Hélène,Saint-Martin   Laurent,1,1
+Zannier   Hélène,Dunoyer   Philippe,1,1
+Zannier   Hélène,Guion-Firmin   Claire,1,1
+Zannier   Hélène,Corbière   Alexis,0,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Bonnivard   Émilie,1,1
+Zannier   Hélène,Kuster   Brigitte,1,1
+Zannier   Hélène,Obono   Danièle,0,1
+Zannier   Hélène,Magne   Marie-Ange,1,1
+Zannier   Hélène,Rudigoz   Thomas,1,1
+Zannier   Hélène,Fugit   Jean-Luc,1,1
+Zannier   Hélène,Dirx   Benjamin,1,1
+Zannier   Hélène,de Courson   Charles,1,1
+Pahun   Jimmy,Paluszkiewicz   Xavier,1,1
+Pahun   Jimmy,Goulet   Perrine,1,1
+Pahun   Jimmy,Bois   Pascal,1,1
+Pahun   Jimmy,Roussel   Fabien,0,1
+Pahun   Jimmy,Mattei   Jean-Paul,1,1
+Pahun   Jimmy,Saint-Martin   Laurent,1,1
+Pahun   Jimmy,Dunoyer   Philippe,1,1
+Pahun   Jimmy,Guion-Firmin   Claire,1,1
+Pahun   Jimmy,Corbière   Alexis,0,1
+Pahun   Jimmy,Charrière   Sylvie,1,1
+Pahun   Jimmy,Bonnivard   Émilie,1,1
+Pahun   Jimmy,Kuster   Brigitte,1,1
+Pahun   Jimmy,Obono   Danièle,0,1
+Pahun   Jimmy,Magne   Marie-Ange,1,1
+Pahun   Jimmy,Rudigoz   Thomas,1,1
+Pahun   Jimmy,Fugit   Jean-Luc,1,1
+Pahun   Jimmy,Dirx   Benjamin,1,1
+Pahun   Jimmy,de Courson   Charles,1,1
+Paluszkiewicz   Xavier,Goulet   Perrine,1,1
+Paluszkiewicz   Xavier,Bois   Pascal,1,1
+Paluszkiewicz   Xavier,Roussel   Fabien,0,1
+Paluszkiewicz   Xavier,Mattei   Jean-Paul,1,1
+Paluszkiewicz   Xavier,Saint-Martin   Laurent,1,1
+Paluszkiewicz   Xavier,Dunoyer   Philippe,1,1
+Paluszkiewicz   Xavier,Guion-Firmin   Claire,1,1
+Paluszkiewicz   Xavier,Corbière   Alexis,0,1
+Paluszkiewicz   Xavier,Charrière   Sylvie,1,1
+Paluszkiewicz   Xavier,Bonnivard   Émilie,1,1
+Paluszkiewicz   Xavier,Kuster   Brigitte,1,1
+Paluszkiewicz   Xavier,Obono   Danièle,0,1
+Paluszkiewicz   Xavier,Magne   Marie-Ange,1,1
+Paluszkiewicz   Xavier,Rudigoz   Thomas,1,1
+Paluszkiewicz   Xavier,Fugit   Jean-Luc,1,1
+Paluszkiewicz   Xavier,Dirx   Benjamin,1,1
+Paluszkiewicz   Xavier,de Courson   Charles,1,1
+Goulet   Perrine,Bois   Pascal,1,1
+Goulet   Perrine,Roussel   Fabien,0,1
+Goulet   Perrine,Mattei   Jean-Paul,1,1
+Goulet   Perrine,Saint-Martin   Laurent,1,1
+Goulet   Perrine,Dunoyer   Philippe,1,1
+Goulet   Perrine,Guion-Firmin   Claire,1,1
+Goulet   Perrine,Corbière   Alexis,0,1
+Goulet   Perrine,Charrière   Sylvie,1,1
+Goulet   Perrine,Bonnivard   Émilie,1,1
+Goulet   Perrine,Kuster   Brigitte,1,1
+Goulet   Perrine,Obono   Danièle,0,1
+Goulet   Perrine,Magne   Marie-Ange,1,1
+Goulet   Perrine,Rudigoz   Thomas,1,1
+Goulet   Perrine,Fugit   Jean-Luc,1,1
+Goulet   Perrine,Dirx   Benjamin,1,1
+Goulet   Perrine,de Courson   Charles,1,1
+Bois   Pascal,Roussel   Fabien,0,1
+Bois   Pascal,Mattei   Jean-Paul,1,1
+Bois   Pascal,Saint-Martin   Laurent,1,1
+Bois   Pascal,Dunoyer   Philippe,1,1
+Bois   Pascal,Guion-Firmin   Claire,1,1
+Bois   Pascal,Corbière   Alexis,0,1
+Bois   Pascal,Charrière   Sylvie,1,1
+Bois   Pascal,Bonnivard   Émilie,1,1
+Bois   Pascal,Kuster   Brigitte,1,1
+Bois   Pascal,Obono   Danièle,0,1
+Bois   Pascal,Magne   Marie-Ange,1,1
+Bois   Pascal,Rudigoz   Thomas,1,1
+Bois   Pascal,Fugit   Jean-Luc,1,1
+Bois   Pascal,Dirx   Benjamin,1,1
+Bois   Pascal,de Courson   Charles,1,1
+Roussel   Fabien,Mattei   Jean-Paul,0,1
+Roussel   Fabien,Saint-Martin   Laurent,0,1
+Roussel   Fabien,Dunoyer   Philippe,0,1
+Roussel   Fabien,Guion-Firmin   Claire,0,1
+Roussel   Fabien,Corbière   Alexis,1,1
+Roussel   Fabien,Charrière   Sylvie,0,1
+Roussel   Fabien,Bonnivard   Émilie,0,1
+Roussel   Fabien,Kuster   Brigitte,0,1
+Roussel   Fabien,Obono   Danièle,1,1
+Roussel   Fabien,Magne   Marie-Ange,0,1
+Roussel   Fabien,Rudigoz   Thomas,0,1
+Roussel   Fabien,Fugit   Jean-Luc,0,1
+Roussel   Fabien,Dirx   Benjamin,0,1
+Roussel   Fabien,de Courson   Charles,0,1
+Mattei   Jean-Paul,Saint-Martin   Laurent,1,1
+Mattei   Jean-Paul,Dunoyer   Philippe,1,1
+Mattei   Jean-Paul,Guion-Firmin   Claire,1,1
+Mattei   Jean-Paul,Corbière   Alexis,0,1
+Mattei   Jean-Paul,Charrière   Sylvie,1,1
+Mattei   Jean-Paul,Bonnivard   Émilie,1,1
+Mattei   Jean-Paul,Kuster   Brigitte,1,1
+Mattei   Jean-Paul,Obono   Danièle,0,1
+Mattei   Jean-Paul,Magne   Marie-Ange,1,1
+Mattei   Jean-Paul,Rudigoz   Thomas,1,1
+Mattei   Jean-Paul,Fugit   Jean-Luc,1,1
+Mattei   Jean-Paul,Dirx   Benjamin,1,1
+Mattei   Jean-Paul,de Courson   Charles,1,1
+Saint-Martin   Laurent,Dunoyer   Philippe,1,1
+Saint-Martin   Laurent,Guion-Firmin   Claire,1,1
+Saint-Martin   Laurent,Corbière   Alexis,0,1
+Saint-Martin   Laurent,Charrière   Sylvie,1,1
+Saint-Martin   Laurent,Bonnivard   Émilie,1,1
+Saint-Martin   Laurent,Kuster   Brigitte,1,1
+Saint-Martin   Laurent,Obono   Danièle,0,1
+Saint-Martin   Laurent,Magne   Marie-Ange,1,1
+Saint-Martin   Laurent,Rudigoz   Thomas,1,1
+Saint-Martin   Laurent,Fugit   Jean-Luc,1,1
+Saint-Martin   Laurent,Dirx   Benjamin,1,1
+Saint-Martin   Laurent,de Courson   Charles,1,1
+Dunoyer   Philippe,Guion-Firmin   Claire,1,1
+Dunoyer   Philippe,Corbière   Alexis,0,1
+Dunoyer   Philippe,Charrière   Sylvie,1,1
+Dunoyer   Philippe,Bonnivard   Émilie,1,1
+Dunoyer   Philippe,Kuster   Brigitte,1,1
+Dunoyer   Philippe,Obono   Danièle,0,1
+Dunoyer   Philippe,Magne   Marie-Ange,1,1
+Dunoyer   Philippe,Rudigoz   Thomas,1,1
+Dunoyer   Philippe,Fugit   Jean-Luc,1,1
+Dunoyer   Philippe,Dirx   Benjamin,1,1
+Dunoyer   Philippe,de Courson   Charles,1,1
+Guion-Firmin   Claire,Corbière   Alexis,0,1
+Guion-Firmin   Claire,Charrière   Sylvie,1,1
+Guion-Firmin   Claire,Bonnivard   Émilie,1,1
+Guion-Firmin   Claire,Kuster   Brigitte,1,1
+Guion-Firmin   Claire,Obono   Danièle,0,1
+Guion-Firmin   Claire,Magne   Marie-Ange,1,1
+Guion-Firmin   Claire,Rudigoz   Thomas,1,1
+Guion-Firmin   Claire,Fugit   Jean-Luc,1,1
+Guion-Firmin   Claire,Dirx   Benjamin,1,1
+Guion-Firmin   Claire,de Courson   Charles,1,1
+Corbière   Alexis,Charrière   Sylvie,0,1
+Corbière   Alexis,Bonnivard   Émilie,0,1
+Corbière   Alexis,Kuster   Brigitte,0,1
+Corbière   Alexis,Obono   Danièle,1,1
+Corbière   Alexis,Magne   Marie-Ange,0,1
+Corbière   Alexis,Rudigoz   Thomas,0,1
+Corbière   Alexis,Fugit   Jean-Luc,0,1
+Corbière   Alexis,Dirx   Benjamin,0,1
+Corbière   Alexis,de Courson   Charles,0,1
+Charrière   Sylvie,Bonnivard   Émilie,1,1
+Charrière   Sylvie,Kuster   Brigitte,1,1
+Charrière   Sylvie,Obono   Danièle,0,1
+Charrière   Sylvie,Magne   Marie-Ange,1,1
+Charrière   Sylvie,Rudigoz   Thomas,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Charrière   Sylvie,Dirx   Benjamin,1,1
+Charrière   Sylvie,de Courson   Charles,1,1
+Bonnivard   Émilie,Kuster   Brigitte,1,1
+Bonnivard   Émilie,Obono   Danièle,0,1
+Bonnivard   Émilie,Magne   Marie-Ange,1,1
+Bonnivard   Émilie,Rudigoz   Thomas,1,1
+Bonnivard   Émilie,Fugit   Jean-Luc,1,1
+Bonnivard   Émilie,Dirx   Benjamin,1,1
+Bonnivard   Émilie,de Courson   Charles,1,1
+Kuster   Brigitte,Obono   Danièle,0,1
+Kuster   Brigitte,Magne   Marie-Ange,1,1
+Kuster   Brigitte,Rudigoz   Thomas,1,1
+Kuster   Brigitte,Fugit   Jean-Luc,1,1
+Kuster   Brigitte,Dirx   Benjamin,1,1
+Kuster   Brigitte,de Courson   Charles,1,1
+Obono   Danièle,Magne   Marie-Ange,0,1
+Obono   Danièle,Rudigoz   Thomas,0,1
+Obono   Danièle,Fugit   Jean-Luc,0,1
+Obono   Danièle,Dirx   Benjamin,0,1
+Obono   Danièle,de Courson   Charles,0,1
+Magne   Marie-Ange,Rudigoz   Thomas,1,1
+Magne   Marie-Ange,Fugit   Jean-Luc,1,1
+Magne   Marie-Ange,Dirx   Benjamin,1,1
+Magne   Marie-Ange,de Courson   Charles,1,1
+Rudigoz   Thomas,Fugit   Jean-Luc,1,1
+Rudigoz   Thomas,Dirx   Benjamin,1,1
+Rudigoz   Thomas,de Courson   Charles,1,1
+Fugit   Jean-Luc,Dirx   Benjamin,1,1
+Fugit   Jean-Luc,de Courson   Charles,1,1
+Dirx   Benjamin,de Courson   Charles,1,1

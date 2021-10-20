@@ -1,0 +1,466 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Hutin   Christian,1,1
+Firmin Le Bodo   Agnès,Touraine   Jean-Louis,1,1
+Firmin Le Bodo   Agnès,Pinel   Sylvia,0,1
+Firmin Le Bodo   Agnès,Saulignac   Hervé,0,1
+Firmin Le Bodo   Agnès,Brindeau   Pascal,0,1
+Firmin Le Bodo   Agnès,Hetzel   Patrick,0,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,0,1
+Firmin Le Bodo   Agnès,Delatte   Marc,1,1
+Firmin Le Bodo   Agnès,Vanceunebrock   Laurence,1,1
+Firmin Le Bodo   Agnès,Gérard   Raphaël,1,1
+Firmin Le Bodo   Agnès,Clapot   Mireille,1,1
+Firmin Le Bodo   Agnès,Berta   Philippe,1,1
+Firmin Le Bodo   Agnès,Eliaou   Jean-François,1,1
+Firmin Le Bodo   Agnès,Grandjean   Carole,1,1
+Firmin Le Bodo   Agnès,Thill   Agnès,0,1
+Firmin Le Bodo   Agnès,Minot   Maxime,0,1
+Firmin Le Bodo   Agnès,Gouffier-Cha   Guillaume,1,1
+Firmin Le Bodo   Agnès,Kuster   Brigitte,0,1
+Firmin Le Bodo   Agnès,Calvez   Céline,1,1
+Firmin Le Bodo   Agnès,Gomez-Bassac   Valérie,1,1
+Firmin Le Bodo   Agnès,Marilossian   Jacques,1,1
+Firmin Le Bodo   Agnès,Buchou   Stéphane,1,1
+Firmin Le Bodo   Agnès,Romeiro Dias   Laëtitia,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Pételle   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Hennion   Christine,1,1
+Firmin Le Bodo   Agnès,Chiche   Guillaume,1,1
+Firmin Le Bodo   Agnès,Provendier   Florence,1,1
+Firmin Le Bodo   Agnès,Venteau   Pierre,1,1
+Firmin Le Bodo   Agnès,Chouat   Francis,1,1
+Hutin   Christian,Touraine   Jean-Louis,1,1
+Hutin   Christian,Pinel   Sylvia,0,1
+Hutin   Christian,Saulignac   Hervé,0,1
+Hutin   Christian,Brindeau   Pascal,0,1
+Hutin   Christian,Hetzel   Patrick,0,1
+Hutin   Christian,Bazin   Thibault,0,1
+Hutin   Christian,Delatte   Marc,1,1
+Hutin   Christian,Vanceunebrock   Laurence,1,1
+Hutin   Christian,Gérard   Raphaël,1,1
+Hutin   Christian,Clapot   Mireille,1,1
+Hutin   Christian,Berta   Philippe,1,1
+Hutin   Christian,Eliaou   Jean-François,1,1
+Hutin   Christian,Grandjean   Carole,1,1
+Hutin   Christian,Thill   Agnès,0,1
+Hutin   Christian,Minot   Maxime,0,1
+Hutin   Christian,Gouffier-Cha   Guillaume,1,1
+Hutin   Christian,Kuster   Brigitte,0,1
+Hutin   Christian,Calvez   Céline,1,1
+Hutin   Christian,Gomez-Bassac   Valérie,1,1
+Hutin   Christian,Marilossian   Jacques,1,1
+Hutin   Christian,Buchou   Stéphane,1,1
+Hutin   Christian,Romeiro Dias   Laëtitia,1,1
+Hutin   Christian,Bergé   Aurore,1,1
+Hutin   Christian,Pételle   Bénédicte,1,1
+Hutin   Christian,Hennion   Christine,1,1
+Hutin   Christian,Chiche   Guillaume,1,1
+Hutin   Christian,Provendier   Florence,1,1
+Hutin   Christian,Venteau   Pierre,1,1
+Hutin   Christian,Chouat   Francis,1,1
+Touraine   Jean-Louis,Pinel   Sylvia,0,1
+Touraine   Jean-Louis,Saulignac   Hervé,0,1
+Touraine   Jean-Louis,Brindeau   Pascal,0,1
+Touraine   Jean-Louis,Hetzel   Patrick,0,1
+Touraine   Jean-Louis,Bazin   Thibault,0,1
+Touraine   Jean-Louis,Delatte   Marc,1,1
+Touraine   Jean-Louis,Vanceunebrock   Laurence,1,1
+Touraine   Jean-Louis,Gérard   Raphaël,1,1
+Touraine   Jean-Louis,Clapot   Mireille,1,1
+Touraine   Jean-Louis,Berta   Philippe,1,1
+Touraine   Jean-Louis,Eliaou   Jean-François,1,1
+Touraine   Jean-Louis,Grandjean   Carole,1,1
+Touraine   Jean-Louis,Thill   Agnès,0,1
+Touraine   Jean-Louis,Minot   Maxime,0,1
+Touraine   Jean-Louis,Gouffier-Cha   Guillaume,1,1
+Touraine   Jean-Louis,Kuster   Brigitte,0,1
+Touraine   Jean-Louis,Calvez   Céline,1,1
+Touraine   Jean-Louis,Gomez-Bassac   Valérie,1,1
+Touraine   Jean-Louis,Marilossian   Jacques,1,1
+Touraine   Jean-Louis,Buchou   Stéphane,1,1
+Touraine   Jean-Louis,Romeiro Dias   Laëtitia,1,1
+Touraine   Jean-Louis,Bergé   Aurore,1,1
+Touraine   Jean-Louis,Pételle   Bénédicte,1,1
+Touraine   Jean-Louis,Hennion   Christine,1,1
+Touraine   Jean-Louis,Chiche   Guillaume,1,1
+Touraine   Jean-Louis,Provendier   Florence,1,1
+Touraine   Jean-Louis,Venteau   Pierre,1,1
+Touraine   Jean-Louis,Chouat   Francis,1,1
+Pinel   Sylvia,Saulignac   Hervé,1,1
+Pinel   Sylvia,Brindeau   Pascal,1,1
+Pinel   Sylvia,Hetzel   Patrick,1,1
+Pinel   Sylvia,Bazin   Thibault,1,1
+Pinel   Sylvia,Delatte   Marc,0,1
+Pinel   Sylvia,Vanceunebrock   Laurence,0,1
+Pinel   Sylvia,Gérard   Raphaël,0,1
+Pinel   Sylvia,Clapot   Mireille,0,1
+Pinel   Sylvia,Berta   Philippe,0,1
+Pinel   Sylvia,Eliaou   Jean-François,0,1
+Pinel   Sylvia,Grandjean   Carole,0,1
+Pinel   Sylvia,Thill   Agnès,1,1
+Pinel   Sylvia,Minot   Maxime,1,1
+Pinel   Sylvia,Gouffier-Cha   Guillaume,0,1
+Pinel   Sylvia,Kuster   Brigitte,1,1
+Pinel   Sylvia,Calvez   Céline,0,1
+Pinel   Sylvia,Gomez-Bassac   Valérie,0,1
+Pinel   Sylvia,Marilossian   Jacques,0,1
+Pinel   Sylvia,Buchou   Stéphane,0,1
+Pinel   Sylvia,Romeiro Dias   Laëtitia,0,1
+Pinel   Sylvia,Bergé   Aurore,0,1
+Pinel   Sylvia,Pételle   Bénédicte,0,1
+Pinel   Sylvia,Hennion   Christine,0,1
+Pinel   Sylvia,Chiche   Guillaume,0,1
+Pinel   Sylvia,Provendier   Florence,0,1
+Pinel   Sylvia,Venteau   Pierre,0,1
+Pinel   Sylvia,Chouat   Francis,0,1
+Saulignac   Hervé,Brindeau   Pascal,1,1
+Saulignac   Hervé,Hetzel   Patrick,1,1
+Saulignac   Hervé,Bazin   Thibault,1,1
+Saulignac   Hervé,Delatte   Marc,0,1
+Saulignac   Hervé,Vanceunebrock   Laurence,0,1
+Saulignac   Hervé,Gérard   Raphaël,0,1
+Saulignac   Hervé,Clapot   Mireille,0,1
+Saulignac   Hervé,Berta   Philippe,0,1
+Saulignac   Hervé,Eliaou   Jean-François,0,1
+Saulignac   Hervé,Grandjean   Carole,0,1
+Saulignac   Hervé,Thill   Agnès,1,1
+Saulignac   Hervé,Minot   Maxime,1,1
+Saulignac   Hervé,Gouffier-Cha   Guillaume,0,1
+Saulignac   Hervé,Kuster   Brigitte,1,1
+Saulignac   Hervé,Calvez   Céline,0,1
+Saulignac   Hervé,Gomez-Bassac   Valérie,0,1
+Saulignac   Hervé,Marilossian   Jacques,0,1
+Saulignac   Hervé,Buchou   Stéphane,0,1
+Saulignac   Hervé,Romeiro Dias   Laëtitia,0,1
+Saulignac   Hervé,Bergé   Aurore,0,1
+Saulignac   Hervé,Pételle   Bénédicte,0,1
+Saulignac   Hervé,Hennion   Christine,0,1
+Saulignac   Hervé,Chiche   Guillaume,0,1
+Saulignac   Hervé,Provendier   Florence,0,1
+Saulignac   Hervé,Venteau   Pierre,0,1
+Saulignac   Hervé,Chouat   Francis,0,1
+Brindeau   Pascal,Hetzel   Patrick,1,1
+Brindeau   Pascal,Bazin   Thibault,1,1
+Brindeau   Pascal,Delatte   Marc,0,1
+Brindeau   Pascal,Vanceunebrock   Laurence,0,1
+Brindeau   Pascal,Gérard   Raphaël,0,1
+Brindeau   Pascal,Clapot   Mireille,0,1
+Brindeau   Pascal,Berta   Philippe,0,1
+Brindeau   Pascal,Eliaou   Jean-François,0,1
+Brindeau   Pascal,Grandjean   Carole,0,1
+Brindeau   Pascal,Thill   Agnès,1,1
+Brindeau   Pascal,Minot   Maxime,1,1
+Brindeau   Pascal,Gouffier-Cha   Guillaume,0,1
+Brindeau   Pascal,Kuster   Brigitte,1,1
+Brindeau   Pascal,Calvez   Céline,0,1
+Brindeau   Pascal,Gomez-Bassac   Valérie,0,1
+Brindeau   Pascal,Marilossian   Jacques,0,1
+Brindeau   Pascal,Buchou   Stéphane,0,1
+Brindeau   Pascal,Romeiro Dias   Laëtitia,0,1
+Brindeau   Pascal,Bergé   Aurore,0,1
+Brindeau   Pascal,Pételle   Bénédicte,0,1
+Brindeau   Pascal,Hennion   Christine,0,1
+Brindeau   Pascal,Chiche   Guillaume,0,1
+Brindeau   Pascal,Provendier   Florence,0,1
+Brindeau   Pascal,Venteau   Pierre,0,1
+Brindeau   Pascal,Chouat   Francis,0,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Delatte   Marc,0,1
+Hetzel   Patrick,Vanceunebrock   Laurence,0,1
+Hetzel   Patrick,Gérard   Raphaël,0,1
+Hetzel   Patrick,Clapot   Mireille,0,1
+Hetzel   Patrick,Berta   Philippe,0,1
+Hetzel   Patrick,Eliaou   Jean-François,0,1
+Hetzel   Patrick,Grandjean   Carole,0,1
+Hetzel   Patrick,Thill   Agnès,1,1
+Hetzel   Patrick,Minot   Maxime,1,1
+Hetzel   Patrick,Gouffier-Cha   Guillaume,0,1
+Hetzel   Patrick,Kuster   Brigitte,1,1
+Hetzel   Patrick,Calvez   Céline,0,1
+Hetzel   Patrick,Gomez-Bassac   Valérie,0,1
+Hetzel   Patrick,Marilossian   Jacques,0,1
+Hetzel   Patrick,Buchou   Stéphane,0,1
+Hetzel   Patrick,Romeiro Dias   Laëtitia,0,1
+Hetzel   Patrick,Bergé   Aurore,0,1
+Hetzel   Patrick,Pételle   Bénédicte,0,1
+Hetzel   Patrick,Hennion   Christine,0,1
+Hetzel   Patrick,Chiche   Guillaume,0,1
+Hetzel   Patrick,Provendier   Florence,0,1
+Hetzel   Patrick,Venteau   Pierre,0,1
+Hetzel   Patrick,Chouat   Francis,0,1
+Bazin   Thibault,Delatte   Marc,0,1
+Bazin   Thibault,Vanceunebrock   Laurence,0,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Clapot   Mireille,0,1
+Bazin   Thibault,Berta   Philippe,0,1
+Bazin   Thibault,Eliaou   Jean-François,0,1
+Bazin   Thibault,Grandjean   Carole,0,1
+Bazin   Thibault,Thill   Agnès,1,1
+Bazin   Thibault,Minot   Maxime,1,1
+Bazin   Thibault,Gouffier-Cha   Guillaume,0,1
+Bazin   Thibault,Kuster   Brigitte,1,1
+Bazin   Thibault,Calvez   Céline,0,1
+Bazin   Thibault,Gomez-Bassac   Valérie,0,1
+Bazin   Thibault,Marilossian   Jacques,0,1
+Bazin   Thibault,Buchou   Stéphane,0,1
+Bazin   Thibault,Romeiro Dias   Laëtitia,0,1
+Bazin   Thibault,Bergé   Aurore,0,1
+Bazin   Thibault,Pételle   Bénédicte,0,1
+Bazin   Thibault,Hennion   Christine,0,1
+Bazin   Thibault,Chiche   Guillaume,0,1
+Bazin   Thibault,Provendier   Florence,0,1
+Bazin   Thibault,Venteau   Pierre,0,1
+Bazin   Thibault,Chouat   Francis,0,1
+Delatte   Marc,Vanceunebrock   Laurence,1,1
+Delatte   Marc,Gérard   Raphaël,1,1
+Delatte   Marc,Clapot   Mireille,1,1
+Delatte   Marc,Berta   Philippe,1,1
+Delatte   Marc,Eliaou   Jean-François,1,1
+Delatte   Marc,Grandjean   Carole,1,1
+Delatte   Marc,Thill   Agnès,0,1
+Delatte   Marc,Minot   Maxime,0,1
+Delatte   Marc,Gouffier-Cha   Guillaume,1,1
+Delatte   Marc,Kuster   Brigitte,0,1
+Delatte   Marc,Calvez   Céline,1,1
+Delatte   Marc,Gomez-Bassac   Valérie,1,1
+Delatte   Marc,Marilossian   Jacques,1,1
+Delatte   Marc,Buchou   Stéphane,1,1
+Delatte   Marc,Romeiro Dias   Laëtitia,1,1
+Delatte   Marc,Bergé   Aurore,1,1
+Delatte   Marc,Pételle   Bénédicte,1,1
+Delatte   Marc,Hennion   Christine,1,1
+Delatte   Marc,Chiche   Guillaume,1,1
+Delatte   Marc,Provendier   Florence,1,1
+Delatte   Marc,Venteau   Pierre,1,1
+Delatte   Marc,Chouat   Francis,1,1
+Vanceunebrock   Laurence,Gérard   Raphaël,1,1
+Vanceunebrock   Laurence,Clapot   Mireille,1,1
+Vanceunebrock   Laurence,Berta   Philippe,1,1
+Vanceunebrock   Laurence,Eliaou   Jean-François,1,1
+Vanceunebrock   Laurence,Grandjean   Carole,1,1
+Vanceunebrock   Laurence,Thill   Agnès,0,1
+Vanceunebrock   Laurence,Minot   Maxime,0,1
+Vanceunebrock   Laurence,Gouffier-Cha   Guillaume,1,1
+Vanceunebrock   Laurence,Kuster   Brigitte,0,1
+Vanceunebrock   Laurence,Calvez   Céline,1,1
+Vanceunebrock   Laurence,Gomez-Bassac   Valérie,1,1
+Vanceunebrock   Laurence,Marilossian   Jacques,1,1
+Vanceunebrock   Laurence,Buchou   Stéphane,1,1
+Vanceunebrock   Laurence,Romeiro Dias   Laëtitia,1,1
+Vanceunebrock   Laurence,Bergé   Aurore,1,1
+Vanceunebrock   Laurence,Pételle   Bénédicte,1,1
+Vanceunebrock   Laurence,Hennion   Christine,1,1
+Vanceunebrock   Laurence,Chiche   Guillaume,1,1
+Vanceunebrock   Laurence,Provendier   Florence,1,1
+Vanceunebrock   Laurence,Venteau   Pierre,1,1
+Vanceunebrock   Laurence,Chouat   Francis,1,1
+Gérard   Raphaël,Clapot   Mireille,1,1
+Gérard   Raphaël,Berta   Philippe,1,1
+Gérard   Raphaël,Eliaou   Jean-François,1,1
+Gérard   Raphaël,Grandjean   Carole,1,1
+Gérard   Raphaël,Thill   Agnès,0,1
+Gérard   Raphaël,Minot   Maxime,0,1
+Gérard   Raphaël,Gouffier-Cha   Guillaume,1,1
+Gérard   Raphaël,Kuster   Brigitte,0,1
+Gérard   Raphaël,Calvez   Céline,1,1
+Gérard   Raphaël,Gomez-Bassac   Valérie,1,1
+Gérard   Raphaël,Marilossian   Jacques,1,1
+Gérard   Raphaël,Buchou   Stéphane,1,1
+Gérard   Raphaël,Romeiro Dias   Laëtitia,1,1
+Gérard   Raphaël,Bergé   Aurore,1,1
+Gérard   Raphaël,Pételle   Bénédicte,1,1
+Gérard   Raphaël,Hennion   Christine,1,1
+Gérard   Raphaël,Chiche   Guillaume,1,1
+Gérard   Raphaël,Provendier   Florence,1,1
+Gérard   Raphaël,Venteau   Pierre,1,1
+Gérard   Raphaël,Chouat   Francis,1,1
+Clapot   Mireille,Berta   Philippe,1,1
+Clapot   Mireille,Eliaou   Jean-François,1,1
+Clapot   Mireille,Grandjean   Carole,1,1
+Clapot   Mireille,Thill   Agnès,0,1
+Clapot   Mireille,Minot   Maxime,0,1
+Clapot   Mireille,Gouffier-Cha   Guillaume,1,1
+Clapot   Mireille,Kuster   Brigitte,0,1
+Clapot   Mireille,Calvez   Céline,1,1
+Clapot   Mireille,Gomez-Bassac   Valérie,1,1
+Clapot   Mireille,Marilossian   Jacques,1,1
+Clapot   Mireille,Buchou   Stéphane,1,1
+Clapot   Mireille,Romeiro Dias   Laëtitia,1,1
+Clapot   Mireille,Bergé   Aurore,1,1
+Clapot   Mireille,Pételle   Bénédicte,1,1
+Clapot   Mireille,Hennion   Christine,1,1
+Clapot   Mireille,Chiche   Guillaume,1,1
+Clapot   Mireille,Provendier   Florence,1,1
+Clapot   Mireille,Venteau   Pierre,1,1
+Clapot   Mireille,Chouat   Francis,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Grandjean   Carole,1,1
+Berta   Philippe,Thill   Agnès,0,1
+Berta   Philippe,Minot   Maxime,0,1
+Berta   Philippe,Gouffier-Cha   Guillaume,1,1
+Berta   Philippe,Kuster   Brigitte,0,1
+Berta   Philippe,Calvez   Céline,1,1
+Berta   Philippe,Gomez-Bassac   Valérie,1,1
+Berta   Philippe,Marilossian   Jacques,1,1
+Berta   Philippe,Buchou   Stéphane,1,1
+Berta   Philippe,Romeiro Dias   Laëtitia,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Pételle   Bénédicte,1,1
+Berta   Philippe,Hennion   Christine,1,1
+Berta   Philippe,Chiche   Guillaume,1,1
+Berta   Philippe,Provendier   Florence,1,1
+Berta   Philippe,Venteau   Pierre,1,1
+Berta   Philippe,Chouat   Francis,1,1
+Eliaou   Jean-François,Grandjean   Carole,1,1
+Eliaou   Jean-François,Thill   Agnès,0,1
+Eliaou   Jean-François,Minot   Maxime,0,1
+Eliaou   Jean-François,Gouffier-Cha   Guillaume,1,1
+Eliaou   Jean-François,Kuster   Brigitte,0,1
+Eliaou   Jean-François,Calvez   Céline,1,1
+Eliaou   Jean-François,Gomez-Bassac   Valérie,1,1
+Eliaou   Jean-François,Marilossian   Jacques,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Romeiro Dias   Laëtitia,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Pételle   Bénédicte,1,1
+Eliaou   Jean-François,Hennion   Christine,1,1
+Eliaou   Jean-François,Chiche   Guillaume,1,1
+Eliaou   Jean-François,Provendier   Florence,1,1
+Eliaou   Jean-François,Venteau   Pierre,1,1
+Eliaou   Jean-François,Chouat   Francis,1,1
+Grandjean   Carole,Thill   Agnès,0,1
+Grandjean   Carole,Minot   Maxime,0,1
+Grandjean   Carole,Gouffier-Cha   Guillaume,1,1
+Grandjean   Carole,Kuster   Brigitte,0,1
+Grandjean   Carole,Calvez   Céline,1,1
+Grandjean   Carole,Gomez-Bassac   Valérie,1,1
+Grandjean   Carole,Marilossian   Jacques,1,1
+Grandjean   Carole,Buchou   Stéphane,1,1
+Grandjean   Carole,Romeiro Dias   Laëtitia,1,1
+Grandjean   Carole,Bergé   Aurore,1,1
+Grandjean   Carole,Pételle   Bénédicte,1,1
+Grandjean   Carole,Hennion   Christine,1,1
+Grandjean   Carole,Chiche   Guillaume,1,1
+Grandjean   Carole,Provendier   Florence,1,1
+Grandjean   Carole,Venteau   Pierre,1,1
+Grandjean   Carole,Chouat   Francis,1,1
+Thill   Agnès,Minot   Maxime,1,1
+Thill   Agnès,Gouffier-Cha   Guillaume,0,1
+Thill   Agnès,Kuster   Brigitte,1,1
+Thill   Agnès,Calvez   Céline,0,1
+Thill   Agnès,Gomez-Bassac   Valérie,0,1
+Thill   Agnès,Marilossian   Jacques,0,1
+Thill   Agnès,Buchou   Stéphane,0,1
+Thill   Agnès,Romeiro Dias   Laëtitia,0,1
+Thill   Agnès,Bergé   Aurore,0,1
+Thill   Agnès,Pételle   Bénédicte,0,1
+Thill   Agnès,Hennion   Christine,0,1
+Thill   Agnès,Chiche   Guillaume,0,1
+Thill   Agnès,Provendier   Florence,0,1
+Thill   Agnès,Venteau   Pierre,0,1
+Thill   Agnès,Chouat   Francis,0,1
+Minot   Maxime,Gouffier-Cha   Guillaume,0,1
+Minot   Maxime,Kuster   Brigitte,1,1
+Minot   Maxime,Calvez   Céline,0,1
+Minot   Maxime,Gomez-Bassac   Valérie,0,1
+Minot   Maxime,Marilossian   Jacques,0,1
+Minot   Maxime,Buchou   Stéphane,0,1
+Minot   Maxime,Romeiro Dias   Laëtitia,0,1
+Minot   Maxime,Bergé   Aurore,0,1
+Minot   Maxime,Pételle   Bénédicte,0,1
+Minot   Maxime,Hennion   Christine,0,1
+Minot   Maxime,Chiche   Guillaume,0,1
+Minot   Maxime,Provendier   Florence,0,1
+Minot   Maxime,Venteau   Pierre,0,1
+Minot   Maxime,Chouat   Francis,0,1
+Gouffier-Cha   Guillaume,Kuster   Brigitte,0,1
+Gouffier-Cha   Guillaume,Calvez   Céline,1,1
+Gouffier-Cha   Guillaume,Gomez-Bassac   Valérie,1,1
+Gouffier-Cha   Guillaume,Marilossian   Jacques,1,1
+Gouffier-Cha   Guillaume,Buchou   Stéphane,1,1
+Gouffier-Cha   Guillaume,Romeiro Dias   Laëtitia,1,1
+Gouffier-Cha   Guillaume,Bergé   Aurore,1,1
+Gouffier-Cha   Guillaume,Pételle   Bénédicte,1,1
+Gouffier-Cha   Guillaume,Hennion   Christine,1,1
+Gouffier-Cha   Guillaume,Chiche   Guillaume,1,1
+Gouffier-Cha   Guillaume,Provendier   Florence,1,1
+Gouffier-Cha   Guillaume,Venteau   Pierre,1,1
+Gouffier-Cha   Guillaume,Chouat   Francis,1,1
+Kuster   Brigitte,Calvez   Céline,0,1
+Kuster   Brigitte,Gomez-Bassac   Valérie,0,1
+Kuster   Brigitte,Marilossian   Jacques,0,1
+Kuster   Brigitte,Buchou   Stéphane,0,1
+Kuster   Brigitte,Romeiro Dias   Laëtitia,0,1
+Kuster   Brigitte,Bergé   Aurore,0,1
+Kuster   Brigitte,Pételle   Bénédicte,0,1
+Kuster   Brigitte,Hennion   Christine,0,1
+Kuster   Brigitte,Chiche   Guillaume,0,1
+Kuster   Brigitte,Provendier   Florence,0,1
+Kuster   Brigitte,Venteau   Pierre,0,1
+Kuster   Brigitte,Chouat   Francis,0,1
+Calvez   Céline,Gomez-Bassac   Valérie,1,1
+Calvez   Céline,Marilossian   Jacques,1,1
+Calvez   Céline,Buchou   Stéphane,1,1
+Calvez   Céline,Romeiro Dias   Laëtitia,1,1
+Calvez   Céline,Bergé   Aurore,1,1
+Calvez   Céline,Pételle   Bénédicte,1,1
+Calvez   Céline,Hennion   Christine,1,1
+Calvez   Céline,Chiche   Guillaume,1,1
+Calvez   Céline,Provendier   Florence,1,1
+Calvez   Céline,Venteau   Pierre,1,1
+Calvez   Céline,Chouat   Francis,1,1
+Gomez-Bassac   Valérie,Marilossian   Jacques,1,1
+Gomez-Bassac   Valérie,Buchou   Stéphane,1,1
+Gomez-Bassac   Valérie,Romeiro Dias   Laëtitia,1,1
+Gomez-Bassac   Valérie,Bergé   Aurore,1,1
+Gomez-Bassac   Valérie,Pételle   Bénédicte,1,1
+Gomez-Bassac   Valérie,Hennion   Christine,1,1
+Gomez-Bassac   Valérie,Chiche   Guillaume,1,1
+Gomez-Bassac   Valérie,Provendier   Florence,1,1
+Gomez-Bassac   Valérie,Venteau   Pierre,1,1
+Gomez-Bassac   Valérie,Chouat   Francis,1,1
+Marilossian   Jacques,Buchou   Stéphane,1,1
+Marilossian   Jacques,Romeiro Dias   Laëtitia,1,1
+Marilossian   Jacques,Bergé   Aurore,1,1
+Marilossian   Jacques,Pételle   Bénédicte,1,1
+Marilossian   Jacques,Hennion   Christine,1,1
+Marilossian   Jacques,Chiche   Guillaume,1,1
+Marilossian   Jacques,Provendier   Florence,1,1
+Marilossian   Jacques,Venteau   Pierre,1,1
+Marilossian   Jacques,Chouat   Francis,1,1
+Buchou   Stéphane,Romeiro Dias   Laëtitia,1,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Hennion   Christine,1,1
+Buchou   Stéphane,Chiche   Guillaume,1,1
+Buchou   Stéphane,Provendier   Florence,1,1
+Buchou   Stéphane,Venteau   Pierre,1,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Romeiro Dias   Laëtitia,Bergé   Aurore,1,1
+Romeiro Dias   Laëtitia,Pételle   Bénédicte,1,1
+Romeiro Dias   Laëtitia,Hennion   Christine,1,1
+Romeiro Dias   Laëtitia,Chiche   Guillaume,1,1
+Romeiro Dias   Laëtitia,Provendier   Florence,1,1
+Romeiro Dias   Laëtitia,Venteau   Pierre,1,1
+Romeiro Dias   Laëtitia,Chouat   Francis,1,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Hennion   Christine,1,1
+Bergé   Aurore,Chiche   Guillaume,1,1
+Bergé   Aurore,Provendier   Florence,1,1
+Bergé   Aurore,Venteau   Pierre,1,1
+Bergé   Aurore,Chouat   Francis,1,1
+Pételle   Bénédicte,Hennion   Christine,1,1
+Pételle   Bénédicte,Chiche   Guillaume,1,1
+Pételle   Bénédicte,Provendier   Florence,1,1
+Pételle   Bénédicte,Venteau   Pierre,1,1
+Pételle   Bénédicte,Chouat   Francis,1,1
+Hennion   Christine,Chiche   Guillaume,1,1
+Hennion   Christine,Provendier   Florence,1,1
+Hennion   Christine,Venteau   Pierre,1,1
+Hennion   Christine,Chouat   Francis,1,1
+Chiche   Guillaume,Provendier   Florence,1,1
+Chiche   Guillaume,Venteau   Pierre,1,1
+Chiche   Guillaume,Chouat   Francis,1,1
+Provendier   Florence,Venteau   Pierre,1,1
+Provendier   Florence,Chouat   Francis,1,1
+Venteau   Pierre,Chouat   Francis,1,1

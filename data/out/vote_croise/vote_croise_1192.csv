@@ -1,0 +1,1379 @@
+from,to,vote_commun,loi_commun
+Benoit   Thierry,Juanico   Régis,0,1
+Benoit   Thierry,Hutin   Christian,0,1
+Benoit   Thierry,Battistel   Marie-Noëlle,0,1
+Benoit   Thierry,Potier   Dominique,0,1
+Benoit   Thierry,Claireaux   Stéphane,1,1
+Benoit   Thierry,Maillard   Sylvain,1,1
+Benoit   Thierry,Givernet   Olga,1,1
+Benoit   Thierry,Dufrègne   Jean-Paul,0,1
+Benoit   Thierry,Valetta Ardisson   Alexandra,1,1
+Benoit   Thierry,Roussel   Cédric,1,1
+Benoit   Thierry,Ahamada   Saïd,1,1
+Benoit   Thierry,Laqhila   Mohamed,1,1
+Benoit   Thierry,Blanchet   Christophe,1,1
+Benoit   Thierry,Michel-Brassart   Monica,1,1
+Benoit   Thierry,Melchior   Graziella,1,1
+Benoit   Thierry,Kasbarian   Guillaume,1,1
+Benoit   Thierry,Le Feur   Sandrine,1,1
+Benoit   Thierry,Mette   Sophie,1,1
+Benoit   Thierry,Mirallès   Patricia,1,1
+Benoit   Thierry,David   Dominique,1,1
+Benoit   Thierry,Limon   Monique,1,1
+Benoit   Thierry,Josso   Sandrine,1,1
+Benoit   Thierry,Saint-Paul   Laetitia,1,1
+Benoit   Thierry,Bolo   Philippe,1,1
+Benoit   Thierry,Garcia   Laurent,1,1
+Benoit   Thierry,Girardin   Éric,1,1
+Benoit   Thierry,Le Peih   Nicole,1,1
+Benoit   Thierry,Di Filippo   Fabien,0,1
+Benoit   Thierry,Perrot   Patrice,1,1
+Benoit   Thierry,Quatennens   Adrien,0,1
+Benoit   Thierry,Di Pompeo   Christophe,1,1
+Benoit   Thierry,Potterie   Benoit,1,1
+Benoit   Thierry,Minot   Maxime,0,1
+Benoit   Thierry,Park   Zivka,1,1
+Benoit   Thierry,Guion-Firmin   Claire,0,1
+Benoit   Thierry,Lescure   Roland,1,1
+Benoit   Thierry,Ramadier   Alain,0,1
+Benoit   Thierry,Bonnell   Bruno,1,1
+Benoit   Thierry,Guerini   Stanislas,1,1
+Benoit   Thierry,Calvez   Céline,1,1
+Benoit   Thierry,Baichère   Didier,1,1
+Benoit   Thierry,Crouzet   Michèle,1,1
+Benoit   Thierry,Boucard   Ian,0,1
+Benoit   Thierry,Lebec   Marie,1,1
+Benoit   Thierry,Raphan   Pierre-Alain,1,1
+Benoit   Thierry,Pouzyreff   Natalia,1,1
+Benoit   Thierry,de Vaucouleurs   Michèle,1,1
+Benoit   Thierry,Hennion   Christine,1,1
+Benoit   Thierry,Beaudouin-Hubiere   Sophie,1,1
+Benoit   Thierry,Leclabart   Jean-Claude,1,1
+Benoit   Thierry,Thiébaut   Vincent,1,1
+Benoit   Thierry,de Courson   Charles,1,1
+Juanico   Régis,Hutin   Christian,1,1
+Juanico   Régis,Battistel   Marie-Noëlle,1,1
+Juanico   Régis,Potier   Dominique,1,1
+Juanico   Régis,Claireaux   Stéphane,0,1
+Juanico   Régis,Maillard   Sylvain,0,1
+Juanico   Régis,Givernet   Olga,0,1
+Juanico   Régis,Dufrègne   Jean-Paul,1,1
+Juanico   Régis,Valetta Ardisson   Alexandra,0,1
+Juanico   Régis,Roussel   Cédric,0,1
+Juanico   Régis,Ahamada   Saïd,0,1
+Juanico   Régis,Laqhila   Mohamed,0,1
+Juanico   Régis,Blanchet   Christophe,0,1
+Juanico   Régis,Michel-Brassart   Monica,0,1
+Juanico   Régis,Melchior   Graziella,0,1
+Juanico   Régis,Kasbarian   Guillaume,0,1
+Juanico   Régis,Le Feur   Sandrine,0,1
+Juanico   Régis,Mette   Sophie,0,1
+Juanico   Régis,Mirallès   Patricia,0,1
+Juanico   Régis,David   Dominique,0,1
+Juanico   Régis,Limon   Monique,0,1
+Juanico   Régis,Josso   Sandrine,0,1
+Juanico   Régis,Saint-Paul   Laetitia,0,1
+Juanico   Régis,Bolo   Philippe,0,1
+Juanico   Régis,Garcia   Laurent,0,1
+Juanico   Régis,Girardin   Éric,0,1
+Juanico   Régis,Le Peih   Nicole,0,1
+Juanico   Régis,Di Filippo   Fabien,1,1
+Juanico   Régis,Perrot   Patrice,0,1
+Juanico   Régis,Quatennens   Adrien,1,1
+Juanico   Régis,Di Pompeo   Christophe,0,1
+Juanico   Régis,Potterie   Benoit,0,1
+Juanico   Régis,Minot   Maxime,1,1
+Juanico   Régis,Park   Zivka,0,1
+Juanico   Régis,Guion-Firmin   Claire,1,1
+Juanico   Régis,Lescure   Roland,0,1
+Juanico   Régis,Ramadier   Alain,1,1
+Juanico   Régis,Bonnell   Bruno,0,1
+Juanico   Régis,Guerini   Stanislas,0,1
+Juanico   Régis,Calvez   Céline,0,1
+Juanico   Régis,Baichère   Didier,0,1
+Juanico   Régis,Crouzet   Michèle,0,1
+Juanico   Régis,Boucard   Ian,1,1
+Juanico   Régis,Lebec   Marie,0,1
+Juanico   Régis,Raphan   Pierre-Alain,0,1
+Juanico   Régis,Pouzyreff   Natalia,0,1
+Juanico   Régis,de Vaucouleurs   Michèle,0,1
+Juanico   Régis,Hennion   Christine,0,1
+Juanico   Régis,Beaudouin-Hubiere   Sophie,0,1
+Juanico   Régis,Leclabart   Jean-Claude,0,1
+Juanico   Régis,Thiébaut   Vincent,0,1
+Juanico   Régis,de Courson   Charles,0,1
+Hutin   Christian,Battistel   Marie-Noëlle,1,1
+Hutin   Christian,Potier   Dominique,1,1
+Hutin   Christian,Claireaux   Stéphane,0,1
+Hutin   Christian,Maillard   Sylvain,0,1
+Hutin   Christian,Givernet   Olga,0,1
+Hutin   Christian,Dufrègne   Jean-Paul,1,1
+Hutin   Christian,Valetta Ardisson   Alexandra,0,1
+Hutin   Christian,Roussel   Cédric,0,1
+Hutin   Christian,Ahamada   Saïd,0,1
+Hutin   Christian,Laqhila   Mohamed,0,1
+Hutin   Christian,Blanchet   Christophe,0,1
+Hutin   Christian,Michel-Brassart   Monica,0,1
+Hutin   Christian,Melchior   Graziella,0,1
+Hutin   Christian,Kasbarian   Guillaume,0,1
+Hutin   Christian,Le Feur   Sandrine,0,1
+Hutin   Christian,Mette   Sophie,0,1
+Hutin   Christian,Mirallès   Patricia,0,1
+Hutin   Christian,David   Dominique,0,1
+Hutin   Christian,Limon   Monique,0,1
+Hutin   Christian,Josso   Sandrine,0,1
+Hutin   Christian,Saint-Paul   Laetitia,0,1
+Hutin   Christian,Bolo   Philippe,0,1
+Hutin   Christian,Garcia   Laurent,0,1
+Hutin   Christian,Girardin   Éric,0,1
+Hutin   Christian,Le Peih   Nicole,0,1
+Hutin   Christian,Di Filippo   Fabien,1,1
+Hutin   Christian,Perrot   Patrice,0,1
+Hutin   Christian,Quatennens   Adrien,1,1
+Hutin   Christian,Di Pompeo   Christophe,0,1
+Hutin   Christian,Potterie   Benoit,0,1
+Hutin   Christian,Minot   Maxime,1,1
+Hutin   Christian,Park   Zivka,0,1
+Hutin   Christian,Guion-Firmin   Claire,1,1
+Hutin   Christian,Lescure   Roland,0,1
+Hutin   Christian,Ramadier   Alain,1,1
+Hutin   Christian,Bonnell   Bruno,0,1
+Hutin   Christian,Guerini   Stanislas,0,1
+Hutin   Christian,Calvez   Céline,0,1
+Hutin   Christian,Baichère   Didier,0,1
+Hutin   Christian,Crouzet   Michèle,0,1
+Hutin   Christian,Boucard   Ian,1,1
+Hutin   Christian,Lebec   Marie,0,1
+Hutin   Christian,Raphan   Pierre-Alain,0,1
+Hutin   Christian,Pouzyreff   Natalia,0,1
+Hutin   Christian,de Vaucouleurs   Michèle,0,1
+Hutin   Christian,Hennion   Christine,0,1
+Hutin   Christian,Beaudouin-Hubiere   Sophie,0,1
+Hutin   Christian,Leclabart   Jean-Claude,0,1
+Hutin   Christian,Thiébaut   Vincent,0,1
+Hutin   Christian,de Courson   Charles,0,1
+Battistel   Marie-Noëlle,Potier   Dominique,1,1
+Battistel   Marie-Noëlle,Claireaux   Stéphane,0,1
+Battistel   Marie-Noëlle,Maillard   Sylvain,0,1
+Battistel   Marie-Noëlle,Givernet   Olga,0,1
+Battistel   Marie-Noëlle,Dufrègne   Jean-Paul,1,1
+Battistel   Marie-Noëlle,Valetta Ardisson   Alexandra,0,1
+Battistel   Marie-Noëlle,Roussel   Cédric,0,1
+Battistel   Marie-Noëlle,Ahamada   Saïd,0,1
+Battistel   Marie-Noëlle,Laqhila   Mohamed,0,1
+Battistel   Marie-Noëlle,Blanchet   Christophe,0,1
+Battistel   Marie-Noëlle,Michel-Brassart   Monica,0,1
+Battistel   Marie-Noëlle,Melchior   Graziella,0,1
+Battistel   Marie-Noëlle,Kasbarian   Guillaume,0,1
+Battistel   Marie-Noëlle,Le Feur   Sandrine,0,1
+Battistel   Marie-Noëlle,Mette   Sophie,0,1
+Battistel   Marie-Noëlle,Mirallès   Patricia,0,1
+Battistel   Marie-Noëlle,David   Dominique,0,1
+Battistel   Marie-Noëlle,Limon   Monique,0,1
+Battistel   Marie-Noëlle,Josso   Sandrine,0,1
+Battistel   Marie-Noëlle,Saint-Paul   Laetitia,0,1
+Battistel   Marie-Noëlle,Bolo   Philippe,0,1
+Battistel   Marie-Noëlle,Garcia   Laurent,0,1
+Battistel   Marie-Noëlle,Girardin   Éric,0,1
+Battistel   Marie-Noëlle,Le Peih   Nicole,0,1
+Battistel   Marie-Noëlle,Di Filippo   Fabien,1,1
+Battistel   Marie-Noëlle,Perrot   Patrice,0,1
+Battistel   Marie-Noëlle,Quatennens   Adrien,1,1
+Battistel   Marie-Noëlle,Di Pompeo   Christophe,0,1
+Battistel   Marie-Noëlle,Potterie   Benoit,0,1
+Battistel   Marie-Noëlle,Minot   Maxime,1,1
+Battistel   Marie-Noëlle,Park   Zivka,0,1
+Battistel   Marie-Noëlle,Guion-Firmin   Claire,1,1
+Battistel   Marie-Noëlle,Lescure   Roland,0,1
+Battistel   Marie-Noëlle,Ramadier   Alain,1,1
+Battistel   Marie-Noëlle,Bonnell   Bruno,0,1
+Battistel   Marie-Noëlle,Guerini   Stanislas,0,1
+Battistel   Marie-Noëlle,Calvez   Céline,0,1
+Battistel   Marie-Noëlle,Baichère   Didier,0,1
+Battistel   Marie-Noëlle,Crouzet   Michèle,0,1
+Battistel   Marie-Noëlle,Boucard   Ian,1,1
+Battistel   Marie-Noëlle,Lebec   Marie,0,1
+Battistel   Marie-Noëlle,Raphan   Pierre-Alain,0,1
+Battistel   Marie-Noëlle,Pouzyreff   Natalia,0,1
+Battistel   Marie-Noëlle,de Vaucouleurs   Michèle,0,1
+Battistel   Marie-Noëlle,Hennion   Christine,0,1
+Battistel   Marie-Noëlle,Beaudouin-Hubiere   Sophie,0,1
+Battistel   Marie-Noëlle,Leclabart   Jean-Claude,0,1
+Battistel   Marie-Noëlle,Thiébaut   Vincent,0,1
+Battistel   Marie-Noëlle,de Courson   Charles,0,1
+Potier   Dominique,Claireaux   Stéphane,0,1
+Potier   Dominique,Maillard   Sylvain,0,1
+Potier   Dominique,Givernet   Olga,0,1
+Potier   Dominique,Dufrègne   Jean-Paul,1,1
+Potier   Dominique,Valetta Ardisson   Alexandra,0,1
+Potier   Dominique,Roussel   Cédric,0,1
+Potier   Dominique,Ahamada   Saïd,0,1
+Potier   Dominique,Laqhila   Mohamed,0,1
+Potier   Dominique,Blanchet   Christophe,0,1
+Potier   Dominique,Michel-Brassart   Monica,0,1
+Potier   Dominique,Melchior   Graziella,0,1
+Potier   Dominique,Kasbarian   Guillaume,0,1
+Potier   Dominique,Le Feur   Sandrine,0,1
+Potier   Dominique,Mette   Sophie,0,1
+Potier   Dominique,Mirallès   Patricia,0,1
+Potier   Dominique,David   Dominique,0,1
+Potier   Dominique,Limon   Monique,0,1
+Potier   Dominique,Josso   Sandrine,0,1
+Potier   Dominique,Saint-Paul   Laetitia,0,1
+Potier   Dominique,Bolo   Philippe,0,1
+Potier   Dominique,Garcia   Laurent,0,1
+Potier   Dominique,Girardin   Éric,0,1
+Potier   Dominique,Le Peih   Nicole,0,1
+Potier   Dominique,Di Filippo   Fabien,1,1
+Potier   Dominique,Perrot   Patrice,0,1
+Potier   Dominique,Quatennens   Adrien,1,1
+Potier   Dominique,Di Pompeo   Christophe,0,1
+Potier   Dominique,Potterie   Benoit,0,1
+Potier   Dominique,Minot   Maxime,1,1
+Potier   Dominique,Park   Zivka,0,1
+Potier   Dominique,Guion-Firmin   Claire,1,1
+Potier   Dominique,Lescure   Roland,0,1
+Potier   Dominique,Ramadier   Alain,1,1
+Potier   Dominique,Bonnell   Bruno,0,1
+Potier   Dominique,Guerini   Stanislas,0,1
+Potier   Dominique,Calvez   Céline,0,1
+Potier   Dominique,Baichère   Didier,0,1
+Potier   Dominique,Crouzet   Michèle,0,1
+Potier   Dominique,Boucard   Ian,1,1
+Potier   Dominique,Lebec   Marie,0,1
+Potier   Dominique,Raphan   Pierre-Alain,0,1
+Potier   Dominique,Pouzyreff   Natalia,0,1
+Potier   Dominique,de Vaucouleurs   Michèle,0,1
+Potier   Dominique,Hennion   Christine,0,1
+Potier   Dominique,Beaudouin-Hubiere   Sophie,0,1
+Potier   Dominique,Leclabart   Jean-Claude,0,1
+Potier   Dominique,Thiébaut   Vincent,0,1
+Potier   Dominique,de Courson   Charles,0,1
+Claireaux   Stéphane,Maillard   Sylvain,1,1
+Claireaux   Stéphane,Givernet   Olga,1,1
+Claireaux   Stéphane,Dufrègne   Jean-Paul,0,1
+Claireaux   Stéphane,Valetta Ardisson   Alexandra,1,1
+Claireaux   Stéphane,Roussel   Cédric,1,1
+Claireaux   Stéphane,Ahamada   Saïd,1,1
+Claireaux   Stéphane,Laqhila   Mohamed,1,1
+Claireaux   Stéphane,Blanchet   Christophe,1,1
+Claireaux   Stéphane,Michel-Brassart   Monica,1,1
+Claireaux   Stéphane,Melchior   Graziella,1,1
+Claireaux   Stéphane,Kasbarian   Guillaume,1,1
+Claireaux   Stéphane,Le Feur   Sandrine,1,1
+Claireaux   Stéphane,Mette   Sophie,1,1
+Claireaux   Stéphane,Mirallès   Patricia,1,1
+Claireaux   Stéphane,David   Dominique,1,1
+Claireaux   Stéphane,Limon   Monique,1,1
+Claireaux   Stéphane,Josso   Sandrine,1,1
+Claireaux   Stéphane,Saint-Paul   Laetitia,1,1
+Claireaux   Stéphane,Bolo   Philippe,1,1
+Claireaux   Stéphane,Garcia   Laurent,1,1
+Claireaux   Stéphane,Girardin   Éric,1,1
+Claireaux   Stéphane,Le Peih   Nicole,1,1
+Claireaux   Stéphane,Di Filippo   Fabien,0,1
+Claireaux   Stéphane,Perrot   Patrice,1,1
+Claireaux   Stéphane,Quatennens   Adrien,0,1
+Claireaux   Stéphane,Di Pompeo   Christophe,1,1
+Claireaux   Stéphane,Potterie   Benoit,1,1
+Claireaux   Stéphane,Minot   Maxime,0,1
+Claireaux   Stéphane,Park   Zivka,1,1
+Claireaux   Stéphane,Guion-Firmin   Claire,0,1
+Claireaux   Stéphane,Lescure   Roland,1,1
+Claireaux   Stéphane,Ramadier   Alain,0,1
+Claireaux   Stéphane,Bonnell   Bruno,1,1
+Claireaux   Stéphane,Guerini   Stanislas,1,1
+Claireaux   Stéphane,Calvez   Céline,1,1
+Claireaux   Stéphane,Baichère   Didier,1,1
+Claireaux   Stéphane,Crouzet   Michèle,1,1
+Claireaux   Stéphane,Boucard   Ian,0,1
+Claireaux   Stéphane,Lebec   Marie,1,1
+Claireaux   Stéphane,Raphan   Pierre-Alain,1,1
+Claireaux   Stéphane,Pouzyreff   Natalia,1,1
+Claireaux   Stéphane,de Vaucouleurs   Michèle,1,1
+Claireaux   Stéphane,Hennion   Christine,1,1
+Claireaux   Stéphane,Beaudouin-Hubiere   Sophie,1,1
+Claireaux   Stéphane,Leclabart   Jean-Claude,1,1
+Claireaux   Stéphane,Thiébaut   Vincent,1,1
+Claireaux   Stéphane,de Courson   Charles,1,1
+Maillard   Sylvain,Givernet   Olga,1,1
+Maillard   Sylvain,Dufrègne   Jean-Paul,0,1
+Maillard   Sylvain,Valetta Ardisson   Alexandra,1,1
+Maillard   Sylvain,Roussel   Cédric,1,1
+Maillard   Sylvain,Ahamada   Saïd,1,1
+Maillard   Sylvain,Laqhila   Mohamed,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Michel-Brassart   Monica,1,1
+Maillard   Sylvain,Melchior   Graziella,1,1
+Maillard   Sylvain,Kasbarian   Guillaume,1,1
+Maillard   Sylvain,Le Feur   Sandrine,1,1
+Maillard   Sylvain,Mette   Sophie,1,1
+Maillard   Sylvain,Mirallès   Patricia,1,1
+Maillard   Sylvain,David   Dominique,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Josso   Sandrine,1,1
+Maillard   Sylvain,Saint-Paul   Laetitia,1,1
+Maillard   Sylvain,Bolo   Philippe,1,1
+Maillard   Sylvain,Garcia   Laurent,1,1
+Maillard   Sylvain,Girardin   Éric,1,1
+Maillard   Sylvain,Le Peih   Nicole,1,1
+Maillard   Sylvain,Di Filippo   Fabien,0,1
+Maillard   Sylvain,Perrot   Patrice,1,1
+Maillard   Sylvain,Quatennens   Adrien,0,1
+Maillard   Sylvain,Di Pompeo   Christophe,1,1
+Maillard   Sylvain,Potterie   Benoit,1,1
+Maillard   Sylvain,Minot   Maxime,0,1
+Maillard   Sylvain,Park   Zivka,1,1
+Maillard   Sylvain,Guion-Firmin   Claire,0,1
+Maillard   Sylvain,Lescure   Roland,1,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Bonnell   Bruno,1,1
+Maillard   Sylvain,Guerini   Stanislas,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Baichère   Didier,1,1
+Maillard   Sylvain,Crouzet   Michèle,1,1
+Maillard   Sylvain,Boucard   Ian,0,1
+Maillard   Sylvain,Lebec   Marie,1,1
+Maillard   Sylvain,Raphan   Pierre-Alain,1,1
+Maillard   Sylvain,Pouzyreff   Natalia,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Hennion   Christine,1,1
+Maillard   Sylvain,Beaudouin-Hubiere   Sophie,1,1
+Maillard   Sylvain,Leclabart   Jean-Claude,1,1
+Maillard   Sylvain,Thiébaut   Vincent,1,1
+Maillard   Sylvain,de Courson   Charles,1,1
+Givernet   Olga,Dufrègne   Jean-Paul,0,1
+Givernet   Olga,Valetta Ardisson   Alexandra,1,1
+Givernet   Olga,Roussel   Cédric,1,1
+Givernet   Olga,Ahamada   Saïd,1,1
+Givernet   Olga,Laqhila   Mohamed,1,1
+Givernet   Olga,Blanchet   Christophe,1,1
+Givernet   Olga,Michel-Brassart   Monica,1,1
+Givernet   Olga,Melchior   Graziella,1,1
+Givernet   Olga,Kasbarian   Guillaume,1,1
+Givernet   Olga,Le Feur   Sandrine,1,1
+Givernet   Olga,Mette   Sophie,1,1
+Givernet   Olga,Mirallès   Patricia,1,1
+Givernet   Olga,David   Dominique,1,1
+Givernet   Olga,Limon   Monique,1,1
+Givernet   Olga,Josso   Sandrine,1,1
+Givernet   Olga,Saint-Paul   Laetitia,1,1
+Givernet   Olga,Bolo   Philippe,1,1
+Givernet   Olga,Garcia   Laurent,1,1
+Givernet   Olga,Girardin   Éric,1,1
+Givernet   Olga,Le Peih   Nicole,1,1
+Givernet   Olga,Di Filippo   Fabien,0,1
+Givernet   Olga,Perrot   Patrice,1,1
+Givernet   Olga,Quatennens   Adrien,0,1
+Givernet   Olga,Di Pompeo   Christophe,1,1
+Givernet   Olga,Potterie   Benoit,1,1
+Givernet   Olga,Minot   Maxime,0,1
+Givernet   Olga,Park   Zivka,1,1
+Givernet   Olga,Guion-Firmin   Claire,0,1
+Givernet   Olga,Lescure   Roland,1,1
+Givernet   Olga,Ramadier   Alain,0,1
+Givernet   Olga,Bonnell   Bruno,1,1
+Givernet   Olga,Guerini   Stanislas,1,1
+Givernet   Olga,Calvez   Céline,1,1
+Givernet   Olga,Baichère   Didier,1,1
+Givernet   Olga,Crouzet   Michèle,1,1
+Givernet   Olga,Boucard   Ian,0,1
+Givernet   Olga,Lebec   Marie,1,1
+Givernet   Olga,Raphan   Pierre-Alain,1,1
+Givernet   Olga,Pouzyreff   Natalia,1,1
+Givernet   Olga,de Vaucouleurs   Michèle,1,1
+Givernet   Olga,Hennion   Christine,1,1
+Givernet   Olga,Beaudouin-Hubiere   Sophie,1,1
+Givernet   Olga,Leclabart   Jean-Claude,1,1
+Givernet   Olga,Thiébaut   Vincent,1,1
+Givernet   Olga,de Courson   Charles,1,1
+Dufrègne   Jean-Paul,Valetta Ardisson   Alexandra,0,1
+Dufrègne   Jean-Paul,Roussel   Cédric,0,1
+Dufrègne   Jean-Paul,Ahamada   Saïd,0,1
+Dufrègne   Jean-Paul,Laqhila   Mohamed,0,1
+Dufrègne   Jean-Paul,Blanchet   Christophe,0,1
+Dufrègne   Jean-Paul,Michel-Brassart   Monica,0,1
+Dufrègne   Jean-Paul,Melchior   Graziella,0,1
+Dufrègne   Jean-Paul,Kasbarian   Guillaume,0,1
+Dufrègne   Jean-Paul,Le Feur   Sandrine,0,1
+Dufrègne   Jean-Paul,Mette   Sophie,0,1
+Dufrègne   Jean-Paul,Mirallès   Patricia,0,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Limon   Monique,0,1
+Dufrègne   Jean-Paul,Josso   Sandrine,0,1
+Dufrègne   Jean-Paul,Saint-Paul   Laetitia,0,1
+Dufrègne   Jean-Paul,Bolo   Philippe,0,1
+Dufrègne   Jean-Paul,Garcia   Laurent,0,1
+Dufrègne   Jean-Paul,Girardin   Éric,0,1
+Dufrègne   Jean-Paul,Le Peih   Nicole,0,1
+Dufrègne   Jean-Paul,Di Filippo   Fabien,1,1
+Dufrègne   Jean-Paul,Perrot   Patrice,0,1
+Dufrègne   Jean-Paul,Quatennens   Adrien,1,1
+Dufrègne   Jean-Paul,Di Pompeo   Christophe,0,1
+Dufrègne   Jean-Paul,Potterie   Benoit,0,1
+Dufrègne   Jean-Paul,Minot   Maxime,1,1
+Dufrègne   Jean-Paul,Park   Zivka,0,1
+Dufrègne   Jean-Paul,Guion-Firmin   Claire,1,1
+Dufrègne   Jean-Paul,Lescure   Roland,0,1
+Dufrègne   Jean-Paul,Ramadier   Alain,1,1
+Dufrègne   Jean-Paul,Bonnell   Bruno,0,1
+Dufrègne   Jean-Paul,Guerini   Stanislas,0,1
+Dufrègne   Jean-Paul,Calvez   Céline,0,1
+Dufrègne   Jean-Paul,Baichère   Didier,0,1
+Dufrègne   Jean-Paul,Crouzet   Michèle,0,1
+Dufrègne   Jean-Paul,Boucard   Ian,1,1
+Dufrègne   Jean-Paul,Lebec   Marie,0,1
+Dufrègne   Jean-Paul,Raphan   Pierre-Alain,0,1
+Dufrègne   Jean-Paul,Pouzyreff   Natalia,0,1
+Dufrègne   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Dufrègne   Jean-Paul,Hennion   Christine,0,1
+Dufrègne   Jean-Paul,Beaudouin-Hubiere   Sophie,0,1
+Dufrègne   Jean-Paul,Leclabart   Jean-Claude,0,1
+Dufrègne   Jean-Paul,Thiébaut   Vincent,0,1
+Dufrègne   Jean-Paul,de Courson   Charles,0,1
+Valetta Ardisson   Alexandra,Roussel   Cédric,1,1
+Valetta Ardisson   Alexandra,Ahamada   Saïd,1,1
+Valetta Ardisson   Alexandra,Laqhila   Mohamed,1,1
+Valetta Ardisson   Alexandra,Blanchet   Christophe,1,1
+Valetta Ardisson   Alexandra,Michel-Brassart   Monica,1,1
+Valetta Ardisson   Alexandra,Melchior   Graziella,1,1
+Valetta Ardisson   Alexandra,Kasbarian   Guillaume,1,1
+Valetta Ardisson   Alexandra,Le Feur   Sandrine,1,1
+Valetta Ardisson   Alexandra,Mette   Sophie,1,1
+Valetta Ardisson   Alexandra,Mirallès   Patricia,1,1
+Valetta Ardisson   Alexandra,David   Dominique,1,1
+Valetta Ardisson   Alexandra,Limon   Monique,1,1
+Valetta Ardisson   Alexandra,Josso   Sandrine,1,1
+Valetta Ardisson   Alexandra,Saint-Paul   Laetitia,1,1
+Valetta Ardisson   Alexandra,Bolo   Philippe,1,1
+Valetta Ardisson   Alexandra,Garcia   Laurent,1,1
+Valetta Ardisson   Alexandra,Girardin   Éric,1,1
+Valetta Ardisson   Alexandra,Le Peih   Nicole,1,1
+Valetta Ardisson   Alexandra,Di Filippo   Fabien,0,1
+Valetta Ardisson   Alexandra,Perrot   Patrice,1,1
+Valetta Ardisson   Alexandra,Quatennens   Adrien,0,1
+Valetta Ardisson   Alexandra,Di Pompeo   Christophe,1,1
+Valetta Ardisson   Alexandra,Potterie   Benoit,1,1
+Valetta Ardisson   Alexandra,Minot   Maxime,0,1
+Valetta Ardisson   Alexandra,Park   Zivka,1,1
+Valetta Ardisson   Alexandra,Guion-Firmin   Claire,0,1
+Valetta Ardisson   Alexandra,Lescure   Roland,1,1
+Valetta Ardisson   Alexandra,Ramadier   Alain,0,1
+Valetta Ardisson   Alexandra,Bonnell   Bruno,1,1
+Valetta Ardisson   Alexandra,Guerini   Stanislas,1,1
+Valetta Ardisson   Alexandra,Calvez   Céline,1,1
+Valetta Ardisson   Alexandra,Baichère   Didier,1,1
+Valetta Ardisson   Alexandra,Crouzet   Michèle,1,1
+Valetta Ardisson   Alexandra,Boucard   Ian,0,1
+Valetta Ardisson   Alexandra,Lebec   Marie,1,1
+Valetta Ardisson   Alexandra,Raphan   Pierre-Alain,1,1
+Valetta Ardisson   Alexandra,Pouzyreff   Natalia,1,1
+Valetta Ardisson   Alexandra,de Vaucouleurs   Michèle,1,1
+Valetta Ardisson   Alexandra,Hennion   Christine,1,1
+Valetta Ardisson   Alexandra,Beaudouin-Hubiere   Sophie,1,1
+Valetta Ardisson   Alexandra,Leclabart   Jean-Claude,1,1
+Valetta Ardisson   Alexandra,Thiébaut   Vincent,1,1
+Valetta Ardisson   Alexandra,de Courson   Charles,1,1
+Roussel   Cédric,Ahamada   Saïd,1,1
+Roussel   Cédric,Laqhila   Mohamed,1,1
+Roussel   Cédric,Blanchet   Christophe,1,1
+Roussel   Cédric,Michel-Brassart   Monica,1,1
+Roussel   Cédric,Melchior   Graziella,1,1
+Roussel   Cédric,Kasbarian   Guillaume,1,1
+Roussel   Cédric,Le Feur   Sandrine,1,1
+Roussel   Cédric,Mette   Sophie,1,1
+Roussel   Cédric,Mirallès   Patricia,1,1
+Roussel   Cédric,David   Dominique,1,1
+Roussel   Cédric,Limon   Monique,1,1
+Roussel   Cédric,Josso   Sandrine,1,1
+Roussel   Cédric,Saint-Paul   Laetitia,1,1
+Roussel   Cédric,Bolo   Philippe,1,1
+Roussel   Cédric,Garcia   Laurent,1,1
+Roussel   Cédric,Girardin   Éric,1,1
+Roussel   Cédric,Le Peih   Nicole,1,1
+Roussel   Cédric,Di Filippo   Fabien,0,1
+Roussel   Cédric,Perrot   Patrice,1,1
+Roussel   Cédric,Quatennens   Adrien,0,1
+Roussel   Cédric,Di Pompeo   Christophe,1,1
+Roussel   Cédric,Potterie   Benoit,1,1
+Roussel   Cédric,Minot   Maxime,0,1
+Roussel   Cédric,Park   Zivka,1,1
+Roussel   Cédric,Guion-Firmin   Claire,0,1
+Roussel   Cédric,Lescure   Roland,1,1
+Roussel   Cédric,Ramadier   Alain,0,1
+Roussel   Cédric,Bonnell   Bruno,1,1
+Roussel   Cédric,Guerini   Stanislas,1,1
+Roussel   Cédric,Calvez   Céline,1,1
+Roussel   Cédric,Baichère   Didier,1,1
+Roussel   Cédric,Crouzet   Michèle,1,1
+Roussel   Cédric,Boucard   Ian,0,1
+Roussel   Cédric,Lebec   Marie,1,1
+Roussel   Cédric,Raphan   Pierre-Alain,1,1
+Roussel   Cédric,Pouzyreff   Natalia,1,1
+Roussel   Cédric,de Vaucouleurs   Michèle,1,1
+Roussel   Cédric,Hennion   Christine,1,1
+Roussel   Cédric,Beaudouin-Hubiere   Sophie,1,1
+Roussel   Cédric,Leclabart   Jean-Claude,1,1
+Roussel   Cédric,Thiébaut   Vincent,1,1
+Roussel   Cédric,de Courson   Charles,1,1
+Ahamada   Saïd,Laqhila   Mohamed,1,1
+Ahamada   Saïd,Blanchet   Christophe,1,1
+Ahamada   Saïd,Michel-Brassart   Monica,1,1
+Ahamada   Saïd,Melchior   Graziella,1,1
+Ahamada   Saïd,Kasbarian   Guillaume,1,1
+Ahamada   Saïd,Le Feur   Sandrine,1,1
+Ahamada   Saïd,Mette   Sophie,1,1
+Ahamada   Saïd,Mirallès   Patricia,1,1
+Ahamada   Saïd,David   Dominique,1,1
+Ahamada   Saïd,Limon   Monique,1,1
+Ahamada   Saïd,Josso   Sandrine,1,1
+Ahamada   Saïd,Saint-Paul   Laetitia,1,1
+Ahamada   Saïd,Bolo   Philippe,1,1
+Ahamada   Saïd,Garcia   Laurent,1,1
+Ahamada   Saïd,Girardin   Éric,1,1
+Ahamada   Saïd,Le Peih   Nicole,1,1
+Ahamada   Saïd,Di Filippo   Fabien,0,1
+Ahamada   Saïd,Perrot   Patrice,1,1
+Ahamada   Saïd,Quatennens   Adrien,0,1
+Ahamada   Saïd,Di Pompeo   Christophe,1,1
+Ahamada   Saïd,Potterie   Benoit,1,1
+Ahamada   Saïd,Minot   Maxime,0,1
+Ahamada   Saïd,Park   Zivka,1,1
+Ahamada   Saïd,Guion-Firmin   Claire,0,1
+Ahamada   Saïd,Lescure   Roland,1,1
+Ahamada   Saïd,Ramadier   Alain,0,1
+Ahamada   Saïd,Bonnell   Bruno,1,1
+Ahamada   Saïd,Guerini   Stanislas,1,1
+Ahamada   Saïd,Calvez   Céline,1,1
+Ahamada   Saïd,Baichère   Didier,1,1
+Ahamada   Saïd,Crouzet   Michèle,1,1
+Ahamada   Saïd,Boucard   Ian,0,1
+Ahamada   Saïd,Lebec   Marie,1,1
+Ahamada   Saïd,Raphan   Pierre-Alain,1,1
+Ahamada   Saïd,Pouzyreff   Natalia,1,1
+Ahamada   Saïd,de Vaucouleurs   Michèle,1,1
+Ahamada   Saïd,Hennion   Christine,1,1
+Ahamada   Saïd,Beaudouin-Hubiere   Sophie,1,1
+Ahamada   Saïd,Leclabart   Jean-Claude,1,1
+Ahamada   Saïd,Thiébaut   Vincent,1,1
+Ahamada   Saïd,de Courson   Charles,1,1
+Laqhila   Mohamed,Blanchet   Christophe,1,1
+Laqhila   Mohamed,Michel-Brassart   Monica,1,1
+Laqhila   Mohamed,Melchior   Graziella,1,1
+Laqhila   Mohamed,Kasbarian   Guillaume,1,1
+Laqhila   Mohamed,Le Feur   Sandrine,1,1
+Laqhila   Mohamed,Mette   Sophie,1,1
+Laqhila   Mohamed,Mirallès   Patricia,1,1
+Laqhila   Mohamed,David   Dominique,1,1
+Laqhila   Mohamed,Limon   Monique,1,1
+Laqhila   Mohamed,Josso   Sandrine,1,1
+Laqhila   Mohamed,Saint-Paul   Laetitia,1,1
+Laqhila   Mohamed,Bolo   Philippe,1,1
+Laqhila   Mohamed,Garcia   Laurent,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Le Peih   Nicole,1,1
+Laqhila   Mohamed,Di Filippo   Fabien,0,1
+Laqhila   Mohamed,Perrot   Patrice,1,1
+Laqhila   Mohamed,Quatennens   Adrien,0,1
+Laqhila   Mohamed,Di Pompeo   Christophe,1,1
+Laqhila   Mohamed,Potterie   Benoit,1,1
+Laqhila   Mohamed,Minot   Maxime,0,1
+Laqhila   Mohamed,Park   Zivka,1,1
+Laqhila   Mohamed,Guion-Firmin   Claire,0,1
+Laqhila   Mohamed,Lescure   Roland,1,1
+Laqhila   Mohamed,Ramadier   Alain,0,1
+Laqhila   Mohamed,Bonnell   Bruno,1,1
+Laqhila   Mohamed,Guerini   Stanislas,1,1
+Laqhila   Mohamed,Calvez   Céline,1,1
+Laqhila   Mohamed,Baichère   Didier,1,1
+Laqhila   Mohamed,Crouzet   Michèle,1,1
+Laqhila   Mohamed,Boucard   Ian,0,1
+Laqhila   Mohamed,Lebec   Marie,1,1
+Laqhila   Mohamed,Raphan   Pierre-Alain,1,1
+Laqhila   Mohamed,Pouzyreff   Natalia,1,1
+Laqhila   Mohamed,de Vaucouleurs   Michèle,1,1
+Laqhila   Mohamed,Hennion   Christine,1,1
+Laqhila   Mohamed,Beaudouin-Hubiere   Sophie,1,1
+Laqhila   Mohamed,Leclabart   Jean-Claude,1,1
+Laqhila   Mohamed,Thiébaut   Vincent,1,1
+Laqhila   Mohamed,de Courson   Charles,1,1
+Blanchet   Christophe,Michel-Brassart   Monica,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Kasbarian   Guillaume,1,1
+Blanchet   Christophe,Le Feur   Sandrine,1,1
+Blanchet   Christophe,Mette   Sophie,1,1
+Blanchet   Christophe,Mirallès   Patricia,1,1
+Blanchet   Christophe,David   Dominique,1,1
+Blanchet   Christophe,Limon   Monique,1,1
+Blanchet   Christophe,Josso   Sandrine,1,1
+Blanchet   Christophe,Saint-Paul   Laetitia,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Garcia   Laurent,1,1
+Blanchet   Christophe,Girardin   Éric,1,1
+Blanchet   Christophe,Le Peih   Nicole,1,1
+Blanchet   Christophe,Di Filippo   Fabien,0,1
+Blanchet   Christophe,Perrot   Patrice,1,1
+Blanchet   Christophe,Quatennens   Adrien,0,1
+Blanchet   Christophe,Di Pompeo   Christophe,1,1
+Blanchet   Christophe,Potterie   Benoit,1,1
+Blanchet   Christophe,Minot   Maxime,0,1
+Blanchet   Christophe,Park   Zivka,1,1
+Blanchet   Christophe,Guion-Firmin   Claire,0,1
+Blanchet   Christophe,Lescure   Roland,1,1
+Blanchet   Christophe,Ramadier   Alain,0,1
+Blanchet   Christophe,Bonnell   Bruno,1,1
+Blanchet   Christophe,Guerini   Stanislas,1,1
+Blanchet   Christophe,Calvez   Céline,1,1
+Blanchet   Christophe,Baichère   Didier,1,1
+Blanchet   Christophe,Crouzet   Michèle,1,1
+Blanchet   Christophe,Boucard   Ian,0,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Raphan   Pierre-Alain,1,1
+Blanchet   Christophe,Pouzyreff   Natalia,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Hennion   Christine,1,1
+Blanchet   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Blanchet   Christophe,Leclabart   Jean-Claude,1,1
+Blanchet   Christophe,Thiébaut   Vincent,1,1
+Blanchet   Christophe,de Courson   Charles,1,1
+Michel-Brassart   Monica,Melchior   Graziella,1,1
+Michel-Brassart   Monica,Kasbarian   Guillaume,1,1
+Michel-Brassart   Monica,Le Feur   Sandrine,1,1
+Michel-Brassart   Monica,Mette   Sophie,1,1
+Michel-Brassart   Monica,Mirallès   Patricia,1,1
+Michel-Brassart   Monica,David   Dominique,1,1
+Michel-Brassart   Monica,Limon   Monique,1,1
+Michel-Brassart   Monica,Josso   Sandrine,1,1
+Michel-Brassart   Monica,Saint-Paul   Laetitia,1,1
+Michel-Brassart   Monica,Bolo   Philippe,1,1
+Michel-Brassart   Monica,Garcia   Laurent,1,1
+Michel-Brassart   Monica,Girardin   Éric,1,1
+Michel-Brassart   Monica,Le Peih   Nicole,1,1
+Michel-Brassart   Monica,Di Filippo   Fabien,0,1
+Michel-Brassart   Monica,Perrot   Patrice,1,1
+Michel-Brassart   Monica,Quatennens   Adrien,0,1
+Michel-Brassart   Monica,Di Pompeo   Christophe,1,1
+Michel-Brassart   Monica,Potterie   Benoit,1,1
+Michel-Brassart   Monica,Minot   Maxime,0,1
+Michel-Brassart   Monica,Park   Zivka,1,1
+Michel-Brassart   Monica,Guion-Firmin   Claire,0,1
+Michel-Brassart   Monica,Lescure   Roland,1,1
+Michel-Brassart   Monica,Ramadier   Alain,0,1
+Michel-Brassart   Monica,Bonnell   Bruno,1,1
+Michel-Brassart   Monica,Guerini   Stanislas,1,1
+Michel-Brassart   Monica,Calvez   Céline,1,1
+Michel-Brassart   Monica,Baichère   Didier,1,1
+Michel-Brassart   Monica,Crouzet   Michèle,1,1
+Michel-Brassart   Monica,Boucard   Ian,0,1
+Michel-Brassart   Monica,Lebec   Marie,1,1
+Michel-Brassart   Monica,Raphan   Pierre-Alain,1,1
+Michel-Brassart   Monica,Pouzyreff   Natalia,1,1
+Michel-Brassart   Monica,de Vaucouleurs   Michèle,1,1
+Michel-Brassart   Monica,Hennion   Christine,1,1
+Michel-Brassart   Monica,Beaudouin-Hubiere   Sophie,1,1
+Michel-Brassart   Monica,Leclabart   Jean-Claude,1,1
+Michel-Brassart   Monica,Thiébaut   Vincent,1,1
+Michel-Brassart   Monica,de Courson   Charles,1,1
+Melchior   Graziella,Kasbarian   Guillaume,1,1
+Melchior   Graziella,Le Feur   Sandrine,1,1
+Melchior   Graziella,Mette   Sophie,1,1
+Melchior   Graziella,Mirallès   Patricia,1,1
+Melchior   Graziella,David   Dominique,1,1
+Melchior   Graziella,Limon   Monique,1,1
+Melchior   Graziella,Josso   Sandrine,1,1
+Melchior   Graziella,Saint-Paul   Laetitia,1,1
+Melchior   Graziella,Bolo   Philippe,1,1
+Melchior   Graziella,Garcia   Laurent,1,1
+Melchior   Graziella,Girardin   Éric,1,1
+Melchior   Graziella,Le Peih   Nicole,1,1
+Melchior   Graziella,Di Filippo   Fabien,0,1
+Melchior   Graziella,Perrot   Patrice,1,1
+Melchior   Graziella,Quatennens   Adrien,0,1
+Melchior   Graziella,Di Pompeo   Christophe,1,1
+Melchior   Graziella,Potterie   Benoit,1,1
+Melchior   Graziella,Minot   Maxime,0,1
+Melchior   Graziella,Park   Zivka,1,1
+Melchior   Graziella,Guion-Firmin   Claire,0,1
+Melchior   Graziella,Lescure   Roland,1,1
+Melchior   Graziella,Ramadier   Alain,0,1
+Melchior   Graziella,Bonnell   Bruno,1,1
+Melchior   Graziella,Guerini   Stanislas,1,1
+Melchior   Graziella,Calvez   Céline,1,1
+Melchior   Graziella,Baichère   Didier,1,1
+Melchior   Graziella,Crouzet   Michèle,1,1
+Melchior   Graziella,Boucard   Ian,0,1
+Melchior   Graziella,Lebec   Marie,1,1
+Melchior   Graziella,Raphan   Pierre-Alain,1,1
+Melchior   Graziella,Pouzyreff   Natalia,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Hennion   Christine,1,1
+Melchior   Graziella,Beaudouin-Hubiere   Sophie,1,1
+Melchior   Graziella,Leclabart   Jean-Claude,1,1
+Melchior   Graziella,Thiébaut   Vincent,1,1
+Melchior   Graziella,de Courson   Charles,1,1
+Kasbarian   Guillaume,Le Feur   Sandrine,1,1
+Kasbarian   Guillaume,Mette   Sophie,1,1
+Kasbarian   Guillaume,Mirallès   Patricia,1,1
+Kasbarian   Guillaume,David   Dominique,1,1
+Kasbarian   Guillaume,Limon   Monique,1,1
+Kasbarian   Guillaume,Josso   Sandrine,1,1
+Kasbarian   Guillaume,Saint-Paul   Laetitia,1,1
+Kasbarian   Guillaume,Bolo   Philippe,1,1
+Kasbarian   Guillaume,Garcia   Laurent,1,1
+Kasbarian   Guillaume,Girardin   Éric,1,1
+Kasbarian   Guillaume,Le Peih   Nicole,1,1
+Kasbarian   Guillaume,Di Filippo   Fabien,0,1
+Kasbarian   Guillaume,Perrot   Patrice,1,1
+Kasbarian   Guillaume,Quatennens   Adrien,0,1
+Kasbarian   Guillaume,Di Pompeo   Christophe,1,1
+Kasbarian   Guillaume,Potterie   Benoit,1,1
+Kasbarian   Guillaume,Minot   Maxime,0,1
+Kasbarian   Guillaume,Park   Zivka,1,1
+Kasbarian   Guillaume,Guion-Firmin   Claire,0,1
+Kasbarian   Guillaume,Lescure   Roland,1,1
+Kasbarian   Guillaume,Ramadier   Alain,0,1
+Kasbarian   Guillaume,Bonnell   Bruno,1,1
+Kasbarian   Guillaume,Guerini   Stanislas,1,1
+Kasbarian   Guillaume,Calvez   Céline,1,1
+Kasbarian   Guillaume,Baichère   Didier,1,1
+Kasbarian   Guillaume,Crouzet   Michèle,1,1
+Kasbarian   Guillaume,Boucard   Ian,0,1
+Kasbarian   Guillaume,Lebec   Marie,1,1
+Kasbarian   Guillaume,Raphan   Pierre-Alain,1,1
+Kasbarian   Guillaume,Pouzyreff   Natalia,1,1
+Kasbarian   Guillaume,de Vaucouleurs   Michèle,1,1
+Kasbarian   Guillaume,Hennion   Christine,1,1
+Kasbarian   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Kasbarian   Guillaume,Leclabart   Jean-Claude,1,1
+Kasbarian   Guillaume,Thiébaut   Vincent,1,1
+Kasbarian   Guillaume,de Courson   Charles,1,1
+Le Feur   Sandrine,Mette   Sophie,1,1
+Le Feur   Sandrine,Mirallès   Patricia,1,1
+Le Feur   Sandrine,David   Dominique,1,1
+Le Feur   Sandrine,Limon   Monique,1,1
+Le Feur   Sandrine,Josso   Sandrine,1,1
+Le Feur   Sandrine,Saint-Paul   Laetitia,1,1
+Le Feur   Sandrine,Bolo   Philippe,1,1
+Le Feur   Sandrine,Garcia   Laurent,1,1
+Le Feur   Sandrine,Girardin   Éric,1,1
+Le Feur   Sandrine,Le Peih   Nicole,1,1
+Le Feur   Sandrine,Di Filippo   Fabien,0,1
+Le Feur   Sandrine,Perrot   Patrice,1,1
+Le Feur   Sandrine,Quatennens   Adrien,0,1
+Le Feur   Sandrine,Di Pompeo   Christophe,1,1
+Le Feur   Sandrine,Potterie   Benoit,1,1
+Le Feur   Sandrine,Minot   Maxime,0,1
+Le Feur   Sandrine,Park   Zivka,1,1
+Le Feur   Sandrine,Guion-Firmin   Claire,0,1
+Le Feur   Sandrine,Lescure   Roland,1,1
+Le Feur   Sandrine,Ramadier   Alain,0,1
+Le Feur   Sandrine,Bonnell   Bruno,1,1
+Le Feur   Sandrine,Guerini   Stanislas,1,1
+Le Feur   Sandrine,Calvez   Céline,1,1
+Le Feur   Sandrine,Baichère   Didier,1,1
+Le Feur   Sandrine,Crouzet   Michèle,1,1
+Le Feur   Sandrine,Boucard   Ian,0,1
+Le Feur   Sandrine,Lebec   Marie,1,1
+Le Feur   Sandrine,Raphan   Pierre-Alain,1,1
+Le Feur   Sandrine,Pouzyreff   Natalia,1,1
+Le Feur   Sandrine,de Vaucouleurs   Michèle,1,1
+Le Feur   Sandrine,Hennion   Christine,1,1
+Le Feur   Sandrine,Beaudouin-Hubiere   Sophie,1,1
+Le Feur   Sandrine,Leclabart   Jean-Claude,1,1
+Le Feur   Sandrine,Thiébaut   Vincent,1,1
+Le Feur   Sandrine,de Courson   Charles,1,1
+Mette   Sophie,Mirallès   Patricia,1,1
+Mette   Sophie,David   Dominique,1,1
+Mette   Sophie,Limon   Monique,1,1
+Mette   Sophie,Josso   Sandrine,1,1
+Mette   Sophie,Saint-Paul   Laetitia,1,1
+Mette   Sophie,Bolo   Philippe,1,1
+Mette   Sophie,Garcia   Laurent,1,1
+Mette   Sophie,Girardin   Éric,1,1
+Mette   Sophie,Le Peih   Nicole,1,1
+Mette   Sophie,Di Filippo   Fabien,0,1
+Mette   Sophie,Perrot   Patrice,1,1
+Mette   Sophie,Quatennens   Adrien,0,1
+Mette   Sophie,Di Pompeo   Christophe,1,1
+Mette   Sophie,Potterie   Benoit,1,1
+Mette   Sophie,Minot   Maxime,0,1
+Mette   Sophie,Park   Zivka,1,1
+Mette   Sophie,Guion-Firmin   Claire,0,1
+Mette   Sophie,Lescure   Roland,1,1
+Mette   Sophie,Ramadier   Alain,0,1
+Mette   Sophie,Bonnell   Bruno,1,1
+Mette   Sophie,Guerini   Stanislas,1,1
+Mette   Sophie,Calvez   Céline,1,1
+Mette   Sophie,Baichère   Didier,1,1
+Mette   Sophie,Crouzet   Michèle,1,1
+Mette   Sophie,Boucard   Ian,0,1
+Mette   Sophie,Lebec   Marie,1,1
+Mette   Sophie,Raphan   Pierre-Alain,1,1
+Mette   Sophie,Pouzyreff   Natalia,1,1
+Mette   Sophie,de Vaucouleurs   Michèle,1,1
+Mette   Sophie,Hennion   Christine,1,1
+Mette   Sophie,Beaudouin-Hubiere   Sophie,1,1
+Mette   Sophie,Leclabart   Jean-Claude,1,1
+Mette   Sophie,Thiébaut   Vincent,1,1
+Mette   Sophie,de Courson   Charles,1,1
+Mirallès   Patricia,David   Dominique,1,1
+Mirallès   Patricia,Limon   Monique,1,1
+Mirallès   Patricia,Josso   Sandrine,1,1
+Mirallès   Patricia,Saint-Paul   Laetitia,1,1
+Mirallès   Patricia,Bolo   Philippe,1,1
+Mirallès   Patricia,Garcia   Laurent,1,1
+Mirallès   Patricia,Girardin   Éric,1,1
+Mirallès   Patricia,Le Peih   Nicole,1,1
+Mirallès   Patricia,Di Filippo   Fabien,0,1
+Mirallès   Patricia,Perrot   Patrice,1,1
+Mirallès   Patricia,Quatennens   Adrien,0,1
+Mirallès   Patricia,Di Pompeo   Christophe,1,1
+Mirallès   Patricia,Potterie   Benoit,1,1
+Mirallès   Patricia,Minot   Maxime,0,1
+Mirallès   Patricia,Park   Zivka,1,1
+Mirallès   Patricia,Guion-Firmin   Claire,0,1
+Mirallès   Patricia,Lescure   Roland,1,1
+Mirallès   Patricia,Ramadier   Alain,0,1
+Mirallès   Patricia,Bonnell   Bruno,1,1
+Mirallès   Patricia,Guerini   Stanislas,1,1
+Mirallès   Patricia,Calvez   Céline,1,1
+Mirallès   Patricia,Baichère   Didier,1,1
+Mirallès   Patricia,Crouzet   Michèle,1,1
+Mirallès   Patricia,Boucard   Ian,0,1
+Mirallès   Patricia,Lebec   Marie,1,1
+Mirallès   Patricia,Raphan   Pierre-Alain,1,1
+Mirallès   Patricia,Pouzyreff   Natalia,1,1
+Mirallès   Patricia,de Vaucouleurs   Michèle,1,1
+Mirallès   Patricia,Hennion   Christine,1,1
+Mirallès   Patricia,Beaudouin-Hubiere   Sophie,1,1
+Mirallès   Patricia,Leclabart   Jean-Claude,1,1
+Mirallès   Patricia,Thiébaut   Vincent,1,1
+Mirallès   Patricia,de Courson   Charles,1,1
+David   Dominique,Limon   Monique,1,1
+David   Dominique,Josso   Sandrine,1,1
+David   Dominique,Saint-Paul   Laetitia,1,1
+David   Dominique,Bolo   Philippe,1,1
+David   Dominique,Garcia   Laurent,1,1
+David   Dominique,Girardin   Éric,1,1
+David   Dominique,Le Peih   Nicole,1,1
+David   Dominique,Di Filippo   Fabien,0,1
+David   Dominique,Perrot   Patrice,1,1
+David   Dominique,Quatennens   Adrien,0,1
+David   Dominique,Di Pompeo   Christophe,1,1
+David   Dominique,Potterie   Benoit,1,1
+David   Dominique,Minot   Maxime,0,1
+David   Dominique,Park   Zivka,1,1
+David   Dominique,Guion-Firmin   Claire,0,1
+David   Dominique,Lescure   Roland,1,1
+David   Dominique,Ramadier   Alain,0,1
+David   Dominique,Bonnell   Bruno,1,1
+David   Dominique,Guerini   Stanislas,1,1
+David   Dominique,Calvez   Céline,1,1
+David   Dominique,Baichère   Didier,1,1
+David   Dominique,Crouzet   Michèle,1,1
+David   Dominique,Boucard   Ian,0,1
+David   Dominique,Lebec   Marie,1,1
+David   Dominique,Raphan   Pierre-Alain,1,1
+David   Dominique,Pouzyreff   Natalia,1,1
+David   Dominique,de Vaucouleurs   Michèle,1,1
+David   Dominique,Hennion   Christine,1,1
+David   Dominique,Beaudouin-Hubiere   Sophie,1,1
+David   Dominique,Leclabart   Jean-Claude,1,1
+David   Dominique,Thiébaut   Vincent,1,1
+David   Dominique,de Courson   Charles,1,1
+Limon   Monique,Josso   Sandrine,1,1
+Limon   Monique,Saint-Paul   Laetitia,1,1
+Limon   Monique,Bolo   Philippe,1,1
+Limon   Monique,Garcia   Laurent,1,1
+Limon   Monique,Girardin   Éric,1,1
+Limon   Monique,Le Peih   Nicole,1,1
+Limon   Monique,Di Filippo   Fabien,0,1
+Limon   Monique,Perrot   Patrice,1,1
+Limon   Monique,Quatennens   Adrien,0,1
+Limon   Monique,Di Pompeo   Christophe,1,1
+Limon   Monique,Potterie   Benoit,1,1
+Limon   Monique,Minot   Maxime,0,1
+Limon   Monique,Park   Zivka,1,1
+Limon   Monique,Guion-Firmin   Claire,0,1
+Limon   Monique,Lescure   Roland,1,1
+Limon   Monique,Ramadier   Alain,0,1
+Limon   Monique,Bonnell   Bruno,1,1
+Limon   Monique,Guerini   Stanislas,1,1
+Limon   Monique,Calvez   Céline,1,1
+Limon   Monique,Baichère   Didier,1,1
+Limon   Monique,Crouzet   Michèle,1,1
+Limon   Monique,Boucard   Ian,0,1
+Limon   Monique,Lebec   Marie,1,1
+Limon   Monique,Raphan   Pierre-Alain,1,1
+Limon   Monique,Pouzyreff   Natalia,1,1
+Limon   Monique,de Vaucouleurs   Michèle,1,1
+Limon   Monique,Hennion   Christine,1,1
+Limon   Monique,Beaudouin-Hubiere   Sophie,1,1
+Limon   Monique,Leclabart   Jean-Claude,1,1
+Limon   Monique,Thiébaut   Vincent,1,1
+Limon   Monique,de Courson   Charles,1,1
+Josso   Sandrine,Saint-Paul   Laetitia,1,1
+Josso   Sandrine,Bolo   Philippe,1,1
+Josso   Sandrine,Garcia   Laurent,1,1
+Josso   Sandrine,Girardin   Éric,1,1
+Josso   Sandrine,Le Peih   Nicole,1,1
+Josso   Sandrine,Di Filippo   Fabien,0,1
+Josso   Sandrine,Perrot   Patrice,1,1
+Josso   Sandrine,Quatennens   Adrien,0,1
+Josso   Sandrine,Di Pompeo   Christophe,1,1
+Josso   Sandrine,Potterie   Benoit,1,1
+Josso   Sandrine,Minot   Maxime,0,1
+Josso   Sandrine,Park   Zivka,1,1
+Josso   Sandrine,Guion-Firmin   Claire,0,1
+Josso   Sandrine,Lescure   Roland,1,1
+Josso   Sandrine,Ramadier   Alain,0,1
+Josso   Sandrine,Bonnell   Bruno,1,1
+Josso   Sandrine,Guerini   Stanislas,1,1
+Josso   Sandrine,Calvez   Céline,1,1
+Josso   Sandrine,Baichère   Didier,1,1
+Josso   Sandrine,Crouzet   Michèle,1,1
+Josso   Sandrine,Boucard   Ian,0,1
+Josso   Sandrine,Lebec   Marie,1,1
+Josso   Sandrine,Raphan   Pierre-Alain,1,1
+Josso   Sandrine,Pouzyreff   Natalia,1,1
+Josso   Sandrine,de Vaucouleurs   Michèle,1,1
+Josso   Sandrine,Hennion   Christine,1,1
+Josso   Sandrine,Beaudouin-Hubiere   Sophie,1,1
+Josso   Sandrine,Leclabart   Jean-Claude,1,1
+Josso   Sandrine,Thiébaut   Vincent,1,1
+Josso   Sandrine,de Courson   Charles,1,1
+Saint-Paul   Laetitia,Bolo   Philippe,1,1
+Saint-Paul   Laetitia,Garcia   Laurent,1,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Le Peih   Nicole,1,1
+Saint-Paul   Laetitia,Di Filippo   Fabien,0,1
+Saint-Paul   Laetitia,Perrot   Patrice,1,1
+Saint-Paul   Laetitia,Quatennens   Adrien,0,1
+Saint-Paul   Laetitia,Di Pompeo   Christophe,1,1
+Saint-Paul   Laetitia,Potterie   Benoit,1,1
+Saint-Paul   Laetitia,Minot   Maxime,0,1
+Saint-Paul   Laetitia,Park   Zivka,1,1
+Saint-Paul   Laetitia,Guion-Firmin   Claire,0,1
+Saint-Paul   Laetitia,Lescure   Roland,1,1
+Saint-Paul   Laetitia,Ramadier   Alain,0,1
+Saint-Paul   Laetitia,Bonnell   Bruno,1,1
+Saint-Paul   Laetitia,Guerini   Stanislas,1,1
+Saint-Paul   Laetitia,Calvez   Céline,1,1
+Saint-Paul   Laetitia,Baichère   Didier,1,1
+Saint-Paul   Laetitia,Crouzet   Michèle,1,1
+Saint-Paul   Laetitia,Boucard   Ian,0,1
+Saint-Paul   Laetitia,Lebec   Marie,1,1
+Saint-Paul   Laetitia,Raphan   Pierre-Alain,1,1
+Saint-Paul   Laetitia,Pouzyreff   Natalia,1,1
+Saint-Paul   Laetitia,de Vaucouleurs   Michèle,1,1
+Saint-Paul   Laetitia,Hennion   Christine,1,1
+Saint-Paul   Laetitia,Beaudouin-Hubiere   Sophie,1,1
+Saint-Paul   Laetitia,Leclabart   Jean-Claude,1,1
+Saint-Paul   Laetitia,Thiébaut   Vincent,1,1
+Saint-Paul   Laetitia,de Courson   Charles,1,1
+Bolo   Philippe,Garcia   Laurent,1,1
+Bolo   Philippe,Girardin   Éric,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Di Filippo   Fabien,0,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Quatennens   Adrien,0,1
+Bolo   Philippe,Di Pompeo   Christophe,1,1
+Bolo   Philippe,Potterie   Benoit,1,1
+Bolo   Philippe,Minot   Maxime,0,1
+Bolo   Philippe,Park   Zivka,1,1
+Bolo   Philippe,Guion-Firmin   Claire,0,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Ramadier   Alain,0,1
+Bolo   Philippe,Bonnell   Bruno,1,1
+Bolo   Philippe,Guerini   Stanislas,1,1
+Bolo   Philippe,Calvez   Céline,1,1
+Bolo   Philippe,Baichère   Didier,1,1
+Bolo   Philippe,Crouzet   Michèle,1,1
+Bolo   Philippe,Boucard   Ian,0,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Raphan   Pierre-Alain,1,1
+Bolo   Philippe,Pouzyreff   Natalia,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Hennion   Christine,1,1
+Bolo   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Bolo   Philippe,Leclabart   Jean-Claude,1,1
+Bolo   Philippe,Thiébaut   Vincent,1,1
+Bolo   Philippe,de Courson   Charles,1,1
+Garcia   Laurent,Girardin   Éric,1,1
+Garcia   Laurent,Le Peih   Nicole,1,1
+Garcia   Laurent,Di Filippo   Fabien,0,1
+Garcia   Laurent,Perrot   Patrice,1,1
+Garcia   Laurent,Quatennens   Adrien,0,1
+Garcia   Laurent,Di Pompeo   Christophe,1,1
+Garcia   Laurent,Potterie   Benoit,1,1
+Garcia   Laurent,Minot   Maxime,0,1
+Garcia   Laurent,Park   Zivka,1,1
+Garcia   Laurent,Guion-Firmin   Claire,0,1
+Garcia   Laurent,Lescure   Roland,1,1
+Garcia   Laurent,Ramadier   Alain,0,1
+Garcia   Laurent,Bonnell   Bruno,1,1
+Garcia   Laurent,Guerini   Stanislas,1,1
+Garcia   Laurent,Calvez   Céline,1,1
+Garcia   Laurent,Baichère   Didier,1,1
+Garcia   Laurent,Crouzet   Michèle,1,1
+Garcia   Laurent,Boucard   Ian,0,1
+Garcia   Laurent,Lebec   Marie,1,1
+Garcia   Laurent,Raphan   Pierre-Alain,1,1
+Garcia   Laurent,Pouzyreff   Natalia,1,1
+Garcia   Laurent,de Vaucouleurs   Michèle,1,1
+Garcia   Laurent,Hennion   Christine,1,1
+Garcia   Laurent,Beaudouin-Hubiere   Sophie,1,1
+Garcia   Laurent,Leclabart   Jean-Claude,1,1
+Garcia   Laurent,Thiébaut   Vincent,1,1
+Garcia   Laurent,de Courson   Charles,1,1
+Girardin   Éric,Le Peih   Nicole,1,1
+Girardin   Éric,Di Filippo   Fabien,0,1
+Girardin   Éric,Perrot   Patrice,1,1
+Girardin   Éric,Quatennens   Adrien,0,1
+Girardin   Éric,Di Pompeo   Christophe,1,1
+Girardin   Éric,Potterie   Benoit,1,1
+Girardin   Éric,Minot   Maxime,0,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Guion-Firmin   Claire,0,1
+Girardin   Éric,Lescure   Roland,1,1
+Girardin   Éric,Ramadier   Alain,0,1
+Girardin   Éric,Bonnell   Bruno,1,1
+Girardin   Éric,Guerini   Stanislas,1,1
+Girardin   Éric,Calvez   Céline,1,1
+Girardin   Éric,Baichère   Didier,1,1
+Girardin   Éric,Crouzet   Michèle,1,1
+Girardin   Éric,Boucard   Ian,0,1
+Girardin   Éric,Lebec   Marie,1,1
+Girardin   Éric,Raphan   Pierre-Alain,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,de Vaucouleurs   Michèle,1,1
+Girardin   Éric,Hennion   Christine,1,1
+Girardin   Éric,Beaudouin-Hubiere   Sophie,1,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Girardin   Éric,de Courson   Charles,1,1
+Le Peih   Nicole,Di Filippo   Fabien,0,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Quatennens   Adrien,0,1
+Le Peih   Nicole,Di Pompeo   Christophe,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Minot   Maxime,0,1
+Le Peih   Nicole,Park   Zivka,1,1
+Le Peih   Nicole,Guion-Firmin   Claire,0,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Bonnell   Bruno,1,1
+Le Peih   Nicole,Guerini   Stanislas,1,1
+Le Peih   Nicole,Calvez   Céline,1,1
+Le Peih   Nicole,Baichère   Didier,1,1
+Le Peih   Nicole,Crouzet   Michèle,1,1
+Le Peih   Nicole,Boucard   Ian,0,1
+Le Peih   Nicole,Lebec   Marie,1,1
+Le Peih   Nicole,Raphan   Pierre-Alain,1,1
+Le Peih   Nicole,Pouzyreff   Natalia,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Hennion   Christine,1,1
+Le Peih   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Le Peih   Nicole,Leclabart   Jean-Claude,1,1
+Le Peih   Nicole,Thiébaut   Vincent,1,1
+Le Peih   Nicole,de Courson   Charles,1,1
+Di Filippo   Fabien,Perrot   Patrice,0,1
+Di Filippo   Fabien,Quatennens   Adrien,1,1
+Di Filippo   Fabien,Di Pompeo   Christophe,0,1
+Di Filippo   Fabien,Potterie   Benoit,0,1
+Di Filippo   Fabien,Minot   Maxime,1,1
+Di Filippo   Fabien,Park   Zivka,0,1
+Di Filippo   Fabien,Guion-Firmin   Claire,1,1
+Di Filippo   Fabien,Lescure   Roland,0,1
+Di Filippo   Fabien,Ramadier   Alain,1,1
+Di Filippo   Fabien,Bonnell   Bruno,0,1
+Di Filippo   Fabien,Guerini   Stanislas,0,1
+Di Filippo   Fabien,Calvez   Céline,0,1
+Di Filippo   Fabien,Baichère   Didier,0,1
+Di Filippo   Fabien,Crouzet   Michèle,0,1
+Di Filippo   Fabien,Boucard   Ian,1,1
+Di Filippo   Fabien,Lebec   Marie,0,1
+Di Filippo   Fabien,Raphan   Pierre-Alain,0,1
+Di Filippo   Fabien,Pouzyreff   Natalia,0,1
+Di Filippo   Fabien,de Vaucouleurs   Michèle,0,1
+Di Filippo   Fabien,Hennion   Christine,0,1
+Di Filippo   Fabien,Beaudouin-Hubiere   Sophie,0,1
+Di Filippo   Fabien,Leclabart   Jean-Claude,0,1
+Di Filippo   Fabien,Thiébaut   Vincent,0,1
+Di Filippo   Fabien,de Courson   Charles,0,1
+Perrot   Patrice,Quatennens   Adrien,0,1
+Perrot   Patrice,Di Pompeo   Christophe,1,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Minot   Maxime,0,1
+Perrot   Patrice,Park   Zivka,1,1
+Perrot   Patrice,Guion-Firmin   Claire,0,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Ramadier   Alain,0,1
+Perrot   Patrice,Bonnell   Bruno,1,1
+Perrot   Patrice,Guerini   Stanislas,1,1
+Perrot   Patrice,Calvez   Céline,1,1
+Perrot   Patrice,Baichère   Didier,1,1
+Perrot   Patrice,Crouzet   Michèle,1,1
+Perrot   Patrice,Boucard   Ian,0,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,Raphan   Pierre-Alain,1,1
+Perrot   Patrice,Pouzyreff   Natalia,1,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Hennion   Christine,1,1
+Perrot   Patrice,Beaudouin-Hubiere   Sophie,1,1
+Perrot   Patrice,Leclabart   Jean-Claude,1,1
+Perrot   Patrice,Thiébaut   Vincent,1,1
+Perrot   Patrice,de Courson   Charles,1,1
+Quatennens   Adrien,Di Pompeo   Christophe,0,1
+Quatennens   Adrien,Potterie   Benoit,0,1
+Quatennens   Adrien,Minot   Maxime,1,1
+Quatennens   Adrien,Park   Zivka,0,1
+Quatennens   Adrien,Guion-Firmin   Claire,1,1
+Quatennens   Adrien,Lescure   Roland,0,1
+Quatennens   Adrien,Ramadier   Alain,1,1
+Quatennens   Adrien,Bonnell   Bruno,0,1
+Quatennens   Adrien,Guerini   Stanislas,0,1
+Quatennens   Adrien,Calvez   Céline,0,1
+Quatennens   Adrien,Baichère   Didier,0,1
+Quatennens   Adrien,Crouzet   Michèle,0,1
+Quatennens   Adrien,Boucard   Ian,1,1
+Quatennens   Adrien,Lebec   Marie,0,1
+Quatennens   Adrien,Raphan   Pierre-Alain,0,1
+Quatennens   Adrien,Pouzyreff   Natalia,0,1
+Quatennens   Adrien,de Vaucouleurs   Michèle,0,1
+Quatennens   Adrien,Hennion   Christine,0,1
+Quatennens   Adrien,Beaudouin-Hubiere   Sophie,0,1
+Quatennens   Adrien,Leclabart   Jean-Claude,0,1
+Quatennens   Adrien,Thiébaut   Vincent,0,1
+Quatennens   Adrien,de Courson   Charles,0,1
+Di Pompeo   Christophe,Potterie   Benoit,1,1
+Di Pompeo   Christophe,Minot   Maxime,0,1
+Di Pompeo   Christophe,Park   Zivka,1,1
+Di Pompeo   Christophe,Guion-Firmin   Claire,0,1
+Di Pompeo   Christophe,Lescure   Roland,1,1
+Di Pompeo   Christophe,Ramadier   Alain,0,1
+Di Pompeo   Christophe,Bonnell   Bruno,1,1
+Di Pompeo   Christophe,Guerini   Stanislas,1,1
+Di Pompeo   Christophe,Calvez   Céline,1,1
+Di Pompeo   Christophe,Baichère   Didier,1,1
+Di Pompeo   Christophe,Crouzet   Michèle,1,1
+Di Pompeo   Christophe,Boucard   Ian,0,1
+Di Pompeo   Christophe,Lebec   Marie,1,1
+Di Pompeo   Christophe,Raphan   Pierre-Alain,1,1
+Di Pompeo   Christophe,Pouzyreff   Natalia,1,1
+Di Pompeo   Christophe,de Vaucouleurs   Michèle,1,1
+Di Pompeo   Christophe,Hennion   Christine,1,1
+Di Pompeo   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Di Pompeo   Christophe,Leclabart   Jean-Claude,1,1
+Di Pompeo   Christophe,Thiébaut   Vincent,1,1
+Di Pompeo   Christophe,de Courson   Charles,1,1
+Potterie   Benoit,Minot   Maxime,0,1
+Potterie   Benoit,Park   Zivka,1,1
+Potterie   Benoit,Guion-Firmin   Claire,0,1
+Potterie   Benoit,Lescure   Roland,1,1
+Potterie   Benoit,Ramadier   Alain,0,1
+Potterie   Benoit,Bonnell   Bruno,1,1
+Potterie   Benoit,Guerini   Stanislas,1,1
+Potterie   Benoit,Calvez   Céline,1,1
+Potterie   Benoit,Baichère   Didier,1,1
+Potterie   Benoit,Crouzet   Michèle,1,1
+Potterie   Benoit,Boucard   Ian,0,1
+Potterie   Benoit,Lebec   Marie,1,1
+Potterie   Benoit,Raphan   Pierre-Alain,1,1
+Potterie   Benoit,Pouzyreff   Natalia,1,1
+Potterie   Benoit,de Vaucouleurs   Michèle,1,1
+Potterie   Benoit,Hennion   Christine,1,1
+Potterie   Benoit,Beaudouin-Hubiere   Sophie,1,1
+Potterie   Benoit,Leclabart   Jean-Claude,1,1
+Potterie   Benoit,Thiébaut   Vincent,1,1
+Potterie   Benoit,de Courson   Charles,1,1
+Minot   Maxime,Park   Zivka,0,1
+Minot   Maxime,Guion-Firmin   Claire,1,1
+Minot   Maxime,Lescure   Roland,0,1
+Minot   Maxime,Ramadier   Alain,1,1
+Minot   Maxime,Bonnell   Bruno,0,1
+Minot   Maxime,Guerini   Stanislas,0,1
+Minot   Maxime,Calvez   Céline,0,1
+Minot   Maxime,Baichère   Didier,0,1
+Minot   Maxime,Crouzet   Michèle,0,1
+Minot   Maxime,Boucard   Ian,1,1
+Minot   Maxime,Lebec   Marie,0,1
+Minot   Maxime,Raphan   Pierre-Alain,0,1
+Minot   Maxime,Pouzyreff   Natalia,0,1
+Minot   Maxime,de Vaucouleurs   Michèle,0,1
+Minot   Maxime,Hennion   Christine,0,1
+Minot   Maxime,Beaudouin-Hubiere   Sophie,0,1
+Minot   Maxime,Leclabart   Jean-Claude,0,1
+Minot   Maxime,Thiébaut   Vincent,0,1
+Minot   Maxime,de Courson   Charles,0,1
+Park   Zivka,Guion-Firmin   Claire,0,1
+Park   Zivka,Lescure   Roland,1,1
+Park   Zivka,Ramadier   Alain,0,1
+Park   Zivka,Bonnell   Bruno,1,1
+Park   Zivka,Guerini   Stanislas,1,1
+Park   Zivka,Calvez   Céline,1,1
+Park   Zivka,Baichère   Didier,1,1
+Park   Zivka,Crouzet   Michèle,1,1
+Park   Zivka,Boucard   Ian,0,1
+Park   Zivka,Lebec   Marie,1,1
+Park   Zivka,Raphan   Pierre-Alain,1,1
+Park   Zivka,Pouzyreff   Natalia,1,1
+Park   Zivka,de Vaucouleurs   Michèle,1,1
+Park   Zivka,Hennion   Christine,1,1
+Park   Zivka,Beaudouin-Hubiere   Sophie,1,1
+Park   Zivka,Leclabart   Jean-Claude,1,1
+Park   Zivka,Thiébaut   Vincent,1,1
+Park   Zivka,de Courson   Charles,1,1
+Guion-Firmin   Claire,Lescure   Roland,0,1
+Guion-Firmin   Claire,Ramadier   Alain,1,1
+Guion-Firmin   Claire,Bonnell   Bruno,0,1
+Guion-Firmin   Claire,Guerini   Stanislas,0,1
+Guion-Firmin   Claire,Calvez   Céline,0,1
+Guion-Firmin   Claire,Baichère   Didier,0,1
+Guion-Firmin   Claire,Crouzet   Michèle,0,1
+Guion-Firmin   Claire,Boucard   Ian,1,1
+Guion-Firmin   Claire,Lebec   Marie,0,1
+Guion-Firmin   Claire,Raphan   Pierre-Alain,0,1
+Guion-Firmin   Claire,Pouzyreff   Natalia,0,1
+Guion-Firmin   Claire,de Vaucouleurs   Michèle,0,1
+Guion-Firmin   Claire,Hennion   Christine,0,1
+Guion-Firmin   Claire,Beaudouin-Hubiere   Sophie,0,1
+Guion-Firmin   Claire,Leclabart   Jean-Claude,0,1
+Guion-Firmin   Claire,Thiébaut   Vincent,0,1
+Guion-Firmin   Claire,de Courson   Charles,0,1
+Lescure   Roland,Ramadier   Alain,0,1
+Lescure   Roland,Bonnell   Bruno,1,1
+Lescure   Roland,Guerini   Stanislas,1,1
+Lescure   Roland,Calvez   Céline,1,1
+Lescure   Roland,Baichère   Didier,1,1
+Lescure   Roland,Crouzet   Michèle,1,1
+Lescure   Roland,Boucard   Ian,0,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,Raphan   Pierre-Alain,1,1
+Lescure   Roland,Pouzyreff   Natalia,1,1
+Lescure   Roland,de Vaucouleurs   Michèle,1,1
+Lescure   Roland,Hennion   Christine,1,1
+Lescure   Roland,Beaudouin-Hubiere   Sophie,1,1
+Lescure   Roland,Leclabart   Jean-Claude,1,1
+Lescure   Roland,Thiébaut   Vincent,1,1
+Lescure   Roland,de Courson   Charles,1,1
+Ramadier   Alain,Bonnell   Bruno,0,1
+Ramadier   Alain,Guerini   Stanislas,0,1
+Ramadier   Alain,Calvez   Céline,0,1
+Ramadier   Alain,Baichère   Didier,0,1
+Ramadier   Alain,Crouzet   Michèle,0,1
+Ramadier   Alain,Boucard   Ian,1,1
+Ramadier   Alain,Lebec   Marie,0,1
+Ramadier   Alain,Raphan   Pierre-Alain,0,1
+Ramadier   Alain,Pouzyreff   Natalia,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Hennion   Christine,0,1
+Ramadier   Alain,Beaudouin-Hubiere   Sophie,0,1
+Ramadier   Alain,Leclabart   Jean-Claude,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Ramadier   Alain,de Courson   Charles,0,1
+Bonnell   Bruno,Guerini   Stanislas,1,1
+Bonnell   Bruno,Calvez   Céline,1,1
+Bonnell   Bruno,Baichère   Didier,1,1
+Bonnell   Bruno,Crouzet   Michèle,1,1
+Bonnell   Bruno,Boucard   Ian,0,1
+Bonnell   Bruno,Lebec   Marie,1,1
+Bonnell   Bruno,Raphan   Pierre-Alain,1,1
+Bonnell   Bruno,Pouzyreff   Natalia,1,1
+Bonnell   Bruno,de Vaucouleurs   Michèle,1,1
+Bonnell   Bruno,Hennion   Christine,1,1
+Bonnell   Bruno,Beaudouin-Hubiere   Sophie,1,1
+Bonnell   Bruno,Leclabart   Jean-Claude,1,1
+Bonnell   Bruno,Thiébaut   Vincent,1,1
+Bonnell   Bruno,de Courson   Charles,1,1
+Guerini   Stanislas,Calvez   Céline,1,1
+Guerini   Stanislas,Baichère   Didier,1,1
+Guerini   Stanislas,Crouzet   Michèle,1,1
+Guerini   Stanislas,Boucard   Ian,0,1
+Guerini   Stanislas,Lebec   Marie,1,1
+Guerini   Stanislas,Raphan   Pierre-Alain,1,1
+Guerini   Stanislas,Pouzyreff   Natalia,1,1
+Guerini   Stanislas,de Vaucouleurs   Michèle,1,1
+Guerini   Stanislas,Hennion   Christine,1,1
+Guerini   Stanislas,Beaudouin-Hubiere   Sophie,1,1
+Guerini   Stanislas,Leclabart   Jean-Claude,1,1
+Guerini   Stanislas,Thiébaut   Vincent,1,1
+Guerini   Stanislas,de Courson   Charles,1,1
+Calvez   Céline,Baichère   Didier,1,1
+Calvez   Céline,Crouzet   Michèle,1,1
+Calvez   Céline,Boucard   Ian,0,1
+Calvez   Céline,Lebec   Marie,1,1
+Calvez   Céline,Raphan   Pierre-Alain,1,1
+Calvez   Céline,Pouzyreff   Natalia,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Hennion   Christine,1,1
+Calvez   Céline,Beaudouin-Hubiere   Sophie,1,1
+Calvez   Céline,Leclabart   Jean-Claude,1,1
+Calvez   Céline,Thiébaut   Vincent,1,1
+Calvez   Céline,de Courson   Charles,1,1
+Baichère   Didier,Crouzet   Michèle,1,1
+Baichère   Didier,Boucard   Ian,0,1
+Baichère   Didier,Lebec   Marie,1,1
+Baichère   Didier,Raphan   Pierre-Alain,1,1
+Baichère   Didier,Pouzyreff   Natalia,1,1
+Baichère   Didier,de Vaucouleurs   Michèle,1,1
+Baichère   Didier,Hennion   Christine,1,1
+Baichère   Didier,Beaudouin-Hubiere   Sophie,1,1
+Baichère   Didier,Leclabart   Jean-Claude,1,1
+Baichère   Didier,Thiébaut   Vincent,1,1
+Baichère   Didier,de Courson   Charles,1,1
+Crouzet   Michèle,Boucard   Ian,0,1
+Crouzet   Michèle,Lebec   Marie,1,1
+Crouzet   Michèle,Raphan   Pierre-Alain,1,1
+Crouzet   Michèle,Pouzyreff   Natalia,1,1
+Crouzet   Michèle,de Vaucouleurs   Michèle,1,1
+Crouzet   Michèle,Hennion   Christine,1,1
+Crouzet   Michèle,Beaudouin-Hubiere   Sophie,1,1
+Crouzet   Michèle,Leclabart   Jean-Claude,1,1
+Crouzet   Michèle,Thiébaut   Vincent,1,1
+Crouzet   Michèle,de Courson   Charles,1,1
+Boucard   Ian,Lebec   Marie,0,1
+Boucard   Ian,Raphan   Pierre-Alain,0,1
+Boucard   Ian,Pouzyreff   Natalia,0,1
+Boucard   Ian,de Vaucouleurs   Michèle,0,1
+Boucard   Ian,Hennion   Christine,0,1
+Boucard   Ian,Beaudouin-Hubiere   Sophie,0,1
+Boucard   Ian,Leclabart   Jean-Claude,0,1
+Boucard   Ian,Thiébaut   Vincent,0,1
+Boucard   Ian,de Courson   Charles,0,1
+Lebec   Marie,Raphan   Pierre-Alain,1,1
+Lebec   Marie,Pouzyreff   Natalia,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Hennion   Christine,1,1
+Lebec   Marie,Beaudouin-Hubiere   Sophie,1,1
+Lebec   Marie,Leclabart   Jean-Claude,1,1
+Lebec   Marie,Thiébaut   Vincent,1,1
+Lebec   Marie,de Courson   Charles,1,1
+Raphan   Pierre-Alain,Pouzyreff   Natalia,1,1
+Raphan   Pierre-Alain,de Vaucouleurs   Michèle,1,1
+Raphan   Pierre-Alain,Hennion   Christine,1,1
+Raphan   Pierre-Alain,Beaudouin-Hubiere   Sophie,1,1
+Raphan   Pierre-Alain,Leclabart   Jean-Claude,1,1
+Raphan   Pierre-Alain,Thiébaut   Vincent,1,1
+Raphan   Pierre-Alain,de Courson   Charles,1,1
+Pouzyreff   Natalia,de Vaucouleurs   Michèle,1,1
+Pouzyreff   Natalia,Hennion   Christine,1,1
+Pouzyreff   Natalia,Beaudouin-Hubiere   Sophie,1,1
+Pouzyreff   Natalia,Leclabart   Jean-Claude,1,1
+Pouzyreff   Natalia,Thiébaut   Vincent,1,1
+Pouzyreff   Natalia,de Courson   Charles,1,1
+de Vaucouleurs   Michèle,Hennion   Christine,1,1
+de Vaucouleurs   Michèle,Beaudouin-Hubiere   Sophie,1,1
+de Vaucouleurs   Michèle,Leclabart   Jean-Claude,1,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,1,1
+de Vaucouleurs   Michèle,de Courson   Charles,1,1
+Hennion   Christine,Beaudouin-Hubiere   Sophie,1,1
+Hennion   Christine,Leclabart   Jean-Claude,1,1
+Hennion   Christine,Thiébaut   Vincent,1,1
+Hennion   Christine,de Courson   Charles,1,1
+Beaudouin-Hubiere   Sophie,Leclabart   Jean-Claude,1,1
+Beaudouin-Hubiere   Sophie,Thiébaut   Vincent,1,1
+Beaudouin-Hubiere   Sophie,de Courson   Charles,1,1
+Leclabart   Jean-Claude,Thiébaut   Vincent,1,1
+Leclabart   Jean-Claude,de Courson   Charles,1,1
+Thiébaut   Vincent,de Courson   Charles,1,1

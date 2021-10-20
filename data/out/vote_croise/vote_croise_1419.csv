@@ -1,0 +1,631 @@
+from,to,vote_commun,loi_commun
+Menuel   Gérard,Pupponi   François,1,1
+Menuel   Gérard,Louwagie   Véronique,1,1
+Menuel   Gérard,Pires Beaune   Christine,1,1
+Menuel   Gérard,Dupont   Stella,0,1
+Menuel   Gérard,Jerretie   Christophe,0,1
+Menuel   Gérard,Kerlogot   Yannick,0,1
+Menuel   Gérard,Gouttefarde   Fabien,0,1
+Menuel   Gérard,Tanguy   Liliana,0,1
+Menuel   Gérard,Panonacle   Sophie,0,1
+Menuel   Gérard,David   Dominique,0,1
+Menuel   Gérard,Maillart-Méhaignerie   Laurence,0,1
+Menuel   Gérard,Labaronne   Daniel,0,1
+Menuel   Gérard,Lauzzana   Michel,0,1
+Menuel   Gérard,Girardin   Éric,0,1
+Menuel   Gérard,Magnier   Lise,1,1
+Menuel   Gérard,Cariou   Émilie,0,1
+Menuel   Gérard,Zannier   Hélène,0,1
+Menuel   Gérard,Paluszkiewicz   Xavier,0,1
+Menuel   Gérard,Osson   Catherine,0,1
+Menuel   Gérard,Cattelot   Anne-Laure,0,1
+Menuel   Gérard,Goulet   Perrine,0,1
+Menuel   Gérard,Mattei   Jean-Paul,1,1
+Menuel   Gérard,Rubin   Sabine,0,1
+Menuel   Gérard,Gouffier-Cha   Guillaume,0,1
+Menuel   Gérard,Roseren   Xavier,0,1
+Menuel   Gérard,Kuster   Brigitte,1,1
+Menuel   Gérard,Verdier-Jouclas   Marie-Christine,0,1
+Menuel   Gérard,Rossi   Laurianne,0,1
+Menuel   Gérard,Bourlanges   Jean-Louis,1,1
+Menuel   Gérard,Pouzyreff   Natalia,0,1
+Menuel   Gérard,Millienne   Bruno,1,1
+Menuel   Gérard,Rixain   Marie-Pierre,0,1
+Menuel   Gérard,Thiébaut   Vincent,0,1
+Menuel   Gérard,Dirx   Benjamin,0,1
+Menuel   Gérard,de Courson   Charles,1,1
+Pupponi   François,Louwagie   Véronique,1,1
+Pupponi   François,Pires Beaune   Christine,1,1
+Pupponi   François,Dupont   Stella,0,1
+Pupponi   François,Jerretie   Christophe,0,1
+Pupponi   François,Kerlogot   Yannick,0,1
+Pupponi   François,Gouttefarde   Fabien,0,1
+Pupponi   François,Tanguy   Liliana,0,1
+Pupponi   François,Panonacle   Sophie,0,1
+Pupponi   François,David   Dominique,0,1
+Pupponi   François,Maillart-Méhaignerie   Laurence,0,1
+Pupponi   François,Labaronne   Daniel,0,1
+Pupponi   François,Lauzzana   Michel,0,1
+Pupponi   François,Girardin   Éric,0,1
+Pupponi   François,Magnier   Lise,1,1
+Pupponi   François,Cariou   Émilie,0,1
+Pupponi   François,Zannier   Hélène,0,1
+Pupponi   François,Paluszkiewicz   Xavier,0,1
+Pupponi   François,Osson   Catherine,0,1
+Pupponi   François,Cattelot   Anne-Laure,0,1
+Pupponi   François,Goulet   Perrine,0,1
+Pupponi   François,Mattei   Jean-Paul,1,1
+Pupponi   François,Rubin   Sabine,0,1
+Pupponi   François,Gouffier-Cha   Guillaume,0,1
+Pupponi   François,Roseren   Xavier,0,1
+Pupponi   François,Kuster   Brigitte,1,1
+Pupponi   François,Verdier-Jouclas   Marie-Christine,0,1
+Pupponi   François,Rossi   Laurianne,0,1
+Pupponi   François,Bourlanges   Jean-Louis,1,1
+Pupponi   François,Pouzyreff   Natalia,0,1
+Pupponi   François,Millienne   Bruno,1,1
+Pupponi   François,Rixain   Marie-Pierre,0,1
+Pupponi   François,Thiébaut   Vincent,0,1
+Pupponi   François,Dirx   Benjamin,0,1
+Pupponi   François,de Courson   Charles,1,1
+Louwagie   Véronique,Pires Beaune   Christine,1,1
+Louwagie   Véronique,Dupont   Stella,0,1
+Louwagie   Véronique,Jerretie   Christophe,0,1
+Louwagie   Véronique,Kerlogot   Yannick,0,1
+Louwagie   Véronique,Gouttefarde   Fabien,0,1
+Louwagie   Véronique,Tanguy   Liliana,0,1
+Louwagie   Véronique,Panonacle   Sophie,0,1
+Louwagie   Véronique,David   Dominique,0,1
+Louwagie   Véronique,Maillart-Méhaignerie   Laurence,0,1
+Louwagie   Véronique,Labaronne   Daniel,0,1
+Louwagie   Véronique,Lauzzana   Michel,0,1
+Louwagie   Véronique,Girardin   Éric,0,1
+Louwagie   Véronique,Magnier   Lise,1,1
+Louwagie   Véronique,Cariou   Émilie,0,1
+Louwagie   Véronique,Zannier   Hélène,0,1
+Louwagie   Véronique,Paluszkiewicz   Xavier,0,1
+Louwagie   Véronique,Osson   Catherine,0,1
+Louwagie   Véronique,Cattelot   Anne-Laure,0,1
+Louwagie   Véronique,Goulet   Perrine,0,1
+Louwagie   Véronique,Mattei   Jean-Paul,1,1
+Louwagie   Véronique,Rubin   Sabine,0,1
+Louwagie   Véronique,Gouffier-Cha   Guillaume,0,1
+Louwagie   Véronique,Roseren   Xavier,0,1
+Louwagie   Véronique,Kuster   Brigitte,1,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Rossi   Laurianne,0,1
+Louwagie   Véronique,Bourlanges   Jean-Louis,1,1
+Louwagie   Véronique,Pouzyreff   Natalia,0,1
+Louwagie   Véronique,Millienne   Bruno,1,1
+Louwagie   Véronique,Rixain   Marie-Pierre,0,1
+Louwagie   Véronique,Thiébaut   Vincent,0,1
+Louwagie   Véronique,Dirx   Benjamin,0,1
+Louwagie   Véronique,de Courson   Charles,1,1
+Pires Beaune   Christine,Dupont   Stella,0,1
+Pires Beaune   Christine,Jerretie   Christophe,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Gouttefarde   Fabien,0,1
+Pires Beaune   Christine,Tanguy   Liliana,0,1
+Pires Beaune   Christine,Panonacle   Sophie,0,1
+Pires Beaune   Christine,David   Dominique,0,1
+Pires Beaune   Christine,Maillart-Méhaignerie   Laurence,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Lauzzana   Michel,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Magnier   Lise,1,1
+Pires Beaune   Christine,Cariou   Émilie,0,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Paluszkiewicz   Xavier,0,1
+Pires Beaune   Christine,Osson   Catherine,0,1
+Pires Beaune   Christine,Cattelot   Anne-Laure,0,1
+Pires Beaune   Christine,Goulet   Perrine,0,1
+Pires Beaune   Christine,Mattei   Jean-Paul,1,1
+Pires Beaune   Christine,Rubin   Sabine,0,1
+Pires Beaune   Christine,Gouffier-Cha   Guillaume,0,1
+Pires Beaune   Christine,Roseren   Xavier,0,1
+Pires Beaune   Christine,Kuster   Brigitte,1,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Rossi   Laurianne,0,1
+Pires Beaune   Christine,Bourlanges   Jean-Louis,1,1
+Pires Beaune   Christine,Pouzyreff   Natalia,0,1
+Pires Beaune   Christine,Millienne   Bruno,1,1
+Pires Beaune   Christine,Rixain   Marie-Pierre,0,1
+Pires Beaune   Christine,Thiébaut   Vincent,0,1
+Pires Beaune   Christine,Dirx   Benjamin,0,1
+Pires Beaune   Christine,de Courson   Charles,1,1
+Dupont   Stella,Jerretie   Christophe,1,1
+Dupont   Stella,Kerlogot   Yannick,1,1
+Dupont   Stella,Gouttefarde   Fabien,1,1
+Dupont   Stella,Tanguy   Liliana,1,1
+Dupont   Stella,Panonacle   Sophie,1,1
+Dupont   Stella,David   Dominique,1,1
+Dupont   Stella,Maillart-Méhaignerie   Laurence,1,1
+Dupont   Stella,Labaronne   Daniel,1,1
+Dupont   Stella,Lauzzana   Michel,1,1
+Dupont   Stella,Girardin   Éric,1,1
+Dupont   Stella,Magnier   Lise,0,1
+Dupont   Stella,Cariou   Émilie,1,1
+Dupont   Stella,Zannier   Hélène,1,1
+Dupont   Stella,Paluszkiewicz   Xavier,1,1
+Dupont   Stella,Osson   Catherine,1,1
+Dupont   Stella,Cattelot   Anne-Laure,1,1
+Dupont   Stella,Goulet   Perrine,1,1
+Dupont   Stella,Mattei   Jean-Paul,0,1
+Dupont   Stella,Rubin   Sabine,1,1
+Dupont   Stella,Gouffier-Cha   Guillaume,1,1
+Dupont   Stella,Roseren   Xavier,1,1
+Dupont   Stella,Kuster   Brigitte,0,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Rossi   Laurianne,1,1
+Dupont   Stella,Bourlanges   Jean-Louis,0,1
+Dupont   Stella,Pouzyreff   Natalia,1,1
+Dupont   Stella,Millienne   Bruno,0,1
+Dupont   Stella,Rixain   Marie-Pierre,1,1
+Dupont   Stella,Thiébaut   Vincent,1,1
+Dupont   Stella,Dirx   Benjamin,1,1
+Dupont   Stella,de Courson   Charles,0,1
+Jerretie   Christophe,Kerlogot   Yannick,1,1
+Jerretie   Christophe,Gouttefarde   Fabien,1,1
+Jerretie   Christophe,Tanguy   Liliana,1,1
+Jerretie   Christophe,Panonacle   Sophie,1,1
+Jerretie   Christophe,David   Dominique,1,1
+Jerretie   Christophe,Maillart-Méhaignerie   Laurence,1,1
+Jerretie   Christophe,Labaronne   Daniel,1,1
+Jerretie   Christophe,Lauzzana   Michel,1,1
+Jerretie   Christophe,Girardin   Éric,1,1
+Jerretie   Christophe,Magnier   Lise,0,1
+Jerretie   Christophe,Cariou   Émilie,1,1
+Jerretie   Christophe,Zannier   Hélène,1,1
+Jerretie   Christophe,Paluszkiewicz   Xavier,1,1
+Jerretie   Christophe,Osson   Catherine,1,1
+Jerretie   Christophe,Cattelot   Anne-Laure,1,1
+Jerretie   Christophe,Goulet   Perrine,1,1
+Jerretie   Christophe,Mattei   Jean-Paul,0,1
+Jerretie   Christophe,Rubin   Sabine,1,1
+Jerretie   Christophe,Gouffier-Cha   Guillaume,1,1
+Jerretie   Christophe,Roseren   Xavier,1,1
+Jerretie   Christophe,Kuster   Brigitte,0,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Rossi   Laurianne,1,1
+Jerretie   Christophe,Bourlanges   Jean-Louis,0,1
+Jerretie   Christophe,Pouzyreff   Natalia,1,1
+Jerretie   Christophe,Millienne   Bruno,0,1
+Jerretie   Christophe,Rixain   Marie-Pierre,1,1
+Jerretie   Christophe,Thiébaut   Vincent,1,1
+Jerretie   Christophe,Dirx   Benjamin,1,1
+Jerretie   Christophe,de Courson   Charles,0,1
+Kerlogot   Yannick,Gouttefarde   Fabien,1,1
+Kerlogot   Yannick,Tanguy   Liliana,1,1
+Kerlogot   Yannick,Panonacle   Sophie,1,1
+Kerlogot   Yannick,David   Dominique,1,1
+Kerlogot   Yannick,Maillart-Méhaignerie   Laurence,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Lauzzana   Michel,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Magnier   Lise,0,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Paluszkiewicz   Xavier,1,1
+Kerlogot   Yannick,Osson   Catherine,1,1
+Kerlogot   Yannick,Cattelot   Anne-Laure,1,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Mattei   Jean-Paul,0,1
+Kerlogot   Yannick,Rubin   Sabine,1,1
+Kerlogot   Yannick,Gouffier-Cha   Guillaume,1,1
+Kerlogot   Yannick,Roseren   Xavier,1,1
+Kerlogot   Yannick,Kuster   Brigitte,0,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Rossi   Laurianne,1,1
+Kerlogot   Yannick,Bourlanges   Jean-Louis,0,1
+Kerlogot   Yannick,Pouzyreff   Natalia,1,1
+Kerlogot   Yannick,Millienne   Bruno,0,1
+Kerlogot   Yannick,Rixain   Marie-Pierre,1,1
+Kerlogot   Yannick,Thiébaut   Vincent,1,1
+Kerlogot   Yannick,Dirx   Benjamin,1,1
+Kerlogot   Yannick,de Courson   Charles,0,1
+Gouttefarde   Fabien,Tanguy   Liliana,1,1
+Gouttefarde   Fabien,Panonacle   Sophie,1,1
+Gouttefarde   Fabien,David   Dominique,1,1
+Gouttefarde   Fabien,Maillart-Méhaignerie   Laurence,1,1
+Gouttefarde   Fabien,Labaronne   Daniel,1,1
+Gouttefarde   Fabien,Lauzzana   Michel,1,1
+Gouttefarde   Fabien,Girardin   Éric,1,1
+Gouttefarde   Fabien,Magnier   Lise,0,1
+Gouttefarde   Fabien,Cariou   Émilie,1,1
+Gouttefarde   Fabien,Zannier   Hélène,1,1
+Gouttefarde   Fabien,Paluszkiewicz   Xavier,1,1
+Gouttefarde   Fabien,Osson   Catherine,1,1
+Gouttefarde   Fabien,Cattelot   Anne-Laure,1,1
+Gouttefarde   Fabien,Goulet   Perrine,1,1
+Gouttefarde   Fabien,Mattei   Jean-Paul,0,1
+Gouttefarde   Fabien,Rubin   Sabine,1,1
+Gouttefarde   Fabien,Gouffier-Cha   Guillaume,1,1
+Gouttefarde   Fabien,Roseren   Xavier,1,1
+Gouttefarde   Fabien,Kuster   Brigitte,0,1
+Gouttefarde   Fabien,Verdier-Jouclas   Marie-Christine,1,1
+Gouttefarde   Fabien,Rossi   Laurianne,1,1
+Gouttefarde   Fabien,Bourlanges   Jean-Louis,0,1
+Gouttefarde   Fabien,Pouzyreff   Natalia,1,1
+Gouttefarde   Fabien,Millienne   Bruno,0,1
+Gouttefarde   Fabien,Rixain   Marie-Pierre,1,1
+Gouttefarde   Fabien,Thiébaut   Vincent,1,1
+Gouttefarde   Fabien,Dirx   Benjamin,1,1
+Gouttefarde   Fabien,de Courson   Charles,0,1
+Tanguy   Liliana,Panonacle   Sophie,1,1
+Tanguy   Liliana,David   Dominique,1,1
+Tanguy   Liliana,Maillart-Méhaignerie   Laurence,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Lauzzana   Michel,1,1
+Tanguy   Liliana,Girardin   Éric,1,1
+Tanguy   Liliana,Magnier   Lise,0,1
+Tanguy   Liliana,Cariou   Émilie,1,1
+Tanguy   Liliana,Zannier   Hélène,1,1
+Tanguy   Liliana,Paluszkiewicz   Xavier,1,1
+Tanguy   Liliana,Osson   Catherine,1,1
+Tanguy   Liliana,Cattelot   Anne-Laure,1,1
+Tanguy   Liliana,Goulet   Perrine,1,1
+Tanguy   Liliana,Mattei   Jean-Paul,0,1
+Tanguy   Liliana,Rubin   Sabine,1,1
+Tanguy   Liliana,Gouffier-Cha   Guillaume,1,1
+Tanguy   Liliana,Roseren   Xavier,1,1
+Tanguy   Liliana,Kuster   Brigitte,0,1
+Tanguy   Liliana,Verdier-Jouclas   Marie-Christine,1,1
+Tanguy   Liliana,Rossi   Laurianne,1,1
+Tanguy   Liliana,Bourlanges   Jean-Louis,0,1
+Tanguy   Liliana,Pouzyreff   Natalia,1,1
+Tanguy   Liliana,Millienne   Bruno,0,1
+Tanguy   Liliana,Rixain   Marie-Pierre,1,1
+Tanguy   Liliana,Thiébaut   Vincent,1,1
+Tanguy   Liliana,Dirx   Benjamin,1,1
+Tanguy   Liliana,de Courson   Charles,0,1
+Panonacle   Sophie,David   Dominique,1,1
+Panonacle   Sophie,Maillart-Méhaignerie   Laurence,1,1
+Panonacle   Sophie,Labaronne   Daniel,1,1
+Panonacle   Sophie,Lauzzana   Michel,1,1
+Panonacle   Sophie,Girardin   Éric,1,1
+Panonacle   Sophie,Magnier   Lise,0,1
+Panonacle   Sophie,Cariou   Émilie,1,1
+Panonacle   Sophie,Zannier   Hélène,1,1
+Panonacle   Sophie,Paluszkiewicz   Xavier,1,1
+Panonacle   Sophie,Osson   Catherine,1,1
+Panonacle   Sophie,Cattelot   Anne-Laure,1,1
+Panonacle   Sophie,Goulet   Perrine,1,1
+Panonacle   Sophie,Mattei   Jean-Paul,0,1
+Panonacle   Sophie,Rubin   Sabine,1,1
+Panonacle   Sophie,Gouffier-Cha   Guillaume,1,1
+Panonacle   Sophie,Roseren   Xavier,1,1
+Panonacle   Sophie,Kuster   Brigitte,0,1
+Panonacle   Sophie,Verdier-Jouclas   Marie-Christine,1,1
+Panonacle   Sophie,Rossi   Laurianne,1,1
+Panonacle   Sophie,Bourlanges   Jean-Louis,0,1
+Panonacle   Sophie,Pouzyreff   Natalia,1,1
+Panonacle   Sophie,Millienne   Bruno,0,1
+Panonacle   Sophie,Rixain   Marie-Pierre,1,1
+Panonacle   Sophie,Thiébaut   Vincent,1,1
+Panonacle   Sophie,Dirx   Benjamin,1,1
+Panonacle   Sophie,de Courson   Charles,0,1
+David   Dominique,Maillart-Méhaignerie   Laurence,1,1
+David   Dominique,Labaronne   Daniel,1,1
+David   Dominique,Lauzzana   Michel,1,1
+David   Dominique,Girardin   Éric,1,1
+David   Dominique,Magnier   Lise,0,1
+David   Dominique,Cariou   Émilie,1,1
+David   Dominique,Zannier   Hélène,1,1
+David   Dominique,Paluszkiewicz   Xavier,1,1
+David   Dominique,Osson   Catherine,1,1
+David   Dominique,Cattelot   Anne-Laure,1,1
+David   Dominique,Goulet   Perrine,1,1
+David   Dominique,Mattei   Jean-Paul,0,1
+David   Dominique,Rubin   Sabine,1,1
+David   Dominique,Gouffier-Cha   Guillaume,1,1
+David   Dominique,Roseren   Xavier,1,1
+David   Dominique,Kuster   Brigitte,0,1
+David   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+David   Dominique,Rossi   Laurianne,1,1
+David   Dominique,Bourlanges   Jean-Louis,0,1
+David   Dominique,Pouzyreff   Natalia,1,1
+David   Dominique,Millienne   Bruno,0,1
+David   Dominique,Rixain   Marie-Pierre,1,1
+David   Dominique,Thiébaut   Vincent,1,1
+David   Dominique,Dirx   Benjamin,1,1
+David   Dominique,de Courson   Charles,0,1
+Maillart-Méhaignerie   Laurence,Labaronne   Daniel,1,1
+Maillart-Méhaignerie   Laurence,Lauzzana   Michel,1,1
+Maillart-Méhaignerie   Laurence,Girardin   Éric,1,1
+Maillart-Méhaignerie   Laurence,Magnier   Lise,0,1
+Maillart-Méhaignerie   Laurence,Cariou   Émilie,1,1
+Maillart-Méhaignerie   Laurence,Zannier   Hélène,1,1
+Maillart-Méhaignerie   Laurence,Paluszkiewicz   Xavier,1,1
+Maillart-Méhaignerie   Laurence,Osson   Catherine,1,1
+Maillart-Méhaignerie   Laurence,Cattelot   Anne-Laure,1,1
+Maillart-Méhaignerie   Laurence,Goulet   Perrine,1,1
+Maillart-Méhaignerie   Laurence,Mattei   Jean-Paul,0,1
+Maillart-Méhaignerie   Laurence,Rubin   Sabine,1,1
+Maillart-Méhaignerie   Laurence,Gouffier-Cha   Guillaume,1,1
+Maillart-Méhaignerie   Laurence,Roseren   Xavier,1,1
+Maillart-Méhaignerie   Laurence,Kuster   Brigitte,0,1
+Maillart-Méhaignerie   Laurence,Verdier-Jouclas   Marie-Christine,1,1
+Maillart-Méhaignerie   Laurence,Rossi   Laurianne,1,1
+Maillart-Méhaignerie   Laurence,Bourlanges   Jean-Louis,0,1
+Maillart-Méhaignerie   Laurence,Pouzyreff   Natalia,1,1
+Maillart-Méhaignerie   Laurence,Millienne   Bruno,0,1
+Maillart-Méhaignerie   Laurence,Rixain   Marie-Pierre,1,1
+Maillart-Méhaignerie   Laurence,Thiébaut   Vincent,1,1
+Maillart-Méhaignerie   Laurence,Dirx   Benjamin,1,1
+Maillart-Méhaignerie   Laurence,de Courson   Charles,0,1
+Labaronne   Daniel,Lauzzana   Michel,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Magnier   Lise,0,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Paluszkiewicz   Xavier,1,1
+Labaronne   Daniel,Osson   Catherine,1,1
+Labaronne   Daniel,Cattelot   Anne-Laure,1,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Mattei   Jean-Paul,0,1
+Labaronne   Daniel,Rubin   Sabine,1,1
+Labaronne   Daniel,Gouffier-Cha   Guillaume,1,1
+Labaronne   Daniel,Roseren   Xavier,1,1
+Labaronne   Daniel,Kuster   Brigitte,0,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Rossi   Laurianne,1,1
+Labaronne   Daniel,Bourlanges   Jean-Louis,0,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,Millienne   Bruno,0,1
+Labaronne   Daniel,Rixain   Marie-Pierre,1,1
+Labaronne   Daniel,Thiébaut   Vincent,1,1
+Labaronne   Daniel,Dirx   Benjamin,1,1
+Labaronne   Daniel,de Courson   Charles,0,1
+Lauzzana   Michel,Girardin   Éric,1,1
+Lauzzana   Michel,Magnier   Lise,0,1
+Lauzzana   Michel,Cariou   Émilie,1,1
+Lauzzana   Michel,Zannier   Hélène,1,1
+Lauzzana   Michel,Paluszkiewicz   Xavier,1,1
+Lauzzana   Michel,Osson   Catherine,1,1
+Lauzzana   Michel,Cattelot   Anne-Laure,1,1
+Lauzzana   Michel,Goulet   Perrine,1,1
+Lauzzana   Michel,Mattei   Jean-Paul,0,1
+Lauzzana   Michel,Rubin   Sabine,1,1
+Lauzzana   Michel,Gouffier-Cha   Guillaume,1,1
+Lauzzana   Michel,Roseren   Xavier,1,1
+Lauzzana   Michel,Kuster   Brigitte,0,1
+Lauzzana   Michel,Verdier-Jouclas   Marie-Christine,1,1
+Lauzzana   Michel,Rossi   Laurianne,1,1
+Lauzzana   Michel,Bourlanges   Jean-Louis,0,1
+Lauzzana   Michel,Pouzyreff   Natalia,1,1
+Lauzzana   Michel,Millienne   Bruno,0,1
+Lauzzana   Michel,Rixain   Marie-Pierre,1,1
+Lauzzana   Michel,Thiébaut   Vincent,1,1
+Lauzzana   Michel,Dirx   Benjamin,1,1
+Lauzzana   Michel,de Courson   Charles,0,1
+Girardin   Éric,Magnier   Lise,0,1
+Girardin   Éric,Cariou   Émilie,1,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Paluszkiewicz   Xavier,1,1
+Girardin   Éric,Osson   Catherine,1,1
+Girardin   Éric,Cattelot   Anne-Laure,1,1
+Girardin   Éric,Goulet   Perrine,1,1
+Girardin   Éric,Mattei   Jean-Paul,0,1
+Girardin   Éric,Rubin   Sabine,1,1
+Girardin   Éric,Gouffier-Cha   Guillaume,1,1
+Girardin   Éric,Roseren   Xavier,1,1
+Girardin   Éric,Kuster   Brigitte,0,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Rossi   Laurianne,1,1
+Girardin   Éric,Bourlanges   Jean-Louis,0,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Millienne   Bruno,0,1
+Girardin   Éric,Rixain   Marie-Pierre,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Girardin   Éric,Dirx   Benjamin,1,1
+Girardin   Éric,de Courson   Charles,0,1
+Magnier   Lise,Cariou   Émilie,0,1
+Magnier   Lise,Zannier   Hélène,0,1
+Magnier   Lise,Paluszkiewicz   Xavier,0,1
+Magnier   Lise,Osson   Catherine,0,1
+Magnier   Lise,Cattelot   Anne-Laure,0,1
+Magnier   Lise,Goulet   Perrine,0,1
+Magnier   Lise,Mattei   Jean-Paul,1,1
+Magnier   Lise,Rubin   Sabine,0,1
+Magnier   Lise,Gouffier-Cha   Guillaume,0,1
+Magnier   Lise,Roseren   Xavier,0,1
+Magnier   Lise,Kuster   Brigitte,1,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,0,1
+Magnier   Lise,Rossi   Laurianne,0,1
+Magnier   Lise,Bourlanges   Jean-Louis,1,1
+Magnier   Lise,Pouzyreff   Natalia,0,1
+Magnier   Lise,Millienne   Bruno,1,1
+Magnier   Lise,Rixain   Marie-Pierre,0,1
+Magnier   Lise,Thiébaut   Vincent,0,1
+Magnier   Lise,Dirx   Benjamin,0,1
+Magnier   Lise,de Courson   Charles,1,1
+Cariou   Émilie,Zannier   Hélène,1,1
+Cariou   Émilie,Paluszkiewicz   Xavier,1,1
+Cariou   Émilie,Osson   Catherine,1,1
+Cariou   Émilie,Cattelot   Anne-Laure,1,1
+Cariou   Émilie,Goulet   Perrine,1,1
+Cariou   Émilie,Mattei   Jean-Paul,0,1
+Cariou   Émilie,Rubin   Sabine,1,1
+Cariou   Émilie,Gouffier-Cha   Guillaume,1,1
+Cariou   Émilie,Roseren   Xavier,1,1
+Cariou   Émilie,Kuster   Brigitte,0,1
+Cariou   Émilie,Verdier-Jouclas   Marie-Christine,1,1
+Cariou   Émilie,Rossi   Laurianne,1,1
+Cariou   Émilie,Bourlanges   Jean-Louis,0,1
+Cariou   Émilie,Pouzyreff   Natalia,1,1
+Cariou   Émilie,Millienne   Bruno,0,1
+Cariou   Émilie,Rixain   Marie-Pierre,1,1
+Cariou   Émilie,Thiébaut   Vincent,1,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Cariou   Émilie,de Courson   Charles,0,1
+Zannier   Hélène,Paluszkiewicz   Xavier,1,1
+Zannier   Hélène,Osson   Catherine,1,1
+Zannier   Hélène,Cattelot   Anne-Laure,1,1
+Zannier   Hélène,Goulet   Perrine,1,1
+Zannier   Hélène,Mattei   Jean-Paul,0,1
+Zannier   Hélène,Rubin   Sabine,1,1
+Zannier   Hélène,Gouffier-Cha   Guillaume,1,1
+Zannier   Hélène,Roseren   Xavier,1,1
+Zannier   Hélène,Kuster   Brigitte,0,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Rossi   Laurianne,1,1
+Zannier   Hélène,Bourlanges   Jean-Louis,0,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,Millienne   Bruno,0,1
+Zannier   Hélène,Rixain   Marie-Pierre,1,1
+Zannier   Hélène,Thiébaut   Vincent,1,1
+Zannier   Hélène,Dirx   Benjamin,1,1
+Zannier   Hélène,de Courson   Charles,0,1
+Paluszkiewicz   Xavier,Osson   Catherine,1,1
+Paluszkiewicz   Xavier,Cattelot   Anne-Laure,1,1
+Paluszkiewicz   Xavier,Goulet   Perrine,1,1
+Paluszkiewicz   Xavier,Mattei   Jean-Paul,0,1
+Paluszkiewicz   Xavier,Rubin   Sabine,1,1
+Paluszkiewicz   Xavier,Gouffier-Cha   Guillaume,1,1
+Paluszkiewicz   Xavier,Roseren   Xavier,1,1
+Paluszkiewicz   Xavier,Kuster   Brigitte,0,1
+Paluszkiewicz   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Paluszkiewicz   Xavier,Rossi   Laurianne,1,1
+Paluszkiewicz   Xavier,Bourlanges   Jean-Louis,0,1
+Paluszkiewicz   Xavier,Pouzyreff   Natalia,1,1
+Paluszkiewicz   Xavier,Millienne   Bruno,0,1
+Paluszkiewicz   Xavier,Rixain   Marie-Pierre,1,1
+Paluszkiewicz   Xavier,Thiébaut   Vincent,1,1
+Paluszkiewicz   Xavier,Dirx   Benjamin,1,1
+Paluszkiewicz   Xavier,de Courson   Charles,0,1
+Osson   Catherine,Cattelot   Anne-Laure,1,1
+Osson   Catherine,Goulet   Perrine,1,1
+Osson   Catherine,Mattei   Jean-Paul,0,1
+Osson   Catherine,Rubin   Sabine,1,1
+Osson   Catherine,Gouffier-Cha   Guillaume,1,1
+Osson   Catherine,Roseren   Xavier,1,1
+Osson   Catherine,Kuster   Brigitte,0,1
+Osson   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Osson   Catherine,Rossi   Laurianne,1,1
+Osson   Catherine,Bourlanges   Jean-Louis,0,1
+Osson   Catherine,Pouzyreff   Natalia,1,1
+Osson   Catherine,Millienne   Bruno,0,1
+Osson   Catherine,Rixain   Marie-Pierre,1,1
+Osson   Catherine,Thiébaut   Vincent,1,1
+Osson   Catherine,Dirx   Benjamin,1,1
+Osson   Catherine,de Courson   Charles,0,1
+Cattelot   Anne-Laure,Goulet   Perrine,1,1
+Cattelot   Anne-Laure,Mattei   Jean-Paul,0,1
+Cattelot   Anne-Laure,Rubin   Sabine,1,1
+Cattelot   Anne-Laure,Gouffier-Cha   Guillaume,1,1
+Cattelot   Anne-Laure,Roseren   Xavier,1,1
+Cattelot   Anne-Laure,Kuster   Brigitte,0,1
+Cattelot   Anne-Laure,Verdier-Jouclas   Marie-Christine,1,1
+Cattelot   Anne-Laure,Rossi   Laurianne,1,1
+Cattelot   Anne-Laure,Bourlanges   Jean-Louis,0,1
+Cattelot   Anne-Laure,Pouzyreff   Natalia,1,1
+Cattelot   Anne-Laure,Millienne   Bruno,0,1
+Cattelot   Anne-Laure,Rixain   Marie-Pierre,1,1
+Cattelot   Anne-Laure,Thiébaut   Vincent,1,1
+Cattelot   Anne-Laure,Dirx   Benjamin,1,1
+Cattelot   Anne-Laure,de Courson   Charles,0,1
+Goulet   Perrine,Mattei   Jean-Paul,0,1
+Goulet   Perrine,Rubin   Sabine,1,1
+Goulet   Perrine,Gouffier-Cha   Guillaume,1,1
+Goulet   Perrine,Roseren   Xavier,1,1
+Goulet   Perrine,Kuster   Brigitte,0,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Rossi   Laurianne,1,1
+Goulet   Perrine,Bourlanges   Jean-Louis,0,1
+Goulet   Perrine,Pouzyreff   Natalia,1,1
+Goulet   Perrine,Millienne   Bruno,0,1
+Goulet   Perrine,Rixain   Marie-Pierre,1,1
+Goulet   Perrine,Thiébaut   Vincent,1,1
+Goulet   Perrine,Dirx   Benjamin,1,1
+Goulet   Perrine,de Courson   Charles,0,1
+Mattei   Jean-Paul,Rubin   Sabine,0,1
+Mattei   Jean-Paul,Gouffier-Cha   Guillaume,0,1
+Mattei   Jean-Paul,Roseren   Xavier,0,1
+Mattei   Jean-Paul,Kuster   Brigitte,1,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Mattei   Jean-Paul,Rossi   Laurianne,0,1
+Mattei   Jean-Paul,Bourlanges   Jean-Louis,1,1
+Mattei   Jean-Paul,Pouzyreff   Natalia,0,1
+Mattei   Jean-Paul,Millienne   Bruno,1,1
+Mattei   Jean-Paul,Rixain   Marie-Pierre,0,1
+Mattei   Jean-Paul,Thiébaut   Vincent,0,1
+Mattei   Jean-Paul,Dirx   Benjamin,0,1
+Mattei   Jean-Paul,de Courson   Charles,1,1
+Rubin   Sabine,Gouffier-Cha   Guillaume,1,1
+Rubin   Sabine,Roseren   Xavier,1,1
+Rubin   Sabine,Kuster   Brigitte,0,1
+Rubin   Sabine,Verdier-Jouclas   Marie-Christine,1,1
+Rubin   Sabine,Rossi   Laurianne,1,1
+Rubin   Sabine,Bourlanges   Jean-Louis,0,1
+Rubin   Sabine,Pouzyreff   Natalia,1,1
+Rubin   Sabine,Millienne   Bruno,0,1
+Rubin   Sabine,Rixain   Marie-Pierre,1,1
+Rubin   Sabine,Thiébaut   Vincent,1,1
+Rubin   Sabine,Dirx   Benjamin,1,1
+Rubin   Sabine,de Courson   Charles,0,1
+Gouffier-Cha   Guillaume,Roseren   Xavier,1,1
+Gouffier-Cha   Guillaume,Kuster   Brigitte,0,1
+Gouffier-Cha   Guillaume,Verdier-Jouclas   Marie-Christine,1,1
+Gouffier-Cha   Guillaume,Rossi   Laurianne,1,1
+Gouffier-Cha   Guillaume,Bourlanges   Jean-Louis,0,1
+Gouffier-Cha   Guillaume,Pouzyreff   Natalia,1,1
+Gouffier-Cha   Guillaume,Millienne   Bruno,0,1
+Gouffier-Cha   Guillaume,Rixain   Marie-Pierre,1,1
+Gouffier-Cha   Guillaume,Thiébaut   Vincent,1,1
+Gouffier-Cha   Guillaume,Dirx   Benjamin,1,1
+Gouffier-Cha   Guillaume,de Courson   Charles,0,1
+Roseren   Xavier,Kuster   Brigitte,0,1
+Roseren   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Roseren   Xavier,Rossi   Laurianne,1,1
+Roseren   Xavier,Bourlanges   Jean-Louis,0,1
+Roseren   Xavier,Pouzyreff   Natalia,1,1
+Roseren   Xavier,Millienne   Bruno,0,1
+Roseren   Xavier,Rixain   Marie-Pierre,1,1
+Roseren   Xavier,Thiébaut   Vincent,1,1
+Roseren   Xavier,Dirx   Benjamin,1,1
+Roseren   Xavier,de Courson   Charles,0,1
+Kuster   Brigitte,Verdier-Jouclas   Marie-Christine,0,1
+Kuster   Brigitte,Rossi   Laurianne,0,1
+Kuster   Brigitte,Bourlanges   Jean-Louis,1,1
+Kuster   Brigitte,Pouzyreff   Natalia,0,1
+Kuster   Brigitte,Millienne   Bruno,1,1
+Kuster   Brigitte,Rixain   Marie-Pierre,0,1
+Kuster   Brigitte,Thiébaut   Vincent,0,1
+Kuster   Brigitte,Dirx   Benjamin,0,1
+Kuster   Brigitte,de Courson   Charles,1,1
+Verdier-Jouclas   Marie-Christine,Rossi   Laurianne,1,1
+Verdier-Jouclas   Marie-Christine,Bourlanges   Jean-Louis,0,1
+Verdier-Jouclas   Marie-Christine,Pouzyreff   Natalia,1,1
+Verdier-Jouclas   Marie-Christine,Millienne   Bruno,0,1
+Verdier-Jouclas   Marie-Christine,Rixain   Marie-Pierre,1,1
+Verdier-Jouclas   Marie-Christine,Thiébaut   Vincent,1,1
+Verdier-Jouclas   Marie-Christine,Dirx   Benjamin,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,0,1
+Rossi   Laurianne,Bourlanges   Jean-Louis,0,1
+Rossi   Laurianne,Pouzyreff   Natalia,1,1
+Rossi   Laurianne,Millienne   Bruno,0,1
+Rossi   Laurianne,Rixain   Marie-Pierre,1,1
+Rossi   Laurianne,Thiébaut   Vincent,1,1
+Rossi   Laurianne,Dirx   Benjamin,1,1
+Rossi   Laurianne,de Courson   Charles,0,1
+Bourlanges   Jean-Louis,Pouzyreff   Natalia,0,1
+Bourlanges   Jean-Louis,Millienne   Bruno,1,1
+Bourlanges   Jean-Louis,Rixain   Marie-Pierre,0,1
+Bourlanges   Jean-Louis,Thiébaut   Vincent,0,1
+Bourlanges   Jean-Louis,Dirx   Benjamin,0,1
+Bourlanges   Jean-Louis,de Courson   Charles,1,1
+Pouzyreff   Natalia,Millienne   Bruno,0,1
+Pouzyreff   Natalia,Rixain   Marie-Pierre,1,1
+Pouzyreff   Natalia,Thiébaut   Vincent,1,1
+Pouzyreff   Natalia,Dirx   Benjamin,1,1
+Pouzyreff   Natalia,de Courson   Charles,0,1
+Millienne   Bruno,Rixain   Marie-Pierre,0,1
+Millienne   Bruno,Thiébaut   Vincent,0,1
+Millienne   Bruno,Dirx   Benjamin,0,1
+Millienne   Bruno,de Courson   Charles,1,1
+Rixain   Marie-Pierre,Thiébaut   Vincent,1,1
+Rixain   Marie-Pierre,Dirx   Benjamin,1,1
+Rixain   Marie-Pierre,de Courson   Charles,0,1
+Thiébaut   Vincent,Dirx   Benjamin,1,1
+Thiébaut   Vincent,de Courson   Charles,0,1
+Dirx   Benjamin,de Courson   Charles,0,1

@@ -1,0 +1,277 @@
+from,to,vote_commun,loi_commun
+Vigier   Philippe,Dalloz   Marie-Christine,1,1
+Vigier   Philippe,Daniel   Yves,1,1
+Vigier   Philippe,Rabault   Valérie,1,1
+Vigier   Philippe,Thiériot   Jean-Louis,1,1
+Vigier   Philippe,Mahjoubi   Mounir,1,1
+Vigier   Philippe,Peyrol   Bénédicte,1,1
+Vigier   Philippe,Cordier   Pierre,1,1
+Vigier   Philippe,Le Vigoureux   Fabrice,1,1
+Vigier   Philippe,Jerretie   Christophe,1,1
+Vigier   Philippe,Melchior   Graziella,1,1
+Vigier   Philippe,Le Bohec   Gaël,1,1
+Vigier   Philippe,Motin   Cendra,1,1
+Vigier   Philippe,Magnier   Lise,1,1
+Vigier   Philippe,Paluszkiewicz   Xavier,1,1
+Vigier   Philippe,Bernalicis   Ugo,1,1
+Vigier   Philippe,Osson   Catherine,1,1
+Vigier   Philippe,Cattelot   Anne-Laure,1,1
+Vigier   Philippe,Goulet   Perrine,1,1
+Vigier   Philippe,Potterie   Benoit,1,1
+Vigier   Philippe,Mattei   Jean-Paul,1,1
+Vigier   Philippe,Lenne   Marion,1,1
+Vigier   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Vigier   Philippe,Jumel   Sébastien,1,1
+Dalloz   Marie-Christine,Daniel   Yves,1,1
+Dalloz   Marie-Christine,Rabault   Valérie,1,1
+Dalloz   Marie-Christine,Thiériot   Jean-Louis,1,1
+Dalloz   Marie-Christine,Mahjoubi   Mounir,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Cordier   Pierre,1,1
+Dalloz   Marie-Christine,Le Vigoureux   Fabrice,1,1
+Dalloz   Marie-Christine,Jerretie   Christophe,1,1
+Dalloz   Marie-Christine,Melchior   Graziella,1,1
+Dalloz   Marie-Christine,Le Bohec   Gaël,1,1
+Dalloz   Marie-Christine,Motin   Cendra,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Paluszkiewicz   Xavier,1,1
+Dalloz   Marie-Christine,Bernalicis   Ugo,1,1
+Dalloz   Marie-Christine,Osson   Catherine,1,1
+Dalloz   Marie-Christine,Cattelot   Anne-Laure,1,1
+Dalloz   Marie-Christine,Goulet   Perrine,1,1
+Dalloz   Marie-Christine,Potterie   Benoit,1,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,1,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Dalloz   Marie-Christine,Jumel   Sébastien,1,1
+Daniel   Yves,Rabault   Valérie,1,1
+Daniel   Yves,Thiériot   Jean-Louis,1,1
+Daniel   Yves,Mahjoubi   Mounir,1,1
+Daniel   Yves,Peyrol   Bénédicte,1,1
+Daniel   Yves,Cordier   Pierre,1,1
+Daniel   Yves,Le Vigoureux   Fabrice,1,1
+Daniel   Yves,Jerretie   Christophe,1,1
+Daniel   Yves,Melchior   Graziella,1,1
+Daniel   Yves,Le Bohec   Gaël,1,1
+Daniel   Yves,Motin   Cendra,1,1
+Daniel   Yves,Magnier   Lise,1,1
+Daniel   Yves,Paluszkiewicz   Xavier,1,1
+Daniel   Yves,Bernalicis   Ugo,1,1
+Daniel   Yves,Osson   Catherine,1,1
+Daniel   Yves,Cattelot   Anne-Laure,1,1
+Daniel   Yves,Goulet   Perrine,1,1
+Daniel   Yves,Potterie   Benoit,1,1
+Daniel   Yves,Mattei   Jean-Paul,1,1
+Daniel   Yves,Lenne   Marion,1,1
+Daniel   Yves,Verdier-Jouclas   Marie-Christine,1,1
+Daniel   Yves,Jumel   Sébastien,1,1
+Rabault   Valérie,Thiériot   Jean-Louis,1,1
+Rabault   Valérie,Mahjoubi   Mounir,1,1
+Rabault   Valérie,Peyrol   Bénédicte,1,1
+Rabault   Valérie,Cordier   Pierre,1,1
+Rabault   Valérie,Le Vigoureux   Fabrice,1,1
+Rabault   Valérie,Jerretie   Christophe,1,1
+Rabault   Valérie,Melchior   Graziella,1,1
+Rabault   Valérie,Le Bohec   Gaël,1,1
+Rabault   Valérie,Motin   Cendra,1,1
+Rabault   Valérie,Magnier   Lise,1,1
+Rabault   Valérie,Paluszkiewicz   Xavier,1,1
+Rabault   Valérie,Bernalicis   Ugo,1,1
+Rabault   Valérie,Osson   Catherine,1,1
+Rabault   Valérie,Cattelot   Anne-Laure,1,1
+Rabault   Valérie,Goulet   Perrine,1,1
+Rabault   Valérie,Potterie   Benoit,1,1
+Rabault   Valérie,Mattei   Jean-Paul,1,1
+Rabault   Valérie,Lenne   Marion,1,1
+Rabault   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Rabault   Valérie,Jumel   Sébastien,1,1
+Thiériot   Jean-Louis,Mahjoubi   Mounir,1,1
+Thiériot   Jean-Louis,Peyrol   Bénédicte,1,1
+Thiériot   Jean-Louis,Cordier   Pierre,1,1
+Thiériot   Jean-Louis,Le Vigoureux   Fabrice,1,1
+Thiériot   Jean-Louis,Jerretie   Christophe,1,1
+Thiériot   Jean-Louis,Melchior   Graziella,1,1
+Thiériot   Jean-Louis,Le Bohec   Gaël,1,1
+Thiériot   Jean-Louis,Motin   Cendra,1,1
+Thiériot   Jean-Louis,Magnier   Lise,1,1
+Thiériot   Jean-Louis,Paluszkiewicz   Xavier,1,1
+Thiériot   Jean-Louis,Bernalicis   Ugo,1,1
+Thiériot   Jean-Louis,Osson   Catherine,1,1
+Thiériot   Jean-Louis,Cattelot   Anne-Laure,1,1
+Thiériot   Jean-Louis,Goulet   Perrine,1,1
+Thiériot   Jean-Louis,Potterie   Benoit,1,1
+Thiériot   Jean-Louis,Mattei   Jean-Paul,1,1
+Thiériot   Jean-Louis,Lenne   Marion,1,1
+Thiériot   Jean-Louis,Verdier-Jouclas   Marie-Christine,1,1
+Thiériot   Jean-Louis,Jumel   Sébastien,1,1
+Mahjoubi   Mounir,Peyrol   Bénédicte,1,1
+Mahjoubi   Mounir,Cordier   Pierre,1,1
+Mahjoubi   Mounir,Le Vigoureux   Fabrice,1,1
+Mahjoubi   Mounir,Jerretie   Christophe,1,1
+Mahjoubi   Mounir,Melchior   Graziella,1,1
+Mahjoubi   Mounir,Le Bohec   Gaël,1,1
+Mahjoubi   Mounir,Motin   Cendra,1,1
+Mahjoubi   Mounir,Magnier   Lise,1,1
+Mahjoubi   Mounir,Paluszkiewicz   Xavier,1,1
+Mahjoubi   Mounir,Bernalicis   Ugo,1,1
+Mahjoubi   Mounir,Osson   Catherine,1,1
+Mahjoubi   Mounir,Cattelot   Anne-Laure,1,1
+Mahjoubi   Mounir,Goulet   Perrine,1,1
+Mahjoubi   Mounir,Potterie   Benoit,1,1
+Mahjoubi   Mounir,Mattei   Jean-Paul,1,1
+Mahjoubi   Mounir,Lenne   Marion,1,1
+Mahjoubi   Mounir,Verdier-Jouclas   Marie-Christine,1,1
+Mahjoubi   Mounir,Jumel   Sébastien,1,1
+Peyrol   Bénédicte,Cordier   Pierre,1,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,Melchior   Graziella,1,1
+Peyrol   Bénédicte,Le Bohec   Gaël,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Paluszkiewicz   Xavier,1,1
+Peyrol   Bénédicte,Bernalicis   Ugo,1,1
+Peyrol   Bénédicte,Osson   Catherine,1,1
+Peyrol   Bénédicte,Cattelot   Anne-Laure,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Potterie   Benoit,1,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,1,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Jumel   Sébastien,1,1
+Cordier   Pierre,Le Vigoureux   Fabrice,1,1
+Cordier   Pierre,Jerretie   Christophe,1,1
+Cordier   Pierre,Melchior   Graziella,1,1
+Cordier   Pierre,Le Bohec   Gaël,1,1
+Cordier   Pierre,Motin   Cendra,1,1
+Cordier   Pierre,Magnier   Lise,1,1
+Cordier   Pierre,Paluszkiewicz   Xavier,1,1
+Cordier   Pierre,Bernalicis   Ugo,1,1
+Cordier   Pierre,Osson   Catherine,1,1
+Cordier   Pierre,Cattelot   Anne-Laure,1,1
+Cordier   Pierre,Goulet   Perrine,1,1
+Cordier   Pierre,Potterie   Benoit,1,1
+Cordier   Pierre,Mattei   Jean-Paul,1,1
+Cordier   Pierre,Lenne   Marion,1,1
+Cordier   Pierre,Verdier-Jouclas   Marie-Christine,1,1
+Cordier   Pierre,Jumel   Sébastien,1,1
+Le Vigoureux   Fabrice,Jerretie   Christophe,1,1
+Le Vigoureux   Fabrice,Melchior   Graziella,1,1
+Le Vigoureux   Fabrice,Le Bohec   Gaël,1,1
+Le Vigoureux   Fabrice,Motin   Cendra,1,1
+Le Vigoureux   Fabrice,Magnier   Lise,1,1
+Le Vigoureux   Fabrice,Paluszkiewicz   Xavier,1,1
+Le Vigoureux   Fabrice,Bernalicis   Ugo,1,1
+Le Vigoureux   Fabrice,Osson   Catherine,1,1
+Le Vigoureux   Fabrice,Cattelot   Anne-Laure,1,1
+Le Vigoureux   Fabrice,Goulet   Perrine,1,1
+Le Vigoureux   Fabrice,Potterie   Benoit,1,1
+Le Vigoureux   Fabrice,Mattei   Jean-Paul,1,1
+Le Vigoureux   Fabrice,Lenne   Marion,1,1
+Le Vigoureux   Fabrice,Verdier-Jouclas   Marie-Christine,1,1
+Le Vigoureux   Fabrice,Jumel   Sébastien,1,1
+Jerretie   Christophe,Melchior   Graziella,1,1
+Jerretie   Christophe,Le Bohec   Gaël,1,1
+Jerretie   Christophe,Motin   Cendra,1,1
+Jerretie   Christophe,Magnier   Lise,1,1
+Jerretie   Christophe,Paluszkiewicz   Xavier,1,1
+Jerretie   Christophe,Bernalicis   Ugo,1,1
+Jerretie   Christophe,Osson   Catherine,1,1
+Jerretie   Christophe,Cattelot   Anne-Laure,1,1
+Jerretie   Christophe,Goulet   Perrine,1,1
+Jerretie   Christophe,Potterie   Benoit,1,1
+Jerretie   Christophe,Mattei   Jean-Paul,1,1
+Jerretie   Christophe,Lenne   Marion,1,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Jumel   Sébastien,1,1
+Melchior   Graziella,Le Bohec   Gaël,1,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Magnier   Lise,1,1
+Melchior   Graziella,Paluszkiewicz   Xavier,1,1
+Melchior   Graziella,Bernalicis   Ugo,1,1
+Melchior   Graziella,Osson   Catherine,1,1
+Melchior   Graziella,Cattelot   Anne-Laure,1,1
+Melchior   Graziella,Goulet   Perrine,1,1
+Melchior   Graziella,Potterie   Benoit,1,1
+Melchior   Graziella,Mattei   Jean-Paul,1,1
+Melchior   Graziella,Lenne   Marion,1,1
+Melchior   Graziella,Verdier-Jouclas   Marie-Christine,1,1
+Melchior   Graziella,Jumel   Sébastien,1,1
+Le Bohec   Gaël,Motin   Cendra,1,1
+Le Bohec   Gaël,Magnier   Lise,1,1
+Le Bohec   Gaël,Paluszkiewicz   Xavier,1,1
+Le Bohec   Gaël,Bernalicis   Ugo,1,1
+Le Bohec   Gaël,Osson   Catherine,1,1
+Le Bohec   Gaël,Cattelot   Anne-Laure,1,1
+Le Bohec   Gaël,Goulet   Perrine,1,1
+Le Bohec   Gaël,Potterie   Benoit,1,1
+Le Bohec   Gaël,Mattei   Jean-Paul,1,1
+Le Bohec   Gaël,Lenne   Marion,1,1
+Le Bohec   Gaël,Verdier-Jouclas   Marie-Christine,1,1
+Le Bohec   Gaël,Jumel   Sébastien,1,1
+Motin   Cendra,Magnier   Lise,1,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Bernalicis   Ugo,1,1
+Motin   Cendra,Osson   Catherine,1,1
+Motin   Cendra,Cattelot   Anne-Laure,1,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Potterie   Benoit,1,1
+Motin   Cendra,Mattei   Jean-Paul,1,1
+Motin   Cendra,Lenne   Marion,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Jumel   Sébastien,1,1
+Magnier   Lise,Paluszkiewicz   Xavier,1,1
+Magnier   Lise,Bernalicis   Ugo,1,1
+Magnier   Lise,Osson   Catherine,1,1
+Magnier   Lise,Cattelot   Anne-Laure,1,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Potterie   Benoit,1,1
+Magnier   Lise,Mattei   Jean-Paul,1,1
+Magnier   Lise,Lenne   Marion,1,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,1,1
+Magnier   Lise,Jumel   Sébastien,1,1
+Paluszkiewicz   Xavier,Bernalicis   Ugo,1,1
+Paluszkiewicz   Xavier,Osson   Catherine,1,1
+Paluszkiewicz   Xavier,Cattelot   Anne-Laure,1,1
+Paluszkiewicz   Xavier,Goulet   Perrine,1,1
+Paluszkiewicz   Xavier,Potterie   Benoit,1,1
+Paluszkiewicz   Xavier,Mattei   Jean-Paul,1,1
+Paluszkiewicz   Xavier,Lenne   Marion,1,1
+Paluszkiewicz   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Paluszkiewicz   Xavier,Jumel   Sébastien,1,1
+Bernalicis   Ugo,Osson   Catherine,1,1
+Bernalicis   Ugo,Cattelot   Anne-Laure,1,1
+Bernalicis   Ugo,Goulet   Perrine,1,1
+Bernalicis   Ugo,Potterie   Benoit,1,1
+Bernalicis   Ugo,Mattei   Jean-Paul,1,1
+Bernalicis   Ugo,Lenne   Marion,1,1
+Bernalicis   Ugo,Verdier-Jouclas   Marie-Christine,1,1
+Bernalicis   Ugo,Jumel   Sébastien,1,1
+Osson   Catherine,Cattelot   Anne-Laure,1,1
+Osson   Catherine,Goulet   Perrine,1,1
+Osson   Catherine,Potterie   Benoit,1,1
+Osson   Catherine,Mattei   Jean-Paul,1,1
+Osson   Catherine,Lenne   Marion,1,1
+Osson   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Osson   Catherine,Jumel   Sébastien,1,1
+Cattelot   Anne-Laure,Goulet   Perrine,1,1
+Cattelot   Anne-Laure,Potterie   Benoit,1,1
+Cattelot   Anne-Laure,Mattei   Jean-Paul,1,1
+Cattelot   Anne-Laure,Lenne   Marion,1,1
+Cattelot   Anne-Laure,Verdier-Jouclas   Marie-Christine,1,1
+Cattelot   Anne-Laure,Jumel   Sébastien,1,1
+Goulet   Perrine,Potterie   Benoit,1,1
+Goulet   Perrine,Mattei   Jean-Paul,1,1
+Goulet   Perrine,Lenne   Marion,1,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Jumel   Sébastien,1,1
+Potterie   Benoit,Mattei   Jean-Paul,1,1
+Potterie   Benoit,Lenne   Marion,1,1
+Potterie   Benoit,Verdier-Jouclas   Marie-Christine,1,1
+Potterie   Benoit,Jumel   Sébastien,1,1
+Mattei   Jean-Paul,Lenne   Marion,1,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Mattei   Jean-Paul,Jumel   Sébastien,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Jumel   Sébastien,1,1
+Verdier-Jouclas   Marie-Christine,Jumel   Sébastien,1,1

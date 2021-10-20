@@ -1,0 +1,1486 @@
+from,to,vote_commun,loi_commun
+Gosselin   Philippe,Huyghe   Sébastien,1,1
+Gosselin   Philippe,Breton   Xavier,1,1
+Gosselin   Philippe,Ciotti   Éric,1,1
+Gosselin   Philippe,Lecoq   Jean-Paul,1,1
+Gosselin   Philippe,Le Grip   Constance,1,1
+Gosselin   Philippe,Untermaier   Cécile,1,1
+Gosselin   Philippe,Dupont   Stella,0,1
+Gosselin   Philippe,Mazars   Stéphane,0,1
+Gosselin   Philippe,Brenier   Marine,1,1
+Gosselin   Philippe,Delatte   Marc,0,1
+Gosselin   Philippe,Dufrègne   Jean-Paul,1,1
+Gosselin   Philippe,Valetta Ardisson   Alexandra,1,1
+Gosselin   Philippe,Pauget   Éric,1,1
+Gosselin   Philippe,Dombreval   Loïc,1,1
+Gosselin   Philippe,Dharréville   Pierre,1,1
+Gosselin   Philippe,Paris   Didier,0,1
+Gosselin   Philippe,Clapot   Mireille,0,1
+Gosselin   Philippe,Cazeneuve   Jean-René,0,1
+Gosselin   Philippe,Dubost   Coralie,0,1
+Gosselin   Philippe,David   Dominique,0,1
+Gosselin   Philippe,Chalas   Émilie,0,1
+Gosselin   Philippe,Borowczyk   Julien,0,1
+Gosselin   Philippe,Kamowski   Catherine,0,1
+Gosselin   Philippe,Pradié   Aurélien,1,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,0,1
+Gosselin   Philippe,Kuric   Aina,1,1
+Gosselin   Philippe,Bernalicis   Ugo,1,1
+Gosselin   Philippe,Houbron   Dimitri,0,1
+Gosselin   Philippe,Goulet   Perrine,0,1
+Gosselin   Philippe,Dumont   Pierre-Henri,1,1
+Gosselin   Philippe,Michels   Thierry,0,1
+Gosselin   Philippe,Bru   Vincent,0,1
+Gosselin   Philippe,Moutchou   Naïma,0,1
+Gosselin   Philippe,Lazaar   Fiona,0,1
+Gosselin   Philippe,Lakrafi   Amélia,0,1
+Gosselin   Philippe,Genetet   Anne,0,1
+Gosselin   Philippe,Forteza   Paula,0,1
+Gosselin   Philippe,Peu   Stéphane,1,1
+Gosselin   Philippe,Riotton   Véronique,0,1
+Gosselin   Philippe,Le Gendre   Gilles,0,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Rossi   Laurianne,0,1
+Gosselin   Philippe,Rupin   Pacôme,0,1
+Gosselin   Philippe,Avia   Laetitia,0,1
+Gosselin   Philippe,Michel-Kleisbauer   Philippe,1,1
+Gosselin   Philippe,Baichère   Didier,0,1
+Gosselin   Philippe,Piron   Béatrice,0,1
+Gosselin   Philippe,Braun-Pivet   Yaël,0,1
+Gosselin   Philippe,de Vaucouleurs   Michèle,0,1
+Gosselin   Philippe,Leguille-Balloy   Martine,0,1
+Gosselin   Philippe,Houlié   Sacha,0,1
+Gosselin   Philippe,Provendier   Florence,0,1
+Gosselin   Philippe,Rebeyrotte   Rémy,0,1
+Gosselin   Philippe,Savignat   Antoine,1,1
+Huyghe   Sébastien,Breton   Xavier,1,1
+Huyghe   Sébastien,Ciotti   Éric,1,1
+Huyghe   Sébastien,Lecoq   Jean-Paul,1,1
+Huyghe   Sébastien,Le Grip   Constance,1,1
+Huyghe   Sébastien,Untermaier   Cécile,1,1
+Huyghe   Sébastien,Dupont   Stella,0,1
+Huyghe   Sébastien,Mazars   Stéphane,0,1
+Huyghe   Sébastien,Brenier   Marine,1,1
+Huyghe   Sébastien,Delatte   Marc,0,1
+Huyghe   Sébastien,Dufrègne   Jean-Paul,1,1
+Huyghe   Sébastien,Valetta Ardisson   Alexandra,1,1
+Huyghe   Sébastien,Pauget   Éric,1,1
+Huyghe   Sébastien,Dombreval   Loïc,1,1
+Huyghe   Sébastien,Dharréville   Pierre,1,1
+Huyghe   Sébastien,Paris   Didier,0,1
+Huyghe   Sébastien,Clapot   Mireille,0,1
+Huyghe   Sébastien,Cazeneuve   Jean-René,0,1
+Huyghe   Sébastien,Dubost   Coralie,0,1
+Huyghe   Sébastien,David   Dominique,0,1
+Huyghe   Sébastien,Chalas   Émilie,0,1
+Huyghe   Sébastien,Borowczyk   Julien,0,1
+Huyghe   Sébastien,Kamowski   Catherine,0,1
+Huyghe   Sébastien,Pradié   Aurélien,1,1
+Huyghe   Sébastien,Dubré-Chirat   Nicole,0,1
+Huyghe   Sébastien,Kuric   Aina,1,1
+Huyghe   Sébastien,Bernalicis   Ugo,1,1
+Huyghe   Sébastien,Houbron   Dimitri,0,1
+Huyghe   Sébastien,Goulet   Perrine,0,1
+Huyghe   Sébastien,Dumont   Pierre-Henri,1,1
+Huyghe   Sébastien,Michels   Thierry,0,1
+Huyghe   Sébastien,Bru   Vincent,0,1
+Huyghe   Sébastien,Moutchou   Naïma,0,1
+Huyghe   Sébastien,Lazaar   Fiona,0,1
+Huyghe   Sébastien,Lakrafi   Amélia,0,1
+Huyghe   Sébastien,Genetet   Anne,0,1
+Huyghe   Sébastien,Forteza   Paula,0,1
+Huyghe   Sébastien,Peu   Stéphane,1,1
+Huyghe   Sébastien,Riotton   Véronique,0,1
+Huyghe   Sébastien,Le Gendre   Gilles,0,1
+Huyghe   Sébastien,Terlier   Jean,0,1
+Huyghe   Sébastien,Rossi   Laurianne,0,1
+Huyghe   Sébastien,Rupin   Pacôme,0,1
+Huyghe   Sébastien,Avia   Laetitia,0,1
+Huyghe   Sébastien,Michel-Kleisbauer   Philippe,1,1
+Huyghe   Sébastien,Baichère   Didier,0,1
+Huyghe   Sébastien,Piron   Béatrice,0,1
+Huyghe   Sébastien,Braun-Pivet   Yaël,0,1
+Huyghe   Sébastien,de Vaucouleurs   Michèle,0,1
+Huyghe   Sébastien,Leguille-Balloy   Martine,0,1
+Huyghe   Sébastien,Houlié   Sacha,0,1
+Huyghe   Sébastien,Provendier   Florence,0,1
+Huyghe   Sébastien,Rebeyrotte   Rémy,0,1
+Huyghe   Sébastien,Savignat   Antoine,1,1
+Breton   Xavier,Ciotti   Éric,1,1
+Breton   Xavier,Lecoq   Jean-Paul,1,1
+Breton   Xavier,Le Grip   Constance,1,1
+Breton   Xavier,Untermaier   Cécile,1,1
+Breton   Xavier,Dupont   Stella,0,1
+Breton   Xavier,Mazars   Stéphane,0,1
+Breton   Xavier,Brenier   Marine,1,1
+Breton   Xavier,Delatte   Marc,0,1
+Breton   Xavier,Dufrègne   Jean-Paul,1,1
+Breton   Xavier,Valetta Ardisson   Alexandra,1,1
+Breton   Xavier,Pauget   Éric,1,1
+Breton   Xavier,Dombreval   Loïc,1,1
+Breton   Xavier,Dharréville   Pierre,1,1
+Breton   Xavier,Paris   Didier,0,1
+Breton   Xavier,Clapot   Mireille,0,1
+Breton   Xavier,Cazeneuve   Jean-René,0,1
+Breton   Xavier,Dubost   Coralie,0,1
+Breton   Xavier,David   Dominique,0,1
+Breton   Xavier,Chalas   Émilie,0,1
+Breton   Xavier,Borowczyk   Julien,0,1
+Breton   Xavier,Kamowski   Catherine,0,1
+Breton   Xavier,Pradié   Aurélien,1,1
+Breton   Xavier,Dubré-Chirat   Nicole,0,1
+Breton   Xavier,Kuric   Aina,1,1
+Breton   Xavier,Bernalicis   Ugo,1,1
+Breton   Xavier,Houbron   Dimitri,0,1
+Breton   Xavier,Goulet   Perrine,0,1
+Breton   Xavier,Dumont   Pierre-Henri,1,1
+Breton   Xavier,Michels   Thierry,0,1
+Breton   Xavier,Bru   Vincent,0,1
+Breton   Xavier,Moutchou   Naïma,0,1
+Breton   Xavier,Lazaar   Fiona,0,1
+Breton   Xavier,Lakrafi   Amélia,0,1
+Breton   Xavier,Genetet   Anne,0,1
+Breton   Xavier,Forteza   Paula,0,1
+Breton   Xavier,Peu   Stéphane,1,1
+Breton   Xavier,Riotton   Véronique,0,1
+Breton   Xavier,Le Gendre   Gilles,0,1
+Breton   Xavier,Terlier   Jean,0,1
+Breton   Xavier,Rossi   Laurianne,0,1
+Breton   Xavier,Rupin   Pacôme,0,1
+Breton   Xavier,Avia   Laetitia,0,1
+Breton   Xavier,Michel-Kleisbauer   Philippe,1,1
+Breton   Xavier,Baichère   Didier,0,1
+Breton   Xavier,Piron   Béatrice,0,1
+Breton   Xavier,Braun-Pivet   Yaël,0,1
+Breton   Xavier,de Vaucouleurs   Michèle,0,1
+Breton   Xavier,Leguille-Balloy   Martine,0,1
+Breton   Xavier,Houlié   Sacha,0,1
+Breton   Xavier,Provendier   Florence,0,1
+Breton   Xavier,Rebeyrotte   Rémy,0,1
+Breton   Xavier,Savignat   Antoine,1,1
+Ciotti   Éric,Lecoq   Jean-Paul,1,1
+Ciotti   Éric,Le Grip   Constance,1,1
+Ciotti   Éric,Untermaier   Cécile,1,1
+Ciotti   Éric,Dupont   Stella,0,1
+Ciotti   Éric,Mazars   Stéphane,0,1
+Ciotti   Éric,Brenier   Marine,1,1
+Ciotti   Éric,Delatte   Marc,0,1
+Ciotti   Éric,Dufrègne   Jean-Paul,1,1
+Ciotti   Éric,Valetta Ardisson   Alexandra,1,1
+Ciotti   Éric,Pauget   Éric,1,1
+Ciotti   Éric,Dombreval   Loïc,1,1
+Ciotti   Éric,Dharréville   Pierre,1,1
+Ciotti   Éric,Paris   Didier,0,1
+Ciotti   Éric,Clapot   Mireille,0,1
+Ciotti   Éric,Cazeneuve   Jean-René,0,1
+Ciotti   Éric,Dubost   Coralie,0,1
+Ciotti   Éric,David   Dominique,0,1
+Ciotti   Éric,Chalas   Émilie,0,1
+Ciotti   Éric,Borowczyk   Julien,0,1
+Ciotti   Éric,Kamowski   Catherine,0,1
+Ciotti   Éric,Pradié   Aurélien,1,1
+Ciotti   Éric,Dubré-Chirat   Nicole,0,1
+Ciotti   Éric,Kuric   Aina,1,1
+Ciotti   Éric,Bernalicis   Ugo,1,1
+Ciotti   Éric,Houbron   Dimitri,0,1
+Ciotti   Éric,Goulet   Perrine,0,1
+Ciotti   Éric,Dumont   Pierre-Henri,1,1
+Ciotti   Éric,Michels   Thierry,0,1
+Ciotti   Éric,Bru   Vincent,0,1
+Ciotti   Éric,Moutchou   Naïma,0,1
+Ciotti   Éric,Lazaar   Fiona,0,1
+Ciotti   Éric,Lakrafi   Amélia,0,1
+Ciotti   Éric,Genetet   Anne,0,1
+Ciotti   Éric,Forteza   Paula,0,1
+Ciotti   Éric,Peu   Stéphane,1,1
+Ciotti   Éric,Riotton   Véronique,0,1
+Ciotti   Éric,Le Gendre   Gilles,0,1
+Ciotti   Éric,Terlier   Jean,0,1
+Ciotti   Éric,Rossi   Laurianne,0,1
+Ciotti   Éric,Rupin   Pacôme,0,1
+Ciotti   Éric,Avia   Laetitia,0,1
+Ciotti   Éric,Michel-Kleisbauer   Philippe,1,1
+Ciotti   Éric,Baichère   Didier,0,1
+Ciotti   Éric,Piron   Béatrice,0,1
+Ciotti   Éric,Braun-Pivet   Yaël,0,1
+Ciotti   Éric,de Vaucouleurs   Michèle,0,1
+Ciotti   Éric,Leguille-Balloy   Martine,0,1
+Ciotti   Éric,Houlié   Sacha,0,1
+Ciotti   Éric,Provendier   Florence,0,1
+Ciotti   Éric,Rebeyrotte   Rémy,0,1
+Ciotti   Éric,Savignat   Antoine,1,1
+Lecoq   Jean-Paul,Le Grip   Constance,1,1
+Lecoq   Jean-Paul,Untermaier   Cécile,1,1
+Lecoq   Jean-Paul,Dupont   Stella,0,1
+Lecoq   Jean-Paul,Mazars   Stéphane,0,1
+Lecoq   Jean-Paul,Brenier   Marine,1,1
+Lecoq   Jean-Paul,Delatte   Marc,0,1
+Lecoq   Jean-Paul,Dufrègne   Jean-Paul,1,1
+Lecoq   Jean-Paul,Valetta Ardisson   Alexandra,1,1
+Lecoq   Jean-Paul,Pauget   Éric,1,1
+Lecoq   Jean-Paul,Dombreval   Loïc,1,1
+Lecoq   Jean-Paul,Dharréville   Pierre,1,1
+Lecoq   Jean-Paul,Paris   Didier,0,1
+Lecoq   Jean-Paul,Clapot   Mireille,0,1
+Lecoq   Jean-Paul,Cazeneuve   Jean-René,0,1
+Lecoq   Jean-Paul,Dubost   Coralie,0,1
+Lecoq   Jean-Paul,David   Dominique,0,1
+Lecoq   Jean-Paul,Chalas   Émilie,0,1
+Lecoq   Jean-Paul,Borowczyk   Julien,0,1
+Lecoq   Jean-Paul,Kamowski   Catherine,0,1
+Lecoq   Jean-Paul,Pradié   Aurélien,1,1
+Lecoq   Jean-Paul,Dubré-Chirat   Nicole,0,1
+Lecoq   Jean-Paul,Kuric   Aina,1,1
+Lecoq   Jean-Paul,Bernalicis   Ugo,1,1
+Lecoq   Jean-Paul,Houbron   Dimitri,0,1
+Lecoq   Jean-Paul,Goulet   Perrine,0,1
+Lecoq   Jean-Paul,Dumont   Pierre-Henri,1,1
+Lecoq   Jean-Paul,Michels   Thierry,0,1
+Lecoq   Jean-Paul,Bru   Vincent,0,1
+Lecoq   Jean-Paul,Moutchou   Naïma,0,1
+Lecoq   Jean-Paul,Lazaar   Fiona,0,1
+Lecoq   Jean-Paul,Lakrafi   Amélia,0,1
+Lecoq   Jean-Paul,Genetet   Anne,0,1
+Lecoq   Jean-Paul,Forteza   Paula,0,1
+Lecoq   Jean-Paul,Peu   Stéphane,1,1
+Lecoq   Jean-Paul,Riotton   Véronique,0,1
+Lecoq   Jean-Paul,Le Gendre   Gilles,0,1
+Lecoq   Jean-Paul,Terlier   Jean,0,1
+Lecoq   Jean-Paul,Rossi   Laurianne,0,1
+Lecoq   Jean-Paul,Rupin   Pacôme,0,1
+Lecoq   Jean-Paul,Avia   Laetitia,0,1
+Lecoq   Jean-Paul,Michel-Kleisbauer   Philippe,1,1
+Lecoq   Jean-Paul,Baichère   Didier,0,1
+Lecoq   Jean-Paul,Piron   Béatrice,0,1
+Lecoq   Jean-Paul,Braun-Pivet   Yaël,0,1
+Lecoq   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Lecoq   Jean-Paul,Leguille-Balloy   Martine,0,1
+Lecoq   Jean-Paul,Houlié   Sacha,0,1
+Lecoq   Jean-Paul,Provendier   Florence,0,1
+Lecoq   Jean-Paul,Rebeyrotte   Rémy,0,1
+Lecoq   Jean-Paul,Savignat   Antoine,1,1
+Le Grip   Constance,Untermaier   Cécile,1,1
+Le Grip   Constance,Dupont   Stella,0,1
+Le Grip   Constance,Mazars   Stéphane,0,1
+Le Grip   Constance,Brenier   Marine,1,1
+Le Grip   Constance,Delatte   Marc,0,1
+Le Grip   Constance,Dufrègne   Jean-Paul,1,1
+Le Grip   Constance,Valetta Ardisson   Alexandra,1,1
+Le Grip   Constance,Pauget   Éric,1,1
+Le Grip   Constance,Dombreval   Loïc,1,1
+Le Grip   Constance,Dharréville   Pierre,1,1
+Le Grip   Constance,Paris   Didier,0,1
+Le Grip   Constance,Clapot   Mireille,0,1
+Le Grip   Constance,Cazeneuve   Jean-René,0,1
+Le Grip   Constance,Dubost   Coralie,0,1
+Le Grip   Constance,David   Dominique,0,1
+Le Grip   Constance,Chalas   Émilie,0,1
+Le Grip   Constance,Borowczyk   Julien,0,1
+Le Grip   Constance,Kamowski   Catherine,0,1
+Le Grip   Constance,Pradié   Aurélien,1,1
+Le Grip   Constance,Dubré-Chirat   Nicole,0,1
+Le Grip   Constance,Kuric   Aina,1,1
+Le Grip   Constance,Bernalicis   Ugo,1,1
+Le Grip   Constance,Houbron   Dimitri,0,1
+Le Grip   Constance,Goulet   Perrine,0,1
+Le Grip   Constance,Dumont   Pierre-Henri,1,1
+Le Grip   Constance,Michels   Thierry,0,1
+Le Grip   Constance,Bru   Vincent,0,1
+Le Grip   Constance,Moutchou   Naïma,0,1
+Le Grip   Constance,Lazaar   Fiona,0,1
+Le Grip   Constance,Lakrafi   Amélia,0,1
+Le Grip   Constance,Genetet   Anne,0,1
+Le Grip   Constance,Forteza   Paula,0,1
+Le Grip   Constance,Peu   Stéphane,1,1
+Le Grip   Constance,Riotton   Véronique,0,1
+Le Grip   Constance,Le Gendre   Gilles,0,1
+Le Grip   Constance,Terlier   Jean,0,1
+Le Grip   Constance,Rossi   Laurianne,0,1
+Le Grip   Constance,Rupin   Pacôme,0,1
+Le Grip   Constance,Avia   Laetitia,0,1
+Le Grip   Constance,Michel-Kleisbauer   Philippe,1,1
+Le Grip   Constance,Baichère   Didier,0,1
+Le Grip   Constance,Piron   Béatrice,0,1
+Le Grip   Constance,Braun-Pivet   Yaël,0,1
+Le Grip   Constance,de Vaucouleurs   Michèle,0,1
+Le Grip   Constance,Leguille-Balloy   Martine,0,1
+Le Grip   Constance,Houlié   Sacha,0,1
+Le Grip   Constance,Provendier   Florence,0,1
+Le Grip   Constance,Rebeyrotte   Rémy,0,1
+Le Grip   Constance,Savignat   Antoine,1,1
+Untermaier   Cécile,Dupont   Stella,0,1
+Untermaier   Cécile,Mazars   Stéphane,0,1
+Untermaier   Cécile,Brenier   Marine,1,1
+Untermaier   Cécile,Delatte   Marc,0,1
+Untermaier   Cécile,Dufrègne   Jean-Paul,1,1
+Untermaier   Cécile,Valetta Ardisson   Alexandra,1,1
+Untermaier   Cécile,Pauget   Éric,1,1
+Untermaier   Cécile,Dombreval   Loïc,1,1
+Untermaier   Cécile,Dharréville   Pierre,1,1
+Untermaier   Cécile,Paris   Didier,0,1
+Untermaier   Cécile,Clapot   Mireille,0,1
+Untermaier   Cécile,Cazeneuve   Jean-René,0,1
+Untermaier   Cécile,Dubost   Coralie,0,1
+Untermaier   Cécile,David   Dominique,0,1
+Untermaier   Cécile,Chalas   Émilie,0,1
+Untermaier   Cécile,Borowczyk   Julien,0,1
+Untermaier   Cécile,Kamowski   Catherine,0,1
+Untermaier   Cécile,Pradié   Aurélien,1,1
+Untermaier   Cécile,Dubré-Chirat   Nicole,0,1
+Untermaier   Cécile,Kuric   Aina,1,1
+Untermaier   Cécile,Bernalicis   Ugo,1,1
+Untermaier   Cécile,Houbron   Dimitri,0,1
+Untermaier   Cécile,Goulet   Perrine,0,1
+Untermaier   Cécile,Dumont   Pierre-Henri,1,1
+Untermaier   Cécile,Michels   Thierry,0,1
+Untermaier   Cécile,Bru   Vincent,0,1
+Untermaier   Cécile,Moutchou   Naïma,0,1
+Untermaier   Cécile,Lazaar   Fiona,0,1
+Untermaier   Cécile,Lakrafi   Amélia,0,1
+Untermaier   Cécile,Genetet   Anne,0,1
+Untermaier   Cécile,Forteza   Paula,0,1
+Untermaier   Cécile,Peu   Stéphane,1,1
+Untermaier   Cécile,Riotton   Véronique,0,1
+Untermaier   Cécile,Le Gendre   Gilles,0,1
+Untermaier   Cécile,Terlier   Jean,0,1
+Untermaier   Cécile,Rossi   Laurianne,0,1
+Untermaier   Cécile,Rupin   Pacôme,0,1
+Untermaier   Cécile,Avia   Laetitia,0,1
+Untermaier   Cécile,Michel-Kleisbauer   Philippe,1,1
+Untermaier   Cécile,Baichère   Didier,0,1
+Untermaier   Cécile,Piron   Béatrice,0,1
+Untermaier   Cécile,Braun-Pivet   Yaël,0,1
+Untermaier   Cécile,de Vaucouleurs   Michèle,0,1
+Untermaier   Cécile,Leguille-Balloy   Martine,0,1
+Untermaier   Cécile,Houlié   Sacha,0,1
+Untermaier   Cécile,Provendier   Florence,0,1
+Untermaier   Cécile,Rebeyrotte   Rémy,0,1
+Untermaier   Cécile,Savignat   Antoine,1,1
+Dupont   Stella,Mazars   Stéphane,1,1
+Dupont   Stella,Brenier   Marine,0,1
+Dupont   Stella,Delatte   Marc,1,1
+Dupont   Stella,Dufrègne   Jean-Paul,0,1
+Dupont   Stella,Valetta Ardisson   Alexandra,0,1
+Dupont   Stella,Pauget   Éric,0,1
+Dupont   Stella,Dombreval   Loïc,0,1
+Dupont   Stella,Dharréville   Pierre,0,1
+Dupont   Stella,Paris   Didier,1,1
+Dupont   Stella,Clapot   Mireille,1,1
+Dupont   Stella,Cazeneuve   Jean-René,1,1
+Dupont   Stella,Dubost   Coralie,1,1
+Dupont   Stella,David   Dominique,1,1
+Dupont   Stella,Chalas   Émilie,1,1
+Dupont   Stella,Borowczyk   Julien,1,1
+Dupont   Stella,Kamowski   Catherine,1,1
+Dupont   Stella,Pradié   Aurélien,0,1
+Dupont   Stella,Dubré-Chirat   Nicole,1,1
+Dupont   Stella,Kuric   Aina,0,1
+Dupont   Stella,Bernalicis   Ugo,0,1
+Dupont   Stella,Houbron   Dimitri,1,1
+Dupont   Stella,Goulet   Perrine,1,1
+Dupont   Stella,Dumont   Pierre-Henri,0,1
+Dupont   Stella,Michels   Thierry,1,1
+Dupont   Stella,Bru   Vincent,1,1
+Dupont   Stella,Moutchou   Naïma,1,1
+Dupont   Stella,Lazaar   Fiona,1,1
+Dupont   Stella,Lakrafi   Amélia,1,1
+Dupont   Stella,Genetet   Anne,1,1
+Dupont   Stella,Forteza   Paula,1,1
+Dupont   Stella,Peu   Stéphane,0,1
+Dupont   Stella,Riotton   Véronique,1,1
+Dupont   Stella,Le Gendre   Gilles,1,1
+Dupont   Stella,Terlier   Jean,1,1
+Dupont   Stella,Rossi   Laurianne,1,1
+Dupont   Stella,Rupin   Pacôme,1,1
+Dupont   Stella,Avia   Laetitia,1,1
+Dupont   Stella,Michel-Kleisbauer   Philippe,0,1
+Dupont   Stella,Baichère   Didier,1,1
+Dupont   Stella,Piron   Béatrice,1,1
+Dupont   Stella,Braun-Pivet   Yaël,1,1
+Dupont   Stella,de Vaucouleurs   Michèle,1,1
+Dupont   Stella,Leguille-Balloy   Martine,1,1
+Dupont   Stella,Houlié   Sacha,1,1
+Dupont   Stella,Provendier   Florence,1,1
+Dupont   Stella,Rebeyrotte   Rémy,1,1
+Dupont   Stella,Savignat   Antoine,0,1
+Mazars   Stéphane,Brenier   Marine,0,1
+Mazars   Stéphane,Delatte   Marc,1,1
+Mazars   Stéphane,Dufrègne   Jean-Paul,0,1
+Mazars   Stéphane,Valetta Ardisson   Alexandra,0,1
+Mazars   Stéphane,Pauget   Éric,0,1
+Mazars   Stéphane,Dombreval   Loïc,0,1
+Mazars   Stéphane,Dharréville   Pierre,0,1
+Mazars   Stéphane,Paris   Didier,1,1
+Mazars   Stéphane,Clapot   Mireille,1,1
+Mazars   Stéphane,Cazeneuve   Jean-René,1,1
+Mazars   Stéphane,Dubost   Coralie,1,1
+Mazars   Stéphane,David   Dominique,1,1
+Mazars   Stéphane,Chalas   Émilie,1,1
+Mazars   Stéphane,Borowczyk   Julien,1,1
+Mazars   Stéphane,Kamowski   Catherine,1,1
+Mazars   Stéphane,Pradié   Aurélien,0,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,1,1
+Mazars   Stéphane,Kuric   Aina,0,1
+Mazars   Stéphane,Bernalicis   Ugo,0,1
+Mazars   Stéphane,Houbron   Dimitri,1,1
+Mazars   Stéphane,Goulet   Perrine,1,1
+Mazars   Stéphane,Dumont   Pierre-Henri,0,1
+Mazars   Stéphane,Michels   Thierry,1,1
+Mazars   Stéphane,Bru   Vincent,1,1
+Mazars   Stéphane,Moutchou   Naïma,1,1
+Mazars   Stéphane,Lazaar   Fiona,1,1
+Mazars   Stéphane,Lakrafi   Amélia,1,1
+Mazars   Stéphane,Genetet   Anne,1,1
+Mazars   Stéphane,Forteza   Paula,1,1
+Mazars   Stéphane,Peu   Stéphane,0,1
+Mazars   Stéphane,Riotton   Véronique,1,1
+Mazars   Stéphane,Le Gendre   Gilles,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Rossi   Laurianne,1,1
+Mazars   Stéphane,Rupin   Pacôme,1,1
+Mazars   Stéphane,Avia   Laetitia,1,1
+Mazars   Stéphane,Michel-Kleisbauer   Philippe,0,1
+Mazars   Stéphane,Baichère   Didier,1,1
+Mazars   Stéphane,Piron   Béatrice,1,1
+Mazars   Stéphane,Braun-Pivet   Yaël,1,1
+Mazars   Stéphane,de Vaucouleurs   Michèle,1,1
+Mazars   Stéphane,Leguille-Balloy   Martine,1,1
+Mazars   Stéphane,Houlié   Sacha,1,1
+Mazars   Stéphane,Provendier   Florence,1,1
+Mazars   Stéphane,Rebeyrotte   Rémy,1,1
+Mazars   Stéphane,Savignat   Antoine,0,1
+Brenier   Marine,Delatte   Marc,0,1
+Brenier   Marine,Dufrègne   Jean-Paul,1,1
+Brenier   Marine,Valetta Ardisson   Alexandra,1,1
+Brenier   Marine,Pauget   Éric,1,1
+Brenier   Marine,Dombreval   Loïc,1,1
+Brenier   Marine,Dharréville   Pierre,1,1
+Brenier   Marine,Paris   Didier,0,1
+Brenier   Marine,Clapot   Mireille,0,1
+Brenier   Marine,Cazeneuve   Jean-René,0,1
+Brenier   Marine,Dubost   Coralie,0,1
+Brenier   Marine,David   Dominique,0,1
+Brenier   Marine,Chalas   Émilie,0,1
+Brenier   Marine,Borowczyk   Julien,0,1
+Brenier   Marine,Kamowski   Catherine,0,1
+Brenier   Marine,Pradié   Aurélien,1,1
+Brenier   Marine,Dubré-Chirat   Nicole,0,1
+Brenier   Marine,Kuric   Aina,1,1
+Brenier   Marine,Bernalicis   Ugo,1,1
+Brenier   Marine,Houbron   Dimitri,0,1
+Brenier   Marine,Goulet   Perrine,0,1
+Brenier   Marine,Dumont   Pierre-Henri,1,1
+Brenier   Marine,Michels   Thierry,0,1
+Brenier   Marine,Bru   Vincent,0,1
+Brenier   Marine,Moutchou   Naïma,0,1
+Brenier   Marine,Lazaar   Fiona,0,1
+Brenier   Marine,Lakrafi   Amélia,0,1
+Brenier   Marine,Genetet   Anne,0,1
+Brenier   Marine,Forteza   Paula,0,1
+Brenier   Marine,Peu   Stéphane,1,1
+Brenier   Marine,Riotton   Véronique,0,1
+Brenier   Marine,Le Gendre   Gilles,0,1
+Brenier   Marine,Terlier   Jean,0,1
+Brenier   Marine,Rossi   Laurianne,0,1
+Brenier   Marine,Rupin   Pacôme,0,1
+Brenier   Marine,Avia   Laetitia,0,1
+Brenier   Marine,Michel-Kleisbauer   Philippe,1,1
+Brenier   Marine,Baichère   Didier,0,1
+Brenier   Marine,Piron   Béatrice,0,1
+Brenier   Marine,Braun-Pivet   Yaël,0,1
+Brenier   Marine,de Vaucouleurs   Michèle,0,1
+Brenier   Marine,Leguille-Balloy   Martine,0,1
+Brenier   Marine,Houlié   Sacha,0,1
+Brenier   Marine,Provendier   Florence,0,1
+Brenier   Marine,Rebeyrotte   Rémy,0,1
+Brenier   Marine,Savignat   Antoine,1,1
+Delatte   Marc,Dufrègne   Jean-Paul,0,1
+Delatte   Marc,Valetta Ardisson   Alexandra,0,1
+Delatte   Marc,Pauget   Éric,0,1
+Delatte   Marc,Dombreval   Loïc,0,1
+Delatte   Marc,Dharréville   Pierre,0,1
+Delatte   Marc,Paris   Didier,1,1
+Delatte   Marc,Clapot   Mireille,1,1
+Delatte   Marc,Cazeneuve   Jean-René,1,1
+Delatte   Marc,Dubost   Coralie,1,1
+Delatte   Marc,David   Dominique,1,1
+Delatte   Marc,Chalas   Émilie,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Kamowski   Catherine,1,1
+Delatte   Marc,Pradié   Aurélien,0,1
+Delatte   Marc,Dubré-Chirat   Nicole,1,1
+Delatte   Marc,Kuric   Aina,0,1
+Delatte   Marc,Bernalicis   Ugo,0,1
+Delatte   Marc,Houbron   Dimitri,1,1
+Delatte   Marc,Goulet   Perrine,1,1
+Delatte   Marc,Dumont   Pierre-Henri,0,1
+Delatte   Marc,Michels   Thierry,1,1
+Delatte   Marc,Bru   Vincent,1,1
+Delatte   Marc,Moutchou   Naïma,1,1
+Delatte   Marc,Lazaar   Fiona,1,1
+Delatte   Marc,Lakrafi   Amélia,1,1
+Delatte   Marc,Genetet   Anne,1,1
+Delatte   Marc,Forteza   Paula,1,1
+Delatte   Marc,Peu   Stéphane,0,1
+Delatte   Marc,Riotton   Véronique,1,1
+Delatte   Marc,Le Gendre   Gilles,1,1
+Delatte   Marc,Terlier   Jean,1,1
+Delatte   Marc,Rossi   Laurianne,1,1
+Delatte   Marc,Rupin   Pacôme,1,1
+Delatte   Marc,Avia   Laetitia,1,1
+Delatte   Marc,Michel-Kleisbauer   Philippe,0,1
+Delatte   Marc,Baichère   Didier,1,1
+Delatte   Marc,Piron   Béatrice,1,1
+Delatte   Marc,Braun-Pivet   Yaël,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Leguille-Balloy   Martine,1,1
+Delatte   Marc,Houlié   Sacha,1,1
+Delatte   Marc,Provendier   Florence,1,1
+Delatte   Marc,Rebeyrotte   Rémy,1,1
+Delatte   Marc,Savignat   Antoine,0,1
+Dufrègne   Jean-Paul,Valetta Ardisson   Alexandra,1,1
+Dufrègne   Jean-Paul,Pauget   Éric,1,1
+Dufrègne   Jean-Paul,Dombreval   Loïc,1,1
+Dufrègne   Jean-Paul,Dharréville   Pierre,1,1
+Dufrègne   Jean-Paul,Paris   Didier,0,1
+Dufrègne   Jean-Paul,Clapot   Mireille,0,1
+Dufrègne   Jean-Paul,Cazeneuve   Jean-René,0,1
+Dufrègne   Jean-Paul,Dubost   Coralie,0,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Chalas   Émilie,0,1
+Dufrègne   Jean-Paul,Borowczyk   Julien,0,1
+Dufrègne   Jean-Paul,Kamowski   Catherine,0,1
+Dufrègne   Jean-Paul,Pradié   Aurélien,1,1
+Dufrègne   Jean-Paul,Dubré-Chirat   Nicole,0,1
+Dufrègne   Jean-Paul,Kuric   Aina,1,1
+Dufrègne   Jean-Paul,Bernalicis   Ugo,1,1
+Dufrègne   Jean-Paul,Houbron   Dimitri,0,1
+Dufrègne   Jean-Paul,Goulet   Perrine,0,1
+Dufrègne   Jean-Paul,Dumont   Pierre-Henri,1,1
+Dufrègne   Jean-Paul,Michels   Thierry,0,1
+Dufrègne   Jean-Paul,Bru   Vincent,0,1
+Dufrègne   Jean-Paul,Moutchou   Naïma,0,1
+Dufrègne   Jean-Paul,Lazaar   Fiona,0,1
+Dufrègne   Jean-Paul,Lakrafi   Amélia,0,1
+Dufrègne   Jean-Paul,Genetet   Anne,0,1
+Dufrègne   Jean-Paul,Forteza   Paula,0,1
+Dufrègne   Jean-Paul,Peu   Stéphane,1,1
+Dufrègne   Jean-Paul,Riotton   Véronique,0,1
+Dufrègne   Jean-Paul,Le Gendre   Gilles,0,1
+Dufrègne   Jean-Paul,Terlier   Jean,0,1
+Dufrègne   Jean-Paul,Rossi   Laurianne,0,1
+Dufrègne   Jean-Paul,Rupin   Pacôme,0,1
+Dufrègne   Jean-Paul,Avia   Laetitia,0,1
+Dufrègne   Jean-Paul,Michel-Kleisbauer   Philippe,1,1
+Dufrègne   Jean-Paul,Baichère   Didier,0,1
+Dufrègne   Jean-Paul,Piron   Béatrice,0,1
+Dufrègne   Jean-Paul,Braun-Pivet   Yaël,0,1
+Dufrègne   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Dufrègne   Jean-Paul,Leguille-Balloy   Martine,0,1
+Dufrègne   Jean-Paul,Houlié   Sacha,0,1
+Dufrègne   Jean-Paul,Provendier   Florence,0,1
+Dufrègne   Jean-Paul,Rebeyrotte   Rémy,0,1
+Dufrègne   Jean-Paul,Savignat   Antoine,1,1
+Valetta Ardisson   Alexandra,Pauget   Éric,1,1
+Valetta Ardisson   Alexandra,Dombreval   Loïc,1,1
+Valetta Ardisson   Alexandra,Dharréville   Pierre,1,1
+Valetta Ardisson   Alexandra,Paris   Didier,0,1
+Valetta Ardisson   Alexandra,Clapot   Mireille,0,1
+Valetta Ardisson   Alexandra,Cazeneuve   Jean-René,0,1
+Valetta Ardisson   Alexandra,Dubost   Coralie,0,1
+Valetta Ardisson   Alexandra,David   Dominique,0,1
+Valetta Ardisson   Alexandra,Chalas   Émilie,0,1
+Valetta Ardisson   Alexandra,Borowczyk   Julien,0,1
+Valetta Ardisson   Alexandra,Kamowski   Catherine,0,1
+Valetta Ardisson   Alexandra,Pradié   Aurélien,1,1
+Valetta Ardisson   Alexandra,Dubré-Chirat   Nicole,0,1
+Valetta Ardisson   Alexandra,Kuric   Aina,1,1
+Valetta Ardisson   Alexandra,Bernalicis   Ugo,1,1
+Valetta Ardisson   Alexandra,Houbron   Dimitri,0,1
+Valetta Ardisson   Alexandra,Goulet   Perrine,0,1
+Valetta Ardisson   Alexandra,Dumont   Pierre-Henri,1,1
+Valetta Ardisson   Alexandra,Michels   Thierry,0,1
+Valetta Ardisson   Alexandra,Bru   Vincent,0,1
+Valetta Ardisson   Alexandra,Moutchou   Naïma,0,1
+Valetta Ardisson   Alexandra,Lazaar   Fiona,0,1
+Valetta Ardisson   Alexandra,Lakrafi   Amélia,0,1
+Valetta Ardisson   Alexandra,Genetet   Anne,0,1
+Valetta Ardisson   Alexandra,Forteza   Paula,0,1
+Valetta Ardisson   Alexandra,Peu   Stéphane,1,1
+Valetta Ardisson   Alexandra,Riotton   Véronique,0,1
+Valetta Ardisson   Alexandra,Le Gendre   Gilles,0,1
+Valetta Ardisson   Alexandra,Terlier   Jean,0,1
+Valetta Ardisson   Alexandra,Rossi   Laurianne,0,1
+Valetta Ardisson   Alexandra,Rupin   Pacôme,0,1
+Valetta Ardisson   Alexandra,Avia   Laetitia,0,1
+Valetta Ardisson   Alexandra,Michel-Kleisbauer   Philippe,1,1
+Valetta Ardisson   Alexandra,Baichère   Didier,0,1
+Valetta Ardisson   Alexandra,Piron   Béatrice,0,1
+Valetta Ardisson   Alexandra,Braun-Pivet   Yaël,0,1
+Valetta Ardisson   Alexandra,de Vaucouleurs   Michèle,0,1
+Valetta Ardisson   Alexandra,Leguille-Balloy   Martine,0,1
+Valetta Ardisson   Alexandra,Houlié   Sacha,0,1
+Valetta Ardisson   Alexandra,Provendier   Florence,0,1
+Valetta Ardisson   Alexandra,Rebeyrotte   Rémy,0,1
+Valetta Ardisson   Alexandra,Savignat   Antoine,1,1
+Pauget   Éric,Dombreval   Loïc,1,1
+Pauget   Éric,Dharréville   Pierre,1,1
+Pauget   Éric,Paris   Didier,0,1
+Pauget   Éric,Clapot   Mireille,0,1
+Pauget   Éric,Cazeneuve   Jean-René,0,1
+Pauget   Éric,Dubost   Coralie,0,1
+Pauget   Éric,David   Dominique,0,1
+Pauget   Éric,Chalas   Émilie,0,1
+Pauget   Éric,Borowczyk   Julien,0,1
+Pauget   Éric,Kamowski   Catherine,0,1
+Pauget   Éric,Pradié   Aurélien,1,1
+Pauget   Éric,Dubré-Chirat   Nicole,0,1
+Pauget   Éric,Kuric   Aina,1,1
+Pauget   Éric,Bernalicis   Ugo,1,1
+Pauget   Éric,Houbron   Dimitri,0,1
+Pauget   Éric,Goulet   Perrine,0,1
+Pauget   Éric,Dumont   Pierre-Henri,1,1
+Pauget   Éric,Michels   Thierry,0,1
+Pauget   Éric,Bru   Vincent,0,1
+Pauget   Éric,Moutchou   Naïma,0,1
+Pauget   Éric,Lazaar   Fiona,0,1
+Pauget   Éric,Lakrafi   Amélia,0,1
+Pauget   Éric,Genetet   Anne,0,1
+Pauget   Éric,Forteza   Paula,0,1
+Pauget   Éric,Peu   Stéphane,1,1
+Pauget   Éric,Riotton   Véronique,0,1
+Pauget   Éric,Le Gendre   Gilles,0,1
+Pauget   Éric,Terlier   Jean,0,1
+Pauget   Éric,Rossi   Laurianne,0,1
+Pauget   Éric,Rupin   Pacôme,0,1
+Pauget   Éric,Avia   Laetitia,0,1
+Pauget   Éric,Michel-Kleisbauer   Philippe,1,1
+Pauget   Éric,Baichère   Didier,0,1
+Pauget   Éric,Piron   Béatrice,0,1
+Pauget   Éric,Braun-Pivet   Yaël,0,1
+Pauget   Éric,de Vaucouleurs   Michèle,0,1
+Pauget   Éric,Leguille-Balloy   Martine,0,1
+Pauget   Éric,Houlié   Sacha,0,1
+Pauget   Éric,Provendier   Florence,0,1
+Pauget   Éric,Rebeyrotte   Rémy,0,1
+Pauget   Éric,Savignat   Antoine,1,1
+Dombreval   Loïc,Dharréville   Pierre,1,1
+Dombreval   Loïc,Paris   Didier,0,1
+Dombreval   Loïc,Clapot   Mireille,0,1
+Dombreval   Loïc,Cazeneuve   Jean-René,0,1
+Dombreval   Loïc,Dubost   Coralie,0,1
+Dombreval   Loïc,David   Dominique,0,1
+Dombreval   Loïc,Chalas   Émilie,0,1
+Dombreval   Loïc,Borowczyk   Julien,0,1
+Dombreval   Loïc,Kamowski   Catherine,0,1
+Dombreval   Loïc,Pradié   Aurélien,1,1
+Dombreval   Loïc,Dubré-Chirat   Nicole,0,1
+Dombreval   Loïc,Kuric   Aina,1,1
+Dombreval   Loïc,Bernalicis   Ugo,1,1
+Dombreval   Loïc,Houbron   Dimitri,0,1
+Dombreval   Loïc,Goulet   Perrine,0,1
+Dombreval   Loïc,Dumont   Pierre-Henri,1,1
+Dombreval   Loïc,Michels   Thierry,0,1
+Dombreval   Loïc,Bru   Vincent,0,1
+Dombreval   Loïc,Moutchou   Naïma,0,1
+Dombreval   Loïc,Lazaar   Fiona,0,1
+Dombreval   Loïc,Lakrafi   Amélia,0,1
+Dombreval   Loïc,Genetet   Anne,0,1
+Dombreval   Loïc,Forteza   Paula,0,1
+Dombreval   Loïc,Peu   Stéphane,1,1
+Dombreval   Loïc,Riotton   Véronique,0,1
+Dombreval   Loïc,Le Gendre   Gilles,0,1
+Dombreval   Loïc,Terlier   Jean,0,1
+Dombreval   Loïc,Rossi   Laurianne,0,1
+Dombreval   Loïc,Rupin   Pacôme,0,1
+Dombreval   Loïc,Avia   Laetitia,0,1
+Dombreval   Loïc,Michel-Kleisbauer   Philippe,1,1
+Dombreval   Loïc,Baichère   Didier,0,1
+Dombreval   Loïc,Piron   Béatrice,0,1
+Dombreval   Loïc,Braun-Pivet   Yaël,0,1
+Dombreval   Loïc,de Vaucouleurs   Michèle,0,1
+Dombreval   Loïc,Leguille-Balloy   Martine,0,1
+Dombreval   Loïc,Houlié   Sacha,0,1
+Dombreval   Loïc,Provendier   Florence,0,1
+Dombreval   Loïc,Rebeyrotte   Rémy,0,1
+Dombreval   Loïc,Savignat   Antoine,1,1
+Dharréville   Pierre,Paris   Didier,0,1
+Dharréville   Pierre,Clapot   Mireille,0,1
+Dharréville   Pierre,Cazeneuve   Jean-René,0,1
+Dharréville   Pierre,Dubost   Coralie,0,1
+Dharréville   Pierre,David   Dominique,0,1
+Dharréville   Pierre,Chalas   Émilie,0,1
+Dharréville   Pierre,Borowczyk   Julien,0,1
+Dharréville   Pierre,Kamowski   Catherine,0,1
+Dharréville   Pierre,Pradié   Aurélien,1,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Kuric   Aina,1,1
+Dharréville   Pierre,Bernalicis   Ugo,1,1
+Dharréville   Pierre,Houbron   Dimitri,0,1
+Dharréville   Pierre,Goulet   Perrine,0,1
+Dharréville   Pierre,Dumont   Pierre-Henri,1,1
+Dharréville   Pierre,Michels   Thierry,0,1
+Dharréville   Pierre,Bru   Vincent,0,1
+Dharréville   Pierre,Moutchou   Naïma,0,1
+Dharréville   Pierre,Lazaar   Fiona,0,1
+Dharréville   Pierre,Lakrafi   Amélia,0,1
+Dharréville   Pierre,Genetet   Anne,0,1
+Dharréville   Pierre,Forteza   Paula,0,1
+Dharréville   Pierre,Peu   Stéphane,1,1
+Dharréville   Pierre,Riotton   Véronique,0,1
+Dharréville   Pierre,Le Gendre   Gilles,0,1
+Dharréville   Pierre,Terlier   Jean,0,1
+Dharréville   Pierre,Rossi   Laurianne,0,1
+Dharréville   Pierre,Rupin   Pacôme,0,1
+Dharréville   Pierre,Avia   Laetitia,0,1
+Dharréville   Pierre,Michel-Kleisbauer   Philippe,1,1
+Dharréville   Pierre,Baichère   Didier,0,1
+Dharréville   Pierre,Piron   Béatrice,0,1
+Dharréville   Pierre,Braun-Pivet   Yaël,0,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,0,1
+Dharréville   Pierre,Leguille-Balloy   Martine,0,1
+Dharréville   Pierre,Houlié   Sacha,0,1
+Dharréville   Pierre,Provendier   Florence,0,1
+Dharréville   Pierre,Rebeyrotte   Rémy,0,1
+Dharréville   Pierre,Savignat   Antoine,1,1
+Paris   Didier,Clapot   Mireille,1,1
+Paris   Didier,Cazeneuve   Jean-René,1,1
+Paris   Didier,Dubost   Coralie,1,1
+Paris   Didier,David   Dominique,1,1
+Paris   Didier,Chalas   Émilie,1,1
+Paris   Didier,Borowczyk   Julien,1,1
+Paris   Didier,Kamowski   Catherine,1,1
+Paris   Didier,Pradié   Aurélien,0,1
+Paris   Didier,Dubré-Chirat   Nicole,1,1
+Paris   Didier,Kuric   Aina,0,1
+Paris   Didier,Bernalicis   Ugo,0,1
+Paris   Didier,Houbron   Dimitri,1,1
+Paris   Didier,Goulet   Perrine,1,1
+Paris   Didier,Dumont   Pierre-Henri,0,1
+Paris   Didier,Michels   Thierry,1,1
+Paris   Didier,Bru   Vincent,1,1
+Paris   Didier,Moutchou   Naïma,1,1
+Paris   Didier,Lazaar   Fiona,1,1
+Paris   Didier,Lakrafi   Amélia,1,1
+Paris   Didier,Genetet   Anne,1,1
+Paris   Didier,Forteza   Paula,1,1
+Paris   Didier,Peu   Stéphane,0,1
+Paris   Didier,Riotton   Véronique,1,1
+Paris   Didier,Le Gendre   Gilles,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Rossi   Laurianne,1,1
+Paris   Didier,Rupin   Pacôme,1,1
+Paris   Didier,Avia   Laetitia,1,1
+Paris   Didier,Michel-Kleisbauer   Philippe,0,1
+Paris   Didier,Baichère   Didier,1,1
+Paris   Didier,Piron   Béatrice,1,1
+Paris   Didier,Braun-Pivet   Yaël,1,1
+Paris   Didier,de Vaucouleurs   Michèle,1,1
+Paris   Didier,Leguille-Balloy   Martine,1,1
+Paris   Didier,Houlié   Sacha,1,1
+Paris   Didier,Provendier   Florence,1,1
+Paris   Didier,Rebeyrotte   Rémy,1,1
+Paris   Didier,Savignat   Antoine,0,1
+Clapot   Mireille,Cazeneuve   Jean-René,1,1
+Clapot   Mireille,Dubost   Coralie,1,1
+Clapot   Mireille,David   Dominique,1,1
+Clapot   Mireille,Chalas   Émilie,1,1
+Clapot   Mireille,Borowczyk   Julien,1,1
+Clapot   Mireille,Kamowski   Catherine,1,1
+Clapot   Mireille,Pradié   Aurélien,0,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Kuric   Aina,0,1
+Clapot   Mireille,Bernalicis   Ugo,0,1
+Clapot   Mireille,Houbron   Dimitri,1,1
+Clapot   Mireille,Goulet   Perrine,1,1
+Clapot   Mireille,Dumont   Pierre-Henri,0,1
+Clapot   Mireille,Michels   Thierry,1,1
+Clapot   Mireille,Bru   Vincent,1,1
+Clapot   Mireille,Moutchou   Naïma,1,1
+Clapot   Mireille,Lazaar   Fiona,1,1
+Clapot   Mireille,Lakrafi   Amélia,1,1
+Clapot   Mireille,Genetet   Anne,1,1
+Clapot   Mireille,Forteza   Paula,1,1
+Clapot   Mireille,Peu   Stéphane,0,1
+Clapot   Mireille,Riotton   Véronique,1,1
+Clapot   Mireille,Le Gendre   Gilles,1,1
+Clapot   Mireille,Terlier   Jean,1,1
+Clapot   Mireille,Rossi   Laurianne,1,1
+Clapot   Mireille,Rupin   Pacôme,1,1
+Clapot   Mireille,Avia   Laetitia,1,1
+Clapot   Mireille,Michel-Kleisbauer   Philippe,0,1
+Clapot   Mireille,Baichère   Didier,1,1
+Clapot   Mireille,Piron   Béatrice,1,1
+Clapot   Mireille,Braun-Pivet   Yaël,1,1
+Clapot   Mireille,de Vaucouleurs   Michèle,1,1
+Clapot   Mireille,Leguille-Balloy   Martine,1,1
+Clapot   Mireille,Houlié   Sacha,1,1
+Clapot   Mireille,Provendier   Florence,1,1
+Clapot   Mireille,Rebeyrotte   Rémy,1,1
+Clapot   Mireille,Savignat   Antoine,0,1
+Cazeneuve   Jean-René,Dubost   Coralie,1,1
+Cazeneuve   Jean-René,David   Dominique,1,1
+Cazeneuve   Jean-René,Chalas   Émilie,1,1
+Cazeneuve   Jean-René,Borowczyk   Julien,1,1
+Cazeneuve   Jean-René,Kamowski   Catherine,1,1
+Cazeneuve   Jean-René,Pradié   Aurélien,0,1
+Cazeneuve   Jean-René,Dubré-Chirat   Nicole,1,1
+Cazeneuve   Jean-René,Kuric   Aina,0,1
+Cazeneuve   Jean-René,Bernalicis   Ugo,0,1
+Cazeneuve   Jean-René,Houbron   Dimitri,1,1
+Cazeneuve   Jean-René,Goulet   Perrine,1,1
+Cazeneuve   Jean-René,Dumont   Pierre-Henri,0,1
+Cazeneuve   Jean-René,Michels   Thierry,1,1
+Cazeneuve   Jean-René,Bru   Vincent,1,1
+Cazeneuve   Jean-René,Moutchou   Naïma,1,1
+Cazeneuve   Jean-René,Lazaar   Fiona,1,1
+Cazeneuve   Jean-René,Lakrafi   Amélia,1,1
+Cazeneuve   Jean-René,Genetet   Anne,1,1
+Cazeneuve   Jean-René,Forteza   Paula,1,1
+Cazeneuve   Jean-René,Peu   Stéphane,0,1
+Cazeneuve   Jean-René,Riotton   Véronique,1,1
+Cazeneuve   Jean-René,Le Gendre   Gilles,1,1
+Cazeneuve   Jean-René,Terlier   Jean,1,1
+Cazeneuve   Jean-René,Rossi   Laurianne,1,1
+Cazeneuve   Jean-René,Rupin   Pacôme,1,1
+Cazeneuve   Jean-René,Avia   Laetitia,1,1
+Cazeneuve   Jean-René,Michel-Kleisbauer   Philippe,0,1
+Cazeneuve   Jean-René,Baichère   Didier,1,1
+Cazeneuve   Jean-René,Piron   Béatrice,1,1
+Cazeneuve   Jean-René,Braun-Pivet   Yaël,1,1
+Cazeneuve   Jean-René,de Vaucouleurs   Michèle,1,1
+Cazeneuve   Jean-René,Leguille-Balloy   Martine,1,1
+Cazeneuve   Jean-René,Houlié   Sacha,1,1
+Cazeneuve   Jean-René,Provendier   Florence,1,1
+Cazeneuve   Jean-René,Rebeyrotte   Rémy,1,1
+Cazeneuve   Jean-René,Savignat   Antoine,0,1
+Dubost   Coralie,David   Dominique,1,1
+Dubost   Coralie,Chalas   Émilie,1,1
+Dubost   Coralie,Borowczyk   Julien,1,1
+Dubost   Coralie,Kamowski   Catherine,1,1
+Dubost   Coralie,Pradié   Aurélien,0,1
+Dubost   Coralie,Dubré-Chirat   Nicole,1,1
+Dubost   Coralie,Kuric   Aina,0,1
+Dubost   Coralie,Bernalicis   Ugo,0,1
+Dubost   Coralie,Houbron   Dimitri,1,1
+Dubost   Coralie,Goulet   Perrine,1,1
+Dubost   Coralie,Dumont   Pierre-Henri,0,1
+Dubost   Coralie,Michels   Thierry,1,1
+Dubost   Coralie,Bru   Vincent,1,1
+Dubost   Coralie,Moutchou   Naïma,1,1
+Dubost   Coralie,Lazaar   Fiona,1,1
+Dubost   Coralie,Lakrafi   Amélia,1,1
+Dubost   Coralie,Genetet   Anne,1,1
+Dubost   Coralie,Forteza   Paula,1,1
+Dubost   Coralie,Peu   Stéphane,0,1
+Dubost   Coralie,Riotton   Véronique,1,1
+Dubost   Coralie,Le Gendre   Gilles,1,1
+Dubost   Coralie,Terlier   Jean,1,1
+Dubost   Coralie,Rossi   Laurianne,1,1
+Dubost   Coralie,Rupin   Pacôme,1,1
+Dubost   Coralie,Avia   Laetitia,1,1
+Dubost   Coralie,Michel-Kleisbauer   Philippe,0,1
+Dubost   Coralie,Baichère   Didier,1,1
+Dubost   Coralie,Piron   Béatrice,1,1
+Dubost   Coralie,Braun-Pivet   Yaël,1,1
+Dubost   Coralie,de Vaucouleurs   Michèle,1,1
+Dubost   Coralie,Leguille-Balloy   Martine,1,1
+Dubost   Coralie,Houlié   Sacha,1,1
+Dubost   Coralie,Provendier   Florence,1,1
+Dubost   Coralie,Rebeyrotte   Rémy,1,1
+Dubost   Coralie,Savignat   Antoine,0,1
+David   Dominique,Chalas   Émilie,1,1
+David   Dominique,Borowczyk   Julien,1,1
+David   Dominique,Kamowski   Catherine,1,1
+David   Dominique,Pradié   Aurélien,0,1
+David   Dominique,Dubré-Chirat   Nicole,1,1
+David   Dominique,Kuric   Aina,0,1
+David   Dominique,Bernalicis   Ugo,0,1
+David   Dominique,Houbron   Dimitri,1,1
+David   Dominique,Goulet   Perrine,1,1
+David   Dominique,Dumont   Pierre-Henri,0,1
+David   Dominique,Michels   Thierry,1,1
+David   Dominique,Bru   Vincent,1,1
+David   Dominique,Moutchou   Naïma,1,1
+David   Dominique,Lazaar   Fiona,1,1
+David   Dominique,Lakrafi   Amélia,1,1
+David   Dominique,Genetet   Anne,1,1
+David   Dominique,Forteza   Paula,1,1
+David   Dominique,Peu   Stéphane,0,1
+David   Dominique,Riotton   Véronique,1,1
+David   Dominique,Le Gendre   Gilles,1,1
+David   Dominique,Terlier   Jean,1,1
+David   Dominique,Rossi   Laurianne,1,1
+David   Dominique,Rupin   Pacôme,1,1
+David   Dominique,Avia   Laetitia,1,1
+David   Dominique,Michel-Kleisbauer   Philippe,0,1
+David   Dominique,Baichère   Didier,1,1
+David   Dominique,Piron   Béatrice,1,1
+David   Dominique,Braun-Pivet   Yaël,1,1
+David   Dominique,de Vaucouleurs   Michèle,1,1
+David   Dominique,Leguille-Balloy   Martine,1,1
+David   Dominique,Houlié   Sacha,1,1
+David   Dominique,Provendier   Florence,1,1
+David   Dominique,Rebeyrotte   Rémy,1,1
+David   Dominique,Savignat   Antoine,0,1
+Chalas   Émilie,Borowczyk   Julien,1,1
+Chalas   Émilie,Kamowski   Catherine,1,1
+Chalas   Émilie,Pradié   Aurélien,0,1
+Chalas   Émilie,Dubré-Chirat   Nicole,1,1
+Chalas   Émilie,Kuric   Aina,0,1
+Chalas   Émilie,Bernalicis   Ugo,0,1
+Chalas   Émilie,Houbron   Dimitri,1,1
+Chalas   Émilie,Goulet   Perrine,1,1
+Chalas   Émilie,Dumont   Pierre-Henri,0,1
+Chalas   Émilie,Michels   Thierry,1,1
+Chalas   Émilie,Bru   Vincent,1,1
+Chalas   Émilie,Moutchou   Naïma,1,1
+Chalas   Émilie,Lazaar   Fiona,1,1
+Chalas   Émilie,Lakrafi   Amélia,1,1
+Chalas   Émilie,Genetet   Anne,1,1
+Chalas   Émilie,Forteza   Paula,1,1
+Chalas   Émilie,Peu   Stéphane,0,1
+Chalas   Émilie,Riotton   Véronique,1,1
+Chalas   Émilie,Le Gendre   Gilles,1,1
+Chalas   Émilie,Terlier   Jean,1,1
+Chalas   Émilie,Rossi   Laurianne,1,1
+Chalas   Émilie,Rupin   Pacôme,1,1
+Chalas   Émilie,Avia   Laetitia,1,1
+Chalas   Émilie,Michel-Kleisbauer   Philippe,0,1
+Chalas   Émilie,Baichère   Didier,1,1
+Chalas   Émilie,Piron   Béatrice,1,1
+Chalas   Émilie,Braun-Pivet   Yaël,1,1
+Chalas   Émilie,de Vaucouleurs   Michèle,1,1
+Chalas   Émilie,Leguille-Balloy   Martine,1,1
+Chalas   Émilie,Houlié   Sacha,1,1
+Chalas   Émilie,Provendier   Florence,1,1
+Chalas   Émilie,Rebeyrotte   Rémy,1,1
+Chalas   Émilie,Savignat   Antoine,0,1
+Borowczyk   Julien,Kamowski   Catherine,1,1
+Borowczyk   Julien,Pradié   Aurélien,0,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Kuric   Aina,0,1
+Borowczyk   Julien,Bernalicis   Ugo,0,1
+Borowczyk   Julien,Houbron   Dimitri,1,1
+Borowczyk   Julien,Goulet   Perrine,1,1
+Borowczyk   Julien,Dumont   Pierre-Henri,0,1
+Borowczyk   Julien,Michels   Thierry,1,1
+Borowczyk   Julien,Bru   Vincent,1,1
+Borowczyk   Julien,Moutchou   Naïma,1,1
+Borowczyk   Julien,Lazaar   Fiona,1,1
+Borowczyk   Julien,Lakrafi   Amélia,1,1
+Borowczyk   Julien,Genetet   Anne,1,1
+Borowczyk   Julien,Forteza   Paula,1,1
+Borowczyk   Julien,Peu   Stéphane,0,1
+Borowczyk   Julien,Riotton   Véronique,1,1
+Borowczyk   Julien,Le Gendre   Gilles,1,1
+Borowczyk   Julien,Terlier   Jean,1,1
+Borowczyk   Julien,Rossi   Laurianne,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Avia   Laetitia,1,1
+Borowczyk   Julien,Michel-Kleisbauer   Philippe,0,1
+Borowczyk   Julien,Baichère   Didier,1,1
+Borowczyk   Julien,Piron   Béatrice,1,1
+Borowczyk   Julien,Braun-Pivet   Yaël,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Leguille-Balloy   Martine,1,1
+Borowczyk   Julien,Houlié   Sacha,1,1
+Borowczyk   Julien,Provendier   Florence,1,1
+Borowczyk   Julien,Rebeyrotte   Rémy,1,1
+Borowczyk   Julien,Savignat   Antoine,0,1
+Kamowski   Catherine,Pradié   Aurélien,0,1
+Kamowski   Catherine,Dubré-Chirat   Nicole,1,1
+Kamowski   Catherine,Kuric   Aina,0,1
+Kamowski   Catherine,Bernalicis   Ugo,0,1
+Kamowski   Catherine,Houbron   Dimitri,1,1
+Kamowski   Catherine,Goulet   Perrine,1,1
+Kamowski   Catherine,Dumont   Pierre-Henri,0,1
+Kamowski   Catherine,Michels   Thierry,1,1
+Kamowski   Catherine,Bru   Vincent,1,1
+Kamowski   Catherine,Moutchou   Naïma,1,1
+Kamowski   Catherine,Lazaar   Fiona,1,1
+Kamowski   Catherine,Lakrafi   Amélia,1,1
+Kamowski   Catherine,Genetet   Anne,1,1
+Kamowski   Catherine,Forteza   Paula,1,1
+Kamowski   Catherine,Peu   Stéphane,0,1
+Kamowski   Catherine,Riotton   Véronique,1,1
+Kamowski   Catherine,Le Gendre   Gilles,1,1
+Kamowski   Catherine,Terlier   Jean,1,1
+Kamowski   Catherine,Rossi   Laurianne,1,1
+Kamowski   Catherine,Rupin   Pacôme,1,1
+Kamowski   Catherine,Avia   Laetitia,1,1
+Kamowski   Catherine,Michel-Kleisbauer   Philippe,0,1
+Kamowski   Catherine,Baichère   Didier,1,1
+Kamowski   Catherine,Piron   Béatrice,1,1
+Kamowski   Catherine,Braun-Pivet   Yaël,1,1
+Kamowski   Catherine,de Vaucouleurs   Michèle,1,1
+Kamowski   Catherine,Leguille-Balloy   Martine,1,1
+Kamowski   Catherine,Houlié   Sacha,1,1
+Kamowski   Catherine,Provendier   Florence,1,1
+Kamowski   Catherine,Rebeyrotte   Rémy,1,1
+Kamowski   Catherine,Savignat   Antoine,0,1
+Pradié   Aurélien,Dubré-Chirat   Nicole,0,1
+Pradié   Aurélien,Kuric   Aina,1,1
+Pradié   Aurélien,Bernalicis   Ugo,1,1
+Pradié   Aurélien,Houbron   Dimitri,0,1
+Pradié   Aurélien,Goulet   Perrine,0,1
+Pradié   Aurélien,Dumont   Pierre-Henri,1,1
+Pradié   Aurélien,Michels   Thierry,0,1
+Pradié   Aurélien,Bru   Vincent,0,1
+Pradié   Aurélien,Moutchou   Naïma,0,1
+Pradié   Aurélien,Lazaar   Fiona,0,1
+Pradié   Aurélien,Lakrafi   Amélia,0,1
+Pradié   Aurélien,Genetet   Anne,0,1
+Pradié   Aurélien,Forteza   Paula,0,1
+Pradié   Aurélien,Peu   Stéphane,1,1
+Pradié   Aurélien,Riotton   Véronique,0,1
+Pradié   Aurélien,Le Gendre   Gilles,0,1
+Pradié   Aurélien,Terlier   Jean,0,1
+Pradié   Aurélien,Rossi   Laurianne,0,1
+Pradié   Aurélien,Rupin   Pacôme,0,1
+Pradié   Aurélien,Avia   Laetitia,0,1
+Pradié   Aurélien,Michel-Kleisbauer   Philippe,1,1
+Pradié   Aurélien,Baichère   Didier,0,1
+Pradié   Aurélien,Piron   Béatrice,0,1
+Pradié   Aurélien,Braun-Pivet   Yaël,0,1
+Pradié   Aurélien,de Vaucouleurs   Michèle,0,1
+Pradié   Aurélien,Leguille-Balloy   Martine,0,1
+Pradié   Aurélien,Houlié   Sacha,0,1
+Pradié   Aurélien,Provendier   Florence,0,1
+Pradié   Aurélien,Rebeyrotte   Rémy,0,1
+Pradié   Aurélien,Savignat   Antoine,1,1
+Dubré-Chirat   Nicole,Kuric   Aina,0,1
+Dubré-Chirat   Nicole,Bernalicis   Ugo,0,1
+Dubré-Chirat   Nicole,Houbron   Dimitri,1,1
+Dubré-Chirat   Nicole,Goulet   Perrine,1,1
+Dubré-Chirat   Nicole,Dumont   Pierre-Henri,0,1
+Dubré-Chirat   Nicole,Michels   Thierry,1,1
+Dubré-Chirat   Nicole,Bru   Vincent,1,1
+Dubré-Chirat   Nicole,Moutchou   Naïma,1,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Lakrafi   Amélia,1,1
+Dubré-Chirat   Nicole,Genetet   Anne,1,1
+Dubré-Chirat   Nicole,Forteza   Paula,1,1
+Dubré-Chirat   Nicole,Peu   Stéphane,0,1
+Dubré-Chirat   Nicole,Riotton   Véronique,1,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Rossi   Laurianne,1,1
+Dubré-Chirat   Nicole,Rupin   Pacôme,1,1
+Dubré-Chirat   Nicole,Avia   Laetitia,1,1
+Dubré-Chirat   Nicole,Michel-Kleisbauer   Philippe,0,1
+Dubré-Chirat   Nicole,Baichère   Didier,1,1
+Dubré-Chirat   Nicole,Piron   Béatrice,1,1
+Dubré-Chirat   Nicole,Braun-Pivet   Yaël,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Leguille-Balloy   Martine,1,1
+Dubré-Chirat   Nicole,Houlié   Sacha,1,1
+Dubré-Chirat   Nicole,Provendier   Florence,1,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Savignat   Antoine,0,1
+Kuric   Aina,Bernalicis   Ugo,1,1
+Kuric   Aina,Houbron   Dimitri,0,1
+Kuric   Aina,Goulet   Perrine,0,1
+Kuric   Aina,Dumont   Pierre-Henri,1,1
+Kuric   Aina,Michels   Thierry,0,1
+Kuric   Aina,Bru   Vincent,0,1
+Kuric   Aina,Moutchou   Naïma,0,1
+Kuric   Aina,Lazaar   Fiona,0,1
+Kuric   Aina,Lakrafi   Amélia,0,1
+Kuric   Aina,Genetet   Anne,0,1
+Kuric   Aina,Forteza   Paula,0,1
+Kuric   Aina,Peu   Stéphane,1,1
+Kuric   Aina,Riotton   Véronique,0,1
+Kuric   Aina,Le Gendre   Gilles,0,1
+Kuric   Aina,Terlier   Jean,0,1
+Kuric   Aina,Rossi   Laurianne,0,1
+Kuric   Aina,Rupin   Pacôme,0,1
+Kuric   Aina,Avia   Laetitia,0,1
+Kuric   Aina,Michel-Kleisbauer   Philippe,1,1
+Kuric   Aina,Baichère   Didier,0,1
+Kuric   Aina,Piron   Béatrice,0,1
+Kuric   Aina,Braun-Pivet   Yaël,0,1
+Kuric   Aina,de Vaucouleurs   Michèle,0,1
+Kuric   Aina,Leguille-Balloy   Martine,0,1
+Kuric   Aina,Houlié   Sacha,0,1
+Kuric   Aina,Provendier   Florence,0,1
+Kuric   Aina,Rebeyrotte   Rémy,0,1
+Kuric   Aina,Savignat   Antoine,1,1
+Bernalicis   Ugo,Houbron   Dimitri,0,1
+Bernalicis   Ugo,Goulet   Perrine,0,1
+Bernalicis   Ugo,Dumont   Pierre-Henri,1,1
+Bernalicis   Ugo,Michels   Thierry,0,1
+Bernalicis   Ugo,Bru   Vincent,0,1
+Bernalicis   Ugo,Moutchou   Naïma,0,1
+Bernalicis   Ugo,Lazaar   Fiona,0,1
+Bernalicis   Ugo,Lakrafi   Amélia,0,1
+Bernalicis   Ugo,Genetet   Anne,0,1
+Bernalicis   Ugo,Forteza   Paula,0,1
+Bernalicis   Ugo,Peu   Stéphane,1,1
+Bernalicis   Ugo,Riotton   Véronique,0,1
+Bernalicis   Ugo,Le Gendre   Gilles,0,1
+Bernalicis   Ugo,Terlier   Jean,0,1
+Bernalicis   Ugo,Rossi   Laurianne,0,1
+Bernalicis   Ugo,Rupin   Pacôme,0,1
+Bernalicis   Ugo,Avia   Laetitia,0,1
+Bernalicis   Ugo,Michel-Kleisbauer   Philippe,1,1
+Bernalicis   Ugo,Baichère   Didier,0,1
+Bernalicis   Ugo,Piron   Béatrice,0,1
+Bernalicis   Ugo,Braun-Pivet   Yaël,0,1
+Bernalicis   Ugo,de Vaucouleurs   Michèle,0,1
+Bernalicis   Ugo,Leguille-Balloy   Martine,0,1
+Bernalicis   Ugo,Houlié   Sacha,0,1
+Bernalicis   Ugo,Provendier   Florence,0,1
+Bernalicis   Ugo,Rebeyrotte   Rémy,0,1
+Bernalicis   Ugo,Savignat   Antoine,1,1
+Houbron   Dimitri,Goulet   Perrine,1,1
+Houbron   Dimitri,Dumont   Pierre-Henri,0,1
+Houbron   Dimitri,Michels   Thierry,1,1
+Houbron   Dimitri,Bru   Vincent,1,1
+Houbron   Dimitri,Moutchou   Naïma,1,1
+Houbron   Dimitri,Lazaar   Fiona,1,1
+Houbron   Dimitri,Lakrafi   Amélia,1,1
+Houbron   Dimitri,Genetet   Anne,1,1
+Houbron   Dimitri,Forteza   Paula,1,1
+Houbron   Dimitri,Peu   Stéphane,0,1
+Houbron   Dimitri,Riotton   Véronique,1,1
+Houbron   Dimitri,Le Gendre   Gilles,1,1
+Houbron   Dimitri,Terlier   Jean,1,1
+Houbron   Dimitri,Rossi   Laurianne,1,1
+Houbron   Dimitri,Rupin   Pacôme,1,1
+Houbron   Dimitri,Avia   Laetitia,1,1
+Houbron   Dimitri,Michel-Kleisbauer   Philippe,0,1
+Houbron   Dimitri,Baichère   Didier,1,1
+Houbron   Dimitri,Piron   Béatrice,1,1
+Houbron   Dimitri,Braun-Pivet   Yaël,1,1
+Houbron   Dimitri,de Vaucouleurs   Michèle,1,1
+Houbron   Dimitri,Leguille-Balloy   Martine,1,1
+Houbron   Dimitri,Houlié   Sacha,1,1
+Houbron   Dimitri,Provendier   Florence,1,1
+Houbron   Dimitri,Rebeyrotte   Rémy,1,1
+Houbron   Dimitri,Savignat   Antoine,0,1
+Goulet   Perrine,Dumont   Pierre-Henri,0,1
+Goulet   Perrine,Michels   Thierry,1,1
+Goulet   Perrine,Bru   Vincent,1,1
+Goulet   Perrine,Moutchou   Naïma,1,1
+Goulet   Perrine,Lazaar   Fiona,1,1
+Goulet   Perrine,Lakrafi   Amélia,1,1
+Goulet   Perrine,Genetet   Anne,1,1
+Goulet   Perrine,Forteza   Paula,1,1
+Goulet   Perrine,Peu   Stéphane,0,1
+Goulet   Perrine,Riotton   Véronique,1,1
+Goulet   Perrine,Le Gendre   Gilles,1,1
+Goulet   Perrine,Terlier   Jean,1,1
+Goulet   Perrine,Rossi   Laurianne,1,1
+Goulet   Perrine,Rupin   Pacôme,1,1
+Goulet   Perrine,Avia   Laetitia,1,1
+Goulet   Perrine,Michel-Kleisbauer   Philippe,0,1
+Goulet   Perrine,Baichère   Didier,1,1
+Goulet   Perrine,Piron   Béatrice,1,1
+Goulet   Perrine,Braun-Pivet   Yaël,1,1
+Goulet   Perrine,de Vaucouleurs   Michèle,1,1
+Goulet   Perrine,Leguille-Balloy   Martine,1,1
+Goulet   Perrine,Houlié   Sacha,1,1
+Goulet   Perrine,Provendier   Florence,1,1
+Goulet   Perrine,Rebeyrotte   Rémy,1,1
+Goulet   Perrine,Savignat   Antoine,0,1
+Dumont   Pierre-Henri,Michels   Thierry,0,1
+Dumont   Pierre-Henri,Bru   Vincent,0,1
+Dumont   Pierre-Henri,Moutchou   Naïma,0,1
+Dumont   Pierre-Henri,Lazaar   Fiona,0,1
+Dumont   Pierre-Henri,Lakrafi   Amélia,0,1
+Dumont   Pierre-Henri,Genetet   Anne,0,1
+Dumont   Pierre-Henri,Forteza   Paula,0,1
+Dumont   Pierre-Henri,Peu   Stéphane,1,1
+Dumont   Pierre-Henri,Riotton   Véronique,0,1
+Dumont   Pierre-Henri,Le Gendre   Gilles,0,1
+Dumont   Pierre-Henri,Terlier   Jean,0,1
+Dumont   Pierre-Henri,Rossi   Laurianne,0,1
+Dumont   Pierre-Henri,Rupin   Pacôme,0,1
+Dumont   Pierre-Henri,Avia   Laetitia,0,1
+Dumont   Pierre-Henri,Michel-Kleisbauer   Philippe,1,1
+Dumont   Pierre-Henri,Baichère   Didier,0,1
+Dumont   Pierre-Henri,Piron   Béatrice,0,1
+Dumont   Pierre-Henri,Braun-Pivet   Yaël,0,1
+Dumont   Pierre-Henri,de Vaucouleurs   Michèle,0,1
+Dumont   Pierre-Henri,Leguille-Balloy   Martine,0,1
+Dumont   Pierre-Henri,Houlié   Sacha,0,1
+Dumont   Pierre-Henri,Provendier   Florence,0,1
+Dumont   Pierre-Henri,Rebeyrotte   Rémy,0,1
+Dumont   Pierre-Henri,Savignat   Antoine,1,1
+Michels   Thierry,Bru   Vincent,1,1
+Michels   Thierry,Moutchou   Naïma,1,1
+Michels   Thierry,Lazaar   Fiona,1,1
+Michels   Thierry,Lakrafi   Amélia,1,1
+Michels   Thierry,Genetet   Anne,1,1
+Michels   Thierry,Forteza   Paula,1,1
+Michels   Thierry,Peu   Stéphane,0,1
+Michels   Thierry,Riotton   Véronique,1,1
+Michels   Thierry,Le Gendre   Gilles,1,1
+Michels   Thierry,Terlier   Jean,1,1
+Michels   Thierry,Rossi   Laurianne,1,1
+Michels   Thierry,Rupin   Pacôme,1,1
+Michels   Thierry,Avia   Laetitia,1,1
+Michels   Thierry,Michel-Kleisbauer   Philippe,0,1
+Michels   Thierry,Baichère   Didier,1,1
+Michels   Thierry,Piron   Béatrice,1,1
+Michels   Thierry,Braun-Pivet   Yaël,1,1
+Michels   Thierry,de Vaucouleurs   Michèle,1,1
+Michels   Thierry,Leguille-Balloy   Martine,1,1
+Michels   Thierry,Houlié   Sacha,1,1
+Michels   Thierry,Provendier   Florence,1,1
+Michels   Thierry,Rebeyrotte   Rémy,1,1
+Michels   Thierry,Savignat   Antoine,0,1
+Bru   Vincent,Moutchou   Naïma,1,1
+Bru   Vincent,Lazaar   Fiona,1,1
+Bru   Vincent,Lakrafi   Amélia,1,1
+Bru   Vincent,Genetet   Anne,1,1
+Bru   Vincent,Forteza   Paula,1,1
+Bru   Vincent,Peu   Stéphane,0,1
+Bru   Vincent,Riotton   Véronique,1,1
+Bru   Vincent,Le Gendre   Gilles,1,1
+Bru   Vincent,Terlier   Jean,1,1
+Bru   Vincent,Rossi   Laurianne,1,1
+Bru   Vincent,Rupin   Pacôme,1,1
+Bru   Vincent,Avia   Laetitia,1,1
+Bru   Vincent,Michel-Kleisbauer   Philippe,0,1
+Bru   Vincent,Baichère   Didier,1,1
+Bru   Vincent,Piron   Béatrice,1,1
+Bru   Vincent,Braun-Pivet   Yaël,1,1
+Bru   Vincent,de Vaucouleurs   Michèle,1,1
+Bru   Vincent,Leguille-Balloy   Martine,1,1
+Bru   Vincent,Houlié   Sacha,1,1
+Bru   Vincent,Provendier   Florence,1,1
+Bru   Vincent,Rebeyrotte   Rémy,1,1
+Bru   Vincent,Savignat   Antoine,0,1
+Moutchou   Naïma,Lazaar   Fiona,1,1
+Moutchou   Naïma,Lakrafi   Amélia,1,1
+Moutchou   Naïma,Genetet   Anne,1,1
+Moutchou   Naïma,Forteza   Paula,1,1
+Moutchou   Naïma,Peu   Stéphane,0,1
+Moutchou   Naïma,Riotton   Véronique,1,1
+Moutchou   Naïma,Le Gendre   Gilles,1,1
+Moutchou   Naïma,Terlier   Jean,1,1
+Moutchou   Naïma,Rossi   Laurianne,1,1
+Moutchou   Naïma,Rupin   Pacôme,1,1
+Moutchou   Naïma,Avia   Laetitia,1,1
+Moutchou   Naïma,Michel-Kleisbauer   Philippe,0,1
+Moutchou   Naïma,Baichère   Didier,1,1
+Moutchou   Naïma,Piron   Béatrice,1,1
+Moutchou   Naïma,Braun-Pivet   Yaël,1,1
+Moutchou   Naïma,de Vaucouleurs   Michèle,1,1
+Moutchou   Naïma,Leguille-Balloy   Martine,1,1
+Moutchou   Naïma,Houlié   Sacha,1,1
+Moutchou   Naïma,Provendier   Florence,1,1
+Moutchou   Naïma,Rebeyrotte   Rémy,1,1
+Moutchou   Naïma,Savignat   Antoine,0,1
+Lazaar   Fiona,Lakrafi   Amélia,1,1
+Lazaar   Fiona,Genetet   Anne,1,1
+Lazaar   Fiona,Forteza   Paula,1,1
+Lazaar   Fiona,Peu   Stéphane,0,1
+Lazaar   Fiona,Riotton   Véronique,1,1
+Lazaar   Fiona,Le Gendre   Gilles,1,1
+Lazaar   Fiona,Terlier   Jean,1,1
+Lazaar   Fiona,Rossi   Laurianne,1,1
+Lazaar   Fiona,Rupin   Pacôme,1,1
+Lazaar   Fiona,Avia   Laetitia,1,1
+Lazaar   Fiona,Michel-Kleisbauer   Philippe,0,1
+Lazaar   Fiona,Baichère   Didier,1,1
+Lazaar   Fiona,Piron   Béatrice,1,1
+Lazaar   Fiona,Braun-Pivet   Yaël,1,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,1,1
+Lazaar   Fiona,Leguille-Balloy   Martine,1,1
+Lazaar   Fiona,Houlié   Sacha,1,1
+Lazaar   Fiona,Provendier   Florence,1,1
+Lazaar   Fiona,Rebeyrotte   Rémy,1,1
+Lazaar   Fiona,Savignat   Antoine,0,1
+Lakrafi   Amélia,Genetet   Anne,1,1
+Lakrafi   Amélia,Forteza   Paula,1,1
+Lakrafi   Amélia,Peu   Stéphane,0,1
+Lakrafi   Amélia,Riotton   Véronique,1,1
+Lakrafi   Amélia,Le Gendre   Gilles,1,1
+Lakrafi   Amélia,Terlier   Jean,1,1
+Lakrafi   Amélia,Rossi   Laurianne,1,1
+Lakrafi   Amélia,Rupin   Pacôme,1,1
+Lakrafi   Amélia,Avia   Laetitia,1,1
+Lakrafi   Amélia,Michel-Kleisbauer   Philippe,0,1
+Lakrafi   Amélia,Baichère   Didier,1,1
+Lakrafi   Amélia,Piron   Béatrice,1,1
+Lakrafi   Amélia,Braun-Pivet   Yaël,1,1
+Lakrafi   Amélia,de Vaucouleurs   Michèle,1,1
+Lakrafi   Amélia,Leguille-Balloy   Martine,1,1
+Lakrafi   Amélia,Houlié   Sacha,1,1
+Lakrafi   Amélia,Provendier   Florence,1,1
+Lakrafi   Amélia,Rebeyrotte   Rémy,1,1
+Lakrafi   Amélia,Savignat   Antoine,0,1
+Genetet   Anne,Forteza   Paula,1,1
+Genetet   Anne,Peu   Stéphane,0,1
+Genetet   Anne,Riotton   Véronique,1,1
+Genetet   Anne,Le Gendre   Gilles,1,1
+Genetet   Anne,Terlier   Jean,1,1
+Genetet   Anne,Rossi   Laurianne,1,1
+Genetet   Anne,Rupin   Pacôme,1,1
+Genetet   Anne,Avia   Laetitia,1,1
+Genetet   Anne,Michel-Kleisbauer   Philippe,0,1
+Genetet   Anne,Baichère   Didier,1,1
+Genetet   Anne,Piron   Béatrice,1,1
+Genetet   Anne,Braun-Pivet   Yaël,1,1
+Genetet   Anne,de Vaucouleurs   Michèle,1,1
+Genetet   Anne,Leguille-Balloy   Martine,1,1
+Genetet   Anne,Houlié   Sacha,1,1
+Genetet   Anne,Provendier   Florence,1,1
+Genetet   Anne,Rebeyrotte   Rémy,1,1
+Genetet   Anne,Savignat   Antoine,0,1
+Forteza   Paula,Peu   Stéphane,0,1
+Forteza   Paula,Riotton   Véronique,1,1
+Forteza   Paula,Le Gendre   Gilles,1,1
+Forteza   Paula,Terlier   Jean,1,1
+Forteza   Paula,Rossi   Laurianne,1,1
+Forteza   Paula,Rupin   Pacôme,1,1
+Forteza   Paula,Avia   Laetitia,1,1
+Forteza   Paula,Michel-Kleisbauer   Philippe,0,1
+Forteza   Paula,Baichère   Didier,1,1
+Forteza   Paula,Piron   Béatrice,1,1
+Forteza   Paula,Braun-Pivet   Yaël,1,1
+Forteza   Paula,de Vaucouleurs   Michèle,1,1
+Forteza   Paula,Leguille-Balloy   Martine,1,1
+Forteza   Paula,Houlié   Sacha,1,1
+Forteza   Paula,Provendier   Florence,1,1
+Forteza   Paula,Rebeyrotte   Rémy,1,1
+Forteza   Paula,Savignat   Antoine,0,1
+Peu   Stéphane,Riotton   Véronique,0,1
+Peu   Stéphane,Le Gendre   Gilles,0,1
+Peu   Stéphane,Terlier   Jean,0,1
+Peu   Stéphane,Rossi   Laurianne,0,1
+Peu   Stéphane,Rupin   Pacôme,0,1
+Peu   Stéphane,Avia   Laetitia,0,1
+Peu   Stéphane,Michel-Kleisbauer   Philippe,1,1
+Peu   Stéphane,Baichère   Didier,0,1
+Peu   Stéphane,Piron   Béatrice,0,1
+Peu   Stéphane,Braun-Pivet   Yaël,0,1
+Peu   Stéphane,de Vaucouleurs   Michèle,0,1
+Peu   Stéphane,Leguille-Balloy   Martine,0,1
+Peu   Stéphane,Houlié   Sacha,0,1
+Peu   Stéphane,Provendier   Florence,0,1
+Peu   Stéphane,Rebeyrotte   Rémy,0,1
+Peu   Stéphane,Savignat   Antoine,1,1
+Riotton   Véronique,Le Gendre   Gilles,1,1
+Riotton   Véronique,Terlier   Jean,1,1
+Riotton   Véronique,Rossi   Laurianne,1,1
+Riotton   Véronique,Rupin   Pacôme,1,1
+Riotton   Véronique,Avia   Laetitia,1,1
+Riotton   Véronique,Michel-Kleisbauer   Philippe,0,1
+Riotton   Véronique,Baichère   Didier,1,1
+Riotton   Véronique,Piron   Béatrice,1,1
+Riotton   Véronique,Braun-Pivet   Yaël,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,1,1
+Riotton   Véronique,Leguille-Balloy   Martine,1,1
+Riotton   Véronique,Houlié   Sacha,1,1
+Riotton   Véronique,Provendier   Florence,1,1
+Riotton   Véronique,Rebeyrotte   Rémy,1,1
+Riotton   Véronique,Savignat   Antoine,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Rossi   Laurianne,1,1
+Le Gendre   Gilles,Rupin   Pacôme,1,1
+Le Gendre   Gilles,Avia   Laetitia,1,1
+Le Gendre   Gilles,Michel-Kleisbauer   Philippe,0,1
+Le Gendre   Gilles,Baichère   Didier,1,1
+Le Gendre   Gilles,Piron   Béatrice,1,1
+Le Gendre   Gilles,Braun-Pivet   Yaël,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,1,1
+Le Gendre   Gilles,Leguille-Balloy   Martine,1,1
+Le Gendre   Gilles,Houlié   Sacha,1,1
+Le Gendre   Gilles,Provendier   Florence,1,1
+Le Gendre   Gilles,Rebeyrotte   Rémy,1,1
+Le Gendre   Gilles,Savignat   Antoine,0,1
+Terlier   Jean,Rossi   Laurianne,1,1
+Terlier   Jean,Rupin   Pacôme,1,1
+Terlier   Jean,Avia   Laetitia,1,1
+Terlier   Jean,Michel-Kleisbauer   Philippe,0,1
+Terlier   Jean,Baichère   Didier,1,1
+Terlier   Jean,Piron   Béatrice,1,1
+Terlier   Jean,Braun-Pivet   Yaël,1,1
+Terlier   Jean,de Vaucouleurs   Michèle,1,1
+Terlier   Jean,Leguille-Balloy   Martine,1,1
+Terlier   Jean,Houlié   Sacha,1,1
+Terlier   Jean,Provendier   Florence,1,1
+Terlier   Jean,Rebeyrotte   Rémy,1,1
+Terlier   Jean,Savignat   Antoine,0,1
+Rossi   Laurianne,Rupin   Pacôme,1,1
+Rossi   Laurianne,Avia   Laetitia,1,1
+Rossi   Laurianne,Michel-Kleisbauer   Philippe,0,1
+Rossi   Laurianne,Baichère   Didier,1,1
+Rossi   Laurianne,Piron   Béatrice,1,1
+Rossi   Laurianne,Braun-Pivet   Yaël,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,1,1
+Rossi   Laurianne,Leguille-Balloy   Martine,1,1
+Rossi   Laurianne,Houlié   Sacha,1,1
+Rossi   Laurianne,Provendier   Florence,1,1
+Rossi   Laurianne,Rebeyrotte   Rémy,1,1
+Rossi   Laurianne,Savignat   Antoine,0,1
+Rupin   Pacôme,Avia   Laetitia,1,1
+Rupin   Pacôme,Michel-Kleisbauer   Philippe,0,1
+Rupin   Pacôme,Baichère   Didier,1,1
+Rupin   Pacôme,Piron   Béatrice,1,1
+Rupin   Pacôme,Braun-Pivet   Yaël,1,1
+Rupin   Pacôme,de Vaucouleurs   Michèle,1,1
+Rupin   Pacôme,Leguille-Balloy   Martine,1,1
+Rupin   Pacôme,Houlié   Sacha,1,1
+Rupin   Pacôme,Provendier   Florence,1,1
+Rupin   Pacôme,Rebeyrotte   Rémy,1,1
+Rupin   Pacôme,Savignat   Antoine,0,1
+Avia   Laetitia,Michel-Kleisbauer   Philippe,0,1
+Avia   Laetitia,Baichère   Didier,1,1
+Avia   Laetitia,Piron   Béatrice,1,1
+Avia   Laetitia,Braun-Pivet   Yaël,1,1
+Avia   Laetitia,de Vaucouleurs   Michèle,1,1
+Avia   Laetitia,Leguille-Balloy   Martine,1,1
+Avia   Laetitia,Houlié   Sacha,1,1
+Avia   Laetitia,Provendier   Florence,1,1
+Avia   Laetitia,Rebeyrotte   Rémy,1,1
+Avia   Laetitia,Savignat   Antoine,0,1
+Michel-Kleisbauer   Philippe,Baichère   Didier,0,1
+Michel-Kleisbauer   Philippe,Piron   Béatrice,0,1
+Michel-Kleisbauer   Philippe,Braun-Pivet   Yaël,0,1
+Michel-Kleisbauer   Philippe,de Vaucouleurs   Michèle,0,1
+Michel-Kleisbauer   Philippe,Leguille-Balloy   Martine,0,1
+Michel-Kleisbauer   Philippe,Houlié   Sacha,0,1
+Michel-Kleisbauer   Philippe,Provendier   Florence,0,1
+Michel-Kleisbauer   Philippe,Rebeyrotte   Rémy,0,1
+Michel-Kleisbauer   Philippe,Savignat   Antoine,1,1
+Baichère   Didier,Piron   Béatrice,1,1
+Baichère   Didier,Braun-Pivet   Yaël,1,1
+Baichère   Didier,de Vaucouleurs   Michèle,1,1
+Baichère   Didier,Leguille-Balloy   Martine,1,1
+Baichère   Didier,Houlié   Sacha,1,1
+Baichère   Didier,Provendier   Florence,1,1
+Baichère   Didier,Rebeyrotte   Rémy,1,1
+Baichère   Didier,Savignat   Antoine,0,1
+Piron   Béatrice,Braun-Pivet   Yaël,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,1,1
+Piron   Béatrice,Leguille-Balloy   Martine,1,1
+Piron   Béatrice,Houlié   Sacha,1,1
+Piron   Béatrice,Provendier   Florence,1,1
+Piron   Béatrice,Rebeyrotte   Rémy,1,1
+Piron   Béatrice,Savignat   Antoine,0,1
+Braun-Pivet   Yaël,de Vaucouleurs   Michèle,1,1
+Braun-Pivet   Yaël,Leguille-Balloy   Martine,1,1
+Braun-Pivet   Yaël,Houlié   Sacha,1,1
+Braun-Pivet   Yaël,Provendier   Florence,1,1
+Braun-Pivet   Yaël,Rebeyrotte   Rémy,1,1
+Braun-Pivet   Yaël,Savignat   Antoine,0,1
+de Vaucouleurs   Michèle,Leguille-Balloy   Martine,1,1
+de Vaucouleurs   Michèle,Houlié   Sacha,1,1
+de Vaucouleurs   Michèle,Provendier   Florence,1,1
+de Vaucouleurs   Michèle,Rebeyrotte   Rémy,1,1
+de Vaucouleurs   Michèle,Savignat   Antoine,0,1
+Leguille-Balloy   Martine,Houlié   Sacha,1,1
+Leguille-Balloy   Martine,Provendier   Florence,1,1
+Leguille-Balloy   Martine,Rebeyrotte   Rémy,1,1
+Leguille-Balloy   Martine,Savignat   Antoine,0,1
+Houlié   Sacha,Provendier   Florence,1,1
+Houlié   Sacha,Rebeyrotte   Rémy,1,1
+Houlié   Sacha,Savignat   Antoine,0,1
+Provendier   Florence,Rebeyrotte   Rémy,1,1
+Provendier   Florence,Savignat   Antoine,0,1
+Rebeyrotte   Rémy,Savignat   Antoine,0,1

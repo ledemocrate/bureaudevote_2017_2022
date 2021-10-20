@@ -1,0 +1,497 @@
+from,to,vote_commun,loi_commun
+Habib   David,Lagarde   Jean-Christophe,0,1
+Habib   David,Mazars   Stéphane,0,1
+Habib   David,Boyer   Pascale,0,1
+Habib   David,Valetta Ardisson   Alexandra,0,1
+Habib   David,Blanchet   Christophe,0,1
+Habib   David,Paris   Didier,0,1
+Habib   David,Meunier   Frédérique,0,1
+Habib   David,Balanant   Erwan,0,1
+Habib   David,Poulliat   Éric,0,1
+Habib   David,Ménard   Emmanuelle,0,1
+Habib   David,Cloarec-Le Nabour   Christine,0,1
+Habib   David,Abadie   Caroline,0,1
+Habib   David,Mis   Jean-Michel,0,1
+Habib   David,Borowczyk   Julien,0,1
+Habib   David,Dubré-Chirat   Nicole,0,1
+Habib   David,Bernalicis   Ugo,1,1
+Habib   David,Thill   Agnès,0,1
+Habib   David,Vichnievsky   Laurence,0,1
+Habib   David,Rilhac   Cécile,1,1
+Habib   David,Moutchou   Naïma,0,1
+Habib   David,Anato   Patrice,0,1
+Habib   David,Degois   Typhanie,0,1
+Habib   David,Bonnivard   Émilie,0,1
+Habib   David,Le Gendre   Gilles,0,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Avia   Laetitia,0,1
+Habib   David,Fauvergue   Jean-Michel,0,1
+Habib   David,Guerel   Émilie,0,1
+Habib   David,Faucillon   Elsa,1,1
+Habib   David,Rebeyrotte   Rémy,0,1
+Habib   David,Savignat   Antoine,0,1
+Lagarde   Jean-Christophe,Mazars   Stéphane,0,1
+Lagarde   Jean-Christophe,Boyer   Pascale,0,1
+Lagarde   Jean-Christophe,Valetta Ardisson   Alexandra,0,1
+Lagarde   Jean-Christophe,Blanchet   Christophe,0,1
+Lagarde   Jean-Christophe,Paris   Didier,0,1
+Lagarde   Jean-Christophe,Meunier   Frédérique,0,1
+Lagarde   Jean-Christophe,Balanant   Erwan,0,1
+Lagarde   Jean-Christophe,Poulliat   Éric,0,1
+Lagarde   Jean-Christophe,Ménard   Emmanuelle,0,1
+Lagarde   Jean-Christophe,Cloarec-Le Nabour   Christine,0,1
+Lagarde   Jean-Christophe,Abadie   Caroline,0,1
+Lagarde   Jean-Christophe,Mis   Jean-Michel,0,1
+Lagarde   Jean-Christophe,Borowczyk   Julien,0,1
+Lagarde   Jean-Christophe,Dubré-Chirat   Nicole,0,1
+Lagarde   Jean-Christophe,Bernalicis   Ugo,0,1
+Lagarde   Jean-Christophe,Thill   Agnès,0,1
+Lagarde   Jean-Christophe,Vichnievsky   Laurence,0,1
+Lagarde   Jean-Christophe,Rilhac   Cécile,0,1
+Lagarde   Jean-Christophe,Moutchou   Naïma,0,1
+Lagarde   Jean-Christophe,Anato   Patrice,1,1
+Lagarde   Jean-Christophe,Degois   Typhanie,0,1
+Lagarde   Jean-Christophe,Bonnivard   Émilie,1,1
+Lagarde   Jean-Christophe,Le Gendre   Gilles,0,1
+Lagarde   Jean-Christophe,Terlier   Jean,0,1
+Lagarde   Jean-Christophe,Avia   Laetitia,0,1
+Lagarde   Jean-Christophe,Fauvergue   Jean-Michel,0,1
+Lagarde   Jean-Christophe,Guerel   Émilie,0,1
+Lagarde   Jean-Christophe,Faucillon   Elsa,0,1
+Lagarde   Jean-Christophe,Rebeyrotte   Rémy,0,1
+Lagarde   Jean-Christophe,Savignat   Antoine,0,1
+Mazars   Stéphane,Boyer   Pascale,1,1
+Mazars   Stéphane,Valetta Ardisson   Alexandra,1,1
+Mazars   Stéphane,Blanchet   Christophe,1,1
+Mazars   Stéphane,Paris   Didier,1,1
+Mazars   Stéphane,Meunier   Frédérique,1,1
+Mazars   Stéphane,Balanant   Erwan,1,1
+Mazars   Stéphane,Poulliat   Éric,1,1
+Mazars   Stéphane,Ménard   Emmanuelle,1,1
+Mazars   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Mazars   Stéphane,Abadie   Caroline,1,1
+Mazars   Stéphane,Mis   Jean-Michel,1,1
+Mazars   Stéphane,Borowczyk   Julien,1,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,1,1
+Mazars   Stéphane,Bernalicis   Ugo,0,1
+Mazars   Stéphane,Thill   Agnès,1,1
+Mazars   Stéphane,Vichnievsky   Laurence,1,1
+Mazars   Stéphane,Rilhac   Cécile,0,1
+Mazars   Stéphane,Moutchou   Naïma,1,1
+Mazars   Stéphane,Anato   Patrice,0,1
+Mazars   Stéphane,Degois   Typhanie,1,1
+Mazars   Stéphane,Bonnivard   Émilie,0,1
+Mazars   Stéphane,Le Gendre   Gilles,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Avia   Laetitia,1,1
+Mazars   Stéphane,Fauvergue   Jean-Michel,1,1
+Mazars   Stéphane,Guerel   Émilie,1,1
+Mazars   Stéphane,Faucillon   Elsa,0,1
+Mazars   Stéphane,Rebeyrotte   Rémy,1,1
+Mazars   Stéphane,Savignat   Antoine,1,1
+Boyer   Pascale,Valetta Ardisson   Alexandra,1,1
+Boyer   Pascale,Blanchet   Christophe,1,1
+Boyer   Pascale,Paris   Didier,1,1
+Boyer   Pascale,Meunier   Frédérique,1,1
+Boyer   Pascale,Balanant   Erwan,1,1
+Boyer   Pascale,Poulliat   Éric,1,1
+Boyer   Pascale,Ménard   Emmanuelle,1,1
+Boyer   Pascale,Cloarec-Le Nabour   Christine,1,1
+Boyer   Pascale,Abadie   Caroline,1,1
+Boyer   Pascale,Mis   Jean-Michel,1,1
+Boyer   Pascale,Borowczyk   Julien,1,1
+Boyer   Pascale,Dubré-Chirat   Nicole,1,1
+Boyer   Pascale,Bernalicis   Ugo,0,1
+Boyer   Pascale,Thill   Agnès,1,1
+Boyer   Pascale,Vichnievsky   Laurence,1,1
+Boyer   Pascale,Rilhac   Cécile,0,1
+Boyer   Pascale,Moutchou   Naïma,1,1
+Boyer   Pascale,Anato   Patrice,0,1
+Boyer   Pascale,Degois   Typhanie,1,1
+Boyer   Pascale,Bonnivard   Émilie,0,1
+Boyer   Pascale,Le Gendre   Gilles,1,1
+Boyer   Pascale,Terlier   Jean,1,1
+Boyer   Pascale,Avia   Laetitia,1,1
+Boyer   Pascale,Fauvergue   Jean-Michel,1,1
+Boyer   Pascale,Guerel   Émilie,1,1
+Boyer   Pascale,Faucillon   Elsa,0,1
+Boyer   Pascale,Rebeyrotte   Rémy,1,1
+Boyer   Pascale,Savignat   Antoine,1,1
+Valetta Ardisson   Alexandra,Blanchet   Christophe,1,1
+Valetta Ardisson   Alexandra,Paris   Didier,1,1
+Valetta Ardisson   Alexandra,Meunier   Frédérique,1,1
+Valetta Ardisson   Alexandra,Balanant   Erwan,1,1
+Valetta Ardisson   Alexandra,Poulliat   Éric,1,1
+Valetta Ardisson   Alexandra,Ménard   Emmanuelle,1,1
+Valetta Ardisson   Alexandra,Cloarec-Le Nabour   Christine,1,1
+Valetta Ardisson   Alexandra,Abadie   Caroline,1,1
+Valetta Ardisson   Alexandra,Mis   Jean-Michel,1,1
+Valetta Ardisson   Alexandra,Borowczyk   Julien,1,1
+Valetta Ardisson   Alexandra,Dubré-Chirat   Nicole,1,1
+Valetta Ardisson   Alexandra,Bernalicis   Ugo,0,1
+Valetta Ardisson   Alexandra,Thill   Agnès,1,1
+Valetta Ardisson   Alexandra,Vichnievsky   Laurence,1,1
+Valetta Ardisson   Alexandra,Rilhac   Cécile,0,1
+Valetta Ardisson   Alexandra,Moutchou   Naïma,1,1
+Valetta Ardisson   Alexandra,Anato   Patrice,0,1
+Valetta Ardisson   Alexandra,Degois   Typhanie,1,1
+Valetta Ardisson   Alexandra,Bonnivard   Émilie,0,1
+Valetta Ardisson   Alexandra,Le Gendre   Gilles,1,1
+Valetta Ardisson   Alexandra,Terlier   Jean,1,1
+Valetta Ardisson   Alexandra,Avia   Laetitia,1,1
+Valetta Ardisson   Alexandra,Fauvergue   Jean-Michel,1,1
+Valetta Ardisson   Alexandra,Guerel   Émilie,1,1
+Valetta Ardisson   Alexandra,Faucillon   Elsa,0,1
+Valetta Ardisson   Alexandra,Rebeyrotte   Rémy,1,1
+Valetta Ardisson   Alexandra,Savignat   Antoine,1,1
+Blanchet   Christophe,Paris   Didier,1,1
+Blanchet   Christophe,Meunier   Frédérique,1,1
+Blanchet   Christophe,Balanant   Erwan,1,1
+Blanchet   Christophe,Poulliat   Éric,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,1,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Abadie   Caroline,1,1
+Blanchet   Christophe,Mis   Jean-Michel,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Dubré-Chirat   Nicole,1,1
+Blanchet   Christophe,Bernalicis   Ugo,0,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Vichnievsky   Laurence,1,1
+Blanchet   Christophe,Rilhac   Cécile,0,1
+Blanchet   Christophe,Moutchou   Naïma,1,1
+Blanchet   Christophe,Anato   Patrice,0,1
+Blanchet   Christophe,Degois   Typhanie,1,1
+Blanchet   Christophe,Bonnivard   Émilie,0,1
+Blanchet   Christophe,Le Gendre   Gilles,1,1
+Blanchet   Christophe,Terlier   Jean,1,1
+Blanchet   Christophe,Avia   Laetitia,1,1
+Blanchet   Christophe,Fauvergue   Jean-Michel,1,1
+Blanchet   Christophe,Guerel   Émilie,1,1
+Blanchet   Christophe,Faucillon   Elsa,0,1
+Blanchet   Christophe,Rebeyrotte   Rémy,1,1
+Blanchet   Christophe,Savignat   Antoine,1,1
+Paris   Didier,Meunier   Frédérique,1,1
+Paris   Didier,Balanant   Erwan,1,1
+Paris   Didier,Poulliat   Éric,1,1
+Paris   Didier,Ménard   Emmanuelle,1,1
+Paris   Didier,Cloarec-Le Nabour   Christine,1,1
+Paris   Didier,Abadie   Caroline,1,1
+Paris   Didier,Mis   Jean-Michel,1,1
+Paris   Didier,Borowczyk   Julien,1,1
+Paris   Didier,Dubré-Chirat   Nicole,1,1
+Paris   Didier,Bernalicis   Ugo,0,1
+Paris   Didier,Thill   Agnès,1,1
+Paris   Didier,Vichnievsky   Laurence,1,1
+Paris   Didier,Rilhac   Cécile,0,1
+Paris   Didier,Moutchou   Naïma,1,1
+Paris   Didier,Anato   Patrice,0,1
+Paris   Didier,Degois   Typhanie,1,1
+Paris   Didier,Bonnivard   Émilie,0,1
+Paris   Didier,Le Gendre   Gilles,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Avia   Laetitia,1,1
+Paris   Didier,Fauvergue   Jean-Michel,1,1
+Paris   Didier,Guerel   Émilie,1,1
+Paris   Didier,Faucillon   Elsa,0,1
+Paris   Didier,Rebeyrotte   Rémy,1,1
+Paris   Didier,Savignat   Antoine,1,1
+Meunier   Frédérique,Balanant   Erwan,1,1
+Meunier   Frédérique,Poulliat   Éric,1,1
+Meunier   Frédérique,Ménard   Emmanuelle,1,1
+Meunier   Frédérique,Cloarec-Le Nabour   Christine,1,1
+Meunier   Frédérique,Abadie   Caroline,1,1
+Meunier   Frédérique,Mis   Jean-Michel,1,1
+Meunier   Frédérique,Borowczyk   Julien,1,1
+Meunier   Frédérique,Dubré-Chirat   Nicole,1,1
+Meunier   Frédérique,Bernalicis   Ugo,0,1
+Meunier   Frédérique,Thill   Agnès,1,1
+Meunier   Frédérique,Vichnievsky   Laurence,1,1
+Meunier   Frédérique,Rilhac   Cécile,0,1
+Meunier   Frédérique,Moutchou   Naïma,1,1
+Meunier   Frédérique,Anato   Patrice,0,1
+Meunier   Frédérique,Degois   Typhanie,1,1
+Meunier   Frédérique,Bonnivard   Émilie,0,1
+Meunier   Frédérique,Le Gendre   Gilles,1,1
+Meunier   Frédérique,Terlier   Jean,1,1
+Meunier   Frédérique,Avia   Laetitia,1,1
+Meunier   Frédérique,Fauvergue   Jean-Michel,1,1
+Meunier   Frédérique,Guerel   Émilie,1,1
+Meunier   Frédérique,Faucillon   Elsa,0,1
+Meunier   Frédérique,Rebeyrotte   Rémy,1,1
+Meunier   Frédérique,Savignat   Antoine,1,1
+Balanant   Erwan,Poulliat   Éric,1,1
+Balanant   Erwan,Ménard   Emmanuelle,1,1
+Balanant   Erwan,Cloarec-Le Nabour   Christine,1,1
+Balanant   Erwan,Abadie   Caroline,1,1
+Balanant   Erwan,Mis   Jean-Michel,1,1
+Balanant   Erwan,Borowczyk   Julien,1,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Bernalicis   Ugo,0,1
+Balanant   Erwan,Thill   Agnès,1,1
+Balanant   Erwan,Vichnievsky   Laurence,1,1
+Balanant   Erwan,Rilhac   Cécile,0,1
+Balanant   Erwan,Moutchou   Naïma,1,1
+Balanant   Erwan,Anato   Patrice,0,1
+Balanant   Erwan,Degois   Typhanie,1,1
+Balanant   Erwan,Bonnivard   Émilie,0,1
+Balanant   Erwan,Le Gendre   Gilles,1,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Avia   Laetitia,1,1
+Balanant   Erwan,Fauvergue   Jean-Michel,1,1
+Balanant   Erwan,Guerel   Émilie,1,1
+Balanant   Erwan,Faucillon   Elsa,0,1
+Balanant   Erwan,Rebeyrotte   Rémy,1,1
+Balanant   Erwan,Savignat   Antoine,1,1
+Poulliat   Éric,Ménard   Emmanuelle,1,1
+Poulliat   Éric,Cloarec-Le Nabour   Christine,1,1
+Poulliat   Éric,Abadie   Caroline,1,1
+Poulliat   Éric,Mis   Jean-Michel,1,1
+Poulliat   Éric,Borowczyk   Julien,1,1
+Poulliat   Éric,Dubré-Chirat   Nicole,1,1
+Poulliat   Éric,Bernalicis   Ugo,0,1
+Poulliat   Éric,Thill   Agnès,1,1
+Poulliat   Éric,Vichnievsky   Laurence,1,1
+Poulliat   Éric,Rilhac   Cécile,0,1
+Poulliat   Éric,Moutchou   Naïma,1,1
+Poulliat   Éric,Anato   Patrice,0,1
+Poulliat   Éric,Degois   Typhanie,1,1
+Poulliat   Éric,Bonnivard   Émilie,0,1
+Poulliat   Éric,Le Gendre   Gilles,1,1
+Poulliat   Éric,Terlier   Jean,1,1
+Poulliat   Éric,Avia   Laetitia,1,1
+Poulliat   Éric,Fauvergue   Jean-Michel,1,1
+Poulliat   Éric,Guerel   Émilie,1,1
+Poulliat   Éric,Faucillon   Elsa,0,1
+Poulliat   Éric,Rebeyrotte   Rémy,1,1
+Poulliat   Éric,Savignat   Antoine,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,1,1
+Ménard   Emmanuelle,Abadie   Caroline,1,1
+Ménard   Emmanuelle,Mis   Jean-Michel,1,1
+Ménard   Emmanuelle,Borowczyk   Julien,1,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,1,1
+Ménard   Emmanuelle,Bernalicis   Ugo,0,1
+Ménard   Emmanuelle,Thill   Agnès,1,1
+Ménard   Emmanuelle,Vichnievsky   Laurence,1,1
+Ménard   Emmanuelle,Rilhac   Cécile,0,1
+Ménard   Emmanuelle,Moutchou   Naïma,1,1
+Ménard   Emmanuelle,Anato   Patrice,0,1
+Ménard   Emmanuelle,Degois   Typhanie,1,1
+Ménard   Emmanuelle,Bonnivard   Émilie,0,1
+Ménard   Emmanuelle,Le Gendre   Gilles,1,1
+Ménard   Emmanuelle,Terlier   Jean,1,1
+Ménard   Emmanuelle,Avia   Laetitia,1,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,1,1
+Ménard   Emmanuelle,Guerel   Émilie,1,1
+Ménard   Emmanuelle,Faucillon   Elsa,0,1
+Ménard   Emmanuelle,Rebeyrotte   Rémy,1,1
+Ménard   Emmanuelle,Savignat   Antoine,1,1
+Cloarec-Le Nabour   Christine,Abadie   Caroline,1,1
+Cloarec-Le Nabour   Christine,Mis   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Bernalicis   Ugo,0,1
+Cloarec-Le Nabour   Christine,Thill   Agnès,1,1
+Cloarec-Le Nabour   Christine,Vichnievsky   Laurence,1,1
+Cloarec-Le Nabour   Christine,Rilhac   Cécile,0,1
+Cloarec-Le Nabour   Christine,Moutchou   Naïma,1,1
+Cloarec-Le Nabour   Christine,Anato   Patrice,0,1
+Cloarec-Le Nabour   Christine,Degois   Typhanie,1,1
+Cloarec-Le Nabour   Christine,Bonnivard   Émilie,0,1
+Cloarec-Le Nabour   Christine,Le Gendre   Gilles,1,1
+Cloarec-Le Nabour   Christine,Terlier   Jean,1,1
+Cloarec-Le Nabour   Christine,Avia   Laetitia,1,1
+Cloarec-Le Nabour   Christine,Fauvergue   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Guerel   Émilie,1,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,0,1
+Cloarec-Le Nabour   Christine,Rebeyrotte   Rémy,1,1
+Cloarec-Le Nabour   Christine,Savignat   Antoine,1,1
+Abadie   Caroline,Mis   Jean-Michel,1,1
+Abadie   Caroline,Borowczyk   Julien,1,1
+Abadie   Caroline,Dubré-Chirat   Nicole,1,1
+Abadie   Caroline,Bernalicis   Ugo,0,1
+Abadie   Caroline,Thill   Agnès,1,1
+Abadie   Caroline,Vichnievsky   Laurence,1,1
+Abadie   Caroline,Rilhac   Cécile,0,1
+Abadie   Caroline,Moutchou   Naïma,1,1
+Abadie   Caroline,Anato   Patrice,0,1
+Abadie   Caroline,Degois   Typhanie,1,1
+Abadie   Caroline,Bonnivard   Émilie,0,1
+Abadie   Caroline,Le Gendre   Gilles,1,1
+Abadie   Caroline,Terlier   Jean,1,1
+Abadie   Caroline,Avia   Laetitia,1,1
+Abadie   Caroline,Fauvergue   Jean-Michel,1,1
+Abadie   Caroline,Guerel   Émilie,1,1
+Abadie   Caroline,Faucillon   Elsa,0,1
+Abadie   Caroline,Rebeyrotte   Rémy,1,1
+Abadie   Caroline,Savignat   Antoine,1,1
+Mis   Jean-Michel,Borowczyk   Julien,1,1
+Mis   Jean-Michel,Dubré-Chirat   Nicole,1,1
+Mis   Jean-Michel,Bernalicis   Ugo,0,1
+Mis   Jean-Michel,Thill   Agnès,1,1
+Mis   Jean-Michel,Vichnievsky   Laurence,1,1
+Mis   Jean-Michel,Rilhac   Cécile,0,1
+Mis   Jean-Michel,Moutchou   Naïma,1,1
+Mis   Jean-Michel,Anato   Patrice,0,1
+Mis   Jean-Michel,Degois   Typhanie,1,1
+Mis   Jean-Michel,Bonnivard   Émilie,0,1
+Mis   Jean-Michel,Le Gendre   Gilles,1,1
+Mis   Jean-Michel,Terlier   Jean,1,1
+Mis   Jean-Michel,Avia   Laetitia,1,1
+Mis   Jean-Michel,Fauvergue   Jean-Michel,1,1
+Mis   Jean-Michel,Guerel   Émilie,1,1
+Mis   Jean-Michel,Faucillon   Elsa,0,1
+Mis   Jean-Michel,Rebeyrotte   Rémy,1,1
+Mis   Jean-Michel,Savignat   Antoine,1,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Bernalicis   Ugo,0,1
+Borowczyk   Julien,Thill   Agnès,1,1
+Borowczyk   Julien,Vichnievsky   Laurence,1,1
+Borowczyk   Julien,Rilhac   Cécile,0,1
+Borowczyk   Julien,Moutchou   Naïma,1,1
+Borowczyk   Julien,Anato   Patrice,0,1
+Borowczyk   Julien,Degois   Typhanie,1,1
+Borowczyk   Julien,Bonnivard   Émilie,0,1
+Borowczyk   Julien,Le Gendre   Gilles,1,1
+Borowczyk   Julien,Terlier   Jean,1,1
+Borowczyk   Julien,Avia   Laetitia,1,1
+Borowczyk   Julien,Fauvergue   Jean-Michel,1,1
+Borowczyk   Julien,Guerel   Émilie,1,1
+Borowczyk   Julien,Faucillon   Elsa,0,1
+Borowczyk   Julien,Rebeyrotte   Rémy,1,1
+Borowczyk   Julien,Savignat   Antoine,1,1
+Dubré-Chirat   Nicole,Bernalicis   Ugo,0,1
+Dubré-Chirat   Nicole,Thill   Agnès,1,1
+Dubré-Chirat   Nicole,Vichnievsky   Laurence,1,1
+Dubré-Chirat   Nicole,Rilhac   Cécile,0,1
+Dubré-Chirat   Nicole,Moutchou   Naïma,1,1
+Dubré-Chirat   Nicole,Anato   Patrice,0,1
+Dubré-Chirat   Nicole,Degois   Typhanie,1,1
+Dubré-Chirat   Nicole,Bonnivard   Émilie,0,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Avia   Laetitia,1,1
+Dubré-Chirat   Nicole,Fauvergue   Jean-Michel,1,1
+Dubré-Chirat   Nicole,Guerel   Émilie,1,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,0,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Savignat   Antoine,1,1
+Bernalicis   Ugo,Thill   Agnès,0,1
+Bernalicis   Ugo,Vichnievsky   Laurence,0,1
+Bernalicis   Ugo,Rilhac   Cécile,1,1
+Bernalicis   Ugo,Moutchou   Naïma,0,1
+Bernalicis   Ugo,Anato   Patrice,0,1
+Bernalicis   Ugo,Degois   Typhanie,0,1
+Bernalicis   Ugo,Bonnivard   Émilie,0,1
+Bernalicis   Ugo,Le Gendre   Gilles,0,1
+Bernalicis   Ugo,Terlier   Jean,0,1
+Bernalicis   Ugo,Avia   Laetitia,0,1
+Bernalicis   Ugo,Fauvergue   Jean-Michel,0,1
+Bernalicis   Ugo,Guerel   Émilie,0,1
+Bernalicis   Ugo,Faucillon   Elsa,1,1
+Bernalicis   Ugo,Rebeyrotte   Rémy,0,1
+Bernalicis   Ugo,Savignat   Antoine,0,1
+Thill   Agnès,Vichnievsky   Laurence,1,1
+Thill   Agnès,Rilhac   Cécile,0,1
+Thill   Agnès,Moutchou   Naïma,1,1
+Thill   Agnès,Anato   Patrice,0,1
+Thill   Agnès,Degois   Typhanie,1,1
+Thill   Agnès,Bonnivard   Émilie,0,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Terlier   Jean,1,1
+Thill   Agnès,Avia   Laetitia,1,1
+Thill   Agnès,Fauvergue   Jean-Michel,1,1
+Thill   Agnès,Guerel   Émilie,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,Rebeyrotte   Rémy,1,1
+Thill   Agnès,Savignat   Antoine,1,1
+Vichnievsky   Laurence,Rilhac   Cécile,0,1
+Vichnievsky   Laurence,Moutchou   Naïma,1,1
+Vichnievsky   Laurence,Anato   Patrice,0,1
+Vichnievsky   Laurence,Degois   Typhanie,1,1
+Vichnievsky   Laurence,Bonnivard   Émilie,0,1
+Vichnievsky   Laurence,Le Gendre   Gilles,1,1
+Vichnievsky   Laurence,Terlier   Jean,1,1
+Vichnievsky   Laurence,Avia   Laetitia,1,1
+Vichnievsky   Laurence,Fauvergue   Jean-Michel,1,1
+Vichnievsky   Laurence,Guerel   Émilie,1,1
+Vichnievsky   Laurence,Faucillon   Elsa,0,1
+Vichnievsky   Laurence,Rebeyrotte   Rémy,1,1
+Vichnievsky   Laurence,Savignat   Antoine,1,1
+Rilhac   Cécile,Moutchou   Naïma,0,1
+Rilhac   Cécile,Anato   Patrice,0,1
+Rilhac   Cécile,Degois   Typhanie,0,1
+Rilhac   Cécile,Bonnivard   Émilie,0,1
+Rilhac   Cécile,Le Gendre   Gilles,0,1
+Rilhac   Cécile,Terlier   Jean,0,1
+Rilhac   Cécile,Avia   Laetitia,0,1
+Rilhac   Cécile,Fauvergue   Jean-Michel,0,1
+Rilhac   Cécile,Guerel   Émilie,0,1
+Rilhac   Cécile,Faucillon   Elsa,1,1
+Rilhac   Cécile,Rebeyrotte   Rémy,0,1
+Rilhac   Cécile,Savignat   Antoine,0,1
+Moutchou   Naïma,Anato   Patrice,0,1
+Moutchou   Naïma,Degois   Typhanie,1,1
+Moutchou   Naïma,Bonnivard   Émilie,0,1
+Moutchou   Naïma,Le Gendre   Gilles,1,1
+Moutchou   Naïma,Terlier   Jean,1,1
+Moutchou   Naïma,Avia   Laetitia,1,1
+Moutchou   Naïma,Fauvergue   Jean-Michel,1,1
+Moutchou   Naïma,Guerel   Émilie,1,1
+Moutchou   Naïma,Faucillon   Elsa,0,1
+Moutchou   Naïma,Rebeyrotte   Rémy,1,1
+Moutchou   Naïma,Savignat   Antoine,1,1
+Anato   Patrice,Degois   Typhanie,0,1
+Anato   Patrice,Bonnivard   Émilie,1,1
+Anato   Patrice,Le Gendre   Gilles,0,1
+Anato   Patrice,Terlier   Jean,0,1
+Anato   Patrice,Avia   Laetitia,0,1
+Anato   Patrice,Fauvergue   Jean-Michel,0,1
+Anato   Patrice,Guerel   Émilie,0,1
+Anato   Patrice,Faucillon   Elsa,0,1
+Anato   Patrice,Rebeyrotte   Rémy,0,1
+Anato   Patrice,Savignat   Antoine,0,1
+Degois   Typhanie,Bonnivard   Émilie,0,1
+Degois   Typhanie,Le Gendre   Gilles,1,1
+Degois   Typhanie,Terlier   Jean,1,1
+Degois   Typhanie,Avia   Laetitia,1,1
+Degois   Typhanie,Fauvergue   Jean-Michel,1,1
+Degois   Typhanie,Guerel   Émilie,1,1
+Degois   Typhanie,Faucillon   Elsa,0,1
+Degois   Typhanie,Rebeyrotte   Rémy,1,1
+Degois   Typhanie,Savignat   Antoine,1,1
+Bonnivard   Émilie,Le Gendre   Gilles,0,1
+Bonnivard   Émilie,Terlier   Jean,0,1
+Bonnivard   Émilie,Avia   Laetitia,0,1
+Bonnivard   Émilie,Fauvergue   Jean-Michel,0,1
+Bonnivard   Émilie,Guerel   Émilie,0,1
+Bonnivard   Émilie,Faucillon   Elsa,0,1
+Bonnivard   Émilie,Rebeyrotte   Rémy,0,1
+Bonnivard   Émilie,Savignat   Antoine,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Avia   Laetitia,1,1
+Le Gendre   Gilles,Fauvergue   Jean-Michel,1,1
+Le Gendre   Gilles,Guerel   Émilie,1,1
+Le Gendre   Gilles,Faucillon   Elsa,0,1
+Le Gendre   Gilles,Rebeyrotte   Rémy,1,1
+Le Gendre   Gilles,Savignat   Antoine,1,1
+Terlier   Jean,Avia   Laetitia,1,1
+Terlier   Jean,Fauvergue   Jean-Michel,1,1
+Terlier   Jean,Guerel   Émilie,1,1
+Terlier   Jean,Faucillon   Elsa,0,1
+Terlier   Jean,Rebeyrotte   Rémy,1,1
+Terlier   Jean,Savignat   Antoine,1,1
+Avia   Laetitia,Fauvergue   Jean-Michel,1,1
+Avia   Laetitia,Guerel   Émilie,1,1
+Avia   Laetitia,Faucillon   Elsa,0,1
+Avia   Laetitia,Rebeyrotte   Rémy,1,1
+Avia   Laetitia,Savignat   Antoine,1,1
+Fauvergue   Jean-Michel,Guerel   Émilie,1,1
+Fauvergue   Jean-Michel,Faucillon   Elsa,0,1
+Fauvergue   Jean-Michel,Rebeyrotte   Rémy,1,1
+Fauvergue   Jean-Michel,Savignat   Antoine,1,1
+Guerel   Émilie,Faucillon   Elsa,0,1
+Guerel   Émilie,Rebeyrotte   Rémy,1,1
+Guerel   Émilie,Savignat   Antoine,1,1
+Faucillon   Elsa,Rebeyrotte   Rémy,0,1
+Faucillon   Elsa,Savignat   Antoine,0,1
+Rebeyrotte   Rémy,Savignat   Antoine,1,1

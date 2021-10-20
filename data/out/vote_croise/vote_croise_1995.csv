@@ -1,0 +1,742 @@
+from,to,vote_commun,loi_commun
+Batho   Delphine,Battistel   Marie-Noëlle,1,1
+Batho   Delphine,Pupponi   François,0,1
+Batho   Delphine,Lambert   François-Michel,0,1
+Batho   Delphine,Blein   Yves,0,1
+Batho   Delphine,Aubert   Julien,0,1
+Batho   Delphine,Boyer   Pascale,0,1
+Batho   Delphine,Marsaud   Sandra,0,1
+Batho   Delphine,Michel-Brassart   Monica,0,1
+Batho   Delphine,Acquaviva   Jean-Félix,0,1
+Batho   Delphine,de Lavergne   Célia,0,1
+Batho   Delphine,Tamarelle-Verhaeghe   Marie,0,1
+Batho   Delphine,Cellier   Anthony,0,1
+Batho   Delphine,Chalumeau   Philippe,0,1
+Batho   Delphine,Labaronne   Daniel,0,1
+Batho   Delphine,Colboc   Fabienne,0,1
+Batho   Delphine,Motin   Cendra,0,1
+Batho   Delphine,Meynier-Millefert   Marjolaine,0,1
+Batho   Delphine,Sarles   Nathalie,0,1
+Batho   Delphine,Tiegna   Huguette,0,1
+Batho   Delphine,Bolo   Philippe,0,1
+Batho   Delphine,Le Peih   Nicole,0,1
+Batho   Delphine,Perrot   Patrice,0,1
+Batho   Delphine,Parmentier-Lecocq   Charlotte,0,1
+Batho   Delphine,Osson   Catherine,0,1
+Batho   Delphine,Potterie   Benoit,0,1
+Batho   Delphine,Panot   Mathilde,1,1
+Batho   Delphine,Bassire   Nathalie,0,1
+Batho   Delphine,Lescure   Roland,0,1
+Batho   Delphine,Petit   Frédéric,0,1
+Batho   Delphine,Bonnell   Bruno,0,1
+Batho   Delphine,Fontenel-Personne   Pascale,0,1
+Batho   Delphine,Obono   Danièle,1,1
+Batho   Delphine,Adam   Damien,0,1
+Batho   Delphine,Granjus   Florence,0,1
+Batho   Delphine,Wulfranc   Hubert,1,1
+Batho   Delphine,Beaudouin-Hubiere   Sophie,0,1
+Batho   Delphine,Thiébaut   Vincent,0,1
+Batho   Delphine,Chouat   Francis,0,1
+Battistel   Marie-Noëlle,Pupponi   François,0,1
+Battistel   Marie-Noëlle,Lambert   François-Michel,0,1
+Battistel   Marie-Noëlle,Blein   Yves,0,1
+Battistel   Marie-Noëlle,Aubert   Julien,0,1
+Battistel   Marie-Noëlle,Boyer   Pascale,0,1
+Battistel   Marie-Noëlle,Marsaud   Sandra,0,1
+Battistel   Marie-Noëlle,Michel-Brassart   Monica,0,1
+Battistel   Marie-Noëlle,Acquaviva   Jean-Félix,0,1
+Battistel   Marie-Noëlle,de Lavergne   Célia,0,1
+Battistel   Marie-Noëlle,Tamarelle-Verhaeghe   Marie,0,1
+Battistel   Marie-Noëlle,Cellier   Anthony,0,1
+Battistel   Marie-Noëlle,Chalumeau   Philippe,0,1
+Battistel   Marie-Noëlle,Labaronne   Daniel,0,1
+Battistel   Marie-Noëlle,Colboc   Fabienne,0,1
+Battistel   Marie-Noëlle,Motin   Cendra,0,1
+Battistel   Marie-Noëlle,Meynier-Millefert   Marjolaine,0,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,0,1
+Battistel   Marie-Noëlle,Tiegna   Huguette,0,1
+Battistel   Marie-Noëlle,Bolo   Philippe,0,1
+Battistel   Marie-Noëlle,Le Peih   Nicole,0,1
+Battistel   Marie-Noëlle,Perrot   Patrice,0,1
+Battistel   Marie-Noëlle,Parmentier-Lecocq   Charlotte,0,1
+Battistel   Marie-Noëlle,Osson   Catherine,0,1
+Battistel   Marie-Noëlle,Potterie   Benoit,0,1
+Battistel   Marie-Noëlle,Panot   Mathilde,1,1
+Battistel   Marie-Noëlle,Bassire   Nathalie,0,1
+Battistel   Marie-Noëlle,Lescure   Roland,0,1
+Battistel   Marie-Noëlle,Petit   Frédéric,0,1
+Battistel   Marie-Noëlle,Bonnell   Bruno,0,1
+Battistel   Marie-Noëlle,Fontenel-Personne   Pascale,0,1
+Battistel   Marie-Noëlle,Obono   Danièle,1,1
+Battistel   Marie-Noëlle,Adam   Damien,0,1
+Battistel   Marie-Noëlle,Granjus   Florence,0,1
+Battistel   Marie-Noëlle,Wulfranc   Hubert,1,1
+Battistel   Marie-Noëlle,Beaudouin-Hubiere   Sophie,0,1
+Battistel   Marie-Noëlle,Thiébaut   Vincent,0,1
+Battistel   Marie-Noëlle,Chouat   Francis,0,1
+Pupponi   François,Lambert   François-Michel,1,1
+Pupponi   François,Blein   Yves,1,1
+Pupponi   François,Aubert   Julien,0,1
+Pupponi   François,Boyer   Pascale,1,1
+Pupponi   François,Marsaud   Sandra,1,1
+Pupponi   François,Michel-Brassart   Monica,1,1
+Pupponi   François,Acquaviva   Jean-Félix,1,1
+Pupponi   François,de Lavergne   Célia,1,1
+Pupponi   François,Tamarelle-Verhaeghe   Marie,1,1
+Pupponi   François,Cellier   Anthony,1,1
+Pupponi   François,Chalumeau   Philippe,1,1
+Pupponi   François,Labaronne   Daniel,1,1
+Pupponi   François,Colboc   Fabienne,1,1
+Pupponi   François,Motin   Cendra,1,1
+Pupponi   François,Meynier-Millefert   Marjolaine,1,1
+Pupponi   François,Sarles   Nathalie,1,1
+Pupponi   François,Tiegna   Huguette,1,1
+Pupponi   François,Bolo   Philippe,1,1
+Pupponi   François,Le Peih   Nicole,1,1
+Pupponi   François,Perrot   Patrice,1,1
+Pupponi   François,Parmentier-Lecocq   Charlotte,1,1
+Pupponi   François,Osson   Catherine,1,1
+Pupponi   François,Potterie   Benoit,1,1
+Pupponi   François,Panot   Mathilde,0,1
+Pupponi   François,Bassire   Nathalie,0,1
+Pupponi   François,Lescure   Roland,1,1
+Pupponi   François,Petit   Frédéric,1,1
+Pupponi   François,Bonnell   Bruno,1,1
+Pupponi   François,Fontenel-Personne   Pascale,1,1
+Pupponi   François,Obono   Danièle,0,1
+Pupponi   François,Adam   Damien,1,1
+Pupponi   François,Granjus   Florence,1,1
+Pupponi   François,Wulfranc   Hubert,0,1
+Pupponi   François,Beaudouin-Hubiere   Sophie,1,1
+Pupponi   François,Thiébaut   Vincent,1,1
+Pupponi   François,Chouat   Francis,1,1
+Lambert   François-Michel,Blein   Yves,1,1
+Lambert   François-Michel,Aubert   Julien,0,1
+Lambert   François-Michel,Boyer   Pascale,1,1
+Lambert   François-Michel,Marsaud   Sandra,1,1
+Lambert   François-Michel,Michel-Brassart   Monica,1,1
+Lambert   François-Michel,Acquaviva   Jean-Félix,1,1
+Lambert   François-Michel,de Lavergne   Célia,1,1
+Lambert   François-Michel,Tamarelle-Verhaeghe   Marie,1,1
+Lambert   François-Michel,Cellier   Anthony,1,1
+Lambert   François-Michel,Chalumeau   Philippe,1,1
+Lambert   François-Michel,Labaronne   Daniel,1,1
+Lambert   François-Michel,Colboc   Fabienne,1,1
+Lambert   François-Michel,Motin   Cendra,1,1
+Lambert   François-Michel,Meynier-Millefert   Marjolaine,1,1
+Lambert   François-Michel,Sarles   Nathalie,1,1
+Lambert   François-Michel,Tiegna   Huguette,1,1
+Lambert   François-Michel,Bolo   Philippe,1,1
+Lambert   François-Michel,Le Peih   Nicole,1,1
+Lambert   François-Michel,Perrot   Patrice,1,1
+Lambert   François-Michel,Parmentier-Lecocq   Charlotte,1,1
+Lambert   François-Michel,Osson   Catherine,1,1
+Lambert   François-Michel,Potterie   Benoit,1,1
+Lambert   François-Michel,Panot   Mathilde,0,1
+Lambert   François-Michel,Bassire   Nathalie,0,1
+Lambert   François-Michel,Lescure   Roland,1,1
+Lambert   François-Michel,Petit   Frédéric,1,1
+Lambert   François-Michel,Bonnell   Bruno,1,1
+Lambert   François-Michel,Fontenel-Personne   Pascale,1,1
+Lambert   François-Michel,Obono   Danièle,0,1
+Lambert   François-Michel,Adam   Damien,1,1
+Lambert   François-Michel,Granjus   Florence,1,1
+Lambert   François-Michel,Wulfranc   Hubert,0,1
+Lambert   François-Michel,Beaudouin-Hubiere   Sophie,1,1
+Lambert   François-Michel,Thiébaut   Vincent,1,1
+Lambert   François-Michel,Chouat   Francis,1,1
+Blein   Yves,Aubert   Julien,0,1
+Blein   Yves,Boyer   Pascale,1,1
+Blein   Yves,Marsaud   Sandra,1,1
+Blein   Yves,Michel-Brassart   Monica,1,1
+Blein   Yves,Acquaviva   Jean-Félix,1,1
+Blein   Yves,de Lavergne   Célia,1,1
+Blein   Yves,Tamarelle-Verhaeghe   Marie,1,1
+Blein   Yves,Cellier   Anthony,1,1
+Blein   Yves,Chalumeau   Philippe,1,1
+Blein   Yves,Labaronne   Daniel,1,1
+Blein   Yves,Colboc   Fabienne,1,1
+Blein   Yves,Motin   Cendra,1,1
+Blein   Yves,Meynier-Millefert   Marjolaine,1,1
+Blein   Yves,Sarles   Nathalie,1,1
+Blein   Yves,Tiegna   Huguette,1,1
+Blein   Yves,Bolo   Philippe,1,1
+Blein   Yves,Le Peih   Nicole,1,1
+Blein   Yves,Perrot   Patrice,1,1
+Blein   Yves,Parmentier-Lecocq   Charlotte,1,1
+Blein   Yves,Osson   Catherine,1,1
+Blein   Yves,Potterie   Benoit,1,1
+Blein   Yves,Panot   Mathilde,0,1
+Blein   Yves,Bassire   Nathalie,0,1
+Blein   Yves,Lescure   Roland,1,1
+Blein   Yves,Petit   Frédéric,1,1
+Blein   Yves,Bonnell   Bruno,1,1
+Blein   Yves,Fontenel-Personne   Pascale,1,1
+Blein   Yves,Obono   Danièle,0,1
+Blein   Yves,Adam   Damien,1,1
+Blein   Yves,Granjus   Florence,1,1
+Blein   Yves,Wulfranc   Hubert,0,1
+Blein   Yves,Beaudouin-Hubiere   Sophie,1,1
+Blein   Yves,Thiébaut   Vincent,1,1
+Blein   Yves,Chouat   Francis,1,1
+Aubert   Julien,Boyer   Pascale,0,1
+Aubert   Julien,Marsaud   Sandra,0,1
+Aubert   Julien,Michel-Brassart   Monica,0,1
+Aubert   Julien,Acquaviva   Jean-Félix,0,1
+Aubert   Julien,de Lavergne   Célia,0,1
+Aubert   Julien,Tamarelle-Verhaeghe   Marie,0,1
+Aubert   Julien,Cellier   Anthony,0,1
+Aubert   Julien,Chalumeau   Philippe,0,1
+Aubert   Julien,Labaronne   Daniel,0,1
+Aubert   Julien,Colboc   Fabienne,0,1
+Aubert   Julien,Motin   Cendra,0,1
+Aubert   Julien,Meynier-Millefert   Marjolaine,0,1
+Aubert   Julien,Sarles   Nathalie,0,1
+Aubert   Julien,Tiegna   Huguette,0,1
+Aubert   Julien,Bolo   Philippe,0,1
+Aubert   Julien,Le Peih   Nicole,0,1
+Aubert   Julien,Perrot   Patrice,0,1
+Aubert   Julien,Parmentier-Lecocq   Charlotte,0,1
+Aubert   Julien,Osson   Catherine,0,1
+Aubert   Julien,Potterie   Benoit,0,1
+Aubert   Julien,Panot   Mathilde,0,1
+Aubert   Julien,Bassire   Nathalie,1,1
+Aubert   Julien,Lescure   Roland,0,1
+Aubert   Julien,Petit   Frédéric,0,1
+Aubert   Julien,Bonnell   Bruno,0,1
+Aubert   Julien,Fontenel-Personne   Pascale,0,1
+Aubert   Julien,Obono   Danièle,0,1
+Aubert   Julien,Adam   Damien,0,1
+Aubert   Julien,Granjus   Florence,0,1
+Aubert   Julien,Wulfranc   Hubert,0,1
+Aubert   Julien,Beaudouin-Hubiere   Sophie,0,1
+Aubert   Julien,Thiébaut   Vincent,0,1
+Aubert   Julien,Chouat   Francis,0,1
+Boyer   Pascale,Marsaud   Sandra,1,1
+Boyer   Pascale,Michel-Brassart   Monica,1,1
+Boyer   Pascale,Acquaviva   Jean-Félix,1,1
+Boyer   Pascale,de Lavergne   Célia,1,1
+Boyer   Pascale,Tamarelle-Verhaeghe   Marie,1,1
+Boyer   Pascale,Cellier   Anthony,1,1
+Boyer   Pascale,Chalumeau   Philippe,1,1
+Boyer   Pascale,Labaronne   Daniel,1,1
+Boyer   Pascale,Colboc   Fabienne,1,1
+Boyer   Pascale,Motin   Cendra,1,1
+Boyer   Pascale,Meynier-Millefert   Marjolaine,1,1
+Boyer   Pascale,Sarles   Nathalie,1,1
+Boyer   Pascale,Tiegna   Huguette,1,1
+Boyer   Pascale,Bolo   Philippe,1,1
+Boyer   Pascale,Le Peih   Nicole,1,1
+Boyer   Pascale,Perrot   Patrice,1,1
+Boyer   Pascale,Parmentier-Lecocq   Charlotte,1,1
+Boyer   Pascale,Osson   Catherine,1,1
+Boyer   Pascale,Potterie   Benoit,1,1
+Boyer   Pascale,Panot   Mathilde,0,1
+Boyer   Pascale,Bassire   Nathalie,0,1
+Boyer   Pascale,Lescure   Roland,1,1
+Boyer   Pascale,Petit   Frédéric,1,1
+Boyer   Pascale,Bonnell   Bruno,1,1
+Boyer   Pascale,Fontenel-Personne   Pascale,1,1
+Boyer   Pascale,Obono   Danièle,0,1
+Boyer   Pascale,Adam   Damien,1,1
+Boyer   Pascale,Granjus   Florence,1,1
+Boyer   Pascale,Wulfranc   Hubert,0,1
+Boyer   Pascale,Beaudouin-Hubiere   Sophie,1,1
+Boyer   Pascale,Thiébaut   Vincent,1,1
+Boyer   Pascale,Chouat   Francis,1,1
+Marsaud   Sandra,Michel-Brassart   Monica,1,1
+Marsaud   Sandra,Acquaviva   Jean-Félix,1,1
+Marsaud   Sandra,de Lavergne   Célia,1,1
+Marsaud   Sandra,Tamarelle-Verhaeghe   Marie,1,1
+Marsaud   Sandra,Cellier   Anthony,1,1
+Marsaud   Sandra,Chalumeau   Philippe,1,1
+Marsaud   Sandra,Labaronne   Daniel,1,1
+Marsaud   Sandra,Colboc   Fabienne,1,1
+Marsaud   Sandra,Motin   Cendra,1,1
+Marsaud   Sandra,Meynier-Millefert   Marjolaine,1,1
+Marsaud   Sandra,Sarles   Nathalie,1,1
+Marsaud   Sandra,Tiegna   Huguette,1,1
+Marsaud   Sandra,Bolo   Philippe,1,1
+Marsaud   Sandra,Le Peih   Nicole,1,1
+Marsaud   Sandra,Perrot   Patrice,1,1
+Marsaud   Sandra,Parmentier-Lecocq   Charlotte,1,1
+Marsaud   Sandra,Osson   Catherine,1,1
+Marsaud   Sandra,Potterie   Benoit,1,1
+Marsaud   Sandra,Panot   Mathilde,0,1
+Marsaud   Sandra,Bassire   Nathalie,0,1
+Marsaud   Sandra,Lescure   Roland,1,1
+Marsaud   Sandra,Petit   Frédéric,1,1
+Marsaud   Sandra,Bonnell   Bruno,1,1
+Marsaud   Sandra,Fontenel-Personne   Pascale,1,1
+Marsaud   Sandra,Obono   Danièle,0,1
+Marsaud   Sandra,Adam   Damien,1,1
+Marsaud   Sandra,Granjus   Florence,1,1
+Marsaud   Sandra,Wulfranc   Hubert,0,1
+Marsaud   Sandra,Beaudouin-Hubiere   Sophie,1,1
+Marsaud   Sandra,Thiébaut   Vincent,1,1
+Marsaud   Sandra,Chouat   Francis,1,1
+Michel-Brassart   Monica,Acquaviva   Jean-Félix,1,1
+Michel-Brassart   Monica,de Lavergne   Célia,1,1
+Michel-Brassart   Monica,Tamarelle-Verhaeghe   Marie,1,1
+Michel-Brassart   Monica,Cellier   Anthony,1,1
+Michel-Brassart   Monica,Chalumeau   Philippe,1,1
+Michel-Brassart   Monica,Labaronne   Daniel,1,1
+Michel-Brassart   Monica,Colboc   Fabienne,1,1
+Michel-Brassart   Monica,Motin   Cendra,1,1
+Michel-Brassart   Monica,Meynier-Millefert   Marjolaine,1,1
+Michel-Brassart   Monica,Sarles   Nathalie,1,1
+Michel-Brassart   Monica,Tiegna   Huguette,1,1
+Michel-Brassart   Monica,Bolo   Philippe,1,1
+Michel-Brassart   Monica,Le Peih   Nicole,1,1
+Michel-Brassart   Monica,Perrot   Patrice,1,1
+Michel-Brassart   Monica,Parmentier-Lecocq   Charlotte,1,1
+Michel-Brassart   Monica,Osson   Catherine,1,1
+Michel-Brassart   Monica,Potterie   Benoit,1,1
+Michel-Brassart   Monica,Panot   Mathilde,0,1
+Michel-Brassart   Monica,Bassire   Nathalie,0,1
+Michel-Brassart   Monica,Lescure   Roland,1,1
+Michel-Brassart   Monica,Petit   Frédéric,1,1
+Michel-Brassart   Monica,Bonnell   Bruno,1,1
+Michel-Brassart   Monica,Fontenel-Personne   Pascale,1,1
+Michel-Brassart   Monica,Obono   Danièle,0,1
+Michel-Brassart   Monica,Adam   Damien,1,1
+Michel-Brassart   Monica,Granjus   Florence,1,1
+Michel-Brassart   Monica,Wulfranc   Hubert,0,1
+Michel-Brassart   Monica,Beaudouin-Hubiere   Sophie,1,1
+Michel-Brassart   Monica,Thiébaut   Vincent,1,1
+Michel-Brassart   Monica,Chouat   Francis,1,1
+Acquaviva   Jean-Félix,de Lavergne   Célia,1,1
+Acquaviva   Jean-Félix,Tamarelle-Verhaeghe   Marie,1,1
+Acquaviva   Jean-Félix,Cellier   Anthony,1,1
+Acquaviva   Jean-Félix,Chalumeau   Philippe,1,1
+Acquaviva   Jean-Félix,Labaronne   Daniel,1,1
+Acquaviva   Jean-Félix,Colboc   Fabienne,1,1
+Acquaviva   Jean-Félix,Motin   Cendra,1,1
+Acquaviva   Jean-Félix,Meynier-Millefert   Marjolaine,1,1
+Acquaviva   Jean-Félix,Sarles   Nathalie,1,1
+Acquaviva   Jean-Félix,Tiegna   Huguette,1,1
+Acquaviva   Jean-Félix,Bolo   Philippe,1,1
+Acquaviva   Jean-Félix,Le Peih   Nicole,1,1
+Acquaviva   Jean-Félix,Perrot   Patrice,1,1
+Acquaviva   Jean-Félix,Parmentier-Lecocq   Charlotte,1,1
+Acquaviva   Jean-Félix,Osson   Catherine,1,1
+Acquaviva   Jean-Félix,Potterie   Benoit,1,1
+Acquaviva   Jean-Félix,Panot   Mathilde,0,1
+Acquaviva   Jean-Félix,Bassire   Nathalie,0,1
+Acquaviva   Jean-Félix,Lescure   Roland,1,1
+Acquaviva   Jean-Félix,Petit   Frédéric,1,1
+Acquaviva   Jean-Félix,Bonnell   Bruno,1,1
+Acquaviva   Jean-Félix,Fontenel-Personne   Pascale,1,1
+Acquaviva   Jean-Félix,Obono   Danièle,0,1
+Acquaviva   Jean-Félix,Adam   Damien,1,1
+Acquaviva   Jean-Félix,Granjus   Florence,1,1
+Acquaviva   Jean-Félix,Wulfranc   Hubert,0,1
+Acquaviva   Jean-Félix,Beaudouin-Hubiere   Sophie,1,1
+Acquaviva   Jean-Félix,Thiébaut   Vincent,1,1
+Acquaviva   Jean-Félix,Chouat   Francis,1,1
+de Lavergne   Célia,Tamarelle-Verhaeghe   Marie,1,1
+de Lavergne   Célia,Cellier   Anthony,1,1
+de Lavergne   Célia,Chalumeau   Philippe,1,1
+de Lavergne   Célia,Labaronne   Daniel,1,1
+de Lavergne   Célia,Colboc   Fabienne,1,1
+de Lavergne   Célia,Motin   Cendra,1,1
+de Lavergne   Célia,Meynier-Millefert   Marjolaine,1,1
+de Lavergne   Célia,Sarles   Nathalie,1,1
+de Lavergne   Célia,Tiegna   Huguette,1,1
+de Lavergne   Célia,Bolo   Philippe,1,1
+de Lavergne   Célia,Le Peih   Nicole,1,1
+de Lavergne   Célia,Perrot   Patrice,1,1
+de Lavergne   Célia,Parmentier-Lecocq   Charlotte,1,1
+de Lavergne   Célia,Osson   Catherine,1,1
+de Lavergne   Célia,Potterie   Benoit,1,1
+de Lavergne   Célia,Panot   Mathilde,0,1
+de Lavergne   Célia,Bassire   Nathalie,0,1
+de Lavergne   Célia,Lescure   Roland,1,1
+de Lavergne   Célia,Petit   Frédéric,1,1
+de Lavergne   Célia,Bonnell   Bruno,1,1
+de Lavergne   Célia,Fontenel-Personne   Pascale,1,1
+de Lavergne   Célia,Obono   Danièle,0,1
+de Lavergne   Célia,Adam   Damien,1,1
+de Lavergne   Célia,Granjus   Florence,1,1
+de Lavergne   Célia,Wulfranc   Hubert,0,1
+de Lavergne   Célia,Beaudouin-Hubiere   Sophie,1,1
+de Lavergne   Célia,Thiébaut   Vincent,1,1
+de Lavergne   Célia,Chouat   Francis,1,1
+Tamarelle-Verhaeghe   Marie,Cellier   Anthony,1,1
+Tamarelle-Verhaeghe   Marie,Chalumeau   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Labaronne   Daniel,1,1
+Tamarelle-Verhaeghe   Marie,Colboc   Fabienne,1,1
+Tamarelle-Verhaeghe   Marie,Motin   Cendra,1,1
+Tamarelle-Verhaeghe   Marie,Meynier-Millefert   Marjolaine,1,1
+Tamarelle-Verhaeghe   Marie,Sarles   Nathalie,1,1
+Tamarelle-Verhaeghe   Marie,Tiegna   Huguette,1,1
+Tamarelle-Verhaeghe   Marie,Bolo   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Le Peih   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Perrot   Patrice,1,1
+Tamarelle-Verhaeghe   Marie,Parmentier-Lecocq   Charlotte,1,1
+Tamarelle-Verhaeghe   Marie,Osson   Catherine,1,1
+Tamarelle-Verhaeghe   Marie,Potterie   Benoit,1,1
+Tamarelle-Verhaeghe   Marie,Panot   Mathilde,0,1
+Tamarelle-Verhaeghe   Marie,Bassire   Nathalie,0,1
+Tamarelle-Verhaeghe   Marie,Lescure   Roland,1,1
+Tamarelle-Verhaeghe   Marie,Petit   Frédéric,1,1
+Tamarelle-Verhaeghe   Marie,Bonnell   Bruno,1,1
+Tamarelle-Verhaeghe   Marie,Fontenel-Personne   Pascale,1,1
+Tamarelle-Verhaeghe   Marie,Obono   Danièle,0,1
+Tamarelle-Verhaeghe   Marie,Adam   Damien,1,1
+Tamarelle-Verhaeghe   Marie,Granjus   Florence,1,1
+Tamarelle-Verhaeghe   Marie,Wulfranc   Hubert,0,1
+Tamarelle-Verhaeghe   Marie,Beaudouin-Hubiere   Sophie,1,1
+Tamarelle-Verhaeghe   Marie,Thiébaut   Vincent,1,1
+Tamarelle-Verhaeghe   Marie,Chouat   Francis,1,1
+Cellier   Anthony,Chalumeau   Philippe,1,1
+Cellier   Anthony,Labaronne   Daniel,1,1
+Cellier   Anthony,Colboc   Fabienne,1,1
+Cellier   Anthony,Motin   Cendra,1,1
+Cellier   Anthony,Meynier-Millefert   Marjolaine,1,1
+Cellier   Anthony,Sarles   Nathalie,1,1
+Cellier   Anthony,Tiegna   Huguette,1,1
+Cellier   Anthony,Bolo   Philippe,1,1
+Cellier   Anthony,Le Peih   Nicole,1,1
+Cellier   Anthony,Perrot   Patrice,1,1
+Cellier   Anthony,Parmentier-Lecocq   Charlotte,1,1
+Cellier   Anthony,Osson   Catherine,1,1
+Cellier   Anthony,Potterie   Benoit,1,1
+Cellier   Anthony,Panot   Mathilde,0,1
+Cellier   Anthony,Bassire   Nathalie,0,1
+Cellier   Anthony,Lescure   Roland,1,1
+Cellier   Anthony,Petit   Frédéric,1,1
+Cellier   Anthony,Bonnell   Bruno,1,1
+Cellier   Anthony,Fontenel-Personne   Pascale,1,1
+Cellier   Anthony,Obono   Danièle,0,1
+Cellier   Anthony,Adam   Damien,1,1
+Cellier   Anthony,Granjus   Florence,1,1
+Cellier   Anthony,Wulfranc   Hubert,0,1
+Cellier   Anthony,Beaudouin-Hubiere   Sophie,1,1
+Cellier   Anthony,Thiébaut   Vincent,1,1
+Cellier   Anthony,Chouat   Francis,1,1
+Chalumeau   Philippe,Labaronne   Daniel,1,1
+Chalumeau   Philippe,Colboc   Fabienne,1,1
+Chalumeau   Philippe,Motin   Cendra,1,1
+Chalumeau   Philippe,Meynier-Millefert   Marjolaine,1,1
+Chalumeau   Philippe,Sarles   Nathalie,1,1
+Chalumeau   Philippe,Tiegna   Huguette,1,1
+Chalumeau   Philippe,Bolo   Philippe,1,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Perrot   Patrice,1,1
+Chalumeau   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Chalumeau   Philippe,Osson   Catherine,1,1
+Chalumeau   Philippe,Potterie   Benoit,1,1
+Chalumeau   Philippe,Panot   Mathilde,0,1
+Chalumeau   Philippe,Bassire   Nathalie,0,1
+Chalumeau   Philippe,Lescure   Roland,1,1
+Chalumeau   Philippe,Petit   Frédéric,1,1
+Chalumeau   Philippe,Bonnell   Bruno,1,1
+Chalumeau   Philippe,Fontenel-Personne   Pascale,1,1
+Chalumeau   Philippe,Obono   Danièle,0,1
+Chalumeau   Philippe,Adam   Damien,1,1
+Chalumeau   Philippe,Granjus   Florence,1,1
+Chalumeau   Philippe,Wulfranc   Hubert,0,1
+Chalumeau   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Chalumeau   Philippe,Thiébaut   Vincent,1,1
+Chalumeau   Philippe,Chouat   Francis,1,1
+Labaronne   Daniel,Colboc   Fabienne,1,1
+Labaronne   Daniel,Motin   Cendra,1,1
+Labaronne   Daniel,Meynier-Millefert   Marjolaine,1,1
+Labaronne   Daniel,Sarles   Nathalie,1,1
+Labaronne   Daniel,Tiegna   Huguette,1,1
+Labaronne   Daniel,Bolo   Philippe,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Perrot   Patrice,1,1
+Labaronne   Daniel,Parmentier-Lecocq   Charlotte,1,1
+Labaronne   Daniel,Osson   Catherine,1,1
+Labaronne   Daniel,Potterie   Benoit,1,1
+Labaronne   Daniel,Panot   Mathilde,0,1
+Labaronne   Daniel,Bassire   Nathalie,0,1
+Labaronne   Daniel,Lescure   Roland,1,1
+Labaronne   Daniel,Petit   Frédéric,1,1
+Labaronne   Daniel,Bonnell   Bruno,1,1
+Labaronne   Daniel,Fontenel-Personne   Pascale,1,1
+Labaronne   Daniel,Obono   Danièle,0,1
+Labaronne   Daniel,Adam   Damien,1,1
+Labaronne   Daniel,Granjus   Florence,1,1
+Labaronne   Daniel,Wulfranc   Hubert,0,1
+Labaronne   Daniel,Beaudouin-Hubiere   Sophie,1,1
+Labaronne   Daniel,Thiébaut   Vincent,1,1
+Labaronne   Daniel,Chouat   Francis,1,1
+Colboc   Fabienne,Motin   Cendra,1,1
+Colboc   Fabienne,Meynier-Millefert   Marjolaine,1,1
+Colboc   Fabienne,Sarles   Nathalie,1,1
+Colboc   Fabienne,Tiegna   Huguette,1,1
+Colboc   Fabienne,Bolo   Philippe,1,1
+Colboc   Fabienne,Le Peih   Nicole,1,1
+Colboc   Fabienne,Perrot   Patrice,1,1
+Colboc   Fabienne,Parmentier-Lecocq   Charlotte,1,1
+Colboc   Fabienne,Osson   Catherine,1,1
+Colboc   Fabienne,Potterie   Benoit,1,1
+Colboc   Fabienne,Panot   Mathilde,0,1
+Colboc   Fabienne,Bassire   Nathalie,0,1
+Colboc   Fabienne,Lescure   Roland,1,1
+Colboc   Fabienne,Petit   Frédéric,1,1
+Colboc   Fabienne,Bonnell   Bruno,1,1
+Colboc   Fabienne,Fontenel-Personne   Pascale,1,1
+Colboc   Fabienne,Obono   Danièle,0,1
+Colboc   Fabienne,Adam   Damien,1,1
+Colboc   Fabienne,Granjus   Florence,1,1
+Colboc   Fabienne,Wulfranc   Hubert,0,1
+Colboc   Fabienne,Beaudouin-Hubiere   Sophie,1,1
+Colboc   Fabienne,Thiébaut   Vincent,1,1
+Colboc   Fabienne,Chouat   Francis,1,1
+Motin   Cendra,Meynier-Millefert   Marjolaine,1,1
+Motin   Cendra,Sarles   Nathalie,1,1
+Motin   Cendra,Tiegna   Huguette,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Le Peih   Nicole,1,1
+Motin   Cendra,Perrot   Patrice,1,1
+Motin   Cendra,Parmentier-Lecocq   Charlotte,1,1
+Motin   Cendra,Osson   Catherine,1,1
+Motin   Cendra,Potterie   Benoit,1,1
+Motin   Cendra,Panot   Mathilde,0,1
+Motin   Cendra,Bassire   Nathalie,0,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Petit   Frédéric,1,1
+Motin   Cendra,Bonnell   Bruno,1,1
+Motin   Cendra,Fontenel-Personne   Pascale,1,1
+Motin   Cendra,Obono   Danièle,0,1
+Motin   Cendra,Adam   Damien,1,1
+Motin   Cendra,Granjus   Florence,1,1
+Motin   Cendra,Wulfranc   Hubert,0,1
+Motin   Cendra,Beaudouin-Hubiere   Sophie,1,1
+Motin   Cendra,Thiébaut   Vincent,1,1
+Motin   Cendra,Chouat   Francis,1,1
+Meynier-Millefert   Marjolaine,Sarles   Nathalie,1,1
+Meynier-Millefert   Marjolaine,Tiegna   Huguette,1,1
+Meynier-Millefert   Marjolaine,Bolo   Philippe,1,1
+Meynier-Millefert   Marjolaine,Le Peih   Nicole,1,1
+Meynier-Millefert   Marjolaine,Perrot   Patrice,1,1
+Meynier-Millefert   Marjolaine,Parmentier-Lecocq   Charlotte,1,1
+Meynier-Millefert   Marjolaine,Osson   Catherine,1,1
+Meynier-Millefert   Marjolaine,Potterie   Benoit,1,1
+Meynier-Millefert   Marjolaine,Panot   Mathilde,0,1
+Meynier-Millefert   Marjolaine,Bassire   Nathalie,0,1
+Meynier-Millefert   Marjolaine,Lescure   Roland,1,1
+Meynier-Millefert   Marjolaine,Petit   Frédéric,1,1
+Meynier-Millefert   Marjolaine,Bonnell   Bruno,1,1
+Meynier-Millefert   Marjolaine,Fontenel-Personne   Pascale,1,1
+Meynier-Millefert   Marjolaine,Obono   Danièle,0,1
+Meynier-Millefert   Marjolaine,Adam   Damien,1,1
+Meynier-Millefert   Marjolaine,Granjus   Florence,1,1
+Meynier-Millefert   Marjolaine,Wulfranc   Hubert,0,1
+Meynier-Millefert   Marjolaine,Beaudouin-Hubiere   Sophie,1,1
+Meynier-Millefert   Marjolaine,Thiébaut   Vincent,1,1
+Meynier-Millefert   Marjolaine,Chouat   Francis,1,1
+Sarles   Nathalie,Tiegna   Huguette,1,1
+Sarles   Nathalie,Bolo   Philippe,1,1
+Sarles   Nathalie,Le Peih   Nicole,1,1
+Sarles   Nathalie,Perrot   Patrice,1,1
+Sarles   Nathalie,Parmentier-Lecocq   Charlotte,1,1
+Sarles   Nathalie,Osson   Catherine,1,1
+Sarles   Nathalie,Potterie   Benoit,1,1
+Sarles   Nathalie,Panot   Mathilde,0,1
+Sarles   Nathalie,Bassire   Nathalie,0,1
+Sarles   Nathalie,Lescure   Roland,1,1
+Sarles   Nathalie,Petit   Frédéric,1,1
+Sarles   Nathalie,Bonnell   Bruno,1,1
+Sarles   Nathalie,Fontenel-Personne   Pascale,1,1
+Sarles   Nathalie,Obono   Danièle,0,1
+Sarles   Nathalie,Adam   Damien,1,1
+Sarles   Nathalie,Granjus   Florence,1,1
+Sarles   Nathalie,Wulfranc   Hubert,0,1
+Sarles   Nathalie,Beaudouin-Hubiere   Sophie,1,1
+Sarles   Nathalie,Thiébaut   Vincent,1,1
+Sarles   Nathalie,Chouat   Francis,1,1
+Tiegna   Huguette,Bolo   Philippe,1,1
+Tiegna   Huguette,Le Peih   Nicole,1,1
+Tiegna   Huguette,Perrot   Patrice,1,1
+Tiegna   Huguette,Parmentier-Lecocq   Charlotte,1,1
+Tiegna   Huguette,Osson   Catherine,1,1
+Tiegna   Huguette,Potterie   Benoit,1,1
+Tiegna   Huguette,Panot   Mathilde,0,1
+Tiegna   Huguette,Bassire   Nathalie,0,1
+Tiegna   Huguette,Lescure   Roland,1,1
+Tiegna   Huguette,Petit   Frédéric,1,1
+Tiegna   Huguette,Bonnell   Bruno,1,1
+Tiegna   Huguette,Fontenel-Personne   Pascale,1,1
+Tiegna   Huguette,Obono   Danièle,0,1
+Tiegna   Huguette,Adam   Damien,1,1
+Tiegna   Huguette,Granjus   Florence,1,1
+Tiegna   Huguette,Wulfranc   Hubert,0,1
+Tiegna   Huguette,Beaudouin-Hubiere   Sophie,1,1
+Tiegna   Huguette,Thiébaut   Vincent,1,1
+Tiegna   Huguette,Chouat   Francis,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Bolo   Philippe,Osson   Catherine,1,1
+Bolo   Philippe,Potterie   Benoit,1,1
+Bolo   Philippe,Panot   Mathilde,0,1
+Bolo   Philippe,Bassire   Nathalie,0,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Petit   Frédéric,1,1
+Bolo   Philippe,Bonnell   Bruno,1,1
+Bolo   Philippe,Fontenel-Personne   Pascale,1,1
+Bolo   Philippe,Obono   Danièle,0,1
+Bolo   Philippe,Adam   Damien,1,1
+Bolo   Philippe,Granjus   Florence,1,1
+Bolo   Philippe,Wulfranc   Hubert,0,1
+Bolo   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Bolo   Philippe,Thiébaut   Vincent,1,1
+Bolo   Philippe,Chouat   Francis,1,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Parmentier-Lecocq   Charlotte,1,1
+Le Peih   Nicole,Osson   Catherine,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Panot   Mathilde,0,1
+Le Peih   Nicole,Bassire   Nathalie,0,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Petit   Frédéric,1,1
+Le Peih   Nicole,Bonnell   Bruno,1,1
+Le Peih   Nicole,Fontenel-Personne   Pascale,1,1
+Le Peih   Nicole,Obono   Danièle,0,1
+Le Peih   Nicole,Adam   Damien,1,1
+Le Peih   Nicole,Granjus   Florence,1,1
+Le Peih   Nicole,Wulfranc   Hubert,0,1
+Le Peih   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Le Peih   Nicole,Thiébaut   Vincent,1,1
+Le Peih   Nicole,Chouat   Francis,1,1
+Perrot   Patrice,Parmentier-Lecocq   Charlotte,1,1
+Perrot   Patrice,Osson   Catherine,1,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Panot   Mathilde,0,1
+Perrot   Patrice,Bassire   Nathalie,0,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Petit   Frédéric,1,1
+Perrot   Patrice,Bonnell   Bruno,1,1
+Perrot   Patrice,Fontenel-Personne   Pascale,1,1
+Perrot   Patrice,Obono   Danièle,0,1
+Perrot   Patrice,Adam   Damien,1,1
+Perrot   Patrice,Granjus   Florence,1,1
+Perrot   Patrice,Wulfranc   Hubert,0,1
+Perrot   Patrice,Beaudouin-Hubiere   Sophie,1,1
+Perrot   Patrice,Thiébaut   Vincent,1,1
+Perrot   Patrice,Chouat   Francis,1,1
+Parmentier-Lecocq   Charlotte,Osson   Catherine,1,1
+Parmentier-Lecocq   Charlotte,Potterie   Benoit,1,1
+Parmentier-Lecocq   Charlotte,Panot   Mathilde,0,1
+Parmentier-Lecocq   Charlotte,Bassire   Nathalie,0,1
+Parmentier-Lecocq   Charlotte,Lescure   Roland,1,1
+Parmentier-Lecocq   Charlotte,Petit   Frédéric,1,1
+Parmentier-Lecocq   Charlotte,Bonnell   Bruno,1,1
+Parmentier-Lecocq   Charlotte,Fontenel-Personne   Pascale,1,1
+Parmentier-Lecocq   Charlotte,Obono   Danièle,0,1
+Parmentier-Lecocq   Charlotte,Adam   Damien,1,1
+Parmentier-Lecocq   Charlotte,Granjus   Florence,1,1
+Parmentier-Lecocq   Charlotte,Wulfranc   Hubert,0,1
+Parmentier-Lecocq   Charlotte,Beaudouin-Hubiere   Sophie,1,1
+Parmentier-Lecocq   Charlotte,Thiébaut   Vincent,1,1
+Parmentier-Lecocq   Charlotte,Chouat   Francis,1,1
+Osson   Catherine,Potterie   Benoit,1,1
+Osson   Catherine,Panot   Mathilde,0,1
+Osson   Catherine,Bassire   Nathalie,0,1
+Osson   Catherine,Lescure   Roland,1,1
+Osson   Catherine,Petit   Frédéric,1,1
+Osson   Catherine,Bonnell   Bruno,1,1
+Osson   Catherine,Fontenel-Personne   Pascale,1,1
+Osson   Catherine,Obono   Danièle,0,1
+Osson   Catherine,Adam   Damien,1,1
+Osson   Catherine,Granjus   Florence,1,1
+Osson   Catherine,Wulfranc   Hubert,0,1
+Osson   Catherine,Beaudouin-Hubiere   Sophie,1,1
+Osson   Catherine,Thiébaut   Vincent,1,1
+Osson   Catherine,Chouat   Francis,1,1
+Potterie   Benoit,Panot   Mathilde,0,1
+Potterie   Benoit,Bassire   Nathalie,0,1
+Potterie   Benoit,Lescure   Roland,1,1
+Potterie   Benoit,Petit   Frédéric,1,1
+Potterie   Benoit,Bonnell   Bruno,1,1
+Potterie   Benoit,Fontenel-Personne   Pascale,1,1
+Potterie   Benoit,Obono   Danièle,0,1
+Potterie   Benoit,Adam   Damien,1,1
+Potterie   Benoit,Granjus   Florence,1,1
+Potterie   Benoit,Wulfranc   Hubert,0,1
+Potterie   Benoit,Beaudouin-Hubiere   Sophie,1,1
+Potterie   Benoit,Thiébaut   Vincent,1,1
+Potterie   Benoit,Chouat   Francis,1,1
+Panot   Mathilde,Bassire   Nathalie,0,1
+Panot   Mathilde,Lescure   Roland,0,1
+Panot   Mathilde,Petit   Frédéric,0,1
+Panot   Mathilde,Bonnell   Bruno,0,1
+Panot   Mathilde,Fontenel-Personne   Pascale,0,1
+Panot   Mathilde,Obono   Danièle,1,1
+Panot   Mathilde,Adam   Damien,0,1
+Panot   Mathilde,Granjus   Florence,0,1
+Panot   Mathilde,Wulfranc   Hubert,1,1
+Panot   Mathilde,Beaudouin-Hubiere   Sophie,0,1
+Panot   Mathilde,Thiébaut   Vincent,0,1
+Panot   Mathilde,Chouat   Francis,0,1
+Bassire   Nathalie,Lescure   Roland,0,1
+Bassire   Nathalie,Petit   Frédéric,0,1
+Bassire   Nathalie,Bonnell   Bruno,0,1
+Bassire   Nathalie,Fontenel-Personne   Pascale,0,1
+Bassire   Nathalie,Obono   Danièle,0,1
+Bassire   Nathalie,Adam   Damien,0,1
+Bassire   Nathalie,Granjus   Florence,0,1
+Bassire   Nathalie,Wulfranc   Hubert,0,1
+Bassire   Nathalie,Beaudouin-Hubiere   Sophie,0,1
+Bassire   Nathalie,Thiébaut   Vincent,0,1
+Bassire   Nathalie,Chouat   Francis,0,1
+Lescure   Roland,Petit   Frédéric,1,1
+Lescure   Roland,Bonnell   Bruno,1,1
+Lescure   Roland,Fontenel-Personne   Pascale,1,1
+Lescure   Roland,Obono   Danièle,0,1
+Lescure   Roland,Adam   Damien,1,1
+Lescure   Roland,Granjus   Florence,1,1
+Lescure   Roland,Wulfranc   Hubert,0,1
+Lescure   Roland,Beaudouin-Hubiere   Sophie,1,1
+Lescure   Roland,Thiébaut   Vincent,1,1
+Lescure   Roland,Chouat   Francis,1,1
+Petit   Frédéric,Bonnell   Bruno,1,1
+Petit   Frédéric,Fontenel-Personne   Pascale,1,1
+Petit   Frédéric,Obono   Danièle,0,1
+Petit   Frédéric,Adam   Damien,1,1
+Petit   Frédéric,Granjus   Florence,1,1
+Petit   Frédéric,Wulfranc   Hubert,0,1
+Petit   Frédéric,Beaudouin-Hubiere   Sophie,1,1
+Petit   Frédéric,Thiébaut   Vincent,1,1
+Petit   Frédéric,Chouat   Francis,1,1
+Bonnell   Bruno,Fontenel-Personne   Pascale,1,1
+Bonnell   Bruno,Obono   Danièle,0,1
+Bonnell   Bruno,Adam   Damien,1,1
+Bonnell   Bruno,Granjus   Florence,1,1
+Bonnell   Bruno,Wulfranc   Hubert,0,1
+Bonnell   Bruno,Beaudouin-Hubiere   Sophie,1,1
+Bonnell   Bruno,Thiébaut   Vincent,1,1
+Bonnell   Bruno,Chouat   Francis,1,1
+Fontenel-Personne   Pascale,Obono   Danièle,0,1
+Fontenel-Personne   Pascale,Adam   Damien,1,1
+Fontenel-Personne   Pascale,Granjus   Florence,1,1
+Fontenel-Personne   Pascale,Wulfranc   Hubert,0,1
+Fontenel-Personne   Pascale,Beaudouin-Hubiere   Sophie,1,1
+Fontenel-Personne   Pascale,Thiébaut   Vincent,1,1
+Fontenel-Personne   Pascale,Chouat   Francis,1,1
+Obono   Danièle,Adam   Damien,0,1
+Obono   Danièle,Granjus   Florence,0,1
+Obono   Danièle,Wulfranc   Hubert,1,1
+Obono   Danièle,Beaudouin-Hubiere   Sophie,0,1
+Obono   Danièle,Thiébaut   Vincent,0,1
+Obono   Danièle,Chouat   Francis,0,1
+Adam   Damien,Granjus   Florence,1,1
+Adam   Damien,Wulfranc   Hubert,0,1
+Adam   Damien,Beaudouin-Hubiere   Sophie,1,1
+Adam   Damien,Thiébaut   Vincent,1,1
+Adam   Damien,Chouat   Francis,1,1
+Granjus   Florence,Wulfranc   Hubert,0,1
+Granjus   Florence,Beaudouin-Hubiere   Sophie,1,1
+Granjus   Florence,Thiébaut   Vincent,1,1
+Granjus   Florence,Chouat   Francis,1,1
+Wulfranc   Hubert,Beaudouin-Hubiere   Sophie,0,1
+Wulfranc   Hubert,Thiébaut   Vincent,0,1
+Wulfranc   Hubert,Chouat   Francis,0,1
+Beaudouin-Hubiere   Sophie,Thiébaut   Vincent,1,1
+Beaudouin-Hubiere   Sophie,Chouat   Francis,1,1
+Thiébaut   Vincent,Chouat   Francis,1,1

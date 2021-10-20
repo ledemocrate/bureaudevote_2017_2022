@@ -1,0 +1,529 @@
+from,to,vote_commun,loi_commun
+Sermier   Jean-Marie,Pancher   Bertrand,1,1
+Sermier   Jean-Marie,Dumas   Françoise,1,1
+Sermier   Jean-Marie,Zulesi   Jean-Marc,1,1
+Sermier   Jean-Marie,de Courson   Yolaine,1,1
+Sermier   Jean-Marie,Kasbarian   Guillaume,1,1
+Sermier   Jean-Marie,Vignon   Corinne,1,1
+Sermier   Jean-Marie,Ménard   Emmanuelle,1,1
+Sermier   Jean-Marie,Couillard   Bérangère,1,1
+Sermier   Jean-Marie,Panonacle   Sophie,1,1
+Sermier   Jean-Marie,Maillart-Méhaignerie   Laurence,1,1
+Sermier   Jean-Marie,Colas-Roy   Jean-Charles,1,1
+Sermier   Jean-Marie,Labaronne   Daniel,1,1
+Sermier   Jean-Marie,Girardin   Éric,1,1
+Sermier   Jean-Marie,De Temmerman   Jennifer,1,1
+Sermier   Jean-Marie,Duvergé   Bruno,1,1
+Sermier   Jean-Marie,Gayte   Laurence,1,1
+Sermier   Jean-Marie,Testé   Stéphane,1,1
+Sermier   Jean-Marie,Park   Zivka,1,1
+Sermier   Jean-Marie,Forteza   Paula,1,1
+Sermier   Jean-Marie,Charrière   Sylvie,1,1
+Sermier   Jean-Marie,Gaillot   Albane,1,1
+Sermier   Jean-Marie,Pichereau   Damien,1,1
+Sermier   Jean-Marie,Bonnivard   Émilie,1,1
+Sermier   Jean-Marie,Riotton   Véronique,1,1
+Sermier   Jean-Marie,Lenne   Marion,1,1
+Sermier   Jean-Marie,Luquet   Aude,1,1
+Sermier   Jean-Marie,Pouzyreff   Natalia,1,1
+Sermier   Jean-Marie,Marilossian   Jacques,1,1
+Sermier   Jean-Marie,Millienne   Bruno,1,1
+Sermier   Jean-Marie,Buchou   Stéphane,1,1
+Sermier   Jean-Marie,Leclabart   Jean-Claude,1,1
+Sermier   Jean-Marie,Fugit   Jean-Luc,1,1
+Pancher   Bertrand,Dumas   Françoise,1,1
+Pancher   Bertrand,Zulesi   Jean-Marc,1,1
+Pancher   Bertrand,de Courson   Yolaine,1,1
+Pancher   Bertrand,Kasbarian   Guillaume,1,1
+Pancher   Bertrand,Vignon   Corinne,1,1
+Pancher   Bertrand,Ménard   Emmanuelle,1,1
+Pancher   Bertrand,Couillard   Bérangère,1,1
+Pancher   Bertrand,Panonacle   Sophie,1,1
+Pancher   Bertrand,Maillart-Méhaignerie   Laurence,1,1
+Pancher   Bertrand,Colas-Roy   Jean-Charles,1,1
+Pancher   Bertrand,Labaronne   Daniel,1,1
+Pancher   Bertrand,Girardin   Éric,1,1
+Pancher   Bertrand,De Temmerman   Jennifer,1,1
+Pancher   Bertrand,Duvergé   Bruno,1,1
+Pancher   Bertrand,Gayte   Laurence,1,1
+Pancher   Bertrand,Testé   Stéphane,1,1
+Pancher   Bertrand,Park   Zivka,1,1
+Pancher   Bertrand,Forteza   Paula,1,1
+Pancher   Bertrand,Charrière   Sylvie,1,1
+Pancher   Bertrand,Gaillot   Albane,1,1
+Pancher   Bertrand,Pichereau   Damien,1,1
+Pancher   Bertrand,Bonnivard   Émilie,1,1
+Pancher   Bertrand,Riotton   Véronique,1,1
+Pancher   Bertrand,Lenne   Marion,1,1
+Pancher   Bertrand,Luquet   Aude,1,1
+Pancher   Bertrand,Pouzyreff   Natalia,1,1
+Pancher   Bertrand,Marilossian   Jacques,1,1
+Pancher   Bertrand,Millienne   Bruno,1,1
+Pancher   Bertrand,Buchou   Stéphane,1,1
+Pancher   Bertrand,Leclabart   Jean-Claude,1,1
+Pancher   Bertrand,Fugit   Jean-Luc,1,1
+Dumas   Françoise,Zulesi   Jean-Marc,1,1
+Dumas   Françoise,de Courson   Yolaine,1,1
+Dumas   Françoise,Kasbarian   Guillaume,1,1
+Dumas   Françoise,Vignon   Corinne,1,1
+Dumas   Françoise,Ménard   Emmanuelle,1,1
+Dumas   Françoise,Couillard   Bérangère,1,1
+Dumas   Françoise,Panonacle   Sophie,1,1
+Dumas   Françoise,Maillart-Méhaignerie   Laurence,1,1
+Dumas   Françoise,Colas-Roy   Jean-Charles,1,1
+Dumas   Françoise,Labaronne   Daniel,1,1
+Dumas   Françoise,Girardin   Éric,1,1
+Dumas   Françoise,De Temmerman   Jennifer,1,1
+Dumas   Françoise,Duvergé   Bruno,1,1
+Dumas   Françoise,Gayte   Laurence,1,1
+Dumas   Françoise,Testé   Stéphane,1,1
+Dumas   Françoise,Park   Zivka,1,1
+Dumas   Françoise,Forteza   Paula,1,1
+Dumas   Françoise,Charrière   Sylvie,1,1
+Dumas   Françoise,Gaillot   Albane,1,1
+Dumas   Françoise,Pichereau   Damien,1,1
+Dumas   Françoise,Bonnivard   Émilie,1,1
+Dumas   Françoise,Riotton   Véronique,1,1
+Dumas   Françoise,Lenne   Marion,1,1
+Dumas   Françoise,Luquet   Aude,1,1
+Dumas   Françoise,Pouzyreff   Natalia,1,1
+Dumas   Françoise,Marilossian   Jacques,1,1
+Dumas   Françoise,Millienne   Bruno,1,1
+Dumas   Françoise,Buchou   Stéphane,1,1
+Dumas   Françoise,Leclabart   Jean-Claude,1,1
+Dumas   Françoise,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,de Courson   Yolaine,1,1
+Zulesi   Jean-Marc,Kasbarian   Guillaume,1,1
+Zulesi   Jean-Marc,Vignon   Corinne,1,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,1,1
+Zulesi   Jean-Marc,Couillard   Bérangère,1,1
+Zulesi   Jean-Marc,Panonacle   Sophie,1,1
+Zulesi   Jean-Marc,Maillart-Méhaignerie   Laurence,1,1
+Zulesi   Jean-Marc,Colas-Roy   Jean-Charles,1,1
+Zulesi   Jean-Marc,Labaronne   Daniel,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,De Temmerman   Jennifer,1,1
+Zulesi   Jean-Marc,Duvergé   Bruno,1,1
+Zulesi   Jean-Marc,Gayte   Laurence,1,1
+Zulesi   Jean-Marc,Testé   Stéphane,1,1
+Zulesi   Jean-Marc,Park   Zivka,1,1
+Zulesi   Jean-Marc,Forteza   Paula,1,1
+Zulesi   Jean-Marc,Charrière   Sylvie,1,1
+Zulesi   Jean-Marc,Gaillot   Albane,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Bonnivard   Émilie,1,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Lenne   Marion,1,1
+Zulesi   Jean-Marc,Luquet   Aude,1,1
+Zulesi   Jean-Marc,Pouzyreff   Natalia,1,1
+Zulesi   Jean-Marc,Marilossian   Jacques,1,1
+Zulesi   Jean-Marc,Millienne   Bruno,1,1
+Zulesi   Jean-Marc,Buchou   Stéphane,1,1
+Zulesi   Jean-Marc,Leclabart   Jean-Claude,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+de Courson   Yolaine,Kasbarian   Guillaume,1,1
+de Courson   Yolaine,Vignon   Corinne,1,1
+de Courson   Yolaine,Ménard   Emmanuelle,1,1
+de Courson   Yolaine,Couillard   Bérangère,1,1
+de Courson   Yolaine,Panonacle   Sophie,1,1
+de Courson   Yolaine,Maillart-Méhaignerie   Laurence,1,1
+de Courson   Yolaine,Colas-Roy   Jean-Charles,1,1
+de Courson   Yolaine,Labaronne   Daniel,1,1
+de Courson   Yolaine,Girardin   Éric,1,1
+de Courson   Yolaine,De Temmerman   Jennifer,1,1
+de Courson   Yolaine,Duvergé   Bruno,1,1
+de Courson   Yolaine,Gayte   Laurence,1,1
+de Courson   Yolaine,Testé   Stéphane,1,1
+de Courson   Yolaine,Park   Zivka,1,1
+de Courson   Yolaine,Forteza   Paula,1,1
+de Courson   Yolaine,Charrière   Sylvie,1,1
+de Courson   Yolaine,Gaillot   Albane,1,1
+de Courson   Yolaine,Pichereau   Damien,1,1
+de Courson   Yolaine,Bonnivard   Émilie,1,1
+de Courson   Yolaine,Riotton   Véronique,1,1
+de Courson   Yolaine,Lenne   Marion,1,1
+de Courson   Yolaine,Luquet   Aude,1,1
+de Courson   Yolaine,Pouzyreff   Natalia,1,1
+de Courson   Yolaine,Marilossian   Jacques,1,1
+de Courson   Yolaine,Millienne   Bruno,1,1
+de Courson   Yolaine,Buchou   Stéphane,1,1
+de Courson   Yolaine,Leclabart   Jean-Claude,1,1
+de Courson   Yolaine,Fugit   Jean-Luc,1,1
+Kasbarian   Guillaume,Vignon   Corinne,1,1
+Kasbarian   Guillaume,Ménard   Emmanuelle,1,1
+Kasbarian   Guillaume,Couillard   Bérangère,1,1
+Kasbarian   Guillaume,Panonacle   Sophie,1,1
+Kasbarian   Guillaume,Maillart-Méhaignerie   Laurence,1,1
+Kasbarian   Guillaume,Colas-Roy   Jean-Charles,1,1
+Kasbarian   Guillaume,Labaronne   Daniel,1,1
+Kasbarian   Guillaume,Girardin   Éric,1,1
+Kasbarian   Guillaume,De Temmerman   Jennifer,1,1
+Kasbarian   Guillaume,Duvergé   Bruno,1,1
+Kasbarian   Guillaume,Gayte   Laurence,1,1
+Kasbarian   Guillaume,Testé   Stéphane,1,1
+Kasbarian   Guillaume,Park   Zivka,1,1
+Kasbarian   Guillaume,Forteza   Paula,1,1
+Kasbarian   Guillaume,Charrière   Sylvie,1,1
+Kasbarian   Guillaume,Gaillot   Albane,1,1
+Kasbarian   Guillaume,Pichereau   Damien,1,1
+Kasbarian   Guillaume,Bonnivard   Émilie,1,1
+Kasbarian   Guillaume,Riotton   Véronique,1,1
+Kasbarian   Guillaume,Lenne   Marion,1,1
+Kasbarian   Guillaume,Luquet   Aude,1,1
+Kasbarian   Guillaume,Pouzyreff   Natalia,1,1
+Kasbarian   Guillaume,Marilossian   Jacques,1,1
+Kasbarian   Guillaume,Millienne   Bruno,1,1
+Kasbarian   Guillaume,Buchou   Stéphane,1,1
+Kasbarian   Guillaume,Leclabart   Jean-Claude,1,1
+Kasbarian   Guillaume,Fugit   Jean-Luc,1,1
+Vignon   Corinne,Ménard   Emmanuelle,1,1
+Vignon   Corinne,Couillard   Bérangère,1,1
+Vignon   Corinne,Panonacle   Sophie,1,1
+Vignon   Corinne,Maillart-Méhaignerie   Laurence,1,1
+Vignon   Corinne,Colas-Roy   Jean-Charles,1,1
+Vignon   Corinne,Labaronne   Daniel,1,1
+Vignon   Corinne,Girardin   Éric,1,1
+Vignon   Corinne,De Temmerman   Jennifer,1,1
+Vignon   Corinne,Duvergé   Bruno,1,1
+Vignon   Corinne,Gayte   Laurence,1,1
+Vignon   Corinne,Testé   Stéphane,1,1
+Vignon   Corinne,Park   Zivka,1,1
+Vignon   Corinne,Forteza   Paula,1,1
+Vignon   Corinne,Charrière   Sylvie,1,1
+Vignon   Corinne,Gaillot   Albane,1,1
+Vignon   Corinne,Pichereau   Damien,1,1
+Vignon   Corinne,Bonnivard   Émilie,1,1
+Vignon   Corinne,Riotton   Véronique,1,1
+Vignon   Corinne,Lenne   Marion,1,1
+Vignon   Corinne,Luquet   Aude,1,1
+Vignon   Corinne,Pouzyreff   Natalia,1,1
+Vignon   Corinne,Marilossian   Jacques,1,1
+Vignon   Corinne,Millienne   Bruno,1,1
+Vignon   Corinne,Buchou   Stéphane,1,1
+Vignon   Corinne,Leclabart   Jean-Claude,1,1
+Vignon   Corinne,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Couillard   Bérangère,1,1
+Ménard   Emmanuelle,Panonacle   Sophie,1,1
+Ménard   Emmanuelle,Maillart-Méhaignerie   Laurence,1,1
+Ménard   Emmanuelle,Colas-Roy   Jean-Charles,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,1,1
+Ménard   Emmanuelle,Girardin   Éric,1,1
+Ménard   Emmanuelle,De Temmerman   Jennifer,1,1
+Ménard   Emmanuelle,Duvergé   Bruno,1,1
+Ménard   Emmanuelle,Gayte   Laurence,1,1
+Ménard   Emmanuelle,Testé   Stéphane,1,1
+Ménard   Emmanuelle,Park   Zivka,1,1
+Ménard   Emmanuelle,Forteza   Paula,1,1
+Ménard   Emmanuelle,Charrière   Sylvie,1,1
+Ménard   Emmanuelle,Gaillot   Albane,1,1
+Ménard   Emmanuelle,Pichereau   Damien,1,1
+Ménard   Emmanuelle,Bonnivard   Émilie,1,1
+Ménard   Emmanuelle,Riotton   Véronique,1,1
+Ménard   Emmanuelle,Lenne   Marion,1,1
+Ménard   Emmanuelle,Luquet   Aude,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,1,1
+Ménard   Emmanuelle,Marilossian   Jacques,1,1
+Ménard   Emmanuelle,Millienne   Bruno,1,1
+Ménard   Emmanuelle,Buchou   Stéphane,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,1,1
+Couillard   Bérangère,Panonacle   Sophie,1,1
+Couillard   Bérangère,Maillart-Méhaignerie   Laurence,1,1
+Couillard   Bérangère,Colas-Roy   Jean-Charles,1,1
+Couillard   Bérangère,Labaronne   Daniel,1,1
+Couillard   Bérangère,Girardin   Éric,1,1
+Couillard   Bérangère,De Temmerman   Jennifer,1,1
+Couillard   Bérangère,Duvergé   Bruno,1,1
+Couillard   Bérangère,Gayte   Laurence,1,1
+Couillard   Bérangère,Testé   Stéphane,1,1
+Couillard   Bérangère,Park   Zivka,1,1
+Couillard   Bérangère,Forteza   Paula,1,1
+Couillard   Bérangère,Charrière   Sylvie,1,1
+Couillard   Bérangère,Gaillot   Albane,1,1
+Couillard   Bérangère,Pichereau   Damien,1,1
+Couillard   Bérangère,Bonnivard   Émilie,1,1
+Couillard   Bérangère,Riotton   Véronique,1,1
+Couillard   Bérangère,Lenne   Marion,1,1
+Couillard   Bérangère,Luquet   Aude,1,1
+Couillard   Bérangère,Pouzyreff   Natalia,1,1
+Couillard   Bérangère,Marilossian   Jacques,1,1
+Couillard   Bérangère,Millienne   Bruno,1,1
+Couillard   Bérangère,Buchou   Stéphane,1,1
+Couillard   Bérangère,Leclabart   Jean-Claude,1,1
+Couillard   Bérangère,Fugit   Jean-Luc,1,1
+Panonacle   Sophie,Maillart-Méhaignerie   Laurence,1,1
+Panonacle   Sophie,Colas-Roy   Jean-Charles,1,1
+Panonacle   Sophie,Labaronne   Daniel,1,1
+Panonacle   Sophie,Girardin   Éric,1,1
+Panonacle   Sophie,De Temmerman   Jennifer,1,1
+Panonacle   Sophie,Duvergé   Bruno,1,1
+Panonacle   Sophie,Gayte   Laurence,1,1
+Panonacle   Sophie,Testé   Stéphane,1,1
+Panonacle   Sophie,Park   Zivka,1,1
+Panonacle   Sophie,Forteza   Paula,1,1
+Panonacle   Sophie,Charrière   Sylvie,1,1
+Panonacle   Sophie,Gaillot   Albane,1,1
+Panonacle   Sophie,Pichereau   Damien,1,1
+Panonacle   Sophie,Bonnivard   Émilie,1,1
+Panonacle   Sophie,Riotton   Véronique,1,1
+Panonacle   Sophie,Lenne   Marion,1,1
+Panonacle   Sophie,Luquet   Aude,1,1
+Panonacle   Sophie,Pouzyreff   Natalia,1,1
+Panonacle   Sophie,Marilossian   Jacques,1,1
+Panonacle   Sophie,Millienne   Bruno,1,1
+Panonacle   Sophie,Buchou   Stéphane,1,1
+Panonacle   Sophie,Leclabart   Jean-Claude,1,1
+Panonacle   Sophie,Fugit   Jean-Luc,1,1
+Maillart-Méhaignerie   Laurence,Colas-Roy   Jean-Charles,1,1
+Maillart-Méhaignerie   Laurence,Labaronne   Daniel,1,1
+Maillart-Méhaignerie   Laurence,Girardin   Éric,1,1
+Maillart-Méhaignerie   Laurence,De Temmerman   Jennifer,1,1
+Maillart-Méhaignerie   Laurence,Duvergé   Bruno,1,1
+Maillart-Méhaignerie   Laurence,Gayte   Laurence,1,1
+Maillart-Méhaignerie   Laurence,Testé   Stéphane,1,1
+Maillart-Méhaignerie   Laurence,Park   Zivka,1,1
+Maillart-Méhaignerie   Laurence,Forteza   Paula,1,1
+Maillart-Méhaignerie   Laurence,Charrière   Sylvie,1,1
+Maillart-Méhaignerie   Laurence,Gaillot   Albane,1,1
+Maillart-Méhaignerie   Laurence,Pichereau   Damien,1,1
+Maillart-Méhaignerie   Laurence,Bonnivard   Émilie,1,1
+Maillart-Méhaignerie   Laurence,Riotton   Véronique,1,1
+Maillart-Méhaignerie   Laurence,Lenne   Marion,1,1
+Maillart-Méhaignerie   Laurence,Luquet   Aude,1,1
+Maillart-Méhaignerie   Laurence,Pouzyreff   Natalia,1,1
+Maillart-Méhaignerie   Laurence,Marilossian   Jacques,1,1
+Maillart-Méhaignerie   Laurence,Millienne   Bruno,1,1
+Maillart-Méhaignerie   Laurence,Buchou   Stéphane,1,1
+Maillart-Méhaignerie   Laurence,Leclabart   Jean-Claude,1,1
+Maillart-Méhaignerie   Laurence,Fugit   Jean-Luc,1,1
+Colas-Roy   Jean-Charles,Labaronne   Daniel,1,1
+Colas-Roy   Jean-Charles,Girardin   Éric,1,1
+Colas-Roy   Jean-Charles,De Temmerman   Jennifer,1,1
+Colas-Roy   Jean-Charles,Duvergé   Bruno,1,1
+Colas-Roy   Jean-Charles,Gayte   Laurence,1,1
+Colas-Roy   Jean-Charles,Testé   Stéphane,1,1
+Colas-Roy   Jean-Charles,Park   Zivka,1,1
+Colas-Roy   Jean-Charles,Forteza   Paula,1,1
+Colas-Roy   Jean-Charles,Charrière   Sylvie,1,1
+Colas-Roy   Jean-Charles,Gaillot   Albane,1,1
+Colas-Roy   Jean-Charles,Pichereau   Damien,1,1
+Colas-Roy   Jean-Charles,Bonnivard   Émilie,1,1
+Colas-Roy   Jean-Charles,Riotton   Véronique,1,1
+Colas-Roy   Jean-Charles,Lenne   Marion,1,1
+Colas-Roy   Jean-Charles,Luquet   Aude,1,1
+Colas-Roy   Jean-Charles,Pouzyreff   Natalia,1,1
+Colas-Roy   Jean-Charles,Marilossian   Jacques,1,1
+Colas-Roy   Jean-Charles,Millienne   Bruno,1,1
+Colas-Roy   Jean-Charles,Buchou   Stéphane,1,1
+Colas-Roy   Jean-Charles,Leclabart   Jean-Claude,1,1
+Colas-Roy   Jean-Charles,Fugit   Jean-Luc,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,De Temmerman   Jennifer,1,1
+Labaronne   Daniel,Duvergé   Bruno,1,1
+Labaronne   Daniel,Gayte   Laurence,1,1
+Labaronne   Daniel,Testé   Stéphane,1,1
+Labaronne   Daniel,Park   Zivka,1,1
+Labaronne   Daniel,Forteza   Paula,1,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Gaillot   Albane,1,1
+Labaronne   Daniel,Pichereau   Damien,1,1
+Labaronne   Daniel,Bonnivard   Émilie,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Luquet   Aude,1,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,Marilossian   Jacques,1,1
+Labaronne   Daniel,Millienne   Bruno,1,1
+Labaronne   Daniel,Buchou   Stéphane,1,1
+Labaronne   Daniel,Leclabart   Jean-Claude,1,1
+Labaronne   Daniel,Fugit   Jean-Luc,1,1
+Girardin   Éric,De Temmerman   Jennifer,1,1
+Girardin   Éric,Duvergé   Bruno,1,1
+Girardin   Éric,Gayte   Laurence,1,1
+Girardin   Éric,Testé   Stéphane,1,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Forteza   Paula,1,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Gaillot   Albane,1,1
+Girardin   Éric,Pichereau   Damien,1,1
+Girardin   Éric,Bonnivard   Émilie,1,1
+Girardin   Éric,Riotton   Véronique,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Luquet   Aude,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Marilossian   Jacques,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Buchou   Stéphane,1,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+De Temmerman   Jennifer,Duvergé   Bruno,1,1
+De Temmerman   Jennifer,Gayte   Laurence,1,1
+De Temmerman   Jennifer,Testé   Stéphane,1,1
+De Temmerman   Jennifer,Park   Zivka,1,1
+De Temmerman   Jennifer,Forteza   Paula,1,1
+De Temmerman   Jennifer,Charrière   Sylvie,1,1
+De Temmerman   Jennifer,Gaillot   Albane,1,1
+De Temmerman   Jennifer,Pichereau   Damien,1,1
+De Temmerman   Jennifer,Bonnivard   Émilie,1,1
+De Temmerman   Jennifer,Riotton   Véronique,1,1
+De Temmerman   Jennifer,Lenne   Marion,1,1
+De Temmerman   Jennifer,Luquet   Aude,1,1
+De Temmerman   Jennifer,Pouzyreff   Natalia,1,1
+De Temmerman   Jennifer,Marilossian   Jacques,1,1
+De Temmerman   Jennifer,Millienne   Bruno,1,1
+De Temmerman   Jennifer,Buchou   Stéphane,1,1
+De Temmerman   Jennifer,Leclabart   Jean-Claude,1,1
+De Temmerman   Jennifer,Fugit   Jean-Luc,1,1
+Duvergé   Bruno,Gayte   Laurence,1,1
+Duvergé   Bruno,Testé   Stéphane,1,1
+Duvergé   Bruno,Park   Zivka,1,1
+Duvergé   Bruno,Forteza   Paula,1,1
+Duvergé   Bruno,Charrière   Sylvie,1,1
+Duvergé   Bruno,Gaillot   Albane,1,1
+Duvergé   Bruno,Pichereau   Damien,1,1
+Duvergé   Bruno,Bonnivard   Émilie,1,1
+Duvergé   Bruno,Riotton   Véronique,1,1
+Duvergé   Bruno,Lenne   Marion,1,1
+Duvergé   Bruno,Luquet   Aude,1,1
+Duvergé   Bruno,Pouzyreff   Natalia,1,1
+Duvergé   Bruno,Marilossian   Jacques,1,1
+Duvergé   Bruno,Millienne   Bruno,1,1
+Duvergé   Bruno,Buchou   Stéphane,1,1
+Duvergé   Bruno,Leclabart   Jean-Claude,1,1
+Duvergé   Bruno,Fugit   Jean-Luc,1,1
+Gayte   Laurence,Testé   Stéphane,1,1
+Gayte   Laurence,Park   Zivka,1,1
+Gayte   Laurence,Forteza   Paula,1,1
+Gayte   Laurence,Charrière   Sylvie,1,1
+Gayte   Laurence,Gaillot   Albane,1,1
+Gayte   Laurence,Pichereau   Damien,1,1
+Gayte   Laurence,Bonnivard   Émilie,1,1
+Gayte   Laurence,Riotton   Véronique,1,1
+Gayte   Laurence,Lenne   Marion,1,1
+Gayte   Laurence,Luquet   Aude,1,1
+Gayte   Laurence,Pouzyreff   Natalia,1,1
+Gayte   Laurence,Marilossian   Jacques,1,1
+Gayte   Laurence,Millienne   Bruno,1,1
+Gayte   Laurence,Buchou   Stéphane,1,1
+Gayte   Laurence,Leclabart   Jean-Claude,1,1
+Gayte   Laurence,Fugit   Jean-Luc,1,1
+Testé   Stéphane,Park   Zivka,1,1
+Testé   Stéphane,Forteza   Paula,1,1
+Testé   Stéphane,Charrière   Sylvie,1,1
+Testé   Stéphane,Gaillot   Albane,1,1
+Testé   Stéphane,Pichereau   Damien,1,1
+Testé   Stéphane,Bonnivard   Émilie,1,1
+Testé   Stéphane,Riotton   Véronique,1,1
+Testé   Stéphane,Lenne   Marion,1,1
+Testé   Stéphane,Luquet   Aude,1,1
+Testé   Stéphane,Pouzyreff   Natalia,1,1
+Testé   Stéphane,Marilossian   Jacques,1,1
+Testé   Stéphane,Millienne   Bruno,1,1
+Testé   Stéphane,Buchou   Stéphane,1,1
+Testé   Stéphane,Leclabart   Jean-Claude,1,1
+Testé   Stéphane,Fugit   Jean-Luc,1,1
+Park   Zivka,Forteza   Paula,1,1
+Park   Zivka,Charrière   Sylvie,1,1
+Park   Zivka,Gaillot   Albane,1,1
+Park   Zivka,Pichereau   Damien,1,1
+Park   Zivka,Bonnivard   Émilie,1,1
+Park   Zivka,Riotton   Véronique,1,1
+Park   Zivka,Lenne   Marion,1,1
+Park   Zivka,Luquet   Aude,1,1
+Park   Zivka,Pouzyreff   Natalia,1,1
+Park   Zivka,Marilossian   Jacques,1,1
+Park   Zivka,Millienne   Bruno,1,1
+Park   Zivka,Buchou   Stéphane,1,1
+Park   Zivka,Leclabart   Jean-Claude,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Forteza   Paula,Charrière   Sylvie,1,1
+Forteza   Paula,Gaillot   Albane,1,1
+Forteza   Paula,Pichereau   Damien,1,1
+Forteza   Paula,Bonnivard   Émilie,1,1
+Forteza   Paula,Riotton   Véronique,1,1
+Forteza   Paula,Lenne   Marion,1,1
+Forteza   Paula,Luquet   Aude,1,1
+Forteza   Paula,Pouzyreff   Natalia,1,1
+Forteza   Paula,Marilossian   Jacques,1,1
+Forteza   Paula,Millienne   Bruno,1,1
+Forteza   Paula,Buchou   Stéphane,1,1
+Forteza   Paula,Leclabart   Jean-Claude,1,1
+Forteza   Paula,Fugit   Jean-Luc,1,1
+Charrière   Sylvie,Gaillot   Albane,1,1
+Charrière   Sylvie,Pichereau   Damien,1,1
+Charrière   Sylvie,Bonnivard   Émilie,1,1
+Charrière   Sylvie,Riotton   Véronique,1,1
+Charrière   Sylvie,Lenne   Marion,1,1
+Charrière   Sylvie,Luquet   Aude,1,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,Marilossian   Jacques,1,1
+Charrière   Sylvie,Millienne   Bruno,1,1
+Charrière   Sylvie,Buchou   Stéphane,1,1
+Charrière   Sylvie,Leclabart   Jean-Claude,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Gaillot   Albane,Pichereau   Damien,1,1
+Gaillot   Albane,Bonnivard   Émilie,1,1
+Gaillot   Albane,Riotton   Véronique,1,1
+Gaillot   Albane,Lenne   Marion,1,1
+Gaillot   Albane,Luquet   Aude,1,1
+Gaillot   Albane,Pouzyreff   Natalia,1,1
+Gaillot   Albane,Marilossian   Jacques,1,1
+Gaillot   Albane,Millienne   Bruno,1,1
+Gaillot   Albane,Buchou   Stéphane,1,1
+Gaillot   Albane,Leclabart   Jean-Claude,1,1
+Gaillot   Albane,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Bonnivard   Émilie,1,1
+Pichereau   Damien,Riotton   Véronique,1,1
+Pichereau   Damien,Lenne   Marion,1,1
+Pichereau   Damien,Luquet   Aude,1,1
+Pichereau   Damien,Pouzyreff   Natalia,1,1
+Pichereau   Damien,Marilossian   Jacques,1,1
+Pichereau   Damien,Millienne   Bruno,1,1
+Pichereau   Damien,Buchou   Stéphane,1,1
+Pichereau   Damien,Leclabart   Jean-Claude,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Bonnivard   Émilie,Riotton   Véronique,1,1
+Bonnivard   Émilie,Lenne   Marion,1,1
+Bonnivard   Émilie,Luquet   Aude,1,1
+Bonnivard   Émilie,Pouzyreff   Natalia,1,1
+Bonnivard   Émilie,Marilossian   Jacques,1,1
+Bonnivard   Émilie,Millienne   Bruno,1,1
+Bonnivard   Émilie,Buchou   Stéphane,1,1
+Bonnivard   Émilie,Leclabart   Jean-Claude,1,1
+Bonnivard   Émilie,Fugit   Jean-Luc,1,1
+Riotton   Véronique,Lenne   Marion,1,1
+Riotton   Véronique,Luquet   Aude,1,1
+Riotton   Véronique,Pouzyreff   Natalia,1,1
+Riotton   Véronique,Marilossian   Jacques,1,1
+Riotton   Véronique,Millienne   Bruno,1,1
+Riotton   Véronique,Buchou   Stéphane,1,1
+Riotton   Véronique,Leclabart   Jean-Claude,1,1
+Riotton   Véronique,Fugit   Jean-Luc,1,1
+Lenne   Marion,Luquet   Aude,1,1
+Lenne   Marion,Pouzyreff   Natalia,1,1
+Lenne   Marion,Marilossian   Jacques,1,1
+Lenne   Marion,Millienne   Bruno,1,1
+Lenne   Marion,Buchou   Stéphane,1,1
+Lenne   Marion,Leclabart   Jean-Claude,1,1
+Lenne   Marion,Fugit   Jean-Luc,1,1
+Luquet   Aude,Pouzyreff   Natalia,1,1
+Luquet   Aude,Marilossian   Jacques,1,1
+Luquet   Aude,Millienne   Bruno,1,1
+Luquet   Aude,Buchou   Stéphane,1,1
+Luquet   Aude,Leclabart   Jean-Claude,1,1
+Luquet   Aude,Fugit   Jean-Luc,1,1
+Pouzyreff   Natalia,Marilossian   Jacques,1,1
+Pouzyreff   Natalia,Millienne   Bruno,1,1
+Pouzyreff   Natalia,Buchou   Stéphane,1,1
+Pouzyreff   Natalia,Leclabart   Jean-Claude,1,1
+Pouzyreff   Natalia,Fugit   Jean-Luc,1,1
+Marilossian   Jacques,Millienne   Bruno,1,1
+Marilossian   Jacques,Buchou   Stéphane,1,1
+Marilossian   Jacques,Leclabart   Jean-Claude,1,1
+Marilossian   Jacques,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Buchou   Stéphane,1,1
+Millienne   Bruno,Leclabart   Jean-Claude,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Buchou   Stéphane,Leclabart   Jean-Claude,1,1
+Buchou   Stéphane,Fugit   Jean-Luc,1,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1

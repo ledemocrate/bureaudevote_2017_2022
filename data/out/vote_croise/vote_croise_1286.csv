@@ -1,0 +1,667 @@
+from,to,vote_commun,loi_commun
+Door   Jean-Pierre,Woerth   Éric,1,1
+Door   Jean-Pierre,Iborra   Monique,0,1
+Door   Jean-Pierre,Pinel   Sylvia,0,1
+Door   Jean-Pierre,Battistel   Marie-Noëlle,0,1
+Door   Jean-Pierre,Biémouret   Gisèle,0,1
+Door   Jean-Pierre,Alauzet   Éric,0,1
+Door   Jean-Pierre,Dubié   Jeanine,0,1
+Door   Jean-Pierre,Barbier   Frédéric,0,1
+Door   Jean-Pierre,Aviragnet   Joël,0,1
+Door   Jean-Pierre,Maillard   Sylvain,0,1
+Door   Jean-Pierre,Boyer   Pascale,0,1
+Door   Jean-Pierre,Bagarry   Delphine,0,1
+Door   Jean-Pierre,Robert   Mireille,0,1
+Door   Jean-Pierre,Dharréville   Pierre,0,1
+Door   Jean-Pierre,Mesnier   Thomas,0,1
+Door   Jean-Pierre,Khattabi   Fadila,0,1
+Door   Jean-Pierre,Fabre   Catherine,0,1
+Door   Jean-Pierre,Ménard   Emmanuelle,1,1
+Door   Jean-Pierre,Cloarec-Le Nabour   Christine,0,1
+Door   Jean-Pierre,Motin   Cendra,0,1
+Door   Jean-Pierre,Brulebois   Danielle,0,1
+Door   Jean-Pierre,Sarles   Nathalie,0,1
+Door   Jean-Pierre,Dufeu   Audrey,0,1
+Door   Jean-Pierre,Rist   Stéphanie,0,1
+Door   Jean-Pierre,Dubré-Chirat   Nicole,0,1
+Door   Jean-Pierre,Fiat   Caroline,0,1
+Door   Jean-Pierre,Bruneel   Alain,0,1
+Door   Jean-Pierre,Bureau-Bonnard   Carole,0,1
+Door   Jean-Pierre,Thomas   Valérie,0,1
+Door   Jean-Pierre,Lazaar   Fiona,0,1
+Door   Jean-Pierre,Ratenon   Jean-Hugues,0,1
+Door   Jean-Pierre,Ramadier   Alain,1,1
+Door   Jean-Pierre,Le Gendre   Gilles,0,1
+Door   Jean-Pierre,Guerel   Émilie,0,1
+Door   Jean-Pierre,Vidal   Annie,0,1
+Door   Jean-Pierre,Beaudouin-Hubiere   Sophie,0,1
+Woerth   Éric,Iborra   Monique,0,1
+Woerth   Éric,Pinel   Sylvia,0,1
+Woerth   Éric,Battistel   Marie-Noëlle,0,1
+Woerth   Éric,Biémouret   Gisèle,0,1
+Woerth   Éric,Alauzet   Éric,0,1
+Woerth   Éric,Dubié   Jeanine,0,1
+Woerth   Éric,Barbier   Frédéric,0,1
+Woerth   Éric,Aviragnet   Joël,0,1
+Woerth   Éric,Maillard   Sylvain,0,1
+Woerth   Éric,Boyer   Pascale,0,1
+Woerth   Éric,Bagarry   Delphine,0,1
+Woerth   Éric,Robert   Mireille,0,1
+Woerth   Éric,Dharréville   Pierre,0,1
+Woerth   Éric,Mesnier   Thomas,0,1
+Woerth   Éric,Khattabi   Fadila,0,1
+Woerth   Éric,Fabre   Catherine,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Cloarec-Le Nabour   Christine,0,1
+Woerth   Éric,Motin   Cendra,0,1
+Woerth   Éric,Brulebois   Danielle,0,1
+Woerth   Éric,Sarles   Nathalie,0,1
+Woerth   Éric,Dufeu   Audrey,0,1
+Woerth   Éric,Rist   Stéphanie,0,1
+Woerth   Éric,Dubré-Chirat   Nicole,0,1
+Woerth   Éric,Fiat   Caroline,0,1
+Woerth   Éric,Bruneel   Alain,0,1
+Woerth   Éric,Bureau-Bonnard   Carole,0,1
+Woerth   Éric,Thomas   Valérie,0,1
+Woerth   Éric,Lazaar   Fiona,0,1
+Woerth   Éric,Ratenon   Jean-Hugues,0,1
+Woerth   Éric,Ramadier   Alain,1,1
+Woerth   Éric,Le Gendre   Gilles,0,1
+Woerth   Éric,Guerel   Émilie,0,1
+Woerth   Éric,Vidal   Annie,0,1
+Woerth   Éric,Beaudouin-Hubiere   Sophie,0,1
+Iborra   Monique,Pinel   Sylvia,0,1
+Iborra   Monique,Battistel   Marie-Noëlle,0,1
+Iborra   Monique,Biémouret   Gisèle,0,1
+Iborra   Monique,Alauzet   Éric,1,1
+Iborra   Monique,Dubié   Jeanine,0,1
+Iborra   Monique,Barbier   Frédéric,1,1
+Iborra   Monique,Aviragnet   Joël,0,1
+Iborra   Monique,Maillard   Sylvain,1,1
+Iborra   Monique,Boyer   Pascale,1,1
+Iborra   Monique,Bagarry   Delphine,1,1
+Iborra   Monique,Robert   Mireille,1,1
+Iborra   Monique,Dharréville   Pierre,0,1
+Iborra   Monique,Mesnier   Thomas,1,1
+Iborra   Monique,Khattabi   Fadila,1,1
+Iborra   Monique,Fabre   Catherine,1,1
+Iborra   Monique,Ménard   Emmanuelle,0,1
+Iborra   Monique,Cloarec-Le Nabour   Christine,1,1
+Iborra   Monique,Motin   Cendra,1,1
+Iborra   Monique,Brulebois   Danielle,1,1
+Iborra   Monique,Sarles   Nathalie,1,1
+Iborra   Monique,Dufeu   Audrey,1,1
+Iborra   Monique,Rist   Stéphanie,1,1
+Iborra   Monique,Dubré-Chirat   Nicole,1,1
+Iborra   Monique,Fiat   Caroline,0,1
+Iborra   Monique,Bruneel   Alain,0,1
+Iborra   Monique,Bureau-Bonnard   Carole,1,1
+Iborra   Monique,Thomas   Valérie,1,1
+Iborra   Monique,Lazaar   Fiona,1,1
+Iborra   Monique,Ratenon   Jean-Hugues,0,1
+Iborra   Monique,Ramadier   Alain,0,1
+Iborra   Monique,Le Gendre   Gilles,1,1
+Iborra   Monique,Guerel   Émilie,0,1
+Iborra   Monique,Vidal   Annie,1,1
+Iborra   Monique,Beaudouin-Hubiere   Sophie,1,1
+Pinel   Sylvia,Battistel   Marie-Noëlle,1,1
+Pinel   Sylvia,Biémouret   Gisèle,1,1
+Pinel   Sylvia,Alauzet   Éric,0,1
+Pinel   Sylvia,Dubié   Jeanine,1,1
+Pinel   Sylvia,Barbier   Frédéric,0,1
+Pinel   Sylvia,Aviragnet   Joël,1,1
+Pinel   Sylvia,Maillard   Sylvain,0,1
+Pinel   Sylvia,Boyer   Pascale,0,1
+Pinel   Sylvia,Bagarry   Delphine,0,1
+Pinel   Sylvia,Robert   Mireille,0,1
+Pinel   Sylvia,Dharréville   Pierre,1,1
+Pinel   Sylvia,Mesnier   Thomas,0,1
+Pinel   Sylvia,Khattabi   Fadila,0,1
+Pinel   Sylvia,Fabre   Catherine,0,1
+Pinel   Sylvia,Ménard   Emmanuelle,0,1
+Pinel   Sylvia,Cloarec-Le Nabour   Christine,0,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Brulebois   Danielle,0,1
+Pinel   Sylvia,Sarles   Nathalie,0,1
+Pinel   Sylvia,Dufeu   Audrey,0,1
+Pinel   Sylvia,Rist   Stéphanie,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,0,1
+Pinel   Sylvia,Fiat   Caroline,1,1
+Pinel   Sylvia,Bruneel   Alain,1,1
+Pinel   Sylvia,Bureau-Bonnard   Carole,0,1
+Pinel   Sylvia,Thomas   Valérie,0,1
+Pinel   Sylvia,Lazaar   Fiona,0,1
+Pinel   Sylvia,Ratenon   Jean-Hugues,1,1
+Pinel   Sylvia,Ramadier   Alain,0,1
+Pinel   Sylvia,Le Gendre   Gilles,0,1
+Pinel   Sylvia,Guerel   Émilie,1,1
+Pinel   Sylvia,Vidal   Annie,0,1
+Pinel   Sylvia,Beaudouin-Hubiere   Sophie,0,1
+Battistel   Marie-Noëlle,Biémouret   Gisèle,1,1
+Battistel   Marie-Noëlle,Alauzet   Éric,0,1
+Battistel   Marie-Noëlle,Dubié   Jeanine,1,1
+Battistel   Marie-Noëlle,Barbier   Frédéric,0,1
+Battistel   Marie-Noëlle,Aviragnet   Joël,1,1
+Battistel   Marie-Noëlle,Maillard   Sylvain,0,1
+Battistel   Marie-Noëlle,Boyer   Pascale,0,1
+Battistel   Marie-Noëlle,Bagarry   Delphine,0,1
+Battistel   Marie-Noëlle,Robert   Mireille,0,1
+Battistel   Marie-Noëlle,Dharréville   Pierre,1,1
+Battistel   Marie-Noëlle,Mesnier   Thomas,0,1
+Battistel   Marie-Noëlle,Khattabi   Fadila,0,1
+Battistel   Marie-Noëlle,Fabre   Catherine,0,1
+Battistel   Marie-Noëlle,Ménard   Emmanuelle,0,1
+Battistel   Marie-Noëlle,Cloarec-Le Nabour   Christine,0,1
+Battistel   Marie-Noëlle,Motin   Cendra,0,1
+Battistel   Marie-Noëlle,Brulebois   Danielle,0,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,0,1
+Battistel   Marie-Noëlle,Dufeu   Audrey,0,1
+Battistel   Marie-Noëlle,Rist   Stéphanie,0,1
+Battistel   Marie-Noëlle,Dubré-Chirat   Nicole,0,1
+Battistel   Marie-Noëlle,Fiat   Caroline,1,1
+Battistel   Marie-Noëlle,Bruneel   Alain,1,1
+Battistel   Marie-Noëlle,Bureau-Bonnard   Carole,0,1
+Battistel   Marie-Noëlle,Thomas   Valérie,0,1
+Battistel   Marie-Noëlle,Lazaar   Fiona,0,1
+Battistel   Marie-Noëlle,Ratenon   Jean-Hugues,1,1
+Battistel   Marie-Noëlle,Ramadier   Alain,0,1
+Battistel   Marie-Noëlle,Le Gendre   Gilles,0,1
+Battistel   Marie-Noëlle,Guerel   Émilie,1,1
+Battistel   Marie-Noëlle,Vidal   Annie,0,1
+Battistel   Marie-Noëlle,Beaudouin-Hubiere   Sophie,0,1
+Biémouret   Gisèle,Alauzet   Éric,0,1
+Biémouret   Gisèle,Dubié   Jeanine,1,1
+Biémouret   Gisèle,Barbier   Frédéric,0,1
+Biémouret   Gisèle,Aviragnet   Joël,1,1
+Biémouret   Gisèle,Maillard   Sylvain,0,1
+Biémouret   Gisèle,Boyer   Pascale,0,1
+Biémouret   Gisèle,Bagarry   Delphine,0,1
+Biémouret   Gisèle,Robert   Mireille,0,1
+Biémouret   Gisèle,Dharréville   Pierre,1,1
+Biémouret   Gisèle,Mesnier   Thomas,0,1
+Biémouret   Gisèle,Khattabi   Fadila,0,1
+Biémouret   Gisèle,Fabre   Catherine,0,1
+Biémouret   Gisèle,Ménard   Emmanuelle,0,1
+Biémouret   Gisèle,Cloarec-Le Nabour   Christine,0,1
+Biémouret   Gisèle,Motin   Cendra,0,1
+Biémouret   Gisèle,Brulebois   Danielle,0,1
+Biémouret   Gisèle,Sarles   Nathalie,0,1
+Biémouret   Gisèle,Dufeu   Audrey,0,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Dubré-Chirat   Nicole,0,1
+Biémouret   Gisèle,Fiat   Caroline,1,1
+Biémouret   Gisèle,Bruneel   Alain,1,1
+Biémouret   Gisèle,Bureau-Bonnard   Carole,0,1
+Biémouret   Gisèle,Thomas   Valérie,0,1
+Biémouret   Gisèle,Lazaar   Fiona,0,1
+Biémouret   Gisèle,Ratenon   Jean-Hugues,1,1
+Biémouret   Gisèle,Ramadier   Alain,0,1
+Biémouret   Gisèle,Le Gendre   Gilles,0,1
+Biémouret   Gisèle,Guerel   Émilie,1,1
+Biémouret   Gisèle,Vidal   Annie,0,1
+Biémouret   Gisèle,Beaudouin-Hubiere   Sophie,0,1
+Alauzet   Éric,Dubié   Jeanine,0,1
+Alauzet   Éric,Barbier   Frédéric,1,1
+Alauzet   Éric,Aviragnet   Joël,0,1
+Alauzet   Éric,Maillard   Sylvain,1,1
+Alauzet   Éric,Boyer   Pascale,1,1
+Alauzet   Éric,Bagarry   Delphine,1,1
+Alauzet   Éric,Robert   Mireille,1,1
+Alauzet   Éric,Dharréville   Pierre,0,1
+Alauzet   Éric,Mesnier   Thomas,1,1
+Alauzet   Éric,Khattabi   Fadila,1,1
+Alauzet   Éric,Fabre   Catherine,1,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,Cloarec-Le Nabour   Christine,1,1
+Alauzet   Éric,Motin   Cendra,1,1
+Alauzet   Éric,Brulebois   Danielle,1,1
+Alauzet   Éric,Sarles   Nathalie,1,1
+Alauzet   Éric,Dufeu   Audrey,1,1
+Alauzet   Éric,Rist   Stéphanie,1,1
+Alauzet   Éric,Dubré-Chirat   Nicole,1,1
+Alauzet   Éric,Fiat   Caroline,0,1
+Alauzet   Éric,Bruneel   Alain,0,1
+Alauzet   Éric,Bureau-Bonnard   Carole,1,1
+Alauzet   Éric,Thomas   Valérie,1,1
+Alauzet   Éric,Lazaar   Fiona,1,1
+Alauzet   Éric,Ratenon   Jean-Hugues,0,1
+Alauzet   Éric,Ramadier   Alain,0,1
+Alauzet   Éric,Le Gendre   Gilles,1,1
+Alauzet   Éric,Guerel   Émilie,0,1
+Alauzet   Éric,Vidal   Annie,1,1
+Alauzet   Éric,Beaudouin-Hubiere   Sophie,1,1
+Dubié   Jeanine,Barbier   Frédéric,0,1
+Dubié   Jeanine,Aviragnet   Joël,1,1
+Dubié   Jeanine,Maillard   Sylvain,0,1
+Dubié   Jeanine,Boyer   Pascale,0,1
+Dubié   Jeanine,Bagarry   Delphine,0,1
+Dubié   Jeanine,Robert   Mireille,0,1
+Dubié   Jeanine,Dharréville   Pierre,1,1
+Dubié   Jeanine,Mesnier   Thomas,0,1
+Dubié   Jeanine,Khattabi   Fadila,0,1
+Dubié   Jeanine,Fabre   Catherine,0,1
+Dubié   Jeanine,Ménard   Emmanuelle,0,1
+Dubié   Jeanine,Cloarec-Le Nabour   Christine,0,1
+Dubié   Jeanine,Motin   Cendra,0,1
+Dubié   Jeanine,Brulebois   Danielle,0,1
+Dubié   Jeanine,Sarles   Nathalie,0,1
+Dubié   Jeanine,Dufeu   Audrey,0,1
+Dubié   Jeanine,Rist   Stéphanie,0,1
+Dubié   Jeanine,Dubré-Chirat   Nicole,0,1
+Dubié   Jeanine,Fiat   Caroline,1,1
+Dubié   Jeanine,Bruneel   Alain,1,1
+Dubié   Jeanine,Bureau-Bonnard   Carole,0,1
+Dubié   Jeanine,Thomas   Valérie,0,1
+Dubié   Jeanine,Lazaar   Fiona,0,1
+Dubié   Jeanine,Ratenon   Jean-Hugues,1,1
+Dubié   Jeanine,Ramadier   Alain,0,1
+Dubié   Jeanine,Le Gendre   Gilles,0,1
+Dubié   Jeanine,Guerel   Émilie,1,1
+Dubié   Jeanine,Vidal   Annie,0,1
+Dubié   Jeanine,Beaudouin-Hubiere   Sophie,0,1
+Barbier   Frédéric,Aviragnet   Joël,0,1
+Barbier   Frédéric,Maillard   Sylvain,1,1
+Barbier   Frédéric,Boyer   Pascale,1,1
+Barbier   Frédéric,Bagarry   Delphine,1,1
+Barbier   Frédéric,Robert   Mireille,1,1
+Barbier   Frédéric,Dharréville   Pierre,0,1
+Barbier   Frédéric,Mesnier   Thomas,1,1
+Barbier   Frédéric,Khattabi   Fadila,1,1
+Barbier   Frédéric,Fabre   Catherine,1,1
+Barbier   Frédéric,Ménard   Emmanuelle,0,1
+Barbier   Frédéric,Cloarec-Le Nabour   Christine,1,1
+Barbier   Frédéric,Motin   Cendra,1,1
+Barbier   Frédéric,Brulebois   Danielle,1,1
+Barbier   Frédéric,Sarles   Nathalie,1,1
+Barbier   Frédéric,Dufeu   Audrey,1,1
+Barbier   Frédéric,Rist   Stéphanie,1,1
+Barbier   Frédéric,Dubré-Chirat   Nicole,1,1
+Barbier   Frédéric,Fiat   Caroline,0,1
+Barbier   Frédéric,Bruneel   Alain,0,1
+Barbier   Frédéric,Bureau-Bonnard   Carole,1,1
+Barbier   Frédéric,Thomas   Valérie,1,1
+Barbier   Frédéric,Lazaar   Fiona,1,1
+Barbier   Frédéric,Ratenon   Jean-Hugues,0,1
+Barbier   Frédéric,Ramadier   Alain,0,1
+Barbier   Frédéric,Le Gendre   Gilles,1,1
+Barbier   Frédéric,Guerel   Émilie,0,1
+Barbier   Frédéric,Vidal   Annie,1,1
+Barbier   Frédéric,Beaudouin-Hubiere   Sophie,1,1
+Aviragnet   Joël,Maillard   Sylvain,0,1
+Aviragnet   Joël,Boyer   Pascale,0,1
+Aviragnet   Joël,Bagarry   Delphine,0,1
+Aviragnet   Joël,Robert   Mireille,0,1
+Aviragnet   Joël,Dharréville   Pierre,1,1
+Aviragnet   Joël,Mesnier   Thomas,0,1
+Aviragnet   Joël,Khattabi   Fadila,0,1
+Aviragnet   Joël,Fabre   Catherine,0,1
+Aviragnet   Joël,Ménard   Emmanuelle,0,1
+Aviragnet   Joël,Cloarec-Le Nabour   Christine,0,1
+Aviragnet   Joël,Motin   Cendra,0,1
+Aviragnet   Joël,Brulebois   Danielle,0,1
+Aviragnet   Joël,Sarles   Nathalie,0,1
+Aviragnet   Joël,Dufeu   Audrey,0,1
+Aviragnet   Joël,Rist   Stéphanie,0,1
+Aviragnet   Joël,Dubré-Chirat   Nicole,0,1
+Aviragnet   Joël,Fiat   Caroline,1,1
+Aviragnet   Joël,Bruneel   Alain,1,1
+Aviragnet   Joël,Bureau-Bonnard   Carole,0,1
+Aviragnet   Joël,Thomas   Valérie,0,1
+Aviragnet   Joël,Lazaar   Fiona,0,1
+Aviragnet   Joël,Ratenon   Jean-Hugues,1,1
+Aviragnet   Joël,Ramadier   Alain,0,1
+Aviragnet   Joël,Le Gendre   Gilles,0,1
+Aviragnet   Joël,Guerel   Émilie,1,1
+Aviragnet   Joël,Vidal   Annie,0,1
+Aviragnet   Joël,Beaudouin-Hubiere   Sophie,0,1
+Maillard   Sylvain,Boyer   Pascale,1,1
+Maillard   Sylvain,Bagarry   Delphine,1,1
+Maillard   Sylvain,Robert   Mireille,1,1
+Maillard   Sylvain,Dharréville   Pierre,0,1
+Maillard   Sylvain,Mesnier   Thomas,1,1
+Maillard   Sylvain,Khattabi   Fadila,1,1
+Maillard   Sylvain,Fabre   Catherine,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Brulebois   Danielle,1,1
+Maillard   Sylvain,Sarles   Nathalie,1,1
+Maillard   Sylvain,Dufeu   Audrey,1,1
+Maillard   Sylvain,Rist   Stéphanie,1,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Bruneel   Alain,0,1
+Maillard   Sylvain,Bureau-Bonnard   Carole,1,1
+Maillard   Sylvain,Thomas   Valérie,1,1
+Maillard   Sylvain,Lazaar   Fiona,1,1
+Maillard   Sylvain,Ratenon   Jean-Hugues,0,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Le Gendre   Gilles,1,1
+Maillard   Sylvain,Guerel   Émilie,0,1
+Maillard   Sylvain,Vidal   Annie,1,1
+Maillard   Sylvain,Beaudouin-Hubiere   Sophie,1,1
+Boyer   Pascale,Bagarry   Delphine,1,1
+Boyer   Pascale,Robert   Mireille,1,1
+Boyer   Pascale,Dharréville   Pierre,0,1
+Boyer   Pascale,Mesnier   Thomas,1,1
+Boyer   Pascale,Khattabi   Fadila,1,1
+Boyer   Pascale,Fabre   Catherine,1,1
+Boyer   Pascale,Ménard   Emmanuelle,0,1
+Boyer   Pascale,Cloarec-Le Nabour   Christine,1,1
+Boyer   Pascale,Motin   Cendra,1,1
+Boyer   Pascale,Brulebois   Danielle,1,1
+Boyer   Pascale,Sarles   Nathalie,1,1
+Boyer   Pascale,Dufeu   Audrey,1,1
+Boyer   Pascale,Rist   Stéphanie,1,1
+Boyer   Pascale,Dubré-Chirat   Nicole,1,1
+Boyer   Pascale,Fiat   Caroline,0,1
+Boyer   Pascale,Bruneel   Alain,0,1
+Boyer   Pascale,Bureau-Bonnard   Carole,1,1
+Boyer   Pascale,Thomas   Valérie,1,1
+Boyer   Pascale,Lazaar   Fiona,1,1
+Boyer   Pascale,Ratenon   Jean-Hugues,0,1
+Boyer   Pascale,Ramadier   Alain,0,1
+Boyer   Pascale,Le Gendre   Gilles,1,1
+Boyer   Pascale,Guerel   Émilie,0,1
+Boyer   Pascale,Vidal   Annie,1,1
+Boyer   Pascale,Beaudouin-Hubiere   Sophie,1,1
+Bagarry   Delphine,Robert   Mireille,1,1
+Bagarry   Delphine,Dharréville   Pierre,0,1
+Bagarry   Delphine,Mesnier   Thomas,1,1
+Bagarry   Delphine,Khattabi   Fadila,1,1
+Bagarry   Delphine,Fabre   Catherine,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,Cloarec-Le Nabour   Christine,1,1
+Bagarry   Delphine,Motin   Cendra,1,1
+Bagarry   Delphine,Brulebois   Danielle,1,1
+Bagarry   Delphine,Sarles   Nathalie,1,1
+Bagarry   Delphine,Dufeu   Audrey,1,1
+Bagarry   Delphine,Rist   Stéphanie,1,1
+Bagarry   Delphine,Dubré-Chirat   Nicole,1,1
+Bagarry   Delphine,Fiat   Caroline,0,1
+Bagarry   Delphine,Bruneel   Alain,0,1
+Bagarry   Delphine,Bureau-Bonnard   Carole,1,1
+Bagarry   Delphine,Thomas   Valérie,1,1
+Bagarry   Delphine,Lazaar   Fiona,1,1
+Bagarry   Delphine,Ratenon   Jean-Hugues,0,1
+Bagarry   Delphine,Ramadier   Alain,0,1
+Bagarry   Delphine,Le Gendre   Gilles,1,1
+Bagarry   Delphine,Guerel   Émilie,0,1
+Bagarry   Delphine,Vidal   Annie,1,1
+Bagarry   Delphine,Beaudouin-Hubiere   Sophie,1,1
+Robert   Mireille,Dharréville   Pierre,0,1
+Robert   Mireille,Mesnier   Thomas,1,1
+Robert   Mireille,Khattabi   Fadila,1,1
+Robert   Mireille,Fabre   Catherine,1,1
+Robert   Mireille,Ménard   Emmanuelle,0,1
+Robert   Mireille,Cloarec-Le Nabour   Christine,1,1
+Robert   Mireille,Motin   Cendra,1,1
+Robert   Mireille,Brulebois   Danielle,1,1
+Robert   Mireille,Sarles   Nathalie,1,1
+Robert   Mireille,Dufeu   Audrey,1,1
+Robert   Mireille,Rist   Stéphanie,1,1
+Robert   Mireille,Dubré-Chirat   Nicole,1,1
+Robert   Mireille,Fiat   Caroline,0,1
+Robert   Mireille,Bruneel   Alain,0,1
+Robert   Mireille,Bureau-Bonnard   Carole,1,1
+Robert   Mireille,Thomas   Valérie,1,1
+Robert   Mireille,Lazaar   Fiona,1,1
+Robert   Mireille,Ratenon   Jean-Hugues,0,1
+Robert   Mireille,Ramadier   Alain,0,1
+Robert   Mireille,Le Gendre   Gilles,1,1
+Robert   Mireille,Guerel   Émilie,0,1
+Robert   Mireille,Vidal   Annie,1,1
+Robert   Mireille,Beaudouin-Hubiere   Sophie,1,1
+Dharréville   Pierre,Mesnier   Thomas,0,1
+Dharréville   Pierre,Khattabi   Fadila,0,1
+Dharréville   Pierre,Fabre   Catherine,0,1
+Dharréville   Pierre,Ménard   Emmanuelle,0,1
+Dharréville   Pierre,Cloarec-Le Nabour   Christine,0,1
+Dharréville   Pierre,Motin   Cendra,0,1
+Dharréville   Pierre,Brulebois   Danielle,0,1
+Dharréville   Pierre,Sarles   Nathalie,0,1
+Dharréville   Pierre,Dufeu   Audrey,0,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Fiat   Caroline,1,1
+Dharréville   Pierre,Bruneel   Alain,1,1
+Dharréville   Pierre,Bureau-Bonnard   Carole,0,1
+Dharréville   Pierre,Thomas   Valérie,0,1
+Dharréville   Pierre,Lazaar   Fiona,0,1
+Dharréville   Pierre,Ratenon   Jean-Hugues,1,1
+Dharréville   Pierre,Ramadier   Alain,0,1
+Dharréville   Pierre,Le Gendre   Gilles,0,1
+Dharréville   Pierre,Guerel   Émilie,1,1
+Dharréville   Pierre,Vidal   Annie,0,1
+Dharréville   Pierre,Beaudouin-Hubiere   Sophie,0,1
+Mesnier   Thomas,Khattabi   Fadila,1,1
+Mesnier   Thomas,Fabre   Catherine,1,1
+Mesnier   Thomas,Ménard   Emmanuelle,0,1
+Mesnier   Thomas,Cloarec-Le Nabour   Christine,1,1
+Mesnier   Thomas,Motin   Cendra,1,1
+Mesnier   Thomas,Brulebois   Danielle,1,1
+Mesnier   Thomas,Sarles   Nathalie,1,1
+Mesnier   Thomas,Dufeu   Audrey,1,1
+Mesnier   Thomas,Rist   Stéphanie,1,1
+Mesnier   Thomas,Dubré-Chirat   Nicole,1,1
+Mesnier   Thomas,Fiat   Caroline,0,1
+Mesnier   Thomas,Bruneel   Alain,0,1
+Mesnier   Thomas,Bureau-Bonnard   Carole,1,1
+Mesnier   Thomas,Thomas   Valérie,1,1
+Mesnier   Thomas,Lazaar   Fiona,1,1
+Mesnier   Thomas,Ratenon   Jean-Hugues,0,1
+Mesnier   Thomas,Ramadier   Alain,0,1
+Mesnier   Thomas,Le Gendre   Gilles,1,1
+Mesnier   Thomas,Guerel   Émilie,0,1
+Mesnier   Thomas,Vidal   Annie,1,1
+Mesnier   Thomas,Beaudouin-Hubiere   Sophie,1,1
+Khattabi   Fadila,Fabre   Catherine,1,1
+Khattabi   Fadila,Ménard   Emmanuelle,0,1
+Khattabi   Fadila,Cloarec-Le Nabour   Christine,1,1
+Khattabi   Fadila,Motin   Cendra,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Sarles   Nathalie,1,1
+Khattabi   Fadila,Dufeu   Audrey,1,1
+Khattabi   Fadila,Rist   Stéphanie,1,1
+Khattabi   Fadila,Dubré-Chirat   Nicole,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Bruneel   Alain,0,1
+Khattabi   Fadila,Bureau-Bonnard   Carole,1,1
+Khattabi   Fadila,Thomas   Valérie,1,1
+Khattabi   Fadila,Lazaar   Fiona,1,1
+Khattabi   Fadila,Ratenon   Jean-Hugues,0,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Le Gendre   Gilles,1,1
+Khattabi   Fadila,Guerel   Émilie,0,1
+Khattabi   Fadila,Vidal   Annie,1,1
+Khattabi   Fadila,Beaudouin-Hubiere   Sophie,1,1
+Fabre   Catherine,Ménard   Emmanuelle,0,1
+Fabre   Catherine,Cloarec-Le Nabour   Christine,1,1
+Fabre   Catherine,Motin   Cendra,1,1
+Fabre   Catherine,Brulebois   Danielle,1,1
+Fabre   Catherine,Sarles   Nathalie,1,1
+Fabre   Catherine,Dufeu   Audrey,1,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Dubré-Chirat   Nicole,1,1
+Fabre   Catherine,Fiat   Caroline,0,1
+Fabre   Catherine,Bruneel   Alain,0,1
+Fabre   Catherine,Bureau-Bonnard   Carole,1,1
+Fabre   Catherine,Thomas   Valérie,1,1
+Fabre   Catherine,Lazaar   Fiona,1,1
+Fabre   Catherine,Ratenon   Jean-Hugues,0,1
+Fabre   Catherine,Ramadier   Alain,0,1
+Fabre   Catherine,Le Gendre   Gilles,1,1
+Fabre   Catherine,Guerel   Émilie,0,1
+Fabre   Catherine,Vidal   Annie,1,1
+Fabre   Catherine,Beaudouin-Hubiere   Sophie,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Brulebois   Danielle,0,1
+Ménard   Emmanuelle,Sarles   Nathalie,0,1
+Ménard   Emmanuelle,Dufeu   Audrey,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Fiat   Caroline,0,1
+Ménard   Emmanuelle,Bruneel   Alain,0,1
+Ménard   Emmanuelle,Bureau-Bonnard   Carole,0,1
+Ménard   Emmanuelle,Thomas   Valérie,0,1
+Ménard   Emmanuelle,Lazaar   Fiona,0,1
+Ménard   Emmanuelle,Ratenon   Jean-Hugues,0,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Le Gendre   Gilles,0,1
+Ménard   Emmanuelle,Guerel   Émilie,0,1
+Ménard   Emmanuelle,Vidal   Annie,0,1
+Ménard   Emmanuelle,Beaudouin-Hubiere   Sophie,0,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,1,1
+Cloarec-Le Nabour   Christine,Brulebois   Danielle,1,1
+Cloarec-Le Nabour   Christine,Sarles   Nathalie,1,1
+Cloarec-Le Nabour   Christine,Dufeu   Audrey,1,1
+Cloarec-Le Nabour   Christine,Rist   Stéphanie,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Fiat   Caroline,0,1
+Cloarec-Le Nabour   Christine,Bruneel   Alain,0,1
+Cloarec-Le Nabour   Christine,Bureau-Bonnard   Carole,1,1
+Cloarec-Le Nabour   Christine,Thomas   Valérie,1,1
+Cloarec-Le Nabour   Christine,Lazaar   Fiona,1,1
+Cloarec-Le Nabour   Christine,Ratenon   Jean-Hugues,0,1
+Cloarec-Le Nabour   Christine,Ramadier   Alain,0,1
+Cloarec-Le Nabour   Christine,Le Gendre   Gilles,1,1
+Cloarec-Le Nabour   Christine,Guerel   Émilie,0,1
+Cloarec-Le Nabour   Christine,Vidal   Annie,1,1
+Cloarec-Le Nabour   Christine,Beaudouin-Hubiere   Sophie,1,1
+Motin   Cendra,Brulebois   Danielle,1,1
+Motin   Cendra,Sarles   Nathalie,1,1
+Motin   Cendra,Dufeu   Audrey,1,1
+Motin   Cendra,Rist   Stéphanie,1,1
+Motin   Cendra,Dubré-Chirat   Nicole,1,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Bruneel   Alain,0,1
+Motin   Cendra,Bureau-Bonnard   Carole,1,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,Lazaar   Fiona,1,1
+Motin   Cendra,Ratenon   Jean-Hugues,0,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Le Gendre   Gilles,1,1
+Motin   Cendra,Guerel   Émilie,0,1
+Motin   Cendra,Vidal   Annie,1,1
+Motin   Cendra,Beaudouin-Hubiere   Sophie,1,1
+Brulebois   Danielle,Sarles   Nathalie,1,1
+Brulebois   Danielle,Dufeu   Audrey,1,1
+Brulebois   Danielle,Rist   Stéphanie,1,1
+Brulebois   Danielle,Dubré-Chirat   Nicole,1,1
+Brulebois   Danielle,Fiat   Caroline,0,1
+Brulebois   Danielle,Bruneel   Alain,0,1
+Brulebois   Danielle,Bureau-Bonnard   Carole,1,1
+Brulebois   Danielle,Thomas   Valérie,1,1
+Brulebois   Danielle,Lazaar   Fiona,1,1
+Brulebois   Danielle,Ratenon   Jean-Hugues,0,1
+Brulebois   Danielle,Ramadier   Alain,0,1
+Brulebois   Danielle,Le Gendre   Gilles,1,1
+Brulebois   Danielle,Guerel   Émilie,0,1
+Brulebois   Danielle,Vidal   Annie,1,1
+Brulebois   Danielle,Beaudouin-Hubiere   Sophie,1,1
+Sarles   Nathalie,Dufeu   Audrey,1,1
+Sarles   Nathalie,Rist   Stéphanie,1,1
+Sarles   Nathalie,Dubré-Chirat   Nicole,1,1
+Sarles   Nathalie,Fiat   Caroline,0,1
+Sarles   Nathalie,Bruneel   Alain,0,1
+Sarles   Nathalie,Bureau-Bonnard   Carole,1,1
+Sarles   Nathalie,Thomas   Valérie,1,1
+Sarles   Nathalie,Lazaar   Fiona,1,1
+Sarles   Nathalie,Ratenon   Jean-Hugues,0,1
+Sarles   Nathalie,Ramadier   Alain,0,1
+Sarles   Nathalie,Le Gendre   Gilles,1,1
+Sarles   Nathalie,Guerel   Émilie,0,1
+Sarles   Nathalie,Vidal   Annie,1,1
+Sarles   Nathalie,Beaudouin-Hubiere   Sophie,1,1
+Dufeu   Audrey,Rist   Stéphanie,1,1
+Dufeu   Audrey,Dubré-Chirat   Nicole,1,1
+Dufeu   Audrey,Fiat   Caroline,0,1
+Dufeu   Audrey,Bruneel   Alain,0,1
+Dufeu   Audrey,Bureau-Bonnard   Carole,1,1
+Dufeu   Audrey,Thomas   Valérie,1,1
+Dufeu   Audrey,Lazaar   Fiona,1,1
+Dufeu   Audrey,Ratenon   Jean-Hugues,0,1
+Dufeu   Audrey,Ramadier   Alain,0,1
+Dufeu   Audrey,Le Gendre   Gilles,1,1
+Dufeu   Audrey,Guerel   Émilie,0,1
+Dufeu   Audrey,Vidal   Annie,1,1
+Dufeu   Audrey,Beaudouin-Hubiere   Sophie,1,1
+Rist   Stéphanie,Dubré-Chirat   Nicole,1,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Bruneel   Alain,0,1
+Rist   Stéphanie,Bureau-Bonnard   Carole,1,1
+Rist   Stéphanie,Thomas   Valérie,1,1
+Rist   Stéphanie,Lazaar   Fiona,1,1
+Rist   Stéphanie,Ratenon   Jean-Hugues,0,1
+Rist   Stéphanie,Ramadier   Alain,0,1
+Rist   Stéphanie,Le Gendre   Gilles,1,1
+Rist   Stéphanie,Guerel   Émilie,0,1
+Rist   Stéphanie,Vidal   Annie,1,1
+Rist   Stéphanie,Beaudouin-Hubiere   Sophie,1,1
+Dubré-Chirat   Nicole,Fiat   Caroline,0,1
+Dubré-Chirat   Nicole,Bruneel   Alain,0,1
+Dubré-Chirat   Nicole,Bureau-Bonnard   Carole,1,1
+Dubré-Chirat   Nicole,Thomas   Valérie,1,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Ratenon   Jean-Hugues,0,1
+Dubré-Chirat   Nicole,Ramadier   Alain,0,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Guerel   Émilie,0,1
+Dubré-Chirat   Nicole,Vidal   Annie,1,1
+Dubré-Chirat   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Fiat   Caroline,Bruneel   Alain,1,1
+Fiat   Caroline,Bureau-Bonnard   Carole,0,1
+Fiat   Caroline,Thomas   Valérie,0,1
+Fiat   Caroline,Lazaar   Fiona,0,1
+Fiat   Caroline,Ratenon   Jean-Hugues,1,1
+Fiat   Caroline,Ramadier   Alain,0,1
+Fiat   Caroline,Le Gendre   Gilles,0,1
+Fiat   Caroline,Guerel   Émilie,1,1
+Fiat   Caroline,Vidal   Annie,0,1
+Fiat   Caroline,Beaudouin-Hubiere   Sophie,0,1
+Bruneel   Alain,Bureau-Bonnard   Carole,0,1
+Bruneel   Alain,Thomas   Valérie,0,1
+Bruneel   Alain,Lazaar   Fiona,0,1
+Bruneel   Alain,Ratenon   Jean-Hugues,1,1
+Bruneel   Alain,Ramadier   Alain,0,1
+Bruneel   Alain,Le Gendre   Gilles,0,1
+Bruneel   Alain,Guerel   Émilie,1,1
+Bruneel   Alain,Vidal   Annie,0,1
+Bruneel   Alain,Beaudouin-Hubiere   Sophie,0,1
+Bureau-Bonnard   Carole,Thomas   Valérie,1,1
+Bureau-Bonnard   Carole,Lazaar   Fiona,1,1
+Bureau-Bonnard   Carole,Ratenon   Jean-Hugues,0,1
+Bureau-Bonnard   Carole,Ramadier   Alain,0,1
+Bureau-Bonnard   Carole,Le Gendre   Gilles,1,1
+Bureau-Bonnard   Carole,Guerel   Émilie,0,1
+Bureau-Bonnard   Carole,Vidal   Annie,1,1
+Bureau-Bonnard   Carole,Beaudouin-Hubiere   Sophie,1,1
+Thomas   Valérie,Lazaar   Fiona,1,1
+Thomas   Valérie,Ratenon   Jean-Hugues,0,1
+Thomas   Valérie,Ramadier   Alain,0,1
+Thomas   Valérie,Le Gendre   Gilles,1,1
+Thomas   Valérie,Guerel   Émilie,0,1
+Thomas   Valérie,Vidal   Annie,1,1
+Thomas   Valérie,Beaudouin-Hubiere   Sophie,1,1
+Lazaar   Fiona,Ratenon   Jean-Hugues,0,1
+Lazaar   Fiona,Ramadier   Alain,0,1
+Lazaar   Fiona,Le Gendre   Gilles,1,1
+Lazaar   Fiona,Guerel   Émilie,0,1
+Lazaar   Fiona,Vidal   Annie,1,1
+Lazaar   Fiona,Beaudouin-Hubiere   Sophie,1,1
+Ratenon   Jean-Hugues,Ramadier   Alain,0,1
+Ratenon   Jean-Hugues,Le Gendre   Gilles,0,1
+Ratenon   Jean-Hugues,Guerel   Émilie,1,1
+Ratenon   Jean-Hugues,Vidal   Annie,0,1
+Ratenon   Jean-Hugues,Beaudouin-Hubiere   Sophie,0,1
+Ramadier   Alain,Le Gendre   Gilles,0,1
+Ramadier   Alain,Guerel   Émilie,0,1
+Ramadier   Alain,Vidal   Annie,0,1
+Ramadier   Alain,Beaudouin-Hubiere   Sophie,0,1
+Le Gendre   Gilles,Guerel   Émilie,0,1
+Le Gendre   Gilles,Vidal   Annie,1,1
+Le Gendre   Gilles,Beaudouin-Hubiere   Sophie,1,1
+Guerel   Émilie,Vidal   Annie,0,1
+Guerel   Émilie,Beaudouin-Hubiere   Sophie,0,1
+Vidal   Annie,Beaudouin-Hubiere   Sophie,1,1

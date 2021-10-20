@@ -1,0 +1,596 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Breton   Xavier,1,1
+Firmin Le Bodo   Agnès,Touraine   Jean-Louis,0,1
+Firmin Le Bodo   Agnès,Pinel   Sylvia,0,1
+Firmin Le Bodo   Agnès,Saulignac   Hervé,0,1
+Firmin Le Bodo   Agnès,Hetzel   Patrick,1,1
+Firmin Le Bodo   Agnès,Aviragnet   Joël,0,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,1,1
+Firmin Le Bodo   Agnès,Bridey   Jean-Jacques,1,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,1,1
+Firmin Le Bodo   Agnès,Vanceunebrock   Laurence,0,1
+Firmin Le Bodo   Agnès,Gérard   Raphaël,0,1
+Firmin Le Bodo   Agnès,Martin   Didier,1,1
+Firmin Le Bodo   Agnès,Clapot   Mireille,1,1
+Firmin Le Bodo   Agnès,Tamarelle-Verhaeghe   Marie,1,1
+Firmin Le Bodo   Agnès,Berta   Philippe,1,1
+Firmin Le Bodo   Agnès,Eliaou   Jean-François,1,1
+Firmin Le Bodo   Agnès,Limon   Monique,1,1
+Firmin Le Bodo   Agnès,Causse   Lionel,1,1
+Firmin Le Bodo   Agnès,Dufeu   Audrey,1,1
+Firmin Le Bodo   Agnès,Liso   Brigitte,1,1
+Firmin Le Bodo   Agnès,Thill   Agnès,1,1
+Firmin Le Bodo   Agnès,Minot   Maxime,0,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,0,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,1,1
+Firmin Le Bodo   Agnès,Kuster   Brigitte,1,1
+Firmin Le Bodo   Agnès,Rossi   Laurianne,1,1
+Firmin Le Bodo   Agnès,Calvez   Céline,1,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,1,1
+Firmin Le Bodo   Agnès,Marilossian   Jacques,1,1
+Firmin Le Bodo   Agnès,Buchou   Stéphane,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Granjus   Florence,0,1
+Firmin Le Bodo   Agnès,Pételle   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Chouat   Francis,1,1
+Breton   Xavier,Touraine   Jean-Louis,0,1
+Breton   Xavier,Pinel   Sylvia,0,1
+Breton   Xavier,Saulignac   Hervé,0,1
+Breton   Xavier,Hetzel   Patrick,1,1
+Breton   Xavier,Aviragnet   Joël,0,1
+Breton   Xavier,Bazin   Thibault,1,1
+Breton   Xavier,Bridey   Jean-Jacques,1,1
+Breton   Xavier,Maillard   Sylvain,1,1
+Breton   Xavier,Vanceunebrock   Laurence,0,1
+Breton   Xavier,Gérard   Raphaël,0,1
+Breton   Xavier,Martin   Didier,1,1
+Breton   Xavier,Clapot   Mireille,1,1
+Breton   Xavier,Tamarelle-Verhaeghe   Marie,1,1
+Breton   Xavier,Berta   Philippe,1,1
+Breton   Xavier,Eliaou   Jean-François,1,1
+Breton   Xavier,Limon   Monique,1,1
+Breton   Xavier,Causse   Lionel,1,1
+Breton   Xavier,Dufeu   Audrey,1,1
+Breton   Xavier,Liso   Brigitte,1,1
+Breton   Xavier,Thill   Agnès,1,1
+Breton   Xavier,Minot   Maxime,0,1
+Breton   Xavier,Gaillot   Albane,0,1
+Breton   Xavier,Ramadier   Alain,1,1
+Breton   Xavier,Kuster   Brigitte,1,1
+Breton   Xavier,Rossi   Laurianne,1,1
+Breton   Xavier,Calvez   Céline,1,1
+Breton   Xavier,de Vaucouleurs   Michèle,1,1
+Breton   Xavier,Marilossian   Jacques,1,1
+Breton   Xavier,Buchou   Stéphane,1,1
+Breton   Xavier,Bergé   Aurore,1,1
+Breton   Xavier,Granjus   Florence,0,1
+Breton   Xavier,Pételle   Bénédicte,1,1
+Breton   Xavier,Chouat   Francis,1,1
+Touraine   Jean-Louis,Pinel   Sylvia,1,1
+Touraine   Jean-Louis,Saulignac   Hervé,1,1
+Touraine   Jean-Louis,Hetzel   Patrick,0,1
+Touraine   Jean-Louis,Aviragnet   Joël,1,1
+Touraine   Jean-Louis,Bazin   Thibault,0,1
+Touraine   Jean-Louis,Bridey   Jean-Jacques,0,1
+Touraine   Jean-Louis,Maillard   Sylvain,0,1
+Touraine   Jean-Louis,Vanceunebrock   Laurence,1,1
+Touraine   Jean-Louis,Gérard   Raphaël,1,1
+Touraine   Jean-Louis,Martin   Didier,0,1
+Touraine   Jean-Louis,Clapot   Mireille,0,1
+Touraine   Jean-Louis,Tamarelle-Verhaeghe   Marie,0,1
+Touraine   Jean-Louis,Berta   Philippe,0,1
+Touraine   Jean-Louis,Eliaou   Jean-François,0,1
+Touraine   Jean-Louis,Limon   Monique,0,1
+Touraine   Jean-Louis,Causse   Lionel,0,1
+Touraine   Jean-Louis,Dufeu   Audrey,0,1
+Touraine   Jean-Louis,Liso   Brigitte,0,1
+Touraine   Jean-Louis,Thill   Agnès,0,1
+Touraine   Jean-Louis,Minot   Maxime,1,1
+Touraine   Jean-Louis,Gaillot   Albane,1,1
+Touraine   Jean-Louis,Ramadier   Alain,0,1
+Touraine   Jean-Louis,Kuster   Brigitte,0,1
+Touraine   Jean-Louis,Rossi   Laurianne,0,1
+Touraine   Jean-Louis,Calvez   Céline,0,1
+Touraine   Jean-Louis,de Vaucouleurs   Michèle,0,1
+Touraine   Jean-Louis,Marilossian   Jacques,0,1
+Touraine   Jean-Louis,Buchou   Stéphane,0,1
+Touraine   Jean-Louis,Bergé   Aurore,0,1
+Touraine   Jean-Louis,Granjus   Florence,1,1
+Touraine   Jean-Louis,Pételle   Bénédicte,0,1
+Touraine   Jean-Louis,Chouat   Francis,0,1
+Pinel   Sylvia,Saulignac   Hervé,1,1
+Pinel   Sylvia,Hetzel   Patrick,0,1
+Pinel   Sylvia,Aviragnet   Joël,1,1
+Pinel   Sylvia,Bazin   Thibault,0,1
+Pinel   Sylvia,Bridey   Jean-Jacques,0,1
+Pinel   Sylvia,Maillard   Sylvain,0,1
+Pinel   Sylvia,Vanceunebrock   Laurence,1,1
+Pinel   Sylvia,Gérard   Raphaël,1,1
+Pinel   Sylvia,Martin   Didier,0,1
+Pinel   Sylvia,Clapot   Mireille,0,1
+Pinel   Sylvia,Tamarelle-Verhaeghe   Marie,0,1
+Pinel   Sylvia,Berta   Philippe,0,1
+Pinel   Sylvia,Eliaou   Jean-François,0,1
+Pinel   Sylvia,Limon   Monique,0,1
+Pinel   Sylvia,Causse   Lionel,0,1
+Pinel   Sylvia,Dufeu   Audrey,0,1
+Pinel   Sylvia,Liso   Brigitte,0,1
+Pinel   Sylvia,Thill   Agnès,0,1
+Pinel   Sylvia,Minot   Maxime,1,1
+Pinel   Sylvia,Gaillot   Albane,1,1
+Pinel   Sylvia,Ramadier   Alain,0,1
+Pinel   Sylvia,Kuster   Brigitte,0,1
+Pinel   Sylvia,Rossi   Laurianne,0,1
+Pinel   Sylvia,Calvez   Céline,0,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,0,1
+Pinel   Sylvia,Marilossian   Jacques,0,1
+Pinel   Sylvia,Buchou   Stéphane,0,1
+Pinel   Sylvia,Bergé   Aurore,0,1
+Pinel   Sylvia,Granjus   Florence,1,1
+Pinel   Sylvia,Pételle   Bénédicte,0,1
+Pinel   Sylvia,Chouat   Francis,0,1
+Saulignac   Hervé,Hetzel   Patrick,0,1
+Saulignac   Hervé,Aviragnet   Joël,1,1
+Saulignac   Hervé,Bazin   Thibault,0,1
+Saulignac   Hervé,Bridey   Jean-Jacques,0,1
+Saulignac   Hervé,Maillard   Sylvain,0,1
+Saulignac   Hervé,Vanceunebrock   Laurence,1,1
+Saulignac   Hervé,Gérard   Raphaël,1,1
+Saulignac   Hervé,Martin   Didier,0,1
+Saulignac   Hervé,Clapot   Mireille,0,1
+Saulignac   Hervé,Tamarelle-Verhaeghe   Marie,0,1
+Saulignac   Hervé,Berta   Philippe,0,1
+Saulignac   Hervé,Eliaou   Jean-François,0,1
+Saulignac   Hervé,Limon   Monique,0,1
+Saulignac   Hervé,Causse   Lionel,0,1
+Saulignac   Hervé,Dufeu   Audrey,0,1
+Saulignac   Hervé,Liso   Brigitte,0,1
+Saulignac   Hervé,Thill   Agnès,0,1
+Saulignac   Hervé,Minot   Maxime,1,1
+Saulignac   Hervé,Gaillot   Albane,1,1
+Saulignac   Hervé,Ramadier   Alain,0,1
+Saulignac   Hervé,Kuster   Brigitte,0,1
+Saulignac   Hervé,Rossi   Laurianne,0,1
+Saulignac   Hervé,Calvez   Céline,0,1
+Saulignac   Hervé,de Vaucouleurs   Michèle,0,1
+Saulignac   Hervé,Marilossian   Jacques,0,1
+Saulignac   Hervé,Buchou   Stéphane,0,1
+Saulignac   Hervé,Bergé   Aurore,0,1
+Saulignac   Hervé,Granjus   Florence,1,1
+Saulignac   Hervé,Pételle   Bénédicte,0,1
+Saulignac   Hervé,Chouat   Francis,0,1
+Hetzel   Patrick,Aviragnet   Joël,0,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Bridey   Jean-Jacques,1,1
+Hetzel   Patrick,Maillard   Sylvain,1,1
+Hetzel   Patrick,Vanceunebrock   Laurence,0,1
+Hetzel   Patrick,Gérard   Raphaël,0,1
+Hetzel   Patrick,Martin   Didier,1,1
+Hetzel   Patrick,Clapot   Mireille,1,1
+Hetzel   Patrick,Tamarelle-Verhaeghe   Marie,1,1
+Hetzel   Patrick,Berta   Philippe,1,1
+Hetzel   Patrick,Eliaou   Jean-François,1,1
+Hetzel   Patrick,Limon   Monique,1,1
+Hetzel   Patrick,Causse   Lionel,1,1
+Hetzel   Patrick,Dufeu   Audrey,1,1
+Hetzel   Patrick,Liso   Brigitte,1,1
+Hetzel   Patrick,Thill   Agnès,1,1
+Hetzel   Patrick,Minot   Maxime,0,1
+Hetzel   Patrick,Gaillot   Albane,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Kuster   Brigitte,1,1
+Hetzel   Patrick,Rossi   Laurianne,1,1
+Hetzel   Patrick,Calvez   Céline,1,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,1,1
+Hetzel   Patrick,Marilossian   Jacques,1,1
+Hetzel   Patrick,Buchou   Stéphane,1,1
+Hetzel   Patrick,Bergé   Aurore,1,1
+Hetzel   Patrick,Granjus   Florence,0,1
+Hetzel   Patrick,Pételle   Bénédicte,1,1
+Hetzel   Patrick,Chouat   Francis,1,1
+Aviragnet   Joël,Bazin   Thibault,0,1
+Aviragnet   Joël,Bridey   Jean-Jacques,0,1
+Aviragnet   Joël,Maillard   Sylvain,0,1
+Aviragnet   Joël,Vanceunebrock   Laurence,1,1
+Aviragnet   Joël,Gérard   Raphaël,1,1
+Aviragnet   Joël,Martin   Didier,0,1
+Aviragnet   Joël,Clapot   Mireille,0,1
+Aviragnet   Joël,Tamarelle-Verhaeghe   Marie,0,1
+Aviragnet   Joël,Berta   Philippe,0,1
+Aviragnet   Joël,Eliaou   Jean-François,0,1
+Aviragnet   Joël,Limon   Monique,0,1
+Aviragnet   Joël,Causse   Lionel,0,1
+Aviragnet   Joël,Dufeu   Audrey,0,1
+Aviragnet   Joël,Liso   Brigitte,0,1
+Aviragnet   Joël,Thill   Agnès,0,1
+Aviragnet   Joël,Minot   Maxime,1,1
+Aviragnet   Joël,Gaillot   Albane,1,1
+Aviragnet   Joël,Ramadier   Alain,0,1
+Aviragnet   Joël,Kuster   Brigitte,0,1
+Aviragnet   Joël,Rossi   Laurianne,0,1
+Aviragnet   Joël,Calvez   Céline,0,1
+Aviragnet   Joël,de Vaucouleurs   Michèle,0,1
+Aviragnet   Joël,Marilossian   Jacques,0,1
+Aviragnet   Joël,Buchou   Stéphane,0,1
+Aviragnet   Joël,Bergé   Aurore,0,1
+Aviragnet   Joël,Granjus   Florence,1,1
+Aviragnet   Joël,Pételle   Bénédicte,0,1
+Aviragnet   Joël,Chouat   Francis,0,1
+Bazin   Thibault,Bridey   Jean-Jacques,1,1
+Bazin   Thibault,Maillard   Sylvain,1,1
+Bazin   Thibault,Vanceunebrock   Laurence,0,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Martin   Didier,1,1
+Bazin   Thibault,Clapot   Mireille,1,1
+Bazin   Thibault,Tamarelle-Verhaeghe   Marie,1,1
+Bazin   Thibault,Berta   Philippe,1,1
+Bazin   Thibault,Eliaou   Jean-François,1,1
+Bazin   Thibault,Limon   Monique,1,1
+Bazin   Thibault,Causse   Lionel,1,1
+Bazin   Thibault,Dufeu   Audrey,1,1
+Bazin   Thibault,Liso   Brigitte,1,1
+Bazin   Thibault,Thill   Agnès,1,1
+Bazin   Thibault,Minot   Maxime,0,1
+Bazin   Thibault,Gaillot   Albane,0,1
+Bazin   Thibault,Ramadier   Alain,1,1
+Bazin   Thibault,Kuster   Brigitte,1,1
+Bazin   Thibault,Rossi   Laurianne,1,1
+Bazin   Thibault,Calvez   Céline,1,1
+Bazin   Thibault,de Vaucouleurs   Michèle,1,1
+Bazin   Thibault,Marilossian   Jacques,1,1
+Bazin   Thibault,Buchou   Stéphane,1,1
+Bazin   Thibault,Bergé   Aurore,1,1
+Bazin   Thibault,Granjus   Florence,0,1
+Bazin   Thibault,Pételle   Bénédicte,1,1
+Bazin   Thibault,Chouat   Francis,1,1
+Bridey   Jean-Jacques,Maillard   Sylvain,1,1
+Bridey   Jean-Jacques,Vanceunebrock   Laurence,0,1
+Bridey   Jean-Jacques,Gérard   Raphaël,0,1
+Bridey   Jean-Jacques,Martin   Didier,1,1
+Bridey   Jean-Jacques,Clapot   Mireille,1,1
+Bridey   Jean-Jacques,Tamarelle-Verhaeghe   Marie,1,1
+Bridey   Jean-Jacques,Berta   Philippe,1,1
+Bridey   Jean-Jacques,Eliaou   Jean-François,1,1
+Bridey   Jean-Jacques,Limon   Monique,1,1
+Bridey   Jean-Jacques,Causse   Lionel,1,1
+Bridey   Jean-Jacques,Dufeu   Audrey,1,1
+Bridey   Jean-Jacques,Liso   Brigitte,1,1
+Bridey   Jean-Jacques,Thill   Agnès,1,1
+Bridey   Jean-Jacques,Minot   Maxime,0,1
+Bridey   Jean-Jacques,Gaillot   Albane,0,1
+Bridey   Jean-Jacques,Ramadier   Alain,1,1
+Bridey   Jean-Jacques,Kuster   Brigitte,1,1
+Bridey   Jean-Jacques,Rossi   Laurianne,1,1
+Bridey   Jean-Jacques,Calvez   Céline,1,1
+Bridey   Jean-Jacques,de Vaucouleurs   Michèle,1,1
+Bridey   Jean-Jacques,Marilossian   Jacques,1,1
+Bridey   Jean-Jacques,Buchou   Stéphane,1,1
+Bridey   Jean-Jacques,Bergé   Aurore,1,1
+Bridey   Jean-Jacques,Granjus   Florence,0,1
+Bridey   Jean-Jacques,Pételle   Bénédicte,1,1
+Bridey   Jean-Jacques,Chouat   Francis,1,1
+Maillard   Sylvain,Vanceunebrock   Laurence,0,1
+Maillard   Sylvain,Gérard   Raphaël,0,1
+Maillard   Sylvain,Martin   Didier,1,1
+Maillard   Sylvain,Clapot   Mireille,1,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,1,1
+Maillard   Sylvain,Berta   Philippe,1,1
+Maillard   Sylvain,Eliaou   Jean-François,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Causse   Lionel,1,1
+Maillard   Sylvain,Dufeu   Audrey,1,1
+Maillard   Sylvain,Liso   Brigitte,1,1
+Maillard   Sylvain,Thill   Agnès,1,1
+Maillard   Sylvain,Minot   Maxime,0,1
+Maillard   Sylvain,Gaillot   Albane,0,1
+Maillard   Sylvain,Ramadier   Alain,1,1
+Maillard   Sylvain,Kuster   Brigitte,1,1
+Maillard   Sylvain,Rossi   Laurianne,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Marilossian   Jacques,1,1
+Maillard   Sylvain,Buchou   Stéphane,1,1
+Maillard   Sylvain,Bergé   Aurore,1,1
+Maillard   Sylvain,Granjus   Florence,0,1
+Maillard   Sylvain,Pételle   Bénédicte,1,1
+Maillard   Sylvain,Chouat   Francis,1,1
+Vanceunebrock   Laurence,Gérard   Raphaël,1,1
+Vanceunebrock   Laurence,Martin   Didier,0,1
+Vanceunebrock   Laurence,Clapot   Mireille,0,1
+Vanceunebrock   Laurence,Tamarelle-Verhaeghe   Marie,0,1
+Vanceunebrock   Laurence,Berta   Philippe,0,1
+Vanceunebrock   Laurence,Eliaou   Jean-François,0,1
+Vanceunebrock   Laurence,Limon   Monique,0,1
+Vanceunebrock   Laurence,Causse   Lionel,0,1
+Vanceunebrock   Laurence,Dufeu   Audrey,0,1
+Vanceunebrock   Laurence,Liso   Brigitte,0,1
+Vanceunebrock   Laurence,Thill   Agnès,0,1
+Vanceunebrock   Laurence,Minot   Maxime,1,1
+Vanceunebrock   Laurence,Gaillot   Albane,1,1
+Vanceunebrock   Laurence,Ramadier   Alain,0,1
+Vanceunebrock   Laurence,Kuster   Brigitte,0,1
+Vanceunebrock   Laurence,Rossi   Laurianne,0,1
+Vanceunebrock   Laurence,Calvez   Céline,0,1
+Vanceunebrock   Laurence,de Vaucouleurs   Michèle,0,1
+Vanceunebrock   Laurence,Marilossian   Jacques,0,1
+Vanceunebrock   Laurence,Buchou   Stéphane,0,1
+Vanceunebrock   Laurence,Bergé   Aurore,0,1
+Vanceunebrock   Laurence,Granjus   Florence,1,1
+Vanceunebrock   Laurence,Pételle   Bénédicte,0,1
+Vanceunebrock   Laurence,Chouat   Francis,0,1
+Gérard   Raphaël,Martin   Didier,0,1
+Gérard   Raphaël,Clapot   Mireille,0,1
+Gérard   Raphaël,Tamarelle-Verhaeghe   Marie,0,1
+Gérard   Raphaël,Berta   Philippe,0,1
+Gérard   Raphaël,Eliaou   Jean-François,0,1
+Gérard   Raphaël,Limon   Monique,0,1
+Gérard   Raphaël,Causse   Lionel,0,1
+Gérard   Raphaël,Dufeu   Audrey,0,1
+Gérard   Raphaël,Liso   Brigitte,0,1
+Gérard   Raphaël,Thill   Agnès,0,1
+Gérard   Raphaël,Minot   Maxime,1,1
+Gérard   Raphaël,Gaillot   Albane,1,1
+Gérard   Raphaël,Ramadier   Alain,0,1
+Gérard   Raphaël,Kuster   Brigitte,0,1
+Gérard   Raphaël,Rossi   Laurianne,0,1
+Gérard   Raphaël,Calvez   Céline,0,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,0,1
+Gérard   Raphaël,Marilossian   Jacques,0,1
+Gérard   Raphaël,Buchou   Stéphane,0,1
+Gérard   Raphaël,Bergé   Aurore,0,1
+Gérard   Raphaël,Granjus   Florence,1,1
+Gérard   Raphaël,Pételle   Bénédicte,0,1
+Gérard   Raphaël,Chouat   Francis,0,1
+Martin   Didier,Clapot   Mireille,1,1
+Martin   Didier,Tamarelle-Verhaeghe   Marie,1,1
+Martin   Didier,Berta   Philippe,1,1
+Martin   Didier,Eliaou   Jean-François,1,1
+Martin   Didier,Limon   Monique,1,1
+Martin   Didier,Causse   Lionel,1,1
+Martin   Didier,Dufeu   Audrey,1,1
+Martin   Didier,Liso   Brigitte,1,1
+Martin   Didier,Thill   Agnès,1,1
+Martin   Didier,Minot   Maxime,0,1
+Martin   Didier,Gaillot   Albane,0,1
+Martin   Didier,Ramadier   Alain,1,1
+Martin   Didier,Kuster   Brigitte,1,1
+Martin   Didier,Rossi   Laurianne,1,1
+Martin   Didier,Calvez   Céline,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Marilossian   Jacques,1,1
+Martin   Didier,Buchou   Stéphane,1,1
+Martin   Didier,Bergé   Aurore,1,1
+Martin   Didier,Granjus   Florence,0,1
+Martin   Didier,Pételle   Bénédicte,1,1
+Martin   Didier,Chouat   Francis,1,1
+Clapot   Mireille,Tamarelle-Verhaeghe   Marie,1,1
+Clapot   Mireille,Berta   Philippe,1,1
+Clapot   Mireille,Eliaou   Jean-François,1,1
+Clapot   Mireille,Limon   Monique,1,1
+Clapot   Mireille,Causse   Lionel,1,1
+Clapot   Mireille,Dufeu   Audrey,1,1
+Clapot   Mireille,Liso   Brigitte,1,1
+Clapot   Mireille,Thill   Agnès,1,1
+Clapot   Mireille,Minot   Maxime,0,1
+Clapot   Mireille,Gaillot   Albane,0,1
+Clapot   Mireille,Ramadier   Alain,1,1
+Clapot   Mireille,Kuster   Brigitte,1,1
+Clapot   Mireille,Rossi   Laurianne,1,1
+Clapot   Mireille,Calvez   Céline,1,1
+Clapot   Mireille,de Vaucouleurs   Michèle,1,1
+Clapot   Mireille,Marilossian   Jacques,1,1
+Clapot   Mireille,Buchou   Stéphane,1,1
+Clapot   Mireille,Bergé   Aurore,1,1
+Clapot   Mireille,Granjus   Florence,0,1
+Clapot   Mireille,Pételle   Bénédicte,1,1
+Clapot   Mireille,Chouat   Francis,1,1
+Tamarelle-Verhaeghe   Marie,Berta   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Eliaou   Jean-François,1,1
+Tamarelle-Verhaeghe   Marie,Limon   Monique,1,1
+Tamarelle-Verhaeghe   Marie,Causse   Lionel,1,1
+Tamarelle-Verhaeghe   Marie,Dufeu   Audrey,1,1
+Tamarelle-Verhaeghe   Marie,Liso   Brigitte,1,1
+Tamarelle-Verhaeghe   Marie,Thill   Agnès,1,1
+Tamarelle-Verhaeghe   Marie,Minot   Maxime,0,1
+Tamarelle-Verhaeghe   Marie,Gaillot   Albane,0,1
+Tamarelle-Verhaeghe   Marie,Ramadier   Alain,1,1
+Tamarelle-Verhaeghe   Marie,Kuster   Brigitte,1,1
+Tamarelle-Verhaeghe   Marie,Rossi   Laurianne,1,1
+Tamarelle-Verhaeghe   Marie,Calvez   Céline,1,1
+Tamarelle-Verhaeghe   Marie,de Vaucouleurs   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Marilossian   Jacques,1,1
+Tamarelle-Verhaeghe   Marie,Buchou   Stéphane,1,1
+Tamarelle-Verhaeghe   Marie,Bergé   Aurore,1,1
+Tamarelle-Verhaeghe   Marie,Granjus   Florence,0,1
+Tamarelle-Verhaeghe   Marie,Pételle   Bénédicte,1,1
+Tamarelle-Verhaeghe   Marie,Chouat   Francis,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Limon   Monique,1,1
+Berta   Philippe,Causse   Lionel,1,1
+Berta   Philippe,Dufeu   Audrey,1,1
+Berta   Philippe,Liso   Brigitte,1,1
+Berta   Philippe,Thill   Agnès,1,1
+Berta   Philippe,Minot   Maxime,0,1
+Berta   Philippe,Gaillot   Albane,0,1
+Berta   Philippe,Ramadier   Alain,1,1
+Berta   Philippe,Kuster   Brigitte,1,1
+Berta   Philippe,Rossi   Laurianne,1,1
+Berta   Philippe,Calvez   Céline,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Marilossian   Jacques,1,1
+Berta   Philippe,Buchou   Stéphane,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Granjus   Florence,0,1
+Berta   Philippe,Pételle   Bénédicte,1,1
+Berta   Philippe,Chouat   Francis,1,1
+Eliaou   Jean-François,Limon   Monique,1,1
+Eliaou   Jean-François,Causse   Lionel,1,1
+Eliaou   Jean-François,Dufeu   Audrey,1,1
+Eliaou   Jean-François,Liso   Brigitte,1,1
+Eliaou   Jean-François,Thill   Agnès,1,1
+Eliaou   Jean-François,Minot   Maxime,0,1
+Eliaou   Jean-François,Gaillot   Albane,0,1
+Eliaou   Jean-François,Ramadier   Alain,1,1
+Eliaou   Jean-François,Kuster   Brigitte,1,1
+Eliaou   Jean-François,Rossi   Laurianne,1,1
+Eliaou   Jean-François,Calvez   Céline,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Marilossian   Jacques,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Granjus   Florence,0,1
+Eliaou   Jean-François,Pételle   Bénédicte,1,1
+Eliaou   Jean-François,Chouat   Francis,1,1
+Limon   Monique,Causse   Lionel,1,1
+Limon   Monique,Dufeu   Audrey,1,1
+Limon   Monique,Liso   Brigitte,1,1
+Limon   Monique,Thill   Agnès,1,1
+Limon   Monique,Minot   Maxime,0,1
+Limon   Monique,Gaillot   Albane,0,1
+Limon   Monique,Ramadier   Alain,1,1
+Limon   Monique,Kuster   Brigitte,1,1
+Limon   Monique,Rossi   Laurianne,1,1
+Limon   Monique,Calvez   Céline,1,1
+Limon   Monique,de Vaucouleurs   Michèle,1,1
+Limon   Monique,Marilossian   Jacques,1,1
+Limon   Monique,Buchou   Stéphane,1,1
+Limon   Monique,Bergé   Aurore,1,1
+Limon   Monique,Granjus   Florence,0,1
+Limon   Monique,Pételle   Bénédicte,1,1
+Limon   Monique,Chouat   Francis,1,1
+Causse   Lionel,Dufeu   Audrey,1,1
+Causse   Lionel,Liso   Brigitte,1,1
+Causse   Lionel,Thill   Agnès,1,1
+Causse   Lionel,Minot   Maxime,0,1
+Causse   Lionel,Gaillot   Albane,0,1
+Causse   Lionel,Ramadier   Alain,1,1
+Causse   Lionel,Kuster   Brigitte,1,1
+Causse   Lionel,Rossi   Laurianne,1,1
+Causse   Lionel,Calvez   Céline,1,1
+Causse   Lionel,de Vaucouleurs   Michèle,1,1
+Causse   Lionel,Marilossian   Jacques,1,1
+Causse   Lionel,Buchou   Stéphane,1,1
+Causse   Lionel,Bergé   Aurore,1,1
+Causse   Lionel,Granjus   Florence,0,1
+Causse   Lionel,Pételle   Bénédicte,1,1
+Causse   Lionel,Chouat   Francis,1,1
+Dufeu   Audrey,Liso   Brigitte,1,1
+Dufeu   Audrey,Thill   Agnès,1,1
+Dufeu   Audrey,Minot   Maxime,0,1
+Dufeu   Audrey,Gaillot   Albane,0,1
+Dufeu   Audrey,Ramadier   Alain,1,1
+Dufeu   Audrey,Kuster   Brigitte,1,1
+Dufeu   Audrey,Rossi   Laurianne,1,1
+Dufeu   Audrey,Calvez   Céline,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,1,1
+Dufeu   Audrey,Marilossian   Jacques,1,1
+Dufeu   Audrey,Buchou   Stéphane,1,1
+Dufeu   Audrey,Bergé   Aurore,1,1
+Dufeu   Audrey,Granjus   Florence,0,1
+Dufeu   Audrey,Pételle   Bénédicte,1,1
+Dufeu   Audrey,Chouat   Francis,1,1
+Liso   Brigitte,Thill   Agnès,1,1
+Liso   Brigitte,Minot   Maxime,0,1
+Liso   Brigitte,Gaillot   Albane,0,1
+Liso   Brigitte,Ramadier   Alain,1,1
+Liso   Brigitte,Kuster   Brigitte,1,1
+Liso   Brigitte,Rossi   Laurianne,1,1
+Liso   Brigitte,Calvez   Céline,1,1
+Liso   Brigitte,de Vaucouleurs   Michèle,1,1
+Liso   Brigitte,Marilossian   Jacques,1,1
+Liso   Brigitte,Buchou   Stéphane,1,1
+Liso   Brigitte,Bergé   Aurore,1,1
+Liso   Brigitte,Granjus   Florence,0,1
+Liso   Brigitte,Pételle   Bénédicte,1,1
+Liso   Brigitte,Chouat   Francis,1,1
+Thill   Agnès,Minot   Maxime,0,1
+Thill   Agnès,Gaillot   Albane,0,1
+Thill   Agnès,Ramadier   Alain,1,1
+Thill   Agnès,Kuster   Brigitte,1,1
+Thill   Agnès,Rossi   Laurianne,1,1
+Thill   Agnès,Calvez   Céline,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Marilossian   Jacques,1,1
+Thill   Agnès,Buchou   Stéphane,1,1
+Thill   Agnès,Bergé   Aurore,1,1
+Thill   Agnès,Granjus   Florence,0,1
+Thill   Agnès,Pételle   Bénédicte,1,1
+Thill   Agnès,Chouat   Francis,1,1
+Minot   Maxime,Gaillot   Albane,1,1
+Minot   Maxime,Ramadier   Alain,0,1
+Minot   Maxime,Kuster   Brigitte,0,1
+Minot   Maxime,Rossi   Laurianne,0,1
+Minot   Maxime,Calvez   Céline,0,1
+Minot   Maxime,de Vaucouleurs   Michèle,0,1
+Minot   Maxime,Marilossian   Jacques,0,1
+Minot   Maxime,Buchou   Stéphane,0,1
+Minot   Maxime,Bergé   Aurore,0,1
+Minot   Maxime,Granjus   Florence,1,1
+Minot   Maxime,Pételle   Bénédicte,0,1
+Minot   Maxime,Chouat   Francis,0,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Kuster   Brigitte,0,1
+Gaillot   Albane,Rossi   Laurianne,0,1
+Gaillot   Albane,Calvez   Céline,0,1
+Gaillot   Albane,de Vaucouleurs   Michèle,0,1
+Gaillot   Albane,Marilossian   Jacques,0,1
+Gaillot   Albane,Buchou   Stéphane,0,1
+Gaillot   Albane,Bergé   Aurore,0,1
+Gaillot   Albane,Granjus   Florence,1,1
+Gaillot   Albane,Pételle   Bénédicte,0,1
+Gaillot   Albane,Chouat   Francis,0,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Rossi   Laurianne,1,1
+Ramadier   Alain,Calvez   Céline,1,1
+Ramadier   Alain,de Vaucouleurs   Michèle,1,1
+Ramadier   Alain,Marilossian   Jacques,1,1
+Ramadier   Alain,Buchou   Stéphane,1,1
+Ramadier   Alain,Bergé   Aurore,1,1
+Ramadier   Alain,Granjus   Florence,0,1
+Ramadier   Alain,Pételle   Bénédicte,1,1
+Ramadier   Alain,Chouat   Francis,1,1
+Kuster   Brigitte,Rossi   Laurianne,1,1
+Kuster   Brigitte,Calvez   Céline,1,1
+Kuster   Brigitte,de Vaucouleurs   Michèle,1,1
+Kuster   Brigitte,Marilossian   Jacques,1,1
+Kuster   Brigitte,Buchou   Stéphane,1,1
+Kuster   Brigitte,Bergé   Aurore,1,1
+Kuster   Brigitte,Granjus   Florence,0,1
+Kuster   Brigitte,Pételle   Bénédicte,1,1
+Kuster   Brigitte,Chouat   Francis,1,1
+Rossi   Laurianne,Calvez   Céline,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,1,1
+Rossi   Laurianne,Marilossian   Jacques,1,1
+Rossi   Laurianne,Buchou   Stéphane,1,1
+Rossi   Laurianne,Bergé   Aurore,1,1
+Rossi   Laurianne,Granjus   Florence,0,1
+Rossi   Laurianne,Pételle   Bénédicte,1,1
+Rossi   Laurianne,Chouat   Francis,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Marilossian   Jacques,1,1
+Calvez   Céline,Buchou   Stéphane,1,1
+Calvez   Céline,Bergé   Aurore,1,1
+Calvez   Céline,Granjus   Florence,0,1
+Calvez   Céline,Pételle   Bénédicte,1,1
+Calvez   Céline,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Marilossian   Jacques,1,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Granjus   Florence,0,1
+de Vaucouleurs   Michèle,Pételle   Bénédicte,1,1
+de Vaucouleurs   Michèle,Chouat   Francis,1,1
+Marilossian   Jacques,Buchou   Stéphane,1,1
+Marilossian   Jacques,Bergé   Aurore,1,1
+Marilossian   Jacques,Granjus   Florence,0,1
+Marilossian   Jacques,Pételle   Bénédicte,1,1
+Marilossian   Jacques,Chouat   Francis,1,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Granjus   Florence,0,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Bergé   Aurore,Granjus   Florence,0,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Chouat   Francis,1,1
+Granjus   Florence,Pételle   Bénédicte,0,1
+Granjus   Florence,Chouat   Francis,0,1
+Pételle   Bénédicte,Chouat   Francis,1,1

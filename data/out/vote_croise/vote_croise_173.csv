@@ -1,0 +1,1954 @@
+from,to,vote_commun,loi_commun
+Forissier   Nicolas,Descoeur   Vincent,1,1
+Forissier   Nicolas,Le Grip   Constance,1,1
+Forissier   Nicolas,Pupponi   François,1,1
+Forissier   Nicolas,Krabal   Jacques,0,1
+Forissier   Nicolas,Louwagie   Véronique,1,1
+Forissier   Nicolas,Questel   Bruno,0,1
+Forissier   Nicolas,Dupont   Stella,0,1
+Forissier   Nicolas,Maillard   Sylvain,0,1
+Forissier   Nicolas,Delatte   Marc,0,1
+Forissier   Nicolas,Peyrol   Bénédicte,0,1
+Forissier   Nicolas,Ahamada   Saïd,0,1
+Forissier   Nicolas,Martin   Didier,1,1
+Forissier   Nicolas,Charvier   Fannette,0,1
+Forissier   Nicolas,Le Feur   Sandrine,0,1
+Forissier   Nicolas,Cazeneuve   Jean-René,0,1
+Forissier   Nicolas,Nogal   Mickaël,0,1
+Forissier   Nicolas,Tanguy   Liliana,0,1
+Forissier   Nicolas,Ménard   Emmanuelle,1,1
+Forissier   Nicolas,Mirallès   Patricia,0,1
+Forissier   Nicolas,Ressiguier   Muriel,1,1
+Forissier   Nicolas,Cloarec-Le Nabour   Christine,0,1
+Forissier   Nicolas,Labaronne   Daniel,0,1
+Forissier   Nicolas,Motin   Cendra,0,1
+Forissier   Nicolas,Meynier-Millefert   Marjolaine,0,1
+Forissier   Nicolas,Borowczyk   Julien,0,1
+Forissier   Nicolas,Kuric   Aina,0,1
+Forissier   Nicolas,Magnier   Lise,0,1
+Forissier   Nicolas,Cariou   Émilie,0,1
+Forissier   Nicolas,Le Peih   Nicole,0,1
+Forissier   Nicolas,Lioger   Richard,0,1
+Forissier   Nicolas,Paluszkiewicz   Xavier,0,1
+Forissier   Nicolas,Osson   Catherine,0,1
+Forissier   Nicolas,Goulet   Perrine,0,1
+Forissier   Nicolas,Potterie   Benoit,0,1
+Forissier   Nicolas,Dumont   Pierre-Henri,1,1
+Forissier   Nicolas,Mattei   Jean-Paul,0,1
+Forissier   Nicolas,Mbaye   Jean François,0,1
+Forissier   Nicolas,Saint-Martin   Laurent,0,1
+Forissier   Nicolas,Da Silva   Dominique,0,1
+Forissier   Nicolas,Genetet   Anne,0,1
+Forissier   Nicolas,Ratenon   Jean-Hugues,1,1
+Forissier   Nicolas,Charrière   Sylvie,0,1
+Forissier   Nicolas,Petit   Maud,0,1
+Forissier   Nicolas,Gaillot   Albane,0,1
+Forissier   Nicolas,Peu   Stéphane,1,1
+Forissier   Nicolas,Ramadier   Alain,1,1
+Forissier   Nicolas,Bonnivard   Émilie,1,1
+Forissier   Nicolas,Lenne   Marion,0,1
+Forissier   Nicolas,Roseren   Xavier,0,1
+Forissier   Nicolas,Guerini   Stanislas,0,1
+Forissier   Nicolas,Verdier-Jouclas   Marie-Christine,0,1
+Forissier   Nicolas,Person   Pierre,0,1
+Forissier   Nicolas,Calvez   Céline,0,1
+Forissier   Nicolas,Gomez-Bassac   Valérie,0,1
+Forissier   Nicolas,Barrot   Jean-Noël,0,1
+Forissier   Nicolas,Morenas   Adrien,0,1
+Forissier   Nicolas,Faucillon   Elsa,1,1
+Forissier   Nicolas,Pouzyreff   Natalia,0,1
+Forissier   Nicolas,de Vaucouleurs   Michèle,0,1
+Forissier   Nicolas,Magne   Marie-Ange,0,1
+Forissier   Nicolas,Villani   Cédric,0,1
+Forissier   Nicolas,Ali   Ramlati,0,1
+Descoeur   Vincent,Le Grip   Constance,1,1
+Descoeur   Vincent,Pupponi   François,1,1
+Descoeur   Vincent,Krabal   Jacques,0,1
+Descoeur   Vincent,Louwagie   Véronique,1,1
+Descoeur   Vincent,Questel   Bruno,0,1
+Descoeur   Vincent,Dupont   Stella,0,1
+Descoeur   Vincent,Maillard   Sylvain,0,1
+Descoeur   Vincent,Delatte   Marc,0,1
+Descoeur   Vincent,Peyrol   Bénédicte,0,1
+Descoeur   Vincent,Ahamada   Saïd,0,1
+Descoeur   Vincent,Martin   Didier,1,1
+Descoeur   Vincent,Charvier   Fannette,0,1
+Descoeur   Vincent,Le Feur   Sandrine,0,1
+Descoeur   Vincent,Cazeneuve   Jean-René,0,1
+Descoeur   Vincent,Nogal   Mickaël,0,1
+Descoeur   Vincent,Tanguy   Liliana,0,1
+Descoeur   Vincent,Ménard   Emmanuelle,1,1
+Descoeur   Vincent,Mirallès   Patricia,0,1
+Descoeur   Vincent,Ressiguier   Muriel,1,1
+Descoeur   Vincent,Cloarec-Le Nabour   Christine,0,1
+Descoeur   Vincent,Labaronne   Daniel,0,1
+Descoeur   Vincent,Motin   Cendra,0,1
+Descoeur   Vincent,Meynier-Millefert   Marjolaine,0,1
+Descoeur   Vincent,Borowczyk   Julien,0,1
+Descoeur   Vincent,Kuric   Aina,0,1
+Descoeur   Vincent,Magnier   Lise,0,1
+Descoeur   Vincent,Cariou   Émilie,0,1
+Descoeur   Vincent,Le Peih   Nicole,0,1
+Descoeur   Vincent,Lioger   Richard,0,1
+Descoeur   Vincent,Paluszkiewicz   Xavier,0,1
+Descoeur   Vincent,Osson   Catherine,0,1
+Descoeur   Vincent,Goulet   Perrine,0,1
+Descoeur   Vincent,Potterie   Benoit,0,1
+Descoeur   Vincent,Dumont   Pierre-Henri,1,1
+Descoeur   Vincent,Mattei   Jean-Paul,0,1
+Descoeur   Vincent,Mbaye   Jean François,0,1
+Descoeur   Vincent,Saint-Martin   Laurent,0,1
+Descoeur   Vincent,Da Silva   Dominique,0,1
+Descoeur   Vincent,Genetet   Anne,0,1
+Descoeur   Vincent,Ratenon   Jean-Hugues,1,1
+Descoeur   Vincent,Charrière   Sylvie,0,1
+Descoeur   Vincent,Petit   Maud,0,1
+Descoeur   Vincent,Gaillot   Albane,0,1
+Descoeur   Vincent,Peu   Stéphane,1,1
+Descoeur   Vincent,Ramadier   Alain,1,1
+Descoeur   Vincent,Bonnivard   Émilie,1,1
+Descoeur   Vincent,Lenne   Marion,0,1
+Descoeur   Vincent,Roseren   Xavier,0,1
+Descoeur   Vincent,Guerini   Stanislas,0,1
+Descoeur   Vincent,Verdier-Jouclas   Marie-Christine,0,1
+Descoeur   Vincent,Person   Pierre,0,1
+Descoeur   Vincent,Calvez   Céline,0,1
+Descoeur   Vincent,Gomez-Bassac   Valérie,0,1
+Descoeur   Vincent,Barrot   Jean-Noël,0,1
+Descoeur   Vincent,Morenas   Adrien,0,1
+Descoeur   Vincent,Faucillon   Elsa,1,1
+Descoeur   Vincent,Pouzyreff   Natalia,0,1
+Descoeur   Vincent,de Vaucouleurs   Michèle,0,1
+Descoeur   Vincent,Magne   Marie-Ange,0,1
+Descoeur   Vincent,Villani   Cédric,0,1
+Descoeur   Vincent,Ali   Ramlati,0,1
+Le Grip   Constance,Pupponi   François,1,1
+Le Grip   Constance,Krabal   Jacques,0,1
+Le Grip   Constance,Louwagie   Véronique,1,1
+Le Grip   Constance,Questel   Bruno,0,1
+Le Grip   Constance,Dupont   Stella,0,1
+Le Grip   Constance,Maillard   Sylvain,0,1
+Le Grip   Constance,Delatte   Marc,0,1
+Le Grip   Constance,Peyrol   Bénédicte,0,1
+Le Grip   Constance,Ahamada   Saïd,0,1
+Le Grip   Constance,Martin   Didier,1,1
+Le Grip   Constance,Charvier   Fannette,0,1
+Le Grip   Constance,Le Feur   Sandrine,0,1
+Le Grip   Constance,Cazeneuve   Jean-René,0,1
+Le Grip   Constance,Nogal   Mickaël,0,1
+Le Grip   Constance,Tanguy   Liliana,0,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Mirallès   Patricia,0,1
+Le Grip   Constance,Ressiguier   Muriel,1,1
+Le Grip   Constance,Cloarec-Le Nabour   Christine,0,1
+Le Grip   Constance,Labaronne   Daniel,0,1
+Le Grip   Constance,Motin   Cendra,0,1
+Le Grip   Constance,Meynier-Millefert   Marjolaine,0,1
+Le Grip   Constance,Borowczyk   Julien,0,1
+Le Grip   Constance,Kuric   Aina,0,1
+Le Grip   Constance,Magnier   Lise,0,1
+Le Grip   Constance,Cariou   Émilie,0,1
+Le Grip   Constance,Le Peih   Nicole,0,1
+Le Grip   Constance,Lioger   Richard,0,1
+Le Grip   Constance,Paluszkiewicz   Xavier,0,1
+Le Grip   Constance,Osson   Catherine,0,1
+Le Grip   Constance,Goulet   Perrine,0,1
+Le Grip   Constance,Potterie   Benoit,0,1
+Le Grip   Constance,Dumont   Pierre-Henri,1,1
+Le Grip   Constance,Mattei   Jean-Paul,0,1
+Le Grip   Constance,Mbaye   Jean François,0,1
+Le Grip   Constance,Saint-Martin   Laurent,0,1
+Le Grip   Constance,Da Silva   Dominique,0,1
+Le Grip   Constance,Genetet   Anne,0,1
+Le Grip   Constance,Ratenon   Jean-Hugues,1,1
+Le Grip   Constance,Charrière   Sylvie,0,1
+Le Grip   Constance,Petit   Maud,0,1
+Le Grip   Constance,Gaillot   Albane,0,1
+Le Grip   Constance,Peu   Stéphane,1,1
+Le Grip   Constance,Ramadier   Alain,1,1
+Le Grip   Constance,Bonnivard   Émilie,1,1
+Le Grip   Constance,Lenne   Marion,0,1
+Le Grip   Constance,Roseren   Xavier,0,1
+Le Grip   Constance,Guerini   Stanislas,0,1
+Le Grip   Constance,Verdier-Jouclas   Marie-Christine,0,1
+Le Grip   Constance,Person   Pierre,0,1
+Le Grip   Constance,Calvez   Céline,0,1
+Le Grip   Constance,Gomez-Bassac   Valérie,0,1
+Le Grip   Constance,Barrot   Jean-Noël,0,1
+Le Grip   Constance,Morenas   Adrien,0,1
+Le Grip   Constance,Faucillon   Elsa,1,1
+Le Grip   Constance,Pouzyreff   Natalia,0,1
+Le Grip   Constance,de Vaucouleurs   Michèle,0,1
+Le Grip   Constance,Magne   Marie-Ange,0,1
+Le Grip   Constance,Villani   Cédric,0,1
+Le Grip   Constance,Ali   Ramlati,0,1
+Pupponi   François,Krabal   Jacques,0,1
+Pupponi   François,Louwagie   Véronique,1,1
+Pupponi   François,Questel   Bruno,0,1
+Pupponi   François,Dupont   Stella,0,1
+Pupponi   François,Maillard   Sylvain,0,1
+Pupponi   François,Delatte   Marc,0,1
+Pupponi   François,Peyrol   Bénédicte,0,1
+Pupponi   François,Ahamada   Saïd,0,1
+Pupponi   François,Martin   Didier,1,1
+Pupponi   François,Charvier   Fannette,0,1
+Pupponi   François,Le Feur   Sandrine,0,1
+Pupponi   François,Cazeneuve   Jean-René,0,1
+Pupponi   François,Nogal   Mickaël,0,1
+Pupponi   François,Tanguy   Liliana,0,1
+Pupponi   François,Ménard   Emmanuelle,1,1
+Pupponi   François,Mirallès   Patricia,0,1
+Pupponi   François,Ressiguier   Muriel,1,1
+Pupponi   François,Cloarec-Le Nabour   Christine,0,1
+Pupponi   François,Labaronne   Daniel,0,1
+Pupponi   François,Motin   Cendra,0,1
+Pupponi   François,Meynier-Millefert   Marjolaine,0,1
+Pupponi   François,Borowczyk   Julien,0,1
+Pupponi   François,Kuric   Aina,0,1
+Pupponi   François,Magnier   Lise,0,1
+Pupponi   François,Cariou   Émilie,0,1
+Pupponi   François,Le Peih   Nicole,0,1
+Pupponi   François,Lioger   Richard,0,1
+Pupponi   François,Paluszkiewicz   Xavier,0,1
+Pupponi   François,Osson   Catherine,0,1
+Pupponi   François,Goulet   Perrine,0,1
+Pupponi   François,Potterie   Benoit,0,1
+Pupponi   François,Dumont   Pierre-Henri,1,1
+Pupponi   François,Mattei   Jean-Paul,0,1
+Pupponi   François,Mbaye   Jean François,0,1
+Pupponi   François,Saint-Martin   Laurent,0,1
+Pupponi   François,Da Silva   Dominique,0,1
+Pupponi   François,Genetet   Anne,0,1
+Pupponi   François,Ratenon   Jean-Hugues,1,1
+Pupponi   François,Charrière   Sylvie,0,1
+Pupponi   François,Petit   Maud,0,1
+Pupponi   François,Gaillot   Albane,0,1
+Pupponi   François,Peu   Stéphane,1,1
+Pupponi   François,Ramadier   Alain,1,1
+Pupponi   François,Bonnivard   Émilie,1,1
+Pupponi   François,Lenne   Marion,0,1
+Pupponi   François,Roseren   Xavier,0,1
+Pupponi   François,Guerini   Stanislas,0,1
+Pupponi   François,Verdier-Jouclas   Marie-Christine,0,1
+Pupponi   François,Person   Pierre,0,1
+Pupponi   François,Calvez   Céline,0,1
+Pupponi   François,Gomez-Bassac   Valérie,0,1
+Pupponi   François,Barrot   Jean-Noël,0,1
+Pupponi   François,Morenas   Adrien,0,1
+Pupponi   François,Faucillon   Elsa,1,1
+Pupponi   François,Pouzyreff   Natalia,0,1
+Pupponi   François,de Vaucouleurs   Michèle,0,1
+Pupponi   François,Magne   Marie-Ange,0,1
+Pupponi   François,Villani   Cédric,0,1
+Pupponi   François,Ali   Ramlati,0,1
+Krabal   Jacques,Louwagie   Véronique,0,1
+Krabal   Jacques,Questel   Bruno,1,1
+Krabal   Jacques,Dupont   Stella,1,1
+Krabal   Jacques,Maillard   Sylvain,1,1
+Krabal   Jacques,Delatte   Marc,1,1
+Krabal   Jacques,Peyrol   Bénédicte,1,1
+Krabal   Jacques,Ahamada   Saïd,1,1
+Krabal   Jacques,Martin   Didier,0,1
+Krabal   Jacques,Charvier   Fannette,1,1
+Krabal   Jacques,Le Feur   Sandrine,1,1
+Krabal   Jacques,Cazeneuve   Jean-René,1,1
+Krabal   Jacques,Nogal   Mickaël,1,1
+Krabal   Jacques,Tanguy   Liliana,1,1
+Krabal   Jacques,Ménard   Emmanuelle,0,1
+Krabal   Jacques,Mirallès   Patricia,1,1
+Krabal   Jacques,Ressiguier   Muriel,0,1
+Krabal   Jacques,Cloarec-Le Nabour   Christine,1,1
+Krabal   Jacques,Labaronne   Daniel,1,1
+Krabal   Jacques,Motin   Cendra,1,1
+Krabal   Jacques,Meynier-Millefert   Marjolaine,1,1
+Krabal   Jacques,Borowczyk   Julien,1,1
+Krabal   Jacques,Kuric   Aina,1,1
+Krabal   Jacques,Magnier   Lise,0,1
+Krabal   Jacques,Cariou   Émilie,1,1
+Krabal   Jacques,Le Peih   Nicole,1,1
+Krabal   Jacques,Lioger   Richard,1,1
+Krabal   Jacques,Paluszkiewicz   Xavier,1,1
+Krabal   Jacques,Osson   Catherine,1,1
+Krabal   Jacques,Goulet   Perrine,1,1
+Krabal   Jacques,Potterie   Benoit,1,1
+Krabal   Jacques,Dumont   Pierre-Henri,0,1
+Krabal   Jacques,Mattei   Jean-Paul,1,1
+Krabal   Jacques,Mbaye   Jean François,1,1
+Krabal   Jacques,Saint-Martin   Laurent,1,1
+Krabal   Jacques,Da Silva   Dominique,1,1
+Krabal   Jacques,Genetet   Anne,1,1
+Krabal   Jacques,Ratenon   Jean-Hugues,0,1
+Krabal   Jacques,Charrière   Sylvie,1,1
+Krabal   Jacques,Petit   Maud,0,1
+Krabal   Jacques,Gaillot   Albane,1,1
+Krabal   Jacques,Peu   Stéphane,0,1
+Krabal   Jacques,Ramadier   Alain,0,1
+Krabal   Jacques,Bonnivard   Émilie,0,1
+Krabal   Jacques,Lenne   Marion,1,1
+Krabal   Jacques,Roseren   Xavier,1,1
+Krabal   Jacques,Guerini   Stanislas,1,1
+Krabal   Jacques,Verdier-Jouclas   Marie-Christine,1,1
+Krabal   Jacques,Person   Pierre,1,1
+Krabal   Jacques,Calvez   Céline,1,1
+Krabal   Jacques,Gomez-Bassac   Valérie,1,1
+Krabal   Jacques,Barrot   Jean-Noël,1,1
+Krabal   Jacques,Morenas   Adrien,1,1
+Krabal   Jacques,Faucillon   Elsa,0,1
+Krabal   Jacques,Pouzyreff   Natalia,1,1
+Krabal   Jacques,de Vaucouleurs   Michèle,0,1
+Krabal   Jacques,Magne   Marie-Ange,1,1
+Krabal   Jacques,Villani   Cédric,1,1
+Krabal   Jacques,Ali   Ramlati,1,1
+Louwagie   Véronique,Questel   Bruno,0,1
+Louwagie   Véronique,Dupont   Stella,0,1
+Louwagie   Véronique,Maillard   Sylvain,0,1
+Louwagie   Véronique,Delatte   Marc,0,1
+Louwagie   Véronique,Peyrol   Bénédicte,0,1
+Louwagie   Véronique,Ahamada   Saïd,0,1
+Louwagie   Véronique,Martin   Didier,1,1
+Louwagie   Véronique,Charvier   Fannette,0,1
+Louwagie   Véronique,Le Feur   Sandrine,0,1
+Louwagie   Véronique,Cazeneuve   Jean-René,0,1
+Louwagie   Véronique,Nogal   Mickaël,0,1
+Louwagie   Véronique,Tanguy   Liliana,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Mirallès   Patricia,0,1
+Louwagie   Véronique,Ressiguier   Muriel,1,1
+Louwagie   Véronique,Cloarec-Le Nabour   Christine,0,1
+Louwagie   Véronique,Labaronne   Daniel,0,1
+Louwagie   Véronique,Motin   Cendra,0,1
+Louwagie   Véronique,Meynier-Millefert   Marjolaine,0,1
+Louwagie   Véronique,Borowczyk   Julien,0,1
+Louwagie   Véronique,Kuric   Aina,0,1
+Louwagie   Véronique,Magnier   Lise,0,1
+Louwagie   Véronique,Cariou   Émilie,0,1
+Louwagie   Véronique,Le Peih   Nicole,0,1
+Louwagie   Véronique,Lioger   Richard,0,1
+Louwagie   Véronique,Paluszkiewicz   Xavier,0,1
+Louwagie   Véronique,Osson   Catherine,0,1
+Louwagie   Véronique,Goulet   Perrine,0,1
+Louwagie   Véronique,Potterie   Benoit,0,1
+Louwagie   Véronique,Dumont   Pierre-Henri,1,1
+Louwagie   Véronique,Mattei   Jean-Paul,0,1
+Louwagie   Véronique,Mbaye   Jean François,0,1
+Louwagie   Véronique,Saint-Martin   Laurent,0,1
+Louwagie   Véronique,Da Silva   Dominique,0,1
+Louwagie   Véronique,Genetet   Anne,0,1
+Louwagie   Véronique,Ratenon   Jean-Hugues,1,1
+Louwagie   Véronique,Charrière   Sylvie,0,1
+Louwagie   Véronique,Petit   Maud,0,1
+Louwagie   Véronique,Gaillot   Albane,0,1
+Louwagie   Véronique,Peu   Stéphane,1,1
+Louwagie   Véronique,Ramadier   Alain,1,1
+Louwagie   Véronique,Bonnivard   Émilie,1,1
+Louwagie   Véronique,Lenne   Marion,0,1
+Louwagie   Véronique,Roseren   Xavier,0,1
+Louwagie   Véronique,Guerini   Stanislas,0,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Person   Pierre,0,1
+Louwagie   Véronique,Calvez   Céline,0,1
+Louwagie   Véronique,Gomez-Bassac   Valérie,0,1
+Louwagie   Véronique,Barrot   Jean-Noël,0,1
+Louwagie   Véronique,Morenas   Adrien,0,1
+Louwagie   Véronique,Faucillon   Elsa,1,1
+Louwagie   Véronique,Pouzyreff   Natalia,0,1
+Louwagie   Véronique,de Vaucouleurs   Michèle,0,1
+Louwagie   Véronique,Magne   Marie-Ange,0,1
+Louwagie   Véronique,Villani   Cédric,0,1
+Louwagie   Véronique,Ali   Ramlati,0,1
+Questel   Bruno,Dupont   Stella,1,1
+Questel   Bruno,Maillard   Sylvain,1,1
+Questel   Bruno,Delatte   Marc,1,1
+Questel   Bruno,Peyrol   Bénédicte,1,1
+Questel   Bruno,Ahamada   Saïd,1,1
+Questel   Bruno,Martin   Didier,0,1
+Questel   Bruno,Charvier   Fannette,1,1
+Questel   Bruno,Le Feur   Sandrine,1,1
+Questel   Bruno,Cazeneuve   Jean-René,1,1
+Questel   Bruno,Nogal   Mickaël,1,1
+Questel   Bruno,Tanguy   Liliana,1,1
+Questel   Bruno,Ménard   Emmanuelle,0,1
+Questel   Bruno,Mirallès   Patricia,1,1
+Questel   Bruno,Ressiguier   Muriel,0,1
+Questel   Bruno,Cloarec-Le Nabour   Christine,1,1
+Questel   Bruno,Labaronne   Daniel,1,1
+Questel   Bruno,Motin   Cendra,1,1
+Questel   Bruno,Meynier-Millefert   Marjolaine,1,1
+Questel   Bruno,Borowczyk   Julien,1,1
+Questel   Bruno,Kuric   Aina,1,1
+Questel   Bruno,Magnier   Lise,0,1
+Questel   Bruno,Cariou   Émilie,1,1
+Questel   Bruno,Le Peih   Nicole,1,1
+Questel   Bruno,Lioger   Richard,1,1
+Questel   Bruno,Paluszkiewicz   Xavier,1,1
+Questel   Bruno,Osson   Catherine,1,1
+Questel   Bruno,Goulet   Perrine,1,1
+Questel   Bruno,Potterie   Benoit,1,1
+Questel   Bruno,Dumont   Pierre-Henri,0,1
+Questel   Bruno,Mattei   Jean-Paul,1,1
+Questel   Bruno,Mbaye   Jean François,1,1
+Questel   Bruno,Saint-Martin   Laurent,1,1
+Questel   Bruno,Da Silva   Dominique,1,1
+Questel   Bruno,Genetet   Anne,1,1
+Questel   Bruno,Ratenon   Jean-Hugues,0,1
+Questel   Bruno,Charrière   Sylvie,1,1
+Questel   Bruno,Petit   Maud,0,1
+Questel   Bruno,Gaillot   Albane,1,1
+Questel   Bruno,Peu   Stéphane,0,1
+Questel   Bruno,Ramadier   Alain,0,1
+Questel   Bruno,Bonnivard   Émilie,0,1
+Questel   Bruno,Lenne   Marion,1,1
+Questel   Bruno,Roseren   Xavier,1,1
+Questel   Bruno,Guerini   Stanislas,1,1
+Questel   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Questel   Bruno,Person   Pierre,1,1
+Questel   Bruno,Calvez   Céline,1,1
+Questel   Bruno,Gomez-Bassac   Valérie,1,1
+Questel   Bruno,Barrot   Jean-Noël,1,1
+Questel   Bruno,Morenas   Adrien,1,1
+Questel   Bruno,Faucillon   Elsa,0,1
+Questel   Bruno,Pouzyreff   Natalia,1,1
+Questel   Bruno,de Vaucouleurs   Michèle,0,1
+Questel   Bruno,Magne   Marie-Ange,1,1
+Questel   Bruno,Villani   Cédric,1,1
+Questel   Bruno,Ali   Ramlati,1,1
+Dupont   Stella,Maillard   Sylvain,1,1
+Dupont   Stella,Delatte   Marc,1,1
+Dupont   Stella,Peyrol   Bénédicte,1,1
+Dupont   Stella,Ahamada   Saïd,1,1
+Dupont   Stella,Martin   Didier,0,1
+Dupont   Stella,Charvier   Fannette,1,1
+Dupont   Stella,Le Feur   Sandrine,1,1
+Dupont   Stella,Cazeneuve   Jean-René,1,1
+Dupont   Stella,Nogal   Mickaël,1,1
+Dupont   Stella,Tanguy   Liliana,1,1
+Dupont   Stella,Ménard   Emmanuelle,0,1
+Dupont   Stella,Mirallès   Patricia,1,1
+Dupont   Stella,Ressiguier   Muriel,0,1
+Dupont   Stella,Cloarec-Le Nabour   Christine,1,1
+Dupont   Stella,Labaronne   Daniel,1,1
+Dupont   Stella,Motin   Cendra,1,1
+Dupont   Stella,Meynier-Millefert   Marjolaine,1,1
+Dupont   Stella,Borowczyk   Julien,1,1
+Dupont   Stella,Kuric   Aina,1,1
+Dupont   Stella,Magnier   Lise,0,1
+Dupont   Stella,Cariou   Émilie,1,1
+Dupont   Stella,Le Peih   Nicole,1,1
+Dupont   Stella,Lioger   Richard,1,1
+Dupont   Stella,Paluszkiewicz   Xavier,1,1
+Dupont   Stella,Osson   Catherine,1,1
+Dupont   Stella,Goulet   Perrine,1,1
+Dupont   Stella,Potterie   Benoit,1,1
+Dupont   Stella,Dumont   Pierre-Henri,0,1
+Dupont   Stella,Mattei   Jean-Paul,1,1
+Dupont   Stella,Mbaye   Jean François,1,1
+Dupont   Stella,Saint-Martin   Laurent,1,1
+Dupont   Stella,Da Silva   Dominique,1,1
+Dupont   Stella,Genetet   Anne,1,1
+Dupont   Stella,Ratenon   Jean-Hugues,0,1
+Dupont   Stella,Charrière   Sylvie,1,1
+Dupont   Stella,Petit   Maud,0,1
+Dupont   Stella,Gaillot   Albane,1,1
+Dupont   Stella,Peu   Stéphane,0,1
+Dupont   Stella,Ramadier   Alain,0,1
+Dupont   Stella,Bonnivard   Émilie,0,1
+Dupont   Stella,Lenne   Marion,1,1
+Dupont   Stella,Roseren   Xavier,1,1
+Dupont   Stella,Guerini   Stanislas,1,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Person   Pierre,1,1
+Dupont   Stella,Calvez   Céline,1,1
+Dupont   Stella,Gomez-Bassac   Valérie,1,1
+Dupont   Stella,Barrot   Jean-Noël,1,1
+Dupont   Stella,Morenas   Adrien,1,1
+Dupont   Stella,Faucillon   Elsa,0,1
+Dupont   Stella,Pouzyreff   Natalia,1,1
+Dupont   Stella,de Vaucouleurs   Michèle,0,1
+Dupont   Stella,Magne   Marie-Ange,1,1
+Dupont   Stella,Villani   Cédric,1,1
+Dupont   Stella,Ali   Ramlati,1,1
+Maillard   Sylvain,Delatte   Marc,1,1
+Maillard   Sylvain,Peyrol   Bénédicte,1,1
+Maillard   Sylvain,Ahamada   Saïd,1,1
+Maillard   Sylvain,Martin   Didier,0,1
+Maillard   Sylvain,Charvier   Fannette,1,1
+Maillard   Sylvain,Le Feur   Sandrine,1,1
+Maillard   Sylvain,Cazeneuve   Jean-René,1,1
+Maillard   Sylvain,Nogal   Mickaël,1,1
+Maillard   Sylvain,Tanguy   Liliana,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Mirallès   Patricia,1,1
+Maillard   Sylvain,Ressiguier   Muriel,0,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Labaronne   Daniel,1,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Meynier-Millefert   Marjolaine,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Kuric   Aina,1,1
+Maillard   Sylvain,Magnier   Lise,0,1
+Maillard   Sylvain,Cariou   Émilie,1,1
+Maillard   Sylvain,Le Peih   Nicole,1,1
+Maillard   Sylvain,Lioger   Richard,1,1
+Maillard   Sylvain,Paluszkiewicz   Xavier,1,1
+Maillard   Sylvain,Osson   Catherine,1,1
+Maillard   Sylvain,Goulet   Perrine,1,1
+Maillard   Sylvain,Potterie   Benoit,1,1
+Maillard   Sylvain,Dumont   Pierre-Henri,0,1
+Maillard   Sylvain,Mattei   Jean-Paul,1,1
+Maillard   Sylvain,Mbaye   Jean François,1,1
+Maillard   Sylvain,Saint-Martin   Laurent,1,1
+Maillard   Sylvain,Da Silva   Dominique,1,1
+Maillard   Sylvain,Genetet   Anne,1,1
+Maillard   Sylvain,Ratenon   Jean-Hugues,0,1
+Maillard   Sylvain,Charrière   Sylvie,1,1
+Maillard   Sylvain,Petit   Maud,0,1
+Maillard   Sylvain,Gaillot   Albane,1,1
+Maillard   Sylvain,Peu   Stéphane,0,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Bonnivard   Émilie,0,1
+Maillard   Sylvain,Lenne   Marion,1,1
+Maillard   Sylvain,Roseren   Xavier,1,1
+Maillard   Sylvain,Guerini   Stanislas,1,1
+Maillard   Sylvain,Verdier-Jouclas   Marie-Christine,1,1
+Maillard   Sylvain,Person   Pierre,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Gomez-Bassac   Valérie,1,1
+Maillard   Sylvain,Barrot   Jean-Noël,1,1
+Maillard   Sylvain,Morenas   Adrien,1,1
+Maillard   Sylvain,Faucillon   Elsa,0,1
+Maillard   Sylvain,Pouzyreff   Natalia,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,0,1
+Maillard   Sylvain,Magne   Marie-Ange,1,1
+Maillard   Sylvain,Villani   Cédric,1,1
+Maillard   Sylvain,Ali   Ramlati,1,1
+Delatte   Marc,Peyrol   Bénédicte,1,1
+Delatte   Marc,Ahamada   Saïd,1,1
+Delatte   Marc,Martin   Didier,0,1
+Delatte   Marc,Charvier   Fannette,1,1
+Delatte   Marc,Le Feur   Sandrine,1,1
+Delatte   Marc,Cazeneuve   Jean-René,1,1
+Delatte   Marc,Nogal   Mickaël,1,1
+Delatte   Marc,Tanguy   Liliana,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,Mirallès   Patricia,1,1
+Delatte   Marc,Ressiguier   Muriel,0,1
+Delatte   Marc,Cloarec-Le Nabour   Christine,1,1
+Delatte   Marc,Labaronne   Daniel,1,1
+Delatte   Marc,Motin   Cendra,1,1
+Delatte   Marc,Meynier-Millefert   Marjolaine,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Kuric   Aina,1,1
+Delatte   Marc,Magnier   Lise,0,1
+Delatte   Marc,Cariou   Émilie,1,1
+Delatte   Marc,Le Peih   Nicole,1,1
+Delatte   Marc,Lioger   Richard,1,1
+Delatte   Marc,Paluszkiewicz   Xavier,1,1
+Delatte   Marc,Osson   Catherine,1,1
+Delatte   Marc,Goulet   Perrine,1,1
+Delatte   Marc,Potterie   Benoit,1,1
+Delatte   Marc,Dumont   Pierre-Henri,0,1
+Delatte   Marc,Mattei   Jean-Paul,1,1
+Delatte   Marc,Mbaye   Jean François,1,1
+Delatte   Marc,Saint-Martin   Laurent,1,1
+Delatte   Marc,Da Silva   Dominique,1,1
+Delatte   Marc,Genetet   Anne,1,1
+Delatte   Marc,Ratenon   Jean-Hugues,0,1
+Delatte   Marc,Charrière   Sylvie,1,1
+Delatte   Marc,Petit   Maud,0,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Peu   Stéphane,0,1
+Delatte   Marc,Ramadier   Alain,0,1
+Delatte   Marc,Bonnivard   Émilie,0,1
+Delatte   Marc,Lenne   Marion,1,1
+Delatte   Marc,Roseren   Xavier,1,1
+Delatte   Marc,Guerini   Stanislas,1,1
+Delatte   Marc,Verdier-Jouclas   Marie-Christine,1,1
+Delatte   Marc,Person   Pierre,1,1
+Delatte   Marc,Calvez   Céline,1,1
+Delatte   Marc,Gomez-Bassac   Valérie,1,1
+Delatte   Marc,Barrot   Jean-Noël,1,1
+Delatte   Marc,Morenas   Adrien,1,1
+Delatte   Marc,Faucillon   Elsa,0,1
+Delatte   Marc,Pouzyreff   Natalia,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,0,1
+Delatte   Marc,Magne   Marie-Ange,1,1
+Delatte   Marc,Villani   Cédric,1,1
+Delatte   Marc,Ali   Ramlati,1,1
+Peyrol   Bénédicte,Ahamada   Saïd,1,1
+Peyrol   Bénédicte,Martin   Didier,0,1
+Peyrol   Bénédicte,Charvier   Fannette,1,1
+Peyrol   Bénédicte,Le Feur   Sandrine,1,1
+Peyrol   Bénédicte,Cazeneuve   Jean-René,1,1
+Peyrol   Bénédicte,Nogal   Mickaël,1,1
+Peyrol   Bénédicte,Tanguy   Liliana,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,Mirallès   Patricia,1,1
+Peyrol   Bénédicte,Ressiguier   Muriel,0,1
+Peyrol   Bénédicte,Cloarec-Le Nabour   Christine,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Meynier-Millefert   Marjolaine,1,1
+Peyrol   Bénédicte,Borowczyk   Julien,1,1
+Peyrol   Bénédicte,Kuric   Aina,1,1
+Peyrol   Bénédicte,Magnier   Lise,0,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Le Peih   Nicole,1,1
+Peyrol   Bénédicte,Lioger   Richard,1,1
+Peyrol   Bénédicte,Paluszkiewicz   Xavier,1,1
+Peyrol   Bénédicte,Osson   Catherine,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Potterie   Benoit,1,1
+Peyrol   Bénédicte,Dumont   Pierre-Henri,0,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,1,1
+Peyrol   Bénédicte,Mbaye   Jean François,1,1
+Peyrol   Bénédicte,Saint-Martin   Laurent,1,1
+Peyrol   Bénédicte,Da Silva   Dominique,1,1
+Peyrol   Bénédicte,Genetet   Anne,1,1
+Peyrol   Bénédicte,Ratenon   Jean-Hugues,0,1
+Peyrol   Bénédicte,Charrière   Sylvie,1,1
+Peyrol   Bénédicte,Petit   Maud,0,1
+Peyrol   Bénédicte,Gaillot   Albane,1,1
+Peyrol   Bénédicte,Peu   Stéphane,0,1
+Peyrol   Bénédicte,Ramadier   Alain,0,1
+Peyrol   Bénédicte,Bonnivard   Émilie,0,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Roseren   Xavier,1,1
+Peyrol   Bénédicte,Guerini   Stanislas,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Person   Pierre,1,1
+Peyrol   Bénédicte,Calvez   Céline,1,1
+Peyrol   Bénédicte,Gomez-Bassac   Valérie,1,1
+Peyrol   Bénédicte,Barrot   Jean-Noël,1,1
+Peyrol   Bénédicte,Morenas   Adrien,1,1
+Peyrol   Bénédicte,Faucillon   Elsa,0,1
+Peyrol   Bénédicte,Pouzyreff   Natalia,1,1
+Peyrol   Bénédicte,de Vaucouleurs   Michèle,0,1
+Peyrol   Bénédicte,Magne   Marie-Ange,1,1
+Peyrol   Bénédicte,Villani   Cédric,1,1
+Peyrol   Bénédicte,Ali   Ramlati,1,1
+Ahamada   Saïd,Martin   Didier,0,1
+Ahamada   Saïd,Charvier   Fannette,1,1
+Ahamada   Saïd,Le Feur   Sandrine,1,1
+Ahamada   Saïd,Cazeneuve   Jean-René,1,1
+Ahamada   Saïd,Nogal   Mickaël,1,1
+Ahamada   Saïd,Tanguy   Liliana,1,1
+Ahamada   Saïd,Ménard   Emmanuelle,0,1
+Ahamada   Saïd,Mirallès   Patricia,1,1
+Ahamada   Saïd,Ressiguier   Muriel,0,1
+Ahamada   Saïd,Cloarec-Le Nabour   Christine,1,1
+Ahamada   Saïd,Labaronne   Daniel,1,1
+Ahamada   Saïd,Motin   Cendra,1,1
+Ahamada   Saïd,Meynier-Millefert   Marjolaine,1,1
+Ahamada   Saïd,Borowczyk   Julien,1,1
+Ahamada   Saïd,Kuric   Aina,1,1
+Ahamada   Saïd,Magnier   Lise,0,1
+Ahamada   Saïd,Cariou   Émilie,1,1
+Ahamada   Saïd,Le Peih   Nicole,1,1
+Ahamada   Saïd,Lioger   Richard,1,1
+Ahamada   Saïd,Paluszkiewicz   Xavier,1,1
+Ahamada   Saïd,Osson   Catherine,1,1
+Ahamada   Saïd,Goulet   Perrine,1,1
+Ahamada   Saïd,Potterie   Benoit,1,1
+Ahamada   Saïd,Dumont   Pierre-Henri,0,1
+Ahamada   Saïd,Mattei   Jean-Paul,1,1
+Ahamada   Saïd,Mbaye   Jean François,1,1
+Ahamada   Saïd,Saint-Martin   Laurent,1,1
+Ahamada   Saïd,Da Silva   Dominique,1,1
+Ahamada   Saïd,Genetet   Anne,1,1
+Ahamada   Saïd,Ratenon   Jean-Hugues,0,1
+Ahamada   Saïd,Charrière   Sylvie,1,1
+Ahamada   Saïd,Petit   Maud,0,1
+Ahamada   Saïd,Gaillot   Albane,1,1
+Ahamada   Saïd,Peu   Stéphane,0,1
+Ahamada   Saïd,Ramadier   Alain,0,1
+Ahamada   Saïd,Bonnivard   Émilie,0,1
+Ahamada   Saïd,Lenne   Marion,1,1
+Ahamada   Saïd,Roseren   Xavier,1,1
+Ahamada   Saïd,Guerini   Stanislas,1,1
+Ahamada   Saïd,Verdier-Jouclas   Marie-Christine,1,1
+Ahamada   Saïd,Person   Pierre,1,1
+Ahamada   Saïd,Calvez   Céline,1,1
+Ahamada   Saïd,Gomez-Bassac   Valérie,1,1
+Ahamada   Saïd,Barrot   Jean-Noël,1,1
+Ahamada   Saïd,Morenas   Adrien,1,1
+Ahamada   Saïd,Faucillon   Elsa,0,1
+Ahamada   Saïd,Pouzyreff   Natalia,1,1
+Ahamada   Saïd,de Vaucouleurs   Michèle,0,1
+Ahamada   Saïd,Magne   Marie-Ange,1,1
+Ahamada   Saïd,Villani   Cédric,1,1
+Ahamada   Saïd,Ali   Ramlati,1,1
+Martin   Didier,Charvier   Fannette,0,1
+Martin   Didier,Le Feur   Sandrine,0,1
+Martin   Didier,Cazeneuve   Jean-René,0,1
+Martin   Didier,Nogal   Mickaël,0,1
+Martin   Didier,Tanguy   Liliana,0,1
+Martin   Didier,Ménard   Emmanuelle,1,1
+Martin   Didier,Mirallès   Patricia,0,1
+Martin   Didier,Ressiguier   Muriel,1,1
+Martin   Didier,Cloarec-Le Nabour   Christine,0,1
+Martin   Didier,Labaronne   Daniel,0,1
+Martin   Didier,Motin   Cendra,0,1
+Martin   Didier,Meynier-Millefert   Marjolaine,0,1
+Martin   Didier,Borowczyk   Julien,0,1
+Martin   Didier,Kuric   Aina,0,1
+Martin   Didier,Magnier   Lise,0,1
+Martin   Didier,Cariou   Émilie,0,1
+Martin   Didier,Le Peih   Nicole,0,1
+Martin   Didier,Lioger   Richard,0,1
+Martin   Didier,Paluszkiewicz   Xavier,0,1
+Martin   Didier,Osson   Catherine,0,1
+Martin   Didier,Goulet   Perrine,0,1
+Martin   Didier,Potterie   Benoit,0,1
+Martin   Didier,Dumont   Pierre-Henri,1,1
+Martin   Didier,Mattei   Jean-Paul,0,1
+Martin   Didier,Mbaye   Jean François,0,1
+Martin   Didier,Saint-Martin   Laurent,0,1
+Martin   Didier,Da Silva   Dominique,0,1
+Martin   Didier,Genetet   Anne,0,1
+Martin   Didier,Ratenon   Jean-Hugues,1,1
+Martin   Didier,Charrière   Sylvie,0,1
+Martin   Didier,Petit   Maud,0,1
+Martin   Didier,Gaillot   Albane,0,1
+Martin   Didier,Peu   Stéphane,1,1
+Martin   Didier,Ramadier   Alain,1,1
+Martin   Didier,Bonnivard   Émilie,1,1
+Martin   Didier,Lenne   Marion,0,1
+Martin   Didier,Roseren   Xavier,0,1
+Martin   Didier,Guerini   Stanislas,0,1
+Martin   Didier,Verdier-Jouclas   Marie-Christine,0,1
+Martin   Didier,Person   Pierre,0,1
+Martin   Didier,Calvez   Céline,0,1
+Martin   Didier,Gomez-Bassac   Valérie,0,1
+Martin   Didier,Barrot   Jean-Noël,0,1
+Martin   Didier,Morenas   Adrien,0,1
+Martin   Didier,Faucillon   Elsa,1,1
+Martin   Didier,Pouzyreff   Natalia,0,1
+Martin   Didier,de Vaucouleurs   Michèle,0,1
+Martin   Didier,Magne   Marie-Ange,0,1
+Martin   Didier,Villani   Cédric,0,1
+Martin   Didier,Ali   Ramlati,0,1
+Charvier   Fannette,Le Feur   Sandrine,1,1
+Charvier   Fannette,Cazeneuve   Jean-René,1,1
+Charvier   Fannette,Nogal   Mickaël,1,1
+Charvier   Fannette,Tanguy   Liliana,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,Mirallès   Patricia,1,1
+Charvier   Fannette,Ressiguier   Muriel,0,1
+Charvier   Fannette,Cloarec-Le Nabour   Christine,1,1
+Charvier   Fannette,Labaronne   Daniel,1,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Meynier-Millefert   Marjolaine,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Kuric   Aina,1,1
+Charvier   Fannette,Magnier   Lise,0,1
+Charvier   Fannette,Cariou   Émilie,1,1
+Charvier   Fannette,Le Peih   Nicole,1,1
+Charvier   Fannette,Lioger   Richard,1,1
+Charvier   Fannette,Paluszkiewicz   Xavier,1,1
+Charvier   Fannette,Osson   Catherine,1,1
+Charvier   Fannette,Goulet   Perrine,1,1
+Charvier   Fannette,Potterie   Benoit,1,1
+Charvier   Fannette,Dumont   Pierre-Henri,0,1
+Charvier   Fannette,Mattei   Jean-Paul,1,1
+Charvier   Fannette,Mbaye   Jean François,1,1
+Charvier   Fannette,Saint-Martin   Laurent,1,1
+Charvier   Fannette,Da Silva   Dominique,1,1
+Charvier   Fannette,Genetet   Anne,1,1
+Charvier   Fannette,Ratenon   Jean-Hugues,0,1
+Charvier   Fannette,Charrière   Sylvie,1,1
+Charvier   Fannette,Petit   Maud,0,1
+Charvier   Fannette,Gaillot   Albane,1,1
+Charvier   Fannette,Peu   Stéphane,0,1
+Charvier   Fannette,Ramadier   Alain,0,1
+Charvier   Fannette,Bonnivard   Émilie,0,1
+Charvier   Fannette,Lenne   Marion,1,1
+Charvier   Fannette,Roseren   Xavier,1,1
+Charvier   Fannette,Guerini   Stanislas,1,1
+Charvier   Fannette,Verdier-Jouclas   Marie-Christine,1,1
+Charvier   Fannette,Person   Pierre,1,1
+Charvier   Fannette,Calvez   Céline,1,1
+Charvier   Fannette,Gomez-Bassac   Valérie,1,1
+Charvier   Fannette,Barrot   Jean-Noël,1,1
+Charvier   Fannette,Morenas   Adrien,1,1
+Charvier   Fannette,Faucillon   Elsa,0,1
+Charvier   Fannette,Pouzyreff   Natalia,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,0,1
+Charvier   Fannette,Magne   Marie-Ange,1,1
+Charvier   Fannette,Villani   Cédric,1,1
+Charvier   Fannette,Ali   Ramlati,1,1
+Le Feur   Sandrine,Cazeneuve   Jean-René,1,1
+Le Feur   Sandrine,Nogal   Mickaël,1,1
+Le Feur   Sandrine,Tanguy   Liliana,1,1
+Le Feur   Sandrine,Ménard   Emmanuelle,0,1
+Le Feur   Sandrine,Mirallès   Patricia,1,1
+Le Feur   Sandrine,Ressiguier   Muriel,0,1
+Le Feur   Sandrine,Cloarec-Le Nabour   Christine,1,1
+Le Feur   Sandrine,Labaronne   Daniel,1,1
+Le Feur   Sandrine,Motin   Cendra,1,1
+Le Feur   Sandrine,Meynier-Millefert   Marjolaine,1,1
+Le Feur   Sandrine,Borowczyk   Julien,1,1
+Le Feur   Sandrine,Kuric   Aina,1,1
+Le Feur   Sandrine,Magnier   Lise,0,1
+Le Feur   Sandrine,Cariou   Émilie,1,1
+Le Feur   Sandrine,Le Peih   Nicole,1,1
+Le Feur   Sandrine,Lioger   Richard,1,1
+Le Feur   Sandrine,Paluszkiewicz   Xavier,1,1
+Le Feur   Sandrine,Osson   Catherine,1,1
+Le Feur   Sandrine,Goulet   Perrine,1,1
+Le Feur   Sandrine,Potterie   Benoit,1,1
+Le Feur   Sandrine,Dumont   Pierre-Henri,0,1
+Le Feur   Sandrine,Mattei   Jean-Paul,1,1
+Le Feur   Sandrine,Mbaye   Jean François,1,1
+Le Feur   Sandrine,Saint-Martin   Laurent,1,1
+Le Feur   Sandrine,Da Silva   Dominique,1,1
+Le Feur   Sandrine,Genetet   Anne,1,1
+Le Feur   Sandrine,Ratenon   Jean-Hugues,0,1
+Le Feur   Sandrine,Charrière   Sylvie,1,1
+Le Feur   Sandrine,Petit   Maud,0,1
+Le Feur   Sandrine,Gaillot   Albane,1,1
+Le Feur   Sandrine,Peu   Stéphane,0,1
+Le Feur   Sandrine,Ramadier   Alain,0,1
+Le Feur   Sandrine,Bonnivard   Émilie,0,1
+Le Feur   Sandrine,Lenne   Marion,1,1
+Le Feur   Sandrine,Roseren   Xavier,1,1
+Le Feur   Sandrine,Guerini   Stanislas,1,1
+Le Feur   Sandrine,Verdier-Jouclas   Marie-Christine,1,1
+Le Feur   Sandrine,Person   Pierre,1,1
+Le Feur   Sandrine,Calvez   Céline,1,1
+Le Feur   Sandrine,Gomez-Bassac   Valérie,1,1
+Le Feur   Sandrine,Barrot   Jean-Noël,1,1
+Le Feur   Sandrine,Morenas   Adrien,1,1
+Le Feur   Sandrine,Faucillon   Elsa,0,1
+Le Feur   Sandrine,Pouzyreff   Natalia,1,1
+Le Feur   Sandrine,de Vaucouleurs   Michèle,0,1
+Le Feur   Sandrine,Magne   Marie-Ange,1,1
+Le Feur   Sandrine,Villani   Cédric,1,1
+Le Feur   Sandrine,Ali   Ramlati,1,1
+Cazeneuve   Jean-René,Nogal   Mickaël,1,1
+Cazeneuve   Jean-René,Tanguy   Liliana,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,Mirallès   Patricia,1,1
+Cazeneuve   Jean-René,Ressiguier   Muriel,0,1
+Cazeneuve   Jean-René,Cloarec-Le Nabour   Christine,1,1
+Cazeneuve   Jean-René,Labaronne   Daniel,1,1
+Cazeneuve   Jean-René,Motin   Cendra,1,1
+Cazeneuve   Jean-René,Meynier-Millefert   Marjolaine,1,1
+Cazeneuve   Jean-René,Borowczyk   Julien,1,1
+Cazeneuve   Jean-René,Kuric   Aina,1,1
+Cazeneuve   Jean-René,Magnier   Lise,0,1
+Cazeneuve   Jean-René,Cariou   Émilie,1,1
+Cazeneuve   Jean-René,Le Peih   Nicole,1,1
+Cazeneuve   Jean-René,Lioger   Richard,1,1
+Cazeneuve   Jean-René,Paluszkiewicz   Xavier,1,1
+Cazeneuve   Jean-René,Osson   Catherine,1,1
+Cazeneuve   Jean-René,Goulet   Perrine,1,1
+Cazeneuve   Jean-René,Potterie   Benoit,1,1
+Cazeneuve   Jean-René,Dumont   Pierre-Henri,0,1
+Cazeneuve   Jean-René,Mattei   Jean-Paul,1,1
+Cazeneuve   Jean-René,Mbaye   Jean François,1,1
+Cazeneuve   Jean-René,Saint-Martin   Laurent,1,1
+Cazeneuve   Jean-René,Da Silva   Dominique,1,1
+Cazeneuve   Jean-René,Genetet   Anne,1,1
+Cazeneuve   Jean-René,Ratenon   Jean-Hugues,0,1
+Cazeneuve   Jean-René,Charrière   Sylvie,1,1
+Cazeneuve   Jean-René,Petit   Maud,0,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Peu   Stéphane,0,1
+Cazeneuve   Jean-René,Ramadier   Alain,0,1
+Cazeneuve   Jean-René,Bonnivard   Émilie,0,1
+Cazeneuve   Jean-René,Lenne   Marion,1,1
+Cazeneuve   Jean-René,Roseren   Xavier,1,1
+Cazeneuve   Jean-René,Guerini   Stanislas,1,1
+Cazeneuve   Jean-René,Verdier-Jouclas   Marie-Christine,1,1
+Cazeneuve   Jean-René,Person   Pierre,1,1
+Cazeneuve   Jean-René,Calvez   Céline,1,1
+Cazeneuve   Jean-René,Gomez-Bassac   Valérie,1,1
+Cazeneuve   Jean-René,Barrot   Jean-Noël,1,1
+Cazeneuve   Jean-René,Morenas   Adrien,1,1
+Cazeneuve   Jean-René,Faucillon   Elsa,0,1
+Cazeneuve   Jean-René,Pouzyreff   Natalia,1,1
+Cazeneuve   Jean-René,de Vaucouleurs   Michèle,0,1
+Cazeneuve   Jean-René,Magne   Marie-Ange,1,1
+Cazeneuve   Jean-René,Villani   Cédric,1,1
+Cazeneuve   Jean-René,Ali   Ramlati,1,1
+Nogal   Mickaël,Tanguy   Liliana,1,1
+Nogal   Mickaël,Ménard   Emmanuelle,0,1
+Nogal   Mickaël,Mirallès   Patricia,1,1
+Nogal   Mickaël,Ressiguier   Muriel,0,1
+Nogal   Mickaël,Cloarec-Le Nabour   Christine,1,1
+Nogal   Mickaël,Labaronne   Daniel,1,1
+Nogal   Mickaël,Motin   Cendra,1,1
+Nogal   Mickaël,Meynier-Millefert   Marjolaine,1,1
+Nogal   Mickaël,Borowczyk   Julien,1,1
+Nogal   Mickaël,Kuric   Aina,1,1
+Nogal   Mickaël,Magnier   Lise,0,1
+Nogal   Mickaël,Cariou   Émilie,1,1
+Nogal   Mickaël,Le Peih   Nicole,1,1
+Nogal   Mickaël,Lioger   Richard,1,1
+Nogal   Mickaël,Paluszkiewicz   Xavier,1,1
+Nogal   Mickaël,Osson   Catherine,1,1
+Nogal   Mickaël,Goulet   Perrine,1,1
+Nogal   Mickaël,Potterie   Benoit,1,1
+Nogal   Mickaël,Dumont   Pierre-Henri,0,1
+Nogal   Mickaël,Mattei   Jean-Paul,1,1
+Nogal   Mickaël,Mbaye   Jean François,1,1
+Nogal   Mickaël,Saint-Martin   Laurent,1,1
+Nogal   Mickaël,Da Silva   Dominique,1,1
+Nogal   Mickaël,Genetet   Anne,1,1
+Nogal   Mickaël,Ratenon   Jean-Hugues,0,1
+Nogal   Mickaël,Charrière   Sylvie,1,1
+Nogal   Mickaël,Petit   Maud,0,1
+Nogal   Mickaël,Gaillot   Albane,1,1
+Nogal   Mickaël,Peu   Stéphane,0,1
+Nogal   Mickaël,Ramadier   Alain,0,1
+Nogal   Mickaël,Bonnivard   Émilie,0,1
+Nogal   Mickaël,Lenne   Marion,1,1
+Nogal   Mickaël,Roseren   Xavier,1,1
+Nogal   Mickaël,Guerini   Stanislas,1,1
+Nogal   Mickaël,Verdier-Jouclas   Marie-Christine,1,1
+Nogal   Mickaël,Person   Pierre,1,1
+Nogal   Mickaël,Calvez   Céline,1,1
+Nogal   Mickaël,Gomez-Bassac   Valérie,1,1
+Nogal   Mickaël,Barrot   Jean-Noël,1,1
+Nogal   Mickaël,Morenas   Adrien,1,1
+Nogal   Mickaël,Faucillon   Elsa,0,1
+Nogal   Mickaël,Pouzyreff   Natalia,1,1
+Nogal   Mickaël,de Vaucouleurs   Michèle,0,1
+Nogal   Mickaël,Magne   Marie-Ange,1,1
+Nogal   Mickaël,Villani   Cédric,1,1
+Nogal   Mickaël,Ali   Ramlati,1,1
+Tanguy   Liliana,Ménard   Emmanuelle,0,1
+Tanguy   Liliana,Mirallès   Patricia,1,1
+Tanguy   Liliana,Ressiguier   Muriel,0,1
+Tanguy   Liliana,Cloarec-Le Nabour   Christine,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Motin   Cendra,1,1
+Tanguy   Liliana,Meynier-Millefert   Marjolaine,1,1
+Tanguy   Liliana,Borowczyk   Julien,1,1
+Tanguy   Liliana,Kuric   Aina,1,1
+Tanguy   Liliana,Magnier   Lise,0,1
+Tanguy   Liliana,Cariou   Émilie,1,1
+Tanguy   Liliana,Le Peih   Nicole,1,1
+Tanguy   Liliana,Lioger   Richard,1,1
+Tanguy   Liliana,Paluszkiewicz   Xavier,1,1
+Tanguy   Liliana,Osson   Catherine,1,1
+Tanguy   Liliana,Goulet   Perrine,1,1
+Tanguy   Liliana,Potterie   Benoit,1,1
+Tanguy   Liliana,Dumont   Pierre-Henri,0,1
+Tanguy   Liliana,Mattei   Jean-Paul,1,1
+Tanguy   Liliana,Mbaye   Jean François,1,1
+Tanguy   Liliana,Saint-Martin   Laurent,1,1
+Tanguy   Liliana,Da Silva   Dominique,1,1
+Tanguy   Liliana,Genetet   Anne,1,1
+Tanguy   Liliana,Ratenon   Jean-Hugues,0,1
+Tanguy   Liliana,Charrière   Sylvie,1,1
+Tanguy   Liliana,Petit   Maud,0,1
+Tanguy   Liliana,Gaillot   Albane,1,1
+Tanguy   Liliana,Peu   Stéphane,0,1
+Tanguy   Liliana,Ramadier   Alain,0,1
+Tanguy   Liliana,Bonnivard   Émilie,0,1
+Tanguy   Liliana,Lenne   Marion,1,1
+Tanguy   Liliana,Roseren   Xavier,1,1
+Tanguy   Liliana,Guerini   Stanislas,1,1
+Tanguy   Liliana,Verdier-Jouclas   Marie-Christine,1,1
+Tanguy   Liliana,Person   Pierre,1,1
+Tanguy   Liliana,Calvez   Céline,1,1
+Tanguy   Liliana,Gomez-Bassac   Valérie,1,1
+Tanguy   Liliana,Barrot   Jean-Noël,1,1
+Tanguy   Liliana,Morenas   Adrien,1,1
+Tanguy   Liliana,Faucillon   Elsa,0,1
+Tanguy   Liliana,Pouzyreff   Natalia,1,1
+Tanguy   Liliana,de Vaucouleurs   Michèle,0,1
+Tanguy   Liliana,Magne   Marie-Ange,1,1
+Tanguy   Liliana,Villani   Cédric,1,1
+Tanguy   Liliana,Ali   Ramlati,1,1
+Ménard   Emmanuelle,Mirallès   Patricia,0,1
+Ménard   Emmanuelle,Ressiguier   Muriel,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Meynier-Millefert   Marjolaine,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Kuric   Aina,0,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Cariou   Émilie,0,1
+Ménard   Emmanuelle,Le Peih   Nicole,0,1
+Ménard   Emmanuelle,Lioger   Richard,0,1
+Ménard   Emmanuelle,Paluszkiewicz   Xavier,0,1
+Ménard   Emmanuelle,Osson   Catherine,0,1
+Ménard   Emmanuelle,Goulet   Perrine,0,1
+Ménard   Emmanuelle,Potterie   Benoit,0,1
+Ménard   Emmanuelle,Dumont   Pierre-Henri,1,1
+Ménard   Emmanuelle,Mattei   Jean-Paul,0,1
+Ménard   Emmanuelle,Mbaye   Jean François,0,1
+Ménard   Emmanuelle,Saint-Martin   Laurent,0,1
+Ménard   Emmanuelle,Da Silva   Dominique,0,1
+Ménard   Emmanuelle,Genetet   Anne,0,1
+Ménard   Emmanuelle,Ratenon   Jean-Hugues,1,1
+Ménard   Emmanuelle,Charrière   Sylvie,0,1
+Ménard   Emmanuelle,Petit   Maud,0,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Peu   Stéphane,1,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Bonnivard   Émilie,1,1
+Ménard   Emmanuelle,Lenne   Marion,0,1
+Ménard   Emmanuelle,Roseren   Xavier,0,1
+Ménard   Emmanuelle,Guerini   Stanislas,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Person   Pierre,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Gomez-Bassac   Valérie,0,1
+Ménard   Emmanuelle,Barrot   Jean-Noël,0,1
+Ménard   Emmanuelle,Morenas   Adrien,0,1
+Ménard   Emmanuelle,Faucillon   Elsa,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Magne   Marie-Ange,0,1
+Ménard   Emmanuelle,Villani   Cédric,0,1
+Ménard   Emmanuelle,Ali   Ramlati,0,1
+Mirallès   Patricia,Ressiguier   Muriel,0,1
+Mirallès   Patricia,Cloarec-Le Nabour   Christine,1,1
+Mirallès   Patricia,Labaronne   Daniel,1,1
+Mirallès   Patricia,Motin   Cendra,1,1
+Mirallès   Patricia,Meynier-Millefert   Marjolaine,1,1
+Mirallès   Patricia,Borowczyk   Julien,1,1
+Mirallès   Patricia,Kuric   Aina,1,1
+Mirallès   Patricia,Magnier   Lise,0,1
+Mirallès   Patricia,Cariou   Émilie,1,1
+Mirallès   Patricia,Le Peih   Nicole,1,1
+Mirallès   Patricia,Lioger   Richard,1,1
+Mirallès   Patricia,Paluszkiewicz   Xavier,1,1
+Mirallès   Patricia,Osson   Catherine,1,1
+Mirallès   Patricia,Goulet   Perrine,1,1
+Mirallès   Patricia,Potterie   Benoit,1,1
+Mirallès   Patricia,Dumont   Pierre-Henri,0,1
+Mirallès   Patricia,Mattei   Jean-Paul,1,1
+Mirallès   Patricia,Mbaye   Jean François,1,1
+Mirallès   Patricia,Saint-Martin   Laurent,1,1
+Mirallès   Patricia,Da Silva   Dominique,1,1
+Mirallès   Patricia,Genetet   Anne,1,1
+Mirallès   Patricia,Ratenon   Jean-Hugues,0,1
+Mirallès   Patricia,Charrière   Sylvie,1,1
+Mirallès   Patricia,Petit   Maud,0,1
+Mirallès   Patricia,Gaillot   Albane,1,1
+Mirallès   Patricia,Peu   Stéphane,0,1
+Mirallès   Patricia,Ramadier   Alain,0,1
+Mirallès   Patricia,Bonnivard   Émilie,0,1
+Mirallès   Patricia,Lenne   Marion,1,1
+Mirallès   Patricia,Roseren   Xavier,1,1
+Mirallès   Patricia,Guerini   Stanislas,1,1
+Mirallès   Patricia,Verdier-Jouclas   Marie-Christine,1,1
+Mirallès   Patricia,Person   Pierre,1,1
+Mirallès   Patricia,Calvez   Céline,1,1
+Mirallès   Patricia,Gomez-Bassac   Valérie,1,1
+Mirallès   Patricia,Barrot   Jean-Noël,1,1
+Mirallès   Patricia,Morenas   Adrien,1,1
+Mirallès   Patricia,Faucillon   Elsa,0,1
+Mirallès   Patricia,Pouzyreff   Natalia,1,1
+Mirallès   Patricia,de Vaucouleurs   Michèle,0,1
+Mirallès   Patricia,Magne   Marie-Ange,1,1
+Mirallès   Patricia,Villani   Cédric,1,1
+Mirallès   Patricia,Ali   Ramlati,1,1
+Ressiguier   Muriel,Cloarec-Le Nabour   Christine,0,1
+Ressiguier   Muriel,Labaronne   Daniel,0,1
+Ressiguier   Muriel,Motin   Cendra,0,1
+Ressiguier   Muriel,Meynier-Millefert   Marjolaine,0,1
+Ressiguier   Muriel,Borowczyk   Julien,0,1
+Ressiguier   Muriel,Kuric   Aina,0,1
+Ressiguier   Muriel,Magnier   Lise,0,1
+Ressiguier   Muriel,Cariou   Émilie,0,1
+Ressiguier   Muriel,Le Peih   Nicole,0,1
+Ressiguier   Muriel,Lioger   Richard,0,1
+Ressiguier   Muriel,Paluszkiewicz   Xavier,0,1
+Ressiguier   Muriel,Osson   Catherine,0,1
+Ressiguier   Muriel,Goulet   Perrine,0,1
+Ressiguier   Muriel,Potterie   Benoit,0,1
+Ressiguier   Muriel,Dumont   Pierre-Henri,1,1
+Ressiguier   Muriel,Mattei   Jean-Paul,0,1
+Ressiguier   Muriel,Mbaye   Jean François,0,1
+Ressiguier   Muriel,Saint-Martin   Laurent,0,1
+Ressiguier   Muriel,Da Silva   Dominique,0,1
+Ressiguier   Muriel,Genetet   Anne,0,1
+Ressiguier   Muriel,Ratenon   Jean-Hugues,1,1
+Ressiguier   Muriel,Charrière   Sylvie,0,1
+Ressiguier   Muriel,Petit   Maud,0,1
+Ressiguier   Muriel,Gaillot   Albane,0,1
+Ressiguier   Muriel,Peu   Stéphane,1,1
+Ressiguier   Muriel,Ramadier   Alain,1,1
+Ressiguier   Muriel,Bonnivard   Émilie,1,1
+Ressiguier   Muriel,Lenne   Marion,0,1
+Ressiguier   Muriel,Roseren   Xavier,0,1
+Ressiguier   Muriel,Guerini   Stanislas,0,1
+Ressiguier   Muriel,Verdier-Jouclas   Marie-Christine,0,1
+Ressiguier   Muriel,Person   Pierre,0,1
+Ressiguier   Muriel,Calvez   Céline,0,1
+Ressiguier   Muriel,Gomez-Bassac   Valérie,0,1
+Ressiguier   Muriel,Barrot   Jean-Noël,0,1
+Ressiguier   Muriel,Morenas   Adrien,0,1
+Ressiguier   Muriel,Faucillon   Elsa,1,1
+Ressiguier   Muriel,Pouzyreff   Natalia,0,1
+Ressiguier   Muriel,de Vaucouleurs   Michèle,0,1
+Ressiguier   Muriel,Magne   Marie-Ange,0,1
+Ressiguier   Muriel,Villani   Cédric,0,1
+Ressiguier   Muriel,Ali   Ramlati,0,1
+Cloarec-Le Nabour   Christine,Labaronne   Daniel,1,1
+Cloarec-Le Nabour   Christine,Motin   Cendra,1,1
+Cloarec-Le Nabour   Christine,Meynier-Millefert   Marjolaine,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Kuric   Aina,1,1
+Cloarec-Le Nabour   Christine,Magnier   Lise,0,1
+Cloarec-Le Nabour   Christine,Cariou   Émilie,1,1
+Cloarec-Le Nabour   Christine,Le Peih   Nicole,1,1
+Cloarec-Le Nabour   Christine,Lioger   Richard,1,1
+Cloarec-Le Nabour   Christine,Paluszkiewicz   Xavier,1,1
+Cloarec-Le Nabour   Christine,Osson   Catherine,1,1
+Cloarec-Le Nabour   Christine,Goulet   Perrine,1,1
+Cloarec-Le Nabour   Christine,Potterie   Benoit,1,1
+Cloarec-Le Nabour   Christine,Dumont   Pierre-Henri,0,1
+Cloarec-Le Nabour   Christine,Mattei   Jean-Paul,1,1
+Cloarec-Le Nabour   Christine,Mbaye   Jean François,1,1
+Cloarec-Le Nabour   Christine,Saint-Martin   Laurent,1,1
+Cloarec-Le Nabour   Christine,Da Silva   Dominique,1,1
+Cloarec-Le Nabour   Christine,Genetet   Anne,1,1
+Cloarec-Le Nabour   Christine,Ratenon   Jean-Hugues,0,1
+Cloarec-Le Nabour   Christine,Charrière   Sylvie,1,1
+Cloarec-Le Nabour   Christine,Petit   Maud,0,1
+Cloarec-Le Nabour   Christine,Gaillot   Albane,1,1
+Cloarec-Le Nabour   Christine,Peu   Stéphane,0,1
+Cloarec-Le Nabour   Christine,Ramadier   Alain,0,1
+Cloarec-Le Nabour   Christine,Bonnivard   Émilie,0,1
+Cloarec-Le Nabour   Christine,Lenne   Marion,1,1
+Cloarec-Le Nabour   Christine,Roseren   Xavier,1,1
+Cloarec-Le Nabour   Christine,Guerini   Stanislas,1,1
+Cloarec-Le Nabour   Christine,Verdier-Jouclas   Marie-Christine,1,1
+Cloarec-Le Nabour   Christine,Person   Pierre,1,1
+Cloarec-Le Nabour   Christine,Calvez   Céline,1,1
+Cloarec-Le Nabour   Christine,Gomez-Bassac   Valérie,1,1
+Cloarec-Le Nabour   Christine,Barrot   Jean-Noël,1,1
+Cloarec-Le Nabour   Christine,Morenas   Adrien,1,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,0,1
+Cloarec-Le Nabour   Christine,Pouzyreff   Natalia,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,0,1
+Cloarec-Le Nabour   Christine,Magne   Marie-Ange,1,1
+Cloarec-Le Nabour   Christine,Villani   Cédric,1,1
+Cloarec-Le Nabour   Christine,Ali   Ramlati,1,1
+Labaronne   Daniel,Motin   Cendra,1,1
+Labaronne   Daniel,Meynier-Millefert   Marjolaine,1,1
+Labaronne   Daniel,Borowczyk   Julien,1,1
+Labaronne   Daniel,Kuric   Aina,1,1
+Labaronne   Daniel,Magnier   Lise,0,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Lioger   Richard,1,1
+Labaronne   Daniel,Paluszkiewicz   Xavier,1,1
+Labaronne   Daniel,Osson   Catherine,1,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Potterie   Benoit,1,1
+Labaronne   Daniel,Dumont   Pierre-Henri,0,1
+Labaronne   Daniel,Mattei   Jean-Paul,1,1
+Labaronne   Daniel,Mbaye   Jean François,1,1
+Labaronne   Daniel,Saint-Martin   Laurent,1,1
+Labaronne   Daniel,Da Silva   Dominique,1,1
+Labaronne   Daniel,Genetet   Anne,1,1
+Labaronne   Daniel,Ratenon   Jean-Hugues,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Petit   Maud,0,1
+Labaronne   Daniel,Gaillot   Albane,1,1
+Labaronne   Daniel,Peu   Stéphane,0,1
+Labaronne   Daniel,Ramadier   Alain,0,1
+Labaronne   Daniel,Bonnivard   Émilie,0,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Roseren   Xavier,1,1
+Labaronne   Daniel,Guerini   Stanislas,1,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Person   Pierre,1,1
+Labaronne   Daniel,Calvez   Céline,1,1
+Labaronne   Daniel,Gomez-Bassac   Valérie,1,1
+Labaronne   Daniel,Barrot   Jean-Noël,1,1
+Labaronne   Daniel,Morenas   Adrien,1,1
+Labaronne   Daniel,Faucillon   Elsa,0,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,de Vaucouleurs   Michèle,0,1
+Labaronne   Daniel,Magne   Marie-Ange,1,1
+Labaronne   Daniel,Villani   Cédric,1,1
+Labaronne   Daniel,Ali   Ramlati,1,1
+Motin   Cendra,Meynier-Millefert   Marjolaine,1,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Kuric   Aina,1,1
+Motin   Cendra,Magnier   Lise,0,1
+Motin   Cendra,Cariou   Émilie,1,1
+Motin   Cendra,Le Peih   Nicole,1,1
+Motin   Cendra,Lioger   Richard,1,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Osson   Catherine,1,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Potterie   Benoit,1,1
+Motin   Cendra,Dumont   Pierre-Henri,0,1
+Motin   Cendra,Mattei   Jean-Paul,1,1
+Motin   Cendra,Mbaye   Jean François,1,1
+Motin   Cendra,Saint-Martin   Laurent,1,1
+Motin   Cendra,Da Silva   Dominique,1,1
+Motin   Cendra,Genetet   Anne,1,1
+Motin   Cendra,Ratenon   Jean-Hugues,0,1
+Motin   Cendra,Charrière   Sylvie,1,1
+Motin   Cendra,Petit   Maud,0,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Peu   Stéphane,0,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Bonnivard   Émilie,0,1
+Motin   Cendra,Lenne   Marion,1,1
+Motin   Cendra,Roseren   Xavier,1,1
+Motin   Cendra,Guerini   Stanislas,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Person   Pierre,1,1
+Motin   Cendra,Calvez   Céline,1,1
+Motin   Cendra,Gomez-Bassac   Valérie,1,1
+Motin   Cendra,Barrot   Jean-Noël,1,1
+Motin   Cendra,Morenas   Adrien,1,1
+Motin   Cendra,Faucillon   Elsa,0,1
+Motin   Cendra,Pouzyreff   Natalia,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,0,1
+Motin   Cendra,Magne   Marie-Ange,1,1
+Motin   Cendra,Villani   Cédric,1,1
+Motin   Cendra,Ali   Ramlati,1,1
+Meynier-Millefert   Marjolaine,Borowczyk   Julien,1,1
+Meynier-Millefert   Marjolaine,Kuric   Aina,1,1
+Meynier-Millefert   Marjolaine,Magnier   Lise,0,1
+Meynier-Millefert   Marjolaine,Cariou   Émilie,1,1
+Meynier-Millefert   Marjolaine,Le Peih   Nicole,1,1
+Meynier-Millefert   Marjolaine,Lioger   Richard,1,1
+Meynier-Millefert   Marjolaine,Paluszkiewicz   Xavier,1,1
+Meynier-Millefert   Marjolaine,Osson   Catherine,1,1
+Meynier-Millefert   Marjolaine,Goulet   Perrine,1,1
+Meynier-Millefert   Marjolaine,Potterie   Benoit,1,1
+Meynier-Millefert   Marjolaine,Dumont   Pierre-Henri,0,1
+Meynier-Millefert   Marjolaine,Mattei   Jean-Paul,1,1
+Meynier-Millefert   Marjolaine,Mbaye   Jean François,1,1
+Meynier-Millefert   Marjolaine,Saint-Martin   Laurent,1,1
+Meynier-Millefert   Marjolaine,Da Silva   Dominique,1,1
+Meynier-Millefert   Marjolaine,Genetet   Anne,1,1
+Meynier-Millefert   Marjolaine,Ratenon   Jean-Hugues,0,1
+Meynier-Millefert   Marjolaine,Charrière   Sylvie,1,1
+Meynier-Millefert   Marjolaine,Petit   Maud,0,1
+Meynier-Millefert   Marjolaine,Gaillot   Albane,1,1
+Meynier-Millefert   Marjolaine,Peu   Stéphane,0,1
+Meynier-Millefert   Marjolaine,Ramadier   Alain,0,1
+Meynier-Millefert   Marjolaine,Bonnivard   Émilie,0,1
+Meynier-Millefert   Marjolaine,Lenne   Marion,1,1
+Meynier-Millefert   Marjolaine,Roseren   Xavier,1,1
+Meynier-Millefert   Marjolaine,Guerini   Stanislas,1,1
+Meynier-Millefert   Marjolaine,Verdier-Jouclas   Marie-Christine,1,1
+Meynier-Millefert   Marjolaine,Person   Pierre,1,1
+Meynier-Millefert   Marjolaine,Calvez   Céline,1,1
+Meynier-Millefert   Marjolaine,Gomez-Bassac   Valérie,1,1
+Meynier-Millefert   Marjolaine,Barrot   Jean-Noël,1,1
+Meynier-Millefert   Marjolaine,Morenas   Adrien,1,1
+Meynier-Millefert   Marjolaine,Faucillon   Elsa,0,1
+Meynier-Millefert   Marjolaine,Pouzyreff   Natalia,1,1
+Meynier-Millefert   Marjolaine,de Vaucouleurs   Michèle,0,1
+Meynier-Millefert   Marjolaine,Magne   Marie-Ange,1,1
+Meynier-Millefert   Marjolaine,Villani   Cédric,1,1
+Meynier-Millefert   Marjolaine,Ali   Ramlati,1,1
+Borowczyk   Julien,Kuric   Aina,1,1
+Borowczyk   Julien,Magnier   Lise,0,1
+Borowczyk   Julien,Cariou   Émilie,1,1
+Borowczyk   Julien,Le Peih   Nicole,1,1
+Borowczyk   Julien,Lioger   Richard,1,1
+Borowczyk   Julien,Paluszkiewicz   Xavier,1,1
+Borowczyk   Julien,Osson   Catherine,1,1
+Borowczyk   Julien,Goulet   Perrine,1,1
+Borowczyk   Julien,Potterie   Benoit,1,1
+Borowczyk   Julien,Dumont   Pierre-Henri,0,1
+Borowczyk   Julien,Mattei   Jean-Paul,1,1
+Borowczyk   Julien,Mbaye   Jean François,1,1
+Borowczyk   Julien,Saint-Martin   Laurent,1,1
+Borowczyk   Julien,Da Silva   Dominique,1,1
+Borowczyk   Julien,Genetet   Anne,1,1
+Borowczyk   Julien,Ratenon   Jean-Hugues,0,1
+Borowczyk   Julien,Charrière   Sylvie,1,1
+Borowczyk   Julien,Petit   Maud,0,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Peu   Stéphane,0,1
+Borowczyk   Julien,Ramadier   Alain,0,1
+Borowczyk   Julien,Bonnivard   Émilie,0,1
+Borowczyk   Julien,Lenne   Marion,1,1
+Borowczyk   Julien,Roseren   Xavier,1,1
+Borowczyk   Julien,Guerini   Stanislas,1,1
+Borowczyk   Julien,Verdier-Jouclas   Marie-Christine,1,1
+Borowczyk   Julien,Person   Pierre,1,1
+Borowczyk   Julien,Calvez   Céline,1,1
+Borowczyk   Julien,Gomez-Bassac   Valérie,1,1
+Borowczyk   Julien,Barrot   Jean-Noël,1,1
+Borowczyk   Julien,Morenas   Adrien,1,1
+Borowczyk   Julien,Faucillon   Elsa,0,1
+Borowczyk   Julien,Pouzyreff   Natalia,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,0,1
+Borowczyk   Julien,Magne   Marie-Ange,1,1
+Borowczyk   Julien,Villani   Cédric,1,1
+Borowczyk   Julien,Ali   Ramlati,1,1
+Kuric   Aina,Magnier   Lise,0,1
+Kuric   Aina,Cariou   Émilie,1,1
+Kuric   Aina,Le Peih   Nicole,1,1
+Kuric   Aina,Lioger   Richard,1,1
+Kuric   Aina,Paluszkiewicz   Xavier,1,1
+Kuric   Aina,Osson   Catherine,1,1
+Kuric   Aina,Goulet   Perrine,1,1
+Kuric   Aina,Potterie   Benoit,1,1
+Kuric   Aina,Dumont   Pierre-Henri,0,1
+Kuric   Aina,Mattei   Jean-Paul,1,1
+Kuric   Aina,Mbaye   Jean François,1,1
+Kuric   Aina,Saint-Martin   Laurent,1,1
+Kuric   Aina,Da Silva   Dominique,1,1
+Kuric   Aina,Genetet   Anne,1,1
+Kuric   Aina,Ratenon   Jean-Hugues,0,1
+Kuric   Aina,Charrière   Sylvie,1,1
+Kuric   Aina,Petit   Maud,0,1
+Kuric   Aina,Gaillot   Albane,1,1
+Kuric   Aina,Peu   Stéphane,0,1
+Kuric   Aina,Ramadier   Alain,0,1
+Kuric   Aina,Bonnivard   Émilie,0,1
+Kuric   Aina,Lenne   Marion,1,1
+Kuric   Aina,Roseren   Xavier,1,1
+Kuric   Aina,Guerini   Stanislas,1,1
+Kuric   Aina,Verdier-Jouclas   Marie-Christine,1,1
+Kuric   Aina,Person   Pierre,1,1
+Kuric   Aina,Calvez   Céline,1,1
+Kuric   Aina,Gomez-Bassac   Valérie,1,1
+Kuric   Aina,Barrot   Jean-Noël,1,1
+Kuric   Aina,Morenas   Adrien,1,1
+Kuric   Aina,Faucillon   Elsa,0,1
+Kuric   Aina,Pouzyreff   Natalia,1,1
+Kuric   Aina,de Vaucouleurs   Michèle,0,1
+Kuric   Aina,Magne   Marie-Ange,1,1
+Kuric   Aina,Villani   Cédric,1,1
+Kuric   Aina,Ali   Ramlati,1,1
+Magnier   Lise,Cariou   Émilie,0,1
+Magnier   Lise,Le Peih   Nicole,0,1
+Magnier   Lise,Lioger   Richard,0,1
+Magnier   Lise,Paluszkiewicz   Xavier,0,1
+Magnier   Lise,Osson   Catherine,0,1
+Magnier   Lise,Goulet   Perrine,0,1
+Magnier   Lise,Potterie   Benoit,0,1
+Magnier   Lise,Dumont   Pierre-Henri,0,1
+Magnier   Lise,Mattei   Jean-Paul,0,1
+Magnier   Lise,Mbaye   Jean François,0,1
+Magnier   Lise,Saint-Martin   Laurent,0,1
+Magnier   Lise,Da Silva   Dominique,0,1
+Magnier   Lise,Genetet   Anne,0,1
+Magnier   Lise,Ratenon   Jean-Hugues,0,1
+Magnier   Lise,Charrière   Sylvie,0,1
+Magnier   Lise,Petit   Maud,1,1
+Magnier   Lise,Gaillot   Albane,0,1
+Magnier   Lise,Peu   Stéphane,0,1
+Magnier   Lise,Ramadier   Alain,0,1
+Magnier   Lise,Bonnivard   Émilie,0,1
+Magnier   Lise,Lenne   Marion,0,1
+Magnier   Lise,Roseren   Xavier,0,1
+Magnier   Lise,Guerini   Stanislas,0,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,0,1
+Magnier   Lise,Person   Pierre,0,1
+Magnier   Lise,Calvez   Céline,0,1
+Magnier   Lise,Gomez-Bassac   Valérie,0,1
+Magnier   Lise,Barrot   Jean-Noël,0,1
+Magnier   Lise,Morenas   Adrien,0,1
+Magnier   Lise,Faucillon   Elsa,0,1
+Magnier   Lise,Pouzyreff   Natalia,0,1
+Magnier   Lise,de Vaucouleurs   Michèle,1,1
+Magnier   Lise,Magne   Marie-Ange,0,1
+Magnier   Lise,Villani   Cédric,0,1
+Magnier   Lise,Ali   Ramlati,0,1
+Cariou   Émilie,Le Peih   Nicole,1,1
+Cariou   Émilie,Lioger   Richard,1,1
+Cariou   Émilie,Paluszkiewicz   Xavier,1,1
+Cariou   Émilie,Osson   Catherine,1,1
+Cariou   Émilie,Goulet   Perrine,1,1
+Cariou   Émilie,Potterie   Benoit,1,1
+Cariou   Émilie,Dumont   Pierre-Henri,0,1
+Cariou   Émilie,Mattei   Jean-Paul,1,1
+Cariou   Émilie,Mbaye   Jean François,1,1
+Cariou   Émilie,Saint-Martin   Laurent,1,1
+Cariou   Émilie,Da Silva   Dominique,1,1
+Cariou   Émilie,Genetet   Anne,1,1
+Cariou   Émilie,Ratenon   Jean-Hugues,0,1
+Cariou   Émilie,Charrière   Sylvie,1,1
+Cariou   Émilie,Petit   Maud,0,1
+Cariou   Émilie,Gaillot   Albane,1,1
+Cariou   Émilie,Peu   Stéphane,0,1
+Cariou   Émilie,Ramadier   Alain,0,1
+Cariou   Émilie,Bonnivard   Émilie,0,1
+Cariou   Émilie,Lenne   Marion,1,1
+Cariou   Émilie,Roseren   Xavier,1,1
+Cariou   Émilie,Guerini   Stanislas,1,1
+Cariou   Émilie,Verdier-Jouclas   Marie-Christine,1,1
+Cariou   Émilie,Person   Pierre,1,1
+Cariou   Émilie,Calvez   Céline,1,1
+Cariou   Émilie,Gomez-Bassac   Valérie,1,1
+Cariou   Émilie,Barrot   Jean-Noël,1,1
+Cariou   Émilie,Morenas   Adrien,1,1
+Cariou   Émilie,Faucillon   Elsa,0,1
+Cariou   Émilie,Pouzyreff   Natalia,1,1
+Cariou   Émilie,de Vaucouleurs   Michèle,0,1
+Cariou   Émilie,Magne   Marie-Ange,1,1
+Cariou   Émilie,Villani   Cédric,1,1
+Cariou   Émilie,Ali   Ramlati,1,1
+Le Peih   Nicole,Lioger   Richard,1,1
+Le Peih   Nicole,Paluszkiewicz   Xavier,1,1
+Le Peih   Nicole,Osson   Catherine,1,1
+Le Peih   Nicole,Goulet   Perrine,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Dumont   Pierre-Henri,0,1
+Le Peih   Nicole,Mattei   Jean-Paul,1,1
+Le Peih   Nicole,Mbaye   Jean François,1,1
+Le Peih   Nicole,Saint-Martin   Laurent,1,1
+Le Peih   Nicole,Da Silva   Dominique,1,1
+Le Peih   Nicole,Genetet   Anne,1,1
+Le Peih   Nicole,Ratenon   Jean-Hugues,0,1
+Le Peih   Nicole,Charrière   Sylvie,1,1
+Le Peih   Nicole,Petit   Maud,0,1
+Le Peih   Nicole,Gaillot   Albane,1,1
+Le Peih   Nicole,Peu   Stéphane,0,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Bonnivard   Émilie,0,1
+Le Peih   Nicole,Lenne   Marion,1,1
+Le Peih   Nicole,Roseren   Xavier,1,1
+Le Peih   Nicole,Guerini   Stanislas,1,1
+Le Peih   Nicole,Verdier-Jouclas   Marie-Christine,1,1
+Le Peih   Nicole,Person   Pierre,1,1
+Le Peih   Nicole,Calvez   Céline,1,1
+Le Peih   Nicole,Gomez-Bassac   Valérie,1,1
+Le Peih   Nicole,Barrot   Jean-Noël,1,1
+Le Peih   Nicole,Morenas   Adrien,1,1
+Le Peih   Nicole,Faucillon   Elsa,0,1
+Le Peih   Nicole,Pouzyreff   Natalia,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,0,1
+Le Peih   Nicole,Magne   Marie-Ange,1,1
+Le Peih   Nicole,Villani   Cédric,1,1
+Le Peih   Nicole,Ali   Ramlati,1,1
+Lioger   Richard,Paluszkiewicz   Xavier,1,1
+Lioger   Richard,Osson   Catherine,1,1
+Lioger   Richard,Goulet   Perrine,1,1
+Lioger   Richard,Potterie   Benoit,1,1
+Lioger   Richard,Dumont   Pierre-Henri,0,1
+Lioger   Richard,Mattei   Jean-Paul,1,1
+Lioger   Richard,Mbaye   Jean François,1,1
+Lioger   Richard,Saint-Martin   Laurent,1,1
+Lioger   Richard,Da Silva   Dominique,1,1
+Lioger   Richard,Genetet   Anne,1,1
+Lioger   Richard,Ratenon   Jean-Hugues,0,1
+Lioger   Richard,Charrière   Sylvie,1,1
+Lioger   Richard,Petit   Maud,0,1
+Lioger   Richard,Gaillot   Albane,1,1
+Lioger   Richard,Peu   Stéphane,0,1
+Lioger   Richard,Ramadier   Alain,0,1
+Lioger   Richard,Bonnivard   Émilie,0,1
+Lioger   Richard,Lenne   Marion,1,1
+Lioger   Richard,Roseren   Xavier,1,1
+Lioger   Richard,Guerini   Stanislas,1,1
+Lioger   Richard,Verdier-Jouclas   Marie-Christine,1,1
+Lioger   Richard,Person   Pierre,1,1
+Lioger   Richard,Calvez   Céline,1,1
+Lioger   Richard,Gomez-Bassac   Valérie,1,1
+Lioger   Richard,Barrot   Jean-Noël,1,1
+Lioger   Richard,Morenas   Adrien,1,1
+Lioger   Richard,Faucillon   Elsa,0,1
+Lioger   Richard,Pouzyreff   Natalia,1,1
+Lioger   Richard,de Vaucouleurs   Michèle,0,1
+Lioger   Richard,Magne   Marie-Ange,1,1
+Lioger   Richard,Villani   Cédric,1,1
+Lioger   Richard,Ali   Ramlati,1,1
+Paluszkiewicz   Xavier,Osson   Catherine,1,1
+Paluszkiewicz   Xavier,Goulet   Perrine,1,1
+Paluszkiewicz   Xavier,Potterie   Benoit,1,1
+Paluszkiewicz   Xavier,Dumont   Pierre-Henri,0,1
+Paluszkiewicz   Xavier,Mattei   Jean-Paul,1,1
+Paluszkiewicz   Xavier,Mbaye   Jean François,1,1
+Paluszkiewicz   Xavier,Saint-Martin   Laurent,1,1
+Paluszkiewicz   Xavier,Da Silva   Dominique,1,1
+Paluszkiewicz   Xavier,Genetet   Anne,1,1
+Paluszkiewicz   Xavier,Ratenon   Jean-Hugues,0,1
+Paluszkiewicz   Xavier,Charrière   Sylvie,1,1
+Paluszkiewicz   Xavier,Petit   Maud,0,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Peu   Stéphane,0,1
+Paluszkiewicz   Xavier,Ramadier   Alain,0,1
+Paluszkiewicz   Xavier,Bonnivard   Émilie,0,1
+Paluszkiewicz   Xavier,Lenne   Marion,1,1
+Paluszkiewicz   Xavier,Roseren   Xavier,1,1
+Paluszkiewicz   Xavier,Guerini   Stanislas,1,1
+Paluszkiewicz   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Paluszkiewicz   Xavier,Person   Pierre,1,1
+Paluszkiewicz   Xavier,Calvez   Céline,1,1
+Paluszkiewicz   Xavier,Gomez-Bassac   Valérie,1,1
+Paluszkiewicz   Xavier,Barrot   Jean-Noël,1,1
+Paluszkiewicz   Xavier,Morenas   Adrien,1,1
+Paluszkiewicz   Xavier,Faucillon   Elsa,0,1
+Paluszkiewicz   Xavier,Pouzyreff   Natalia,1,1
+Paluszkiewicz   Xavier,de Vaucouleurs   Michèle,0,1
+Paluszkiewicz   Xavier,Magne   Marie-Ange,1,1
+Paluszkiewicz   Xavier,Villani   Cédric,1,1
+Paluszkiewicz   Xavier,Ali   Ramlati,1,1
+Osson   Catherine,Goulet   Perrine,1,1
+Osson   Catherine,Potterie   Benoit,1,1
+Osson   Catherine,Dumont   Pierre-Henri,0,1
+Osson   Catherine,Mattei   Jean-Paul,1,1
+Osson   Catherine,Mbaye   Jean François,1,1
+Osson   Catherine,Saint-Martin   Laurent,1,1
+Osson   Catherine,Da Silva   Dominique,1,1
+Osson   Catherine,Genetet   Anne,1,1
+Osson   Catherine,Ratenon   Jean-Hugues,0,1
+Osson   Catherine,Charrière   Sylvie,1,1
+Osson   Catherine,Petit   Maud,0,1
+Osson   Catherine,Gaillot   Albane,1,1
+Osson   Catherine,Peu   Stéphane,0,1
+Osson   Catherine,Ramadier   Alain,0,1
+Osson   Catherine,Bonnivard   Émilie,0,1
+Osson   Catherine,Lenne   Marion,1,1
+Osson   Catherine,Roseren   Xavier,1,1
+Osson   Catherine,Guerini   Stanislas,1,1
+Osson   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Osson   Catherine,Person   Pierre,1,1
+Osson   Catherine,Calvez   Céline,1,1
+Osson   Catherine,Gomez-Bassac   Valérie,1,1
+Osson   Catherine,Barrot   Jean-Noël,1,1
+Osson   Catherine,Morenas   Adrien,1,1
+Osson   Catherine,Faucillon   Elsa,0,1
+Osson   Catherine,Pouzyreff   Natalia,1,1
+Osson   Catherine,de Vaucouleurs   Michèle,0,1
+Osson   Catherine,Magne   Marie-Ange,1,1
+Osson   Catherine,Villani   Cédric,1,1
+Osson   Catherine,Ali   Ramlati,1,1
+Goulet   Perrine,Potterie   Benoit,1,1
+Goulet   Perrine,Dumont   Pierre-Henri,0,1
+Goulet   Perrine,Mattei   Jean-Paul,1,1
+Goulet   Perrine,Mbaye   Jean François,1,1
+Goulet   Perrine,Saint-Martin   Laurent,1,1
+Goulet   Perrine,Da Silva   Dominique,1,1
+Goulet   Perrine,Genetet   Anne,1,1
+Goulet   Perrine,Ratenon   Jean-Hugues,0,1
+Goulet   Perrine,Charrière   Sylvie,1,1
+Goulet   Perrine,Petit   Maud,0,1
+Goulet   Perrine,Gaillot   Albane,1,1
+Goulet   Perrine,Peu   Stéphane,0,1
+Goulet   Perrine,Ramadier   Alain,0,1
+Goulet   Perrine,Bonnivard   Émilie,0,1
+Goulet   Perrine,Lenne   Marion,1,1
+Goulet   Perrine,Roseren   Xavier,1,1
+Goulet   Perrine,Guerini   Stanislas,1,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Person   Pierre,1,1
+Goulet   Perrine,Calvez   Céline,1,1
+Goulet   Perrine,Gomez-Bassac   Valérie,1,1
+Goulet   Perrine,Barrot   Jean-Noël,1,1
+Goulet   Perrine,Morenas   Adrien,1,1
+Goulet   Perrine,Faucillon   Elsa,0,1
+Goulet   Perrine,Pouzyreff   Natalia,1,1
+Goulet   Perrine,de Vaucouleurs   Michèle,0,1
+Goulet   Perrine,Magne   Marie-Ange,1,1
+Goulet   Perrine,Villani   Cédric,1,1
+Goulet   Perrine,Ali   Ramlati,1,1
+Potterie   Benoit,Dumont   Pierre-Henri,0,1
+Potterie   Benoit,Mattei   Jean-Paul,1,1
+Potterie   Benoit,Mbaye   Jean François,1,1
+Potterie   Benoit,Saint-Martin   Laurent,1,1
+Potterie   Benoit,Da Silva   Dominique,1,1
+Potterie   Benoit,Genetet   Anne,1,1
+Potterie   Benoit,Ratenon   Jean-Hugues,0,1
+Potterie   Benoit,Charrière   Sylvie,1,1
+Potterie   Benoit,Petit   Maud,0,1
+Potterie   Benoit,Gaillot   Albane,1,1
+Potterie   Benoit,Peu   Stéphane,0,1
+Potterie   Benoit,Ramadier   Alain,0,1
+Potterie   Benoit,Bonnivard   Émilie,0,1
+Potterie   Benoit,Lenne   Marion,1,1
+Potterie   Benoit,Roseren   Xavier,1,1
+Potterie   Benoit,Guerini   Stanislas,1,1
+Potterie   Benoit,Verdier-Jouclas   Marie-Christine,1,1
+Potterie   Benoit,Person   Pierre,1,1
+Potterie   Benoit,Calvez   Céline,1,1
+Potterie   Benoit,Gomez-Bassac   Valérie,1,1
+Potterie   Benoit,Barrot   Jean-Noël,1,1
+Potterie   Benoit,Morenas   Adrien,1,1
+Potterie   Benoit,Faucillon   Elsa,0,1
+Potterie   Benoit,Pouzyreff   Natalia,1,1
+Potterie   Benoit,de Vaucouleurs   Michèle,0,1
+Potterie   Benoit,Magne   Marie-Ange,1,1
+Potterie   Benoit,Villani   Cédric,1,1
+Potterie   Benoit,Ali   Ramlati,1,1
+Dumont   Pierre-Henri,Mattei   Jean-Paul,0,1
+Dumont   Pierre-Henri,Mbaye   Jean François,0,1
+Dumont   Pierre-Henri,Saint-Martin   Laurent,0,1
+Dumont   Pierre-Henri,Da Silva   Dominique,0,1
+Dumont   Pierre-Henri,Genetet   Anne,0,1
+Dumont   Pierre-Henri,Ratenon   Jean-Hugues,1,1
+Dumont   Pierre-Henri,Charrière   Sylvie,0,1
+Dumont   Pierre-Henri,Petit   Maud,0,1
+Dumont   Pierre-Henri,Gaillot   Albane,0,1
+Dumont   Pierre-Henri,Peu   Stéphane,1,1
+Dumont   Pierre-Henri,Ramadier   Alain,1,1
+Dumont   Pierre-Henri,Bonnivard   Émilie,1,1
+Dumont   Pierre-Henri,Lenne   Marion,0,1
+Dumont   Pierre-Henri,Roseren   Xavier,0,1
+Dumont   Pierre-Henri,Guerini   Stanislas,0,1
+Dumont   Pierre-Henri,Verdier-Jouclas   Marie-Christine,0,1
+Dumont   Pierre-Henri,Person   Pierre,0,1
+Dumont   Pierre-Henri,Calvez   Céline,0,1
+Dumont   Pierre-Henri,Gomez-Bassac   Valérie,0,1
+Dumont   Pierre-Henri,Barrot   Jean-Noël,0,1
+Dumont   Pierre-Henri,Morenas   Adrien,0,1
+Dumont   Pierre-Henri,Faucillon   Elsa,1,1
+Dumont   Pierre-Henri,Pouzyreff   Natalia,0,1
+Dumont   Pierre-Henri,de Vaucouleurs   Michèle,0,1
+Dumont   Pierre-Henri,Magne   Marie-Ange,0,1
+Dumont   Pierre-Henri,Villani   Cédric,0,1
+Dumont   Pierre-Henri,Ali   Ramlati,0,1
+Mattei   Jean-Paul,Mbaye   Jean François,1,1
+Mattei   Jean-Paul,Saint-Martin   Laurent,1,1
+Mattei   Jean-Paul,Da Silva   Dominique,1,1
+Mattei   Jean-Paul,Genetet   Anne,1,1
+Mattei   Jean-Paul,Ratenon   Jean-Hugues,0,1
+Mattei   Jean-Paul,Charrière   Sylvie,1,1
+Mattei   Jean-Paul,Petit   Maud,0,1
+Mattei   Jean-Paul,Gaillot   Albane,1,1
+Mattei   Jean-Paul,Peu   Stéphane,0,1
+Mattei   Jean-Paul,Ramadier   Alain,0,1
+Mattei   Jean-Paul,Bonnivard   Émilie,0,1
+Mattei   Jean-Paul,Lenne   Marion,1,1
+Mattei   Jean-Paul,Roseren   Xavier,1,1
+Mattei   Jean-Paul,Guerini   Stanislas,1,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,1,1
+Mattei   Jean-Paul,Person   Pierre,1,1
+Mattei   Jean-Paul,Calvez   Céline,1,1
+Mattei   Jean-Paul,Gomez-Bassac   Valérie,1,1
+Mattei   Jean-Paul,Barrot   Jean-Noël,1,1
+Mattei   Jean-Paul,Morenas   Adrien,1,1
+Mattei   Jean-Paul,Faucillon   Elsa,0,1
+Mattei   Jean-Paul,Pouzyreff   Natalia,1,1
+Mattei   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Mattei   Jean-Paul,Magne   Marie-Ange,1,1
+Mattei   Jean-Paul,Villani   Cédric,1,1
+Mattei   Jean-Paul,Ali   Ramlati,1,1
+Mbaye   Jean François,Saint-Martin   Laurent,1,1
+Mbaye   Jean François,Da Silva   Dominique,1,1
+Mbaye   Jean François,Genetet   Anne,1,1
+Mbaye   Jean François,Ratenon   Jean-Hugues,0,1
+Mbaye   Jean François,Charrière   Sylvie,1,1
+Mbaye   Jean François,Petit   Maud,0,1
+Mbaye   Jean François,Gaillot   Albane,1,1
+Mbaye   Jean François,Peu   Stéphane,0,1
+Mbaye   Jean François,Ramadier   Alain,0,1
+Mbaye   Jean François,Bonnivard   Émilie,0,1
+Mbaye   Jean François,Lenne   Marion,1,1
+Mbaye   Jean François,Roseren   Xavier,1,1
+Mbaye   Jean François,Guerini   Stanislas,1,1
+Mbaye   Jean François,Verdier-Jouclas   Marie-Christine,1,1
+Mbaye   Jean François,Person   Pierre,1,1
+Mbaye   Jean François,Calvez   Céline,1,1
+Mbaye   Jean François,Gomez-Bassac   Valérie,1,1
+Mbaye   Jean François,Barrot   Jean-Noël,1,1
+Mbaye   Jean François,Morenas   Adrien,1,1
+Mbaye   Jean François,Faucillon   Elsa,0,1
+Mbaye   Jean François,Pouzyreff   Natalia,1,1
+Mbaye   Jean François,de Vaucouleurs   Michèle,0,1
+Mbaye   Jean François,Magne   Marie-Ange,1,1
+Mbaye   Jean François,Villani   Cédric,1,1
+Mbaye   Jean François,Ali   Ramlati,1,1
+Saint-Martin   Laurent,Da Silva   Dominique,1,1
+Saint-Martin   Laurent,Genetet   Anne,1,1
+Saint-Martin   Laurent,Ratenon   Jean-Hugues,0,1
+Saint-Martin   Laurent,Charrière   Sylvie,1,1
+Saint-Martin   Laurent,Petit   Maud,0,1
+Saint-Martin   Laurent,Gaillot   Albane,1,1
+Saint-Martin   Laurent,Peu   Stéphane,0,1
+Saint-Martin   Laurent,Ramadier   Alain,0,1
+Saint-Martin   Laurent,Bonnivard   Émilie,0,1
+Saint-Martin   Laurent,Lenne   Marion,1,1
+Saint-Martin   Laurent,Roseren   Xavier,1,1
+Saint-Martin   Laurent,Guerini   Stanislas,1,1
+Saint-Martin   Laurent,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Martin   Laurent,Person   Pierre,1,1
+Saint-Martin   Laurent,Calvez   Céline,1,1
+Saint-Martin   Laurent,Gomez-Bassac   Valérie,1,1
+Saint-Martin   Laurent,Barrot   Jean-Noël,1,1
+Saint-Martin   Laurent,Morenas   Adrien,1,1
+Saint-Martin   Laurent,Faucillon   Elsa,0,1
+Saint-Martin   Laurent,Pouzyreff   Natalia,1,1
+Saint-Martin   Laurent,de Vaucouleurs   Michèle,0,1
+Saint-Martin   Laurent,Magne   Marie-Ange,1,1
+Saint-Martin   Laurent,Villani   Cédric,1,1
+Saint-Martin   Laurent,Ali   Ramlati,1,1
+Da Silva   Dominique,Genetet   Anne,1,1
+Da Silva   Dominique,Ratenon   Jean-Hugues,0,1
+Da Silva   Dominique,Charrière   Sylvie,1,1
+Da Silva   Dominique,Petit   Maud,0,1
+Da Silva   Dominique,Gaillot   Albane,1,1
+Da Silva   Dominique,Peu   Stéphane,0,1
+Da Silva   Dominique,Ramadier   Alain,0,1
+Da Silva   Dominique,Bonnivard   Émilie,0,1
+Da Silva   Dominique,Lenne   Marion,1,1
+Da Silva   Dominique,Roseren   Xavier,1,1
+Da Silva   Dominique,Guerini   Stanislas,1,1
+Da Silva   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+Da Silva   Dominique,Person   Pierre,1,1
+Da Silva   Dominique,Calvez   Céline,1,1
+Da Silva   Dominique,Gomez-Bassac   Valérie,1,1
+Da Silva   Dominique,Barrot   Jean-Noël,1,1
+Da Silva   Dominique,Morenas   Adrien,1,1
+Da Silva   Dominique,Faucillon   Elsa,0,1
+Da Silva   Dominique,Pouzyreff   Natalia,1,1
+Da Silva   Dominique,de Vaucouleurs   Michèle,0,1
+Da Silva   Dominique,Magne   Marie-Ange,1,1
+Da Silva   Dominique,Villani   Cédric,1,1
+Da Silva   Dominique,Ali   Ramlati,1,1
+Genetet   Anne,Ratenon   Jean-Hugues,0,1
+Genetet   Anne,Charrière   Sylvie,1,1
+Genetet   Anne,Petit   Maud,0,1
+Genetet   Anne,Gaillot   Albane,1,1
+Genetet   Anne,Peu   Stéphane,0,1
+Genetet   Anne,Ramadier   Alain,0,1
+Genetet   Anne,Bonnivard   Émilie,0,1
+Genetet   Anne,Lenne   Marion,1,1
+Genetet   Anne,Roseren   Xavier,1,1
+Genetet   Anne,Guerini   Stanislas,1,1
+Genetet   Anne,Verdier-Jouclas   Marie-Christine,1,1
+Genetet   Anne,Person   Pierre,1,1
+Genetet   Anne,Calvez   Céline,1,1
+Genetet   Anne,Gomez-Bassac   Valérie,1,1
+Genetet   Anne,Barrot   Jean-Noël,1,1
+Genetet   Anne,Morenas   Adrien,1,1
+Genetet   Anne,Faucillon   Elsa,0,1
+Genetet   Anne,Pouzyreff   Natalia,1,1
+Genetet   Anne,de Vaucouleurs   Michèle,0,1
+Genetet   Anne,Magne   Marie-Ange,1,1
+Genetet   Anne,Villani   Cédric,1,1
+Genetet   Anne,Ali   Ramlati,1,1
+Ratenon   Jean-Hugues,Charrière   Sylvie,0,1
+Ratenon   Jean-Hugues,Petit   Maud,0,1
+Ratenon   Jean-Hugues,Gaillot   Albane,0,1
+Ratenon   Jean-Hugues,Peu   Stéphane,1,1
+Ratenon   Jean-Hugues,Ramadier   Alain,1,1
+Ratenon   Jean-Hugues,Bonnivard   Émilie,1,1
+Ratenon   Jean-Hugues,Lenne   Marion,0,1
+Ratenon   Jean-Hugues,Roseren   Xavier,0,1
+Ratenon   Jean-Hugues,Guerini   Stanislas,0,1
+Ratenon   Jean-Hugues,Verdier-Jouclas   Marie-Christine,0,1
+Ratenon   Jean-Hugues,Person   Pierre,0,1
+Ratenon   Jean-Hugues,Calvez   Céline,0,1
+Ratenon   Jean-Hugues,Gomez-Bassac   Valérie,0,1
+Ratenon   Jean-Hugues,Barrot   Jean-Noël,0,1
+Ratenon   Jean-Hugues,Morenas   Adrien,0,1
+Ratenon   Jean-Hugues,Faucillon   Elsa,1,1
+Ratenon   Jean-Hugues,Pouzyreff   Natalia,0,1
+Ratenon   Jean-Hugues,de Vaucouleurs   Michèle,0,1
+Ratenon   Jean-Hugues,Magne   Marie-Ange,0,1
+Ratenon   Jean-Hugues,Villani   Cédric,0,1
+Ratenon   Jean-Hugues,Ali   Ramlati,0,1
+Charrière   Sylvie,Petit   Maud,0,1
+Charrière   Sylvie,Gaillot   Albane,1,1
+Charrière   Sylvie,Peu   Stéphane,0,1
+Charrière   Sylvie,Ramadier   Alain,0,1
+Charrière   Sylvie,Bonnivard   Émilie,0,1
+Charrière   Sylvie,Lenne   Marion,1,1
+Charrière   Sylvie,Roseren   Xavier,1,1
+Charrière   Sylvie,Guerini   Stanislas,1,1
+Charrière   Sylvie,Verdier-Jouclas   Marie-Christine,1,1
+Charrière   Sylvie,Person   Pierre,1,1
+Charrière   Sylvie,Calvez   Céline,1,1
+Charrière   Sylvie,Gomez-Bassac   Valérie,1,1
+Charrière   Sylvie,Barrot   Jean-Noël,1,1
+Charrière   Sylvie,Morenas   Adrien,1,1
+Charrière   Sylvie,Faucillon   Elsa,0,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,de Vaucouleurs   Michèle,0,1
+Charrière   Sylvie,Magne   Marie-Ange,1,1
+Charrière   Sylvie,Villani   Cédric,1,1
+Charrière   Sylvie,Ali   Ramlati,1,1
+Petit   Maud,Gaillot   Albane,0,1
+Petit   Maud,Peu   Stéphane,0,1
+Petit   Maud,Ramadier   Alain,0,1
+Petit   Maud,Bonnivard   Émilie,0,1
+Petit   Maud,Lenne   Marion,0,1
+Petit   Maud,Roseren   Xavier,0,1
+Petit   Maud,Guerini   Stanislas,0,1
+Petit   Maud,Verdier-Jouclas   Marie-Christine,0,1
+Petit   Maud,Person   Pierre,0,1
+Petit   Maud,Calvez   Céline,0,1
+Petit   Maud,Gomez-Bassac   Valérie,0,1
+Petit   Maud,Barrot   Jean-Noël,0,1
+Petit   Maud,Morenas   Adrien,0,1
+Petit   Maud,Faucillon   Elsa,0,1
+Petit   Maud,Pouzyreff   Natalia,0,1
+Petit   Maud,de Vaucouleurs   Michèle,1,1
+Petit   Maud,Magne   Marie-Ange,0,1
+Petit   Maud,Villani   Cédric,0,1
+Petit   Maud,Ali   Ramlati,0,1
+Gaillot   Albane,Peu   Stéphane,0,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Bonnivard   Émilie,0,1
+Gaillot   Albane,Lenne   Marion,1,1
+Gaillot   Albane,Roseren   Xavier,1,1
+Gaillot   Albane,Guerini   Stanislas,1,1
+Gaillot   Albane,Verdier-Jouclas   Marie-Christine,1,1
+Gaillot   Albane,Person   Pierre,1,1
+Gaillot   Albane,Calvez   Céline,1,1
+Gaillot   Albane,Gomez-Bassac   Valérie,1,1
+Gaillot   Albane,Barrot   Jean-Noël,1,1
+Gaillot   Albane,Morenas   Adrien,1,1
+Gaillot   Albane,Faucillon   Elsa,0,1
+Gaillot   Albane,Pouzyreff   Natalia,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,0,1
+Gaillot   Albane,Magne   Marie-Ange,1,1
+Gaillot   Albane,Villani   Cédric,1,1
+Gaillot   Albane,Ali   Ramlati,1,1
+Peu   Stéphane,Ramadier   Alain,1,1
+Peu   Stéphane,Bonnivard   Émilie,1,1
+Peu   Stéphane,Lenne   Marion,0,1
+Peu   Stéphane,Roseren   Xavier,0,1
+Peu   Stéphane,Guerini   Stanislas,0,1
+Peu   Stéphane,Verdier-Jouclas   Marie-Christine,0,1
+Peu   Stéphane,Person   Pierre,0,1
+Peu   Stéphane,Calvez   Céline,0,1
+Peu   Stéphane,Gomez-Bassac   Valérie,0,1
+Peu   Stéphane,Barrot   Jean-Noël,0,1
+Peu   Stéphane,Morenas   Adrien,0,1
+Peu   Stéphane,Faucillon   Elsa,1,1
+Peu   Stéphane,Pouzyreff   Natalia,0,1
+Peu   Stéphane,de Vaucouleurs   Michèle,0,1
+Peu   Stéphane,Magne   Marie-Ange,0,1
+Peu   Stéphane,Villani   Cédric,0,1
+Peu   Stéphane,Ali   Ramlati,0,1
+Ramadier   Alain,Bonnivard   Émilie,1,1
+Ramadier   Alain,Lenne   Marion,0,1
+Ramadier   Alain,Roseren   Xavier,0,1
+Ramadier   Alain,Guerini   Stanislas,0,1
+Ramadier   Alain,Verdier-Jouclas   Marie-Christine,0,1
+Ramadier   Alain,Person   Pierre,0,1
+Ramadier   Alain,Calvez   Céline,0,1
+Ramadier   Alain,Gomez-Bassac   Valérie,0,1
+Ramadier   Alain,Barrot   Jean-Noël,0,1
+Ramadier   Alain,Morenas   Adrien,0,1
+Ramadier   Alain,Faucillon   Elsa,1,1
+Ramadier   Alain,Pouzyreff   Natalia,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Magne   Marie-Ange,0,1
+Ramadier   Alain,Villani   Cédric,0,1
+Ramadier   Alain,Ali   Ramlati,0,1
+Bonnivard   Émilie,Lenne   Marion,0,1
+Bonnivard   Émilie,Roseren   Xavier,0,1
+Bonnivard   Émilie,Guerini   Stanislas,0,1
+Bonnivard   Émilie,Verdier-Jouclas   Marie-Christine,0,1
+Bonnivard   Émilie,Person   Pierre,0,1
+Bonnivard   Émilie,Calvez   Céline,0,1
+Bonnivard   Émilie,Gomez-Bassac   Valérie,0,1
+Bonnivard   Émilie,Barrot   Jean-Noël,0,1
+Bonnivard   Émilie,Morenas   Adrien,0,1
+Bonnivard   Émilie,Faucillon   Elsa,1,1
+Bonnivard   Émilie,Pouzyreff   Natalia,0,1
+Bonnivard   Émilie,de Vaucouleurs   Michèle,0,1
+Bonnivard   Émilie,Magne   Marie-Ange,0,1
+Bonnivard   Émilie,Villani   Cédric,0,1
+Bonnivard   Émilie,Ali   Ramlati,0,1
+Lenne   Marion,Roseren   Xavier,1,1
+Lenne   Marion,Guerini   Stanislas,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Person   Pierre,1,1
+Lenne   Marion,Calvez   Céline,1,1
+Lenne   Marion,Gomez-Bassac   Valérie,1,1
+Lenne   Marion,Barrot   Jean-Noël,1,1
+Lenne   Marion,Morenas   Adrien,1,1
+Lenne   Marion,Faucillon   Elsa,0,1
+Lenne   Marion,Pouzyreff   Natalia,1,1
+Lenne   Marion,de Vaucouleurs   Michèle,0,1
+Lenne   Marion,Magne   Marie-Ange,1,1
+Lenne   Marion,Villani   Cédric,1,1
+Lenne   Marion,Ali   Ramlati,1,1
+Roseren   Xavier,Guerini   Stanislas,1,1
+Roseren   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Roseren   Xavier,Person   Pierre,1,1
+Roseren   Xavier,Calvez   Céline,1,1
+Roseren   Xavier,Gomez-Bassac   Valérie,1,1
+Roseren   Xavier,Barrot   Jean-Noël,1,1
+Roseren   Xavier,Morenas   Adrien,1,1
+Roseren   Xavier,Faucillon   Elsa,0,1
+Roseren   Xavier,Pouzyreff   Natalia,1,1
+Roseren   Xavier,de Vaucouleurs   Michèle,0,1
+Roseren   Xavier,Magne   Marie-Ange,1,1
+Roseren   Xavier,Villani   Cédric,1,1
+Roseren   Xavier,Ali   Ramlati,1,1
+Guerini   Stanislas,Verdier-Jouclas   Marie-Christine,1,1
+Guerini   Stanislas,Person   Pierre,1,1
+Guerini   Stanislas,Calvez   Céline,1,1
+Guerini   Stanislas,Gomez-Bassac   Valérie,1,1
+Guerini   Stanislas,Barrot   Jean-Noël,1,1
+Guerini   Stanislas,Morenas   Adrien,1,1
+Guerini   Stanislas,Faucillon   Elsa,0,1
+Guerini   Stanislas,Pouzyreff   Natalia,1,1
+Guerini   Stanislas,de Vaucouleurs   Michèle,0,1
+Guerini   Stanislas,Magne   Marie-Ange,1,1
+Guerini   Stanislas,Villani   Cédric,1,1
+Guerini   Stanislas,Ali   Ramlati,1,1
+Verdier-Jouclas   Marie-Christine,Person   Pierre,1,1
+Verdier-Jouclas   Marie-Christine,Calvez   Céline,1,1
+Verdier-Jouclas   Marie-Christine,Gomez-Bassac   Valérie,1,1
+Verdier-Jouclas   Marie-Christine,Barrot   Jean-Noël,1,1
+Verdier-Jouclas   Marie-Christine,Morenas   Adrien,1,1
+Verdier-Jouclas   Marie-Christine,Faucillon   Elsa,0,1
+Verdier-Jouclas   Marie-Christine,Pouzyreff   Natalia,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,0,1
+Verdier-Jouclas   Marie-Christine,Magne   Marie-Ange,1,1
+Verdier-Jouclas   Marie-Christine,Villani   Cédric,1,1
+Verdier-Jouclas   Marie-Christine,Ali   Ramlati,1,1
+Person   Pierre,Calvez   Céline,1,1
+Person   Pierre,Gomez-Bassac   Valérie,1,1
+Person   Pierre,Barrot   Jean-Noël,1,1
+Person   Pierre,Morenas   Adrien,1,1
+Person   Pierre,Faucillon   Elsa,0,1
+Person   Pierre,Pouzyreff   Natalia,1,1
+Person   Pierre,de Vaucouleurs   Michèle,0,1
+Person   Pierre,Magne   Marie-Ange,1,1
+Person   Pierre,Villani   Cédric,1,1
+Person   Pierre,Ali   Ramlati,1,1
+Calvez   Céline,Gomez-Bassac   Valérie,1,1
+Calvez   Céline,Barrot   Jean-Noël,1,1
+Calvez   Céline,Morenas   Adrien,1,1
+Calvez   Céline,Faucillon   Elsa,0,1
+Calvez   Céline,Pouzyreff   Natalia,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,0,1
+Calvez   Céline,Magne   Marie-Ange,1,1
+Calvez   Céline,Villani   Cédric,1,1
+Calvez   Céline,Ali   Ramlati,1,1
+Gomez-Bassac   Valérie,Barrot   Jean-Noël,1,1
+Gomez-Bassac   Valérie,Morenas   Adrien,1,1
+Gomez-Bassac   Valérie,Faucillon   Elsa,0,1
+Gomez-Bassac   Valérie,Pouzyreff   Natalia,1,1
+Gomez-Bassac   Valérie,de Vaucouleurs   Michèle,0,1
+Gomez-Bassac   Valérie,Magne   Marie-Ange,1,1
+Gomez-Bassac   Valérie,Villani   Cédric,1,1
+Gomez-Bassac   Valérie,Ali   Ramlati,1,1
+Barrot   Jean-Noël,Morenas   Adrien,1,1
+Barrot   Jean-Noël,Faucillon   Elsa,0,1
+Barrot   Jean-Noël,Pouzyreff   Natalia,1,1
+Barrot   Jean-Noël,de Vaucouleurs   Michèle,0,1
+Barrot   Jean-Noël,Magne   Marie-Ange,1,1
+Barrot   Jean-Noël,Villani   Cédric,1,1
+Barrot   Jean-Noël,Ali   Ramlati,1,1
+Morenas   Adrien,Faucillon   Elsa,0,1
+Morenas   Adrien,Pouzyreff   Natalia,1,1
+Morenas   Adrien,de Vaucouleurs   Michèle,0,1
+Morenas   Adrien,Magne   Marie-Ange,1,1
+Morenas   Adrien,Villani   Cédric,1,1
+Morenas   Adrien,Ali   Ramlati,1,1
+Faucillon   Elsa,Pouzyreff   Natalia,0,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,0,1
+Faucillon   Elsa,Magne   Marie-Ange,0,1
+Faucillon   Elsa,Villani   Cédric,0,1
+Faucillon   Elsa,Ali   Ramlati,0,1
+Pouzyreff   Natalia,de Vaucouleurs   Michèle,0,1
+Pouzyreff   Natalia,Magne   Marie-Ange,1,1
+Pouzyreff   Natalia,Villani   Cédric,1,1
+Pouzyreff   Natalia,Ali   Ramlati,1,1
+de Vaucouleurs   Michèle,Magne   Marie-Ange,0,1
+de Vaucouleurs   Michèle,Villani   Cédric,0,1
+de Vaucouleurs   Michèle,Ali   Ramlati,0,1
+Magne   Marie-Ange,Villani   Cédric,1,1
+Magne   Marie-Ange,Ali   Ramlati,1,1
+Villani   Cédric,Ali   Ramlati,1,1

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615502383116.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EAD821EC",
+    "lastKnownWriteTime" : 2338605295371317857,
+    "last_content_update" : 1615502383116,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FD7A314E",
+        "caption" : "books_tidy",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=books_tidy&cache_key=FD7A314E",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "expression" : "books_tidy",
+        "object" : "books_tidy",
+        "preview" : 0,
+        "totalObservations" : 10,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

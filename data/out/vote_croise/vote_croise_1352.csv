@@ -1,0 +1,1276 @@
+from,to,vote_commun,loi_commun
+Bricout   Guy,Woerth   Éric,0,1
+Bricout   Guy,Descoeur   Vincent,0,1
+Bricout   Guy,Saulignac   Hervé,1,1
+Bricout   Guy,Bricout   Jean-Louis,1,1
+Bricout   Guy,Alauzet   Éric,0,1
+Bricout   Guy,Louwagie   Véronique,0,1
+Bricout   Guy,Dupont   Stella,0,1
+Bricout   Guy,Delatte   Marc,0,1
+Bricout   Guy,Peyrol   Bénédicte,0,1
+Bricout   Guy,Bagarry   Delphine,0,1
+Bricout   Guy,Perea   Alain,0,1
+Bricout   Guy,Robert   Mireille,0,1
+Bricout   Guy,Taurine   Bénédicte,0,1
+Bricout   Guy,Le Vigoureux   Fabrice,0,1
+Bricout   Guy,Khattabi   Fadila,0,1
+Bricout   Guy,Moreau   Jean-Baptiste,0,1
+Bricout   Guy,Le Meur   Annaïg,0,1
+Bricout   Guy,Cazeneuve   Jean-René,0,1
+Bricout   Guy,Cabaré   Pierre,0,1
+Bricout   Guy,Ménard   Emmanuelle,0,1
+Bricout   Guy,Cloarec-Le Nabour   Christine,0,1
+Bricout   Guy,Jolivet   François,0,1
+Bricout   Guy,Causse   Lionel,0,1
+Bricout   Guy,Vallaud   Boris,1,1
+Bricout   Guy,Freschi   Alexandre,0,1
+Bricout   Guy,Rist   Stéphanie,0,1
+Bricout   Guy,Magnier   Lise,0,1
+Bricout   Guy,Zannier   Hélène,0,1
+Bricout   Guy,Hammouche   Brahim,0,1
+Bricout   Guy,Jacques   Jean-Michel,0,1
+Bricout   Guy,Belhaddad   Belkhir,0,1
+Bricout   Guy,Lioger   Richard,0,1
+Bricout   Guy,Paluszkiewicz   Xavier,0,1
+Bricout   Guy,Minot   Maxime,0,1
+Bricout   Guy,Lazaar   Fiona,0,1
+Bricout   Guy,Manin   Josette,1,1
+Bricout   Guy,Holroyd   Alexandre,0,1
+Bricout   Guy,Gaillot   Albane,0,1
+Bricout   Guy,Vuilletet   Guillaume,0,1
+Bricout   Guy,Peu   Stéphane,0,1
+Bricout   Guy,Riotton   Véronique,0,1
+Bricout   Guy,Roseren   Xavier,0,1
+Bricout   Guy,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Guy,Rossi   Laurianne,0,1
+Bricout   Guy,Piron   Béatrice,0,1
+Bricout   Guy,Morenas   Adrien,0,1
+Bricout   Guy,de Vaucouleurs   Michèle,0,1
+Bricout   Guy,Latombe   Philippe,0,1
+Bricout   Guy,Magne   Marie-Ange,0,1
+Bricout   Guy,Ali   Ramlati,0,1
+Woerth   Éric,Descoeur   Vincent,1,1
+Woerth   Éric,Saulignac   Hervé,0,1
+Woerth   Éric,Bricout   Jean-Louis,0,1
+Woerth   Éric,Alauzet   Éric,0,1
+Woerth   Éric,Louwagie   Véronique,1,1
+Woerth   Éric,Dupont   Stella,0,1
+Woerth   Éric,Delatte   Marc,0,1
+Woerth   Éric,Peyrol   Bénédicte,0,1
+Woerth   Éric,Bagarry   Delphine,0,1
+Woerth   Éric,Perea   Alain,0,1
+Woerth   Éric,Robert   Mireille,0,1
+Woerth   Éric,Taurine   Bénédicte,1,1
+Woerth   Éric,Le Vigoureux   Fabrice,0,1
+Woerth   Éric,Khattabi   Fadila,0,1
+Woerth   Éric,Moreau   Jean-Baptiste,0,1
+Woerth   Éric,Le Meur   Annaïg,0,1
+Woerth   Éric,Cazeneuve   Jean-René,0,1
+Woerth   Éric,Cabaré   Pierre,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Cloarec-Le Nabour   Christine,0,1
+Woerth   Éric,Jolivet   François,0,1
+Woerth   Éric,Causse   Lionel,0,1
+Woerth   Éric,Vallaud   Boris,0,1
+Woerth   Éric,Freschi   Alexandre,0,1
+Woerth   Éric,Rist   Stéphanie,0,1
+Woerth   Éric,Magnier   Lise,1,1
+Woerth   Éric,Zannier   Hélène,0,1
+Woerth   Éric,Hammouche   Brahim,0,1
+Woerth   Éric,Jacques   Jean-Michel,0,1
+Woerth   Éric,Belhaddad   Belkhir,0,1
+Woerth   Éric,Lioger   Richard,0,1
+Woerth   Éric,Paluszkiewicz   Xavier,0,1
+Woerth   Éric,Minot   Maxime,1,1
+Woerth   Éric,Lazaar   Fiona,0,1
+Woerth   Éric,Manin   Josette,0,1
+Woerth   Éric,Holroyd   Alexandre,0,1
+Woerth   Éric,Gaillot   Albane,0,1
+Woerth   Éric,Vuilletet   Guillaume,0,1
+Woerth   Éric,Peu   Stéphane,1,1
+Woerth   Éric,Riotton   Véronique,0,1
+Woerth   Éric,Roseren   Xavier,0,1
+Woerth   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Woerth   Éric,Rossi   Laurianne,0,1
+Woerth   Éric,Piron   Béatrice,0,1
+Woerth   Éric,Morenas   Adrien,0,1
+Woerth   Éric,de Vaucouleurs   Michèle,0,1
+Woerth   Éric,Latombe   Philippe,0,1
+Woerth   Éric,Magne   Marie-Ange,0,1
+Woerth   Éric,Ali   Ramlati,0,1
+Descoeur   Vincent,Saulignac   Hervé,0,1
+Descoeur   Vincent,Bricout   Jean-Louis,0,1
+Descoeur   Vincent,Alauzet   Éric,0,1
+Descoeur   Vincent,Louwagie   Véronique,1,1
+Descoeur   Vincent,Dupont   Stella,0,1
+Descoeur   Vincent,Delatte   Marc,0,1
+Descoeur   Vincent,Peyrol   Bénédicte,0,1
+Descoeur   Vincent,Bagarry   Delphine,0,1
+Descoeur   Vincent,Perea   Alain,0,1
+Descoeur   Vincent,Robert   Mireille,0,1
+Descoeur   Vincent,Taurine   Bénédicte,1,1
+Descoeur   Vincent,Le Vigoureux   Fabrice,0,1
+Descoeur   Vincent,Khattabi   Fadila,0,1
+Descoeur   Vincent,Moreau   Jean-Baptiste,0,1
+Descoeur   Vincent,Le Meur   Annaïg,0,1
+Descoeur   Vincent,Cazeneuve   Jean-René,0,1
+Descoeur   Vincent,Cabaré   Pierre,0,1
+Descoeur   Vincent,Ménard   Emmanuelle,1,1
+Descoeur   Vincent,Cloarec-Le Nabour   Christine,0,1
+Descoeur   Vincent,Jolivet   François,0,1
+Descoeur   Vincent,Causse   Lionel,0,1
+Descoeur   Vincent,Vallaud   Boris,0,1
+Descoeur   Vincent,Freschi   Alexandre,0,1
+Descoeur   Vincent,Rist   Stéphanie,0,1
+Descoeur   Vincent,Magnier   Lise,1,1
+Descoeur   Vincent,Zannier   Hélène,0,1
+Descoeur   Vincent,Hammouche   Brahim,0,1
+Descoeur   Vincent,Jacques   Jean-Michel,0,1
+Descoeur   Vincent,Belhaddad   Belkhir,0,1
+Descoeur   Vincent,Lioger   Richard,0,1
+Descoeur   Vincent,Paluszkiewicz   Xavier,0,1
+Descoeur   Vincent,Minot   Maxime,1,1
+Descoeur   Vincent,Lazaar   Fiona,0,1
+Descoeur   Vincent,Manin   Josette,0,1
+Descoeur   Vincent,Holroyd   Alexandre,0,1
+Descoeur   Vincent,Gaillot   Albane,0,1
+Descoeur   Vincent,Vuilletet   Guillaume,0,1
+Descoeur   Vincent,Peu   Stéphane,1,1
+Descoeur   Vincent,Riotton   Véronique,0,1
+Descoeur   Vincent,Roseren   Xavier,0,1
+Descoeur   Vincent,Verdier-Jouclas   Marie-Christine,0,1
+Descoeur   Vincent,Rossi   Laurianne,0,1
+Descoeur   Vincent,Piron   Béatrice,0,1
+Descoeur   Vincent,Morenas   Adrien,0,1
+Descoeur   Vincent,de Vaucouleurs   Michèle,0,1
+Descoeur   Vincent,Latombe   Philippe,0,1
+Descoeur   Vincent,Magne   Marie-Ange,0,1
+Descoeur   Vincent,Ali   Ramlati,0,1
+Saulignac   Hervé,Bricout   Jean-Louis,1,1
+Saulignac   Hervé,Alauzet   Éric,0,1
+Saulignac   Hervé,Louwagie   Véronique,0,1
+Saulignac   Hervé,Dupont   Stella,0,1
+Saulignac   Hervé,Delatte   Marc,0,1
+Saulignac   Hervé,Peyrol   Bénédicte,0,1
+Saulignac   Hervé,Bagarry   Delphine,0,1
+Saulignac   Hervé,Perea   Alain,0,1
+Saulignac   Hervé,Robert   Mireille,0,1
+Saulignac   Hervé,Taurine   Bénédicte,0,1
+Saulignac   Hervé,Le Vigoureux   Fabrice,0,1
+Saulignac   Hervé,Khattabi   Fadila,0,1
+Saulignac   Hervé,Moreau   Jean-Baptiste,0,1
+Saulignac   Hervé,Le Meur   Annaïg,0,1
+Saulignac   Hervé,Cazeneuve   Jean-René,0,1
+Saulignac   Hervé,Cabaré   Pierre,0,1
+Saulignac   Hervé,Ménard   Emmanuelle,0,1
+Saulignac   Hervé,Cloarec-Le Nabour   Christine,0,1
+Saulignac   Hervé,Jolivet   François,0,1
+Saulignac   Hervé,Causse   Lionel,0,1
+Saulignac   Hervé,Vallaud   Boris,1,1
+Saulignac   Hervé,Freschi   Alexandre,0,1
+Saulignac   Hervé,Rist   Stéphanie,0,1
+Saulignac   Hervé,Magnier   Lise,0,1
+Saulignac   Hervé,Zannier   Hélène,0,1
+Saulignac   Hervé,Hammouche   Brahim,0,1
+Saulignac   Hervé,Jacques   Jean-Michel,0,1
+Saulignac   Hervé,Belhaddad   Belkhir,0,1
+Saulignac   Hervé,Lioger   Richard,0,1
+Saulignac   Hervé,Paluszkiewicz   Xavier,0,1
+Saulignac   Hervé,Minot   Maxime,0,1
+Saulignac   Hervé,Lazaar   Fiona,0,1
+Saulignac   Hervé,Manin   Josette,1,1
+Saulignac   Hervé,Holroyd   Alexandre,0,1
+Saulignac   Hervé,Gaillot   Albane,0,1
+Saulignac   Hervé,Vuilletet   Guillaume,0,1
+Saulignac   Hervé,Peu   Stéphane,0,1
+Saulignac   Hervé,Riotton   Véronique,0,1
+Saulignac   Hervé,Roseren   Xavier,0,1
+Saulignac   Hervé,Verdier-Jouclas   Marie-Christine,0,1
+Saulignac   Hervé,Rossi   Laurianne,0,1
+Saulignac   Hervé,Piron   Béatrice,0,1
+Saulignac   Hervé,Morenas   Adrien,0,1
+Saulignac   Hervé,de Vaucouleurs   Michèle,0,1
+Saulignac   Hervé,Latombe   Philippe,0,1
+Saulignac   Hervé,Magne   Marie-Ange,0,1
+Saulignac   Hervé,Ali   Ramlati,0,1
+Bricout   Jean-Louis,Alauzet   Éric,0,1
+Bricout   Jean-Louis,Louwagie   Véronique,0,1
+Bricout   Jean-Louis,Dupont   Stella,0,1
+Bricout   Jean-Louis,Delatte   Marc,0,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Bagarry   Delphine,0,1
+Bricout   Jean-Louis,Perea   Alain,0,1
+Bricout   Jean-Louis,Robert   Mireille,0,1
+Bricout   Jean-Louis,Taurine   Bénédicte,0,1
+Bricout   Jean-Louis,Le Vigoureux   Fabrice,0,1
+Bricout   Jean-Louis,Khattabi   Fadila,0,1
+Bricout   Jean-Louis,Moreau   Jean-Baptiste,0,1
+Bricout   Jean-Louis,Le Meur   Annaïg,0,1
+Bricout   Jean-Louis,Cazeneuve   Jean-René,0,1
+Bricout   Jean-Louis,Cabaré   Pierre,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,Cloarec-Le Nabour   Christine,0,1
+Bricout   Jean-Louis,Jolivet   François,0,1
+Bricout   Jean-Louis,Causse   Lionel,0,1
+Bricout   Jean-Louis,Vallaud   Boris,1,1
+Bricout   Jean-Louis,Freschi   Alexandre,0,1
+Bricout   Jean-Louis,Rist   Stéphanie,0,1
+Bricout   Jean-Louis,Magnier   Lise,0,1
+Bricout   Jean-Louis,Zannier   Hélène,0,1
+Bricout   Jean-Louis,Hammouche   Brahim,0,1
+Bricout   Jean-Louis,Jacques   Jean-Michel,0,1
+Bricout   Jean-Louis,Belhaddad   Belkhir,0,1
+Bricout   Jean-Louis,Lioger   Richard,0,1
+Bricout   Jean-Louis,Paluszkiewicz   Xavier,0,1
+Bricout   Jean-Louis,Minot   Maxime,0,1
+Bricout   Jean-Louis,Lazaar   Fiona,0,1
+Bricout   Jean-Louis,Manin   Josette,1,1
+Bricout   Jean-Louis,Holroyd   Alexandre,0,1
+Bricout   Jean-Louis,Gaillot   Albane,0,1
+Bricout   Jean-Louis,Vuilletet   Guillaume,0,1
+Bricout   Jean-Louis,Peu   Stéphane,0,1
+Bricout   Jean-Louis,Riotton   Véronique,0,1
+Bricout   Jean-Louis,Roseren   Xavier,0,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Rossi   Laurianne,0,1
+Bricout   Jean-Louis,Piron   Béatrice,0,1
+Bricout   Jean-Louis,Morenas   Adrien,0,1
+Bricout   Jean-Louis,de Vaucouleurs   Michèle,0,1
+Bricout   Jean-Louis,Latombe   Philippe,0,1
+Bricout   Jean-Louis,Magne   Marie-Ange,0,1
+Bricout   Jean-Louis,Ali   Ramlati,0,1
+Alauzet   Éric,Louwagie   Véronique,0,1
+Alauzet   Éric,Dupont   Stella,1,1
+Alauzet   Éric,Delatte   Marc,1,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Bagarry   Delphine,1,1
+Alauzet   Éric,Perea   Alain,1,1
+Alauzet   Éric,Robert   Mireille,1,1
+Alauzet   Éric,Taurine   Bénédicte,0,1
+Alauzet   Éric,Le Vigoureux   Fabrice,1,1
+Alauzet   Éric,Khattabi   Fadila,1,1
+Alauzet   Éric,Moreau   Jean-Baptiste,1,1
+Alauzet   Éric,Le Meur   Annaïg,1,1
+Alauzet   Éric,Cazeneuve   Jean-René,1,1
+Alauzet   Éric,Cabaré   Pierre,1,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,Cloarec-Le Nabour   Christine,1,1
+Alauzet   Éric,Jolivet   François,1,1
+Alauzet   Éric,Causse   Lionel,1,1
+Alauzet   Éric,Vallaud   Boris,0,1
+Alauzet   Éric,Freschi   Alexandre,1,1
+Alauzet   Éric,Rist   Stéphanie,1,1
+Alauzet   Éric,Magnier   Lise,0,1
+Alauzet   Éric,Zannier   Hélène,1,1
+Alauzet   Éric,Hammouche   Brahim,1,1
+Alauzet   Éric,Jacques   Jean-Michel,1,1
+Alauzet   Éric,Belhaddad   Belkhir,1,1
+Alauzet   Éric,Lioger   Richard,1,1
+Alauzet   Éric,Paluszkiewicz   Xavier,1,1
+Alauzet   Éric,Minot   Maxime,0,1
+Alauzet   Éric,Lazaar   Fiona,1,1
+Alauzet   Éric,Manin   Josette,0,1
+Alauzet   Éric,Holroyd   Alexandre,1,1
+Alauzet   Éric,Gaillot   Albane,1,1
+Alauzet   Éric,Vuilletet   Guillaume,1,1
+Alauzet   Éric,Peu   Stéphane,0,1
+Alauzet   Éric,Riotton   Véronique,1,1
+Alauzet   Éric,Roseren   Xavier,1,1
+Alauzet   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Alauzet   Éric,Rossi   Laurianne,1,1
+Alauzet   Éric,Piron   Béatrice,1,1
+Alauzet   Éric,Morenas   Adrien,1,1
+Alauzet   Éric,de Vaucouleurs   Michèle,1,1
+Alauzet   Éric,Latombe   Philippe,1,1
+Alauzet   Éric,Magne   Marie-Ange,1,1
+Alauzet   Éric,Ali   Ramlati,1,1
+Louwagie   Véronique,Dupont   Stella,0,1
+Louwagie   Véronique,Delatte   Marc,0,1
+Louwagie   Véronique,Peyrol   Bénédicte,0,1
+Louwagie   Véronique,Bagarry   Delphine,0,1
+Louwagie   Véronique,Perea   Alain,0,1
+Louwagie   Véronique,Robert   Mireille,0,1
+Louwagie   Véronique,Taurine   Bénédicte,1,1
+Louwagie   Véronique,Le Vigoureux   Fabrice,0,1
+Louwagie   Véronique,Khattabi   Fadila,0,1
+Louwagie   Véronique,Moreau   Jean-Baptiste,0,1
+Louwagie   Véronique,Le Meur   Annaïg,0,1
+Louwagie   Véronique,Cazeneuve   Jean-René,0,1
+Louwagie   Véronique,Cabaré   Pierre,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Cloarec-Le Nabour   Christine,0,1
+Louwagie   Véronique,Jolivet   François,0,1
+Louwagie   Véronique,Causse   Lionel,0,1
+Louwagie   Véronique,Vallaud   Boris,0,1
+Louwagie   Véronique,Freschi   Alexandre,0,1
+Louwagie   Véronique,Rist   Stéphanie,0,1
+Louwagie   Véronique,Magnier   Lise,1,1
+Louwagie   Véronique,Zannier   Hélène,0,1
+Louwagie   Véronique,Hammouche   Brahim,0,1
+Louwagie   Véronique,Jacques   Jean-Michel,0,1
+Louwagie   Véronique,Belhaddad   Belkhir,0,1
+Louwagie   Véronique,Lioger   Richard,0,1
+Louwagie   Véronique,Paluszkiewicz   Xavier,0,1
+Louwagie   Véronique,Minot   Maxime,1,1
+Louwagie   Véronique,Lazaar   Fiona,0,1
+Louwagie   Véronique,Manin   Josette,0,1
+Louwagie   Véronique,Holroyd   Alexandre,0,1
+Louwagie   Véronique,Gaillot   Albane,0,1
+Louwagie   Véronique,Vuilletet   Guillaume,0,1
+Louwagie   Véronique,Peu   Stéphane,1,1
+Louwagie   Véronique,Riotton   Véronique,0,1
+Louwagie   Véronique,Roseren   Xavier,0,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Rossi   Laurianne,0,1
+Louwagie   Véronique,Piron   Béatrice,0,1
+Louwagie   Véronique,Morenas   Adrien,0,1
+Louwagie   Véronique,de Vaucouleurs   Michèle,0,1
+Louwagie   Véronique,Latombe   Philippe,0,1
+Louwagie   Véronique,Magne   Marie-Ange,0,1
+Louwagie   Véronique,Ali   Ramlati,0,1
+Dupont   Stella,Delatte   Marc,1,1
+Dupont   Stella,Peyrol   Bénédicte,1,1
+Dupont   Stella,Bagarry   Delphine,1,1
+Dupont   Stella,Perea   Alain,1,1
+Dupont   Stella,Robert   Mireille,1,1
+Dupont   Stella,Taurine   Bénédicte,0,1
+Dupont   Stella,Le Vigoureux   Fabrice,1,1
+Dupont   Stella,Khattabi   Fadila,1,1
+Dupont   Stella,Moreau   Jean-Baptiste,1,1
+Dupont   Stella,Le Meur   Annaïg,1,1
+Dupont   Stella,Cazeneuve   Jean-René,1,1
+Dupont   Stella,Cabaré   Pierre,1,1
+Dupont   Stella,Ménard   Emmanuelle,0,1
+Dupont   Stella,Cloarec-Le Nabour   Christine,1,1
+Dupont   Stella,Jolivet   François,1,1
+Dupont   Stella,Causse   Lionel,1,1
+Dupont   Stella,Vallaud   Boris,0,1
+Dupont   Stella,Freschi   Alexandre,1,1
+Dupont   Stella,Rist   Stéphanie,1,1
+Dupont   Stella,Magnier   Lise,0,1
+Dupont   Stella,Zannier   Hélène,1,1
+Dupont   Stella,Hammouche   Brahim,1,1
+Dupont   Stella,Jacques   Jean-Michel,1,1
+Dupont   Stella,Belhaddad   Belkhir,1,1
+Dupont   Stella,Lioger   Richard,1,1
+Dupont   Stella,Paluszkiewicz   Xavier,1,1
+Dupont   Stella,Minot   Maxime,0,1
+Dupont   Stella,Lazaar   Fiona,1,1
+Dupont   Stella,Manin   Josette,0,1
+Dupont   Stella,Holroyd   Alexandre,1,1
+Dupont   Stella,Gaillot   Albane,1,1
+Dupont   Stella,Vuilletet   Guillaume,1,1
+Dupont   Stella,Peu   Stéphane,0,1
+Dupont   Stella,Riotton   Véronique,1,1
+Dupont   Stella,Roseren   Xavier,1,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Rossi   Laurianne,1,1
+Dupont   Stella,Piron   Béatrice,1,1
+Dupont   Stella,Morenas   Adrien,1,1
+Dupont   Stella,de Vaucouleurs   Michèle,1,1
+Dupont   Stella,Latombe   Philippe,1,1
+Dupont   Stella,Magne   Marie-Ange,1,1
+Dupont   Stella,Ali   Ramlati,1,1
+Delatte   Marc,Peyrol   Bénédicte,1,1
+Delatte   Marc,Bagarry   Delphine,1,1
+Delatte   Marc,Perea   Alain,1,1
+Delatte   Marc,Robert   Mireille,1,1
+Delatte   Marc,Taurine   Bénédicte,0,1
+Delatte   Marc,Le Vigoureux   Fabrice,1,1
+Delatte   Marc,Khattabi   Fadila,1,1
+Delatte   Marc,Moreau   Jean-Baptiste,1,1
+Delatte   Marc,Le Meur   Annaïg,1,1
+Delatte   Marc,Cazeneuve   Jean-René,1,1
+Delatte   Marc,Cabaré   Pierre,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,Cloarec-Le Nabour   Christine,1,1
+Delatte   Marc,Jolivet   François,1,1
+Delatte   Marc,Causse   Lionel,1,1
+Delatte   Marc,Vallaud   Boris,0,1
+Delatte   Marc,Freschi   Alexandre,1,1
+Delatte   Marc,Rist   Stéphanie,1,1
+Delatte   Marc,Magnier   Lise,0,1
+Delatte   Marc,Zannier   Hélène,1,1
+Delatte   Marc,Hammouche   Brahim,1,1
+Delatte   Marc,Jacques   Jean-Michel,1,1
+Delatte   Marc,Belhaddad   Belkhir,1,1
+Delatte   Marc,Lioger   Richard,1,1
+Delatte   Marc,Paluszkiewicz   Xavier,1,1
+Delatte   Marc,Minot   Maxime,0,1
+Delatte   Marc,Lazaar   Fiona,1,1
+Delatte   Marc,Manin   Josette,0,1
+Delatte   Marc,Holroyd   Alexandre,1,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Vuilletet   Guillaume,1,1
+Delatte   Marc,Peu   Stéphane,0,1
+Delatte   Marc,Riotton   Véronique,1,1
+Delatte   Marc,Roseren   Xavier,1,1
+Delatte   Marc,Verdier-Jouclas   Marie-Christine,1,1
+Delatte   Marc,Rossi   Laurianne,1,1
+Delatte   Marc,Piron   Béatrice,1,1
+Delatte   Marc,Morenas   Adrien,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Latombe   Philippe,1,1
+Delatte   Marc,Magne   Marie-Ange,1,1
+Delatte   Marc,Ali   Ramlati,1,1
+Peyrol   Bénédicte,Bagarry   Delphine,1,1
+Peyrol   Bénédicte,Perea   Alain,1,1
+Peyrol   Bénédicte,Robert   Mireille,1,1
+Peyrol   Bénédicte,Taurine   Bénédicte,0,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Khattabi   Fadila,1,1
+Peyrol   Bénédicte,Moreau   Jean-Baptiste,1,1
+Peyrol   Bénédicte,Le Meur   Annaïg,1,1
+Peyrol   Bénédicte,Cazeneuve   Jean-René,1,1
+Peyrol   Bénédicte,Cabaré   Pierre,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,Cloarec-Le Nabour   Christine,1,1
+Peyrol   Bénédicte,Jolivet   François,1,1
+Peyrol   Bénédicte,Causse   Lionel,1,1
+Peyrol   Bénédicte,Vallaud   Boris,0,1
+Peyrol   Bénédicte,Freschi   Alexandre,1,1
+Peyrol   Bénédicte,Rist   Stéphanie,1,1
+Peyrol   Bénédicte,Magnier   Lise,0,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Hammouche   Brahim,1,1
+Peyrol   Bénédicte,Jacques   Jean-Michel,1,1
+Peyrol   Bénédicte,Belhaddad   Belkhir,1,1
+Peyrol   Bénédicte,Lioger   Richard,1,1
+Peyrol   Bénédicte,Paluszkiewicz   Xavier,1,1
+Peyrol   Bénédicte,Minot   Maxime,0,1
+Peyrol   Bénédicte,Lazaar   Fiona,1,1
+Peyrol   Bénédicte,Manin   Josette,0,1
+Peyrol   Bénédicte,Holroyd   Alexandre,1,1
+Peyrol   Bénédicte,Gaillot   Albane,1,1
+Peyrol   Bénédicte,Vuilletet   Guillaume,1,1
+Peyrol   Bénédicte,Peu   Stéphane,0,1
+Peyrol   Bénédicte,Riotton   Véronique,1,1
+Peyrol   Bénédicte,Roseren   Xavier,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Rossi   Laurianne,1,1
+Peyrol   Bénédicte,Piron   Béatrice,1,1
+Peyrol   Bénédicte,Morenas   Adrien,1,1
+Peyrol   Bénédicte,de Vaucouleurs   Michèle,1,1
+Peyrol   Bénédicte,Latombe   Philippe,1,1
+Peyrol   Bénédicte,Magne   Marie-Ange,1,1
+Peyrol   Bénédicte,Ali   Ramlati,1,1
+Bagarry   Delphine,Perea   Alain,1,1
+Bagarry   Delphine,Robert   Mireille,1,1
+Bagarry   Delphine,Taurine   Bénédicte,0,1
+Bagarry   Delphine,Le Vigoureux   Fabrice,1,1
+Bagarry   Delphine,Khattabi   Fadila,1,1
+Bagarry   Delphine,Moreau   Jean-Baptiste,1,1
+Bagarry   Delphine,Le Meur   Annaïg,1,1
+Bagarry   Delphine,Cazeneuve   Jean-René,1,1
+Bagarry   Delphine,Cabaré   Pierre,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,0,1
+Bagarry   Delphine,Cloarec-Le Nabour   Christine,1,1
+Bagarry   Delphine,Jolivet   François,1,1
+Bagarry   Delphine,Causse   Lionel,1,1
+Bagarry   Delphine,Vallaud   Boris,0,1
+Bagarry   Delphine,Freschi   Alexandre,1,1
+Bagarry   Delphine,Rist   Stéphanie,1,1
+Bagarry   Delphine,Magnier   Lise,0,1
+Bagarry   Delphine,Zannier   Hélène,1,1
+Bagarry   Delphine,Hammouche   Brahim,1,1
+Bagarry   Delphine,Jacques   Jean-Michel,1,1
+Bagarry   Delphine,Belhaddad   Belkhir,1,1
+Bagarry   Delphine,Lioger   Richard,1,1
+Bagarry   Delphine,Paluszkiewicz   Xavier,1,1
+Bagarry   Delphine,Minot   Maxime,0,1
+Bagarry   Delphine,Lazaar   Fiona,1,1
+Bagarry   Delphine,Manin   Josette,0,1
+Bagarry   Delphine,Holroyd   Alexandre,1,1
+Bagarry   Delphine,Gaillot   Albane,1,1
+Bagarry   Delphine,Vuilletet   Guillaume,1,1
+Bagarry   Delphine,Peu   Stéphane,0,1
+Bagarry   Delphine,Riotton   Véronique,1,1
+Bagarry   Delphine,Roseren   Xavier,1,1
+Bagarry   Delphine,Verdier-Jouclas   Marie-Christine,1,1
+Bagarry   Delphine,Rossi   Laurianne,1,1
+Bagarry   Delphine,Piron   Béatrice,1,1
+Bagarry   Delphine,Morenas   Adrien,1,1
+Bagarry   Delphine,de Vaucouleurs   Michèle,1,1
+Bagarry   Delphine,Latombe   Philippe,1,1
+Bagarry   Delphine,Magne   Marie-Ange,1,1
+Bagarry   Delphine,Ali   Ramlati,1,1
+Perea   Alain,Robert   Mireille,1,1
+Perea   Alain,Taurine   Bénédicte,0,1
+Perea   Alain,Le Vigoureux   Fabrice,1,1
+Perea   Alain,Khattabi   Fadila,1,1
+Perea   Alain,Moreau   Jean-Baptiste,1,1
+Perea   Alain,Le Meur   Annaïg,1,1
+Perea   Alain,Cazeneuve   Jean-René,1,1
+Perea   Alain,Cabaré   Pierre,1,1
+Perea   Alain,Ménard   Emmanuelle,0,1
+Perea   Alain,Cloarec-Le Nabour   Christine,1,1
+Perea   Alain,Jolivet   François,1,1
+Perea   Alain,Causse   Lionel,1,1
+Perea   Alain,Vallaud   Boris,0,1
+Perea   Alain,Freschi   Alexandre,1,1
+Perea   Alain,Rist   Stéphanie,1,1
+Perea   Alain,Magnier   Lise,0,1
+Perea   Alain,Zannier   Hélène,1,1
+Perea   Alain,Hammouche   Brahim,1,1
+Perea   Alain,Jacques   Jean-Michel,1,1
+Perea   Alain,Belhaddad   Belkhir,1,1
+Perea   Alain,Lioger   Richard,1,1
+Perea   Alain,Paluszkiewicz   Xavier,1,1
+Perea   Alain,Minot   Maxime,0,1
+Perea   Alain,Lazaar   Fiona,1,1
+Perea   Alain,Manin   Josette,0,1
+Perea   Alain,Holroyd   Alexandre,1,1
+Perea   Alain,Gaillot   Albane,1,1
+Perea   Alain,Vuilletet   Guillaume,1,1
+Perea   Alain,Peu   Stéphane,0,1
+Perea   Alain,Riotton   Véronique,1,1
+Perea   Alain,Roseren   Xavier,1,1
+Perea   Alain,Verdier-Jouclas   Marie-Christine,1,1
+Perea   Alain,Rossi   Laurianne,1,1
+Perea   Alain,Piron   Béatrice,1,1
+Perea   Alain,Morenas   Adrien,1,1
+Perea   Alain,de Vaucouleurs   Michèle,1,1
+Perea   Alain,Latombe   Philippe,1,1
+Perea   Alain,Magne   Marie-Ange,1,1
+Perea   Alain,Ali   Ramlati,1,1
+Robert   Mireille,Taurine   Bénédicte,0,1
+Robert   Mireille,Le Vigoureux   Fabrice,1,1
+Robert   Mireille,Khattabi   Fadila,1,1
+Robert   Mireille,Moreau   Jean-Baptiste,1,1
+Robert   Mireille,Le Meur   Annaïg,1,1
+Robert   Mireille,Cazeneuve   Jean-René,1,1
+Robert   Mireille,Cabaré   Pierre,1,1
+Robert   Mireille,Ménard   Emmanuelle,0,1
+Robert   Mireille,Cloarec-Le Nabour   Christine,1,1
+Robert   Mireille,Jolivet   François,1,1
+Robert   Mireille,Causse   Lionel,1,1
+Robert   Mireille,Vallaud   Boris,0,1
+Robert   Mireille,Freschi   Alexandre,1,1
+Robert   Mireille,Rist   Stéphanie,1,1
+Robert   Mireille,Magnier   Lise,0,1
+Robert   Mireille,Zannier   Hélène,1,1
+Robert   Mireille,Hammouche   Brahim,1,1
+Robert   Mireille,Jacques   Jean-Michel,1,1
+Robert   Mireille,Belhaddad   Belkhir,1,1
+Robert   Mireille,Lioger   Richard,1,1
+Robert   Mireille,Paluszkiewicz   Xavier,1,1
+Robert   Mireille,Minot   Maxime,0,1
+Robert   Mireille,Lazaar   Fiona,1,1
+Robert   Mireille,Manin   Josette,0,1
+Robert   Mireille,Holroyd   Alexandre,1,1
+Robert   Mireille,Gaillot   Albane,1,1
+Robert   Mireille,Vuilletet   Guillaume,1,1
+Robert   Mireille,Peu   Stéphane,0,1
+Robert   Mireille,Riotton   Véronique,1,1
+Robert   Mireille,Roseren   Xavier,1,1
+Robert   Mireille,Verdier-Jouclas   Marie-Christine,1,1
+Robert   Mireille,Rossi   Laurianne,1,1
+Robert   Mireille,Piron   Béatrice,1,1
+Robert   Mireille,Morenas   Adrien,1,1
+Robert   Mireille,de Vaucouleurs   Michèle,1,1
+Robert   Mireille,Latombe   Philippe,1,1
+Robert   Mireille,Magne   Marie-Ange,1,1
+Robert   Mireille,Ali   Ramlati,1,1
+Taurine   Bénédicte,Le Vigoureux   Fabrice,0,1
+Taurine   Bénédicte,Khattabi   Fadila,0,1
+Taurine   Bénédicte,Moreau   Jean-Baptiste,0,1
+Taurine   Bénédicte,Le Meur   Annaïg,0,1
+Taurine   Bénédicte,Cazeneuve   Jean-René,0,1
+Taurine   Bénédicte,Cabaré   Pierre,0,1
+Taurine   Bénédicte,Ménard   Emmanuelle,1,1
+Taurine   Bénédicte,Cloarec-Le Nabour   Christine,0,1
+Taurine   Bénédicte,Jolivet   François,0,1
+Taurine   Bénédicte,Causse   Lionel,0,1
+Taurine   Bénédicte,Vallaud   Boris,0,1
+Taurine   Bénédicte,Freschi   Alexandre,0,1
+Taurine   Bénédicte,Rist   Stéphanie,0,1
+Taurine   Bénédicte,Magnier   Lise,1,1
+Taurine   Bénédicte,Zannier   Hélène,0,1
+Taurine   Bénédicte,Hammouche   Brahim,0,1
+Taurine   Bénédicte,Jacques   Jean-Michel,0,1
+Taurine   Bénédicte,Belhaddad   Belkhir,0,1
+Taurine   Bénédicte,Lioger   Richard,0,1
+Taurine   Bénédicte,Paluszkiewicz   Xavier,0,1
+Taurine   Bénédicte,Minot   Maxime,1,1
+Taurine   Bénédicte,Lazaar   Fiona,0,1
+Taurine   Bénédicte,Manin   Josette,0,1
+Taurine   Bénédicte,Holroyd   Alexandre,0,1
+Taurine   Bénédicte,Gaillot   Albane,0,1
+Taurine   Bénédicte,Vuilletet   Guillaume,0,1
+Taurine   Bénédicte,Peu   Stéphane,1,1
+Taurine   Bénédicte,Riotton   Véronique,0,1
+Taurine   Bénédicte,Roseren   Xavier,0,1
+Taurine   Bénédicte,Verdier-Jouclas   Marie-Christine,0,1
+Taurine   Bénédicte,Rossi   Laurianne,0,1
+Taurine   Bénédicte,Piron   Béatrice,0,1
+Taurine   Bénédicte,Morenas   Adrien,0,1
+Taurine   Bénédicte,de Vaucouleurs   Michèle,0,1
+Taurine   Bénédicte,Latombe   Philippe,0,1
+Taurine   Bénédicte,Magne   Marie-Ange,0,1
+Taurine   Bénédicte,Ali   Ramlati,0,1
+Le Vigoureux   Fabrice,Khattabi   Fadila,1,1
+Le Vigoureux   Fabrice,Moreau   Jean-Baptiste,1,1
+Le Vigoureux   Fabrice,Le Meur   Annaïg,1,1
+Le Vigoureux   Fabrice,Cazeneuve   Jean-René,1,1
+Le Vigoureux   Fabrice,Cabaré   Pierre,1,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,0,1
+Le Vigoureux   Fabrice,Cloarec-Le Nabour   Christine,1,1
+Le Vigoureux   Fabrice,Jolivet   François,1,1
+Le Vigoureux   Fabrice,Causse   Lionel,1,1
+Le Vigoureux   Fabrice,Vallaud   Boris,0,1
+Le Vigoureux   Fabrice,Freschi   Alexandre,1,1
+Le Vigoureux   Fabrice,Rist   Stéphanie,1,1
+Le Vigoureux   Fabrice,Magnier   Lise,0,1
+Le Vigoureux   Fabrice,Zannier   Hélène,1,1
+Le Vigoureux   Fabrice,Hammouche   Brahim,1,1
+Le Vigoureux   Fabrice,Jacques   Jean-Michel,1,1
+Le Vigoureux   Fabrice,Belhaddad   Belkhir,1,1
+Le Vigoureux   Fabrice,Lioger   Richard,1,1
+Le Vigoureux   Fabrice,Paluszkiewicz   Xavier,1,1
+Le Vigoureux   Fabrice,Minot   Maxime,0,1
+Le Vigoureux   Fabrice,Lazaar   Fiona,1,1
+Le Vigoureux   Fabrice,Manin   Josette,0,1
+Le Vigoureux   Fabrice,Holroyd   Alexandre,1,1
+Le Vigoureux   Fabrice,Gaillot   Albane,1,1
+Le Vigoureux   Fabrice,Vuilletet   Guillaume,1,1
+Le Vigoureux   Fabrice,Peu   Stéphane,0,1
+Le Vigoureux   Fabrice,Riotton   Véronique,1,1
+Le Vigoureux   Fabrice,Roseren   Xavier,1,1
+Le Vigoureux   Fabrice,Verdier-Jouclas   Marie-Christine,1,1
+Le Vigoureux   Fabrice,Rossi   Laurianne,1,1
+Le Vigoureux   Fabrice,Piron   Béatrice,1,1
+Le Vigoureux   Fabrice,Morenas   Adrien,1,1
+Le Vigoureux   Fabrice,de Vaucouleurs   Michèle,1,1
+Le Vigoureux   Fabrice,Latombe   Philippe,1,1
+Le Vigoureux   Fabrice,Magne   Marie-Ange,1,1
+Le Vigoureux   Fabrice,Ali   Ramlati,1,1
+Khattabi   Fadila,Moreau   Jean-Baptiste,1,1
+Khattabi   Fadila,Le Meur   Annaïg,1,1
+Khattabi   Fadila,Cazeneuve   Jean-René,1,1
+Khattabi   Fadila,Cabaré   Pierre,1,1
+Khattabi   Fadila,Ménard   Emmanuelle,0,1
+Khattabi   Fadila,Cloarec-Le Nabour   Christine,1,1
+Khattabi   Fadila,Jolivet   François,1,1
+Khattabi   Fadila,Causse   Lionel,1,1
+Khattabi   Fadila,Vallaud   Boris,0,1
+Khattabi   Fadila,Freschi   Alexandre,1,1
+Khattabi   Fadila,Rist   Stéphanie,1,1
+Khattabi   Fadila,Magnier   Lise,0,1
+Khattabi   Fadila,Zannier   Hélène,1,1
+Khattabi   Fadila,Hammouche   Brahim,1,1
+Khattabi   Fadila,Jacques   Jean-Michel,1,1
+Khattabi   Fadila,Belhaddad   Belkhir,1,1
+Khattabi   Fadila,Lioger   Richard,1,1
+Khattabi   Fadila,Paluszkiewicz   Xavier,1,1
+Khattabi   Fadila,Minot   Maxime,0,1
+Khattabi   Fadila,Lazaar   Fiona,1,1
+Khattabi   Fadila,Manin   Josette,0,1
+Khattabi   Fadila,Holroyd   Alexandre,1,1
+Khattabi   Fadila,Gaillot   Albane,1,1
+Khattabi   Fadila,Vuilletet   Guillaume,1,1
+Khattabi   Fadila,Peu   Stéphane,0,1
+Khattabi   Fadila,Riotton   Véronique,1,1
+Khattabi   Fadila,Roseren   Xavier,1,1
+Khattabi   Fadila,Verdier-Jouclas   Marie-Christine,1,1
+Khattabi   Fadila,Rossi   Laurianne,1,1
+Khattabi   Fadila,Piron   Béatrice,1,1
+Khattabi   Fadila,Morenas   Adrien,1,1
+Khattabi   Fadila,de Vaucouleurs   Michèle,1,1
+Khattabi   Fadila,Latombe   Philippe,1,1
+Khattabi   Fadila,Magne   Marie-Ange,1,1
+Khattabi   Fadila,Ali   Ramlati,1,1
+Moreau   Jean-Baptiste,Le Meur   Annaïg,1,1
+Moreau   Jean-Baptiste,Cazeneuve   Jean-René,1,1
+Moreau   Jean-Baptiste,Cabaré   Pierre,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,0,1
+Moreau   Jean-Baptiste,Cloarec-Le Nabour   Christine,1,1
+Moreau   Jean-Baptiste,Jolivet   François,1,1
+Moreau   Jean-Baptiste,Causse   Lionel,1,1
+Moreau   Jean-Baptiste,Vallaud   Boris,0,1
+Moreau   Jean-Baptiste,Freschi   Alexandre,1,1
+Moreau   Jean-Baptiste,Rist   Stéphanie,1,1
+Moreau   Jean-Baptiste,Magnier   Lise,0,1
+Moreau   Jean-Baptiste,Zannier   Hélène,1,1
+Moreau   Jean-Baptiste,Hammouche   Brahim,1,1
+Moreau   Jean-Baptiste,Jacques   Jean-Michel,1,1
+Moreau   Jean-Baptiste,Belhaddad   Belkhir,1,1
+Moreau   Jean-Baptiste,Lioger   Richard,1,1
+Moreau   Jean-Baptiste,Paluszkiewicz   Xavier,1,1
+Moreau   Jean-Baptiste,Minot   Maxime,0,1
+Moreau   Jean-Baptiste,Lazaar   Fiona,1,1
+Moreau   Jean-Baptiste,Manin   Josette,0,1
+Moreau   Jean-Baptiste,Holroyd   Alexandre,1,1
+Moreau   Jean-Baptiste,Gaillot   Albane,1,1
+Moreau   Jean-Baptiste,Vuilletet   Guillaume,1,1
+Moreau   Jean-Baptiste,Peu   Stéphane,0,1
+Moreau   Jean-Baptiste,Riotton   Véronique,1,1
+Moreau   Jean-Baptiste,Roseren   Xavier,1,1
+Moreau   Jean-Baptiste,Verdier-Jouclas   Marie-Christine,1,1
+Moreau   Jean-Baptiste,Rossi   Laurianne,1,1
+Moreau   Jean-Baptiste,Piron   Béatrice,1,1
+Moreau   Jean-Baptiste,Morenas   Adrien,1,1
+Moreau   Jean-Baptiste,de Vaucouleurs   Michèle,1,1
+Moreau   Jean-Baptiste,Latombe   Philippe,1,1
+Moreau   Jean-Baptiste,Magne   Marie-Ange,1,1
+Moreau   Jean-Baptiste,Ali   Ramlati,1,1
+Le Meur   Annaïg,Cazeneuve   Jean-René,1,1
+Le Meur   Annaïg,Cabaré   Pierre,1,1
+Le Meur   Annaïg,Ménard   Emmanuelle,0,1
+Le Meur   Annaïg,Cloarec-Le Nabour   Christine,1,1
+Le Meur   Annaïg,Jolivet   François,1,1
+Le Meur   Annaïg,Causse   Lionel,1,1
+Le Meur   Annaïg,Vallaud   Boris,0,1
+Le Meur   Annaïg,Freschi   Alexandre,1,1
+Le Meur   Annaïg,Rist   Stéphanie,1,1
+Le Meur   Annaïg,Magnier   Lise,0,1
+Le Meur   Annaïg,Zannier   Hélène,1,1
+Le Meur   Annaïg,Hammouche   Brahim,1,1
+Le Meur   Annaïg,Jacques   Jean-Michel,1,1
+Le Meur   Annaïg,Belhaddad   Belkhir,1,1
+Le Meur   Annaïg,Lioger   Richard,1,1
+Le Meur   Annaïg,Paluszkiewicz   Xavier,1,1
+Le Meur   Annaïg,Minot   Maxime,0,1
+Le Meur   Annaïg,Lazaar   Fiona,1,1
+Le Meur   Annaïg,Manin   Josette,0,1
+Le Meur   Annaïg,Holroyd   Alexandre,1,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Vuilletet   Guillaume,1,1
+Le Meur   Annaïg,Peu   Stéphane,0,1
+Le Meur   Annaïg,Riotton   Véronique,1,1
+Le Meur   Annaïg,Roseren   Xavier,1,1
+Le Meur   Annaïg,Verdier-Jouclas   Marie-Christine,1,1
+Le Meur   Annaïg,Rossi   Laurianne,1,1
+Le Meur   Annaïg,Piron   Béatrice,1,1
+Le Meur   Annaïg,Morenas   Adrien,1,1
+Le Meur   Annaïg,de Vaucouleurs   Michèle,1,1
+Le Meur   Annaïg,Latombe   Philippe,1,1
+Le Meur   Annaïg,Magne   Marie-Ange,1,1
+Le Meur   Annaïg,Ali   Ramlati,1,1
+Cazeneuve   Jean-René,Cabaré   Pierre,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,Cloarec-Le Nabour   Christine,1,1
+Cazeneuve   Jean-René,Jolivet   François,1,1
+Cazeneuve   Jean-René,Causse   Lionel,1,1
+Cazeneuve   Jean-René,Vallaud   Boris,0,1
+Cazeneuve   Jean-René,Freschi   Alexandre,1,1
+Cazeneuve   Jean-René,Rist   Stéphanie,1,1
+Cazeneuve   Jean-René,Magnier   Lise,0,1
+Cazeneuve   Jean-René,Zannier   Hélène,1,1
+Cazeneuve   Jean-René,Hammouche   Brahim,1,1
+Cazeneuve   Jean-René,Jacques   Jean-Michel,1,1
+Cazeneuve   Jean-René,Belhaddad   Belkhir,1,1
+Cazeneuve   Jean-René,Lioger   Richard,1,1
+Cazeneuve   Jean-René,Paluszkiewicz   Xavier,1,1
+Cazeneuve   Jean-René,Minot   Maxime,0,1
+Cazeneuve   Jean-René,Lazaar   Fiona,1,1
+Cazeneuve   Jean-René,Manin   Josette,0,1
+Cazeneuve   Jean-René,Holroyd   Alexandre,1,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Vuilletet   Guillaume,1,1
+Cazeneuve   Jean-René,Peu   Stéphane,0,1
+Cazeneuve   Jean-René,Riotton   Véronique,1,1
+Cazeneuve   Jean-René,Roseren   Xavier,1,1
+Cazeneuve   Jean-René,Verdier-Jouclas   Marie-Christine,1,1
+Cazeneuve   Jean-René,Rossi   Laurianne,1,1
+Cazeneuve   Jean-René,Piron   Béatrice,1,1
+Cazeneuve   Jean-René,Morenas   Adrien,1,1
+Cazeneuve   Jean-René,de Vaucouleurs   Michèle,1,1
+Cazeneuve   Jean-René,Latombe   Philippe,1,1
+Cazeneuve   Jean-René,Magne   Marie-Ange,1,1
+Cazeneuve   Jean-René,Ali   Ramlati,1,1
+Cabaré   Pierre,Ménard   Emmanuelle,0,1
+Cabaré   Pierre,Cloarec-Le Nabour   Christine,1,1
+Cabaré   Pierre,Jolivet   François,1,1
+Cabaré   Pierre,Causse   Lionel,1,1
+Cabaré   Pierre,Vallaud   Boris,0,1
+Cabaré   Pierre,Freschi   Alexandre,1,1
+Cabaré   Pierre,Rist   Stéphanie,1,1
+Cabaré   Pierre,Magnier   Lise,0,1
+Cabaré   Pierre,Zannier   Hélène,1,1
+Cabaré   Pierre,Hammouche   Brahim,1,1
+Cabaré   Pierre,Jacques   Jean-Michel,1,1
+Cabaré   Pierre,Belhaddad   Belkhir,1,1
+Cabaré   Pierre,Lioger   Richard,1,1
+Cabaré   Pierre,Paluszkiewicz   Xavier,1,1
+Cabaré   Pierre,Minot   Maxime,0,1
+Cabaré   Pierre,Lazaar   Fiona,1,1
+Cabaré   Pierre,Manin   Josette,0,1
+Cabaré   Pierre,Holroyd   Alexandre,1,1
+Cabaré   Pierre,Gaillot   Albane,1,1
+Cabaré   Pierre,Vuilletet   Guillaume,1,1
+Cabaré   Pierre,Peu   Stéphane,0,1
+Cabaré   Pierre,Riotton   Véronique,1,1
+Cabaré   Pierre,Roseren   Xavier,1,1
+Cabaré   Pierre,Verdier-Jouclas   Marie-Christine,1,1
+Cabaré   Pierre,Rossi   Laurianne,1,1
+Cabaré   Pierre,Piron   Béatrice,1,1
+Cabaré   Pierre,Morenas   Adrien,1,1
+Cabaré   Pierre,de Vaucouleurs   Michèle,1,1
+Cabaré   Pierre,Latombe   Philippe,1,1
+Cabaré   Pierre,Magne   Marie-Ange,1,1
+Cabaré   Pierre,Ali   Ramlati,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,0,1
+Ménard   Emmanuelle,Jolivet   François,0,1
+Ménard   Emmanuelle,Causse   Lionel,0,1
+Ménard   Emmanuelle,Vallaud   Boris,0,1
+Ménard   Emmanuelle,Freschi   Alexandre,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Magnier   Lise,1,1
+Ménard   Emmanuelle,Zannier   Hélène,0,1
+Ménard   Emmanuelle,Hammouche   Brahim,0,1
+Ménard   Emmanuelle,Jacques   Jean-Michel,0,1
+Ménard   Emmanuelle,Belhaddad   Belkhir,0,1
+Ménard   Emmanuelle,Lioger   Richard,0,1
+Ménard   Emmanuelle,Paluszkiewicz   Xavier,0,1
+Ménard   Emmanuelle,Minot   Maxime,1,1
+Ménard   Emmanuelle,Lazaar   Fiona,0,1
+Ménard   Emmanuelle,Manin   Josette,0,1
+Ménard   Emmanuelle,Holroyd   Alexandre,0,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Vuilletet   Guillaume,0,1
+Ménard   Emmanuelle,Peu   Stéphane,1,1
+Ménard   Emmanuelle,Riotton   Véronique,0,1
+Ménard   Emmanuelle,Roseren   Xavier,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Rossi   Laurianne,0,1
+Ménard   Emmanuelle,Piron   Béatrice,0,1
+Ménard   Emmanuelle,Morenas   Adrien,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Latombe   Philippe,0,1
+Ménard   Emmanuelle,Magne   Marie-Ange,0,1
+Ménard   Emmanuelle,Ali   Ramlati,0,1
+Cloarec-Le Nabour   Christine,Jolivet   François,1,1
+Cloarec-Le Nabour   Christine,Causse   Lionel,1,1
+Cloarec-Le Nabour   Christine,Vallaud   Boris,0,1
+Cloarec-Le Nabour   Christine,Freschi   Alexandre,1,1
+Cloarec-Le Nabour   Christine,Rist   Stéphanie,1,1
+Cloarec-Le Nabour   Christine,Magnier   Lise,0,1
+Cloarec-Le Nabour   Christine,Zannier   Hélène,1,1
+Cloarec-Le Nabour   Christine,Hammouche   Brahim,1,1
+Cloarec-Le Nabour   Christine,Jacques   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Belhaddad   Belkhir,1,1
+Cloarec-Le Nabour   Christine,Lioger   Richard,1,1
+Cloarec-Le Nabour   Christine,Paluszkiewicz   Xavier,1,1
+Cloarec-Le Nabour   Christine,Minot   Maxime,0,1
+Cloarec-Le Nabour   Christine,Lazaar   Fiona,1,1
+Cloarec-Le Nabour   Christine,Manin   Josette,0,1
+Cloarec-Le Nabour   Christine,Holroyd   Alexandre,1,1
+Cloarec-Le Nabour   Christine,Gaillot   Albane,1,1
+Cloarec-Le Nabour   Christine,Vuilletet   Guillaume,1,1
+Cloarec-Le Nabour   Christine,Peu   Stéphane,0,1
+Cloarec-Le Nabour   Christine,Riotton   Véronique,1,1
+Cloarec-Le Nabour   Christine,Roseren   Xavier,1,1
+Cloarec-Le Nabour   Christine,Verdier-Jouclas   Marie-Christine,1,1
+Cloarec-Le Nabour   Christine,Rossi   Laurianne,1,1
+Cloarec-Le Nabour   Christine,Piron   Béatrice,1,1
+Cloarec-Le Nabour   Christine,Morenas   Adrien,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,1,1
+Cloarec-Le Nabour   Christine,Latombe   Philippe,1,1
+Cloarec-Le Nabour   Christine,Magne   Marie-Ange,1,1
+Cloarec-Le Nabour   Christine,Ali   Ramlati,1,1
+Jolivet   François,Causse   Lionel,1,1
+Jolivet   François,Vallaud   Boris,0,1
+Jolivet   François,Freschi   Alexandre,1,1
+Jolivet   François,Rist   Stéphanie,1,1
+Jolivet   François,Magnier   Lise,0,1
+Jolivet   François,Zannier   Hélène,1,1
+Jolivet   François,Hammouche   Brahim,1,1
+Jolivet   François,Jacques   Jean-Michel,1,1
+Jolivet   François,Belhaddad   Belkhir,1,1
+Jolivet   François,Lioger   Richard,1,1
+Jolivet   François,Paluszkiewicz   Xavier,1,1
+Jolivet   François,Minot   Maxime,0,1
+Jolivet   François,Lazaar   Fiona,1,1
+Jolivet   François,Manin   Josette,0,1
+Jolivet   François,Holroyd   Alexandre,1,1
+Jolivet   François,Gaillot   Albane,1,1
+Jolivet   François,Vuilletet   Guillaume,1,1
+Jolivet   François,Peu   Stéphane,0,1
+Jolivet   François,Riotton   Véronique,1,1
+Jolivet   François,Roseren   Xavier,1,1
+Jolivet   François,Verdier-Jouclas   Marie-Christine,1,1
+Jolivet   François,Rossi   Laurianne,1,1
+Jolivet   François,Piron   Béatrice,1,1
+Jolivet   François,Morenas   Adrien,1,1
+Jolivet   François,de Vaucouleurs   Michèle,1,1
+Jolivet   François,Latombe   Philippe,1,1
+Jolivet   François,Magne   Marie-Ange,1,1
+Jolivet   François,Ali   Ramlati,1,1
+Causse   Lionel,Vallaud   Boris,0,1
+Causse   Lionel,Freschi   Alexandre,1,1
+Causse   Lionel,Rist   Stéphanie,1,1
+Causse   Lionel,Magnier   Lise,0,1
+Causse   Lionel,Zannier   Hélène,1,1
+Causse   Lionel,Hammouche   Brahim,1,1
+Causse   Lionel,Jacques   Jean-Michel,1,1
+Causse   Lionel,Belhaddad   Belkhir,1,1
+Causse   Lionel,Lioger   Richard,1,1
+Causse   Lionel,Paluszkiewicz   Xavier,1,1
+Causse   Lionel,Minot   Maxime,0,1
+Causse   Lionel,Lazaar   Fiona,1,1
+Causse   Lionel,Manin   Josette,0,1
+Causse   Lionel,Holroyd   Alexandre,1,1
+Causse   Lionel,Gaillot   Albane,1,1
+Causse   Lionel,Vuilletet   Guillaume,1,1
+Causse   Lionel,Peu   Stéphane,0,1
+Causse   Lionel,Riotton   Véronique,1,1
+Causse   Lionel,Roseren   Xavier,1,1
+Causse   Lionel,Verdier-Jouclas   Marie-Christine,1,1
+Causse   Lionel,Rossi   Laurianne,1,1
+Causse   Lionel,Piron   Béatrice,1,1
+Causse   Lionel,Morenas   Adrien,1,1
+Causse   Lionel,de Vaucouleurs   Michèle,1,1
+Causse   Lionel,Latombe   Philippe,1,1
+Causse   Lionel,Magne   Marie-Ange,1,1
+Causse   Lionel,Ali   Ramlati,1,1
+Vallaud   Boris,Freschi   Alexandre,0,1
+Vallaud   Boris,Rist   Stéphanie,0,1
+Vallaud   Boris,Magnier   Lise,0,1
+Vallaud   Boris,Zannier   Hélène,0,1
+Vallaud   Boris,Hammouche   Brahim,0,1
+Vallaud   Boris,Jacques   Jean-Michel,0,1
+Vallaud   Boris,Belhaddad   Belkhir,0,1
+Vallaud   Boris,Lioger   Richard,0,1
+Vallaud   Boris,Paluszkiewicz   Xavier,0,1
+Vallaud   Boris,Minot   Maxime,0,1
+Vallaud   Boris,Lazaar   Fiona,0,1
+Vallaud   Boris,Manin   Josette,1,1
+Vallaud   Boris,Holroyd   Alexandre,0,1
+Vallaud   Boris,Gaillot   Albane,0,1
+Vallaud   Boris,Vuilletet   Guillaume,0,1
+Vallaud   Boris,Peu   Stéphane,0,1
+Vallaud   Boris,Riotton   Véronique,0,1
+Vallaud   Boris,Roseren   Xavier,0,1
+Vallaud   Boris,Verdier-Jouclas   Marie-Christine,0,1
+Vallaud   Boris,Rossi   Laurianne,0,1
+Vallaud   Boris,Piron   Béatrice,0,1
+Vallaud   Boris,Morenas   Adrien,0,1
+Vallaud   Boris,de Vaucouleurs   Michèle,0,1
+Vallaud   Boris,Latombe   Philippe,0,1
+Vallaud   Boris,Magne   Marie-Ange,0,1
+Vallaud   Boris,Ali   Ramlati,0,1
+Freschi   Alexandre,Rist   Stéphanie,1,1
+Freschi   Alexandre,Magnier   Lise,0,1
+Freschi   Alexandre,Zannier   Hélène,1,1
+Freschi   Alexandre,Hammouche   Brahim,1,1
+Freschi   Alexandre,Jacques   Jean-Michel,1,1
+Freschi   Alexandre,Belhaddad   Belkhir,1,1
+Freschi   Alexandre,Lioger   Richard,1,1
+Freschi   Alexandre,Paluszkiewicz   Xavier,1,1
+Freschi   Alexandre,Minot   Maxime,0,1
+Freschi   Alexandre,Lazaar   Fiona,1,1
+Freschi   Alexandre,Manin   Josette,0,1
+Freschi   Alexandre,Holroyd   Alexandre,1,1
+Freschi   Alexandre,Gaillot   Albane,1,1
+Freschi   Alexandre,Vuilletet   Guillaume,1,1
+Freschi   Alexandre,Peu   Stéphane,0,1
+Freschi   Alexandre,Riotton   Véronique,1,1
+Freschi   Alexandre,Roseren   Xavier,1,1
+Freschi   Alexandre,Verdier-Jouclas   Marie-Christine,1,1
+Freschi   Alexandre,Rossi   Laurianne,1,1
+Freschi   Alexandre,Piron   Béatrice,1,1
+Freschi   Alexandre,Morenas   Adrien,1,1
+Freschi   Alexandre,de Vaucouleurs   Michèle,1,1
+Freschi   Alexandre,Latombe   Philippe,1,1
+Freschi   Alexandre,Magne   Marie-Ange,1,1
+Freschi   Alexandre,Ali   Ramlati,1,1
+Rist   Stéphanie,Magnier   Lise,0,1
+Rist   Stéphanie,Zannier   Hélène,1,1
+Rist   Stéphanie,Hammouche   Brahim,1,1
+Rist   Stéphanie,Jacques   Jean-Michel,1,1
+Rist   Stéphanie,Belhaddad   Belkhir,1,1
+Rist   Stéphanie,Lioger   Richard,1,1
+Rist   Stéphanie,Paluszkiewicz   Xavier,1,1
+Rist   Stéphanie,Minot   Maxime,0,1
+Rist   Stéphanie,Lazaar   Fiona,1,1
+Rist   Stéphanie,Manin   Josette,0,1
+Rist   Stéphanie,Holroyd   Alexandre,1,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Vuilletet   Guillaume,1,1
+Rist   Stéphanie,Peu   Stéphane,0,1
+Rist   Stéphanie,Riotton   Véronique,1,1
+Rist   Stéphanie,Roseren   Xavier,1,1
+Rist   Stéphanie,Verdier-Jouclas   Marie-Christine,1,1
+Rist   Stéphanie,Rossi   Laurianne,1,1
+Rist   Stéphanie,Piron   Béatrice,1,1
+Rist   Stéphanie,Morenas   Adrien,1,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,1,1
+Rist   Stéphanie,Latombe   Philippe,1,1
+Rist   Stéphanie,Magne   Marie-Ange,1,1
+Rist   Stéphanie,Ali   Ramlati,1,1
+Magnier   Lise,Zannier   Hélène,0,1
+Magnier   Lise,Hammouche   Brahim,0,1
+Magnier   Lise,Jacques   Jean-Michel,0,1
+Magnier   Lise,Belhaddad   Belkhir,0,1
+Magnier   Lise,Lioger   Richard,0,1
+Magnier   Lise,Paluszkiewicz   Xavier,0,1
+Magnier   Lise,Minot   Maxime,1,1
+Magnier   Lise,Lazaar   Fiona,0,1
+Magnier   Lise,Manin   Josette,0,1
+Magnier   Lise,Holroyd   Alexandre,0,1
+Magnier   Lise,Gaillot   Albane,0,1
+Magnier   Lise,Vuilletet   Guillaume,0,1
+Magnier   Lise,Peu   Stéphane,1,1
+Magnier   Lise,Riotton   Véronique,0,1
+Magnier   Lise,Roseren   Xavier,0,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,0,1
+Magnier   Lise,Rossi   Laurianne,0,1
+Magnier   Lise,Piron   Béatrice,0,1
+Magnier   Lise,Morenas   Adrien,0,1
+Magnier   Lise,de Vaucouleurs   Michèle,0,1
+Magnier   Lise,Latombe   Philippe,0,1
+Magnier   Lise,Magne   Marie-Ange,0,1
+Magnier   Lise,Ali   Ramlati,0,1
+Zannier   Hélène,Hammouche   Brahim,1,1
+Zannier   Hélène,Jacques   Jean-Michel,1,1
+Zannier   Hélène,Belhaddad   Belkhir,1,1
+Zannier   Hélène,Lioger   Richard,1,1
+Zannier   Hélène,Paluszkiewicz   Xavier,1,1
+Zannier   Hélène,Minot   Maxime,0,1
+Zannier   Hélène,Lazaar   Fiona,1,1
+Zannier   Hélène,Manin   Josette,0,1
+Zannier   Hélène,Holroyd   Alexandre,1,1
+Zannier   Hélène,Gaillot   Albane,1,1
+Zannier   Hélène,Vuilletet   Guillaume,1,1
+Zannier   Hélène,Peu   Stéphane,0,1
+Zannier   Hélène,Riotton   Véronique,1,1
+Zannier   Hélène,Roseren   Xavier,1,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Rossi   Laurianne,1,1
+Zannier   Hélène,Piron   Béatrice,1,1
+Zannier   Hélène,Morenas   Adrien,1,1
+Zannier   Hélène,de Vaucouleurs   Michèle,1,1
+Zannier   Hélène,Latombe   Philippe,1,1
+Zannier   Hélène,Magne   Marie-Ange,1,1
+Zannier   Hélène,Ali   Ramlati,1,1
+Hammouche   Brahim,Jacques   Jean-Michel,1,1
+Hammouche   Brahim,Belhaddad   Belkhir,1,1
+Hammouche   Brahim,Lioger   Richard,1,1
+Hammouche   Brahim,Paluszkiewicz   Xavier,1,1
+Hammouche   Brahim,Minot   Maxime,0,1
+Hammouche   Brahim,Lazaar   Fiona,1,1
+Hammouche   Brahim,Manin   Josette,0,1
+Hammouche   Brahim,Holroyd   Alexandre,1,1
+Hammouche   Brahim,Gaillot   Albane,1,1
+Hammouche   Brahim,Vuilletet   Guillaume,1,1
+Hammouche   Brahim,Peu   Stéphane,0,1
+Hammouche   Brahim,Riotton   Véronique,1,1
+Hammouche   Brahim,Roseren   Xavier,1,1
+Hammouche   Brahim,Verdier-Jouclas   Marie-Christine,1,1
+Hammouche   Brahim,Rossi   Laurianne,1,1
+Hammouche   Brahim,Piron   Béatrice,1,1
+Hammouche   Brahim,Morenas   Adrien,1,1
+Hammouche   Brahim,de Vaucouleurs   Michèle,1,1
+Hammouche   Brahim,Latombe   Philippe,1,1
+Hammouche   Brahim,Magne   Marie-Ange,1,1
+Hammouche   Brahim,Ali   Ramlati,1,1
+Jacques   Jean-Michel,Belhaddad   Belkhir,1,1
+Jacques   Jean-Michel,Lioger   Richard,1,1
+Jacques   Jean-Michel,Paluszkiewicz   Xavier,1,1
+Jacques   Jean-Michel,Minot   Maxime,0,1
+Jacques   Jean-Michel,Lazaar   Fiona,1,1
+Jacques   Jean-Michel,Manin   Josette,0,1
+Jacques   Jean-Michel,Holroyd   Alexandre,1,1
+Jacques   Jean-Michel,Gaillot   Albane,1,1
+Jacques   Jean-Michel,Vuilletet   Guillaume,1,1
+Jacques   Jean-Michel,Peu   Stéphane,0,1
+Jacques   Jean-Michel,Riotton   Véronique,1,1
+Jacques   Jean-Michel,Roseren   Xavier,1,1
+Jacques   Jean-Michel,Verdier-Jouclas   Marie-Christine,1,1
+Jacques   Jean-Michel,Rossi   Laurianne,1,1
+Jacques   Jean-Michel,Piron   Béatrice,1,1
+Jacques   Jean-Michel,Morenas   Adrien,1,1
+Jacques   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Jacques   Jean-Michel,Latombe   Philippe,1,1
+Jacques   Jean-Michel,Magne   Marie-Ange,1,1
+Jacques   Jean-Michel,Ali   Ramlati,1,1
+Belhaddad   Belkhir,Lioger   Richard,1,1
+Belhaddad   Belkhir,Paluszkiewicz   Xavier,1,1
+Belhaddad   Belkhir,Minot   Maxime,0,1
+Belhaddad   Belkhir,Lazaar   Fiona,1,1
+Belhaddad   Belkhir,Manin   Josette,0,1
+Belhaddad   Belkhir,Holroyd   Alexandre,1,1
+Belhaddad   Belkhir,Gaillot   Albane,1,1
+Belhaddad   Belkhir,Vuilletet   Guillaume,1,1
+Belhaddad   Belkhir,Peu   Stéphane,0,1
+Belhaddad   Belkhir,Riotton   Véronique,1,1
+Belhaddad   Belkhir,Roseren   Xavier,1,1
+Belhaddad   Belkhir,Verdier-Jouclas   Marie-Christine,1,1
+Belhaddad   Belkhir,Rossi   Laurianne,1,1
+Belhaddad   Belkhir,Piron   Béatrice,1,1
+Belhaddad   Belkhir,Morenas   Adrien,1,1
+Belhaddad   Belkhir,de Vaucouleurs   Michèle,1,1
+Belhaddad   Belkhir,Latombe   Philippe,1,1
+Belhaddad   Belkhir,Magne   Marie-Ange,1,1
+Belhaddad   Belkhir,Ali   Ramlati,1,1
+Lioger   Richard,Paluszkiewicz   Xavier,1,1
+Lioger   Richard,Minot   Maxime,0,1
+Lioger   Richard,Lazaar   Fiona,1,1
+Lioger   Richard,Manin   Josette,0,1
+Lioger   Richard,Holroyd   Alexandre,1,1
+Lioger   Richard,Gaillot   Albane,1,1
+Lioger   Richard,Vuilletet   Guillaume,1,1
+Lioger   Richard,Peu   Stéphane,0,1
+Lioger   Richard,Riotton   Véronique,1,1
+Lioger   Richard,Roseren   Xavier,1,1
+Lioger   Richard,Verdier-Jouclas   Marie-Christine,1,1
+Lioger   Richard,Rossi   Laurianne,1,1
+Lioger   Richard,Piron   Béatrice,1,1
+Lioger   Richard,Morenas   Adrien,1,1
+Lioger   Richard,de Vaucouleurs   Michèle,1,1
+Lioger   Richard,Latombe   Philippe,1,1
+Lioger   Richard,Magne   Marie-Ange,1,1
+Lioger   Richard,Ali   Ramlati,1,1
+Paluszkiewicz   Xavier,Minot   Maxime,0,1
+Paluszkiewicz   Xavier,Lazaar   Fiona,1,1
+Paluszkiewicz   Xavier,Manin   Josette,0,1
+Paluszkiewicz   Xavier,Holroyd   Alexandre,1,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Vuilletet   Guillaume,1,1
+Paluszkiewicz   Xavier,Peu   Stéphane,0,1
+Paluszkiewicz   Xavier,Riotton   Véronique,1,1
+Paluszkiewicz   Xavier,Roseren   Xavier,1,1
+Paluszkiewicz   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Paluszkiewicz   Xavier,Rossi   Laurianne,1,1
+Paluszkiewicz   Xavier,Piron   Béatrice,1,1
+Paluszkiewicz   Xavier,Morenas   Adrien,1,1
+Paluszkiewicz   Xavier,de Vaucouleurs   Michèle,1,1
+Paluszkiewicz   Xavier,Latombe   Philippe,1,1
+Paluszkiewicz   Xavier,Magne   Marie-Ange,1,1
+Paluszkiewicz   Xavier,Ali   Ramlati,1,1
+Minot   Maxime,Lazaar   Fiona,0,1
+Minot   Maxime,Manin   Josette,0,1
+Minot   Maxime,Holroyd   Alexandre,0,1
+Minot   Maxime,Gaillot   Albane,0,1
+Minot   Maxime,Vuilletet   Guillaume,0,1
+Minot   Maxime,Peu   Stéphane,1,1
+Minot   Maxime,Riotton   Véronique,0,1
+Minot   Maxime,Roseren   Xavier,0,1
+Minot   Maxime,Verdier-Jouclas   Marie-Christine,0,1
+Minot   Maxime,Rossi   Laurianne,0,1
+Minot   Maxime,Piron   Béatrice,0,1
+Minot   Maxime,Morenas   Adrien,0,1
+Minot   Maxime,de Vaucouleurs   Michèle,0,1
+Minot   Maxime,Latombe   Philippe,0,1
+Minot   Maxime,Magne   Marie-Ange,0,1
+Minot   Maxime,Ali   Ramlati,0,1
+Lazaar   Fiona,Manin   Josette,0,1
+Lazaar   Fiona,Holroyd   Alexandre,1,1
+Lazaar   Fiona,Gaillot   Albane,1,1
+Lazaar   Fiona,Vuilletet   Guillaume,1,1
+Lazaar   Fiona,Peu   Stéphane,0,1
+Lazaar   Fiona,Riotton   Véronique,1,1
+Lazaar   Fiona,Roseren   Xavier,1,1
+Lazaar   Fiona,Verdier-Jouclas   Marie-Christine,1,1
+Lazaar   Fiona,Rossi   Laurianne,1,1
+Lazaar   Fiona,Piron   Béatrice,1,1
+Lazaar   Fiona,Morenas   Adrien,1,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,1,1
+Lazaar   Fiona,Latombe   Philippe,1,1
+Lazaar   Fiona,Magne   Marie-Ange,1,1
+Lazaar   Fiona,Ali   Ramlati,1,1
+Manin   Josette,Holroyd   Alexandre,0,1
+Manin   Josette,Gaillot   Albane,0,1
+Manin   Josette,Vuilletet   Guillaume,0,1
+Manin   Josette,Peu   Stéphane,0,1
+Manin   Josette,Riotton   Véronique,0,1
+Manin   Josette,Roseren   Xavier,0,1
+Manin   Josette,Verdier-Jouclas   Marie-Christine,0,1
+Manin   Josette,Rossi   Laurianne,0,1
+Manin   Josette,Piron   Béatrice,0,1
+Manin   Josette,Morenas   Adrien,0,1
+Manin   Josette,de Vaucouleurs   Michèle,0,1
+Manin   Josette,Latombe   Philippe,0,1
+Manin   Josette,Magne   Marie-Ange,0,1
+Manin   Josette,Ali   Ramlati,0,1
+Holroyd   Alexandre,Gaillot   Albane,1,1
+Holroyd   Alexandre,Vuilletet   Guillaume,1,1
+Holroyd   Alexandre,Peu   Stéphane,0,1
+Holroyd   Alexandre,Riotton   Véronique,1,1
+Holroyd   Alexandre,Roseren   Xavier,1,1
+Holroyd   Alexandre,Verdier-Jouclas   Marie-Christine,1,1
+Holroyd   Alexandre,Rossi   Laurianne,1,1
+Holroyd   Alexandre,Piron   Béatrice,1,1
+Holroyd   Alexandre,Morenas   Adrien,1,1
+Holroyd   Alexandre,de Vaucouleurs   Michèle,1,1
+Holroyd   Alexandre,Latombe   Philippe,1,1
+Holroyd   Alexandre,Magne   Marie-Ange,1,1
+Holroyd   Alexandre,Ali   Ramlati,1,1
+Gaillot   Albane,Vuilletet   Guillaume,1,1
+Gaillot   Albane,Peu   Stéphane,0,1
+Gaillot   Albane,Riotton   Véronique,1,1
+Gaillot   Albane,Roseren   Xavier,1,1
+Gaillot   Albane,Verdier-Jouclas   Marie-Christine,1,1
+Gaillot   Albane,Rossi   Laurianne,1,1
+Gaillot   Albane,Piron   Béatrice,1,1
+Gaillot   Albane,Morenas   Adrien,1,1
+Gaillot   Albane,de Vaucouleurs   Michèle,1,1
+Gaillot   Albane,Latombe   Philippe,1,1
+Gaillot   Albane,Magne   Marie-Ange,1,1
+Gaillot   Albane,Ali   Ramlati,1,1
+Vuilletet   Guillaume,Peu   Stéphane,0,1
+Vuilletet   Guillaume,Riotton   Véronique,1,1
+Vuilletet   Guillaume,Roseren   Xavier,1,1
+Vuilletet   Guillaume,Verdier-Jouclas   Marie-Christine,1,1
+Vuilletet   Guillaume,Rossi   Laurianne,1,1
+Vuilletet   Guillaume,Piron   Béatrice,1,1
+Vuilletet   Guillaume,Morenas   Adrien,1,1
+Vuilletet   Guillaume,de Vaucouleurs   Michèle,1,1
+Vuilletet   Guillaume,Latombe   Philippe,1,1
+Vuilletet   Guillaume,Magne   Marie-Ange,1,1
+Vuilletet   Guillaume,Ali   Ramlati,1,1
+Peu   Stéphane,Riotton   Véronique,0,1
+Peu   Stéphane,Roseren   Xavier,0,1
+Peu   Stéphane,Verdier-Jouclas   Marie-Christine,0,1
+Peu   Stéphane,Rossi   Laurianne,0,1
+Peu   Stéphane,Piron   Béatrice,0,1
+Peu   Stéphane,Morenas   Adrien,0,1
+Peu   Stéphane,de Vaucouleurs   Michèle,0,1
+Peu   Stéphane,Latombe   Philippe,0,1
+Peu   Stéphane,Magne   Marie-Ange,0,1
+Peu   Stéphane,Ali   Ramlati,0,1
+Riotton   Véronique,Roseren   Xavier,1,1
+Riotton   Véronique,Verdier-Jouclas   Marie-Christine,1,1
+Riotton   Véronique,Rossi   Laurianne,1,1
+Riotton   Véronique,Piron   Béatrice,1,1
+Riotton   Véronique,Morenas   Adrien,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,1,1
+Riotton   Véronique,Latombe   Philippe,1,1
+Riotton   Véronique,Magne   Marie-Ange,1,1
+Riotton   Véronique,Ali   Ramlati,1,1
+Roseren   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Roseren   Xavier,Rossi   Laurianne,1,1
+Roseren   Xavier,Piron   Béatrice,1,1
+Roseren   Xavier,Morenas   Adrien,1,1
+Roseren   Xavier,de Vaucouleurs   Michèle,1,1
+Roseren   Xavier,Latombe   Philippe,1,1
+Roseren   Xavier,Magne   Marie-Ange,1,1
+Roseren   Xavier,Ali   Ramlati,1,1
+Verdier-Jouclas   Marie-Christine,Rossi   Laurianne,1,1
+Verdier-Jouclas   Marie-Christine,Piron   Béatrice,1,1
+Verdier-Jouclas   Marie-Christine,Morenas   Adrien,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Latombe   Philippe,1,1
+Verdier-Jouclas   Marie-Christine,Magne   Marie-Ange,1,1
+Verdier-Jouclas   Marie-Christine,Ali   Ramlati,1,1
+Rossi   Laurianne,Piron   Béatrice,1,1
+Rossi   Laurianne,Morenas   Adrien,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,1,1
+Rossi   Laurianne,Latombe   Philippe,1,1
+Rossi   Laurianne,Magne   Marie-Ange,1,1
+Rossi   Laurianne,Ali   Ramlati,1,1
+Piron   Béatrice,Morenas   Adrien,1,1
+Piron   Béatrice,de Vaucouleurs   Michèle,1,1
+Piron   Béatrice,Latombe   Philippe,1,1
+Piron   Béatrice,Magne   Marie-Ange,1,1
+Piron   Béatrice,Ali   Ramlati,1,1
+Morenas   Adrien,de Vaucouleurs   Michèle,1,1
+Morenas   Adrien,Latombe   Philippe,1,1
+Morenas   Adrien,Magne   Marie-Ange,1,1
+Morenas   Adrien,Ali   Ramlati,1,1
+de Vaucouleurs   Michèle,Latombe   Philippe,1,1
+de Vaucouleurs   Michèle,Magne   Marie-Ange,1,1
+de Vaucouleurs   Michèle,Ali   Ramlati,1,1
+Latombe   Philippe,Magne   Marie-Ange,1,1
+Latombe   Philippe,Ali   Ramlati,1,1
+Magne   Marie-Ange,Ali   Ramlati,1,1

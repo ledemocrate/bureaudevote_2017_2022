@@ -1,0 +1,3404 @@
+from,to,vote_commun,loi_commun
+Jacob   Christian,Lassalle   Jean,1,1
+Jacob   Christian,de Ganay   Claude,1,1
+Jacob   Christian,Larrivé   Guillaume,1,1
+Jacob   Christian,Ciotti   Éric,1,1
+Jacob   Christian,Lecoq   Jean-Paul,0,1
+Jacob   Christian,Genevard   Annie,1,1
+Jacob   Christian,Ferrara   Jean-Jacques,1,1
+Jacob   Christian,Valentin   Isabelle,1,1
+Jacob   Christian,Bridey   Jean-Jacques,0,1
+Jacob   Christian,Brenier   Marine,1,1
+Jacob   Christian,Maillard   Sylvain,0,1
+Jacob   Christian,Trastour-Isnart   Laurence,1,1
+Jacob   Christian,Cordier   Pierre,1,1
+Jacob   Christian,Louis   Alexandra,0,1
+Jacob   Christian,Zulesi   Jean-Marc,0,1
+Jacob   Christian,Blanchet   Christophe,0,1
+Jacob   Christian,Bouyx   Bertrand,0,1
+Jacob   Christian,Essayan   Nadia,0,1
+Jacob   Christian,Gérard   Raphaël,0,1
+Jacob   Christian,Martin   Didier,0,1
+Jacob   Christian,Dubois   Jacqueline,0,1
+Jacob   Christian,Khattabi   Fadila,0,1
+Jacob   Christian,Paris   Didier,0,1
+Jacob   Christian,Gipson   Séverine,0,1
+Jacob   Christian,Gouttefarde   Fabien,0,1
+Jacob   Christian,Melchior   Graziella,0,1
+Jacob   Christian,Tamarelle-Verhaeghe   Marie,0,1
+Jacob   Christian,Le Gac   Didier,0,1
+Jacob   Christian,Mörch   Sandrine,0,1
+Jacob   Christian,Berta   Philippe,0,1
+Jacob   Christian,Colboc   Fabienne,0,1
+Jacob   Christian,Limon   Monique,0,1
+Jacob   Christian,Jacquier-Laforge   Élodie,0,1
+Jacob   Christian,Brulebois   Danielle,0,1
+Jacob   Christian,Sarles   Nathalie,0,1
+Jacob   Christian,Kamowski   Catherine,0,1
+Jacob   Christian,Tiegna   Huguette,0,1
+Jacob   Christian,Bannier   Géraldine,0,1
+Jacob   Christian,Zannier   Hélène,0,1
+Jacob   Christian,Jacques   Jean-Michel,0,1
+Jacob   Christian,Di Filippo   Fabien,1,1
+Jacob   Christian,Trisse   Nicole,0,1
+Jacob   Christian,Houbron   Dimitri,0,1
+Jacob   Christian,Cattelot   Anne-Laure,0,1
+Jacob   Christian,De Temmerman   Jennifer,1,1
+Jacob   Christian,Thill   Agnès,0,1
+Jacob   Christian,Le Pen   Marine,1,1
+Jacob   Christian,Minot   Maxime,1,1
+Jacob   Christian,Bilde   Bruno,1,1
+Jacob   Christian,Thomas   Valérie,0,1
+Jacob   Christian,Lachaud   Bastien,0,1
+Jacob   Christian,Testé   Stéphane,0,1
+Jacob   Christian,Moutchou   Naïma,0,1
+Jacob   Christian,Petit   Frédéric,0,1
+Jacob   Christian,Coquerel   Éric,0,1
+Jacob   Christian,Charrière   Sylvie,0,1
+Jacob   Christian,Vuilletet   Guillaume,0,1
+Jacob   Christian,Ramadier   Alain,1,1
+Jacob   Christian,Gouffier-Cha   Guillaume,0,1
+Jacob   Christian,Schellenberger   Raphaël,1,1
+Jacob   Christian,Gauvain   Raphaël,0,1
+Jacob   Christian,Degois   Typhanie,0,1
+Jacob   Christian,Riotton   Véronique,0,1
+Jacob   Christian,Lardet   Frédérique,0,1
+Jacob   Christian,Le Gendre   Gilles,0,1
+Jacob   Christian,Naegelen   Christophe,1,1
+Jacob   Christian,Guerini   Stanislas,0,1
+Jacob   Christian,Terlier   Jean,0,1
+Jacob   Christian,Muschotti   Cécile,0,1
+Jacob   Christian,Fauvergue   Jean-Michel,0,1
+Jacob   Christian,Peyron   Michèle,0,1
+Jacob   Christian,Mauborgne   Sereine,0,1
+Jacob   Christian,Michel-Kleisbauer   Philippe,0,1
+Jacob   Christian,Florennes   Isabelle,0,1
+Jacob   Christian,Renson   Hugues,0,1
+Jacob   Christian,Guévenoux   Marie,0,1
+Jacob   Christian,Faucillon   Elsa,0,1
+Jacob   Christian,Pouzyreff   Natalia,0,1
+Jacob   Christian,de Vaucouleurs   Michèle,0,1
+Jacob   Christian,Marilossian   Jacques,0,1
+Jacob   Christian,Fiévet   Jean-Marie,0,1
+Jacob   Christian,Houlié   Sacha,0,1
+Lassalle   Jean,de Ganay   Claude,1,1
+Lassalle   Jean,Larrivé   Guillaume,1,1
+Lassalle   Jean,Ciotti   Éric,1,1
+Lassalle   Jean,Lecoq   Jean-Paul,0,1
+Lassalle   Jean,Genevard   Annie,1,1
+Lassalle   Jean,Ferrara   Jean-Jacques,1,1
+Lassalle   Jean,Valentin   Isabelle,1,1
+Lassalle   Jean,Bridey   Jean-Jacques,0,1
+Lassalle   Jean,Brenier   Marine,1,1
+Lassalle   Jean,Maillard   Sylvain,0,1
+Lassalle   Jean,Trastour-Isnart   Laurence,1,1
+Lassalle   Jean,Cordier   Pierre,1,1
+Lassalle   Jean,Louis   Alexandra,0,1
+Lassalle   Jean,Zulesi   Jean-Marc,0,1
+Lassalle   Jean,Blanchet   Christophe,0,1
+Lassalle   Jean,Bouyx   Bertrand,0,1
+Lassalle   Jean,Essayan   Nadia,0,1
+Lassalle   Jean,Gérard   Raphaël,0,1
+Lassalle   Jean,Martin   Didier,0,1
+Lassalle   Jean,Dubois   Jacqueline,0,1
+Lassalle   Jean,Khattabi   Fadila,0,1
+Lassalle   Jean,Paris   Didier,0,1
+Lassalle   Jean,Gipson   Séverine,0,1
+Lassalle   Jean,Gouttefarde   Fabien,0,1
+Lassalle   Jean,Melchior   Graziella,0,1
+Lassalle   Jean,Tamarelle-Verhaeghe   Marie,0,1
+Lassalle   Jean,Le Gac   Didier,0,1
+Lassalle   Jean,Mörch   Sandrine,0,1
+Lassalle   Jean,Berta   Philippe,0,1
+Lassalle   Jean,Colboc   Fabienne,0,1
+Lassalle   Jean,Limon   Monique,0,1
+Lassalle   Jean,Jacquier-Laforge   Élodie,0,1
+Lassalle   Jean,Brulebois   Danielle,0,1
+Lassalle   Jean,Sarles   Nathalie,0,1
+Lassalle   Jean,Kamowski   Catherine,0,1
+Lassalle   Jean,Tiegna   Huguette,0,1
+Lassalle   Jean,Bannier   Géraldine,0,1
+Lassalle   Jean,Zannier   Hélène,0,1
+Lassalle   Jean,Jacques   Jean-Michel,0,1
+Lassalle   Jean,Di Filippo   Fabien,1,1
+Lassalle   Jean,Trisse   Nicole,0,1
+Lassalle   Jean,Houbron   Dimitri,0,1
+Lassalle   Jean,Cattelot   Anne-Laure,0,1
+Lassalle   Jean,De Temmerman   Jennifer,1,1
+Lassalle   Jean,Thill   Agnès,0,1
+Lassalle   Jean,Le Pen   Marine,1,1
+Lassalle   Jean,Minot   Maxime,1,1
+Lassalle   Jean,Bilde   Bruno,1,1
+Lassalle   Jean,Thomas   Valérie,0,1
+Lassalle   Jean,Lachaud   Bastien,0,1
+Lassalle   Jean,Testé   Stéphane,0,1
+Lassalle   Jean,Moutchou   Naïma,0,1
+Lassalle   Jean,Petit   Frédéric,0,1
+Lassalle   Jean,Coquerel   Éric,0,1
+Lassalle   Jean,Charrière   Sylvie,0,1
+Lassalle   Jean,Vuilletet   Guillaume,0,1
+Lassalle   Jean,Ramadier   Alain,1,1
+Lassalle   Jean,Gouffier-Cha   Guillaume,0,1
+Lassalle   Jean,Schellenberger   Raphaël,1,1
+Lassalle   Jean,Gauvain   Raphaël,0,1
+Lassalle   Jean,Degois   Typhanie,0,1
+Lassalle   Jean,Riotton   Véronique,0,1
+Lassalle   Jean,Lardet   Frédérique,0,1
+Lassalle   Jean,Le Gendre   Gilles,0,1
+Lassalle   Jean,Naegelen   Christophe,1,1
+Lassalle   Jean,Guerini   Stanislas,0,1
+Lassalle   Jean,Terlier   Jean,0,1
+Lassalle   Jean,Muschotti   Cécile,0,1
+Lassalle   Jean,Fauvergue   Jean-Michel,0,1
+Lassalle   Jean,Peyron   Michèle,0,1
+Lassalle   Jean,Mauborgne   Sereine,0,1
+Lassalle   Jean,Michel-Kleisbauer   Philippe,0,1
+Lassalle   Jean,Florennes   Isabelle,0,1
+Lassalle   Jean,Renson   Hugues,0,1
+Lassalle   Jean,Guévenoux   Marie,0,1
+Lassalle   Jean,Faucillon   Elsa,0,1
+Lassalle   Jean,Pouzyreff   Natalia,0,1
+Lassalle   Jean,de Vaucouleurs   Michèle,0,1
+Lassalle   Jean,Marilossian   Jacques,0,1
+Lassalle   Jean,Fiévet   Jean-Marie,0,1
+Lassalle   Jean,Houlié   Sacha,0,1
+de Ganay   Claude,Larrivé   Guillaume,1,1
+de Ganay   Claude,Ciotti   Éric,1,1
+de Ganay   Claude,Lecoq   Jean-Paul,0,1
+de Ganay   Claude,Genevard   Annie,1,1
+de Ganay   Claude,Ferrara   Jean-Jacques,1,1
+de Ganay   Claude,Valentin   Isabelle,1,1
+de Ganay   Claude,Bridey   Jean-Jacques,0,1
+de Ganay   Claude,Brenier   Marine,1,1
+de Ganay   Claude,Maillard   Sylvain,0,1
+de Ganay   Claude,Trastour-Isnart   Laurence,1,1
+de Ganay   Claude,Cordier   Pierre,1,1
+de Ganay   Claude,Louis   Alexandra,0,1
+de Ganay   Claude,Zulesi   Jean-Marc,0,1
+de Ganay   Claude,Blanchet   Christophe,0,1
+de Ganay   Claude,Bouyx   Bertrand,0,1
+de Ganay   Claude,Essayan   Nadia,0,1
+de Ganay   Claude,Gérard   Raphaël,0,1
+de Ganay   Claude,Martin   Didier,0,1
+de Ganay   Claude,Dubois   Jacqueline,0,1
+de Ganay   Claude,Khattabi   Fadila,0,1
+de Ganay   Claude,Paris   Didier,0,1
+de Ganay   Claude,Gipson   Séverine,0,1
+de Ganay   Claude,Gouttefarde   Fabien,0,1
+de Ganay   Claude,Melchior   Graziella,0,1
+de Ganay   Claude,Tamarelle-Verhaeghe   Marie,0,1
+de Ganay   Claude,Le Gac   Didier,0,1
+de Ganay   Claude,Mörch   Sandrine,0,1
+de Ganay   Claude,Berta   Philippe,0,1
+de Ganay   Claude,Colboc   Fabienne,0,1
+de Ganay   Claude,Limon   Monique,0,1
+de Ganay   Claude,Jacquier-Laforge   Élodie,0,1
+de Ganay   Claude,Brulebois   Danielle,0,1
+de Ganay   Claude,Sarles   Nathalie,0,1
+de Ganay   Claude,Kamowski   Catherine,0,1
+de Ganay   Claude,Tiegna   Huguette,0,1
+de Ganay   Claude,Bannier   Géraldine,0,1
+de Ganay   Claude,Zannier   Hélène,0,1
+de Ganay   Claude,Jacques   Jean-Michel,0,1
+de Ganay   Claude,Di Filippo   Fabien,1,1
+de Ganay   Claude,Trisse   Nicole,0,1
+de Ganay   Claude,Houbron   Dimitri,0,1
+de Ganay   Claude,Cattelot   Anne-Laure,0,1
+de Ganay   Claude,De Temmerman   Jennifer,1,1
+de Ganay   Claude,Thill   Agnès,0,1
+de Ganay   Claude,Le Pen   Marine,1,1
+de Ganay   Claude,Minot   Maxime,1,1
+de Ganay   Claude,Bilde   Bruno,1,1
+de Ganay   Claude,Thomas   Valérie,0,1
+de Ganay   Claude,Lachaud   Bastien,0,1
+de Ganay   Claude,Testé   Stéphane,0,1
+de Ganay   Claude,Moutchou   Naïma,0,1
+de Ganay   Claude,Petit   Frédéric,0,1
+de Ganay   Claude,Coquerel   Éric,0,1
+de Ganay   Claude,Charrière   Sylvie,0,1
+de Ganay   Claude,Vuilletet   Guillaume,0,1
+de Ganay   Claude,Ramadier   Alain,1,1
+de Ganay   Claude,Gouffier-Cha   Guillaume,0,1
+de Ganay   Claude,Schellenberger   Raphaël,1,1
+de Ganay   Claude,Gauvain   Raphaël,0,1
+de Ganay   Claude,Degois   Typhanie,0,1
+de Ganay   Claude,Riotton   Véronique,0,1
+de Ganay   Claude,Lardet   Frédérique,0,1
+de Ganay   Claude,Le Gendre   Gilles,0,1
+de Ganay   Claude,Naegelen   Christophe,1,1
+de Ganay   Claude,Guerini   Stanislas,0,1
+de Ganay   Claude,Terlier   Jean,0,1
+de Ganay   Claude,Muschotti   Cécile,0,1
+de Ganay   Claude,Fauvergue   Jean-Michel,0,1
+de Ganay   Claude,Peyron   Michèle,0,1
+de Ganay   Claude,Mauborgne   Sereine,0,1
+de Ganay   Claude,Michel-Kleisbauer   Philippe,0,1
+de Ganay   Claude,Florennes   Isabelle,0,1
+de Ganay   Claude,Renson   Hugues,0,1
+de Ganay   Claude,Guévenoux   Marie,0,1
+de Ganay   Claude,Faucillon   Elsa,0,1
+de Ganay   Claude,Pouzyreff   Natalia,0,1
+de Ganay   Claude,de Vaucouleurs   Michèle,0,1
+de Ganay   Claude,Marilossian   Jacques,0,1
+de Ganay   Claude,Fiévet   Jean-Marie,0,1
+de Ganay   Claude,Houlié   Sacha,0,1
+Larrivé   Guillaume,Ciotti   Éric,1,1
+Larrivé   Guillaume,Lecoq   Jean-Paul,0,1
+Larrivé   Guillaume,Genevard   Annie,1,1
+Larrivé   Guillaume,Ferrara   Jean-Jacques,1,1
+Larrivé   Guillaume,Valentin   Isabelle,1,1
+Larrivé   Guillaume,Bridey   Jean-Jacques,0,1
+Larrivé   Guillaume,Brenier   Marine,1,1
+Larrivé   Guillaume,Maillard   Sylvain,0,1
+Larrivé   Guillaume,Trastour-Isnart   Laurence,1,1
+Larrivé   Guillaume,Cordier   Pierre,1,1
+Larrivé   Guillaume,Louis   Alexandra,0,1
+Larrivé   Guillaume,Zulesi   Jean-Marc,0,1
+Larrivé   Guillaume,Blanchet   Christophe,0,1
+Larrivé   Guillaume,Bouyx   Bertrand,0,1
+Larrivé   Guillaume,Essayan   Nadia,0,1
+Larrivé   Guillaume,Gérard   Raphaël,0,1
+Larrivé   Guillaume,Martin   Didier,0,1
+Larrivé   Guillaume,Dubois   Jacqueline,0,1
+Larrivé   Guillaume,Khattabi   Fadila,0,1
+Larrivé   Guillaume,Paris   Didier,0,1
+Larrivé   Guillaume,Gipson   Séverine,0,1
+Larrivé   Guillaume,Gouttefarde   Fabien,0,1
+Larrivé   Guillaume,Melchior   Graziella,0,1
+Larrivé   Guillaume,Tamarelle-Verhaeghe   Marie,0,1
+Larrivé   Guillaume,Le Gac   Didier,0,1
+Larrivé   Guillaume,Mörch   Sandrine,0,1
+Larrivé   Guillaume,Berta   Philippe,0,1
+Larrivé   Guillaume,Colboc   Fabienne,0,1
+Larrivé   Guillaume,Limon   Monique,0,1
+Larrivé   Guillaume,Jacquier-Laforge   Élodie,0,1
+Larrivé   Guillaume,Brulebois   Danielle,0,1
+Larrivé   Guillaume,Sarles   Nathalie,0,1
+Larrivé   Guillaume,Kamowski   Catherine,0,1
+Larrivé   Guillaume,Tiegna   Huguette,0,1
+Larrivé   Guillaume,Bannier   Géraldine,0,1
+Larrivé   Guillaume,Zannier   Hélène,0,1
+Larrivé   Guillaume,Jacques   Jean-Michel,0,1
+Larrivé   Guillaume,Di Filippo   Fabien,1,1
+Larrivé   Guillaume,Trisse   Nicole,0,1
+Larrivé   Guillaume,Houbron   Dimitri,0,1
+Larrivé   Guillaume,Cattelot   Anne-Laure,0,1
+Larrivé   Guillaume,De Temmerman   Jennifer,1,1
+Larrivé   Guillaume,Thill   Agnès,0,1
+Larrivé   Guillaume,Le Pen   Marine,1,1
+Larrivé   Guillaume,Minot   Maxime,1,1
+Larrivé   Guillaume,Bilde   Bruno,1,1
+Larrivé   Guillaume,Thomas   Valérie,0,1
+Larrivé   Guillaume,Lachaud   Bastien,0,1
+Larrivé   Guillaume,Testé   Stéphane,0,1
+Larrivé   Guillaume,Moutchou   Naïma,0,1
+Larrivé   Guillaume,Petit   Frédéric,0,1
+Larrivé   Guillaume,Coquerel   Éric,0,1
+Larrivé   Guillaume,Charrière   Sylvie,0,1
+Larrivé   Guillaume,Vuilletet   Guillaume,0,1
+Larrivé   Guillaume,Ramadier   Alain,1,1
+Larrivé   Guillaume,Gouffier-Cha   Guillaume,0,1
+Larrivé   Guillaume,Schellenberger   Raphaël,1,1
+Larrivé   Guillaume,Gauvain   Raphaël,0,1
+Larrivé   Guillaume,Degois   Typhanie,0,1
+Larrivé   Guillaume,Riotton   Véronique,0,1
+Larrivé   Guillaume,Lardet   Frédérique,0,1
+Larrivé   Guillaume,Le Gendre   Gilles,0,1
+Larrivé   Guillaume,Naegelen   Christophe,1,1
+Larrivé   Guillaume,Guerini   Stanislas,0,1
+Larrivé   Guillaume,Terlier   Jean,0,1
+Larrivé   Guillaume,Muschotti   Cécile,0,1
+Larrivé   Guillaume,Fauvergue   Jean-Michel,0,1
+Larrivé   Guillaume,Peyron   Michèle,0,1
+Larrivé   Guillaume,Mauborgne   Sereine,0,1
+Larrivé   Guillaume,Michel-Kleisbauer   Philippe,0,1
+Larrivé   Guillaume,Florennes   Isabelle,0,1
+Larrivé   Guillaume,Renson   Hugues,0,1
+Larrivé   Guillaume,Guévenoux   Marie,0,1
+Larrivé   Guillaume,Faucillon   Elsa,0,1
+Larrivé   Guillaume,Pouzyreff   Natalia,0,1
+Larrivé   Guillaume,de Vaucouleurs   Michèle,0,1
+Larrivé   Guillaume,Marilossian   Jacques,0,1
+Larrivé   Guillaume,Fiévet   Jean-Marie,0,1
+Larrivé   Guillaume,Houlié   Sacha,0,1
+Ciotti   Éric,Lecoq   Jean-Paul,0,1
+Ciotti   Éric,Genevard   Annie,1,1
+Ciotti   Éric,Ferrara   Jean-Jacques,1,1
+Ciotti   Éric,Valentin   Isabelle,1,1
+Ciotti   Éric,Bridey   Jean-Jacques,0,1
+Ciotti   Éric,Brenier   Marine,1,1
+Ciotti   Éric,Maillard   Sylvain,0,1
+Ciotti   Éric,Trastour-Isnart   Laurence,1,1
+Ciotti   Éric,Cordier   Pierre,1,1
+Ciotti   Éric,Louis   Alexandra,0,1
+Ciotti   Éric,Zulesi   Jean-Marc,0,1
+Ciotti   Éric,Blanchet   Christophe,0,1
+Ciotti   Éric,Bouyx   Bertrand,0,1
+Ciotti   Éric,Essayan   Nadia,0,1
+Ciotti   Éric,Gérard   Raphaël,0,1
+Ciotti   Éric,Martin   Didier,0,1
+Ciotti   Éric,Dubois   Jacqueline,0,1
+Ciotti   Éric,Khattabi   Fadila,0,1
+Ciotti   Éric,Paris   Didier,0,1
+Ciotti   Éric,Gipson   Séverine,0,1
+Ciotti   Éric,Gouttefarde   Fabien,0,1
+Ciotti   Éric,Melchior   Graziella,0,1
+Ciotti   Éric,Tamarelle-Verhaeghe   Marie,0,1
+Ciotti   Éric,Le Gac   Didier,0,1
+Ciotti   Éric,Mörch   Sandrine,0,1
+Ciotti   Éric,Berta   Philippe,0,1
+Ciotti   Éric,Colboc   Fabienne,0,1
+Ciotti   Éric,Limon   Monique,0,1
+Ciotti   Éric,Jacquier-Laforge   Élodie,0,1
+Ciotti   Éric,Brulebois   Danielle,0,1
+Ciotti   Éric,Sarles   Nathalie,0,1
+Ciotti   Éric,Kamowski   Catherine,0,1
+Ciotti   Éric,Tiegna   Huguette,0,1
+Ciotti   Éric,Bannier   Géraldine,0,1
+Ciotti   Éric,Zannier   Hélène,0,1
+Ciotti   Éric,Jacques   Jean-Michel,0,1
+Ciotti   Éric,Di Filippo   Fabien,1,1
+Ciotti   Éric,Trisse   Nicole,0,1
+Ciotti   Éric,Houbron   Dimitri,0,1
+Ciotti   Éric,Cattelot   Anne-Laure,0,1
+Ciotti   Éric,De Temmerman   Jennifer,1,1
+Ciotti   Éric,Thill   Agnès,0,1
+Ciotti   Éric,Le Pen   Marine,1,1
+Ciotti   Éric,Minot   Maxime,1,1
+Ciotti   Éric,Bilde   Bruno,1,1
+Ciotti   Éric,Thomas   Valérie,0,1
+Ciotti   Éric,Lachaud   Bastien,0,1
+Ciotti   Éric,Testé   Stéphane,0,1
+Ciotti   Éric,Moutchou   Naïma,0,1
+Ciotti   Éric,Petit   Frédéric,0,1
+Ciotti   Éric,Coquerel   Éric,0,1
+Ciotti   Éric,Charrière   Sylvie,0,1
+Ciotti   Éric,Vuilletet   Guillaume,0,1
+Ciotti   Éric,Ramadier   Alain,1,1
+Ciotti   Éric,Gouffier-Cha   Guillaume,0,1
+Ciotti   Éric,Schellenberger   Raphaël,1,1
+Ciotti   Éric,Gauvain   Raphaël,0,1
+Ciotti   Éric,Degois   Typhanie,0,1
+Ciotti   Éric,Riotton   Véronique,0,1
+Ciotti   Éric,Lardet   Frédérique,0,1
+Ciotti   Éric,Le Gendre   Gilles,0,1
+Ciotti   Éric,Naegelen   Christophe,1,1
+Ciotti   Éric,Guerini   Stanislas,0,1
+Ciotti   Éric,Terlier   Jean,0,1
+Ciotti   Éric,Muschotti   Cécile,0,1
+Ciotti   Éric,Fauvergue   Jean-Michel,0,1
+Ciotti   Éric,Peyron   Michèle,0,1
+Ciotti   Éric,Mauborgne   Sereine,0,1
+Ciotti   Éric,Michel-Kleisbauer   Philippe,0,1
+Ciotti   Éric,Florennes   Isabelle,0,1
+Ciotti   Éric,Renson   Hugues,0,1
+Ciotti   Éric,Guévenoux   Marie,0,1
+Ciotti   Éric,Faucillon   Elsa,0,1
+Ciotti   Éric,Pouzyreff   Natalia,0,1
+Ciotti   Éric,de Vaucouleurs   Michèle,0,1
+Ciotti   Éric,Marilossian   Jacques,0,1
+Ciotti   Éric,Fiévet   Jean-Marie,0,1
+Ciotti   Éric,Houlié   Sacha,0,1
+Lecoq   Jean-Paul,Genevard   Annie,0,1
+Lecoq   Jean-Paul,Ferrara   Jean-Jacques,0,1
+Lecoq   Jean-Paul,Valentin   Isabelle,0,1
+Lecoq   Jean-Paul,Bridey   Jean-Jacques,0,1
+Lecoq   Jean-Paul,Brenier   Marine,0,1
+Lecoq   Jean-Paul,Maillard   Sylvain,0,1
+Lecoq   Jean-Paul,Trastour-Isnart   Laurence,0,1
+Lecoq   Jean-Paul,Cordier   Pierre,0,1
+Lecoq   Jean-Paul,Louis   Alexandra,0,1
+Lecoq   Jean-Paul,Zulesi   Jean-Marc,0,1
+Lecoq   Jean-Paul,Blanchet   Christophe,0,1
+Lecoq   Jean-Paul,Bouyx   Bertrand,0,1
+Lecoq   Jean-Paul,Essayan   Nadia,0,1
+Lecoq   Jean-Paul,Gérard   Raphaël,0,1
+Lecoq   Jean-Paul,Martin   Didier,0,1
+Lecoq   Jean-Paul,Dubois   Jacqueline,0,1
+Lecoq   Jean-Paul,Khattabi   Fadila,0,1
+Lecoq   Jean-Paul,Paris   Didier,0,1
+Lecoq   Jean-Paul,Gipson   Séverine,0,1
+Lecoq   Jean-Paul,Gouttefarde   Fabien,0,1
+Lecoq   Jean-Paul,Melchior   Graziella,0,1
+Lecoq   Jean-Paul,Tamarelle-Verhaeghe   Marie,0,1
+Lecoq   Jean-Paul,Le Gac   Didier,1,1
+Lecoq   Jean-Paul,Mörch   Sandrine,0,1
+Lecoq   Jean-Paul,Berta   Philippe,0,1
+Lecoq   Jean-Paul,Colboc   Fabienne,0,1
+Lecoq   Jean-Paul,Limon   Monique,0,1
+Lecoq   Jean-Paul,Jacquier-Laforge   Élodie,0,1
+Lecoq   Jean-Paul,Brulebois   Danielle,0,1
+Lecoq   Jean-Paul,Sarles   Nathalie,0,1
+Lecoq   Jean-Paul,Kamowski   Catherine,1,1
+Lecoq   Jean-Paul,Tiegna   Huguette,0,1
+Lecoq   Jean-Paul,Bannier   Géraldine,0,1
+Lecoq   Jean-Paul,Zannier   Hélène,0,1
+Lecoq   Jean-Paul,Jacques   Jean-Michel,0,1
+Lecoq   Jean-Paul,Di Filippo   Fabien,0,1
+Lecoq   Jean-Paul,Trisse   Nicole,1,1
+Lecoq   Jean-Paul,Houbron   Dimitri,0,1
+Lecoq   Jean-Paul,Cattelot   Anne-Laure,0,1
+Lecoq   Jean-Paul,De Temmerman   Jennifer,0,1
+Lecoq   Jean-Paul,Thill   Agnès,0,1
+Lecoq   Jean-Paul,Le Pen   Marine,0,1
+Lecoq   Jean-Paul,Minot   Maxime,0,1
+Lecoq   Jean-Paul,Bilde   Bruno,0,1
+Lecoq   Jean-Paul,Thomas   Valérie,0,1
+Lecoq   Jean-Paul,Lachaud   Bastien,0,1
+Lecoq   Jean-Paul,Testé   Stéphane,0,1
+Lecoq   Jean-Paul,Moutchou   Naïma,0,1
+Lecoq   Jean-Paul,Petit   Frédéric,0,1
+Lecoq   Jean-Paul,Coquerel   Éric,0,1
+Lecoq   Jean-Paul,Charrière   Sylvie,0,1
+Lecoq   Jean-Paul,Vuilletet   Guillaume,0,1
+Lecoq   Jean-Paul,Ramadier   Alain,0,1
+Lecoq   Jean-Paul,Gouffier-Cha   Guillaume,0,1
+Lecoq   Jean-Paul,Schellenberger   Raphaël,0,1
+Lecoq   Jean-Paul,Gauvain   Raphaël,0,1
+Lecoq   Jean-Paul,Degois   Typhanie,0,1
+Lecoq   Jean-Paul,Riotton   Véronique,0,1
+Lecoq   Jean-Paul,Lardet   Frédérique,0,1
+Lecoq   Jean-Paul,Le Gendre   Gilles,0,1
+Lecoq   Jean-Paul,Naegelen   Christophe,0,1
+Lecoq   Jean-Paul,Guerini   Stanislas,0,1
+Lecoq   Jean-Paul,Terlier   Jean,0,1
+Lecoq   Jean-Paul,Muschotti   Cécile,0,1
+Lecoq   Jean-Paul,Fauvergue   Jean-Michel,0,1
+Lecoq   Jean-Paul,Peyron   Michèle,0,1
+Lecoq   Jean-Paul,Mauborgne   Sereine,1,1
+Lecoq   Jean-Paul,Michel-Kleisbauer   Philippe,0,1
+Lecoq   Jean-Paul,Florennes   Isabelle,0,1
+Lecoq   Jean-Paul,Renson   Hugues,0,1
+Lecoq   Jean-Paul,Guévenoux   Marie,0,1
+Lecoq   Jean-Paul,Faucillon   Elsa,1,1
+Lecoq   Jean-Paul,Pouzyreff   Natalia,0,1
+Lecoq   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Lecoq   Jean-Paul,Marilossian   Jacques,0,1
+Lecoq   Jean-Paul,Fiévet   Jean-Marie,0,1
+Lecoq   Jean-Paul,Houlié   Sacha,0,1
+Genevard   Annie,Ferrara   Jean-Jacques,1,1
+Genevard   Annie,Valentin   Isabelle,1,1
+Genevard   Annie,Bridey   Jean-Jacques,0,1
+Genevard   Annie,Brenier   Marine,1,1
+Genevard   Annie,Maillard   Sylvain,0,1
+Genevard   Annie,Trastour-Isnart   Laurence,1,1
+Genevard   Annie,Cordier   Pierre,1,1
+Genevard   Annie,Louis   Alexandra,0,1
+Genevard   Annie,Zulesi   Jean-Marc,0,1
+Genevard   Annie,Blanchet   Christophe,0,1
+Genevard   Annie,Bouyx   Bertrand,0,1
+Genevard   Annie,Essayan   Nadia,0,1
+Genevard   Annie,Gérard   Raphaël,0,1
+Genevard   Annie,Martin   Didier,0,1
+Genevard   Annie,Dubois   Jacqueline,0,1
+Genevard   Annie,Khattabi   Fadila,0,1
+Genevard   Annie,Paris   Didier,0,1
+Genevard   Annie,Gipson   Séverine,0,1
+Genevard   Annie,Gouttefarde   Fabien,0,1
+Genevard   Annie,Melchior   Graziella,0,1
+Genevard   Annie,Tamarelle-Verhaeghe   Marie,0,1
+Genevard   Annie,Le Gac   Didier,0,1
+Genevard   Annie,Mörch   Sandrine,0,1
+Genevard   Annie,Berta   Philippe,0,1
+Genevard   Annie,Colboc   Fabienne,0,1
+Genevard   Annie,Limon   Monique,0,1
+Genevard   Annie,Jacquier-Laforge   Élodie,0,1
+Genevard   Annie,Brulebois   Danielle,0,1
+Genevard   Annie,Sarles   Nathalie,0,1
+Genevard   Annie,Kamowski   Catherine,0,1
+Genevard   Annie,Tiegna   Huguette,0,1
+Genevard   Annie,Bannier   Géraldine,0,1
+Genevard   Annie,Zannier   Hélène,0,1
+Genevard   Annie,Jacques   Jean-Michel,0,1
+Genevard   Annie,Di Filippo   Fabien,1,1
+Genevard   Annie,Trisse   Nicole,0,1
+Genevard   Annie,Houbron   Dimitri,0,1
+Genevard   Annie,Cattelot   Anne-Laure,0,1
+Genevard   Annie,De Temmerman   Jennifer,1,1
+Genevard   Annie,Thill   Agnès,0,1
+Genevard   Annie,Le Pen   Marine,1,1
+Genevard   Annie,Minot   Maxime,1,1
+Genevard   Annie,Bilde   Bruno,1,1
+Genevard   Annie,Thomas   Valérie,0,1
+Genevard   Annie,Lachaud   Bastien,0,1
+Genevard   Annie,Testé   Stéphane,0,1
+Genevard   Annie,Moutchou   Naïma,0,1
+Genevard   Annie,Petit   Frédéric,0,1
+Genevard   Annie,Coquerel   Éric,0,1
+Genevard   Annie,Charrière   Sylvie,0,1
+Genevard   Annie,Vuilletet   Guillaume,0,1
+Genevard   Annie,Ramadier   Alain,1,1
+Genevard   Annie,Gouffier-Cha   Guillaume,0,1
+Genevard   Annie,Schellenberger   Raphaël,1,1
+Genevard   Annie,Gauvain   Raphaël,0,1
+Genevard   Annie,Degois   Typhanie,0,1
+Genevard   Annie,Riotton   Véronique,0,1
+Genevard   Annie,Lardet   Frédérique,0,1
+Genevard   Annie,Le Gendre   Gilles,0,1
+Genevard   Annie,Naegelen   Christophe,1,1
+Genevard   Annie,Guerini   Stanislas,0,1
+Genevard   Annie,Terlier   Jean,0,1
+Genevard   Annie,Muschotti   Cécile,0,1
+Genevard   Annie,Fauvergue   Jean-Michel,0,1
+Genevard   Annie,Peyron   Michèle,0,1
+Genevard   Annie,Mauborgne   Sereine,0,1
+Genevard   Annie,Michel-Kleisbauer   Philippe,0,1
+Genevard   Annie,Florennes   Isabelle,0,1
+Genevard   Annie,Renson   Hugues,0,1
+Genevard   Annie,Guévenoux   Marie,0,1
+Genevard   Annie,Faucillon   Elsa,0,1
+Genevard   Annie,Pouzyreff   Natalia,0,1
+Genevard   Annie,de Vaucouleurs   Michèle,0,1
+Genevard   Annie,Marilossian   Jacques,0,1
+Genevard   Annie,Fiévet   Jean-Marie,0,1
+Genevard   Annie,Houlié   Sacha,0,1
+Ferrara   Jean-Jacques,Valentin   Isabelle,1,1
+Ferrara   Jean-Jacques,Bridey   Jean-Jacques,0,1
+Ferrara   Jean-Jacques,Brenier   Marine,1,1
+Ferrara   Jean-Jacques,Maillard   Sylvain,0,1
+Ferrara   Jean-Jacques,Trastour-Isnart   Laurence,1,1
+Ferrara   Jean-Jacques,Cordier   Pierre,1,1
+Ferrara   Jean-Jacques,Louis   Alexandra,0,1
+Ferrara   Jean-Jacques,Zulesi   Jean-Marc,0,1
+Ferrara   Jean-Jacques,Blanchet   Christophe,0,1
+Ferrara   Jean-Jacques,Bouyx   Bertrand,0,1
+Ferrara   Jean-Jacques,Essayan   Nadia,0,1
+Ferrara   Jean-Jacques,Gérard   Raphaël,0,1
+Ferrara   Jean-Jacques,Martin   Didier,0,1
+Ferrara   Jean-Jacques,Dubois   Jacqueline,0,1
+Ferrara   Jean-Jacques,Khattabi   Fadila,0,1
+Ferrara   Jean-Jacques,Paris   Didier,0,1
+Ferrara   Jean-Jacques,Gipson   Séverine,0,1
+Ferrara   Jean-Jacques,Gouttefarde   Fabien,0,1
+Ferrara   Jean-Jacques,Melchior   Graziella,0,1
+Ferrara   Jean-Jacques,Tamarelle-Verhaeghe   Marie,0,1
+Ferrara   Jean-Jacques,Le Gac   Didier,0,1
+Ferrara   Jean-Jacques,Mörch   Sandrine,0,1
+Ferrara   Jean-Jacques,Berta   Philippe,0,1
+Ferrara   Jean-Jacques,Colboc   Fabienne,0,1
+Ferrara   Jean-Jacques,Limon   Monique,0,1
+Ferrara   Jean-Jacques,Jacquier-Laforge   Élodie,0,1
+Ferrara   Jean-Jacques,Brulebois   Danielle,0,1
+Ferrara   Jean-Jacques,Sarles   Nathalie,0,1
+Ferrara   Jean-Jacques,Kamowski   Catherine,0,1
+Ferrara   Jean-Jacques,Tiegna   Huguette,0,1
+Ferrara   Jean-Jacques,Bannier   Géraldine,0,1
+Ferrara   Jean-Jacques,Zannier   Hélène,0,1
+Ferrara   Jean-Jacques,Jacques   Jean-Michel,0,1
+Ferrara   Jean-Jacques,Di Filippo   Fabien,1,1
+Ferrara   Jean-Jacques,Trisse   Nicole,0,1
+Ferrara   Jean-Jacques,Houbron   Dimitri,0,1
+Ferrara   Jean-Jacques,Cattelot   Anne-Laure,0,1
+Ferrara   Jean-Jacques,De Temmerman   Jennifer,1,1
+Ferrara   Jean-Jacques,Thill   Agnès,0,1
+Ferrara   Jean-Jacques,Le Pen   Marine,1,1
+Ferrara   Jean-Jacques,Minot   Maxime,1,1
+Ferrara   Jean-Jacques,Bilde   Bruno,1,1
+Ferrara   Jean-Jacques,Thomas   Valérie,0,1
+Ferrara   Jean-Jacques,Lachaud   Bastien,0,1
+Ferrara   Jean-Jacques,Testé   Stéphane,0,1
+Ferrara   Jean-Jacques,Moutchou   Naïma,0,1
+Ferrara   Jean-Jacques,Petit   Frédéric,0,1
+Ferrara   Jean-Jacques,Coquerel   Éric,0,1
+Ferrara   Jean-Jacques,Charrière   Sylvie,0,1
+Ferrara   Jean-Jacques,Vuilletet   Guillaume,0,1
+Ferrara   Jean-Jacques,Ramadier   Alain,1,1
+Ferrara   Jean-Jacques,Gouffier-Cha   Guillaume,0,1
+Ferrara   Jean-Jacques,Schellenberger   Raphaël,1,1
+Ferrara   Jean-Jacques,Gauvain   Raphaël,0,1
+Ferrara   Jean-Jacques,Degois   Typhanie,0,1
+Ferrara   Jean-Jacques,Riotton   Véronique,0,1
+Ferrara   Jean-Jacques,Lardet   Frédérique,0,1
+Ferrara   Jean-Jacques,Le Gendre   Gilles,0,1
+Ferrara   Jean-Jacques,Naegelen   Christophe,1,1
+Ferrara   Jean-Jacques,Guerini   Stanislas,0,1
+Ferrara   Jean-Jacques,Terlier   Jean,0,1
+Ferrara   Jean-Jacques,Muschotti   Cécile,0,1
+Ferrara   Jean-Jacques,Fauvergue   Jean-Michel,0,1
+Ferrara   Jean-Jacques,Peyron   Michèle,0,1
+Ferrara   Jean-Jacques,Mauborgne   Sereine,0,1
+Ferrara   Jean-Jacques,Michel-Kleisbauer   Philippe,0,1
+Ferrara   Jean-Jacques,Florennes   Isabelle,0,1
+Ferrara   Jean-Jacques,Renson   Hugues,0,1
+Ferrara   Jean-Jacques,Guévenoux   Marie,0,1
+Ferrara   Jean-Jacques,Faucillon   Elsa,0,1
+Ferrara   Jean-Jacques,Pouzyreff   Natalia,0,1
+Ferrara   Jean-Jacques,de Vaucouleurs   Michèle,0,1
+Ferrara   Jean-Jacques,Marilossian   Jacques,0,1
+Ferrara   Jean-Jacques,Fiévet   Jean-Marie,0,1
+Ferrara   Jean-Jacques,Houlié   Sacha,0,1
+Valentin   Isabelle,Bridey   Jean-Jacques,0,1
+Valentin   Isabelle,Brenier   Marine,1,1
+Valentin   Isabelle,Maillard   Sylvain,0,1
+Valentin   Isabelle,Trastour-Isnart   Laurence,1,1
+Valentin   Isabelle,Cordier   Pierre,1,1
+Valentin   Isabelle,Louis   Alexandra,0,1
+Valentin   Isabelle,Zulesi   Jean-Marc,0,1
+Valentin   Isabelle,Blanchet   Christophe,0,1
+Valentin   Isabelle,Bouyx   Bertrand,0,1
+Valentin   Isabelle,Essayan   Nadia,0,1
+Valentin   Isabelle,Gérard   Raphaël,0,1
+Valentin   Isabelle,Martin   Didier,0,1
+Valentin   Isabelle,Dubois   Jacqueline,0,1
+Valentin   Isabelle,Khattabi   Fadila,0,1
+Valentin   Isabelle,Paris   Didier,0,1
+Valentin   Isabelle,Gipson   Séverine,0,1
+Valentin   Isabelle,Gouttefarde   Fabien,0,1
+Valentin   Isabelle,Melchior   Graziella,0,1
+Valentin   Isabelle,Tamarelle-Verhaeghe   Marie,0,1
+Valentin   Isabelle,Le Gac   Didier,0,1
+Valentin   Isabelle,Mörch   Sandrine,0,1
+Valentin   Isabelle,Berta   Philippe,0,1
+Valentin   Isabelle,Colboc   Fabienne,0,1
+Valentin   Isabelle,Limon   Monique,0,1
+Valentin   Isabelle,Jacquier-Laforge   Élodie,0,1
+Valentin   Isabelle,Brulebois   Danielle,0,1
+Valentin   Isabelle,Sarles   Nathalie,0,1
+Valentin   Isabelle,Kamowski   Catherine,0,1
+Valentin   Isabelle,Tiegna   Huguette,0,1
+Valentin   Isabelle,Bannier   Géraldine,0,1
+Valentin   Isabelle,Zannier   Hélène,0,1
+Valentin   Isabelle,Jacques   Jean-Michel,0,1
+Valentin   Isabelle,Di Filippo   Fabien,1,1
+Valentin   Isabelle,Trisse   Nicole,0,1
+Valentin   Isabelle,Houbron   Dimitri,0,1
+Valentin   Isabelle,Cattelot   Anne-Laure,0,1
+Valentin   Isabelle,De Temmerman   Jennifer,1,1
+Valentin   Isabelle,Thill   Agnès,0,1
+Valentin   Isabelle,Le Pen   Marine,1,1
+Valentin   Isabelle,Minot   Maxime,1,1
+Valentin   Isabelle,Bilde   Bruno,1,1
+Valentin   Isabelle,Thomas   Valérie,0,1
+Valentin   Isabelle,Lachaud   Bastien,0,1
+Valentin   Isabelle,Testé   Stéphane,0,1
+Valentin   Isabelle,Moutchou   Naïma,0,1
+Valentin   Isabelle,Petit   Frédéric,0,1
+Valentin   Isabelle,Coquerel   Éric,0,1
+Valentin   Isabelle,Charrière   Sylvie,0,1
+Valentin   Isabelle,Vuilletet   Guillaume,0,1
+Valentin   Isabelle,Ramadier   Alain,1,1
+Valentin   Isabelle,Gouffier-Cha   Guillaume,0,1
+Valentin   Isabelle,Schellenberger   Raphaël,1,1
+Valentin   Isabelle,Gauvain   Raphaël,0,1
+Valentin   Isabelle,Degois   Typhanie,0,1
+Valentin   Isabelle,Riotton   Véronique,0,1
+Valentin   Isabelle,Lardet   Frédérique,0,1
+Valentin   Isabelle,Le Gendre   Gilles,0,1
+Valentin   Isabelle,Naegelen   Christophe,1,1
+Valentin   Isabelle,Guerini   Stanislas,0,1
+Valentin   Isabelle,Terlier   Jean,0,1
+Valentin   Isabelle,Muschotti   Cécile,0,1
+Valentin   Isabelle,Fauvergue   Jean-Michel,0,1
+Valentin   Isabelle,Peyron   Michèle,0,1
+Valentin   Isabelle,Mauborgne   Sereine,0,1
+Valentin   Isabelle,Michel-Kleisbauer   Philippe,0,1
+Valentin   Isabelle,Florennes   Isabelle,0,1
+Valentin   Isabelle,Renson   Hugues,0,1
+Valentin   Isabelle,Guévenoux   Marie,0,1
+Valentin   Isabelle,Faucillon   Elsa,0,1
+Valentin   Isabelle,Pouzyreff   Natalia,0,1
+Valentin   Isabelle,de Vaucouleurs   Michèle,0,1
+Valentin   Isabelle,Marilossian   Jacques,0,1
+Valentin   Isabelle,Fiévet   Jean-Marie,0,1
+Valentin   Isabelle,Houlié   Sacha,0,1
+Bridey   Jean-Jacques,Brenier   Marine,0,1
+Bridey   Jean-Jacques,Maillard   Sylvain,1,1
+Bridey   Jean-Jacques,Trastour-Isnart   Laurence,0,1
+Bridey   Jean-Jacques,Cordier   Pierre,0,1
+Bridey   Jean-Jacques,Louis   Alexandra,1,1
+Bridey   Jean-Jacques,Zulesi   Jean-Marc,1,1
+Bridey   Jean-Jacques,Blanchet   Christophe,1,1
+Bridey   Jean-Jacques,Bouyx   Bertrand,1,1
+Bridey   Jean-Jacques,Essayan   Nadia,1,1
+Bridey   Jean-Jacques,Gérard   Raphaël,1,1
+Bridey   Jean-Jacques,Martin   Didier,1,1
+Bridey   Jean-Jacques,Dubois   Jacqueline,1,1
+Bridey   Jean-Jacques,Khattabi   Fadila,1,1
+Bridey   Jean-Jacques,Paris   Didier,1,1
+Bridey   Jean-Jacques,Gipson   Séverine,1,1
+Bridey   Jean-Jacques,Gouttefarde   Fabien,1,1
+Bridey   Jean-Jacques,Melchior   Graziella,1,1
+Bridey   Jean-Jacques,Tamarelle-Verhaeghe   Marie,1,1
+Bridey   Jean-Jacques,Le Gac   Didier,0,1
+Bridey   Jean-Jacques,Mörch   Sandrine,1,1
+Bridey   Jean-Jacques,Berta   Philippe,1,1
+Bridey   Jean-Jacques,Colboc   Fabienne,1,1
+Bridey   Jean-Jacques,Limon   Monique,1,1
+Bridey   Jean-Jacques,Jacquier-Laforge   Élodie,1,1
+Bridey   Jean-Jacques,Brulebois   Danielle,1,1
+Bridey   Jean-Jacques,Sarles   Nathalie,1,1
+Bridey   Jean-Jacques,Kamowski   Catherine,0,1
+Bridey   Jean-Jacques,Tiegna   Huguette,1,1
+Bridey   Jean-Jacques,Bannier   Géraldine,1,1
+Bridey   Jean-Jacques,Zannier   Hélène,1,1
+Bridey   Jean-Jacques,Jacques   Jean-Michel,1,1
+Bridey   Jean-Jacques,Di Filippo   Fabien,0,1
+Bridey   Jean-Jacques,Trisse   Nicole,0,1
+Bridey   Jean-Jacques,Houbron   Dimitri,1,1
+Bridey   Jean-Jacques,Cattelot   Anne-Laure,1,1
+Bridey   Jean-Jacques,De Temmerman   Jennifer,0,1
+Bridey   Jean-Jacques,Thill   Agnès,1,1
+Bridey   Jean-Jacques,Le Pen   Marine,0,1
+Bridey   Jean-Jacques,Minot   Maxime,0,1
+Bridey   Jean-Jacques,Bilde   Bruno,0,1
+Bridey   Jean-Jacques,Thomas   Valérie,1,1
+Bridey   Jean-Jacques,Lachaud   Bastien,1,1
+Bridey   Jean-Jacques,Testé   Stéphane,1,1
+Bridey   Jean-Jacques,Moutchou   Naïma,1,1
+Bridey   Jean-Jacques,Petit   Frédéric,1,1
+Bridey   Jean-Jacques,Coquerel   Éric,1,1
+Bridey   Jean-Jacques,Charrière   Sylvie,1,1
+Bridey   Jean-Jacques,Vuilletet   Guillaume,1,1
+Bridey   Jean-Jacques,Ramadier   Alain,0,1
+Bridey   Jean-Jacques,Gouffier-Cha   Guillaume,1,1
+Bridey   Jean-Jacques,Schellenberger   Raphaël,0,1
+Bridey   Jean-Jacques,Gauvain   Raphaël,1,1
+Bridey   Jean-Jacques,Degois   Typhanie,1,1
+Bridey   Jean-Jacques,Riotton   Véronique,1,1
+Bridey   Jean-Jacques,Lardet   Frédérique,1,1
+Bridey   Jean-Jacques,Le Gendre   Gilles,1,1
+Bridey   Jean-Jacques,Naegelen   Christophe,0,1
+Bridey   Jean-Jacques,Guerini   Stanislas,1,1
+Bridey   Jean-Jacques,Terlier   Jean,1,1
+Bridey   Jean-Jacques,Muschotti   Cécile,1,1
+Bridey   Jean-Jacques,Fauvergue   Jean-Michel,1,1
+Bridey   Jean-Jacques,Peyron   Michèle,1,1
+Bridey   Jean-Jacques,Mauborgne   Sereine,0,1
+Bridey   Jean-Jacques,Michel-Kleisbauer   Philippe,1,1
+Bridey   Jean-Jacques,Florennes   Isabelle,1,1
+Bridey   Jean-Jacques,Renson   Hugues,1,1
+Bridey   Jean-Jacques,Guévenoux   Marie,1,1
+Bridey   Jean-Jacques,Faucillon   Elsa,0,1
+Bridey   Jean-Jacques,Pouzyreff   Natalia,1,1
+Bridey   Jean-Jacques,de Vaucouleurs   Michèle,1,1
+Bridey   Jean-Jacques,Marilossian   Jacques,1,1
+Bridey   Jean-Jacques,Fiévet   Jean-Marie,1,1
+Bridey   Jean-Jacques,Houlié   Sacha,1,1
+Brenier   Marine,Maillard   Sylvain,0,1
+Brenier   Marine,Trastour-Isnart   Laurence,1,1
+Brenier   Marine,Cordier   Pierre,1,1
+Brenier   Marine,Louis   Alexandra,0,1
+Brenier   Marine,Zulesi   Jean-Marc,0,1
+Brenier   Marine,Blanchet   Christophe,0,1
+Brenier   Marine,Bouyx   Bertrand,0,1
+Brenier   Marine,Essayan   Nadia,0,1
+Brenier   Marine,Gérard   Raphaël,0,1
+Brenier   Marine,Martin   Didier,0,1
+Brenier   Marine,Dubois   Jacqueline,0,1
+Brenier   Marine,Khattabi   Fadila,0,1
+Brenier   Marine,Paris   Didier,0,1
+Brenier   Marine,Gipson   Séverine,0,1
+Brenier   Marine,Gouttefarde   Fabien,0,1
+Brenier   Marine,Melchior   Graziella,0,1
+Brenier   Marine,Tamarelle-Verhaeghe   Marie,0,1
+Brenier   Marine,Le Gac   Didier,0,1
+Brenier   Marine,Mörch   Sandrine,0,1
+Brenier   Marine,Berta   Philippe,0,1
+Brenier   Marine,Colboc   Fabienne,0,1
+Brenier   Marine,Limon   Monique,0,1
+Brenier   Marine,Jacquier-Laforge   Élodie,0,1
+Brenier   Marine,Brulebois   Danielle,0,1
+Brenier   Marine,Sarles   Nathalie,0,1
+Brenier   Marine,Kamowski   Catherine,0,1
+Brenier   Marine,Tiegna   Huguette,0,1
+Brenier   Marine,Bannier   Géraldine,0,1
+Brenier   Marine,Zannier   Hélène,0,1
+Brenier   Marine,Jacques   Jean-Michel,0,1
+Brenier   Marine,Di Filippo   Fabien,1,1
+Brenier   Marine,Trisse   Nicole,0,1
+Brenier   Marine,Houbron   Dimitri,0,1
+Brenier   Marine,Cattelot   Anne-Laure,0,1
+Brenier   Marine,De Temmerman   Jennifer,1,1
+Brenier   Marine,Thill   Agnès,0,1
+Brenier   Marine,Le Pen   Marine,1,1
+Brenier   Marine,Minot   Maxime,1,1
+Brenier   Marine,Bilde   Bruno,1,1
+Brenier   Marine,Thomas   Valérie,0,1
+Brenier   Marine,Lachaud   Bastien,0,1
+Brenier   Marine,Testé   Stéphane,0,1
+Brenier   Marine,Moutchou   Naïma,0,1
+Brenier   Marine,Petit   Frédéric,0,1
+Brenier   Marine,Coquerel   Éric,0,1
+Brenier   Marine,Charrière   Sylvie,0,1
+Brenier   Marine,Vuilletet   Guillaume,0,1
+Brenier   Marine,Ramadier   Alain,1,1
+Brenier   Marine,Gouffier-Cha   Guillaume,0,1
+Brenier   Marine,Schellenberger   Raphaël,1,1
+Brenier   Marine,Gauvain   Raphaël,0,1
+Brenier   Marine,Degois   Typhanie,0,1
+Brenier   Marine,Riotton   Véronique,0,1
+Brenier   Marine,Lardet   Frédérique,0,1
+Brenier   Marine,Le Gendre   Gilles,0,1
+Brenier   Marine,Naegelen   Christophe,1,1
+Brenier   Marine,Guerini   Stanislas,0,1
+Brenier   Marine,Terlier   Jean,0,1
+Brenier   Marine,Muschotti   Cécile,0,1
+Brenier   Marine,Fauvergue   Jean-Michel,0,1
+Brenier   Marine,Peyron   Michèle,0,1
+Brenier   Marine,Mauborgne   Sereine,0,1
+Brenier   Marine,Michel-Kleisbauer   Philippe,0,1
+Brenier   Marine,Florennes   Isabelle,0,1
+Brenier   Marine,Renson   Hugues,0,1
+Brenier   Marine,Guévenoux   Marie,0,1
+Brenier   Marine,Faucillon   Elsa,0,1
+Brenier   Marine,Pouzyreff   Natalia,0,1
+Brenier   Marine,de Vaucouleurs   Michèle,0,1
+Brenier   Marine,Marilossian   Jacques,0,1
+Brenier   Marine,Fiévet   Jean-Marie,0,1
+Brenier   Marine,Houlié   Sacha,0,1
+Maillard   Sylvain,Trastour-Isnart   Laurence,0,1
+Maillard   Sylvain,Cordier   Pierre,0,1
+Maillard   Sylvain,Louis   Alexandra,1,1
+Maillard   Sylvain,Zulesi   Jean-Marc,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Bouyx   Bertrand,1,1
+Maillard   Sylvain,Essayan   Nadia,1,1
+Maillard   Sylvain,Gérard   Raphaël,1,1
+Maillard   Sylvain,Martin   Didier,1,1
+Maillard   Sylvain,Dubois   Jacqueline,1,1
+Maillard   Sylvain,Khattabi   Fadila,1,1
+Maillard   Sylvain,Paris   Didier,1,1
+Maillard   Sylvain,Gipson   Séverine,1,1
+Maillard   Sylvain,Gouttefarde   Fabien,1,1
+Maillard   Sylvain,Melchior   Graziella,1,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,1,1
+Maillard   Sylvain,Le Gac   Didier,0,1
+Maillard   Sylvain,Mörch   Sandrine,1,1
+Maillard   Sylvain,Berta   Philippe,1,1
+Maillard   Sylvain,Colboc   Fabienne,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Jacquier-Laforge   Élodie,1,1
+Maillard   Sylvain,Brulebois   Danielle,1,1
+Maillard   Sylvain,Sarles   Nathalie,1,1
+Maillard   Sylvain,Kamowski   Catherine,0,1
+Maillard   Sylvain,Tiegna   Huguette,1,1
+Maillard   Sylvain,Bannier   Géraldine,1,1
+Maillard   Sylvain,Zannier   Hélène,1,1
+Maillard   Sylvain,Jacques   Jean-Michel,1,1
+Maillard   Sylvain,Di Filippo   Fabien,0,1
+Maillard   Sylvain,Trisse   Nicole,0,1
+Maillard   Sylvain,Houbron   Dimitri,1,1
+Maillard   Sylvain,Cattelot   Anne-Laure,1,1
+Maillard   Sylvain,De Temmerman   Jennifer,0,1
+Maillard   Sylvain,Thill   Agnès,1,1
+Maillard   Sylvain,Le Pen   Marine,0,1
+Maillard   Sylvain,Minot   Maxime,0,1
+Maillard   Sylvain,Bilde   Bruno,0,1
+Maillard   Sylvain,Thomas   Valérie,1,1
+Maillard   Sylvain,Lachaud   Bastien,1,1
+Maillard   Sylvain,Testé   Stéphane,1,1
+Maillard   Sylvain,Moutchou   Naïma,1,1
+Maillard   Sylvain,Petit   Frédéric,1,1
+Maillard   Sylvain,Coquerel   Éric,1,1
+Maillard   Sylvain,Charrière   Sylvie,1,1
+Maillard   Sylvain,Vuilletet   Guillaume,1,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Gouffier-Cha   Guillaume,1,1
+Maillard   Sylvain,Schellenberger   Raphaël,0,1
+Maillard   Sylvain,Gauvain   Raphaël,1,1
+Maillard   Sylvain,Degois   Typhanie,1,1
+Maillard   Sylvain,Riotton   Véronique,1,1
+Maillard   Sylvain,Lardet   Frédérique,1,1
+Maillard   Sylvain,Le Gendre   Gilles,1,1
+Maillard   Sylvain,Naegelen   Christophe,0,1
+Maillard   Sylvain,Guerini   Stanislas,1,1
+Maillard   Sylvain,Terlier   Jean,1,1
+Maillard   Sylvain,Muschotti   Cécile,1,1
+Maillard   Sylvain,Fauvergue   Jean-Michel,1,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Mauborgne   Sereine,0,1
+Maillard   Sylvain,Michel-Kleisbauer   Philippe,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,Renson   Hugues,1,1
+Maillard   Sylvain,Guévenoux   Marie,1,1
+Maillard   Sylvain,Faucillon   Elsa,0,1
+Maillard   Sylvain,Pouzyreff   Natalia,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Marilossian   Jacques,1,1
+Maillard   Sylvain,Fiévet   Jean-Marie,1,1
+Maillard   Sylvain,Houlié   Sacha,1,1
+Trastour-Isnart   Laurence,Cordier   Pierre,1,1
+Trastour-Isnart   Laurence,Louis   Alexandra,0,1
+Trastour-Isnart   Laurence,Zulesi   Jean-Marc,0,1
+Trastour-Isnart   Laurence,Blanchet   Christophe,0,1
+Trastour-Isnart   Laurence,Bouyx   Bertrand,0,1
+Trastour-Isnart   Laurence,Essayan   Nadia,0,1
+Trastour-Isnart   Laurence,Gérard   Raphaël,0,1
+Trastour-Isnart   Laurence,Martin   Didier,0,1
+Trastour-Isnart   Laurence,Dubois   Jacqueline,0,1
+Trastour-Isnart   Laurence,Khattabi   Fadila,0,1
+Trastour-Isnart   Laurence,Paris   Didier,0,1
+Trastour-Isnart   Laurence,Gipson   Séverine,0,1
+Trastour-Isnart   Laurence,Gouttefarde   Fabien,0,1
+Trastour-Isnart   Laurence,Melchior   Graziella,0,1
+Trastour-Isnart   Laurence,Tamarelle-Verhaeghe   Marie,0,1
+Trastour-Isnart   Laurence,Le Gac   Didier,0,1
+Trastour-Isnart   Laurence,Mörch   Sandrine,0,1
+Trastour-Isnart   Laurence,Berta   Philippe,0,1
+Trastour-Isnart   Laurence,Colboc   Fabienne,0,1
+Trastour-Isnart   Laurence,Limon   Monique,0,1
+Trastour-Isnart   Laurence,Jacquier-Laforge   Élodie,0,1
+Trastour-Isnart   Laurence,Brulebois   Danielle,0,1
+Trastour-Isnart   Laurence,Sarles   Nathalie,0,1
+Trastour-Isnart   Laurence,Kamowski   Catherine,0,1
+Trastour-Isnart   Laurence,Tiegna   Huguette,0,1
+Trastour-Isnart   Laurence,Bannier   Géraldine,0,1
+Trastour-Isnart   Laurence,Zannier   Hélène,0,1
+Trastour-Isnart   Laurence,Jacques   Jean-Michel,0,1
+Trastour-Isnart   Laurence,Di Filippo   Fabien,1,1
+Trastour-Isnart   Laurence,Trisse   Nicole,0,1
+Trastour-Isnart   Laurence,Houbron   Dimitri,0,1
+Trastour-Isnart   Laurence,Cattelot   Anne-Laure,0,1
+Trastour-Isnart   Laurence,De Temmerman   Jennifer,1,1
+Trastour-Isnart   Laurence,Thill   Agnès,0,1
+Trastour-Isnart   Laurence,Le Pen   Marine,1,1
+Trastour-Isnart   Laurence,Minot   Maxime,1,1
+Trastour-Isnart   Laurence,Bilde   Bruno,1,1
+Trastour-Isnart   Laurence,Thomas   Valérie,0,1
+Trastour-Isnart   Laurence,Lachaud   Bastien,0,1
+Trastour-Isnart   Laurence,Testé   Stéphane,0,1
+Trastour-Isnart   Laurence,Moutchou   Naïma,0,1
+Trastour-Isnart   Laurence,Petit   Frédéric,0,1
+Trastour-Isnart   Laurence,Coquerel   Éric,0,1
+Trastour-Isnart   Laurence,Charrière   Sylvie,0,1
+Trastour-Isnart   Laurence,Vuilletet   Guillaume,0,1
+Trastour-Isnart   Laurence,Ramadier   Alain,1,1
+Trastour-Isnart   Laurence,Gouffier-Cha   Guillaume,0,1
+Trastour-Isnart   Laurence,Schellenberger   Raphaël,1,1
+Trastour-Isnart   Laurence,Gauvain   Raphaël,0,1
+Trastour-Isnart   Laurence,Degois   Typhanie,0,1
+Trastour-Isnart   Laurence,Riotton   Véronique,0,1
+Trastour-Isnart   Laurence,Lardet   Frédérique,0,1
+Trastour-Isnart   Laurence,Le Gendre   Gilles,0,1
+Trastour-Isnart   Laurence,Naegelen   Christophe,1,1
+Trastour-Isnart   Laurence,Guerini   Stanislas,0,1
+Trastour-Isnart   Laurence,Terlier   Jean,0,1
+Trastour-Isnart   Laurence,Muschotti   Cécile,0,1
+Trastour-Isnart   Laurence,Fauvergue   Jean-Michel,0,1
+Trastour-Isnart   Laurence,Peyron   Michèle,0,1
+Trastour-Isnart   Laurence,Mauborgne   Sereine,0,1
+Trastour-Isnart   Laurence,Michel-Kleisbauer   Philippe,0,1
+Trastour-Isnart   Laurence,Florennes   Isabelle,0,1
+Trastour-Isnart   Laurence,Renson   Hugues,0,1
+Trastour-Isnart   Laurence,Guévenoux   Marie,0,1
+Trastour-Isnart   Laurence,Faucillon   Elsa,0,1
+Trastour-Isnart   Laurence,Pouzyreff   Natalia,0,1
+Trastour-Isnart   Laurence,de Vaucouleurs   Michèle,0,1
+Trastour-Isnart   Laurence,Marilossian   Jacques,0,1
+Trastour-Isnart   Laurence,Fiévet   Jean-Marie,0,1
+Trastour-Isnart   Laurence,Houlié   Sacha,0,1
+Cordier   Pierre,Louis   Alexandra,0,1
+Cordier   Pierre,Zulesi   Jean-Marc,0,1
+Cordier   Pierre,Blanchet   Christophe,0,1
+Cordier   Pierre,Bouyx   Bertrand,0,1
+Cordier   Pierre,Essayan   Nadia,0,1
+Cordier   Pierre,Gérard   Raphaël,0,1
+Cordier   Pierre,Martin   Didier,0,1
+Cordier   Pierre,Dubois   Jacqueline,0,1
+Cordier   Pierre,Khattabi   Fadila,0,1
+Cordier   Pierre,Paris   Didier,0,1
+Cordier   Pierre,Gipson   Séverine,0,1
+Cordier   Pierre,Gouttefarde   Fabien,0,1
+Cordier   Pierre,Melchior   Graziella,0,1
+Cordier   Pierre,Tamarelle-Verhaeghe   Marie,0,1
+Cordier   Pierre,Le Gac   Didier,0,1
+Cordier   Pierre,Mörch   Sandrine,0,1
+Cordier   Pierre,Berta   Philippe,0,1
+Cordier   Pierre,Colboc   Fabienne,0,1
+Cordier   Pierre,Limon   Monique,0,1
+Cordier   Pierre,Jacquier-Laforge   Élodie,0,1
+Cordier   Pierre,Brulebois   Danielle,0,1
+Cordier   Pierre,Sarles   Nathalie,0,1
+Cordier   Pierre,Kamowski   Catherine,0,1
+Cordier   Pierre,Tiegna   Huguette,0,1
+Cordier   Pierre,Bannier   Géraldine,0,1
+Cordier   Pierre,Zannier   Hélène,0,1
+Cordier   Pierre,Jacques   Jean-Michel,0,1
+Cordier   Pierre,Di Filippo   Fabien,1,1
+Cordier   Pierre,Trisse   Nicole,0,1
+Cordier   Pierre,Houbron   Dimitri,0,1
+Cordier   Pierre,Cattelot   Anne-Laure,0,1
+Cordier   Pierre,De Temmerman   Jennifer,1,1
+Cordier   Pierre,Thill   Agnès,0,1
+Cordier   Pierre,Le Pen   Marine,1,1
+Cordier   Pierre,Minot   Maxime,1,1
+Cordier   Pierre,Bilde   Bruno,1,1
+Cordier   Pierre,Thomas   Valérie,0,1
+Cordier   Pierre,Lachaud   Bastien,0,1
+Cordier   Pierre,Testé   Stéphane,0,1
+Cordier   Pierre,Moutchou   Naïma,0,1
+Cordier   Pierre,Petit   Frédéric,0,1
+Cordier   Pierre,Coquerel   Éric,0,1
+Cordier   Pierre,Charrière   Sylvie,0,1
+Cordier   Pierre,Vuilletet   Guillaume,0,1
+Cordier   Pierre,Ramadier   Alain,1,1
+Cordier   Pierre,Gouffier-Cha   Guillaume,0,1
+Cordier   Pierre,Schellenberger   Raphaël,1,1
+Cordier   Pierre,Gauvain   Raphaël,0,1
+Cordier   Pierre,Degois   Typhanie,0,1
+Cordier   Pierre,Riotton   Véronique,0,1
+Cordier   Pierre,Lardet   Frédérique,0,1
+Cordier   Pierre,Le Gendre   Gilles,0,1
+Cordier   Pierre,Naegelen   Christophe,1,1
+Cordier   Pierre,Guerini   Stanislas,0,1
+Cordier   Pierre,Terlier   Jean,0,1
+Cordier   Pierre,Muschotti   Cécile,0,1
+Cordier   Pierre,Fauvergue   Jean-Michel,0,1
+Cordier   Pierre,Peyron   Michèle,0,1
+Cordier   Pierre,Mauborgne   Sereine,0,1
+Cordier   Pierre,Michel-Kleisbauer   Philippe,0,1
+Cordier   Pierre,Florennes   Isabelle,0,1
+Cordier   Pierre,Renson   Hugues,0,1
+Cordier   Pierre,Guévenoux   Marie,0,1
+Cordier   Pierre,Faucillon   Elsa,0,1
+Cordier   Pierre,Pouzyreff   Natalia,0,1
+Cordier   Pierre,de Vaucouleurs   Michèle,0,1
+Cordier   Pierre,Marilossian   Jacques,0,1
+Cordier   Pierre,Fiévet   Jean-Marie,0,1
+Cordier   Pierre,Houlié   Sacha,0,1
+Louis   Alexandra,Zulesi   Jean-Marc,1,1
+Louis   Alexandra,Blanchet   Christophe,1,1
+Louis   Alexandra,Bouyx   Bertrand,1,1
+Louis   Alexandra,Essayan   Nadia,1,1
+Louis   Alexandra,Gérard   Raphaël,1,1
+Louis   Alexandra,Martin   Didier,1,1
+Louis   Alexandra,Dubois   Jacqueline,1,1
+Louis   Alexandra,Khattabi   Fadila,1,1
+Louis   Alexandra,Paris   Didier,1,1
+Louis   Alexandra,Gipson   Séverine,1,1
+Louis   Alexandra,Gouttefarde   Fabien,1,1
+Louis   Alexandra,Melchior   Graziella,1,1
+Louis   Alexandra,Tamarelle-Verhaeghe   Marie,1,1
+Louis   Alexandra,Le Gac   Didier,0,1
+Louis   Alexandra,Mörch   Sandrine,1,1
+Louis   Alexandra,Berta   Philippe,1,1
+Louis   Alexandra,Colboc   Fabienne,1,1
+Louis   Alexandra,Limon   Monique,1,1
+Louis   Alexandra,Jacquier-Laforge   Élodie,1,1
+Louis   Alexandra,Brulebois   Danielle,1,1
+Louis   Alexandra,Sarles   Nathalie,1,1
+Louis   Alexandra,Kamowski   Catherine,0,1
+Louis   Alexandra,Tiegna   Huguette,1,1
+Louis   Alexandra,Bannier   Géraldine,1,1
+Louis   Alexandra,Zannier   Hélène,1,1
+Louis   Alexandra,Jacques   Jean-Michel,1,1
+Louis   Alexandra,Di Filippo   Fabien,0,1
+Louis   Alexandra,Trisse   Nicole,0,1
+Louis   Alexandra,Houbron   Dimitri,1,1
+Louis   Alexandra,Cattelot   Anne-Laure,1,1
+Louis   Alexandra,De Temmerman   Jennifer,0,1
+Louis   Alexandra,Thill   Agnès,1,1
+Louis   Alexandra,Le Pen   Marine,0,1
+Louis   Alexandra,Minot   Maxime,0,1
+Louis   Alexandra,Bilde   Bruno,0,1
+Louis   Alexandra,Thomas   Valérie,1,1
+Louis   Alexandra,Lachaud   Bastien,1,1
+Louis   Alexandra,Testé   Stéphane,1,1
+Louis   Alexandra,Moutchou   Naïma,1,1
+Louis   Alexandra,Petit   Frédéric,1,1
+Louis   Alexandra,Coquerel   Éric,1,1
+Louis   Alexandra,Charrière   Sylvie,1,1
+Louis   Alexandra,Vuilletet   Guillaume,1,1
+Louis   Alexandra,Ramadier   Alain,0,1
+Louis   Alexandra,Gouffier-Cha   Guillaume,1,1
+Louis   Alexandra,Schellenberger   Raphaël,0,1
+Louis   Alexandra,Gauvain   Raphaël,1,1
+Louis   Alexandra,Degois   Typhanie,1,1
+Louis   Alexandra,Riotton   Véronique,1,1
+Louis   Alexandra,Lardet   Frédérique,1,1
+Louis   Alexandra,Le Gendre   Gilles,1,1
+Louis   Alexandra,Naegelen   Christophe,0,1
+Louis   Alexandra,Guerini   Stanislas,1,1
+Louis   Alexandra,Terlier   Jean,1,1
+Louis   Alexandra,Muschotti   Cécile,1,1
+Louis   Alexandra,Fauvergue   Jean-Michel,1,1
+Louis   Alexandra,Peyron   Michèle,1,1
+Louis   Alexandra,Mauborgne   Sereine,0,1
+Louis   Alexandra,Michel-Kleisbauer   Philippe,1,1
+Louis   Alexandra,Florennes   Isabelle,1,1
+Louis   Alexandra,Renson   Hugues,1,1
+Louis   Alexandra,Guévenoux   Marie,1,1
+Louis   Alexandra,Faucillon   Elsa,0,1
+Louis   Alexandra,Pouzyreff   Natalia,1,1
+Louis   Alexandra,de Vaucouleurs   Michèle,1,1
+Louis   Alexandra,Marilossian   Jacques,1,1
+Louis   Alexandra,Fiévet   Jean-Marie,1,1
+Louis   Alexandra,Houlié   Sacha,1,1
+Zulesi   Jean-Marc,Blanchet   Christophe,1,1
+Zulesi   Jean-Marc,Bouyx   Bertrand,1,1
+Zulesi   Jean-Marc,Essayan   Nadia,1,1
+Zulesi   Jean-Marc,Gérard   Raphaël,1,1
+Zulesi   Jean-Marc,Martin   Didier,1,1
+Zulesi   Jean-Marc,Dubois   Jacqueline,1,1
+Zulesi   Jean-Marc,Khattabi   Fadila,1,1
+Zulesi   Jean-Marc,Paris   Didier,1,1
+Zulesi   Jean-Marc,Gipson   Séverine,1,1
+Zulesi   Jean-Marc,Gouttefarde   Fabien,1,1
+Zulesi   Jean-Marc,Melchior   Graziella,1,1
+Zulesi   Jean-Marc,Tamarelle-Verhaeghe   Marie,1,1
+Zulesi   Jean-Marc,Le Gac   Didier,0,1
+Zulesi   Jean-Marc,Mörch   Sandrine,1,1
+Zulesi   Jean-Marc,Berta   Philippe,1,1
+Zulesi   Jean-Marc,Colboc   Fabienne,1,1
+Zulesi   Jean-Marc,Limon   Monique,1,1
+Zulesi   Jean-Marc,Jacquier-Laforge   Élodie,1,1
+Zulesi   Jean-Marc,Brulebois   Danielle,1,1
+Zulesi   Jean-Marc,Sarles   Nathalie,1,1
+Zulesi   Jean-Marc,Kamowski   Catherine,0,1
+Zulesi   Jean-Marc,Tiegna   Huguette,1,1
+Zulesi   Jean-Marc,Bannier   Géraldine,1,1
+Zulesi   Jean-Marc,Zannier   Hélène,1,1
+Zulesi   Jean-Marc,Jacques   Jean-Michel,1,1
+Zulesi   Jean-Marc,Di Filippo   Fabien,0,1
+Zulesi   Jean-Marc,Trisse   Nicole,0,1
+Zulesi   Jean-Marc,Houbron   Dimitri,1,1
+Zulesi   Jean-Marc,Cattelot   Anne-Laure,1,1
+Zulesi   Jean-Marc,De Temmerman   Jennifer,0,1
+Zulesi   Jean-Marc,Thill   Agnès,1,1
+Zulesi   Jean-Marc,Le Pen   Marine,0,1
+Zulesi   Jean-Marc,Minot   Maxime,0,1
+Zulesi   Jean-Marc,Bilde   Bruno,0,1
+Zulesi   Jean-Marc,Thomas   Valérie,1,1
+Zulesi   Jean-Marc,Lachaud   Bastien,1,1
+Zulesi   Jean-Marc,Testé   Stéphane,1,1
+Zulesi   Jean-Marc,Moutchou   Naïma,1,1
+Zulesi   Jean-Marc,Petit   Frédéric,1,1
+Zulesi   Jean-Marc,Coquerel   Éric,1,1
+Zulesi   Jean-Marc,Charrière   Sylvie,1,1
+Zulesi   Jean-Marc,Vuilletet   Guillaume,1,1
+Zulesi   Jean-Marc,Ramadier   Alain,0,1
+Zulesi   Jean-Marc,Gouffier-Cha   Guillaume,1,1
+Zulesi   Jean-Marc,Schellenberger   Raphaël,0,1
+Zulesi   Jean-Marc,Gauvain   Raphaël,1,1
+Zulesi   Jean-Marc,Degois   Typhanie,1,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Lardet   Frédérique,1,1
+Zulesi   Jean-Marc,Le Gendre   Gilles,1,1
+Zulesi   Jean-Marc,Naegelen   Christophe,0,1
+Zulesi   Jean-Marc,Guerini   Stanislas,1,1
+Zulesi   Jean-Marc,Terlier   Jean,1,1
+Zulesi   Jean-Marc,Muschotti   Cécile,1,1
+Zulesi   Jean-Marc,Fauvergue   Jean-Michel,1,1
+Zulesi   Jean-Marc,Peyron   Michèle,1,1
+Zulesi   Jean-Marc,Mauborgne   Sereine,0,1
+Zulesi   Jean-Marc,Michel-Kleisbauer   Philippe,1,1
+Zulesi   Jean-Marc,Florennes   Isabelle,1,1
+Zulesi   Jean-Marc,Renson   Hugues,1,1
+Zulesi   Jean-Marc,Guévenoux   Marie,1,1
+Zulesi   Jean-Marc,Faucillon   Elsa,0,1
+Zulesi   Jean-Marc,Pouzyreff   Natalia,1,1
+Zulesi   Jean-Marc,de Vaucouleurs   Michèle,1,1
+Zulesi   Jean-Marc,Marilossian   Jacques,1,1
+Zulesi   Jean-Marc,Fiévet   Jean-Marie,1,1
+Zulesi   Jean-Marc,Houlié   Sacha,1,1
+Blanchet   Christophe,Bouyx   Bertrand,1,1
+Blanchet   Christophe,Essayan   Nadia,1,1
+Blanchet   Christophe,Gérard   Raphaël,1,1
+Blanchet   Christophe,Martin   Didier,1,1
+Blanchet   Christophe,Dubois   Jacqueline,1,1
+Blanchet   Christophe,Khattabi   Fadila,1,1
+Blanchet   Christophe,Paris   Didier,1,1
+Blanchet   Christophe,Gipson   Séverine,1,1
+Blanchet   Christophe,Gouttefarde   Fabien,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Tamarelle-Verhaeghe   Marie,1,1
+Blanchet   Christophe,Le Gac   Didier,0,1
+Blanchet   Christophe,Mörch   Sandrine,1,1
+Blanchet   Christophe,Berta   Philippe,1,1
+Blanchet   Christophe,Colboc   Fabienne,1,1
+Blanchet   Christophe,Limon   Monique,1,1
+Blanchet   Christophe,Jacquier-Laforge   Élodie,1,1
+Blanchet   Christophe,Brulebois   Danielle,1,1
+Blanchet   Christophe,Sarles   Nathalie,1,1
+Blanchet   Christophe,Kamowski   Catherine,0,1
+Blanchet   Christophe,Tiegna   Huguette,1,1
+Blanchet   Christophe,Bannier   Géraldine,1,1
+Blanchet   Christophe,Zannier   Hélène,1,1
+Blanchet   Christophe,Jacques   Jean-Michel,1,1
+Blanchet   Christophe,Di Filippo   Fabien,0,1
+Blanchet   Christophe,Trisse   Nicole,0,1
+Blanchet   Christophe,Houbron   Dimitri,1,1
+Blanchet   Christophe,Cattelot   Anne-Laure,1,1
+Blanchet   Christophe,De Temmerman   Jennifer,0,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Le Pen   Marine,0,1
+Blanchet   Christophe,Minot   Maxime,0,1
+Blanchet   Christophe,Bilde   Bruno,0,1
+Blanchet   Christophe,Thomas   Valérie,1,1
+Blanchet   Christophe,Lachaud   Bastien,1,1
+Blanchet   Christophe,Testé   Stéphane,1,1
+Blanchet   Christophe,Moutchou   Naïma,1,1
+Blanchet   Christophe,Petit   Frédéric,1,1
+Blanchet   Christophe,Coquerel   Éric,1,1
+Blanchet   Christophe,Charrière   Sylvie,1,1
+Blanchet   Christophe,Vuilletet   Guillaume,1,1
+Blanchet   Christophe,Ramadier   Alain,0,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Schellenberger   Raphaël,0,1
+Blanchet   Christophe,Gauvain   Raphaël,1,1
+Blanchet   Christophe,Degois   Typhanie,1,1
+Blanchet   Christophe,Riotton   Véronique,1,1
+Blanchet   Christophe,Lardet   Frédérique,1,1
+Blanchet   Christophe,Le Gendre   Gilles,1,1
+Blanchet   Christophe,Naegelen   Christophe,0,1
+Blanchet   Christophe,Guerini   Stanislas,1,1
+Blanchet   Christophe,Terlier   Jean,1,1
+Blanchet   Christophe,Muschotti   Cécile,1,1
+Blanchet   Christophe,Fauvergue   Jean-Michel,1,1
+Blanchet   Christophe,Peyron   Michèle,1,1
+Blanchet   Christophe,Mauborgne   Sereine,0,1
+Blanchet   Christophe,Michel-Kleisbauer   Philippe,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Renson   Hugues,1,1
+Blanchet   Christophe,Guévenoux   Marie,1,1
+Blanchet   Christophe,Faucillon   Elsa,0,1
+Blanchet   Christophe,Pouzyreff   Natalia,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Marilossian   Jacques,1,1
+Blanchet   Christophe,Fiévet   Jean-Marie,1,1
+Blanchet   Christophe,Houlié   Sacha,1,1
+Bouyx   Bertrand,Essayan   Nadia,1,1
+Bouyx   Bertrand,Gérard   Raphaël,1,1
+Bouyx   Bertrand,Martin   Didier,1,1
+Bouyx   Bertrand,Dubois   Jacqueline,1,1
+Bouyx   Bertrand,Khattabi   Fadila,1,1
+Bouyx   Bertrand,Paris   Didier,1,1
+Bouyx   Bertrand,Gipson   Séverine,1,1
+Bouyx   Bertrand,Gouttefarde   Fabien,1,1
+Bouyx   Bertrand,Melchior   Graziella,1,1
+Bouyx   Bertrand,Tamarelle-Verhaeghe   Marie,1,1
+Bouyx   Bertrand,Le Gac   Didier,0,1
+Bouyx   Bertrand,Mörch   Sandrine,1,1
+Bouyx   Bertrand,Berta   Philippe,1,1
+Bouyx   Bertrand,Colboc   Fabienne,1,1
+Bouyx   Bertrand,Limon   Monique,1,1
+Bouyx   Bertrand,Jacquier-Laforge   Élodie,1,1
+Bouyx   Bertrand,Brulebois   Danielle,1,1
+Bouyx   Bertrand,Sarles   Nathalie,1,1
+Bouyx   Bertrand,Kamowski   Catherine,0,1
+Bouyx   Bertrand,Tiegna   Huguette,1,1
+Bouyx   Bertrand,Bannier   Géraldine,1,1
+Bouyx   Bertrand,Zannier   Hélène,1,1
+Bouyx   Bertrand,Jacques   Jean-Michel,1,1
+Bouyx   Bertrand,Di Filippo   Fabien,0,1
+Bouyx   Bertrand,Trisse   Nicole,0,1
+Bouyx   Bertrand,Houbron   Dimitri,1,1
+Bouyx   Bertrand,Cattelot   Anne-Laure,1,1
+Bouyx   Bertrand,De Temmerman   Jennifer,0,1
+Bouyx   Bertrand,Thill   Agnès,1,1
+Bouyx   Bertrand,Le Pen   Marine,0,1
+Bouyx   Bertrand,Minot   Maxime,0,1
+Bouyx   Bertrand,Bilde   Bruno,0,1
+Bouyx   Bertrand,Thomas   Valérie,1,1
+Bouyx   Bertrand,Lachaud   Bastien,1,1
+Bouyx   Bertrand,Testé   Stéphane,1,1
+Bouyx   Bertrand,Moutchou   Naïma,1,1
+Bouyx   Bertrand,Petit   Frédéric,1,1
+Bouyx   Bertrand,Coquerel   Éric,1,1
+Bouyx   Bertrand,Charrière   Sylvie,1,1
+Bouyx   Bertrand,Vuilletet   Guillaume,1,1
+Bouyx   Bertrand,Ramadier   Alain,0,1
+Bouyx   Bertrand,Gouffier-Cha   Guillaume,1,1
+Bouyx   Bertrand,Schellenberger   Raphaël,0,1
+Bouyx   Bertrand,Gauvain   Raphaël,1,1
+Bouyx   Bertrand,Degois   Typhanie,1,1
+Bouyx   Bertrand,Riotton   Véronique,1,1
+Bouyx   Bertrand,Lardet   Frédérique,1,1
+Bouyx   Bertrand,Le Gendre   Gilles,1,1
+Bouyx   Bertrand,Naegelen   Christophe,0,1
+Bouyx   Bertrand,Guerini   Stanislas,1,1
+Bouyx   Bertrand,Terlier   Jean,1,1
+Bouyx   Bertrand,Muschotti   Cécile,1,1
+Bouyx   Bertrand,Fauvergue   Jean-Michel,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Mauborgne   Sereine,0,1
+Bouyx   Bertrand,Michel-Kleisbauer   Philippe,1,1
+Bouyx   Bertrand,Florennes   Isabelle,1,1
+Bouyx   Bertrand,Renson   Hugues,1,1
+Bouyx   Bertrand,Guévenoux   Marie,1,1
+Bouyx   Bertrand,Faucillon   Elsa,0,1
+Bouyx   Bertrand,Pouzyreff   Natalia,1,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,1,1
+Bouyx   Bertrand,Marilossian   Jacques,1,1
+Bouyx   Bertrand,Fiévet   Jean-Marie,1,1
+Bouyx   Bertrand,Houlié   Sacha,1,1
+Essayan   Nadia,Gérard   Raphaël,1,1
+Essayan   Nadia,Martin   Didier,1,1
+Essayan   Nadia,Dubois   Jacqueline,1,1
+Essayan   Nadia,Khattabi   Fadila,1,1
+Essayan   Nadia,Paris   Didier,1,1
+Essayan   Nadia,Gipson   Séverine,1,1
+Essayan   Nadia,Gouttefarde   Fabien,1,1
+Essayan   Nadia,Melchior   Graziella,1,1
+Essayan   Nadia,Tamarelle-Verhaeghe   Marie,1,1
+Essayan   Nadia,Le Gac   Didier,0,1
+Essayan   Nadia,Mörch   Sandrine,1,1
+Essayan   Nadia,Berta   Philippe,1,1
+Essayan   Nadia,Colboc   Fabienne,1,1
+Essayan   Nadia,Limon   Monique,1,1
+Essayan   Nadia,Jacquier-Laforge   Élodie,1,1
+Essayan   Nadia,Brulebois   Danielle,1,1
+Essayan   Nadia,Sarles   Nathalie,1,1
+Essayan   Nadia,Kamowski   Catherine,0,1
+Essayan   Nadia,Tiegna   Huguette,1,1
+Essayan   Nadia,Bannier   Géraldine,1,1
+Essayan   Nadia,Zannier   Hélène,1,1
+Essayan   Nadia,Jacques   Jean-Michel,1,1
+Essayan   Nadia,Di Filippo   Fabien,0,1
+Essayan   Nadia,Trisse   Nicole,0,1
+Essayan   Nadia,Houbron   Dimitri,1,1
+Essayan   Nadia,Cattelot   Anne-Laure,1,1
+Essayan   Nadia,De Temmerman   Jennifer,0,1
+Essayan   Nadia,Thill   Agnès,1,1
+Essayan   Nadia,Le Pen   Marine,0,1
+Essayan   Nadia,Minot   Maxime,0,1
+Essayan   Nadia,Bilde   Bruno,0,1
+Essayan   Nadia,Thomas   Valérie,1,1
+Essayan   Nadia,Lachaud   Bastien,1,1
+Essayan   Nadia,Testé   Stéphane,1,1
+Essayan   Nadia,Moutchou   Naïma,1,1
+Essayan   Nadia,Petit   Frédéric,1,1
+Essayan   Nadia,Coquerel   Éric,1,1
+Essayan   Nadia,Charrière   Sylvie,1,1
+Essayan   Nadia,Vuilletet   Guillaume,1,1
+Essayan   Nadia,Ramadier   Alain,0,1
+Essayan   Nadia,Gouffier-Cha   Guillaume,1,1
+Essayan   Nadia,Schellenberger   Raphaël,0,1
+Essayan   Nadia,Gauvain   Raphaël,1,1
+Essayan   Nadia,Degois   Typhanie,1,1
+Essayan   Nadia,Riotton   Véronique,1,1
+Essayan   Nadia,Lardet   Frédérique,1,1
+Essayan   Nadia,Le Gendre   Gilles,1,1
+Essayan   Nadia,Naegelen   Christophe,0,1
+Essayan   Nadia,Guerini   Stanislas,1,1
+Essayan   Nadia,Terlier   Jean,1,1
+Essayan   Nadia,Muschotti   Cécile,1,1
+Essayan   Nadia,Fauvergue   Jean-Michel,1,1
+Essayan   Nadia,Peyron   Michèle,1,1
+Essayan   Nadia,Mauborgne   Sereine,0,1
+Essayan   Nadia,Michel-Kleisbauer   Philippe,1,1
+Essayan   Nadia,Florennes   Isabelle,1,1
+Essayan   Nadia,Renson   Hugues,1,1
+Essayan   Nadia,Guévenoux   Marie,1,1
+Essayan   Nadia,Faucillon   Elsa,0,1
+Essayan   Nadia,Pouzyreff   Natalia,1,1
+Essayan   Nadia,de Vaucouleurs   Michèle,1,1
+Essayan   Nadia,Marilossian   Jacques,1,1
+Essayan   Nadia,Fiévet   Jean-Marie,1,1
+Essayan   Nadia,Houlié   Sacha,1,1
+Gérard   Raphaël,Martin   Didier,1,1
+Gérard   Raphaël,Dubois   Jacqueline,1,1
+Gérard   Raphaël,Khattabi   Fadila,1,1
+Gérard   Raphaël,Paris   Didier,1,1
+Gérard   Raphaël,Gipson   Séverine,1,1
+Gérard   Raphaël,Gouttefarde   Fabien,1,1
+Gérard   Raphaël,Melchior   Graziella,1,1
+Gérard   Raphaël,Tamarelle-Verhaeghe   Marie,1,1
+Gérard   Raphaël,Le Gac   Didier,0,1
+Gérard   Raphaël,Mörch   Sandrine,1,1
+Gérard   Raphaël,Berta   Philippe,1,1
+Gérard   Raphaël,Colboc   Fabienne,1,1
+Gérard   Raphaël,Limon   Monique,1,1
+Gérard   Raphaël,Jacquier-Laforge   Élodie,1,1
+Gérard   Raphaël,Brulebois   Danielle,1,1
+Gérard   Raphaël,Sarles   Nathalie,1,1
+Gérard   Raphaël,Kamowski   Catherine,0,1
+Gérard   Raphaël,Tiegna   Huguette,1,1
+Gérard   Raphaël,Bannier   Géraldine,1,1
+Gérard   Raphaël,Zannier   Hélène,1,1
+Gérard   Raphaël,Jacques   Jean-Michel,1,1
+Gérard   Raphaël,Di Filippo   Fabien,0,1
+Gérard   Raphaël,Trisse   Nicole,0,1
+Gérard   Raphaël,Houbron   Dimitri,1,1
+Gérard   Raphaël,Cattelot   Anne-Laure,1,1
+Gérard   Raphaël,De Temmerman   Jennifer,0,1
+Gérard   Raphaël,Thill   Agnès,1,1
+Gérard   Raphaël,Le Pen   Marine,0,1
+Gérard   Raphaël,Minot   Maxime,0,1
+Gérard   Raphaël,Bilde   Bruno,0,1
+Gérard   Raphaël,Thomas   Valérie,1,1
+Gérard   Raphaël,Lachaud   Bastien,1,1
+Gérard   Raphaël,Testé   Stéphane,1,1
+Gérard   Raphaël,Moutchou   Naïma,1,1
+Gérard   Raphaël,Petit   Frédéric,1,1
+Gérard   Raphaël,Coquerel   Éric,1,1
+Gérard   Raphaël,Charrière   Sylvie,1,1
+Gérard   Raphaël,Vuilletet   Guillaume,1,1
+Gérard   Raphaël,Ramadier   Alain,0,1
+Gérard   Raphaël,Gouffier-Cha   Guillaume,1,1
+Gérard   Raphaël,Schellenberger   Raphaël,0,1
+Gérard   Raphaël,Gauvain   Raphaël,1,1
+Gérard   Raphaël,Degois   Typhanie,1,1
+Gérard   Raphaël,Riotton   Véronique,1,1
+Gérard   Raphaël,Lardet   Frédérique,1,1
+Gérard   Raphaël,Le Gendre   Gilles,1,1
+Gérard   Raphaël,Naegelen   Christophe,0,1
+Gérard   Raphaël,Guerini   Stanislas,1,1
+Gérard   Raphaël,Terlier   Jean,1,1
+Gérard   Raphaël,Muschotti   Cécile,1,1
+Gérard   Raphaël,Fauvergue   Jean-Michel,1,1
+Gérard   Raphaël,Peyron   Michèle,1,1
+Gérard   Raphaël,Mauborgne   Sereine,0,1
+Gérard   Raphaël,Michel-Kleisbauer   Philippe,1,1
+Gérard   Raphaël,Florennes   Isabelle,1,1
+Gérard   Raphaël,Renson   Hugues,1,1
+Gérard   Raphaël,Guévenoux   Marie,1,1
+Gérard   Raphaël,Faucillon   Elsa,0,1
+Gérard   Raphaël,Pouzyreff   Natalia,1,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,1,1
+Gérard   Raphaël,Marilossian   Jacques,1,1
+Gérard   Raphaël,Fiévet   Jean-Marie,1,1
+Gérard   Raphaël,Houlié   Sacha,1,1
+Martin   Didier,Dubois   Jacqueline,1,1
+Martin   Didier,Khattabi   Fadila,1,1
+Martin   Didier,Paris   Didier,1,1
+Martin   Didier,Gipson   Séverine,1,1
+Martin   Didier,Gouttefarde   Fabien,1,1
+Martin   Didier,Melchior   Graziella,1,1
+Martin   Didier,Tamarelle-Verhaeghe   Marie,1,1
+Martin   Didier,Le Gac   Didier,0,1
+Martin   Didier,Mörch   Sandrine,1,1
+Martin   Didier,Berta   Philippe,1,1
+Martin   Didier,Colboc   Fabienne,1,1
+Martin   Didier,Limon   Monique,1,1
+Martin   Didier,Jacquier-Laforge   Élodie,1,1
+Martin   Didier,Brulebois   Danielle,1,1
+Martin   Didier,Sarles   Nathalie,1,1
+Martin   Didier,Kamowski   Catherine,0,1
+Martin   Didier,Tiegna   Huguette,1,1
+Martin   Didier,Bannier   Géraldine,1,1
+Martin   Didier,Zannier   Hélène,1,1
+Martin   Didier,Jacques   Jean-Michel,1,1
+Martin   Didier,Di Filippo   Fabien,0,1
+Martin   Didier,Trisse   Nicole,0,1
+Martin   Didier,Houbron   Dimitri,1,1
+Martin   Didier,Cattelot   Anne-Laure,1,1
+Martin   Didier,De Temmerman   Jennifer,0,1
+Martin   Didier,Thill   Agnès,1,1
+Martin   Didier,Le Pen   Marine,0,1
+Martin   Didier,Minot   Maxime,0,1
+Martin   Didier,Bilde   Bruno,0,1
+Martin   Didier,Thomas   Valérie,1,1
+Martin   Didier,Lachaud   Bastien,1,1
+Martin   Didier,Testé   Stéphane,1,1
+Martin   Didier,Moutchou   Naïma,1,1
+Martin   Didier,Petit   Frédéric,1,1
+Martin   Didier,Coquerel   Éric,1,1
+Martin   Didier,Charrière   Sylvie,1,1
+Martin   Didier,Vuilletet   Guillaume,1,1
+Martin   Didier,Ramadier   Alain,0,1
+Martin   Didier,Gouffier-Cha   Guillaume,1,1
+Martin   Didier,Schellenberger   Raphaël,0,1
+Martin   Didier,Gauvain   Raphaël,1,1
+Martin   Didier,Degois   Typhanie,1,1
+Martin   Didier,Riotton   Véronique,1,1
+Martin   Didier,Lardet   Frédérique,1,1
+Martin   Didier,Le Gendre   Gilles,1,1
+Martin   Didier,Naegelen   Christophe,0,1
+Martin   Didier,Guerini   Stanislas,1,1
+Martin   Didier,Terlier   Jean,1,1
+Martin   Didier,Muschotti   Cécile,1,1
+Martin   Didier,Fauvergue   Jean-Michel,1,1
+Martin   Didier,Peyron   Michèle,1,1
+Martin   Didier,Mauborgne   Sereine,0,1
+Martin   Didier,Michel-Kleisbauer   Philippe,1,1
+Martin   Didier,Florennes   Isabelle,1,1
+Martin   Didier,Renson   Hugues,1,1
+Martin   Didier,Guévenoux   Marie,1,1
+Martin   Didier,Faucillon   Elsa,0,1
+Martin   Didier,Pouzyreff   Natalia,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Marilossian   Jacques,1,1
+Martin   Didier,Fiévet   Jean-Marie,1,1
+Martin   Didier,Houlié   Sacha,1,1
+Dubois   Jacqueline,Khattabi   Fadila,1,1
+Dubois   Jacqueline,Paris   Didier,1,1
+Dubois   Jacqueline,Gipson   Séverine,1,1
+Dubois   Jacqueline,Gouttefarde   Fabien,1,1
+Dubois   Jacqueline,Melchior   Graziella,1,1
+Dubois   Jacqueline,Tamarelle-Verhaeghe   Marie,1,1
+Dubois   Jacqueline,Le Gac   Didier,0,1
+Dubois   Jacqueline,Mörch   Sandrine,1,1
+Dubois   Jacqueline,Berta   Philippe,1,1
+Dubois   Jacqueline,Colboc   Fabienne,1,1
+Dubois   Jacqueline,Limon   Monique,1,1
+Dubois   Jacqueline,Jacquier-Laforge   Élodie,1,1
+Dubois   Jacqueline,Brulebois   Danielle,1,1
+Dubois   Jacqueline,Sarles   Nathalie,1,1
+Dubois   Jacqueline,Kamowski   Catherine,0,1
+Dubois   Jacqueline,Tiegna   Huguette,1,1
+Dubois   Jacqueline,Bannier   Géraldine,1,1
+Dubois   Jacqueline,Zannier   Hélène,1,1
+Dubois   Jacqueline,Jacques   Jean-Michel,1,1
+Dubois   Jacqueline,Di Filippo   Fabien,0,1
+Dubois   Jacqueline,Trisse   Nicole,0,1
+Dubois   Jacqueline,Houbron   Dimitri,1,1
+Dubois   Jacqueline,Cattelot   Anne-Laure,1,1
+Dubois   Jacqueline,De Temmerman   Jennifer,0,1
+Dubois   Jacqueline,Thill   Agnès,1,1
+Dubois   Jacqueline,Le Pen   Marine,0,1
+Dubois   Jacqueline,Minot   Maxime,0,1
+Dubois   Jacqueline,Bilde   Bruno,0,1
+Dubois   Jacqueline,Thomas   Valérie,1,1
+Dubois   Jacqueline,Lachaud   Bastien,1,1
+Dubois   Jacqueline,Testé   Stéphane,1,1
+Dubois   Jacqueline,Moutchou   Naïma,1,1
+Dubois   Jacqueline,Petit   Frédéric,1,1
+Dubois   Jacqueline,Coquerel   Éric,1,1
+Dubois   Jacqueline,Charrière   Sylvie,1,1
+Dubois   Jacqueline,Vuilletet   Guillaume,1,1
+Dubois   Jacqueline,Ramadier   Alain,0,1
+Dubois   Jacqueline,Gouffier-Cha   Guillaume,1,1
+Dubois   Jacqueline,Schellenberger   Raphaël,0,1
+Dubois   Jacqueline,Gauvain   Raphaël,1,1
+Dubois   Jacqueline,Degois   Typhanie,1,1
+Dubois   Jacqueline,Riotton   Véronique,1,1
+Dubois   Jacqueline,Lardet   Frédérique,1,1
+Dubois   Jacqueline,Le Gendre   Gilles,1,1
+Dubois   Jacqueline,Naegelen   Christophe,0,1
+Dubois   Jacqueline,Guerini   Stanislas,1,1
+Dubois   Jacqueline,Terlier   Jean,1,1
+Dubois   Jacqueline,Muschotti   Cécile,1,1
+Dubois   Jacqueline,Fauvergue   Jean-Michel,1,1
+Dubois   Jacqueline,Peyron   Michèle,1,1
+Dubois   Jacqueline,Mauborgne   Sereine,0,1
+Dubois   Jacqueline,Michel-Kleisbauer   Philippe,1,1
+Dubois   Jacqueline,Florennes   Isabelle,1,1
+Dubois   Jacqueline,Renson   Hugues,1,1
+Dubois   Jacqueline,Guévenoux   Marie,1,1
+Dubois   Jacqueline,Faucillon   Elsa,0,1
+Dubois   Jacqueline,Pouzyreff   Natalia,1,1
+Dubois   Jacqueline,de Vaucouleurs   Michèle,1,1
+Dubois   Jacqueline,Marilossian   Jacques,1,1
+Dubois   Jacqueline,Fiévet   Jean-Marie,1,1
+Dubois   Jacqueline,Houlié   Sacha,1,1
+Khattabi   Fadila,Paris   Didier,1,1
+Khattabi   Fadila,Gipson   Séverine,1,1
+Khattabi   Fadila,Gouttefarde   Fabien,1,1
+Khattabi   Fadila,Melchior   Graziella,1,1
+Khattabi   Fadila,Tamarelle-Verhaeghe   Marie,1,1
+Khattabi   Fadila,Le Gac   Didier,0,1
+Khattabi   Fadila,Mörch   Sandrine,1,1
+Khattabi   Fadila,Berta   Philippe,1,1
+Khattabi   Fadila,Colboc   Fabienne,1,1
+Khattabi   Fadila,Limon   Monique,1,1
+Khattabi   Fadila,Jacquier-Laforge   Élodie,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Sarles   Nathalie,1,1
+Khattabi   Fadila,Kamowski   Catherine,0,1
+Khattabi   Fadila,Tiegna   Huguette,1,1
+Khattabi   Fadila,Bannier   Géraldine,1,1
+Khattabi   Fadila,Zannier   Hélène,1,1
+Khattabi   Fadila,Jacques   Jean-Michel,1,1
+Khattabi   Fadila,Di Filippo   Fabien,0,1
+Khattabi   Fadila,Trisse   Nicole,0,1
+Khattabi   Fadila,Houbron   Dimitri,1,1
+Khattabi   Fadila,Cattelot   Anne-Laure,1,1
+Khattabi   Fadila,De Temmerman   Jennifer,0,1
+Khattabi   Fadila,Thill   Agnès,1,1
+Khattabi   Fadila,Le Pen   Marine,0,1
+Khattabi   Fadila,Minot   Maxime,0,1
+Khattabi   Fadila,Bilde   Bruno,0,1
+Khattabi   Fadila,Thomas   Valérie,1,1
+Khattabi   Fadila,Lachaud   Bastien,1,1
+Khattabi   Fadila,Testé   Stéphane,1,1
+Khattabi   Fadila,Moutchou   Naïma,1,1
+Khattabi   Fadila,Petit   Frédéric,1,1
+Khattabi   Fadila,Coquerel   Éric,1,1
+Khattabi   Fadila,Charrière   Sylvie,1,1
+Khattabi   Fadila,Vuilletet   Guillaume,1,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Gouffier-Cha   Guillaume,1,1
+Khattabi   Fadila,Schellenberger   Raphaël,0,1
+Khattabi   Fadila,Gauvain   Raphaël,1,1
+Khattabi   Fadila,Degois   Typhanie,1,1
+Khattabi   Fadila,Riotton   Véronique,1,1
+Khattabi   Fadila,Lardet   Frédérique,1,1
+Khattabi   Fadila,Le Gendre   Gilles,1,1
+Khattabi   Fadila,Naegelen   Christophe,0,1
+Khattabi   Fadila,Guerini   Stanislas,1,1
+Khattabi   Fadila,Terlier   Jean,1,1
+Khattabi   Fadila,Muschotti   Cécile,1,1
+Khattabi   Fadila,Fauvergue   Jean-Michel,1,1
+Khattabi   Fadila,Peyron   Michèle,1,1
+Khattabi   Fadila,Mauborgne   Sereine,0,1
+Khattabi   Fadila,Michel-Kleisbauer   Philippe,1,1
+Khattabi   Fadila,Florennes   Isabelle,1,1
+Khattabi   Fadila,Renson   Hugues,1,1
+Khattabi   Fadila,Guévenoux   Marie,1,1
+Khattabi   Fadila,Faucillon   Elsa,0,1
+Khattabi   Fadila,Pouzyreff   Natalia,1,1
+Khattabi   Fadila,de Vaucouleurs   Michèle,1,1
+Khattabi   Fadila,Marilossian   Jacques,1,1
+Khattabi   Fadila,Fiévet   Jean-Marie,1,1
+Khattabi   Fadila,Houlié   Sacha,1,1
+Paris   Didier,Gipson   Séverine,1,1
+Paris   Didier,Gouttefarde   Fabien,1,1
+Paris   Didier,Melchior   Graziella,1,1
+Paris   Didier,Tamarelle-Verhaeghe   Marie,1,1
+Paris   Didier,Le Gac   Didier,0,1
+Paris   Didier,Mörch   Sandrine,1,1
+Paris   Didier,Berta   Philippe,1,1
+Paris   Didier,Colboc   Fabienne,1,1
+Paris   Didier,Limon   Monique,1,1
+Paris   Didier,Jacquier-Laforge   Élodie,1,1
+Paris   Didier,Brulebois   Danielle,1,1
+Paris   Didier,Sarles   Nathalie,1,1
+Paris   Didier,Kamowski   Catherine,0,1
+Paris   Didier,Tiegna   Huguette,1,1
+Paris   Didier,Bannier   Géraldine,1,1
+Paris   Didier,Zannier   Hélène,1,1
+Paris   Didier,Jacques   Jean-Michel,1,1
+Paris   Didier,Di Filippo   Fabien,0,1
+Paris   Didier,Trisse   Nicole,0,1
+Paris   Didier,Houbron   Dimitri,1,1
+Paris   Didier,Cattelot   Anne-Laure,1,1
+Paris   Didier,De Temmerman   Jennifer,0,1
+Paris   Didier,Thill   Agnès,1,1
+Paris   Didier,Le Pen   Marine,0,1
+Paris   Didier,Minot   Maxime,0,1
+Paris   Didier,Bilde   Bruno,0,1
+Paris   Didier,Thomas   Valérie,1,1
+Paris   Didier,Lachaud   Bastien,1,1
+Paris   Didier,Testé   Stéphane,1,1
+Paris   Didier,Moutchou   Naïma,1,1
+Paris   Didier,Petit   Frédéric,1,1
+Paris   Didier,Coquerel   Éric,1,1
+Paris   Didier,Charrière   Sylvie,1,1
+Paris   Didier,Vuilletet   Guillaume,1,1
+Paris   Didier,Ramadier   Alain,0,1
+Paris   Didier,Gouffier-Cha   Guillaume,1,1
+Paris   Didier,Schellenberger   Raphaël,0,1
+Paris   Didier,Gauvain   Raphaël,1,1
+Paris   Didier,Degois   Typhanie,1,1
+Paris   Didier,Riotton   Véronique,1,1
+Paris   Didier,Lardet   Frédérique,1,1
+Paris   Didier,Le Gendre   Gilles,1,1
+Paris   Didier,Naegelen   Christophe,0,1
+Paris   Didier,Guerini   Stanislas,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Muschotti   Cécile,1,1
+Paris   Didier,Fauvergue   Jean-Michel,1,1
+Paris   Didier,Peyron   Michèle,1,1
+Paris   Didier,Mauborgne   Sereine,0,1
+Paris   Didier,Michel-Kleisbauer   Philippe,1,1
+Paris   Didier,Florennes   Isabelle,1,1
+Paris   Didier,Renson   Hugues,1,1
+Paris   Didier,Guévenoux   Marie,1,1
+Paris   Didier,Faucillon   Elsa,0,1
+Paris   Didier,Pouzyreff   Natalia,1,1
+Paris   Didier,de Vaucouleurs   Michèle,1,1
+Paris   Didier,Marilossian   Jacques,1,1
+Paris   Didier,Fiévet   Jean-Marie,1,1
+Paris   Didier,Houlié   Sacha,1,1
+Gipson   Séverine,Gouttefarde   Fabien,1,1
+Gipson   Séverine,Melchior   Graziella,1,1
+Gipson   Séverine,Tamarelle-Verhaeghe   Marie,1,1
+Gipson   Séverine,Le Gac   Didier,0,1
+Gipson   Séverine,Mörch   Sandrine,1,1
+Gipson   Séverine,Berta   Philippe,1,1
+Gipson   Séverine,Colboc   Fabienne,1,1
+Gipson   Séverine,Limon   Monique,1,1
+Gipson   Séverine,Jacquier-Laforge   Élodie,1,1
+Gipson   Séverine,Brulebois   Danielle,1,1
+Gipson   Séverine,Sarles   Nathalie,1,1
+Gipson   Séverine,Kamowski   Catherine,0,1
+Gipson   Séverine,Tiegna   Huguette,1,1
+Gipson   Séverine,Bannier   Géraldine,1,1
+Gipson   Séverine,Zannier   Hélène,1,1
+Gipson   Séverine,Jacques   Jean-Michel,1,1
+Gipson   Séverine,Di Filippo   Fabien,0,1
+Gipson   Séverine,Trisse   Nicole,0,1
+Gipson   Séverine,Houbron   Dimitri,1,1
+Gipson   Séverine,Cattelot   Anne-Laure,1,1
+Gipson   Séverine,De Temmerman   Jennifer,0,1
+Gipson   Séverine,Thill   Agnès,1,1
+Gipson   Séverine,Le Pen   Marine,0,1
+Gipson   Séverine,Minot   Maxime,0,1
+Gipson   Séverine,Bilde   Bruno,0,1
+Gipson   Séverine,Thomas   Valérie,1,1
+Gipson   Séverine,Lachaud   Bastien,1,1
+Gipson   Séverine,Testé   Stéphane,1,1
+Gipson   Séverine,Moutchou   Naïma,1,1
+Gipson   Séverine,Petit   Frédéric,1,1
+Gipson   Séverine,Coquerel   Éric,1,1
+Gipson   Séverine,Charrière   Sylvie,1,1
+Gipson   Séverine,Vuilletet   Guillaume,1,1
+Gipson   Séverine,Ramadier   Alain,0,1
+Gipson   Séverine,Gouffier-Cha   Guillaume,1,1
+Gipson   Séverine,Schellenberger   Raphaël,0,1
+Gipson   Séverine,Gauvain   Raphaël,1,1
+Gipson   Séverine,Degois   Typhanie,1,1
+Gipson   Séverine,Riotton   Véronique,1,1
+Gipson   Séverine,Lardet   Frédérique,1,1
+Gipson   Séverine,Le Gendre   Gilles,1,1
+Gipson   Séverine,Naegelen   Christophe,0,1
+Gipson   Séverine,Guerini   Stanislas,1,1
+Gipson   Séverine,Terlier   Jean,1,1
+Gipson   Séverine,Muschotti   Cécile,1,1
+Gipson   Séverine,Fauvergue   Jean-Michel,1,1
+Gipson   Séverine,Peyron   Michèle,1,1
+Gipson   Séverine,Mauborgne   Sereine,0,1
+Gipson   Séverine,Michel-Kleisbauer   Philippe,1,1
+Gipson   Séverine,Florennes   Isabelle,1,1
+Gipson   Séverine,Renson   Hugues,1,1
+Gipson   Séverine,Guévenoux   Marie,1,1
+Gipson   Séverine,Faucillon   Elsa,0,1
+Gipson   Séverine,Pouzyreff   Natalia,1,1
+Gipson   Séverine,de Vaucouleurs   Michèle,1,1
+Gipson   Séverine,Marilossian   Jacques,1,1
+Gipson   Séverine,Fiévet   Jean-Marie,1,1
+Gipson   Séverine,Houlié   Sacha,1,1
+Gouttefarde   Fabien,Melchior   Graziella,1,1
+Gouttefarde   Fabien,Tamarelle-Verhaeghe   Marie,1,1
+Gouttefarde   Fabien,Le Gac   Didier,0,1
+Gouttefarde   Fabien,Mörch   Sandrine,1,1
+Gouttefarde   Fabien,Berta   Philippe,1,1
+Gouttefarde   Fabien,Colboc   Fabienne,1,1
+Gouttefarde   Fabien,Limon   Monique,1,1
+Gouttefarde   Fabien,Jacquier-Laforge   Élodie,1,1
+Gouttefarde   Fabien,Brulebois   Danielle,1,1
+Gouttefarde   Fabien,Sarles   Nathalie,1,1
+Gouttefarde   Fabien,Kamowski   Catherine,0,1
+Gouttefarde   Fabien,Tiegna   Huguette,1,1
+Gouttefarde   Fabien,Bannier   Géraldine,1,1
+Gouttefarde   Fabien,Zannier   Hélène,1,1
+Gouttefarde   Fabien,Jacques   Jean-Michel,1,1
+Gouttefarde   Fabien,Di Filippo   Fabien,0,1
+Gouttefarde   Fabien,Trisse   Nicole,0,1
+Gouttefarde   Fabien,Houbron   Dimitri,1,1
+Gouttefarde   Fabien,Cattelot   Anne-Laure,1,1
+Gouttefarde   Fabien,De Temmerman   Jennifer,0,1
+Gouttefarde   Fabien,Thill   Agnès,1,1
+Gouttefarde   Fabien,Le Pen   Marine,0,1
+Gouttefarde   Fabien,Minot   Maxime,0,1
+Gouttefarde   Fabien,Bilde   Bruno,0,1
+Gouttefarde   Fabien,Thomas   Valérie,1,1
+Gouttefarde   Fabien,Lachaud   Bastien,1,1
+Gouttefarde   Fabien,Testé   Stéphane,1,1
+Gouttefarde   Fabien,Moutchou   Naïma,1,1
+Gouttefarde   Fabien,Petit   Frédéric,1,1
+Gouttefarde   Fabien,Coquerel   Éric,1,1
+Gouttefarde   Fabien,Charrière   Sylvie,1,1
+Gouttefarde   Fabien,Vuilletet   Guillaume,1,1
+Gouttefarde   Fabien,Ramadier   Alain,0,1
+Gouttefarde   Fabien,Gouffier-Cha   Guillaume,1,1
+Gouttefarde   Fabien,Schellenberger   Raphaël,0,1
+Gouttefarde   Fabien,Gauvain   Raphaël,1,1
+Gouttefarde   Fabien,Degois   Typhanie,1,1
+Gouttefarde   Fabien,Riotton   Véronique,1,1
+Gouttefarde   Fabien,Lardet   Frédérique,1,1
+Gouttefarde   Fabien,Le Gendre   Gilles,1,1
+Gouttefarde   Fabien,Naegelen   Christophe,0,1
+Gouttefarde   Fabien,Guerini   Stanislas,1,1
+Gouttefarde   Fabien,Terlier   Jean,1,1
+Gouttefarde   Fabien,Muschotti   Cécile,1,1
+Gouttefarde   Fabien,Fauvergue   Jean-Michel,1,1
+Gouttefarde   Fabien,Peyron   Michèle,1,1
+Gouttefarde   Fabien,Mauborgne   Sereine,0,1
+Gouttefarde   Fabien,Michel-Kleisbauer   Philippe,1,1
+Gouttefarde   Fabien,Florennes   Isabelle,1,1
+Gouttefarde   Fabien,Renson   Hugues,1,1
+Gouttefarde   Fabien,Guévenoux   Marie,1,1
+Gouttefarde   Fabien,Faucillon   Elsa,0,1
+Gouttefarde   Fabien,Pouzyreff   Natalia,1,1
+Gouttefarde   Fabien,de Vaucouleurs   Michèle,1,1
+Gouttefarde   Fabien,Marilossian   Jacques,1,1
+Gouttefarde   Fabien,Fiévet   Jean-Marie,1,1
+Gouttefarde   Fabien,Houlié   Sacha,1,1
+Melchior   Graziella,Tamarelle-Verhaeghe   Marie,1,1
+Melchior   Graziella,Le Gac   Didier,0,1
+Melchior   Graziella,Mörch   Sandrine,1,1
+Melchior   Graziella,Berta   Philippe,1,1
+Melchior   Graziella,Colboc   Fabienne,1,1
+Melchior   Graziella,Limon   Monique,1,1
+Melchior   Graziella,Jacquier-Laforge   Élodie,1,1
+Melchior   Graziella,Brulebois   Danielle,1,1
+Melchior   Graziella,Sarles   Nathalie,1,1
+Melchior   Graziella,Kamowski   Catherine,0,1
+Melchior   Graziella,Tiegna   Huguette,1,1
+Melchior   Graziella,Bannier   Géraldine,1,1
+Melchior   Graziella,Zannier   Hélène,1,1
+Melchior   Graziella,Jacques   Jean-Michel,1,1
+Melchior   Graziella,Di Filippo   Fabien,0,1
+Melchior   Graziella,Trisse   Nicole,0,1
+Melchior   Graziella,Houbron   Dimitri,1,1
+Melchior   Graziella,Cattelot   Anne-Laure,1,1
+Melchior   Graziella,De Temmerman   Jennifer,0,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Le Pen   Marine,0,1
+Melchior   Graziella,Minot   Maxime,0,1
+Melchior   Graziella,Bilde   Bruno,0,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,Lachaud   Bastien,1,1
+Melchior   Graziella,Testé   Stéphane,1,1
+Melchior   Graziella,Moutchou   Naïma,1,1
+Melchior   Graziella,Petit   Frédéric,1,1
+Melchior   Graziella,Coquerel   Éric,1,1
+Melchior   Graziella,Charrière   Sylvie,1,1
+Melchior   Graziella,Vuilletet   Guillaume,1,1
+Melchior   Graziella,Ramadier   Alain,0,1
+Melchior   Graziella,Gouffier-Cha   Guillaume,1,1
+Melchior   Graziella,Schellenberger   Raphaël,0,1
+Melchior   Graziella,Gauvain   Raphaël,1,1
+Melchior   Graziella,Degois   Typhanie,1,1
+Melchior   Graziella,Riotton   Véronique,1,1
+Melchior   Graziella,Lardet   Frédérique,1,1
+Melchior   Graziella,Le Gendre   Gilles,1,1
+Melchior   Graziella,Naegelen   Christophe,0,1
+Melchior   Graziella,Guerini   Stanislas,1,1
+Melchior   Graziella,Terlier   Jean,1,1
+Melchior   Graziella,Muschotti   Cécile,1,1
+Melchior   Graziella,Fauvergue   Jean-Michel,1,1
+Melchior   Graziella,Peyron   Michèle,1,1
+Melchior   Graziella,Mauborgne   Sereine,0,1
+Melchior   Graziella,Michel-Kleisbauer   Philippe,1,1
+Melchior   Graziella,Florennes   Isabelle,1,1
+Melchior   Graziella,Renson   Hugues,1,1
+Melchior   Graziella,Guévenoux   Marie,1,1
+Melchior   Graziella,Faucillon   Elsa,0,1
+Melchior   Graziella,Pouzyreff   Natalia,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Marilossian   Jacques,1,1
+Melchior   Graziella,Fiévet   Jean-Marie,1,1
+Melchior   Graziella,Houlié   Sacha,1,1
+Tamarelle-Verhaeghe   Marie,Le Gac   Didier,0,1
+Tamarelle-Verhaeghe   Marie,Mörch   Sandrine,1,1
+Tamarelle-Verhaeghe   Marie,Berta   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Colboc   Fabienne,1,1
+Tamarelle-Verhaeghe   Marie,Limon   Monique,1,1
+Tamarelle-Verhaeghe   Marie,Jacquier-Laforge   Élodie,1,1
+Tamarelle-Verhaeghe   Marie,Brulebois   Danielle,1,1
+Tamarelle-Verhaeghe   Marie,Sarles   Nathalie,1,1
+Tamarelle-Verhaeghe   Marie,Kamowski   Catherine,0,1
+Tamarelle-Verhaeghe   Marie,Tiegna   Huguette,1,1
+Tamarelle-Verhaeghe   Marie,Bannier   Géraldine,1,1
+Tamarelle-Verhaeghe   Marie,Zannier   Hélène,1,1
+Tamarelle-Verhaeghe   Marie,Jacques   Jean-Michel,1,1
+Tamarelle-Verhaeghe   Marie,Di Filippo   Fabien,0,1
+Tamarelle-Verhaeghe   Marie,Trisse   Nicole,0,1
+Tamarelle-Verhaeghe   Marie,Houbron   Dimitri,1,1
+Tamarelle-Verhaeghe   Marie,Cattelot   Anne-Laure,1,1
+Tamarelle-Verhaeghe   Marie,De Temmerman   Jennifer,0,1
+Tamarelle-Verhaeghe   Marie,Thill   Agnès,1,1
+Tamarelle-Verhaeghe   Marie,Le Pen   Marine,0,1
+Tamarelle-Verhaeghe   Marie,Minot   Maxime,0,1
+Tamarelle-Verhaeghe   Marie,Bilde   Bruno,0,1
+Tamarelle-Verhaeghe   Marie,Thomas   Valérie,1,1
+Tamarelle-Verhaeghe   Marie,Lachaud   Bastien,1,1
+Tamarelle-Verhaeghe   Marie,Testé   Stéphane,1,1
+Tamarelle-Verhaeghe   Marie,Moutchou   Naïma,1,1
+Tamarelle-Verhaeghe   Marie,Petit   Frédéric,1,1
+Tamarelle-Verhaeghe   Marie,Coquerel   Éric,1,1
+Tamarelle-Verhaeghe   Marie,Charrière   Sylvie,1,1
+Tamarelle-Verhaeghe   Marie,Vuilletet   Guillaume,1,1
+Tamarelle-Verhaeghe   Marie,Ramadier   Alain,0,1
+Tamarelle-Verhaeghe   Marie,Gouffier-Cha   Guillaume,1,1
+Tamarelle-Verhaeghe   Marie,Schellenberger   Raphaël,0,1
+Tamarelle-Verhaeghe   Marie,Gauvain   Raphaël,1,1
+Tamarelle-Verhaeghe   Marie,Degois   Typhanie,1,1
+Tamarelle-Verhaeghe   Marie,Riotton   Véronique,1,1
+Tamarelle-Verhaeghe   Marie,Lardet   Frédérique,1,1
+Tamarelle-Verhaeghe   Marie,Le Gendre   Gilles,1,1
+Tamarelle-Verhaeghe   Marie,Naegelen   Christophe,0,1
+Tamarelle-Verhaeghe   Marie,Guerini   Stanislas,1,1
+Tamarelle-Verhaeghe   Marie,Terlier   Jean,1,1
+Tamarelle-Verhaeghe   Marie,Muschotti   Cécile,1,1
+Tamarelle-Verhaeghe   Marie,Fauvergue   Jean-Michel,1,1
+Tamarelle-Verhaeghe   Marie,Peyron   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Mauborgne   Sereine,0,1
+Tamarelle-Verhaeghe   Marie,Michel-Kleisbauer   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Florennes   Isabelle,1,1
+Tamarelle-Verhaeghe   Marie,Renson   Hugues,1,1
+Tamarelle-Verhaeghe   Marie,Guévenoux   Marie,1,1
+Tamarelle-Verhaeghe   Marie,Faucillon   Elsa,0,1
+Tamarelle-Verhaeghe   Marie,Pouzyreff   Natalia,1,1
+Tamarelle-Verhaeghe   Marie,de Vaucouleurs   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Marilossian   Jacques,1,1
+Tamarelle-Verhaeghe   Marie,Fiévet   Jean-Marie,1,1
+Tamarelle-Verhaeghe   Marie,Houlié   Sacha,1,1
+Le Gac   Didier,Mörch   Sandrine,0,1
+Le Gac   Didier,Berta   Philippe,0,1
+Le Gac   Didier,Colboc   Fabienne,0,1
+Le Gac   Didier,Limon   Monique,0,1
+Le Gac   Didier,Jacquier-Laforge   Élodie,0,1
+Le Gac   Didier,Brulebois   Danielle,0,1
+Le Gac   Didier,Sarles   Nathalie,0,1
+Le Gac   Didier,Kamowski   Catherine,1,1
+Le Gac   Didier,Tiegna   Huguette,0,1
+Le Gac   Didier,Bannier   Géraldine,0,1
+Le Gac   Didier,Zannier   Hélène,0,1
+Le Gac   Didier,Jacques   Jean-Michel,0,1
+Le Gac   Didier,Di Filippo   Fabien,0,1
+Le Gac   Didier,Trisse   Nicole,1,1
+Le Gac   Didier,Houbron   Dimitri,0,1
+Le Gac   Didier,Cattelot   Anne-Laure,0,1
+Le Gac   Didier,De Temmerman   Jennifer,0,1
+Le Gac   Didier,Thill   Agnès,0,1
+Le Gac   Didier,Le Pen   Marine,0,1
+Le Gac   Didier,Minot   Maxime,0,1
+Le Gac   Didier,Bilde   Bruno,0,1
+Le Gac   Didier,Thomas   Valérie,0,1
+Le Gac   Didier,Lachaud   Bastien,0,1
+Le Gac   Didier,Testé   Stéphane,0,1
+Le Gac   Didier,Moutchou   Naïma,0,1
+Le Gac   Didier,Petit   Frédéric,0,1
+Le Gac   Didier,Coquerel   Éric,0,1
+Le Gac   Didier,Charrière   Sylvie,0,1
+Le Gac   Didier,Vuilletet   Guillaume,0,1
+Le Gac   Didier,Ramadier   Alain,0,1
+Le Gac   Didier,Gouffier-Cha   Guillaume,0,1
+Le Gac   Didier,Schellenberger   Raphaël,0,1
+Le Gac   Didier,Gauvain   Raphaël,0,1
+Le Gac   Didier,Degois   Typhanie,0,1
+Le Gac   Didier,Riotton   Véronique,0,1
+Le Gac   Didier,Lardet   Frédérique,0,1
+Le Gac   Didier,Le Gendre   Gilles,0,1
+Le Gac   Didier,Naegelen   Christophe,0,1
+Le Gac   Didier,Guerini   Stanislas,0,1
+Le Gac   Didier,Terlier   Jean,0,1
+Le Gac   Didier,Muschotti   Cécile,0,1
+Le Gac   Didier,Fauvergue   Jean-Michel,0,1
+Le Gac   Didier,Peyron   Michèle,0,1
+Le Gac   Didier,Mauborgne   Sereine,1,1
+Le Gac   Didier,Michel-Kleisbauer   Philippe,0,1
+Le Gac   Didier,Florennes   Isabelle,0,1
+Le Gac   Didier,Renson   Hugues,0,1
+Le Gac   Didier,Guévenoux   Marie,0,1
+Le Gac   Didier,Faucillon   Elsa,1,1
+Le Gac   Didier,Pouzyreff   Natalia,0,1
+Le Gac   Didier,de Vaucouleurs   Michèle,0,1
+Le Gac   Didier,Marilossian   Jacques,0,1
+Le Gac   Didier,Fiévet   Jean-Marie,0,1
+Le Gac   Didier,Houlié   Sacha,0,1
+Mörch   Sandrine,Berta   Philippe,1,1
+Mörch   Sandrine,Colboc   Fabienne,1,1
+Mörch   Sandrine,Limon   Monique,1,1
+Mörch   Sandrine,Jacquier-Laforge   Élodie,1,1
+Mörch   Sandrine,Brulebois   Danielle,1,1
+Mörch   Sandrine,Sarles   Nathalie,1,1
+Mörch   Sandrine,Kamowski   Catherine,0,1
+Mörch   Sandrine,Tiegna   Huguette,1,1
+Mörch   Sandrine,Bannier   Géraldine,1,1
+Mörch   Sandrine,Zannier   Hélène,1,1
+Mörch   Sandrine,Jacques   Jean-Michel,1,1
+Mörch   Sandrine,Di Filippo   Fabien,0,1
+Mörch   Sandrine,Trisse   Nicole,0,1
+Mörch   Sandrine,Houbron   Dimitri,1,1
+Mörch   Sandrine,Cattelot   Anne-Laure,1,1
+Mörch   Sandrine,De Temmerman   Jennifer,0,1
+Mörch   Sandrine,Thill   Agnès,1,1
+Mörch   Sandrine,Le Pen   Marine,0,1
+Mörch   Sandrine,Minot   Maxime,0,1
+Mörch   Sandrine,Bilde   Bruno,0,1
+Mörch   Sandrine,Thomas   Valérie,1,1
+Mörch   Sandrine,Lachaud   Bastien,1,1
+Mörch   Sandrine,Testé   Stéphane,1,1
+Mörch   Sandrine,Moutchou   Naïma,1,1
+Mörch   Sandrine,Petit   Frédéric,1,1
+Mörch   Sandrine,Coquerel   Éric,1,1
+Mörch   Sandrine,Charrière   Sylvie,1,1
+Mörch   Sandrine,Vuilletet   Guillaume,1,1
+Mörch   Sandrine,Ramadier   Alain,0,1
+Mörch   Sandrine,Gouffier-Cha   Guillaume,1,1
+Mörch   Sandrine,Schellenberger   Raphaël,0,1
+Mörch   Sandrine,Gauvain   Raphaël,1,1
+Mörch   Sandrine,Degois   Typhanie,1,1
+Mörch   Sandrine,Riotton   Véronique,1,1
+Mörch   Sandrine,Lardet   Frédérique,1,1
+Mörch   Sandrine,Le Gendre   Gilles,1,1
+Mörch   Sandrine,Naegelen   Christophe,0,1
+Mörch   Sandrine,Guerini   Stanislas,1,1
+Mörch   Sandrine,Terlier   Jean,1,1
+Mörch   Sandrine,Muschotti   Cécile,1,1
+Mörch   Sandrine,Fauvergue   Jean-Michel,1,1
+Mörch   Sandrine,Peyron   Michèle,1,1
+Mörch   Sandrine,Mauborgne   Sereine,0,1
+Mörch   Sandrine,Michel-Kleisbauer   Philippe,1,1
+Mörch   Sandrine,Florennes   Isabelle,1,1
+Mörch   Sandrine,Renson   Hugues,1,1
+Mörch   Sandrine,Guévenoux   Marie,1,1
+Mörch   Sandrine,Faucillon   Elsa,0,1
+Mörch   Sandrine,Pouzyreff   Natalia,1,1
+Mörch   Sandrine,de Vaucouleurs   Michèle,1,1
+Mörch   Sandrine,Marilossian   Jacques,1,1
+Mörch   Sandrine,Fiévet   Jean-Marie,1,1
+Mörch   Sandrine,Houlié   Sacha,1,1
+Berta   Philippe,Colboc   Fabienne,1,1
+Berta   Philippe,Limon   Monique,1,1
+Berta   Philippe,Jacquier-Laforge   Élodie,1,1
+Berta   Philippe,Brulebois   Danielle,1,1
+Berta   Philippe,Sarles   Nathalie,1,1
+Berta   Philippe,Kamowski   Catherine,0,1
+Berta   Philippe,Tiegna   Huguette,1,1
+Berta   Philippe,Bannier   Géraldine,1,1
+Berta   Philippe,Zannier   Hélène,1,1
+Berta   Philippe,Jacques   Jean-Michel,1,1
+Berta   Philippe,Di Filippo   Fabien,0,1
+Berta   Philippe,Trisse   Nicole,0,1
+Berta   Philippe,Houbron   Dimitri,1,1
+Berta   Philippe,Cattelot   Anne-Laure,1,1
+Berta   Philippe,De Temmerman   Jennifer,0,1
+Berta   Philippe,Thill   Agnès,1,1
+Berta   Philippe,Le Pen   Marine,0,1
+Berta   Philippe,Minot   Maxime,0,1
+Berta   Philippe,Bilde   Bruno,0,1
+Berta   Philippe,Thomas   Valérie,1,1
+Berta   Philippe,Lachaud   Bastien,1,1
+Berta   Philippe,Testé   Stéphane,1,1
+Berta   Philippe,Moutchou   Naïma,1,1
+Berta   Philippe,Petit   Frédéric,1,1
+Berta   Philippe,Coquerel   Éric,1,1
+Berta   Philippe,Charrière   Sylvie,1,1
+Berta   Philippe,Vuilletet   Guillaume,1,1
+Berta   Philippe,Ramadier   Alain,0,1
+Berta   Philippe,Gouffier-Cha   Guillaume,1,1
+Berta   Philippe,Schellenberger   Raphaël,0,1
+Berta   Philippe,Gauvain   Raphaël,1,1
+Berta   Philippe,Degois   Typhanie,1,1
+Berta   Philippe,Riotton   Véronique,1,1
+Berta   Philippe,Lardet   Frédérique,1,1
+Berta   Philippe,Le Gendre   Gilles,1,1
+Berta   Philippe,Naegelen   Christophe,0,1
+Berta   Philippe,Guerini   Stanislas,1,1
+Berta   Philippe,Terlier   Jean,1,1
+Berta   Philippe,Muschotti   Cécile,1,1
+Berta   Philippe,Fauvergue   Jean-Michel,1,1
+Berta   Philippe,Peyron   Michèle,1,1
+Berta   Philippe,Mauborgne   Sereine,0,1
+Berta   Philippe,Michel-Kleisbauer   Philippe,1,1
+Berta   Philippe,Florennes   Isabelle,1,1
+Berta   Philippe,Renson   Hugues,1,1
+Berta   Philippe,Guévenoux   Marie,1,1
+Berta   Philippe,Faucillon   Elsa,0,1
+Berta   Philippe,Pouzyreff   Natalia,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Marilossian   Jacques,1,1
+Berta   Philippe,Fiévet   Jean-Marie,1,1
+Berta   Philippe,Houlié   Sacha,1,1
+Colboc   Fabienne,Limon   Monique,1,1
+Colboc   Fabienne,Jacquier-Laforge   Élodie,1,1
+Colboc   Fabienne,Brulebois   Danielle,1,1
+Colboc   Fabienne,Sarles   Nathalie,1,1
+Colboc   Fabienne,Kamowski   Catherine,0,1
+Colboc   Fabienne,Tiegna   Huguette,1,1
+Colboc   Fabienne,Bannier   Géraldine,1,1
+Colboc   Fabienne,Zannier   Hélène,1,1
+Colboc   Fabienne,Jacques   Jean-Michel,1,1
+Colboc   Fabienne,Di Filippo   Fabien,0,1
+Colboc   Fabienne,Trisse   Nicole,0,1
+Colboc   Fabienne,Houbron   Dimitri,1,1
+Colboc   Fabienne,Cattelot   Anne-Laure,1,1
+Colboc   Fabienne,De Temmerman   Jennifer,0,1
+Colboc   Fabienne,Thill   Agnès,1,1
+Colboc   Fabienne,Le Pen   Marine,0,1
+Colboc   Fabienne,Minot   Maxime,0,1
+Colboc   Fabienne,Bilde   Bruno,0,1
+Colboc   Fabienne,Thomas   Valérie,1,1
+Colboc   Fabienne,Lachaud   Bastien,1,1
+Colboc   Fabienne,Testé   Stéphane,1,1
+Colboc   Fabienne,Moutchou   Naïma,1,1
+Colboc   Fabienne,Petit   Frédéric,1,1
+Colboc   Fabienne,Coquerel   Éric,1,1
+Colboc   Fabienne,Charrière   Sylvie,1,1
+Colboc   Fabienne,Vuilletet   Guillaume,1,1
+Colboc   Fabienne,Ramadier   Alain,0,1
+Colboc   Fabienne,Gouffier-Cha   Guillaume,1,1
+Colboc   Fabienne,Schellenberger   Raphaël,0,1
+Colboc   Fabienne,Gauvain   Raphaël,1,1
+Colboc   Fabienne,Degois   Typhanie,1,1
+Colboc   Fabienne,Riotton   Véronique,1,1
+Colboc   Fabienne,Lardet   Frédérique,1,1
+Colboc   Fabienne,Le Gendre   Gilles,1,1
+Colboc   Fabienne,Naegelen   Christophe,0,1
+Colboc   Fabienne,Guerini   Stanislas,1,1
+Colboc   Fabienne,Terlier   Jean,1,1
+Colboc   Fabienne,Muschotti   Cécile,1,1
+Colboc   Fabienne,Fauvergue   Jean-Michel,1,1
+Colboc   Fabienne,Peyron   Michèle,1,1
+Colboc   Fabienne,Mauborgne   Sereine,0,1
+Colboc   Fabienne,Michel-Kleisbauer   Philippe,1,1
+Colboc   Fabienne,Florennes   Isabelle,1,1
+Colboc   Fabienne,Renson   Hugues,1,1
+Colboc   Fabienne,Guévenoux   Marie,1,1
+Colboc   Fabienne,Faucillon   Elsa,0,1
+Colboc   Fabienne,Pouzyreff   Natalia,1,1
+Colboc   Fabienne,de Vaucouleurs   Michèle,1,1
+Colboc   Fabienne,Marilossian   Jacques,1,1
+Colboc   Fabienne,Fiévet   Jean-Marie,1,1
+Colboc   Fabienne,Houlié   Sacha,1,1
+Limon   Monique,Jacquier-Laforge   Élodie,1,1
+Limon   Monique,Brulebois   Danielle,1,1
+Limon   Monique,Sarles   Nathalie,1,1
+Limon   Monique,Kamowski   Catherine,0,1
+Limon   Monique,Tiegna   Huguette,1,1
+Limon   Monique,Bannier   Géraldine,1,1
+Limon   Monique,Zannier   Hélène,1,1
+Limon   Monique,Jacques   Jean-Michel,1,1
+Limon   Monique,Di Filippo   Fabien,0,1
+Limon   Monique,Trisse   Nicole,0,1
+Limon   Monique,Houbron   Dimitri,1,1
+Limon   Monique,Cattelot   Anne-Laure,1,1
+Limon   Monique,De Temmerman   Jennifer,0,1
+Limon   Monique,Thill   Agnès,1,1
+Limon   Monique,Le Pen   Marine,0,1
+Limon   Monique,Minot   Maxime,0,1
+Limon   Monique,Bilde   Bruno,0,1
+Limon   Monique,Thomas   Valérie,1,1
+Limon   Monique,Lachaud   Bastien,1,1
+Limon   Monique,Testé   Stéphane,1,1
+Limon   Monique,Moutchou   Naïma,1,1
+Limon   Monique,Petit   Frédéric,1,1
+Limon   Monique,Coquerel   Éric,1,1
+Limon   Monique,Charrière   Sylvie,1,1
+Limon   Monique,Vuilletet   Guillaume,1,1
+Limon   Monique,Ramadier   Alain,0,1
+Limon   Monique,Gouffier-Cha   Guillaume,1,1
+Limon   Monique,Schellenberger   Raphaël,0,1
+Limon   Monique,Gauvain   Raphaël,1,1
+Limon   Monique,Degois   Typhanie,1,1
+Limon   Monique,Riotton   Véronique,1,1
+Limon   Monique,Lardet   Frédérique,1,1
+Limon   Monique,Le Gendre   Gilles,1,1
+Limon   Monique,Naegelen   Christophe,0,1
+Limon   Monique,Guerini   Stanislas,1,1
+Limon   Monique,Terlier   Jean,1,1
+Limon   Monique,Muschotti   Cécile,1,1
+Limon   Monique,Fauvergue   Jean-Michel,1,1
+Limon   Monique,Peyron   Michèle,1,1
+Limon   Monique,Mauborgne   Sereine,0,1
+Limon   Monique,Michel-Kleisbauer   Philippe,1,1
+Limon   Monique,Florennes   Isabelle,1,1
+Limon   Monique,Renson   Hugues,1,1
+Limon   Monique,Guévenoux   Marie,1,1
+Limon   Monique,Faucillon   Elsa,0,1
+Limon   Monique,Pouzyreff   Natalia,1,1
+Limon   Monique,de Vaucouleurs   Michèle,1,1
+Limon   Monique,Marilossian   Jacques,1,1
+Limon   Monique,Fiévet   Jean-Marie,1,1
+Limon   Monique,Houlié   Sacha,1,1
+Jacquier-Laforge   Élodie,Brulebois   Danielle,1,1
+Jacquier-Laforge   Élodie,Sarles   Nathalie,1,1
+Jacquier-Laforge   Élodie,Kamowski   Catherine,0,1
+Jacquier-Laforge   Élodie,Tiegna   Huguette,1,1
+Jacquier-Laforge   Élodie,Bannier   Géraldine,1,1
+Jacquier-Laforge   Élodie,Zannier   Hélène,1,1
+Jacquier-Laforge   Élodie,Jacques   Jean-Michel,1,1
+Jacquier-Laforge   Élodie,Di Filippo   Fabien,0,1
+Jacquier-Laforge   Élodie,Trisse   Nicole,0,1
+Jacquier-Laforge   Élodie,Houbron   Dimitri,1,1
+Jacquier-Laforge   Élodie,Cattelot   Anne-Laure,1,1
+Jacquier-Laforge   Élodie,De Temmerman   Jennifer,0,1
+Jacquier-Laforge   Élodie,Thill   Agnès,1,1
+Jacquier-Laforge   Élodie,Le Pen   Marine,0,1
+Jacquier-Laforge   Élodie,Minot   Maxime,0,1
+Jacquier-Laforge   Élodie,Bilde   Bruno,0,1
+Jacquier-Laforge   Élodie,Thomas   Valérie,1,1
+Jacquier-Laforge   Élodie,Lachaud   Bastien,1,1
+Jacquier-Laforge   Élodie,Testé   Stéphane,1,1
+Jacquier-Laforge   Élodie,Moutchou   Naïma,1,1
+Jacquier-Laforge   Élodie,Petit   Frédéric,1,1
+Jacquier-Laforge   Élodie,Coquerel   Éric,1,1
+Jacquier-Laforge   Élodie,Charrière   Sylvie,1,1
+Jacquier-Laforge   Élodie,Vuilletet   Guillaume,1,1
+Jacquier-Laforge   Élodie,Ramadier   Alain,0,1
+Jacquier-Laforge   Élodie,Gouffier-Cha   Guillaume,1,1
+Jacquier-Laforge   Élodie,Schellenberger   Raphaël,0,1
+Jacquier-Laforge   Élodie,Gauvain   Raphaël,1,1
+Jacquier-Laforge   Élodie,Degois   Typhanie,1,1
+Jacquier-Laforge   Élodie,Riotton   Véronique,1,1
+Jacquier-Laforge   Élodie,Lardet   Frédérique,1,1
+Jacquier-Laforge   Élodie,Le Gendre   Gilles,1,1
+Jacquier-Laforge   Élodie,Naegelen   Christophe,0,1
+Jacquier-Laforge   Élodie,Guerini   Stanislas,1,1
+Jacquier-Laforge   Élodie,Terlier   Jean,1,1
+Jacquier-Laforge   Élodie,Muschotti   Cécile,1,1
+Jacquier-Laforge   Élodie,Fauvergue   Jean-Michel,1,1
+Jacquier-Laforge   Élodie,Peyron   Michèle,1,1
+Jacquier-Laforge   Élodie,Mauborgne   Sereine,0,1
+Jacquier-Laforge   Élodie,Michel-Kleisbauer   Philippe,1,1
+Jacquier-Laforge   Élodie,Florennes   Isabelle,1,1
+Jacquier-Laforge   Élodie,Renson   Hugues,1,1
+Jacquier-Laforge   Élodie,Guévenoux   Marie,1,1
+Jacquier-Laforge   Élodie,Faucillon   Elsa,0,1
+Jacquier-Laforge   Élodie,Pouzyreff   Natalia,1,1
+Jacquier-Laforge   Élodie,de Vaucouleurs   Michèle,1,1
+Jacquier-Laforge   Élodie,Marilossian   Jacques,1,1
+Jacquier-Laforge   Élodie,Fiévet   Jean-Marie,1,1
+Jacquier-Laforge   Élodie,Houlié   Sacha,1,1
+Brulebois   Danielle,Sarles   Nathalie,1,1
+Brulebois   Danielle,Kamowski   Catherine,0,1
+Brulebois   Danielle,Tiegna   Huguette,1,1
+Brulebois   Danielle,Bannier   Géraldine,1,1
+Brulebois   Danielle,Zannier   Hélène,1,1
+Brulebois   Danielle,Jacques   Jean-Michel,1,1
+Brulebois   Danielle,Di Filippo   Fabien,0,1
+Brulebois   Danielle,Trisse   Nicole,0,1
+Brulebois   Danielle,Houbron   Dimitri,1,1
+Brulebois   Danielle,Cattelot   Anne-Laure,1,1
+Brulebois   Danielle,De Temmerman   Jennifer,0,1
+Brulebois   Danielle,Thill   Agnès,1,1
+Brulebois   Danielle,Le Pen   Marine,0,1
+Brulebois   Danielle,Minot   Maxime,0,1
+Brulebois   Danielle,Bilde   Bruno,0,1
+Brulebois   Danielle,Thomas   Valérie,1,1
+Brulebois   Danielle,Lachaud   Bastien,1,1
+Brulebois   Danielle,Testé   Stéphane,1,1
+Brulebois   Danielle,Moutchou   Naïma,1,1
+Brulebois   Danielle,Petit   Frédéric,1,1
+Brulebois   Danielle,Coquerel   Éric,1,1
+Brulebois   Danielle,Charrière   Sylvie,1,1
+Brulebois   Danielle,Vuilletet   Guillaume,1,1
+Brulebois   Danielle,Ramadier   Alain,0,1
+Brulebois   Danielle,Gouffier-Cha   Guillaume,1,1
+Brulebois   Danielle,Schellenberger   Raphaël,0,1
+Brulebois   Danielle,Gauvain   Raphaël,1,1
+Brulebois   Danielle,Degois   Typhanie,1,1
+Brulebois   Danielle,Riotton   Véronique,1,1
+Brulebois   Danielle,Lardet   Frédérique,1,1
+Brulebois   Danielle,Le Gendre   Gilles,1,1
+Brulebois   Danielle,Naegelen   Christophe,0,1
+Brulebois   Danielle,Guerini   Stanislas,1,1
+Brulebois   Danielle,Terlier   Jean,1,1
+Brulebois   Danielle,Muschotti   Cécile,1,1
+Brulebois   Danielle,Fauvergue   Jean-Michel,1,1
+Brulebois   Danielle,Peyron   Michèle,1,1
+Brulebois   Danielle,Mauborgne   Sereine,0,1
+Brulebois   Danielle,Michel-Kleisbauer   Philippe,1,1
+Brulebois   Danielle,Florennes   Isabelle,1,1
+Brulebois   Danielle,Renson   Hugues,1,1
+Brulebois   Danielle,Guévenoux   Marie,1,1
+Brulebois   Danielle,Faucillon   Elsa,0,1
+Brulebois   Danielle,Pouzyreff   Natalia,1,1
+Brulebois   Danielle,de Vaucouleurs   Michèle,1,1
+Brulebois   Danielle,Marilossian   Jacques,1,1
+Brulebois   Danielle,Fiévet   Jean-Marie,1,1
+Brulebois   Danielle,Houlié   Sacha,1,1
+Sarles   Nathalie,Kamowski   Catherine,0,1
+Sarles   Nathalie,Tiegna   Huguette,1,1
+Sarles   Nathalie,Bannier   Géraldine,1,1
+Sarles   Nathalie,Zannier   Hélène,1,1
+Sarles   Nathalie,Jacques   Jean-Michel,1,1
+Sarles   Nathalie,Di Filippo   Fabien,0,1
+Sarles   Nathalie,Trisse   Nicole,0,1
+Sarles   Nathalie,Houbron   Dimitri,1,1
+Sarles   Nathalie,Cattelot   Anne-Laure,1,1
+Sarles   Nathalie,De Temmerman   Jennifer,0,1
+Sarles   Nathalie,Thill   Agnès,1,1
+Sarles   Nathalie,Le Pen   Marine,0,1
+Sarles   Nathalie,Minot   Maxime,0,1
+Sarles   Nathalie,Bilde   Bruno,0,1
+Sarles   Nathalie,Thomas   Valérie,1,1
+Sarles   Nathalie,Lachaud   Bastien,1,1
+Sarles   Nathalie,Testé   Stéphane,1,1
+Sarles   Nathalie,Moutchou   Naïma,1,1
+Sarles   Nathalie,Petit   Frédéric,1,1
+Sarles   Nathalie,Coquerel   Éric,1,1
+Sarles   Nathalie,Charrière   Sylvie,1,1
+Sarles   Nathalie,Vuilletet   Guillaume,1,1
+Sarles   Nathalie,Ramadier   Alain,0,1
+Sarles   Nathalie,Gouffier-Cha   Guillaume,1,1
+Sarles   Nathalie,Schellenberger   Raphaël,0,1
+Sarles   Nathalie,Gauvain   Raphaël,1,1
+Sarles   Nathalie,Degois   Typhanie,1,1
+Sarles   Nathalie,Riotton   Véronique,1,1
+Sarles   Nathalie,Lardet   Frédérique,1,1
+Sarles   Nathalie,Le Gendre   Gilles,1,1
+Sarles   Nathalie,Naegelen   Christophe,0,1
+Sarles   Nathalie,Guerini   Stanislas,1,1
+Sarles   Nathalie,Terlier   Jean,1,1
+Sarles   Nathalie,Muschotti   Cécile,1,1
+Sarles   Nathalie,Fauvergue   Jean-Michel,1,1
+Sarles   Nathalie,Peyron   Michèle,1,1
+Sarles   Nathalie,Mauborgne   Sereine,0,1
+Sarles   Nathalie,Michel-Kleisbauer   Philippe,1,1
+Sarles   Nathalie,Florennes   Isabelle,1,1
+Sarles   Nathalie,Renson   Hugues,1,1
+Sarles   Nathalie,Guévenoux   Marie,1,1
+Sarles   Nathalie,Faucillon   Elsa,0,1
+Sarles   Nathalie,Pouzyreff   Natalia,1,1
+Sarles   Nathalie,de Vaucouleurs   Michèle,1,1
+Sarles   Nathalie,Marilossian   Jacques,1,1
+Sarles   Nathalie,Fiévet   Jean-Marie,1,1
+Sarles   Nathalie,Houlié   Sacha,1,1
+Kamowski   Catherine,Tiegna   Huguette,0,1
+Kamowski   Catherine,Bannier   Géraldine,0,1
+Kamowski   Catherine,Zannier   Hélène,0,1
+Kamowski   Catherine,Jacques   Jean-Michel,0,1
+Kamowski   Catherine,Di Filippo   Fabien,0,1
+Kamowski   Catherine,Trisse   Nicole,1,1
+Kamowski   Catherine,Houbron   Dimitri,0,1
+Kamowski   Catherine,Cattelot   Anne-Laure,0,1
+Kamowski   Catherine,De Temmerman   Jennifer,0,1
+Kamowski   Catherine,Thill   Agnès,0,1
+Kamowski   Catherine,Le Pen   Marine,0,1
+Kamowski   Catherine,Minot   Maxime,0,1
+Kamowski   Catherine,Bilde   Bruno,0,1
+Kamowski   Catherine,Thomas   Valérie,0,1
+Kamowski   Catherine,Lachaud   Bastien,0,1
+Kamowski   Catherine,Testé   Stéphane,0,1
+Kamowski   Catherine,Moutchou   Naïma,0,1
+Kamowski   Catherine,Petit   Frédéric,0,1
+Kamowski   Catherine,Coquerel   Éric,0,1
+Kamowski   Catherine,Charrière   Sylvie,0,1
+Kamowski   Catherine,Vuilletet   Guillaume,0,1
+Kamowski   Catherine,Ramadier   Alain,0,1
+Kamowski   Catherine,Gouffier-Cha   Guillaume,0,1
+Kamowski   Catherine,Schellenberger   Raphaël,0,1
+Kamowski   Catherine,Gauvain   Raphaël,0,1
+Kamowski   Catherine,Degois   Typhanie,0,1
+Kamowski   Catherine,Riotton   Véronique,0,1
+Kamowski   Catherine,Lardet   Frédérique,0,1
+Kamowski   Catherine,Le Gendre   Gilles,0,1
+Kamowski   Catherine,Naegelen   Christophe,0,1
+Kamowski   Catherine,Guerini   Stanislas,0,1
+Kamowski   Catherine,Terlier   Jean,0,1
+Kamowski   Catherine,Muschotti   Cécile,0,1
+Kamowski   Catherine,Fauvergue   Jean-Michel,0,1
+Kamowski   Catherine,Peyron   Michèle,0,1
+Kamowski   Catherine,Mauborgne   Sereine,1,1
+Kamowski   Catherine,Michel-Kleisbauer   Philippe,0,1
+Kamowski   Catherine,Florennes   Isabelle,0,1
+Kamowski   Catherine,Renson   Hugues,0,1
+Kamowski   Catherine,Guévenoux   Marie,0,1
+Kamowski   Catherine,Faucillon   Elsa,1,1
+Kamowski   Catherine,Pouzyreff   Natalia,0,1
+Kamowski   Catherine,de Vaucouleurs   Michèle,0,1
+Kamowski   Catherine,Marilossian   Jacques,0,1
+Kamowski   Catherine,Fiévet   Jean-Marie,0,1
+Kamowski   Catherine,Houlié   Sacha,0,1
+Tiegna   Huguette,Bannier   Géraldine,1,1
+Tiegna   Huguette,Zannier   Hélène,1,1
+Tiegna   Huguette,Jacques   Jean-Michel,1,1
+Tiegna   Huguette,Di Filippo   Fabien,0,1
+Tiegna   Huguette,Trisse   Nicole,0,1
+Tiegna   Huguette,Houbron   Dimitri,1,1
+Tiegna   Huguette,Cattelot   Anne-Laure,1,1
+Tiegna   Huguette,De Temmerman   Jennifer,0,1
+Tiegna   Huguette,Thill   Agnès,1,1
+Tiegna   Huguette,Le Pen   Marine,0,1
+Tiegna   Huguette,Minot   Maxime,0,1
+Tiegna   Huguette,Bilde   Bruno,0,1
+Tiegna   Huguette,Thomas   Valérie,1,1
+Tiegna   Huguette,Lachaud   Bastien,1,1
+Tiegna   Huguette,Testé   Stéphane,1,1
+Tiegna   Huguette,Moutchou   Naïma,1,1
+Tiegna   Huguette,Petit   Frédéric,1,1
+Tiegna   Huguette,Coquerel   Éric,1,1
+Tiegna   Huguette,Charrière   Sylvie,1,1
+Tiegna   Huguette,Vuilletet   Guillaume,1,1
+Tiegna   Huguette,Ramadier   Alain,0,1
+Tiegna   Huguette,Gouffier-Cha   Guillaume,1,1
+Tiegna   Huguette,Schellenberger   Raphaël,0,1
+Tiegna   Huguette,Gauvain   Raphaël,1,1
+Tiegna   Huguette,Degois   Typhanie,1,1
+Tiegna   Huguette,Riotton   Véronique,1,1
+Tiegna   Huguette,Lardet   Frédérique,1,1
+Tiegna   Huguette,Le Gendre   Gilles,1,1
+Tiegna   Huguette,Naegelen   Christophe,0,1
+Tiegna   Huguette,Guerini   Stanislas,1,1
+Tiegna   Huguette,Terlier   Jean,1,1
+Tiegna   Huguette,Muschotti   Cécile,1,1
+Tiegna   Huguette,Fauvergue   Jean-Michel,1,1
+Tiegna   Huguette,Peyron   Michèle,1,1
+Tiegna   Huguette,Mauborgne   Sereine,0,1
+Tiegna   Huguette,Michel-Kleisbauer   Philippe,1,1
+Tiegna   Huguette,Florennes   Isabelle,1,1
+Tiegna   Huguette,Renson   Hugues,1,1
+Tiegna   Huguette,Guévenoux   Marie,1,1
+Tiegna   Huguette,Faucillon   Elsa,0,1
+Tiegna   Huguette,Pouzyreff   Natalia,1,1
+Tiegna   Huguette,de Vaucouleurs   Michèle,1,1
+Tiegna   Huguette,Marilossian   Jacques,1,1
+Tiegna   Huguette,Fiévet   Jean-Marie,1,1
+Tiegna   Huguette,Houlié   Sacha,1,1
+Bannier   Géraldine,Zannier   Hélène,1,1
+Bannier   Géraldine,Jacques   Jean-Michel,1,1
+Bannier   Géraldine,Di Filippo   Fabien,0,1
+Bannier   Géraldine,Trisse   Nicole,0,1
+Bannier   Géraldine,Houbron   Dimitri,1,1
+Bannier   Géraldine,Cattelot   Anne-Laure,1,1
+Bannier   Géraldine,De Temmerman   Jennifer,0,1
+Bannier   Géraldine,Thill   Agnès,1,1
+Bannier   Géraldine,Le Pen   Marine,0,1
+Bannier   Géraldine,Minot   Maxime,0,1
+Bannier   Géraldine,Bilde   Bruno,0,1
+Bannier   Géraldine,Thomas   Valérie,1,1
+Bannier   Géraldine,Lachaud   Bastien,1,1
+Bannier   Géraldine,Testé   Stéphane,1,1
+Bannier   Géraldine,Moutchou   Naïma,1,1
+Bannier   Géraldine,Petit   Frédéric,1,1
+Bannier   Géraldine,Coquerel   Éric,1,1
+Bannier   Géraldine,Charrière   Sylvie,1,1
+Bannier   Géraldine,Vuilletet   Guillaume,1,1
+Bannier   Géraldine,Ramadier   Alain,0,1
+Bannier   Géraldine,Gouffier-Cha   Guillaume,1,1
+Bannier   Géraldine,Schellenberger   Raphaël,0,1
+Bannier   Géraldine,Gauvain   Raphaël,1,1
+Bannier   Géraldine,Degois   Typhanie,1,1
+Bannier   Géraldine,Riotton   Véronique,1,1
+Bannier   Géraldine,Lardet   Frédérique,1,1
+Bannier   Géraldine,Le Gendre   Gilles,1,1
+Bannier   Géraldine,Naegelen   Christophe,0,1
+Bannier   Géraldine,Guerini   Stanislas,1,1
+Bannier   Géraldine,Terlier   Jean,1,1
+Bannier   Géraldine,Muschotti   Cécile,1,1
+Bannier   Géraldine,Fauvergue   Jean-Michel,1,1
+Bannier   Géraldine,Peyron   Michèle,1,1
+Bannier   Géraldine,Mauborgne   Sereine,0,1
+Bannier   Géraldine,Michel-Kleisbauer   Philippe,1,1
+Bannier   Géraldine,Florennes   Isabelle,1,1
+Bannier   Géraldine,Renson   Hugues,1,1
+Bannier   Géraldine,Guévenoux   Marie,1,1
+Bannier   Géraldine,Faucillon   Elsa,0,1
+Bannier   Géraldine,Pouzyreff   Natalia,1,1
+Bannier   Géraldine,de Vaucouleurs   Michèle,1,1
+Bannier   Géraldine,Marilossian   Jacques,1,1
+Bannier   Géraldine,Fiévet   Jean-Marie,1,1
+Bannier   Géraldine,Houlié   Sacha,1,1
+Zannier   Hélène,Jacques   Jean-Michel,1,1
+Zannier   Hélène,Di Filippo   Fabien,0,1
+Zannier   Hélène,Trisse   Nicole,0,1
+Zannier   Hélène,Houbron   Dimitri,1,1
+Zannier   Hélène,Cattelot   Anne-Laure,1,1
+Zannier   Hélène,De Temmerman   Jennifer,0,1
+Zannier   Hélène,Thill   Agnès,1,1
+Zannier   Hélène,Le Pen   Marine,0,1
+Zannier   Hélène,Minot   Maxime,0,1
+Zannier   Hélène,Bilde   Bruno,0,1
+Zannier   Hélène,Thomas   Valérie,1,1
+Zannier   Hélène,Lachaud   Bastien,1,1
+Zannier   Hélène,Testé   Stéphane,1,1
+Zannier   Hélène,Moutchou   Naïma,1,1
+Zannier   Hélène,Petit   Frédéric,1,1
+Zannier   Hélène,Coquerel   Éric,1,1
+Zannier   Hélène,Charrière   Sylvie,1,1
+Zannier   Hélène,Vuilletet   Guillaume,1,1
+Zannier   Hélène,Ramadier   Alain,0,1
+Zannier   Hélène,Gouffier-Cha   Guillaume,1,1
+Zannier   Hélène,Schellenberger   Raphaël,0,1
+Zannier   Hélène,Gauvain   Raphaël,1,1
+Zannier   Hélène,Degois   Typhanie,1,1
+Zannier   Hélène,Riotton   Véronique,1,1
+Zannier   Hélène,Lardet   Frédérique,1,1
+Zannier   Hélène,Le Gendre   Gilles,1,1
+Zannier   Hélène,Naegelen   Christophe,0,1
+Zannier   Hélène,Guerini   Stanislas,1,1
+Zannier   Hélène,Terlier   Jean,1,1
+Zannier   Hélène,Muschotti   Cécile,1,1
+Zannier   Hélène,Fauvergue   Jean-Michel,1,1
+Zannier   Hélène,Peyron   Michèle,1,1
+Zannier   Hélène,Mauborgne   Sereine,0,1
+Zannier   Hélène,Michel-Kleisbauer   Philippe,1,1
+Zannier   Hélène,Florennes   Isabelle,1,1
+Zannier   Hélène,Renson   Hugues,1,1
+Zannier   Hélène,Guévenoux   Marie,1,1
+Zannier   Hélène,Faucillon   Elsa,0,1
+Zannier   Hélène,Pouzyreff   Natalia,1,1
+Zannier   Hélène,de Vaucouleurs   Michèle,1,1
+Zannier   Hélène,Marilossian   Jacques,1,1
+Zannier   Hélène,Fiévet   Jean-Marie,1,1
+Zannier   Hélène,Houlié   Sacha,1,1
+Jacques   Jean-Michel,Di Filippo   Fabien,0,1
+Jacques   Jean-Michel,Trisse   Nicole,0,1
+Jacques   Jean-Michel,Houbron   Dimitri,1,1
+Jacques   Jean-Michel,Cattelot   Anne-Laure,1,1
+Jacques   Jean-Michel,De Temmerman   Jennifer,0,1
+Jacques   Jean-Michel,Thill   Agnès,1,1
+Jacques   Jean-Michel,Le Pen   Marine,0,1
+Jacques   Jean-Michel,Minot   Maxime,0,1
+Jacques   Jean-Michel,Bilde   Bruno,0,1
+Jacques   Jean-Michel,Thomas   Valérie,1,1
+Jacques   Jean-Michel,Lachaud   Bastien,1,1
+Jacques   Jean-Michel,Testé   Stéphane,1,1
+Jacques   Jean-Michel,Moutchou   Naïma,1,1
+Jacques   Jean-Michel,Petit   Frédéric,1,1
+Jacques   Jean-Michel,Coquerel   Éric,1,1
+Jacques   Jean-Michel,Charrière   Sylvie,1,1
+Jacques   Jean-Michel,Vuilletet   Guillaume,1,1
+Jacques   Jean-Michel,Ramadier   Alain,0,1
+Jacques   Jean-Michel,Gouffier-Cha   Guillaume,1,1
+Jacques   Jean-Michel,Schellenberger   Raphaël,0,1
+Jacques   Jean-Michel,Gauvain   Raphaël,1,1
+Jacques   Jean-Michel,Degois   Typhanie,1,1
+Jacques   Jean-Michel,Riotton   Véronique,1,1
+Jacques   Jean-Michel,Lardet   Frédérique,1,1
+Jacques   Jean-Michel,Le Gendre   Gilles,1,1
+Jacques   Jean-Michel,Naegelen   Christophe,0,1
+Jacques   Jean-Michel,Guerini   Stanislas,1,1
+Jacques   Jean-Michel,Terlier   Jean,1,1
+Jacques   Jean-Michel,Muschotti   Cécile,1,1
+Jacques   Jean-Michel,Fauvergue   Jean-Michel,1,1
+Jacques   Jean-Michel,Peyron   Michèle,1,1
+Jacques   Jean-Michel,Mauborgne   Sereine,0,1
+Jacques   Jean-Michel,Michel-Kleisbauer   Philippe,1,1
+Jacques   Jean-Michel,Florennes   Isabelle,1,1
+Jacques   Jean-Michel,Renson   Hugues,1,1
+Jacques   Jean-Michel,Guévenoux   Marie,1,1
+Jacques   Jean-Michel,Faucillon   Elsa,0,1
+Jacques   Jean-Michel,Pouzyreff   Natalia,1,1
+Jacques   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Jacques   Jean-Michel,Marilossian   Jacques,1,1
+Jacques   Jean-Michel,Fiévet   Jean-Marie,1,1
+Jacques   Jean-Michel,Houlié   Sacha,1,1
+Di Filippo   Fabien,Trisse   Nicole,0,1
+Di Filippo   Fabien,Houbron   Dimitri,0,1
+Di Filippo   Fabien,Cattelot   Anne-Laure,0,1
+Di Filippo   Fabien,De Temmerman   Jennifer,1,1
+Di Filippo   Fabien,Thill   Agnès,0,1
+Di Filippo   Fabien,Le Pen   Marine,1,1
+Di Filippo   Fabien,Minot   Maxime,1,1
+Di Filippo   Fabien,Bilde   Bruno,1,1
+Di Filippo   Fabien,Thomas   Valérie,0,1
+Di Filippo   Fabien,Lachaud   Bastien,0,1
+Di Filippo   Fabien,Testé   Stéphane,0,1
+Di Filippo   Fabien,Moutchou   Naïma,0,1
+Di Filippo   Fabien,Petit   Frédéric,0,1
+Di Filippo   Fabien,Coquerel   Éric,0,1
+Di Filippo   Fabien,Charrière   Sylvie,0,1
+Di Filippo   Fabien,Vuilletet   Guillaume,0,1
+Di Filippo   Fabien,Ramadier   Alain,1,1
+Di Filippo   Fabien,Gouffier-Cha   Guillaume,0,1
+Di Filippo   Fabien,Schellenberger   Raphaël,1,1
+Di Filippo   Fabien,Gauvain   Raphaël,0,1
+Di Filippo   Fabien,Degois   Typhanie,0,1
+Di Filippo   Fabien,Riotton   Véronique,0,1
+Di Filippo   Fabien,Lardet   Frédérique,0,1
+Di Filippo   Fabien,Le Gendre   Gilles,0,1
+Di Filippo   Fabien,Naegelen   Christophe,1,1
+Di Filippo   Fabien,Guerini   Stanislas,0,1
+Di Filippo   Fabien,Terlier   Jean,0,1
+Di Filippo   Fabien,Muschotti   Cécile,0,1
+Di Filippo   Fabien,Fauvergue   Jean-Michel,0,1
+Di Filippo   Fabien,Peyron   Michèle,0,1
+Di Filippo   Fabien,Mauborgne   Sereine,0,1
+Di Filippo   Fabien,Michel-Kleisbauer   Philippe,0,1
+Di Filippo   Fabien,Florennes   Isabelle,0,1
+Di Filippo   Fabien,Renson   Hugues,0,1
+Di Filippo   Fabien,Guévenoux   Marie,0,1
+Di Filippo   Fabien,Faucillon   Elsa,0,1
+Di Filippo   Fabien,Pouzyreff   Natalia,0,1
+Di Filippo   Fabien,de Vaucouleurs   Michèle,0,1
+Di Filippo   Fabien,Marilossian   Jacques,0,1
+Di Filippo   Fabien,Fiévet   Jean-Marie,0,1
+Di Filippo   Fabien,Houlié   Sacha,0,1
+Trisse   Nicole,Houbron   Dimitri,0,1
+Trisse   Nicole,Cattelot   Anne-Laure,0,1
+Trisse   Nicole,De Temmerman   Jennifer,0,1
+Trisse   Nicole,Thill   Agnès,0,1
+Trisse   Nicole,Le Pen   Marine,0,1
+Trisse   Nicole,Minot   Maxime,0,1
+Trisse   Nicole,Bilde   Bruno,0,1
+Trisse   Nicole,Thomas   Valérie,0,1
+Trisse   Nicole,Lachaud   Bastien,0,1
+Trisse   Nicole,Testé   Stéphane,0,1
+Trisse   Nicole,Moutchou   Naïma,0,1
+Trisse   Nicole,Petit   Frédéric,0,1
+Trisse   Nicole,Coquerel   Éric,0,1
+Trisse   Nicole,Charrière   Sylvie,0,1
+Trisse   Nicole,Vuilletet   Guillaume,0,1
+Trisse   Nicole,Ramadier   Alain,0,1
+Trisse   Nicole,Gouffier-Cha   Guillaume,0,1
+Trisse   Nicole,Schellenberger   Raphaël,0,1
+Trisse   Nicole,Gauvain   Raphaël,0,1
+Trisse   Nicole,Degois   Typhanie,0,1
+Trisse   Nicole,Riotton   Véronique,0,1
+Trisse   Nicole,Lardet   Frédérique,0,1
+Trisse   Nicole,Le Gendre   Gilles,0,1
+Trisse   Nicole,Naegelen   Christophe,0,1
+Trisse   Nicole,Guerini   Stanislas,0,1
+Trisse   Nicole,Terlier   Jean,0,1
+Trisse   Nicole,Muschotti   Cécile,0,1
+Trisse   Nicole,Fauvergue   Jean-Michel,0,1
+Trisse   Nicole,Peyron   Michèle,0,1
+Trisse   Nicole,Mauborgne   Sereine,1,1
+Trisse   Nicole,Michel-Kleisbauer   Philippe,0,1
+Trisse   Nicole,Florennes   Isabelle,0,1
+Trisse   Nicole,Renson   Hugues,0,1
+Trisse   Nicole,Guévenoux   Marie,0,1
+Trisse   Nicole,Faucillon   Elsa,1,1
+Trisse   Nicole,Pouzyreff   Natalia,0,1
+Trisse   Nicole,de Vaucouleurs   Michèle,0,1
+Trisse   Nicole,Marilossian   Jacques,0,1
+Trisse   Nicole,Fiévet   Jean-Marie,0,1
+Trisse   Nicole,Houlié   Sacha,0,1
+Houbron   Dimitri,Cattelot   Anne-Laure,1,1
+Houbron   Dimitri,De Temmerman   Jennifer,0,1
+Houbron   Dimitri,Thill   Agnès,1,1
+Houbron   Dimitri,Le Pen   Marine,0,1
+Houbron   Dimitri,Minot   Maxime,0,1
+Houbron   Dimitri,Bilde   Bruno,0,1
+Houbron   Dimitri,Thomas   Valérie,1,1
+Houbron   Dimitri,Lachaud   Bastien,1,1
+Houbron   Dimitri,Testé   Stéphane,1,1
+Houbron   Dimitri,Moutchou   Naïma,1,1
+Houbron   Dimitri,Petit   Frédéric,1,1
+Houbron   Dimitri,Coquerel   Éric,1,1
+Houbron   Dimitri,Charrière   Sylvie,1,1
+Houbron   Dimitri,Vuilletet   Guillaume,1,1
+Houbron   Dimitri,Ramadier   Alain,0,1
+Houbron   Dimitri,Gouffier-Cha   Guillaume,1,1
+Houbron   Dimitri,Schellenberger   Raphaël,0,1
+Houbron   Dimitri,Gauvain   Raphaël,1,1
+Houbron   Dimitri,Degois   Typhanie,1,1
+Houbron   Dimitri,Riotton   Véronique,1,1
+Houbron   Dimitri,Lardet   Frédérique,1,1
+Houbron   Dimitri,Le Gendre   Gilles,1,1
+Houbron   Dimitri,Naegelen   Christophe,0,1
+Houbron   Dimitri,Guerini   Stanislas,1,1
+Houbron   Dimitri,Terlier   Jean,1,1
+Houbron   Dimitri,Muschotti   Cécile,1,1
+Houbron   Dimitri,Fauvergue   Jean-Michel,1,1
+Houbron   Dimitri,Peyron   Michèle,1,1
+Houbron   Dimitri,Mauborgne   Sereine,0,1
+Houbron   Dimitri,Michel-Kleisbauer   Philippe,1,1
+Houbron   Dimitri,Florennes   Isabelle,1,1
+Houbron   Dimitri,Renson   Hugues,1,1
+Houbron   Dimitri,Guévenoux   Marie,1,1
+Houbron   Dimitri,Faucillon   Elsa,0,1
+Houbron   Dimitri,Pouzyreff   Natalia,1,1
+Houbron   Dimitri,de Vaucouleurs   Michèle,1,1
+Houbron   Dimitri,Marilossian   Jacques,1,1
+Houbron   Dimitri,Fiévet   Jean-Marie,1,1
+Houbron   Dimitri,Houlié   Sacha,1,1
+Cattelot   Anne-Laure,De Temmerman   Jennifer,0,1
+Cattelot   Anne-Laure,Thill   Agnès,1,1
+Cattelot   Anne-Laure,Le Pen   Marine,0,1
+Cattelot   Anne-Laure,Minot   Maxime,0,1
+Cattelot   Anne-Laure,Bilde   Bruno,0,1
+Cattelot   Anne-Laure,Thomas   Valérie,1,1
+Cattelot   Anne-Laure,Lachaud   Bastien,1,1
+Cattelot   Anne-Laure,Testé   Stéphane,1,1
+Cattelot   Anne-Laure,Moutchou   Naïma,1,1
+Cattelot   Anne-Laure,Petit   Frédéric,1,1
+Cattelot   Anne-Laure,Coquerel   Éric,1,1
+Cattelot   Anne-Laure,Charrière   Sylvie,1,1
+Cattelot   Anne-Laure,Vuilletet   Guillaume,1,1
+Cattelot   Anne-Laure,Ramadier   Alain,0,1
+Cattelot   Anne-Laure,Gouffier-Cha   Guillaume,1,1
+Cattelot   Anne-Laure,Schellenberger   Raphaël,0,1
+Cattelot   Anne-Laure,Gauvain   Raphaël,1,1
+Cattelot   Anne-Laure,Degois   Typhanie,1,1
+Cattelot   Anne-Laure,Riotton   Véronique,1,1
+Cattelot   Anne-Laure,Lardet   Frédérique,1,1
+Cattelot   Anne-Laure,Le Gendre   Gilles,1,1
+Cattelot   Anne-Laure,Naegelen   Christophe,0,1
+Cattelot   Anne-Laure,Guerini   Stanislas,1,1
+Cattelot   Anne-Laure,Terlier   Jean,1,1
+Cattelot   Anne-Laure,Muschotti   Cécile,1,1
+Cattelot   Anne-Laure,Fauvergue   Jean-Michel,1,1
+Cattelot   Anne-Laure,Peyron   Michèle,1,1
+Cattelot   Anne-Laure,Mauborgne   Sereine,0,1
+Cattelot   Anne-Laure,Michel-Kleisbauer   Philippe,1,1
+Cattelot   Anne-Laure,Florennes   Isabelle,1,1
+Cattelot   Anne-Laure,Renson   Hugues,1,1
+Cattelot   Anne-Laure,Guévenoux   Marie,1,1
+Cattelot   Anne-Laure,Faucillon   Elsa,0,1
+Cattelot   Anne-Laure,Pouzyreff   Natalia,1,1
+Cattelot   Anne-Laure,de Vaucouleurs   Michèle,1,1
+Cattelot   Anne-Laure,Marilossian   Jacques,1,1
+Cattelot   Anne-Laure,Fiévet   Jean-Marie,1,1
+Cattelot   Anne-Laure,Houlié   Sacha,1,1
+De Temmerman   Jennifer,Thill   Agnès,0,1
+De Temmerman   Jennifer,Le Pen   Marine,1,1
+De Temmerman   Jennifer,Minot   Maxime,1,1
+De Temmerman   Jennifer,Bilde   Bruno,1,1
+De Temmerman   Jennifer,Thomas   Valérie,0,1
+De Temmerman   Jennifer,Lachaud   Bastien,0,1
+De Temmerman   Jennifer,Testé   Stéphane,0,1
+De Temmerman   Jennifer,Moutchou   Naïma,0,1
+De Temmerman   Jennifer,Petit   Frédéric,0,1
+De Temmerman   Jennifer,Coquerel   Éric,0,1
+De Temmerman   Jennifer,Charrière   Sylvie,0,1
+De Temmerman   Jennifer,Vuilletet   Guillaume,0,1
+De Temmerman   Jennifer,Ramadier   Alain,1,1
+De Temmerman   Jennifer,Gouffier-Cha   Guillaume,0,1
+De Temmerman   Jennifer,Schellenberger   Raphaël,1,1
+De Temmerman   Jennifer,Gauvain   Raphaël,0,1
+De Temmerman   Jennifer,Degois   Typhanie,0,1
+De Temmerman   Jennifer,Riotton   Véronique,0,1
+De Temmerman   Jennifer,Lardet   Frédérique,0,1
+De Temmerman   Jennifer,Le Gendre   Gilles,0,1
+De Temmerman   Jennifer,Naegelen   Christophe,1,1
+De Temmerman   Jennifer,Guerini   Stanislas,0,1
+De Temmerman   Jennifer,Terlier   Jean,0,1
+De Temmerman   Jennifer,Muschotti   Cécile,0,1
+De Temmerman   Jennifer,Fauvergue   Jean-Michel,0,1
+De Temmerman   Jennifer,Peyron   Michèle,0,1
+De Temmerman   Jennifer,Mauborgne   Sereine,0,1
+De Temmerman   Jennifer,Michel-Kleisbauer   Philippe,0,1
+De Temmerman   Jennifer,Florennes   Isabelle,0,1
+De Temmerman   Jennifer,Renson   Hugues,0,1
+De Temmerman   Jennifer,Guévenoux   Marie,0,1
+De Temmerman   Jennifer,Faucillon   Elsa,0,1
+De Temmerman   Jennifer,Pouzyreff   Natalia,0,1
+De Temmerman   Jennifer,de Vaucouleurs   Michèle,0,1
+De Temmerman   Jennifer,Marilossian   Jacques,0,1
+De Temmerman   Jennifer,Fiévet   Jean-Marie,0,1
+De Temmerman   Jennifer,Houlié   Sacha,0,1
+Thill   Agnès,Le Pen   Marine,0,1
+Thill   Agnès,Minot   Maxime,0,1
+Thill   Agnès,Bilde   Bruno,0,1
+Thill   Agnès,Thomas   Valérie,1,1
+Thill   Agnès,Lachaud   Bastien,1,1
+Thill   Agnès,Testé   Stéphane,1,1
+Thill   Agnès,Moutchou   Naïma,1,1
+Thill   Agnès,Petit   Frédéric,1,1
+Thill   Agnès,Coquerel   Éric,1,1
+Thill   Agnès,Charrière   Sylvie,1,1
+Thill   Agnès,Vuilletet   Guillaume,1,1
+Thill   Agnès,Ramadier   Alain,0,1
+Thill   Agnès,Gouffier-Cha   Guillaume,1,1
+Thill   Agnès,Schellenberger   Raphaël,0,1
+Thill   Agnès,Gauvain   Raphaël,1,1
+Thill   Agnès,Degois   Typhanie,1,1
+Thill   Agnès,Riotton   Véronique,1,1
+Thill   Agnès,Lardet   Frédérique,1,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Naegelen   Christophe,0,1
+Thill   Agnès,Guerini   Stanislas,1,1
+Thill   Agnès,Terlier   Jean,1,1
+Thill   Agnès,Muschotti   Cécile,1,1
+Thill   Agnès,Fauvergue   Jean-Michel,1,1
+Thill   Agnès,Peyron   Michèle,1,1
+Thill   Agnès,Mauborgne   Sereine,0,1
+Thill   Agnès,Michel-Kleisbauer   Philippe,1,1
+Thill   Agnès,Florennes   Isabelle,1,1
+Thill   Agnès,Renson   Hugues,1,1
+Thill   Agnès,Guévenoux   Marie,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,Pouzyreff   Natalia,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Marilossian   Jacques,1,1
+Thill   Agnès,Fiévet   Jean-Marie,1,1
+Thill   Agnès,Houlié   Sacha,1,1
+Le Pen   Marine,Minot   Maxime,1,1
+Le Pen   Marine,Bilde   Bruno,1,1
+Le Pen   Marine,Thomas   Valérie,0,1
+Le Pen   Marine,Lachaud   Bastien,0,1
+Le Pen   Marine,Testé   Stéphane,0,1
+Le Pen   Marine,Moutchou   Naïma,0,1
+Le Pen   Marine,Petit   Frédéric,0,1
+Le Pen   Marine,Coquerel   Éric,0,1
+Le Pen   Marine,Charrière   Sylvie,0,1
+Le Pen   Marine,Vuilletet   Guillaume,0,1
+Le Pen   Marine,Ramadier   Alain,1,1
+Le Pen   Marine,Gouffier-Cha   Guillaume,0,1
+Le Pen   Marine,Schellenberger   Raphaël,1,1
+Le Pen   Marine,Gauvain   Raphaël,0,1
+Le Pen   Marine,Degois   Typhanie,0,1
+Le Pen   Marine,Riotton   Véronique,0,1
+Le Pen   Marine,Lardet   Frédérique,0,1
+Le Pen   Marine,Le Gendre   Gilles,0,1
+Le Pen   Marine,Naegelen   Christophe,1,1
+Le Pen   Marine,Guerini   Stanislas,0,1
+Le Pen   Marine,Terlier   Jean,0,1
+Le Pen   Marine,Muschotti   Cécile,0,1
+Le Pen   Marine,Fauvergue   Jean-Michel,0,1
+Le Pen   Marine,Peyron   Michèle,0,1
+Le Pen   Marine,Mauborgne   Sereine,0,1
+Le Pen   Marine,Michel-Kleisbauer   Philippe,0,1
+Le Pen   Marine,Florennes   Isabelle,0,1
+Le Pen   Marine,Renson   Hugues,0,1
+Le Pen   Marine,Guévenoux   Marie,0,1
+Le Pen   Marine,Faucillon   Elsa,0,1
+Le Pen   Marine,Pouzyreff   Natalia,0,1
+Le Pen   Marine,de Vaucouleurs   Michèle,0,1
+Le Pen   Marine,Marilossian   Jacques,0,1
+Le Pen   Marine,Fiévet   Jean-Marie,0,1
+Le Pen   Marine,Houlié   Sacha,0,1
+Minot   Maxime,Bilde   Bruno,1,1
+Minot   Maxime,Thomas   Valérie,0,1
+Minot   Maxime,Lachaud   Bastien,0,1
+Minot   Maxime,Testé   Stéphane,0,1
+Minot   Maxime,Moutchou   Naïma,0,1
+Minot   Maxime,Petit   Frédéric,0,1
+Minot   Maxime,Coquerel   Éric,0,1
+Minot   Maxime,Charrière   Sylvie,0,1
+Minot   Maxime,Vuilletet   Guillaume,0,1
+Minot   Maxime,Ramadier   Alain,1,1
+Minot   Maxime,Gouffier-Cha   Guillaume,0,1
+Minot   Maxime,Schellenberger   Raphaël,1,1
+Minot   Maxime,Gauvain   Raphaël,0,1
+Minot   Maxime,Degois   Typhanie,0,1
+Minot   Maxime,Riotton   Véronique,0,1
+Minot   Maxime,Lardet   Frédérique,0,1
+Minot   Maxime,Le Gendre   Gilles,0,1
+Minot   Maxime,Naegelen   Christophe,1,1
+Minot   Maxime,Guerini   Stanislas,0,1
+Minot   Maxime,Terlier   Jean,0,1
+Minot   Maxime,Muschotti   Cécile,0,1
+Minot   Maxime,Fauvergue   Jean-Michel,0,1
+Minot   Maxime,Peyron   Michèle,0,1
+Minot   Maxime,Mauborgne   Sereine,0,1
+Minot   Maxime,Michel-Kleisbauer   Philippe,0,1
+Minot   Maxime,Florennes   Isabelle,0,1
+Minot   Maxime,Renson   Hugues,0,1
+Minot   Maxime,Guévenoux   Marie,0,1
+Minot   Maxime,Faucillon   Elsa,0,1
+Minot   Maxime,Pouzyreff   Natalia,0,1
+Minot   Maxime,de Vaucouleurs   Michèle,0,1
+Minot   Maxime,Marilossian   Jacques,0,1
+Minot   Maxime,Fiévet   Jean-Marie,0,1
+Minot   Maxime,Houlié   Sacha,0,1
+Bilde   Bruno,Thomas   Valérie,0,1
+Bilde   Bruno,Lachaud   Bastien,0,1
+Bilde   Bruno,Testé   Stéphane,0,1
+Bilde   Bruno,Moutchou   Naïma,0,1
+Bilde   Bruno,Petit   Frédéric,0,1
+Bilde   Bruno,Coquerel   Éric,0,1
+Bilde   Bruno,Charrière   Sylvie,0,1
+Bilde   Bruno,Vuilletet   Guillaume,0,1
+Bilde   Bruno,Ramadier   Alain,1,1
+Bilde   Bruno,Gouffier-Cha   Guillaume,0,1
+Bilde   Bruno,Schellenberger   Raphaël,1,1
+Bilde   Bruno,Gauvain   Raphaël,0,1
+Bilde   Bruno,Degois   Typhanie,0,1
+Bilde   Bruno,Riotton   Véronique,0,1
+Bilde   Bruno,Lardet   Frédérique,0,1
+Bilde   Bruno,Le Gendre   Gilles,0,1
+Bilde   Bruno,Naegelen   Christophe,1,1
+Bilde   Bruno,Guerini   Stanislas,0,1
+Bilde   Bruno,Terlier   Jean,0,1
+Bilde   Bruno,Muschotti   Cécile,0,1
+Bilde   Bruno,Fauvergue   Jean-Michel,0,1
+Bilde   Bruno,Peyron   Michèle,0,1
+Bilde   Bruno,Mauborgne   Sereine,0,1
+Bilde   Bruno,Michel-Kleisbauer   Philippe,0,1
+Bilde   Bruno,Florennes   Isabelle,0,1
+Bilde   Bruno,Renson   Hugues,0,1
+Bilde   Bruno,Guévenoux   Marie,0,1
+Bilde   Bruno,Faucillon   Elsa,0,1
+Bilde   Bruno,Pouzyreff   Natalia,0,1
+Bilde   Bruno,de Vaucouleurs   Michèle,0,1
+Bilde   Bruno,Marilossian   Jacques,0,1
+Bilde   Bruno,Fiévet   Jean-Marie,0,1
+Bilde   Bruno,Houlié   Sacha,0,1
+Thomas   Valérie,Lachaud   Bastien,1,1
+Thomas   Valérie,Testé   Stéphane,1,1
+Thomas   Valérie,Moutchou   Naïma,1,1
+Thomas   Valérie,Petit   Frédéric,1,1
+Thomas   Valérie,Coquerel   Éric,1,1
+Thomas   Valérie,Charrière   Sylvie,1,1
+Thomas   Valérie,Vuilletet   Guillaume,1,1
+Thomas   Valérie,Ramadier   Alain,0,1
+Thomas   Valérie,Gouffier-Cha   Guillaume,1,1
+Thomas   Valérie,Schellenberger   Raphaël,0,1
+Thomas   Valérie,Gauvain   Raphaël,1,1
+Thomas   Valérie,Degois   Typhanie,1,1
+Thomas   Valérie,Riotton   Véronique,1,1
+Thomas   Valérie,Lardet   Frédérique,1,1
+Thomas   Valérie,Le Gendre   Gilles,1,1
+Thomas   Valérie,Naegelen   Christophe,0,1
+Thomas   Valérie,Guerini   Stanislas,1,1
+Thomas   Valérie,Terlier   Jean,1,1
+Thomas   Valérie,Muschotti   Cécile,1,1
+Thomas   Valérie,Fauvergue   Jean-Michel,1,1
+Thomas   Valérie,Peyron   Michèle,1,1
+Thomas   Valérie,Mauborgne   Sereine,0,1
+Thomas   Valérie,Michel-Kleisbauer   Philippe,1,1
+Thomas   Valérie,Florennes   Isabelle,1,1
+Thomas   Valérie,Renson   Hugues,1,1
+Thomas   Valérie,Guévenoux   Marie,1,1
+Thomas   Valérie,Faucillon   Elsa,0,1
+Thomas   Valérie,Pouzyreff   Natalia,1,1
+Thomas   Valérie,de Vaucouleurs   Michèle,1,1
+Thomas   Valérie,Marilossian   Jacques,1,1
+Thomas   Valérie,Fiévet   Jean-Marie,1,1
+Thomas   Valérie,Houlié   Sacha,1,1
+Lachaud   Bastien,Testé   Stéphane,1,1
+Lachaud   Bastien,Moutchou   Naïma,1,1
+Lachaud   Bastien,Petit   Frédéric,1,1
+Lachaud   Bastien,Coquerel   Éric,1,1
+Lachaud   Bastien,Charrière   Sylvie,1,1
+Lachaud   Bastien,Vuilletet   Guillaume,1,1
+Lachaud   Bastien,Ramadier   Alain,0,1
+Lachaud   Bastien,Gouffier-Cha   Guillaume,1,1
+Lachaud   Bastien,Schellenberger   Raphaël,0,1
+Lachaud   Bastien,Gauvain   Raphaël,1,1
+Lachaud   Bastien,Degois   Typhanie,1,1
+Lachaud   Bastien,Riotton   Véronique,1,1
+Lachaud   Bastien,Lardet   Frédérique,1,1
+Lachaud   Bastien,Le Gendre   Gilles,1,1
+Lachaud   Bastien,Naegelen   Christophe,0,1
+Lachaud   Bastien,Guerini   Stanislas,1,1
+Lachaud   Bastien,Terlier   Jean,1,1
+Lachaud   Bastien,Muschotti   Cécile,1,1
+Lachaud   Bastien,Fauvergue   Jean-Michel,1,1
+Lachaud   Bastien,Peyron   Michèle,1,1
+Lachaud   Bastien,Mauborgne   Sereine,0,1
+Lachaud   Bastien,Michel-Kleisbauer   Philippe,1,1
+Lachaud   Bastien,Florennes   Isabelle,1,1
+Lachaud   Bastien,Renson   Hugues,1,1
+Lachaud   Bastien,Guévenoux   Marie,1,1
+Lachaud   Bastien,Faucillon   Elsa,0,1
+Lachaud   Bastien,Pouzyreff   Natalia,1,1
+Lachaud   Bastien,de Vaucouleurs   Michèle,1,1
+Lachaud   Bastien,Marilossian   Jacques,1,1
+Lachaud   Bastien,Fiévet   Jean-Marie,1,1
+Lachaud   Bastien,Houlié   Sacha,1,1
+Testé   Stéphane,Moutchou   Naïma,1,1
+Testé   Stéphane,Petit   Frédéric,1,1
+Testé   Stéphane,Coquerel   Éric,1,1
+Testé   Stéphane,Charrière   Sylvie,1,1
+Testé   Stéphane,Vuilletet   Guillaume,1,1
+Testé   Stéphane,Ramadier   Alain,0,1
+Testé   Stéphane,Gouffier-Cha   Guillaume,1,1
+Testé   Stéphane,Schellenberger   Raphaël,0,1
+Testé   Stéphane,Gauvain   Raphaël,1,1
+Testé   Stéphane,Degois   Typhanie,1,1
+Testé   Stéphane,Riotton   Véronique,1,1
+Testé   Stéphane,Lardet   Frédérique,1,1
+Testé   Stéphane,Le Gendre   Gilles,1,1
+Testé   Stéphane,Naegelen   Christophe,0,1
+Testé   Stéphane,Guerini   Stanislas,1,1
+Testé   Stéphane,Terlier   Jean,1,1
+Testé   Stéphane,Muschotti   Cécile,1,1
+Testé   Stéphane,Fauvergue   Jean-Michel,1,1
+Testé   Stéphane,Peyron   Michèle,1,1
+Testé   Stéphane,Mauborgne   Sereine,0,1
+Testé   Stéphane,Michel-Kleisbauer   Philippe,1,1
+Testé   Stéphane,Florennes   Isabelle,1,1
+Testé   Stéphane,Renson   Hugues,1,1
+Testé   Stéphane,Guévenoux   Marie,1,1
+Testé   Stéphane,Faucillon   Elsa,0,1
+Testé   Stéphane,Pouzyreff   Natalia,1,1
+Testé   Stéphane,de Vaucouleurs   Michèle,1,1
+Testé   Stéphane,Marilossian   Jacques,1,1
+Testé   Stéphane,Fiévet   Jean-Marie,1,1
+Testé   Stéphane,Houlié   Sacha,1,1
+Moutchou   Naïma,Petit   Frédéric,1,1
+Moutchou   Naïma,Coquerel   Éric,1,1
+Moutchou   Naïma,Charrière   Sylvie,1,1
+Moutchou   Naïma,Vuilletet   Guillaume,1,1
+Moutchou   Naïma,Ramadier   Alain,0,1
+Moutchou   Naïma,Gouffier-Cha   Guillaume,1,1
+Moutchou   Naïma,Schellenberger   Raphaël,0,1
+Moutchou   Naïma,Gauvain   Raphaël,1,1
+Moutchou   Naïma,Degois   Typhanie,1,1
+Moutchou   Naïma,Riotton   Véronique,1,1
+Moutchou   Naïma,Lardet   Frédérique,1,1
+Moutchou   Naïma,Le Gendre   Gilles,1,1
+Moutchou   Naïma,Naegelen   Christophe,0,1
+Moutchou   Naïma,Guerini   Stanislas,1,1
+Moutchou   Naïma,Terlier   Jean,1,1
+Moutchou   Naïma,Muschotti   Cécile,1,1
+Moutchou   Naïma,Fauvergue   Jean-Michel,1,1
+Moutchou   Naïma,Peyron   Michèle,1,1
+Moutchou   Naïma,Mauborgne   Sereine,0,1
+Moutchou   Naïma,Michel-Kleisbauer   Philippe,1,1
+Moutchou   Naïma,Florennes   Isabelle,1,1
+Moutchou   Naïma,Renson   Hugues,1,1
+Moutchou   Naïma,Guévenoux   Marie,1,1
+Moutchou   Naïma,Faucillon   Elsa,0,1
+Moutchou   Naïma,Pouzyreff   Natalia,1,1
+Moutchou   Naïma,de Vaucouleurs   Michèle,1,1
+Moutchou   Naïma,Marilossian   Jacques,1,1
+Moutchou   Naïma,Fiévet   Jean-Marie,1,1
+Moutchou   Naïma,Houlié   Sacha,1,1
+Petit   Frédéric,Coquerel   Éric,1,1
+Petit   Frédéric,Charrière   Sylvie,1,1
+Petit   Frédéric,Vuilletet   Guillaume,1,1
+Petit   Frédéric,Ramadier   Alain,0,1
+Petit   Frédéric,Gouffier-Cha   Guillaume,1,1
+Petit   Frédéric,Schellenberger   Raphaël,0,1
+Petit   Frédéric,Gauvain   Raphaël,1,1
+Petit   Frédéric,Degois   Typhanie,1,1
+Petit   Frédéric,Riotton   Véronique,1,1
+Petit   Frédéric,Lardet   Frédérique,1,1
+Petit   Frédéric,Le Gendre   Gilles,1,1
+Petit   Frédéric,Naegelen   Christophe,0,1
+Petit   Frédéric,Guerini   Stanislas,1,1
+Petit   Frédéric,Terlier   Jean,1,1
+Petit   Frédéric,Muschotti   Cécile,1,1
+Petit   Frédéric,Fauvergue   Jean-Michel,1,1
+Petit   Frédéric,Peyron   Michèle,1,1
+Petit   Frédéric,Mauborgne   Sereine,0,1
+Petit   Frédéric,Michel-Kleisbauer   Philippe,1,1
+Petit   Frédéric,Florennes   Isabelle,1,1
+Petit   Frédéric,Renson   Hugues,1,1
+Petit   Frédéric,Guévenoux   Marie,1,1
+Petit   Frédéric,Faucillon   Elsa,0,1
+Petit   Frédéric,Pouzyreff   Natalia,1,1
+Petit   Frédéric,de Vaucouleurs   Michèle,1,1
+Petit   Frédéric,Marilossian   Jacques,1,1
+Petit   Frédéric,Fiévet   Jean-Marie,1,1
+Petit   Frédéric,Houlié   Sacha,1,1
+Coquerel   Éric,Charrière   Sylvie,1,1
+Coquerel   Éric,Vuilletet   Guillaume,1,1
+Coquerel   Éric,Ramadier   Alain,0,1
+Coquerel   Éric,Gouffier-Cha   Guillaume,1,1
+Coquerel   Éric,Schellenberger   Raphaël,0,1
+Coquerel   Éric,Gauvain   Raphaël,1,1
+Coquerel   Éric,Degois   Typhanie,1,1
+Coquerel   Éric,Riotton   Véronique,1,1
+Coquerel   Éric,Lardet   Frédérique,1,1
+Coquerel   Éric,Le Gendre   Gilles,1,1
+Coquerel   Éric,Naegelen   Christophe,0,1
+Coquerel   Éric,Guerini   Stanislas,1,1
+Coquerel   Éric,Terlier   Jean,1,1
+Coquerel   Éric,Muschotti   Cécile,1,1
+Coquerel   Éric,Fauvergue   Jean-Michel,1,1
+Coquerel   Éric,Peyron   Michèle,1,1
+Coquerel   Éric,Mauborgne   Sereine,0,1
+Coquerel   Éric,Michel-Kleisbauer   Philippe,1,1
+Coquerel   Éric,Florennes   Isabelle,1,1
+Coquerel   Éric,Renson   Hugues,1,1
+Coquerel   Éric,Guévenoux   Marie,1,1
+Coquerel   Éric,Faucillon   Elsa,0,1
+Coquerel   Éric,Pouzyreff   Natalia,1,1
+Coquerel   Éric,de Vaucouleurs   Michèle,1,1
+Coquerel   Éric,Marilossian   Jacques,1,1
+Coquerel   Éric,Fiévet   Jean-Marie,1,1
+Coquerel   Éric,Houlié   Sacha,1,1
+Charrière   Sylvie,Vuilletet   Guillaume,1,1
+Charrière   Sylvie,Ramadier   Alain,0,1
+Charrière   Sylvie,Gouffier-Cha   Guillaume,1,1
+Charrière   Sylvie,Schellenberger   Raphaël,0,1
+Charrière   Sylvie,Gauvain   Raphaël,1,1
+Charrière   Sylvie,Degois   Typhanie,1,1
+Charrière   Sylvie,Riotton   Véronique,1,1
+Charrière   Sylvie,Lardet   Frédérique,1,1
+Charrière   Sylvie,Le Gendre   Gilles,1,1
+Charrière   Sylvie,Naegelen   Christophe,0,1
+Charrière   Sylvie,Guerini   Stanislas,1,1
+Charrière   Sylvie,Terlier   Jean,1,1
+Charrière   Sylvie,Muschotti   Cécile,1,1
+Charrière   Sylvie,Fauvergue   Jean-Michel,1,1
+Charrière   Sylvie,Peyron   Michèle,1,1
+Charrière   Sylvie,Mauborgne   Sereine,0,1
+Charrière   Sylvie,Michel-Kleisbauer   Philippe,1,1
+Charrière   Sylvie,Florennes   Isabelle,1,1
+Charrière   Sylvie,Renson   Hugues,1,1
+Charrière   Sylvie,Guévenoux   Marie,1,1
+Charrière   Sylvie,Faucillon   Elsa,0,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,de Vaucouleurs   Michèle,1,1
+Charrière   Sylvie,Marilossian   Jacques,1,1
+Charrière   Sylvie,Fiévet   Jean-Marie,1,1
+Charrière   Sylvie,Houlié   Sacha,1,1
+Vuilletet   Guillaume,Ramadier   Alain,0,1
+Vuilletet   Guillaume,Gouffier-Cha   Guillaume,1,1
+Vuilletet   Guillaume,Schellenberger   Raphaël,0,1
+Vuilletet   Guillaume,Gauvain   Raphaël,1,1
+Vuilletet   Guillaume,Degois   Typhanie,1,1
+Vuilletet   Guillaume,Riotton   Véronique,1,1
+Vuilletet   Guillaume,Lardet   Frédérique,1,1
+Vuilletet   Guillaume,Le Gendre   Gilles,1,1
+Vuilletet   Guillaume,Naegelen   Christophe,0,1
+Vuilletet   Guillaume,Guerini   Stanislas,1,1
+Vuilletet   Guillaume,Terlier   Jean,1,1
+Vuilletet   Guillaume,Muschotti   Cécile,1,1
+Vuilletet   Guillaume,Fauvergue   Jean-Michel,1,1
+Vuilletet   Guillaume,Peyron   Michèle,1,1
+Vuilletet   Guillaume,Mauborgne   Sereine,0,1
+Vuilletet   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Vuilletet   Guillaume,Florennes   Isabelle,1,1
+Vuilletet   Guillaume,Renson   Hugues,1,1
+Vuilletet   Guillaume,Guévenoux   Marie,1,1
+Vuilletet   Guillaume,Faucillon   Elsa,0,1
+Vuilletet   Guillaume,Pouzyreff   Natalia,1,1
+Vuilletet   Guillaume,de Vaucouleurs   Michèle,1,1
+Vuilletet   Guillaume,Marilossian   Jacques,1,1
+Vuilletet   Guillaume,Fiévet   Jean-Marie,1,1
+Vuilletet   Guillaume,Houlié   Sacha,1,1
+Ramadier   Alain,Gouffier-Cha   Guillaume,0,1
+Ramadier   Alain,Schellenberger   Raphaël,1,1
+Ramadier   Alain,Gauvain   Raphaël,0,1
+Ramadier   Alain,Degois   Typhanie,0,1
+Ramadier   Alain,Riotton   Véronique,0,1
+Ramadier   Alain,Lardet   Frédérique,0,1
+Ramadier   Alain,Le Gendre   Gilles,0,1
+Ramadier   Alain,Naegelen   Christophe,1,1
+Ramadier   Alain,Guerini   Stanislas,0,1
+Ramadier   Alain,Terlier   Jean,0,1
+Ramadier   Alain,Muschotti   Cécile,0,1
+Ramadier   Alain,Fauvergue   Jean-Michel,0,1
+Ramadier   Alain,Peyron   Michèle,0,1
+Ramadier   Alain,Mauborgne   Sereine,0,1
+Ramadier   Alain,Michel-Kleisbauer   Philippe,0,1
+Ramadier   Alain,Florennes   Isabelle,0,1
+Ramadier   Alain,Renson   Hugues,0,1
+Ramadier   Alain,Guévenoux   Marie,0,1
+Ramadier   Alain,Faucillon   Elsa,0,1
+Ramadier   Alain,Pouzyreff   Natalia,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Marilossian   Jacques,0,1
+Ramadier   Alain,Fiévet   Jean-Marie,0,1
+Ramadier   Alain,Houlié   Sacha,0,1
+Gouffier-Cha   Guillaume,Schellenberger   Raphaël,0,1
+Gouffier-Cha   Guillaume,Gauvain   Raphaël,1,1
+Gouffier-Cha   Guillaume,Degois   Typhanie,1,1
+Gouffier-Cha   Guillaume,Riotton   Véronique,1,1
+Gouffier-Cha   Guillaume,Lardet   Frédérique,1,1
+Gouffier-Cha   Guillaume,Le Gendre   Gilles,1,1
+Gouffier-Cha   Guillaume,Naegelen   Christophe,0,1
+Gouffier-Cha   Guillaume,Guerini   Stanislas,1,1
+Gouffier-Cha   Guillaume,Terlier   Jean,1,1
+Gouffier-Cha   Guillaume,Muschotti   Cécile,1,1
+Gouffier-Cha   Guillaume,Fauvergue   Jean-Michel,1,1
+Gouffier-Cha   Guillaume,Peyron   Michèle,1,1
+Gouffier-Cha   Guillaume,Mauborgne   Sereine,0,1
+Gouffier-Cha   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Gouffier-Cha   Guillaume,Florennes   Isabelle,1,1
+Gouffier-Cha   Guillaume,Renson   Hugues,1,1
+Gouffier-Cha   Guillaume,Guévenoux   Marie,1,1
+Gouffier-Cha   Guillaume,Faucillon   Elsa,0,1
+Gouffier-Cha   Guillaume,Pouzyreff   Natalia,1,1
+Gouffier-Cha   Guillaume,de Vaucouleurs   Michèle,1,1
+Gouffier-Cha   Guillaume,Marilossian   Jacques,1,1
+Gouffier-Cha   Guillaume,Fiévet   Jean-Marie,1,1
+Gouffier-Cha   Guillaume,Houlié   Sacha,1,1
+Schellenberger   Raphaël,Gauvain   Raphaël,0,1
+Schellenberger   Raphaël,Degois   Typhanie,0,1
+Schellenberger   Raphaël,Riotton   Véronique,0,1
+Schellenberger   Raphaël,Lardet   Frédérique,0,1
+Schellenberger   Raphaël,Le Gendre   Gilles,0,1
+Schellenberger   Raphaël,Naegelen   Christophe,1,1
+Schellenberger   Raphaël,Guerini   Stanislas,0,1
+Schellenberger   Raphaël,Terlier   Jean,0,1
+Schellenberger   Raphaël,Muschotti   Cécile,0,1
+Schellenberger   Raphaël,Fauvergue   Jean-Michel,0,1
+Schellenberger   Raphaël,Peyron   Michèle,0,1
+Schellenberger   Raphaël,Mauborgne   Sereine,0,1
+Schellenberger   Raphaël,Michel-Kleisbauer   Philippe,0,1
+Schellenberger   Raphaël,Florennes   Isabelle,0,1
+Schellenberger   Raphaël,Renson   Hugues,0,1
+Schellenberger   Raphaël,Guévenoux   Marie,0,1
+Schellenberger   Raphaël,Faucillon   Elsa,0,1
+Schellenberger   Raphaël,Pouzyreff   Natalia,0,1
+Schellenberger   Raphaël,de Vaucouleurs   Michèle,0,1
+Schellenberger   Raphaël,Marilossian   Jacques,0,1
+Schellenberger   Raphaël,Fiévet   Jean-Marie,0,1
+Schellenberger   Raphaël,Houlié   Sacha,0,1
+Gauvain   Raphaël,Degois   Typhanie,1,1
+Gauvain   Raphaël,Riotton   Véronique,1,1
+Gauvain   Raphaël,Lardet   Frédérique,1,1
+Gauvain   Raphaël,Le Gendre   Gilles,1,1
+Gauvain   Raphaël,Naegelen   Christophe,0,1
+Gauvain   Raphaël,Guerini   Stanislas,1,1
+Gauvain   Raphaël,Terlier   Jean,1,1
+Gauvain   Raphaël,Muschotti   Cécile,1,1
+Gauvain   Raphaël,Fauvergue   Jean-Michel,1,1
+Gauvain   Raphaël,Peyron   Michèle,1,1
+Gauvain   Raphaël,Mauborgne   Sereine,0,1
+Gauvain   Raphaël,Michel-Kleisbauer   Philippe,1,1
+Gauvain   Raphaël,Florennes   Isabelle,1,1
+Gauvain   Raphaël,Renson   Hugues,1,1
+Gauvain   Raphaël,Guévenoux   Marie,1,1
+Gauvain   Raphaël,Faucillon   Elsa,0,1
+Gauvain   Raphaël,Pouzyreff   Natalia,1,1
+Gauvain   Raphaël,de Vaucouleurs   Michèle,1,1
+Gauvain   Raphaël,Marilossian   Jacques,1,1
+Gauvain   Raphaël,Fiévet   Jean-Marie,1,1
+Gauvain   Raphaël,Houlié   Sacha,1,1
+Degois   Typhanie,Riotton   Véronique,1,1
+Degois   Typhanie,Lardet   Frédérique,1,1
+Degois   Typhanie,Le Gendre   Gilles,1,1
+Degois   Typhanie,Naegelen   Christophe,0,1
+Degois   Typhanie,Guerini   Stanislas,1,1
+Degois   Typhanie,Terlier   Jean,1,1
+Degois   Typhanie,Muschotti   Cécile,1,1
+Degois   Typhanie,Fauvergue   Jean-Michel,1,1
+Degois   Typhanie,Peyron   Michèle,1,1
+Degois   Typhanie,Mauborgne   Sereine,0,1
+Degois   Typhanie,Michel-Kleisbauer   Philippe,1,1
+Degois   Typhanie,Florennes   Isabelle,1,1
+Degois   Typhanie,Renson   Hugues,1,1
+Degois   Typhanie,Guévenoux   Marie,1,1
+Degois   Typhanie,Faucillon   Elsa,0,1
+Degois   Typhanie,Pouzyreff   Natalia,1,1
+Degois   Typhanie,de Vaucouleurs   Michèle,1,1
+Degois   Typhanie,Marilossian   Jacques,1,1
+Degois   Typhanie,Fiévet   Jean-Marie,1,1
+Degois   Typhanie,Houlié   Sacha,1,1
+Riotton   Véronique,Lardet   Frédérique,1,1
+Riotton   Véronique,Le Gendre   Gilles,1,1
+Riotton   Véronique,Naegelen   Christophe,0,1
+Riotton   Véronique,Guerini   Stanislas,1,1
+Riotton   Véronique,Terlier   Jean,1,1
+Riotton   Véronique,Muschotti   Cécile,1,1
+Riotton   Véronique,Fauvergue   Jean-Michel,1,1
+Riotton   Véronique,Peyron   Michèle,1,1
+Riotton   Véronique,Mauborgne   Sereine,0,1
+Riotton   Véronique,Michel-Kleisbauer   Philippe,1,1
+Riotton   Véronique,Florennes   Isabelle,1,1
+Riotton   Véronique,Renson   Hugues,1,1
+Riotton   Véronique,Guévenoux   Marie,1,1
+Riotton   Véronique,Faucillon   Elsa,0,1
+Riotton   Véronique,Pouzyreff   Natalia,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,1,1
+Riotton   Véronique,Marilossian   Jacques,1,1
+Riotton   Véronique,Fiévet   Jean-Marie,1,1
+Riotton   Véronique,Houlié   Sacha,1,1
+Lardet   Frédérique,Le Gendre   Gilles,1,1
+Lardet   Frédérique,Naegelen   Christophe,0,1
+Lardet   Frédérique,Guerini   Stanislas,1,1
+Lardet   Frédérique,Terlier   Jean,1,1
+Lardet   Frédérique,Muschotti   Cécile,1,1
+Lardet   Frédérique,Fauvergue   Jean-Michel,1,1
+Lardet   Frédérique,Peyron   Michèle,1,1
+Lardet   Frédérique,Mauborgne   Sereine,0,1
+Lardet   Frédérique,Michel-Kleisbauer   Philippe,1,1
+Lardet   Frédérique,Florennes   Isabelle,1,1
+Lardet   Frédérique,Renson   Hugues,1,1
+Lardet   Frédérique,Guévenoux   Marie,1,1
+Lardet   Frédérique,Faucillon   Elsa,0,1
+Lardet   Frédérique,Pouzyreff   Natalia,1,1
+Lardet   Frédérique,de Vaucouleurs   Michèle,1,1
+Lardet   Frédérique,Marilossian   Jacques,1,1
+Lardet   Frédérique,Fiévet   Jean-Marie,1,1
+Lardet   Frédérique,Houlié   Sacha,1,1
+Le Gendre   Gilles,Naegelen   Christophe,0,1
+Le Gendre   Gilles,Guerini   Stanislas,1,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Muschotti   Cécile,1,1
+Le Gendre   Gilles,Fauvergue   Jean-Michel,1,1
+Le Gendre   Gilles,Peyron   Michèle,1,1
+Le Gendre   Gilles,Mauborgne   Sereine,0,1
+Le Gendre   Gilles,Michel-Kleisbauer   Philippe,1,1
+Le Gendre   Gilles,Florennes   Isabelle,1,1
+Le Gendre   Gilles,Renson   Hugues,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,Faucillon   Elsa,0,1
+Le Gendre   Gilles,Pouzyreff   Natalia,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,1,1
+Le Gendre   Gilles,Marilossian   Jacques,1,1
+Le Gendre   Gilles,Fiévet   Jean-Marie,1,1
+Le Gendre   Gilles,Houlié   Sacha,1,1
+Naegelen   Christophe,Guerini   Stanislas,0,1
+Naegelen   Christophe,Terlier   Jean,0,1
+Naegelen   Christophe,Muschotti   Cécile,0,1
+Naegelen   Christophe,Fauvergue   Jean-Michel,0,1
+Naegelen   Christophe,Peyron   Michèle,0,1
+Naegelen   Christophe,Mauborgne   Sereine,0,1
+Naegelen   Christophe,Michel-Kleisbauer   Philippe,0,1
+Naegelen   Christophe,Florennes   Isabelle,0,1
+Naegelen   Christophe,Renson   Hugues,0,1
+Naegelen   Christophe,Guévenoux   Marie,0,1
+Naegelen   Christophe,Faucillon   Elsa,0,1
+Naegelen   Christophe,Pouzyreff   Natalia,0,1
+Naegelen   Christophe,de Vaucouleurs   Michèle,0,1
+Naegelen   Christophe,Marilossian   Jacques,0,1
+Naegelen   Christophe,Fiévet   Jean-Marie,0,1
+Naegelen   Christophe,Houlié   Sacha,0,1
+Guerini   Stanislas,Terlier   Jean,1,1
+Guerini   Stanislas,Muschotti   Cécile,1,1
+Guerini   Stanislas,Fauvergue   Jean-Michel,1,1
+Guerini   Stanislas,Peyron   Michèle,1,1
+Guerini   Stanislas,Mauborgne   Sereine,0,1
+Guerini   Stanislas,Michel-Kleisbauer   Philippe,1,1
+Guerini   Stanislas,Florennes   Isabelle,1,1
+Guerini   Stanislas,Renson   Hugues,1,1
+Guerini   Stanislas,Guévenoux   Marie,1,1
+Guerini   Stanislas,Faucillon   Elsa,0,1
+Guerini   Stanislas,Pouzyreff   Natalia,1,1
+Guerini   Stanislas,de Vaucouleurs   Michèle,1,1
+Guerini   Stanislas,Marilossian   Jacques,1,1
+Guerini   Stanislas,Fiévet   Jean-Marie,1,1
+Guerini   Stanislas,Houlié   Sacha,1,1
+Terlier   Jean,Muschotti   Cécile,1,1
+Terlier   Jean,Fauvergue   Jean-Michel,1,1
+Terlier   Jean,Peyron   Michèle,1,1
+Terlier   Jean,Mauborgne   Sereine,0,1
+Terlier   Jean,Michel-Kleisbauer   Philippe,1,1
+Terlier   Jean,Florennes   Isabelle,1,1
+Terlier   Jean,Renson   Hugues,1,1
+Terlier   Jean,Guévenoux   Marie,1,1
+Terlier   Jean,Faucillon   Elsa,0,1
+Terlier   Jean,Pouzyreff   Natalia,1,1
+Terlier   Jean,de Vaucouleurs   Michèle,1,1
+Terlier   Jean,Marilossian   Jacques,1,1
+Terlier   Jean,Fiévet   Jean-Marie,1,1
+Terlier   Jean,Houlié   Sacha,1,1
+Muschotti   Cécile,Fauvergue   Jean-Michel,1,1
+Muschotti   Cécile,Peyron   Michèle,1,1
+Muschotti   Cécile,Mauborgne   Sereine,0,1
+Muschotti   Cécile,Michel-Kleisbauer   Philippe,1,1
+Muschotti   Cécile,Florennes   Isabelle,1,1
+Muschotti   Cécile,Renson   Hugues,1,1
+Muschotti   Cécile,Guévenoux   Marie,1,1
+Muschotti   Cécile,Faucillon   Elsa,0,1
+Muschotti   Cécile,Pouzyreff   Natalia,1,1
+Muschotti   Cécile,de Vaucouleurs   Michèle,1,1
+Muschotti   Cécile,Marilossian   Jacques,1,1
+Muschotti   Cécile,Fiévet   Jean-Marie,1,1
+Muschotti   Cécile,Houlié   Sacha,1,1
+Fauvergue   Jean-Michel,Peyron   Michèle,1,1
+Fauvergue   Jean-Michel,Mauborgne   Sereine,0,1
+Fauvergue   Jean-Michel,Michel-Kleisbauer   Philippe,1,1
+Fauvergue   Jean-Michel,Florennes   Isabelle,1,1
+Fauvergue   Jean-Michel,Renson   Hugues,1,1
+Fauvergue   Jean-Michel,Guévenoux   Marie,1,1
+Fauvergue   Jean-Michel,Faucillon   Elsa,0,1
+Fauvergue   Jean-Michel,Pouzyreff   Natalia,1,1
+Fauvergue   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Fauvergue   Jean-Michel,Marilossian   Jacques,1,1
+Fauvergue   Jean-Michel,Fiévet   Jean-Marie,1,1
+Fauvergue   Jean-Michel,Houlié   Sacha,1,1
+Peyron   Michèle,Mauborgne   Sereine,0,1
+Peyron   Michèle,Michel-Kleisbauer   Philippe,1,1
+Peyron   Michèle,Florennes   Isabelle,1,1
+Peyron   Michèle,Renson   Hugues,1,1
+Peyron   Michèle,Guévenoux   Marie,1,1
+Peyron   Michèle,Faucillon   Elsa,0,1
+Peyron   Michèle,Pouzyreff   Natalia,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Marilossian   Jacques,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Houlié   Sacha,1,1
+Mauborgne   Sereine,Michel-Kleisbauer   Philippe,0,1
+Mauborgne   Sereine,Florennes   Isabelle,0,1
+Mauborgne   Sereine,Renson   Hugues,0,1
+Mauborgne   Sereine,Guévenoux   Marie,0,1
+Mauborgne   Sereine,Faucillon   Elsa,1,1
+Mauborgne   Sereine,Pouzyreff   Natalia,0,1
+Mauborgne   Sereine,de Vaucouleurs   Michèle,0,1
+Mauborgne   Sereine,Marilossian   Jacques,0,1
+Mauborgne   Sereine,Fiévet   Jean-Marie,0,1
+Mauborgne   Sereine,Houlié   Sacha,0,1
+Michel-Kleisbauer   Philippe,Florennes   Isabelle,1,1
+Michel-Kleisbauer   Philippe,Renson   Hugues,1,1
+Michel-Kleisbauer   Philippe,Guévenoux   Marie,1,1
+Michel-Kleisbauer   Philippe,Faucillon   Elsa,0,1
+Michel-Kleisbauer   Philippe,Pouzyreff   Natalia,1,1
+Michel-Kleisbauer   Philippe,de Vaucouleurs   Michèle,1,1
+Michel-Kleisbauer   Philippe,Marilossian   Jacques,1,1
+Michel-Kleisbauer   Philippe,Fiévet   Jean-Marie,1,1
+Michel-Kleisbauer   Philippe,Houlié   Sacha,1,1
+Florennes   Isabelle,Renson   Hugues,1,1
+Florennes   Isabelle,Guévenoux   Marie,1,1
+Florennes   Isabelle,Faucillon   Elsa,0,1
+Florennes   Isabelle,Pouzyreff   Natalia,1,1
+Florennes   Isabelle,de Vaucouleurs   Michèle,1,1
+Florennes   Isabelle,Marilossian   Jacques,1,1
+Florennes   Isabelle,Fiévet   Jean-Marie,1,1
+Florennes   Isabelle,Houlié   Sacha,1,1
+Renson   Hugues,Guévenoux   Marie,1,1
+Renson   Hugues,Faucillon   Elsa,0,1
+Renson   Hugues,Pouzyreff   Natalia,1,1
+Renson   Hugues,de Vaucouleurs   Michèle,1,1
+Renson   Hugues,Marilossian   Jacques,1,1
+Renson   Hugues,Fiévet   Jean-Marie,1,1
+Renson   Hugues,Houlié   Sacha,1,1
+Guévenoux   Marie,Faucillon   Elsa,0,1
+Guévenoux   Marie,Pouzyreff   Natalia,1,1
+Guévenoux   Marie,de Vaucouleurs   Michèle,1,1
+Guévenoux   Marie,Marilossian   Jacques,1,1
+Guévenoux   Marie,Fiévet   Jean-Marie,1,1
+Guévenoux   Marie,Houlié   Sacha,1,1
+Faucillon   Elsa,Pouzyreff   Natalia,0,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,0,1
+Faucillon   Elsa,Marilossian   Jacques,0,1
+Faucillon   Elsa,Fiévet   Jean-Marie,0,1
+Faucillon   Elsa,Houlié   Sacha,0,1
+Pouzyreff   Natalia,de Vaucouleurs   Michèle,1,1
+Pouzyreff   Natalia,Marilossian   Jacques,1,1
+Pouzyreff   Natalia,Fiévet   Jean-Marie,1,1
+Pouzyreff   Natalia,Houlié   Sacha,1,1
+de Vaucouleurs   Michèle,Marilossian   Jacques,1,1
+de Vaucouleurs   Michèle,Fiévet   Jean-Marie,1,1
+de Vaucouleurs   Michèle,Houlié   Sacha,1,1
+Marilossian   Jacques,Fiévet   Jean-Marie,1,1
+Marilossian   Jacques,Houlié   Sacha,1,1
+Fiévet   Jean-Marie,Houlié   Sacha,1,1

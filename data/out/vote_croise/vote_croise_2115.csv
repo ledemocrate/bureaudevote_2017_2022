@@ -1,0 +1,352 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Saulignac   Hervé,1,1
+Firmin Le Bodo   Agnès,Brindeau   Pascal,1,1
+Firmin Le Bodo   Agnès,Hetzel   Patrick,0,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,0,1
+Firmin Le Bodo   Agnès,Delatte   Marc,1,1
+Firmin Le Bodo   Agnès,Gérard   Raphaël,1,1
+Firmin Le Bodo   Agnès,Berta   Philippe,1,1
+Firmin Le Bodo   Agnès,Eliaou   Jean-François,1,1
+Firmin Le Bodo   Agnès,Brunet   Anne-France,1,1
+Firmin Le Bodo   Agnès,Dubré-Chirat   Nicole,1,1
+Firmin Le Bodo   Agnès,Grandjean   Carole,1,1
+Firmin Le Bodo   Agnès,Thill   Agnès,1,1
+Firmin Le Bodo   Agnès,Minot   Maxime,1,1
+Firmin Le Bodo   Agnès,Kuster   Brigitte,1,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,1,1
+Firmin Le Bodo   Agnès,Gomez-Bassac   Valérie,1,1
+Firmin Le Bodo   Agnès,Faucillon   Elsa,1,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,1,1
+Firmin Le Bodo   Agnès,Buchou   Stéphane,1,1
+Firmin Le Bodo   Agnès,Romeiro Dias   Laëtitia,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Pételle   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Chiche   Guillaume,1,1
+Firmin Le Bodo   Agnès,Fuchs   Bruno,1,1
+Firmin Le Bodo   Agnès,Thiébaut   Vincent,1,1
+Firmin Le Bodo   Agnès,Chouat   Francis,1,1
+Saulignac   Hervé,Brindeau   Pascal,1,1
+Saulignac   Hervé,Hetzel   Patrick,0,1
+Saulignac   Hervé,Bazin   Thibault,0,1
+Saulignac   Hervé,Delatte   Marc,1,1
+Saulignac   Hervé,Gérard   Raphaël,1,1
+Saulignac   Hervé,Berta   Philippe,1,1
+Saulignac   Hervé,Eliaou   Jean-François,1,1
+Saulignac   Hervé,Brunet   Anne-France,1,1
+Saulignac   Hervé,Dubré-Chirat   Nicole,1,1
+Saulignac   Hervé,Grandjean   Carole,1,1
+Saulignac   Hervé,Thill   Agnès,1,1
+Saulignac   Hervé,Minot   Maxime,1,1
+Saulignac   Hervé,Kuster   Brigitte,1,1
+Saulignac   Hervé,Peyron   Michèle,1,1
+Saulignac   Hervé,Gomez-Bassac   Valérie,1,1
+Saulignac   Hervé,Faucillon   Elsa,1,1
+Saulignac   Hervé,de Vaucouleurs   Michèle,1,1
+Saulignac   Hervé,Buchou   Stéphane,1,1
+Saulignac   Hervé,Romeiro Dias   Laëtitia,1,1
+Saulignac   Hervé,Bergé   Aurore,1,1
+Saulignac   Hervé,Pételle   Bénédicte,1,1
+Saulignac   Hervé,Chiche   Guillaume,1,1
+Saulignac   Hervé,Fuchs   Bruno,1,1
+Saulignac   Hervé,Thiébaut   Vincent,1,1
+Saulignac   Hervé,Chouat   Francis,1,1
+Brindeau   Pascal,Hetzel   Patrick,0,1
+Brindeau   Pascal,Bazin   Thibault,0,1
+Brindeau   Pascal,Delatte   Marc,1,1
+Brindeau   Pascal,Gérard   Raphaël,1,1
+Brindeau   Pascal,Berta   Philippe,1,1
+Brindeau   Pascal,Eliaou   Jean-François,1,1
+Brindeau   Pascal,Brunet   Anne-France,1,1
+Brindeau   Pascal,Dubré-Chirat   Nicole,1,1
+Brindeau   Pascal,Grandjean   Carole,1,1
+Brindeau   Pascal,Thill   Agnès,1,1
+Brindeau   Pascal,Minot   Maxime,1,1
+Brindeau   Pascal,Kuster   Brigitte,1,1
+Brindeau   Pascal,Peyron   Michèle,1,1
+Brindeau   Pascal,Gomez-Bassac   Valérie,1,1
+Brindeau   Pascal,Faucillon   Elsa,1,1
+Brindeau   Pascal,de Vaucouleurs   Michèle,1,1
+Brindeau   Pascal,Buchou   Stéphane,1,1
+Brindeau   Pascal,Romeiro Dias   Laëtitia,1,1
+Brindeau   Pascal,Bergé   Aurore,1,1
+Brindeau   Pascal,Pételle   Bénédicte,1,1
+Brindeau   Pascal,Chiche   Guillaume,1,1
+Brindeau   Pascal,Fuchs   Bruno,1,1
+Brindeau   Pascal,Thiébaut   Vincent,1,1
+Brindeau   Pascal,Chouat   Francis,1,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Delatte   Marc,0,1
+Hetzel   Patrick,Gérard   Raphaël,0,1
+Hetzel   Patrick,Berta   Philippe,0,1
+Hetzel   Patrick,Eliaou   Jean-François,0,1
+Hetzel   Patrick,Brunet   Anne-France,0,1
+Hetzel   Patrick,Dubré-Chirat   Nicole,0,1
+Hetzel   Patrick,Grandjean   Carole,0,1
+Hetzel   Patrick,Thill   Agnès,0,1
+Hetzel   Patrick,Minot   Maxime,0,1
+Hetzel   Patrick,Kuster   Brigitte,0,1
+Hetzel   Patrick,Peyron   Michèle,0,1
+Hetzel   Patrick,Gomez-Bassac   Valérie,0,1
+Hetzel   Patrick,Faucillon   Elsa,0,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,0,1
+Hetzel   Patrick,Buchou   Stéphane,0,1
+Hetzel   Patrick,Romeiro Dias   Laëtitia,0,1
+Hetzel   Patrick,Bergé   Aurore,0,1
+Hetzel   Patrick,Pételle   Bénédicte,0,1
+Hetzel   Patrick,Chiche   Guillaume,0,1
+Hetzel   Patrick,Fuchs   Bruno,0,1
+Hetzel   Patrick,Thiébaut   Vincent,0,1
+Hetzel   Patrick,Chouat   Francis,0,1
+Bazin   Thibault,Delatte   Marc,0,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Berta   Philippe,0,1
+Bazin   Thibault,Eliaou   Jean-François,0,1
+Bazin   Thibault,Brunet   Anne-France,0,1
+Bazin   Thibault,Dubré-Chirat   Nicole,0,1
+Bazin   Thibault,Grandjean   Carole,0,1
+Bazin   Thibault,Thill   Agnès,0,1
+Bazin   Thibault,Minot   Maxime,0,1
+Bazin   Thibault,Kuster   Brigitte,0,1
+Bazin   Thibault,Peyron   Michèle,0,1
+Bazin   Thibault,Gomez-Bassac   Valérie,0,1
+Bazin   Thibault,Faucillon   Elsa,0,1
+Bazin   Thibault,de Vaucouleurs   Michèle,0,1
+Bazin   Thibault,Buchou   Stéphane,0,1
+Bazin   Thibault,Romeiro Dias   Laëtitia,0,1
+Bazin   Thibault,Bergé   Aurore,0,1
+Bazin   Thibault,Pételle   Bénédicte,0,1
+Bazin   Thibault,Chiche   Guillaume,0,1
+Bazin   Thibault,Fuchs   Bruno,0,1
+Bazin   Thibault,Thiébaut   Vincent,0,1
+Bazin   Thibault,Chouat   Francis,0,1
+Delatte   Marc,Gérard   Raphaël,1,1
+Delatte   Marc,Berta   Philippe,1,1
+Delatte   Marc,Eliaou   Jean-François,1,1
+Delatte   Marc,Brunet   Anne-France,1,1
+Delatte   Marc,Dubré-Chirat   Nicole,1,1
+Delatte   Marc,Grandjean   Carole,1,1
+Delatte   Marc,Thill   Agnès,1,1
+Delatte   Marc,Minot   Maxime,1,1
+Delatte   Marc,Kuster   Brigitte,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Gomez-Bassac   Valérie,1,1
+Delatte   Marc,Faucillon   Elsa,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Buchou   Stéphane,1,1
+Delatte   Marc,Romeiro Dias   Laëtitia,1,1
+Delatte   Marc,Bergé   Aurore,1,1
+Delatte   Marc,Pételle   Bénédicte,1,1
+Delatte   Marc,Chiche   Guillaume,1,1
+Delatte   Marc,Fuchs   Bruno,1,1
+Delatte   Marc,Thiébaut   Vincent,1,1
+Delatte   Marc,Chouat   Francis,1,1
+Gérard   Raphaël,Berta   Philippe,1,1
+Gérard   Raphaël,Eliaou   Jean-François,1,1
+Gérard   Raphaël,Brunet   Anne-France,1,1
+Gérard   Raphaël,Dubré-Chirat   Nicole,1,1
+Gérard   Raphaël,Grandjean   Carole,1,1
+Gérard   Raphaël,Thill   Agnès,1,1
+Gérard   Raphaël,Minot   Maxime,1,1
+Gérard   Raphaël,Kuster   Brigitte,1,1
+Gérard   Raphaël,Peyron   Michèle,1,1
+Gérard   Raphaël,Gomez-Bassac   Valérie,1,1
+Gérard   Raphaël,Faucillon   Elsa,1,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,1,1
+Gérard   Raphaël,Buchou   Stéphane,1,1
+Gérard   Raphaël,Romeiro Dias   Laëtitia,1,1
+Gérard   Raphaël,Bergé   Aurore,1,1
+Gérard   Raphaël,Pételle   Bénédicte,1,1
+Gérard   Raphaël,Chiche   Guillaume,1,1
+Gérard   Raphaël,Fuchs   Bruno,1,1
+Gérard   Raphaël,Thiébaut   Vincent,1,1
+Gérard   Raphaël,Chouat   Francis,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Brunet   Anne-France,1,1
+Berta   Philippe,Dubré-Chirat   Nicole,1,1
+Berta   Philippe,Grandjean   Carole,1,1
+Berta   Philippe,Thill   Agnès,1,1
+Berta   Philippe,Minot   Maxime,1,1
+Berta   Philippe,Kuster   Brigitte,1,1
+Berta   Philippe,Peyron   Michèle,1,1
+Berta   Philippe,Gomez-Bassac   Valérie,1,1
+Berta   Philippe,Faucillon   Elsa,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Buchou   Stéphane,1,1
+Berta   Philippe,Romeiro Dias   Laëtitia,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Pételle   Bénédicte,1,1
+Berta   Philippe,Chiche   Guillaume,1,1
+Berta   Philippe,Fuchs   Bruno,1,1
+Berta   Philippe,Thiébaut   Vincent,1,1
+Berta   Philippe,Chouat   Francis,1,1
+Eliaou   Jean-François,Brunet   Anne-France,1,1
+Eliaou   Jean-François,Dubré-Chirat   Nicole,1,1
+Eliaou   Jean-François,Grandjean   Carole,1,1
+Eliaou   Jean-François,Thill   Agnès,1,1
+Eliaou   Jean-François,Minot   Maxime,1,1
+Eliaou   Jean-François,Kuster   Brigitte,1,1
+Eliaou   Jean-François,Peyron   Michèle,1,1
+Eliaou   Jean-François,Gomez-Bassac   Valérie,1,1
+Eliaou   Jean-François,Faucillon   Elsa,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Romeiro Dias   Laëtitia,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Pételle   Bénédicte,1,1
+Eliaou   Jean-François,Chiche   Guillaume,1,1
+Eliaou   Jean-François,Fuchs   Bruno,1,1
+Eliaou   Jean-François,Thiébaut   Vincent,1,1
+Eliaou   Jean-François,Chouat   Francis,1,1
+Brunet   Anne-France,Dubré-Chirat   Nicole,1,1
+Brunet   Anne-France,Grandjean   Carole,1,1
+Brunet   Anne-France,Thill   Agnès,1,1
+Brunet   Anne-France,Minot   Maxime,1,1
+Brunet   Anne-France,Kuster   Brigitte,1,1
+Brunet   Anne-France,Peyron   Michèle,1,1
+Brunet   Anne-France,Gomez-Bassac   Valérie,1,1
+Brunet   Anne-France,Faucillon   Elsa,1,1
+Brunet   Anne-France,de Vaucouleurs   Michèle,1,1
+Brunet   Anne-France,Buchou   Stéphane,1,1
+Brunet   Anne-France,Romeiro Dias   Laëtitia,1,1
+Brunet   Anne-France,Bergé   Aurore,1,1
+Brunet   Anne-France,Pételle   Bénédicte,1,1
+Brunet   Anne-France,Chiche   Guillaume,1,1
+Brunet   Anne-France,Fuchs   Bruno,1,1
+Brunet   Anne-France,Thiébaut   Vincent,1,1
+Brunet   Anne-France,Chouat   Francis,1,1
+Dubré-Chirat   Nicole,Grandjean   Carole,1,1
+Dubré-Chirat   Nicole,Thill   Agnès,1,1
+Dubré-Chirat   Nicole,Minot   Maxime,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,1,1
+Dubré-Chirat   Nicole,Peyron   Michèle,1,1
+Dubré-Chirat   Nicole,Gomez-Bassac   Valérie,1,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Buchou   Stéphane,1,1
+Dubré-Chirat   Nicole,Romeiro Dias   Laëtitia,1,1
+Dubré-Chirat   Nicole,Bergé   Aurore,1,1
+Dubré-Chirat   Nicole,Pételle   Bénédicte,1,1
+Dubré-Chirat   Nicole,Chiche   Guillaume,1,1
+Dubré-Chirat   Nicole,Fuchs   Bruno,1,1
+Dubré-Chirat   Nicole,Thiébaut   Vincent,1,1
+Dubré-Chirat   Nicole,Chouat   Francis,1,1
+Grandjean   Carole,Thill   Agnès,1,1
+Grandjean   Carole,Minot   Maxime,1,1
+Grandjean   Carole,Kuster   Brigitte,1,1
+Grandjean   Carole,Peyron   Michèle,1,1
+Grandjean   Carole,Gomez-Bassac   Valérie,1,1
+Grandjean   Carole,Faucillon   Elsa,1,1
+Grandjean   Carole,de Vaucouleurs   Michèle,1,1
+Grandjean   Carole,Buchou   Stéphane,1,1
+Grandjean   Carole,Romeiro Dias   Laëtitia,1,1
+Grandjean   Carole,Bergé   Aurore,1,1
+Grandjean   Carole,Pételle   Bénédicte,1,1
+Grandjean   Carole,Chiche   Guillaume,1,1
+Grandjean   Carole,Fuchs   Bruno,1,1
+Grandjean   Carole,Thiébaut   Vincent,1,1
+Grandjean   Carole,Chouat   Francis,1,1
+Thill   Agnès,Minot   Maxime,1,1
+Thill   Agnès,Kuster   Brigitte,1,1
+Thill   Agnès,Peyron   Michèle,1,1
+Thill   Agnès,Gomez-Bassac   Valérie,1,1
+Thill   Agnès,Faucillon   Elsa,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Buchou   Stéphane,1,1
+Thill   Agnès,Romeiro Dias   Laëtitia,1,1
+Thill   Agnès,Bergé   Aurore,1,1
+Thill   Agnès,Pételle   Bénédicte,1,1
+Thill   Agnès,Chiche   Guillaume,1,1
+Thill   Agnès,Fuchs   Bruno,1,1
+Thill   Agnès,Thiébaut   Vincent,1,1
+Thill   Agnès,Chouat   Francis,1,1
+Minot   Maxime,Kuster   Brigitte,1,1
+Minot   Maxime,Peyron   Michèle,1,1
+Minot   Maxime,Gomez-Bassac   Valérie,1,1
+Minot   Maxime,Faucillon   Elsa,1,1
+Minot   Maxime,de Vaucouleurs   Michèle,1,1
+Minot   Maxime,Buchou   Stéphane,1,1
+Minot   Maxime,Romeiro Dias   Laëtitia,1,1
+Minot   Maxime,Bergé   Aurore,1,1
+Minot   Maxime,Pételle   Bénédicte,1,1
+Minot   Maxime,Chiche   Guillaume,1,1
+Minot   Maxime,Fuchs   Bruno,1,1
+Minot   Maxime,Thiébaut   Vincent,1,1
+Minot   Maxime,Chouat   Francis,1,1
+Kuster   Brigitte,Peyron   Michèle,1,1
+Kuster   Brigitte,Gomez-Bassac   Valérie,1,1
+Kuster   Brigitte,Faucillon   Elsa,1,1
+Kuster   Brigitte,de Vaucouleurs   Michèle,1,1
+Kuster   Brigitte,Buchou   Stéphane,1,1
+Kuster   Brigitte,Romeiro Dias   Laëtitia,1,1
+Kuster   Brigitte,Bergé   Aurore,1,1
+Kuster   Brigitte,Pételle   Bénédicte,1,1
+Kuster   Brigitte,Chiche   Guillaume,1,1
+Kuster   Brigitte,Fuchs   Bruno,1,1
+Kuster   Brigitte,Thiébaut   Vincent,1,1
+Kuster   Brigitte,Chouat   Francis,1,1
+Peyron   Michèle,Gomez-Bassac   Valérie,1,1
+Peyron   Michèle,Faucillon   Elsa,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Buchou   Stéphane,1,1
+Peyron   Michèle,Romeiro Dias   Laëtitia,1,1
+Peyron   Michèle,Bergé   Aurore,1,1
+Peyron   Michèle,Pételle   Bénédicte,1,1
+Peyron   Michèle,Chiche   Guillaume,1,1
+Peyron   Michèle,Fuchs   Bruno,1,1
+Peyron   Michèle,Thiébaut   Vincent,1,1
+Peyron   Michèle,Chouat   Francis,1,1
+Gomez-Bassac   Valérie,Faucillon   Elsa,1,1
+Gomez-Bassac   Valérie,de Vaucouleurs   Michèle,1,1
+Gomez-Bassac   Valérie,Buchou   Stéphane,1,1
+Gomez-Bassac   Valérie,Romeiro Dias   Laëtitia,1,1
+Gomez-Bassac   Valérie,Bergé   Aurore,1,1
+Gomez-Bassac   Valérie,Pételle   Bénédicte,1,1
+Gomez-Bassac   Valérie,Chiche   Guillaume,1,1
+Gomez-Bassac   Valérie,Fuchs   Bruno,1,1
+Gomez-Bassac   Valérie,Thiébaut   Vincent,1,1
+Gomez-Bassac   Valérie,Chouat   Francis,1,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,1,1
+Faucillon   Elsa,Buchou   Stéphane,1,1
+Faucillon   Elsa,Romeiro Dias   Laëtitia,1,1
+Faucillon   Elsa,Bergé   Aurore,1,1
+Faucillon   Elsa,Pételle   Bénédicte,1,1
+Faucillon   Elsa,Chiche   Guillaume,1,1
+Faucillon   Elsa,Fuchs   Bruno,1,1
+Faucillon   Elsa,Thiébaut   Vincent,1,1
+Faucillon   Elsa,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,1,1
+de Vaucouleurs   Michèle,Romeiro Dias   Laëtitia,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Pételle   Bénédicte,1,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,1,1
+de Vaucouleurs   Michèle,Fuchs   Bruno,1,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,1,1
+de Vaucouleurs   Michèle,Chouat   Francis,1,1
+Buchou   Stéphane,Romeiro Dias   Laëtitia,1,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Chiche   Guillaume,1,1
+Buchou   Stéphane,Fuchs   Bruno,1,1
+Buchou   Stéphane,Thiébaut   Vincent,1,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Romeiro Dias   Laëtitia,Bergé   Aurore,1,1
+Romeiro Dias   Laëtitia,Pételle   Bénédicte,1,1
+Romeiro Dias   Laëtitia,Chiche   Guillaume,1,1
+Romeiro Dias   Laëtitia,Fuchs   Bruno,1,1
+Romeiro Dias   Laëtitia,Thiébaut   Vincent,1,1
+Romeiro Dias   Laëtitia,Chouat   Francis,1,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Chiche   Guillaume,1,1
+Bergé   Aurore,Fuchs   Bruno,1,1
+Bergé   Aurore,Thiébaut   Vincent,1,1
+Bergé   Aurore,Chouat   Francis,1,1
+Pételle   Bénédicte,Chiche   Guillaume,1,1
+Pételle   Bénédicte,Fuchs   Bruno,1,1
+Pételle   Bénédicte,Thiébaut   Vincent,1,1
+Pételle   Bénédicte,Chouat   Francis,1,1
+Chiche   Guillaume,Fuchs   Bruno,1,1
+Chiche   Guillaume,Thiébaut   Vincent,1,1
+Chiche   Guillaume,Chouat   Francis,1,1
+Fuchs   Bruno,Thiébaut   Vincent,1,1
+Fuchs   Bruno,Chouat   Francis,1,1
+Thiébaut   Vincent,Chouat   Francis,1,1

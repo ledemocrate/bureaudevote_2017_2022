@@ -1,0 +1,2416 @@
+from,to,vote_commun,loi_commun
+Dumont   Laurence,Habib   David,1,1
+Dumont   Laurence,Le Fur   Marc,1,1
+Dumont   Laurence,Gosselin   Philippe,1,1
+Dumont   Laurence,Favennec-Bécot   Yannick,0,1
+Dumont   Laurence,Huyghe   Sébastien,1,1
+Dumont   Laurence,Chassaigne   André,0,1
+Dumont   Laurence,Zumkeller   Michel,0,1
+Dumont   Laurence,Breton   Xavier,1,1
+Dumont   Laurence,Vigier   Philippe,0,1
+Dumont   Laurence,Benoit   Thierry,0,1
+Dumont   Laurence,Dalloz   Marie-Christine,1,1
+Dumont   Laurence,Pinel   Sylvia,0,1
+Dumont   Laurence,Untermaier   Cécile,0,1
+Dumont   Laurence,Questel   Bruno,0,1
+Dumont   Laurence,Valentin   Isabelle,1,1
+Dumont   Laurence,Maillard   Sylvain,0,1
+Dumont   Laurence,Larive   Michel,0,1
+Dumont   Laurence,Roussel   Cédric,0,1
+Dumont   Laurence,Dharréville   Pierre,0,1
+Dumont   Laurence,Laqhila   Mohamed,0,1
+Dumont   Laurence,Blanchet   Christophe,0,1
+Dumont   Laurence,Tuffnell   Frédérique,0,1
+Dumont   Laurence,Castellani   Michel,0,1
+Dumont   Laurence,Moreau   Jean-Baptiste,0,1
+Dumont   Laurence,Clapot   Mireille,0,1
+Dumont   Laurence,Chapelier   Annie,0,1
+Dumont   Laurence,Balanant   Erwan,0,1
+Dumont   Laurence,Ménard   Emmanuelle,1,1
+Dumont   Laurence,Euzet   Christophe,0,1
+Dumont   Laurence,Mirallès   Patricia,0,1
+Dumont   Laurence,Colas-Roy   Jean-Charles,0,1
+Dumont   Laurence,Bachelier   Florian,0,1
+Dumont   Laurence,Chalumeau   Philippe,0,1
+Dumont   Laurence,Labaronne   Daniel,0,1
+Dumont   Laurence,Thillaye   Sabine,0,1
+Dumont   Laurence,Jacquier-Laforge   Élodie,0,1
+Dumont   Laurence,Brulebois   Danielle,0,1
+Dumont   Laurence,Pradié   Aurélien,1,1
+Dumont   Laurence,Dubré-Chirat   Nicole,0,1
+Dumont   Laurence,Bolo   Philippe,0,1
+Dumont   Laurence,Sorre   Bertrand,0,1
+Dumont   Laurence,Cariou   Émilie,0,1
+Dumont   Laurence,Trisse   Nicole,0,1
+Dumont   Laurence,Osson   Catherine,0,1
+Dumont   Laurence,Bureau-Bonnard   Carole,0,1
+Dumont   Laurence,Minot   Maxime,1,1
+Dumont   Laurence,Dumont   Pierre-Henri,1,1
+Dumont   Laurence,Waserman   Sylvain,0,1
+Dumont   Laurence,Descrozaille   Frédéric,0,1
+Dumont   Laurence,Panot   Mathilde,0,1
+Dumont   Laurence,Da Silva   Dominique,0,1
+Dumont   Laurence,El Guerrab   M'jid,0,1
+Dumont   Laurence,Vuilletet   Guillaume,0,1
+Dumont   Laurence,Gouffier-Cha   Guillaume,0,1
+Dumont   Laurence,Schellenberger   Raphaël,1,1
+Dumont   Laurence,Fontenel-Personne   Pascale,0,1
+Dumont   Laurence,Lenne   Marion,0,1
+Dumont   Laurence,Le Gendre   Gilles,0,1
+Dumont   Laurence,Viry   Stéphane,1,1
+Dumont   Laurence,Terlier   Jean,0,1
+Dumont   Laurence,Michel-Kleisbauer   Philippe,0,1
+Dumont   Laurence,Florennes   Isabelle,0,1
+Dumont   Laurence,Calvez   Céline,0,1
+Dumont   Laurence,Boucard   Ian,1,1
+Dumont   Laurence,Lebec   Marie,0,1
+Dumont   Laurence,Guévenoux   Marie,0,1
+Dumont   Laurence,Braun-Pivet   Yaël,0,1
+Dumont   Laurence,Millienne   Bruno,0,1
+Dumont   Laurence,Dirx   Benjamin,0,1
+Habib   David,Le Fur   Marc,1,1
+Habib   David,Gosselin   Philippe,1,1
+Habib   David,Favennec-Bécot   Yannick,0,1
+Habib   David,Huyghe   Sébastien,1,1
+Habib   David,Chassaigne   André,0,1
+Habib   David,Zumkeller   Michel,0,1
+Habib   David,Breton   Xavier,1,1
+Habib   David,Vigier   Philippe,0,1
+Habib   David,Benoit   Thierry,0,1
+Habib   David,Dalloz   Marie-Christine,1,1
+Habib   David,Pinel   Sylvia,0,1
+Habib   David,Untermaier   Cécile,0,1
+Habib   David,Questel   Bruno,0,1
+Habib   David,Valentin   Isabelle,1,1
+Habib   David,Maillard   Sylvain,0,1
+Habib   David,Larive   Michel,0,1
+Habib   David,Roussel   Cédric,0,1
+Habib   David,Dharréville   Pierre,0,1
+Habib   David,Laqhila   Mohamed,0,1
+Habib   David,Blanchet   Christophe,0,1
+Habib   David,Tuffnell   Frédérique,0,1
+Habib   David,Castellani   Michel,0,1
+Habib   David,Moreau   Jean-Baptiste,0,1
+Habib   David,Clapot   Mireille,0,1
+Habib   David,Chapelier   Annie,0,1
+Habib   David,Balanant   Erwan,0,1
+Habib   David,Ménard   Emmanuelle,1,1
+Habib   David,Euzet   Christophe,0,1
+Habib   David,Mirallès   Patricia,0,1
+Habib   David,Colas-Roy   Jean-Charles,0,1
+Habib   David,Bachelier   Florian,0,1
+Habib   David,Chalumeau   Philippe,0,1
+Habib   David,Labaronne   Daniel,0,1
+Habib   David,Thillaye   Sabine,0,1
+Habib   David,Jacquier-Laforge   Élodie,0,1
+Habib   David,Brulebois   Danielle,0,1
+Habib   David,Pradié   Aurélien,1,1
+Habib   David,Dubré-Chirat   Nicole,0,1
+Habib   David,Bolo   Philippe,0,1
+Habib   David,Sorre   Bertrand,0,1
+Habib   David,Cariou   Émilie,0,1
+Habib   David,Trisse   Nicole,0,1
+Habib   David,Osson   Catherine,0,1
+Habib   David,Bureau-Bonnard   Carole,0,1
+Habib   David,Minot   Maxime,1,1
+Habib   David,Dumont   Pierre-Henri,1,1
+Habib   David,Waserman   Sylvain,0,1
+Habib   David,Descrozaille   Frédéric,0,1
+Habib   David,Panot   Mathilde,0,1
+Habib   David,Da Silva   Dominique,0,1
+Habib   David,El Guerrab   M'jid,0,1
+Habib   David,Vuilletet   Guillaume,0,1
+Habib   David,Gouffier-Cha   Guillaume,0,1
+Habib   David,Schellenberger   Raphaël,1,1
+Habib   David,Fontenel-Personne   Pascale,0,1
+Habib   David,Lenne   Marion,0,1
+Habib   David,Le Gendre   Gilles,0,1
+Habib   David,Viry   Stéphane,1,1
+Habib   David,Terlier   Jean,0,1
+Habib   David,Michel-Kleisbauer   Philippe,0,1
+Habib   David,Florennes   Isabelle,0,1
+Habib   David,Calvez   Céline,0,1
+Habib   David,Boucard   Ian,1,1
+Habib   David,Lebec   Marie,0,1
+Habib   David,Guévenoux   Marie,0,1
+Habib   David,Braun-Pivet   Yaël,0,1
+Habib   David,Millienne   Bruno,0,1
+Habib   David,Dirx   Benjamin,0,1
+Le Fur   Marc,Gosselin   Philippe,1,1
+Le Fur   Marc,Favennec-Bécot   Yannick,0,1
+Le Fur   Marc,Huyghe   Sébastien,1,1
+Le Fur   Marc,Chassaigne   André,0,1
+Le Fur   Marc,Zumkeller   Michel,0,1
+Le Fur   Marc,Breton   Xavier,1,1
+Le Fur   Marc,Vigier   Philippe,0,1
+Le Fur   Marc,Benoit   Thierry,0,1
+Le Fur   Marc,Dalloz   Marie-Christine,1,1
+Le Fur   Marc,Pinel   Sylvia,0,1
+Le Fur   Marc,Untermaier   Cécile,0,1
+Le Fur   Marc,Questel   Bruno,0,1
+Le Fur   Marc,Valentin   Isabelle,1,1
+Le Fur   Marc,Maillard   Sylvain,0,1
+Le Fur   Marc,Larive   Michel,0,1
+Le Fur   Marc,Roussel   Cédric,0,1
+Le Fur   Marc,Dharréville   Pierre,0,1
+Le Fur   Marc,Laqhila   Mohamed,0,1
+Le Fur   Marc,Blanchet   Christophe,0,1
+Le Fur   Marc,Tuffnell   Frédérique,0,1
+Le Fur   Marc,Castellani   Michel,0,1
+Le Fur   Marc,Moreau   Jean-Baptiste,0,1
+Le Fur   Marc,Clapot   Mireille,0,1
+Le Fur   Marc,Chapelier   Annie,0,1
+Le Fur   Marc,Balanant   Erwan,0,1
+Le Fur   Marc,Ménard   Emmanuelle,1,1
+Le Fur   Marc,Euzet   Christophe,0,1
+Le Fur   Marc,Mirallès   Patricia,0,1
+Le Fur   Marc,Colas-Roy   Jean-Charles,0,1
+Le Fur   Marc,Bachelier   Florian,0,1
+Le Fur   Marc,Chalumeau   Philippe,0,1
+Le Fur   Marc,Labaronne   Daniel,0,1
+Le Fur   Marc,Thillaye   Sabine,0,1
+Le Fur   Marc,Jacquier-Laforge   Élodie,0,1
+Le Fur   Marc,Brulebois   Danielle,0,1
+Le Fur   Marc,Pradié   Aurélien,1,1
+Le Fur   Marc,Dubré-Chirat   Nicole,0,1
+Le Fur   Marc,Bolo   Philippe,0,1
+Le Fur   Marc,Sorre   Bertrand,0,1
+Le Fur   Marc,Cariou   Émilie,0,1
+Le Fur   Marc,Trisse   Nicole,0,1
+Le Fur   Marc,Osson   Catherine,0,1
+Le Fur   Marc,Bureau-Bonnard   Carole,0,1
+Le Fur   Marc,Minot   Maxime,1,1
+Le Fur   Marc,Dumont   Pierre-Henri,1,1
+Le Fur   Marc,Waserman   Sylvain,0,1
+Le Fur   Marc,Descrozaille   Frédéric,0,1
+Le Fur   Marc,Panot   Mathilde,0,1
+Le Fur   Marc,Da Silva   Dominique,0,1
+Le Fur   Marc,El Guerrab   M'jid,0,1
+Le Fur   Marc,Vuilletet   Guillaume,0,1
+Le Fur   Marc,Gouffier-Cha   Guillaume,0,1
+Le Fur   Marc,Schellenberger   Raphaël,1,1
+Le Fur   Marc,Fontenel-Personne   Pascale,0,1
+Le Fur   Marc,Lenne   Marion,0,1
+Le Fur   Marc,Le Gendre   Gilles,0,1
+Le Fur   Marc,Viry   Stéphane,1,1
+Le Fur   Marc,Terlier   Jean,0,1
+Le Fur   Marc,Michel-Kleisbauer   Philippe,0,1
+Le Fur   Marc,Florennes   Isabelle,0,1
+Le Fur   Marc,Calvez   Céline,0,1
+Le Fur   Marc,Boucard   Ian,1,1
+Le Fur   Marc,Lebec   Marie,0,1
+Le Fur   Marc,Guévenoux   Marie,0,1
+Le Fur   Marc,Braun-Pivet   Yaël,0,1
+Le Fur   Marc,Millienne   Bruno,0,1
+Le Fur   Marc,Dirx   Benjamin,0,1
+Gosselin   Philippe,Favennec-Bécot   Yannick,0,1
+Gosselin   Philippe,Huyghe   Sébastien,1,1
+Gosselin   Philippe,Chassaigne   André,0,1
+Gosselin   Philippe,Zumkeller   Michel,0,1
+Gosselin   Philippe,Breton   Xavier,1,1
+Gosselin   Philippe,Vigier   Philippe,0,1
+Gosselin   Philippe,Benoit   Thierry,0,1
+Gosselin   Philippe,Dalloz   Marie-Christine,1,1
+Gosselin   Philippe,Pinel   Sylvia,0,1
+Gosselin   Philippe,Untermaier   Cécile,0,1
+Gosselin   Philippe,Questel   Bruno,0,1
+Gosselin   Philippe,Valentin   Isabelle,1,1
+Gosselin   Philippe,Maillard   Sylvain,0,1
+Gosselin   Philippe,Larive   Michel,0,1
+Gosselin   Philippe,Roussel   Cédric,0,1
+Gosselin   Philippe,Dharréville   Pierre,0,1
+Gosselin   Philippe,Laqhila   Mohamed,0,1
+Gosselin   Philippe,Blanchet   Christophe,0,1
+Gosselin   Philippe,Tuffnell   Frédérique,0,1
+Gosselin   Philippe,Castellani   Michel,0,1
+Gosselin   Philippe,Moreau   Jean-Baptiste,0,1
+Gosselin   Philippe,Clapot   Mireille,0,1
+Gosselin   Philippe,Chapelier   Annie,0,1
+Gosselin   Philippe,Balanant   Erwan,0,1
+Gosselin   Philippe,Ménard   Emmanuelle,1,1
+Gosselin   Philippe,Euzet   Christophe,0,1
+Gosselin   Philippe,Mirallès   Patricia,0,1
+Gosselin   Philippe,Colas-Roy   Jean-Charles,0,1
+Gosselin   Philippe,Bachelier   Florian,0,1
+Gosselin   Philippe,Chalumeau   Philippe,0,1
+Gosselin   Philippe,Labaronne   Daniel,0,1
+Gosselin   Philippe,Thillaye   Sabine,0,1
+Gosselin   Philippe,Jacquier-Laforge   Élodie,0,1
+Gosselin   Philippe,Brulebois   Danielle,0,1
+Gosselin   Philippe,Pradié   Aurélien,1,1
+Gosselin   Philippe,Dubré-Chirat   Nicole,0,1
+Gosselin   Philippe,Bolo   Philippe,0,1
+Gosselin   Philippe,Sorre   Bertrand,0,1
+Gosselin   Philippe,Cariou   Émilie,0,1
+Gosselin   Philippe,Trisse   Nicole,0,1
+Gosselin   Philippe,Osson   Catherine,0,1
+Gosselin   Philippe,Bureau-Bonnard   Carole,0,1
+Gosselin   Philippe,Minot   Maxime,1,1
+Gosselin   Philippe,Dumont   Pierre-Henri,1,1
+Gosselin   Philippe,Waserman   Sylvain,0,1
+Gosselin   Philippe,Descrozaille   Frédéric,0,1
+Gosselin   Philippe,Panot   Mathilde,0,1
+Gosselin   Philippe,Da Silva   Dominique,0,1
+Gosselin   Philippe,El Guerrab   M'jid,0,1
+Gosselin   Philippe,Vuilletet   Guillaume,0,1
+Gosselin   Philippe,Gouffier-Cha   Guillaume,0,1
+Gosselin   Philippe,Schellenberger   Raphaël,1,1
+Gosselin   Philippe,Fontenel-Personne   Pascale,0,1
+Gosselin   Philippe,Lenne   Marion,0,1
+Gosselin   Philippe,Le Gendre   Gilles,0,1
+Gosselin   Philippe,Viry   Stéphane,1,1
+Gosselin   Philippe,Terlier   Jean,0,1
+Gosselin   Philippe,Michel-Kleisbauer   Philippe,0,1
+Gosselin   Philippe,Florennes   Isabelle,0,1
+Gosselin   Philippe,Calvez   Céline,0,1
+Gosselin   Philippe,Boucard   Ian,1,1
+Gosselin   Philippe,Lebec   Marie,0,1
+Gosselin   Philippe,Guévenoux   Marie,0,1
+Gosselin   Philippe,Braun-Pivet   Yaël,0,1
+Gosselin   Philippe,Millienne   Bruno,0,1
+Gosselin   Philippe,Dirx   Benjamin,0,1
+Favennec-Bécot   Yannick,Huyghe   Sébastien,0,1
+Favennec-Bécot   Yannick,Chassaigne   André,0,1
+Favennec-Bécot   Yannick,Zumkeller   Michel,1,1
+Favennec-Bécot   Yannick,Breton   Xavier,0,1
+Favennec-Bécot   Yannick,Vigier   Philippe,1,1
+Favennec-Bécot   Yannick,Benoit   Thierry,0,1
+Favennec-Bécot   Yannick,Dalloz   Marie-Christine,0,1
+Favennec-Bécot   Yannick,Pinel   Sylvia,1,1
+Favennec-Bécot   Yannick,Untermaier   Cécile,0,1
+Favennec-Bécot   Yannick,Questel   Bruno,1,1
+Favennec-Bécot   Yannick,Valentin   Isabelle,0,1
+Favennec-Bécot   Yannick,Maillard   Sylvain,1,1
+Favennec-Bécot   Yannick,Larive   Michel,0,1
+Favennec-Bécot   Yannick,Roussel   Cédric,1,1
+Favennec-Bécot   Yannick,Dharréville   Pierre,0,1
+Favennec-Bécot   Yannick,Laqhila   Mohamed,1,1
+Favennec-Bécot   Yannick,Blanchet   Christophe,1,1
+Favennec-Bécot   Yannick,Tuffnell   Frédérique,1,1
+Favennec-Bécot   Yannick,Castellani   Michel,1,1
+Favennec-Bécot   Yannick,Moreau   Jean-Baptiste,1,1
+Favennec-Bécot   Yannick,Clapot   Mireille,1,1
+Favennec-Bécot   Yannick,Chapelier   Annie,1,1
+Favennec-Bécot   Yannick,Balanant   Erwan,1,1
+Favennec-Bécot   Yannick,Ménard   Emmanuelle,0,1
+Favennec-Bécot   Yannick,Euzet   Christophe,1,1
+Favennec-Bécot   Yannick,Mirallès   Patricia,1,1
+Favennec-Bécot   Yannick,Colas-Roy   Jean-Charles,1,1
+Favennec-Bécot   Yannick,Bachelier   Florian,1,1
+Favennec-Bécot   Yannick,Chalumeau   Philippe,1,1
+Favennec-Bécot   Yannick,Labaronne   Daniel,1,1
+Favennec-Bécot   Yannick,Thillaye   Sabine,1,1
+Favennec-Bécot   Yannick,Jacquier-Laforge   Élodie,1,1
+Favennec-Bécot   Yannick,Brulebois   Danielle,1,1
+Favennec-Bécot   Yannick,Pradié   Aurélien,0,1
+Favennec-Bécot   Yannick,Dubré-Chirat   Nicole,1,1
+Favennec-Bécot   Yannick,Bolo   Philippe,1,1
+Favennec-Bécot   Yannick,Sorre   Bertrand,1,1
+Favennec-Bécot   Yannick,Cariou   Émilie,1,1
+Favennec-Bécot   Yannick,Trisse   Nicole,1,1
+Favennec-Bécot   Yannick,Osson   Catherine,1,1
+Favennec-Bécot   Yannick,Bureau-Bonnard   Carole,1,1
+Favennec-Bécot   Yannick,Minot   Maxime,0,1
+Favennec-Bécot   Yannick,Dumont   Pierre-Henri,0,1
+Favennec-Bécot   Yannick,Waserman   Sylvain,1,1
+Favennec-Bécot   Yannick,Descrozaille   Frédéric,1,1
+Favennec-Bécot   Yannick,Panot   Mathilde,0,1
+Favennec-Bécot   Yannick,Da Silva   Dominique,1,1
+Favennec-Bécot   Yannick,El Guerrab   M'jid,1,1
+Favennec-Bécot   Yannick,Vuilletet   Guillaume,1,1
+Favennec-Bécot   Yannick,Gouffier-Cha   Guillaume,1,1
+Favennec-Bécot   Yannick,Schellenberger   Raphaël,0,1
+Favennec-Bécot   Yannick,Fontenel-Personne   Pascale,1,1
+Favennec-Bécot   Yannick,Lenne   Marion,1,1
+Favennec-Bécot   Yannick,Le Gendre   Gilles,1,1
+Favennec-Bécot   Yannick,Viry   Stéphane,0,1
+Favennec-Bécot   Yannick,Terlier   Jean,1,1
+Favennec-Bécot   Yannick,Michel-Kleisbauer   Philippe,1,1
+Favennec-Bécot   Yannick,Florennes   Isabelle,1,1
+Favennec-Bécot   Yannick,Calvez   Céline,1,1
+Favennec-Bécot   Yannick,Boucard   Ian,0,1
+Favennec-Bécot   Yannick,Lebec   Marie,1,1
+Favennec-Bécot   Yannick,Guévenoux   Marie,1,1
+Favennec-Bécot   Yannick,Braun-Pivet   Yaël,1,1
+Favennec-Bécot   Yannick,Millienne   Bruno,1,1
+Favennec-Bécot   Yannick,Dirx   Benjamin,1,1
+Huyghe   Sébastien,Chassaigne   André,0,1
+Huyghe   Sébastien,Zumkeller   Michel,0,1
+Huyghe   Sébastien,Breton   Xavier,1,1
+Huyghe   Sébastien,Vigier   Philippe,0,1
+Huyghe   Sébastien,Benoit   Thierry,0,1
+Huyghe   Sébastien,Dalloz   Marie-Christine,1,1
+Huyghe   Sébastien,Pinel   Sylvia,0,1
+Huyghe   Sébastien,Untermaier   Cécile,0,1
+Huyghe   Sébastien,Questel   Bruno,0,1
+Huyghe   Sébastien,Valentin   Isabelle,1,1
+Huyghe   Sébastien,Maillard   Sylvain,0,1
+Huyghe   Sébastien,Larive   Michel,0,1
+Huyghe   Sébastien,Roussel   Cédric,0,1
+Huyghe   Sébastien,Dharréville   Pierre,0,1
+Huyghe   Sébastien,Laqhila   Mohamed,0,1
+Huyghe   Sébastien,Blanchet   Christophe,0,1
+Huyghe   Sébastien,Tuffnell   Frédérique,0,1
+Huyghe   Sébastien,Castellani   Michel,0,1
+Huyghe   Sébastien,Moreau   Jean-Baptiste,0,1
+Huyghe   Sébastien,Clapot   Mireille,0,1
+Huyghe   Sébastien,Chapelier   Annie,0,1
+Huyghe   Sébastien,Balanant   Erwan,0,1
+Huyghe   Sébastien,Ménard   Emmanuelle,1,1
+Huyghe   Sébastien,Euzet   Christophe,0,1
+Huyghe   Sébastien,Mirallès   Patricia,0,1
+Huyghe   Sébastien,Colas-Roy   Jean-Charles,0,1
+Huyghe   Sébastien,Bachelier   Florian,0,1
+Huyghe   Sébastien,Chalumeau   Philippe,0,1
+Huyghe   Sébastien,Labaronne   Daniel,0,1
+Huyghe   Sébastien,Thillaye   Sabine,0,1
+Huyghe   Sébastien,Jacquier-Laforge   Élodie,0,1
+Huyghe   Sébastien,Brulebois   Danielle,0,1
+Huyghe   Sébastien,Pradié   Aurélien,1,1
+Huyghe   Sébastien,Dubré-Chirat   Nicole,0,1
+Huyghe   Sébastien,Bolo   Philippe,0,1
+Huyghe   Sébastien,Sorre   Bertrand,0,1
+Huyghe   Sébastien,Cariou   Émilie,0,1
+Huyghe   Sébastien,Trisse   Nicole,0,1
+Huyghe   Sébastien,Osson   Catherine,0,1
+Huyghe   Sébastien,Bureau-Bonnard   Carole,0,1
+Huyghe   Sébastien,Minot   Maxime,1,1
+Huyghe   Sébastien,Dumont   Pierre-Henri,1,1
+Huyghe   Sébastien,Waserman   Sylvain,0,1
+Huyghe   Sébastien,Descrozaille   Frédéric,0,1
+Huyghe   Sébastien,Panot   Mathilde,0,1
+Huyghe   Sébastien,Da Silva   Dominique,0,1
+Huyghe   Sébastien,El Guerrab   M'jid,0,1
+Huyghe   Sébastien,Vuilletet   Guillaume,0,1
+Huyghe   Sébastien,Gouffier-Cha   Guillaume,0,1
+Huyghe   Sébastien,Schellenberger   Raphaël,1,1
+Huyghe   Sébastien,Fontenel-Personne   Pascale,0,1
+Huyghe   Sébastien,Lenne   Marion,0,1
+Huyghe   Sébastien,Le Gendre   Gilles,0,1
+Huyghe   Sébastien,Viry   Stéphane,1,1
+Huyghe   Sébastien,Terlier   Jean,0,1
+Huyghe   Sébastien,Michel-Kleisbauer   Philippe,0,1
+Huyghe   Sébastien,Florennes   Isabelle,0,1
+Huyghe   Sébastien,Calvez   Céline,0,1
+Huyghe   Sébastien,Boucard   Ian,1,1
+Huyghe   Sébastien,Lebec   Marie,0,1
+Huyghe   Sébastien,Guévenoux   Marie,0,1
+Huyghe   Sébastien,Braun-Pivet   Yaël,0,1
+Huyghe   Sébastien,Millienne   Bruno,0,1
+Huyghe   Sébastien,Dirx   Benjamin,0,1
+Chassaigne   André,Zumkeller   Michel,0,1
+Chassaigne   André,Breton   Xavier,0,1
+Chassaigne   André,Vigier   Philippe,0,1
+Chassaigne   André,Benoit   Thierry,1,1
+Chassaigne   André,Dalloz   Marie-Christine,0,1
+Chassaigne   André,Pinel   Sylvia,0,1
+Chassaigne   André,Untermaier   Cécile,1,1
+Chassaigne   André,Questel   Bruno,0,1
+Chassaigne   André,Valentin   Isabelle,0,1
+Chassaigne   André,Maillard   Sylvain,0,1
+Chassaigne   André,Larive   Michel,1,1
+Chassaigne   André,Roussel   Cédric,0,1
+Chassaigne   André,Dharréville   Pierre,1,1
+Chassaigne   André,Laqhila   Mohamed,0,1
+Chassaigne   André,Blanchet   Christophe,0,1
+Chassaigne   André,Tuffnell   Frédérique,0,1
+Chassaigne   André,Castellani   Michel,0,1
+Chassaigne   André,Moreau   Jean-Baptiste,0,1
+Chassaigne   André,Clapot   Mireille,0,1
+Chassaigne   André,Chapelier   Annie,0,1
+Chassaigne   André,Balanant   Erwan,0,1
+Chassaigne   André,Ménard   Emmanuelle,0,1
+Chassaigne   André,Euzet   Christophe,0,1
+Chassaigne   André,Mirallès   Patricia,0,1
+Chassaigne   André,Colas-Roy   Jean-Charles,0,1
+Chassaigne   André,Bachelier   Florian,0,1
+Chassaigne   André,Chalumeau   Philippe,0,1
+Chassaigne   André,Labaronne   Daniel,0,1
+Chassaigne   André,Thillaye   Sabine,0,1
+Chassaigne   André,Jacquier-Laforge   Élodie,0,1
+Chassaigne   André,Brulebois   Danielle,0,1
+Chassaigne   André,Pradié   Aurélien,0,1
+Chassaigne   André,Dubré-Chirat   Nicole,0,1
+Chassaigne   André,Bolo   Philippe,0,1
+Chassaigne   André,Sorre   Bertrand,0,1
+Chassaigne   André,Cariou   Émilie,0,1
+Chassaigne   André,Trisse   Nicole,0,1
+Chassaigne   André,Osson   Catherine,0,1
+Chassaigne   André,Bureau-Bonnard   Carole,0,1
+Chassaigne   André,Minot   Maxime,0,1
+Chassaigne   André,Dumont   Pierre-Henri,0,1
+Chassaigne   André,Waserman   Sylvain,0,1
+Chassaigne   André,Descrozaille   Frédéric,0,1
+Chassaigne   André,Panot   Mathilde,1,1
+Chassaigne   André,Da Silva   Dominique,0,1
+Chassaigne   André,El Guerrab   M'jid,0,1
+Chassaigne   André,Vuilletet   Guillaume,0,1
+Chassaigne   André,Gouffier-Cha   Guillaume,0,1
+Chassaigne   André,Schellenberger   Raphaël,0,1
+Chassaigne   André,Fontenel-Personne   Pascale,0,1
+Chassaigne   André,Lenne   Marion,0,1
+Chassaigne   André,Le Gendre   Gilles,0,1
+Chassaigne   André,Viry   Stéphane,0,1
+Chassaigne   André,Terlier   Jean,0,1
+Chassaigne   André,Michel-Kleisbauer   Philippe,0,1
+Chassaigne   André,Florennes   Isabelle,0,1
+Chassaigne   André,Calvez   Céline,0,1
+Chassaigne   André,Boucard   Ian,0,1
+Chassaigne   André,Lebec   Marie,0,1
+Chassaigne   André,Guévenoux   Marie,0,1
+Chassaigne   André,Braun-Pivet   Yaël,0,1
+Chassaigne   André,Millienne   Bruno,0,1
+Chassaigne   André,Dirx   Benjamin,0,1
+Zumkeller   Michel,Breton   Xavier,0,1
+Zumkeller   Michel,Vigier   Philippe,1,1
+Zumkeller   Michel,Benoit   Thierry,0,1
+Zumkeller   Michel,Dalloz   Marie-Christine,0,1
+Zumkeller   Michel,Pinel   Sylvia,1,1
+Zumkeller   Michel,Untermaier   Cécile,0,1
+Zumkeller   Michel,Questel   Bruno,1,1
+Zumkeller   Michel,Valentin   Isabelle,0,1
+Zumkeller   Michel,Maillard   Sylvain,1,1
+Zumkeller   Michel,Larive   Michel,0,1
+Zumkeller   Michel,Roussel   Cédric,1,1
+Zumkeller   Michel,Dharréville   Pierre,0,1
+Zumkeller   Michel,Laqhila   Mohamed,1,1
+Zumkeller   Michel,Blanchet   Christophe,1,1
+Zumkeller   Michel,Tuffnell   Frédérique,1,1
+Zumkeller   Michel,Castellani   Michel,1,1
+Zumkeller   Michel,Moreau   Jean-Baptiste,1,1
+Zumkeller   Michel,Clapot   Mireille,1,1
+Zumkeller   Michel,Chapelier   Annie,1,1
+Zumkeller   Michel,Balanant   Erwan,1,1
+Zumkeller   Michel,Ménard   Emmanuelle,0,1
+Zumkeller   Michel,Euzet   Christophe,1,1
+Zumkeller   Michel,Mirallès   Patricia,1,1
+Zumkeller   Michel,Colas-Roy   Jean-Charles,1,1
+Zumkeller   Michel,Bachelier   Florian,1,1
+Zumkeller   Michel,Chalumeau   Philippe,1,1
+Zumkeller   Michel,Labaronne   Daniel,1,1
+Zumkeller   Michel,Thillaye   Sabine,1,1
+Zumkeller   Michel,Jacquier-Laforge   Élodie,1,1
+Zumkeller   Michel,Brulebois   Danielle,1,1
+Zumkeller   Michel,Pradié   Aurélien,0,1
+Zumkeller   Michel,Dubré-Chirat   Nicole,1,1
+Zumkeller   Michel,Bolo   Philippe,1,1
+Zumkeller   Michel,Sorre   Bertrand,1,1
+Zumkeller   Michel,Cariou   Émilie,1,1
+Zumkeller   Michel,Trisse   Nicole,1,1
+Zumkeller   Michel,Osson   Catherine,1,1
+Zumkeller   Michel,Bureau-Bonnard   Carole,1,1
+Zumkeller   Michel,Minot   Maxime,0,1
+Zumkeller   Michel,Dumont   Pierre-Henri,0,1
+Zumkeller   Michel,Waserman   Sylvain,1,1
+Zumkeller   Michel,Descrozaille   Frédéric,1,1
+Zumkeller   Michel,Panot   Mathilde,0,1
+Zumkeller   Michel,Da Silva   Dominique,1,1
+Zumkeller   Michel,El Guerrab   M'jid,1,1
+Zumkeller   Michel,Vuilletet   Guillaume,1,1
+Zumkeller   Michel,Gouffier-Cha   Guillaume,1,1
+Zumkeller   Michel,Schellenberger   Raphaël,0,1
+Zumkeller   Michel,Fontenel-Personne   Pascale,1,1
+Zumkeller   Michel,Lenne   Marion,1,1
+Zumkeller   Michel,Le Gendre   Gilles,1,1
+Zumkeller   Michel,Viry   Stéphane,0,1
+Zumkeller   Michel,Terlier   Jean,1,1
+Zumkeller   Michel,Michel-Kleisbauer   Philippe,1,1
+Zumkeller   Michel,Florennes   Isabelle,1,1
+Zumkeller   Michel,Calvez   Céline,1,1
+Zumkeller   Michel,Boucard   Ian,0,1
+Zumkeller   Michel,Lebec   Marie,1,1
+Zumkeller   Michel,Guévenoux   Marie,1,1
+Zumkeller   Michel,Braun-Pivet   Yaël,1,1
+Zumkeller   Michel,Millienne   Bruno,1,1
+Zumkeller   Michel,Dirx   Benjamin,1,1
+Breton   Xavier,Vigier   Philippe,0,1
+Breton   Xavier,Benoit   Thierry,0,1
+Breton   Xavier,Dalloz   Marie-Christine,1,1
+Breton   Xavier,Pinel   Sylvia,0,1
+Breton   Xavier,Untermaier   Cécile,0,1
+Breton   Xavier,Questel   Bruno,0,1
+Breton   Xavier,Valentin   Isabelle,1,1
+Breton   Xavier,Maillard   Sylvain,0,1
+Breton   Xavier,Larive   Michel,0,1
+Breton   Xavier,Roussel   Cédric,0,1
+Breton   Xavier,Dharréville   Pierre,0,1
+Breton   Xavier,Laqhila   Mohamed,0,1
+Breton   Xavier,Blanchet   Christophe,0,1
+Breton   Xavier,Tuffnell   Frédérique,0,1
+Breton   Xavier,Castellani   Michel,0,1
+Breton   Xavier,Moreau   Jean-Baptiste,0,1
+Breton   Xavier,Clapot   Mireille,0,1
+Breton   Xavier,Chapelier   Annie,0,1
+Breton   Xavier,Balanant   Erwan,0,1
+Breton   Xavier,Ménard   Emmanuelle,1,1
+Breton   Xavier,Euzet   Christophe,0,1
+Breton   Xavier,Mirallès   Patricia,0,1
+Breton   Xavier,Colas-Roy   Jean-Charles,0,1
+Breton   Xavier,Bachelier   Florian,0,1
+Breton   Xavier,Chalumeau   Philippe,0,1
+Breton   Xavier,Labaronne   Daniel,0,1
+Breton   Xavier,Thillaye   Sabine,0,1
+Breton   Xavier,Jacquier-Laforge   Élodie,0,1
+Breton   Xavier,Brulebois   Danielle,0,1
+Breton   Xavier,Pradié   Aurélien,1,1
+Breton   Xavier,Dubré-Chirat   Nicole,0,1
+Breton   Xavier,Bolo   Philippe,0,1
+Breton   Xavier,Sorre   Bertrand,0,1
+Breton   Xavier,Cariou   Émilie,0,1
+Breton   Xavier,Trisse   Nicole,0,1
+Breton   Xavier,Osson   Catherine,0,1
+Breton   Xavier,Bureau-Bonnard   Carole,0,1
+Breton   Xavier,Minot   Maxime,1,1
+Breton   Xavier,Dumont   Pierre-Henri,1,1
+Breton   Xavier,Waserman   Sylvain,0,1
+Breton   Xavier,Descrozaille   Frédéric,0,1
+Breton   Xavier,Panot   Mathilde,0,1
+Breton   Xavier,Da Silva   Dominique,0,1
+Breton   Xavier,El Guerrab   M'jid,0,1
+Breton   Xavier,Vuilletet   Guillaume,0,1
+Breton   Xavier,Gouffier-Cha   Guillaume,0,1
+Breton   Xavier,Schellenberger   Raphaël,1,1
+Breton   Xavier,Fontenel-Personne   Pascale,0,1
+Breton   Xavier,Lenne   Marion,0,1
+Breton   Xavier,Le Gendre   Gilles,0,1
+Breton   Xavier,Viry   Stéphane,1,1
+Breton   Xavier,Terlier   Jean,0,1
+Breton   Xavier,Michel-Kleisbauer   Philippe,0,1
+Breton   Xavier,Florennes   Isabelle,0,1
+Breton   Xavier,Calvez   Céline,0,1
+Breton   Xavier,Boucard   Ian,1,1
+Breton   Xavier,Lebec   Marie,0,1
+Breton   Xavier,Guévenoux   Marie,0,1
+Breton   Xavier,Braun-Pivet   Yaël,0,1
+Breton   Xavier,Millienne   Bruno,0,1
+Breton   Xavier,Dirx   Benjamin,0,1
+Vigier   Philippe,Benoit   Thierry,0,1
+Vigier   Philippe,Dalloz   Marie-Christine,0,1
+Vigier   Philippe,Pinel   Sylvia,1,1
+Vigier   Philippe,Untermaier   Cécile,0,1
+Vigier   Philippe,Questel   Bruno,1,1
+Vigier   Philippe,Valentin   Isabelle,0,1
+Vigier   Philippe,Maillard   Sylvain,1,1
+Vigier   Philippe,Larive   Michel,0,1
+Vigier   Philippe,Roussel   Cédric,1,1
+Vigier   Philippe,Dharréville   Pierre,0,1
+Vigier   Philippe,Laqhila   Mohamed,1,1
+Vigier   Philippe,Blanchet   Christophe,1,1
+Vigier   Philippe,Tuffnell   Frédérique,1,1
+Vigier   Philippe,Castellani   Michel,1,1
+Vigier   Philippe,Moreau   Jean-Baptiste,1,1
+Vigier   Philippe,Clapot   Mireille,1,1
+Vigier   Philippe,Chapelier   Annie,1,1
+Vigier   Philippe,Balanant   Erwan,1,1
+Vigier   Philippe,Ménard   Emmanuelle,0,1
+Vigier   Philippe,Euzet   Christophe,1,1
+Vigier   Philippe,Mirallès   Patricia,1,1
+Vigier   Philippe,Colas-Roy   Jean-Charles,1,1
+Vigier   Philippe,Bachelier   Florian,1,1
+Vigier   Philippe,Chalumeau   Philippe,1,1
+Vigier   Philippe,Labaronne   Daniel,1,1
+Vigier   Philippe,Thillaye   Sabine,1,1
+Vigier   Philippe,Jacquier-Laforge   Élodie,1,1
+Vigier   Philippe,Brulebois   Danielle,1,1
+Vigier   Philippe,Pradié   Aurélien,0,1
+Vigier   Philippe,Dubré-Chirat   Nicole,1,1
+Vigier   Philippe,Bolo   Philippe,1,1
+Vigier   Philippe,Sorre   Bertrand,1,1
+Vigier   Philippe,Cariou   Émilie,1,1
+Vigier   Philippe,Trisse   Nicole,1,1
+Vigier   Philippe,Osson   Catherine,1,1
+Vigier   Philippe,Bureau-Bonnard   Carole,1,1
+Vigier   Philippe,Minot   Maxime,0,1
+Vigier   Philippe,Dumont   Pierre-Henri,0,1
+Vigier   Philippe,Waserman   Sylvain,1,1
+Vigier   Philippe,Descrozaille   Frédéric,1,1
+Vigier   Philippe,Panot   Mathilde,0,1
+Vigier   Philippe,Da Silva   Dominique,1,1
+Vigier   Philippe,El Guerrab   M'jid,1,1
+Vigier   Philippe,Vuilletet   Guillaume,1,1
+Vigier   Philippe,Gouffier-Cha   Guillaume,1,1
+Vigier   Philippe,Schellenberger   Raphaël,0,1
+Vigier   Philippe,Fontenel-Personne   Pascale,1,1
+Vigier   Philippe,Lenne   Marion,1,1
+Vigier   Philippe,Le Gendre   Gilles,1,1
+Vigier   Philippe,Viry   Stéphane,0,1
+Vigier   Philippe,Terlier   Jean,1,1
+Vigier   Philippe,Michel-Kleisbauer   Philippe,1,1
+Vigier   Philippe,Florennes   Isabelle,1,1
+Vigier   Philippe,Calvez   Céline,1,1
+Vigier   Philippe,Boucard   Ian,0,1
+Vigier   Philippe,Lebec   Marie,1,1
+Vigier   Philippe,Guévenoux   Marie,1,1
+Vigier   Philippe,Braun-Pivet   Yaël,1,1
+Vigier   Philippe,Millienne   Bruno,1,1
+Vigier   Philippe,Dirx   Benjamin,1,1
+Benoit   Thierry,Dalloz   Marie-Christine,0,1
+Benoit   Thierry,Pinel   Sylvia,0,1
+Benoit   Thierry,Untermaier   Cécile,1,1
+Benoit   Thierry,Questel   Bruno,0,1
+Benoit   Thierry,Valentin   Isabelle,0,1
+Benoit   Thierry,Maillard   Sylvain,0,1
+Benoit   Thierry,Larive   Michel,1,1
+Benoit   Thierry,Roussel   Cédric,0,1
+Benoit   Thierry,Dharréville   Pierre,1,1
+Benoit   Thierry,Laqhila   Mohamed,0,1
+Benoit   Thierry,Blanchet   Christophe,0,1
+Benoit   Thierry,Tuffnell   Frédérique,0,1
+Benoit   Thierry,Castellani   Michel,0,1
+Benoit   Thierry,Moreau   Jean-Baptiste,0,1
+Benoit   Thierry,Clapot   Mireille,0,1
+Benoit   Thierry,Chapelier   Annie,0,1
+Benoit   Thierry,Balanant   Erwan,0,1
+Benoit   Thierry,Ménard   Emmanuelle,0,1
+Benoit   Thierry,Euzet   Christophe,0,1
+Benoit   Thierry,Mirallès   Patricia,0,1
+Benoit   Thierry,Colas-Roy   Jean-Charles,0,1
+Benoit   Thierry,Bachelier   Florian,0,1
+Benoit   Thierry,Chalumeau   Philippe,0,1
+Benoit   Thierry,Labaronne   Daniel,0,1
+Benoit   Thierry,Thillaye   Sabine,0,1
+Benoit   Thierry,Jacquier-Laforge   Élodie,0,1
+Benoit   Thierry,Brulebois   Danielle,0,1
+Benoit   Thierry,Pradié   Aurélien,0,1
+Benoit   Thierry,Dubré-Chirat   Nicole,0,1
+Benoit   Thierry,Bolo   Philippe,0,1
+Benoit   Thierry,Sorre   Bertrand,0,1
+Benoit   Thierry,Cariou   Émilie,0,1
+Benoit   Thierry,Trisse   Nicole,0,1
+Benoit   Thierry,Osson   Catherine,0,1
+Benoit   Thierry,Bureau-Bonnard   Carole,0,1
+Benoit   Thierry,Minot   Maxime,0,1
+Benoit   Thierry,Dumont   Pierre-Henri,0,1
+Benoit   Thierry,Waserman   Sylvain,0,1
+Benoit   Thierry,Descrozaille   Frédéric,0,1
+Benoit   Thierry,Panot   Mathilde,1,1
+Benoit   Thierry,Da Silva   Dominique,0,1
+Benoit   Thierry,El Guerrab   M'jid,0,1
+Benoit   Thierry,Vuilletet   Guillaume,0,1
+Benoit   Thierry,Gouffier-Cha   Guillaume,0,1
+Benoit   Thierry,Schellenberger   Raphaël,0,1
+Benoit   Thierry,Fontenel-Personne   Pascale,0,1
+Benoit   Thierry,Lenne   Marion,0,1
+Benoit   Thierry,Le Gendre   Gilles,0,1
+Benoit   Thierry,Viry   Stéphane,0,1
+Benoit   Thierry,Terlier   Jean,0,1
+Benoit   Thierry,Michel-Kleisbauer   Philippe,0,1
+Benoit   Thierry,Florennes   Isabelle,0,1
+Benoit   Thierry,Calvez   Céline,0,1
+Benoit   Thierry,Boucard   Ian,0,1
+Benoit   Thierry,Lebec   Marie,0,1
+Benoit   Thierry,Guévenoux   Marie,0,1
+Benoit   Thierry,Braun-Pivet   Yaël,0,1
+Benoit   Thierry,Millienne   Bruno,0,1
+Benoit   Thierry,Dirx   Benjamin,0,1
+Dalloz   Marie-Christine,Pinel   Sylvia,0,1
+Dalloz   Marie-Christine,Untermaier   Cécile,0,1
+Dalloz   Marie-Christine,Questel   Bruno,0,1
+Dalloz   Marie-Christine,Valentin   Isabelle,1,1
+Dalloz   Marie-Christine,Maillard   Sylvain,0,1
+Dalloz   Marie-Christine,Larive   Michel,0,1
+Dalloz   Marie-Christine,Roussel   Cédric,0,1
+Dalloz   Marie-Christine,Dharréville   Pierre,0,1
+Dalloz   Marie-Christine,Laqhila   Mohamed,0,1
+Dalloz   Marie-Christine,Blanchet   Christophe,0,1
+Dalloz   Marie-Christine,Tuffnell   Frédérique,0,1
+Dalloz   Marie-Christine,Castellani   Michel,0,1
+Dalloz   Marie-Christine,Moreau   Jean-Baptiste,0,1
+Dalloz   Marie-Christine,Clapot   Mireille,0,1
+Dalloz   Marie-Christine,Chapelier   Annie,0,1
+Dalloz   Marie-Christine,Balanant   Erwan,0,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Euzet   Christophe,0,1
+Dalloz   Marie-Christine,Mirallès   Patricia,0,1
+Dalloz   Marie-Christine,Colas-Roy   Jean-Charles,0,1
+Dalloz   Marie-Christine,Bachelier   Florian,0,1
+Dalloz   Marie-Christine,Chalumeau   Philippe,0,1
+Dalloz   Marie-Christine,Labaronne   Daniel,0,1
+Dalloz   Marie-Christine,Thillaye   Sabine,0,1
+Dalloz   Marie-Christine,Jacquier-Laforge   Élodie,0,1
+Dalloz   Marie-Christine,Brulebois   Danielle,0,1
+Dalloz   Marie-Christine,Pradié   Aurélien,1,1
+Dalloz   Marie-Christine,Dubré-Chirat   Nicole,0,1
+Dalloz   Marie-Christine,Bolo   Philippe,0,1
+Dalloz   Marie-Christine,Sorre   Bertrand,0,1
+Dalloz   Marie-Christine,Cariou   Émilie,0,1
+Dalloz   Marie-Christine,Trisse   Nicole,0,1
+Dalloz   Marie-Christine,Osson   Catherine,0,1
+Dalloz   Marie-Christine,Bureau-Bonnard   Carole,0,1
+Dalloz   Marie-Christine,Minot   Maxime,1,1
+Dalloz   Marie-Christine,Dumont   Pierre-Henri,1,1
+Dalloz   Marie-Christine,Waserman   Sylvain,0,1
+Dalloz   Marie-Christine,Descrozaille   Frédéric,0,1
+Dalloz   Marie-Christine,Panot   Mathilde,0,1
+Dalloz   Marie-Christine,Da Silva   Dominique,0,1
+Dalloz   Marie-Christine,El Guerrab   M'jid,0,1
+Dalloz   Marie-Christine,Vuilletet   Guillaume,0,1
+Dalloz   Marie-Christine,Gouffier-Cha   Guillaume,0,1
+Dalloz   Marie-Christine,Schellenberger   Raphaël,1,1
+Dalloz   Marie-Christine,Fontenel-Personne   Pascale,0,1
+Dalloz   Marie-Christine,Lenne   Marion,0,1
+Dalloz   Marie-Christine,Le Gendre   Gilles,0,1
+Dalloz   Marie-Christine,Viry   Stéphane,1,1
+Dalloz   Marie-Christine,Terlier   Jean,0,1
+Dalloz   Marie-Christine,Michel-Kleisbauer   Philippe,0,1
+Dalloz   Marie-Christine,Florennes   Isabelle,0,1
+Dalloz   Marie-Christine,Calvez   Céline,0,1
+Dalloz   Marie-Christine,Boucard   Ian,1,1
+Dalloz   Marie-Christine,Lebec   Marie,0,1
+Dalloz   Marie-Christine,Guévenoux   Marie,0,1
+Dalloz   Marie-Christine,Braun-Pivet   Yaël,0,1
+Dalloz   Marie-Christine,Millienne   Bruno,0,1
+Dalloz   Marie-Christine,Dirx   Benjamin,0,1
+Pinel   Sylvia,Untermaier   Cécile,0,1
+Pinel   Sylvia,Questel   Bruno,1,1
+Pinel   Sylvia,Valentin   Isabelle,0,1
+Pinel   Sylvia,Maillard   Sylvain,1,1
+Pinel   Sylvia,Larive   Michel,0,1
+Pinel   Sylvia,Roussel   Cédric,1,1
+Pinel   Sylvia,Dharréville   Pierre,0,1
+Pinel   Sylvia,Laqhila   Mohamed,1,1
+Pinel   Sylvia,Blanchet   Christophe,1,1
+Pinel   Sylvia,Tuffnell   Frédérique,1,1
+Pinel   Sylvia,Castellani   Michel,1,1
+Pinel   Sylvia,Moreau   Jean-Baptiste,1,1
+Pinel   Sylvia,Clapot   Mireille,1,1
+Pinel   Sylvia,Chapelier   Annie,1,1
+Pinel   Sylvia,Balanant   Erwan,1,1
+Pinel   Sylvia,Ménard   Emmanuelle,0,1
+Pinel   Sylvia,Euzet   Christophe,1,1
+Pinel   Sylvia,Mirallès   Patricia,1,1
+Pinel   Sylvia,Colas-Roy   Jean-Charles,1,1
+Pinel   Sylvia,Bachelier   Florian,1,1
+Pinel   Sylvia,Chalumeau   Philippe,1,1
+Pinel   Sylvia,Labaronne   Daniel,1,1
+Pinel   Sylvia,Thillaye   Sabine,1,1
+Pinel   Sylvia,Jacquier-Laforge   Élodie,1,1
+Pinel   Sylvia,Brulebois   Danielle,1,1
+Pinel   Sylvia,Pradié   Aurélien,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,1,1
+Pinel   Sylvia,Bolo   Philippe,1,1
+Pinel   Sylvia,Sorre   Bertrand,1,1
+Pinel   Sylvia,Cariou   Émilie,1,1
+Pinel   Sylvia,Trisse   Nicole,1,1
+Pinel   Sylvia,Osson   Catherine,1,1
+Pinel   Sylvia,Bureau-Bonnard   Carole,1,1
+Pinel   Sylvia,Minot   Maxime,0,1
+Pinel   Sylvia,Dumont   Pierre-Henri,0,1
+Pinel   Sylvia,Waserman   Sylvain,1,1
+Pinel   Sylvia,Descrozaille   Frédéric,1,1
+Pinel   Sylvia,Panot   Mathilde,0,1
+Pinel   Sylvia,Da Silva   Dominique,1,1
+Pinel   Sylvia,El Guerrab   M'jid,1,1
+Pinel   Sylvia,Vuilletet   Guillaume,1,1
+Pinel   Sylvia,Gouffier-Cha   Guillaume,1,1
+Pinel   Sylvia,Schellenberger   Raphaël,0,1
+Pinel   Sylvia,Fontenel-Personne   Pascale,1,1
+Pinel   Sylvia,Lenne   Marion,1,1
+Pinel   Sylvia,Le Gendre   Gilles,1,1
+Pinel   Sylvia,Viry   Stéphane,0,1
+Pinel   Sylvia,Terlier   Jean,1,1
+Pinel   Sylvia,Michel-Kleisbauer   Philippe,1,1
+Pinel   Sylvia,Florennes   Isabelle,1,1
+Pinel   Sylvia,Calvez   Céline,1,1
+Pinel   Sylvia,Boucard   Ian,0,1
+Pinel   Sylvia,Lebec   Marie,1,1
+Pinel   Sylvia,Guévenoux   Marie,1,1
+Pinel   Sylvia,Braun-Pivet   Yaël,1,1
+Pinel   Sylvia,Millienne   Bruno,1,1
+Pinel   Sylvia,Dirx   Benjamin,1,1
+Untermaier   Cécile,Questel   Bruno,0,1
+Untermaier   Cécile,Valentin   Isabelle,0,1
+Untermaier   Cécile,Maillard   Sylvain,0,1
+Untermaier   Cécile,Larive   Michel,1,1
+Untermaier   Cécile,Roussel   Cédric,0,1
+Untermaier   Cécile,Dharréville   Pierre,1,1
+Untermaier   Cécile,Laqhila   Mohamed,0,1
+Untermaier   Cécile,Blanchet   Christophe,0,1
+Untermaier   Cécile,Tuffnell   Frédérique,0,1
+Untermaier   Cécile,Castellani   Michel,0,1
+Untermaier   Cécile,Moreau   Jean-Baptiste,0,1
+Untermaier   Cécile,Clapot   Mireille,0,1
+Untermaier   Cécile,Chapelier   Annie,0,1
+Untermaier   Cécile,Balanant   Erwan,0,1
+Untermaier   Cécile,Ménard   Emmanuelle,0,1
+Untermaier   Cécile,Euzet   Christophe,0,1
+Untermaier   Cécile,Mirallès   Patricia,0,1
+Untermaier   Cécile,Colas-Roy   Jean-Charles,0,1
+Untermaier   Cécile,Bachelier   Florian,0,1
+Untermaier   Cécile,Chalumeau   Philippe,0,1
+Untermaier   Cécile,Labaronne   Daniel,0,1
+Untermaier   Cécile,Thillaye   Sabine,0,1
+Untermaier   Cécile,Jacquier-Laforge   Élodie,0,1
+Untermaier   Cécile,Brulebois   Danielle,0,1
+Untermaier   Cécile,Pradié   Aurélien,0,1
+Untermaier   Cécile,Dubré-Chirat   Nicole,0,1
+Untermaier   Cécile,Bolo   Philippe,0,1
+Untermaier   Cécile,Sorre   Bertrand,0,1
+Untermaier   Cécile,Cariou   Émilie,0,1
+Untermaier   Cécile,Trisse   Nicole,0,1
+Untermaier   Cécile,Osson   Catherine,0,1
+Untermaier   Cécile,Bureau-Bonnard   Carole,0,1
+Untermaier   Cécile,Minot   Maxime,0,1
+Untermaier   Cécile,Dumont   Pierre-Henri,0,1
+Untermaier   Cécile,Waserman   Sylvain,0,1
+Untermaier   Cécile,Descrozaille   Frédéric,0,1
+Untermaier   Cécile,Panot   Mathilde,1,1
+Untermaier   Cécile,Da Silva   Dominique,0,1
+Untermaier   Cécile,El Guerrab   M'jid,0,1
+Untermaier   Cécile,Vuilletet   Guillaume,0,1
+Untermaier   Cécile,Gouffier-Cha   Guillaume,0,1
+Untermaier   Cécile,Schellenberger   Raphaël,0,1
+Untermaier   Cécile,Fontenel-Personne   Pascale,0,1
+Untermaier   Cécile,Lenne   Marion,0,1
+Untermaier   Cécile,Le Gendre   Gilles,0,1
+Untermaier   Cécile,Viry   Stéphane,0,1
+Untermaier   Cécile,Terlier   Jean,0,1
+Untermaier   Cécile,Michel-Kleisbauer   Philippe,0,1
+Untermaier   Cécile,Florennes   Isabelle,0,1
+Untermaier   Cécile,Calvez   Céline,0,1
+Untermaier   Cécile,Boucard   Ian,0,1
+Untermaier   Cécile,Lebec   Marie,0,1
+Untermaier   Cécile,Guévenoux   Marie,0,1
+Untermaier   Cécile,Braun-Pivet   Yaël,0,1
+Untermaier   Cécile,Millienne   Bruno,0,1
+Untermaier   Cécile,Dirx   Benjamin,0,1
+Questel   Bruno,Valentin   Isabelle,0,1
+Questel   Bruno,Maillard   Sylvain,1,1
+Questel   Bruno,Larive   Michel,0,1
+Questel   Bruno,Roussel   Cédric,1,1
+Questel   Bruno,Dharréville   Pierre,0,1
+Questel   Bruno,Laqhila   Mohamed,1,1
+Questel   Bruno,Blanchet   Christophe,1,1
+Questel   Bruno,Tuffnell   Frédérique,1,1
+Questel   Bruno,Castellani   Michel,1,1
+Questel   Bruno,Moreau   Jean-Baptiste,1,1
+Questel   Bruno,Clapot   Mireille,1,1
+Questel   Bruno,Chapelier   Annie,1,1
+Questel   Bruno,Balanant   Erwan,1,1
+Questel   Bruno,Ménard   Emmanuelle,0,1
+Questel   Bruno,Euzet   Christophe,1,1
+Questel   Bruno,Mirallès   Patricia,1,1
+Questel   Bruno,Colas-Roy   Jean-Charles,1,1
+Questel   Bruno,Bachelier   Florian,1,1
+Questel   Bruno,Chalumeau   Philippe,1,1
+Questel   Bruno,Labaronne   Daniel,1,1
+Questel   Bruno,Thillaye   Sabine,1,1
+Questel   Bruno,Jacquier-Laforge   Élodie,1,1
+Questel   Bruno,Brulebois   Danielle,1,1
+Questel   Bruno,Pradié   Aurélien,0,1
+Questel   Bruno,Dubré-Chirat   Nicole,1,1
+Questel   Bruno,Bolo   Philippe,1,1
+Questel   Bruno,Sorre   Bertrand,1,1
+Questel   Bruno,Cariou   Émilie,1,1
+Questel   Bruno,Trisse   Nicole,1,1
+Questel   Bruno,Osson   Catherine,1,1
+Questel   Bruno,Bureau-Bonnard   Carole,1,1
+Questel   Bruno,Minot   Maxime,0,1
+Questel   Bruno,Dumont   Pierre-Henri,0,1
+Questel   Bruno,Waserman   Sylvain,1,1
+Questel   Bruno,Descrozaille   Frédéric,1,1
+Questel   Bruno,Panot   Mathilde,0,1
+Questel   Bruno,Da Silva   Dominique,1,1
+Questel   Bruno,El Guerrab   M'jid,1,1
+Questel   Bruno,Vuilletet   Guillaume,1,1
+Questel   Bruno,Gouffier-Cha   Guillaume,1,1
+Questel   Bruno,Schellenberger   Raphaël,0,1
+Questel   Bruno,Fontenel-Personne   Pascale,1,1
+Questel   Bruno,Lenne   Marion,1,1
+Questel   Bruno,Le Gendre   Gilles,1,1
+Questel   Bruno,Viry   Stéphane,0,1
+Questel   Bruno,Terlier   Jean,1,1
+Questel   Bruno,Michel-Kleisbauer   Philippe,1,1
+Questel   Bruno,Florennes   Isabelle,1,1
+Questel   Bruno,Calvez   Céline,1,1
+Questel   Bruno,Boucard   Ian,0,1
+Questel   Bruno,Lebec   Marie,1,1
+Questel   Bruno,Guévenoux   Marie,1,1
+Questel   Bruno,Braun-Pivet   Yaël,1,1
+Questel   Bruno,Millienne   Bruno,1,1
+Questel   Bruno,Dirx   Benjamin,1,1
+Valentin   Isabelle,Maillard   Sylvain,0,1
+Valentin   Isabelle,Larive   Michel,0,1
+Valentin   Isabelle,Roussel   Cédric,0,1
+Valentin   Isabelle,Dharréville   Pierre,0,1
+Valentin   Isabelle,Laqhila   Mohamed,0,1
+Valentin   Isabelle,Blanchet   Christophe,0,1
+Valentin   Isabelle,Tuffnell   Frédérique,0,1
+Valentin   Isabelle,Castellani   Michel,0,1
+Valentin   Isabelle,Moreau   Jean-Baptiste,0,1
+Valentin   Isabelle,Clapot   Mireille,0,1
+Valentin   Isabelle,Chapelier   Annie,0,1
+Valentin   Isabelle,Balanant   Erwan,0,1
+Valentin   Isabelle,Ménard   Emmanuelle,1,1
+Valentin   Isabelle,Euzet   Christophe,0,1
+Valentin   Isabelle,Mirallès   Patricia,0,1
+Valentin   Isabelle,Colas-Roy   Jean-Charles,0,1
+Valentin   Isabelle,Bachelier   Florian,0,1
+Valentin   Isabelle,Chalumeau   Philippe,0,1
+Valentin   Isabelle,Labaronne   Daniel,0,1
+Valentin   Isabelle,Thillaye   Sabine,0,1
+Valentin   Isabelle,Jacquier-Laforge   Élodie,0,1
+Valentin   Isabelle,Brulebois   Danielle,0,1
+Valentin   Isabelle,Pradié   Aurélien,1,1
+Valentin   Isabelle,Dubré-Chirat   Nicole,0,1
+Valentin   Isabelle,Bolo   Philippe,0,1
+Valentin   Isabelle,Sorre   Bertrand,0,1
+Valentin   Isabelle,Cariou   Émilie,0,1
+Valentin   Isabelle,Trisse   Nicole,0,1
+Valentin   Isabelle,Osson   Catherine,0,1
+Valentin   Isabelle,Bureau-Bonnard   Carole,0,1
+Valentin   Isabelle,Minot   Maxime,1,1
+Valentin   Isabelle,Dumont   Pierre-Henri,1,1
+Valentin   Isabelle,Waserman   Sylvain,0,1
+Valentin   Isabelle,Descrozaille   Frédéric,0,1
+Valentin   Isabelle,Panot   Mathilde,0,1
+Valentin   Isabelle,Da Silva   Dominique,0,1
+Valentin   Isabelle,El Guerrab   M'jid,0,1
+Valentin   Isabelle,Vuilletet   Guillaume,0,1
+Valentin   Isabelle,Gouffier-Cha   Guillaume,0,1
+Valentin   Isabelle,Schellenberger   Raphaël,1,1
+Valentin   Isabelle,Fontenel-Personne   Pascale,0,1
+Valentin   Isabelle,Lenne   Marion,0,1
+Valentin   Isabelle,Le Gendre   Gilles,0,1
+Valentin   Isabelle,Viry   Stéphane,1,1
+Valentin   Isabelle,Terlier   Jean,0,1
+Valentin   Isabelle,Michel-Kleisbauer   Philippe,0,1
+Valentin   Isabelle,Florennes   Isabelle,0,1
+Valentin   Isabelle,Calvez   Céline,0,1
+Valentin   Isabelle,Boucard   Ian,1,1
+Valentin   Isabelle,Lebec   Marie,0,1
+Valentin   Isabelle,Guévenoux   Marie,0,1
+Valentin   Isabelle,Braun-Pivet   Yaël,0,1
+Valentin   Isabelle,Millienne   Bruno,0,1
+Valentin   Isabelle,Dirx   Benjamin,0,1
+Maillard   Sylvain,Larive   Michel,0,1
+Maillard   Sylvain,Roussel   Cédric,1,1
+Maillard   Sylvain,Dharréville   Pierre,0,1
+Maillard   Sylvain,Laqhila   Mohamed,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Tuffnell   Frédérique,1,1
+Maillard   Sylvain,Castellani   Michel,1,1
+Maillard   Sylvain,Moreau   Jean-Baptiste,1,1
+Maillard   Sylvain,Clapot   Mireille,1,1
+Maillard   Sylvain,Chapelier   Annie,1,1
+Maillard   Sylvain,Balanant   Erwan,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Euzet   Christophe,1,1
+Maillard   Sylvain,Mirallès   Patricia,1,1
+Maillard   Sylvain,Colas-Roy   Jean-Charles,1,1
+Maillard   Sylvain,Bachelier   Florian,1,1
+Maillard   Sylvain,Chalumeau   Philippe,1,1
+Maillard   Sylvain,Labaronne   Daniel,1,1
+Maillard   Sylvain,Thillaye   Sabine,1,1
+Maillard   Sylvain,Jacquier-Laforge   Élodie,1,1
+Maillard   Sylvain,Brulebois   Danielle,1,1
+Maillard   Sylvain,Pradié   Aurélien,0,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Bolo   Philippe,1,1
+Maillard   Sylvain,Sorre   Bertrand,1,1
+Maillard   Sylvain,Cariou   Émilie,1,1
+Maillard   Sylvain,Trisse   Nicole,1,1
+Maillard   Sylvain,Osson   Catherine,1,1
+Maillard   Sylvain,Bureau-Bonnard   Carole,1,1
+Maillard   Sylvain,Minot   Maxime,0,1
+Maillard   Sylvain,Dumont   Pierre-Henri,0,1
+Maillard   Sylvain,Waserman   Sylvain,1,1
+Maillard   Sylvain,Descrozaille   Frédéric,1,1
+Maillard   Sylvain,Panot   Mathilde,0,1
+Maillard   Sylvain,Da Silva   Dominique,1,1
+Maillard   Sylvain,El Guerrab   M'jid,1,1
+Maillard   Sylvain,Vuilletet   Guillaume,1,1
+Maillard   Sylvain,Gouffier-Cha   Guillaume,1,1
+Maillard   Sylvain,Schellenberger   Raphaël,0,1
+Maillard   Sylvain,Fontenel-Personne   Pascale,1,1
+Maillard   Sylvain,Lenne   Marion,1,1
+Maillard   Sylvain,Le Gendre   Gilles,1,1
+Maillard   Sylvain,Viry   Stéphane,0,1
+Maillard   Sylvain,Terlier   Jean,1,1
+Maillard   Sylvain,Michel-Kleisbauer   Philippe,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Boucard   Ian,0,1
+Maillard   Sylvain,Lebec   Marie,1,1
+Maillard   Sylvain,Guévenoux   Marie,1,1
+Maillard   Sylvain,Braun-Pivet   Yaël,1,1
+Maillard   Sylvain,Millienne   Bruno,1,1
+Maillard   Sylvain,Dirx   Benjamin,1,1
+Larive   Michel,Roussel   Cédric,0,1
+Larive   Michel,Dharréville   Pierre,1,1
+Larive   Michel,Laqhila   Mohamed,0,1
+Larive   Michel,Blanchet   Christophe,0,1
+Larive   Michel,Tuffnell   Frédérique,0,1
+Larive   Michel,Castellani   Michel,0,1
+Larive   Michel,Moreau   Jean-Baptiste,0,1
+Larive   Michel,Clapot   Mireille,0,1
+Larive   Michel,Chapelier   Annie,0,1
+Larive   Michel,Balanant   Erwan,0,1
+Larive   Michel,Ménard   Emmanuelle,0,1
+Larive   Michel,Euzet   Christophe,0,1
+Larive   Michel,Mirallès   Patricia,0,1
+Larive   Michel,Colas-Roy   Jean-Charles,0,1
+Larive   Michel,Bachelier   Florian,0,1
+Larive   Michel,Chalumeau   Philippe,0,1
+Larive   Michel,Labaronne   Daniel,0,1
+Larive   Michel,Thillaye   Sabine,0,1
+Larive   Michel,Jacquier-Laforge   Élodie,0,1
+Larive   Michel,Brulebois   Danielle,0,1
+Larive   Michel,Pradié   Aurélien,0,1
+Larive   Michel,Dubré-Chirat   Nicole,0,1
+Larive   Michel,Bolo   Philippe,0,1
+Larive   Michel,Sorre   Bertrand,0,1
+Larive   Michel,Cariou   Émilie,0,1
+Larive   Michel,Trisse   Nicole,0,1
+Larive   Michel,Osson   Catherine,0,1
+Larive   Michel,Bureau-Bonnard   Carole,0,1
+Larive   Michel,Minot   Maxime,0,1
+Larive   Michel,Dumont   Pierre-Henri,0,1
+Larive   Michel,Waserman   Sylvain,0,1
+Larive   Michel,Descrozaille   Frédéric,0,1
+Larive   Michel,Panot   Mathilde,1,1
+Larive   Michel,Da Silva   Dominique,0,1
+Larive   Michel,El Guerrab   M'jid,0,1
+Larive   Michel,Vuilletet   Guillaume,0,1
+Larive   Michel,Gouffier-Cha   Guillaume,0,1
+Larive   Michel,Schellenberger   Raphaël,0,1
+Larive   Michel,Fontenel-Personne   Pascale,0,1
+Larive   Michel,Lenne   Marion,0,1
+Larive   Michel,Le Gendre   Gilles,0,1
+Larive   Michel,Viry   Stéphane,0,1
+Larive   Michel,Terlier   Jean,0,1
+Larive   Michel,Michel-Kleisbauer   Philippe,0,1
+Larive   Michel,Florennes   Isabelle,0,1
+Larive   Michel,Calvez   Céline,0,1
+Larive   Michel,Boucard   Ian,0,1
+Larive   Michel,Lebec   Marie,0,1
+Larive   Michel,Guévenoux   Marie,0,1
+Larive   Michel,Braun-Pivet   Yaël,0,1
+Larive   Michel,Millienne   Bruno,0,1
+Larive   Michel,Dirx   Benjamin,0,1
+Roussel   Cédric,Dharréville   Pierre,0,1
+Roussel   Cédric,Laqhila   Mohamed,1,1
+Roussel   Cédric,Blanchet   Christophe,1,1
+Roussel   Cédric,Tuffnell   Frédérique,1,1
+Roussel   Cédric,Castellani   Michel,1,1
+Roussel   Cédric,Moreau   Jean-Baptiste,1,1
+Roussel   Cédric,Clapot   Mireille,1,1
+Roussel   Cédric,Chapelier   Annie,1,1
+Roussel   Cédric,Balanant   Erwan,1,1
+Roussel   Cédric,Ménard   Emmanuelle,0,1
+Roussel   Cédric,Euzet   Christophe,1,1
+Roussel   Cédric,Mirallès   Patricia,1,1
+Roussel   Cédric,Colas-Roy   Jean-Charles,1,1
+Roussel   Cédric,Bachelier   Florian,1,1
+Roussel   Cédric,Chalumeau   Philippe,1,1
+Roussel   Cédric,Labaronne   Daniel,1,1
+Roussel   Cédric,Thillaye   Sabine,1,1
+Roussel   Cédric,Jacquier-Laforge   Élodie,1,1
+Roussel   Cédric,Brulebois   Danielle,1,1
+Roussel   Cédric,Pradié   Aurélien,0,1
+Roussel   Cédric,Dubré-Chirat   Nicole,1,1
+Roussel   Cédric,Bolo   Philippe,1,1
+Roussel   Cédric,Sorre   Bertrand,1,1
+Roussel   Cédric,Cariou   Émilie,1,1
+Roussel   Cédric,Trisse   Nicole,1,1
+Roussel   Cédric,Osson   Catherine,1,1
+Roussel   Cédric,Bureau-Bonnard   Carole,1,1
+Roussel   Cédric,Minot   Maxime,0,1
+Roussel   Cédric,Dumont   Pierre-Henri,0,1
+Roussel   Cédric,Waserman   Sylvain,1,1
+Roussel   Cédric,Descrozaille   Frédéric,1,1
+Roussel   Cédric,Panot   Mathilde,0,1
+Roussel   Cédric,Da Silva   Dominique,1,1
+Roussel   Cédric,El Guerrab   M'jid,1,1
+Roussel   Cédric,Vuilletet   Guillaume,1,1
+Roussel   Cédric,Gouffier-Cha   Guillaume,1,1
+Roussel   Cédric,Schellenberger   Raphaël,0,1
+Roussel   Cédric,Fontenel-Personne   Pascale,1,1
+Roussel   Cédric,Lenne   Marion,1,1
+Roussel   Cédric,Le Gendre   Gilles,1,1
+Roussel   Cédric,Viry   Stéphane,0,1
+Roussel   Cédric,Terlier   Jean,1,1
+Roussel   Cédric,Michel-Kleisbauer   Philippe,1,1
+Roussel   Cédric,Florennes   Isabelle,1,1
+Roussel   Cédric,Calvez   Céline,1,1
+Roussel   Cédric,Boucard   Ian,0,1
+Roussel   Cédric,Lebec   Marie,1,1
+Roussel   Cédric,Guévenoux   Marie,1,1
+Roussel   Cédric,Braun-Pivet   Yaël,1,1
+Roussel   Cédric,Millienne   Bruno,1,1
+Roussel   Cédric,Dirx   Benjamin,1,1
+Dharréville   Pierre,Laqhila   Mohamed,0,1
+Dharréville   Pierre,Blanchet   Christophe,0,1
+Dharréville   Pierre,Tuffnell   Frédérique,0,1
+Dharréville   Pierre,Castellani   Michel,0,1
+Dharréville   Pierre,Moreau   Jean-Baptiste,0,1
+Dharréville   Pierre,Clapot   Mireille,0,1
+Dharréville   Pierre,Chapelier   Annie,0,1
+Dharréville   Pierre,Balanant   Erwan,0,1
+Dharréville   Pierre,Ménard   Emmanuelle,0,1
+Dharréville   Pierre,Euzet   Christophe,0,1
+Dharréville   Pierre,Mirallès   Patricia,0,1
+Dharréville   Pierre,Colas-Roy   Jean-Charles,0,1
+Dharréville   Pierre,Bachelier   Florian,0,1
+Dharréville   Pierre,Chalumeau   Philippe,0,1
+Dharréville   Pierre,Labaronne   Daniel,0,1
+Dharréville   Pierre,Thillaye   Sabine,0,1
+Dharréville   Pierre,Jacquier-Laforge   Élodie,0,1
+Dharréville   Pierre,Brulebois   Danielle,0,1
+Dharréville   Pierre,Pradié   Aurélien,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Bolo   Philippe,0,1
+Dharréville   Pierre,Sorre   Bertrand,0,1
+Dharréville   Pierre,Cariou   Émilie,0,1
+Dharréville   Pierre,Trisse   Nicole,0,1
+Dharréville   Pierre,Osson   Catherine,0,1
+Dharréville   Pierre,Bureau-Bonnard   Carole,0,1
+Dharréville   Pierre,Minot   Maxime,0,1
+Dharréville   Pierre,Dumont   Pierre-Henri,0,1
+Dharréville   Pierre,Waserman   Sylvain,0,1
+Dharréville   Pierre,Descrozaille   Frédéric,0,1
+Dharréville   Pierre,Panot   Mathilde,1,1
+Dharréville   Pierre,Da Silva   Dominique,0,1
+Dharréville   Pierre,El Guerrab   M'jid,0,1
+Dharréville   Pierre,Vuilletet   Guillaume,0,1
+Dharréville   Pierre,Gouffier-Cha   Guillaume,0,1
+Dharréville   Pierre,Schellenberger   Raphaël,0,1
+Dharréville   Pierre,Fontenel-Personne   Pascale,0,1
+Dharréville   Pierre,Lenne   Marion,0,1
+Dharréville   Pierre,Le Gendre   Gilles,0,1
+Dharréville   Pierre,Viry   Stéphane,0,1
+Dharréville   Pierre,Terlier   Jean,0,1
+Dharréville   Pierre,Michel-Kleisbauer   Philippe,0,1
+Dharréville   Pierre,Florennes   Isabelle,0,1
+Dharréville   Pierre,Calvez   Céline,0,1
+Dharréville   Pierre,Boucard   Ian,0,1
+Dharréville   Pierre,Lebec   Marie,0,1
+Dharréville   Pierre,Guévenoux   Marie,0,1
+Dharréville   Pierre,Braun-Pivet   Yaël,0,1
+Dharréville   Pierre,Millienne   Bruno,0,1
+Dharréville   Pierre,Dirx   Benjamin,0,1
+Laqhila   Mohamed,Blanchet   Christophe,1,1
+Laqhila   Mohamed,Tuffnell   Frédérique,1,1
+Laqhila   Mohamed,Castellani   Michel,1,1
+Laqhila   Mohamed,Moreau   Jean-Baptiste,1,1
+Laqhila   Mohamed,Clapot   Mireille,1,1
+Laqhila   Mohamed,Chapelier   Annie,1,1
+Laqhila   Mohamed,Balanant   Erwan,1,1
+Laqhila   Mohamed,Ménard   Emmanuelle,0,1
+Laqhila   Mohamed,Euzet   Christophe,1,1
+Laqhila   Mohamed,Mirallès   Patricia,1,1
+Laqhila   Mohamed,Colas-Roy   Jean-Charles,1,1
+Laqhila   Mohamed,Bachelier   Florian,1,1
+Laqhila   Mohamed,Chalumeau   Philippe,1,1
+Laqhila   Mohamed,Labaronne   Daniel,1,1
+Laqhila   Mohamed,Thillaye   Sabine,1,1
+Laqhila   Mohamed,Jacquier-Laforge   Élodie,1,1
+Laqhila   Mohamed,Brulebois   Danielle,1,1
+Laqhila   Mohamed,Pradié   Aurélien,0,1
+Laqhila   Mohamed,Dubré-Chirat   Nicole,1,1
+Laqhila   Mohamed,Bolo   Philippe,1,1
+Laqhila   Mohamed,Sorre   Bertrand,1,1
+Laqhila   Mohamed,Cariou   Émilie,1,1
+Laqhila   Mohamed,Trisse   Nicole,1,1
+Laqhila   Mohamed,Osson   Catherine,1,1
+Laqhila   Mohamed,Bureau-Bonnard   Carole,1,1
+Laqhila   Mohamed,Minot   Maxime,0,1
+Laqhila   Mohamed,Dumont   Pierre-Henri,0,1
+Laqhila   Mohamed,Waserman   Sylvain,1,1
+Laqhila   Mohamed,Descrozaille   Frédéric,1,1
+Laqhila   Mohamed,Panot   Mathilde,0,1
+Laqhila   Mohamed,Da Silva   Dominique,1,1
+Laqhila   Mohamed,El Guerrab   M'jid,1,1
+Laqhila   Mohamed,Vuilletet   Guillaume,1,1
+Laqhila   Mohamed,Gouffier-Cha   Guillaume,1,1
+Laqhila   Mohamed,Schellenberger   Raphaël,0,1
+Laqhila   Mohamed,Fontenel-Personne   Pascale,1,1
+Laqhila   Mohamed,Lenne   Marion,1,1
+Laqhila   Mohamed,Le Gendre   Gilles,1,1
+Laqhila   Mohamed,Viry   Stéphane,0,1
+Laqhila   Mohamed,Terlier   Jean,1,1
+Laqhila   Mohamed,Michel-Kleisbauer   Philippe,1,1
+Laqhila   Mohamed,Florennes   Isabelle,1,1
+Laqhila   Mohamed,Calvez   Céline,1,1
+Laqhila   Mohamed,Boucard   Ian,0,1
+Laqhila   Mohamed,Lebec   Marie,1,1
+Laqhila   Mohamed,Guévenoux   Marie,1,1
+Laqhila   Mohamed,Braun-Pivet   Yaël,1,1
+Laqhila   Mohamed,Millienne   Bruno,1,1
+Laqhila   Mohamed,Dirx   Benjamin,1,1
+Blanchet   Christophe,Tuffnell   Frédérique,1,1
+Blanchet   Christophe,Castellani   Michel,1,1
+Blanchet   Christophe,Moreau   Jean-Baptiste,1,1
+Blanchet   Christophe,Clapot   Mireille,1,1
+Blanchet   Christophe,Chapelier   Annie,1,1
+Blanchet   Christophe,Balanant   Erwan,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,Euzet   Christophe,1,1
+Blanchet   Christophe,Mirallès   Patricia,1,1
+Blanchet   Christophe,Colas-Roy   Jean-Charles,1,1
+Blanchet   Christophe,Bachelier   Florian,1,1
+Blanchet   Christophe,Chalumeau   Philippe,1,1
+Blanchet   Christophe,Labaronne   Daniel,1,1
+Blanchet   Christophe,Thillaye   Sabine,1,1
+Blanchet   Christophe,Jacquier-Laforge   Élodie,1,1
+Blanchet   Christophe,Brulebois   Danielle,1,1
+Blanchet   Christophe,Pradié   Aurélien,0,1
+Blanchet   Christophe,Dubré-Chirat   Nicole,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Sorre   Bertrand,1,1
+Blanchet   Christophe,Cariou   Émilie,1,1
+Blanchet   Christophe,Trisse   Nicole,1,1
+Blanchet   Christophe,Osson   Catherine,1,1
+Blanchet   Christophe,Bureau-Bonnard   Carole,1,1
+Blanchet   Christophe,Minot   Maxime,0,1
+Blanchet   Christophe,Dumont   Pierre-Henri,0,1
+Blanchet   Christophe,Waserman   Sylvain,1,1
+Blanchet   Christophe,Descrozaille   Frédéric,1,1
+Blanchet   Christophe,Panot   Mathilde,0,1
+Blanchet   Christophe,Da Silva   Dominique,1,1
+Blanchet   Christophe,El Guerrab   M'jid,1,1
+Blanchet   Christophe,Vuilletet   Guillaume,1,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Schellenberger   Raphaël,0,1
+Blanchet   Christophe,Fontenel-Personne   Pascale,1,1
+Blanchet   Christophe,Lenne   Marion,1,1
+Blanchet   Christophe,Le Gendre   Gilles,1,1
+Blanchet   Christophe,Viry   Stéphane,0,1
+Blanchet   Christophe,Terlier   Jean,1,1
+Blanchet   Christophe,Michel-Kleisbauer   Philippe,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Calvez   Céline,1,1
+Blanchet   Christophe,Boucard   Ian,0,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Guévenoux   Marie,1,1
+Blanchet   Christophe,Braun-Pivet   Yaël,1,1
+Blanchet   Christophe,Millienne   Bruno,1,1
+Blanchet   Christophe,Dirx   Benjamin,1,1
+Tuffnell   Frédérique,Castellani   Michel,1,1
+Tuffnell   Frédérique,Moreau   Jean-Baptiste,1,1
+Tuffnell   Frédérique,Clapot   Mireille,1,1
+Tuffnell   Frédérique,Chapelier   Annie,1,1
+Tuffnell   Frédérique,Balanant   Erwan,1,1
+Tuffnell   Frédérique,Ménard   Emmanuelle,0,1
+Tuffnell   Frédérique,Euzet   Christophe,1,1
+Tuffnell   Frédérique,Mirallès   Patricia,1,1
+Tuffnell   Frédérique,Colas-Roy   Jean-Charles,1,1
+Tuffnell   Frédérique,Bachelier   Florian,1,1
+Tuffnell   Frédérique,Chalumeau   Philippe,1,1
+Tuffnell   Frédérique,Labaronne   Daniel,1,1
+Tuffnell   Frédérique,Thillaye   Sabine,1,1
+Tuffnell   Frédérique,Jacquier-Laforge   Élodie,1,1
+Tuffnell   Frédérique,Brulebois   Danielle,1,1
+Tuffnell   Frédérique,Pradié   Aurélien,0,1
+Tuffnell   Frédérique,Dubré-Chirat   Nicole,1,1
+Tuffnell   Frédérique,Bolo   Philippe,1,1
+Tuffnell   Frédérique,Sorre   Bertrand,1,1
+Tuffnell   Frédérique,Cariou   Émilie,1,1
+Tuffnell   Frédérique,Trisse   Nicole,1,1
+Tuffnell   Frédérique,Osson   Catherine,1,1
+Tuffnell   Frédérique,Bureau-Bonnard   Carole,1,1
+Tuffnell   Frédérique,Minot   Maxime,0,1
+Tuffnell   Frédérique,Dumont   Pierre-Henri,0,1
+Tuffnell   Frédérique,Waserman   Sylvain,1,1
+Tuffnell   Frédérique,Descrozaille   Frédéric,1,1
+Tuffnell   Frédérique,Panot   Mathilde,0,1
+Tuffnell   Frédérique,Da Silva   Dominique,1,1
+Tuffnell   Frédérique,El Guerrab   M'jid,1,1
+Tuffnell   Frédérique,Vuilletet   Guillaume,1,1
+Tuffnell   Frédérique,Gouffier-Cha   Guillaume,1,1
+Tuffnell   Frédérique,Schellenberger   Raphaël,0,1
+Tuffnell   Frédérique,Fontenel-Personne   Pascale,1,1
+Tuffnell   Frédérique,Lenne   Marion,1,1
+Tuffnell   Frédérique,Le Gendre   Gilles,1,1
+Tuffnell   Frédérique,Viry   Stéphane,0,1
+Tuffnell   Frédérique,Terlier   Jean,1,1
+Tuffnell   Frédérique,Michel-Kleisbauer   Philippe,1,1
+Tuffnell   Frédérique,Florennes   Isabelle,1,1
+Tuffnell   Frédérique,Calvez   Céline,1,1
+Tuffnell   Frédérique,Boucard   Ian,0,1
+Tuffnell   Frédérique,Lebec   Marie,1,1
+Tuffnell   Frédérique,Guévenoux   Marie,1,1
+Tuffnell   Frédérique,Braun-Pivet   Yaël,1,1
+Tuffnell   Frédérique,Millienne   Bruno,1,1
+Tuffnell   Frédérique,Dirx   Benjamin,1,1
+Castellani   Michel,Moreau   Jean-Baptiste,1,1
+Castellani   Michel,Clapot   Mireille,1,1
+Castellani   Michel,Chapelier   Annie,1,1
+Castellani   Michel,Balanant   Erwan,1,1
+Castellani   Michel,Ménard   Emmanuelle,0,1
+Castellani   Michel,Euzet   Christophe,1,1
+Castellani   Michel,Mirallès   Patricia,1,1
+Castellani   Michel,Colas-Roy   Jean-Charles,1,1
+Castellani   Michel,Bachelier   Florian,1,1
+Castellani   Michel,Chalumeau   Philippe,1,1
+Castellani   Michel,Labaronne   Daniel,1,1
+Castellani   Michel,Thillaye   Sabine,1,1
+Castellani   Michel,Jacquier-Laforge   Élodie,1,1
+Castellani   Michel,Brulebois   Danielle,1,1
+Castellani   Michel,Pradié   Aurélien,0,1
+Castellani   Michel,Dubré-Chirat   Nicole,1,1
+Castellani   Michel,Bolo   Philippe,1,1
+Castellani   Michel,Sorre   Bertrand,1,1
+Castellani   Michel,Cariou   Émilie,1,1
+Castellani   Michel,Trisse   Nicole,1,1
+Castellani   Michel,Osson   Catherine,1,1
+Castellani   Michel,Bureau-Bonnard   Carole,1,1
+Castellani   Michel,Minot   Maxime,0,1
+Castellani   Michel,Dumont   Pierre-Henri,0,1
+Castellani   Michel,Waserman   Sylvain,1,1
+Castellani   Michel,Descrozaille   Frédéric,1,1
+Castellani   Michel,Panot   Mathilde,0,1
+Castellani   Michel,Da Silva   Dominique,1,1
+Castellani   Michel,El Guerrab   M'jid,1,1
+Castellani   Michel,Vuilletet   Guillaume,1,1
+Castellani   Michel,Gouffier-Cha   Guillaume,1,1
+Castellani   Michel,Schellenberger   Raphaël,0,1
+Castellani   Michel,Fontenel-Personne   Pascale,1,1
+Castellani   Michel,Lenne   Marion,1,1
+Castellani   Michel,Le Gendre   Gilles,1,1
+Castellani   Michel,Viry   Stéphane,0,1
+Castellani   Michel,Terlier   Jean,1,1
+Castellani   Michel,Michel-Kleisbauer   Philippe,1,1
+Castellani   Michel,Florennes   Isabelle,1,1
+Castellani   Michel,Calvez   Céline,1,1
+Castellani   Michel,Boucard   Ian,0,1
+Castellani   Michel,Lebec   Marie,1,1
+Castellani   Michel,Guévenoux   Marie,1,1
+Castellani   Michel,Braun-Pivet   Yaël,1,1
+Castellani   Michel,Millienne   Bruno,1,1
+Castellani   Michel,Dirx   Benjamin,1,1
+Moreau   Jean-Baptiste,Clapot   Mireille,1,1
+Moreau   Jean-Baptiste,Chapelier   Annie,1,1
+Moreau   Jean-Baptiste,Balanant   Erwan,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,0,1
+Moreau   Jean-Baptiste,Euzet   Christophe,1,1
+Moreau   Jean-Baptiste,Mirallès   Patricia,1,1
+Moreau   Jean-Baptiste,Colas-Roy   Jean-Charles,1,1
+Moreau   Jean-Baptiste,Bachelier   Florian,1,1
+Moreau   Jean-Baptiste,Chalumeau   Philippe,1,1
+Moreau   Jean-Baptiste,Labaronne   Daniel,1,1
+Moreau   Jean-Baptiste,Thillaye   Sabine,1,1
+Moreau   Jean-Baptiste,Jacquier-Laforge   Élodie,1,1
+Moreau   Jean-Baptiste,Brulebois   Danielle,1,1
+Moreau   Jean-Baptiste,Pradié   Aurélien,0,1
+Moreau   Jean-Baptiste,Dubré-Chirat   Nicole,1,1
+Moreau   Jean-Baptiste,Bolo   Philippe,1,1
+Moreau   Jean-Baptiste,Sorre   Bertrand,1,1
+Moreau   Jean-Baptiste,Cariou   Émilie,1,1
+Moreau   Jean-Baptiste,Trisse   Nicole,1,1
+Moreau   Jean-Baptiste,Osson   Catherine,1,1
+Moreau   Jean-Baptiste,Bureau-Bonnard   Carole,1,1
+Moreau   Jean-Baptiste,Minot   Maxime,0,1
+Moreau   Jean-Baptiste,Dumont   Pierre-Henri,0,1
+Moreau   Jean-Baptiste,Waserman   Sylvain,1,1
+Moreau   Jean-Baptiste,Descrozaille   Frédéric,1,1
+Moreau   Jean-Baptiste,Panot   Mathilde,0,1
+Moreau   Jean-Baptiste,Da Silva   Dominique,1,1
+Moreau   Jean-Baptiste,El Guerrab   M'jid,1,1
+Moreau   Jean-Baptiste,Vuilletet   Guillaume,1,1
+Moreau   Jean-Baptiste,Gouffier-Cha   Guillaume,1,1
+Moreau   Jean-Baptiste,Schellenberger   Raphaël,0,1
+Moreau   Jean-Baptiste,Fontenel-Personne   Pascale,1,1
+Moreau   Jean-Baptiste,Lenne   Marion,1,1
+Moreau   Jean-Baptiste,Le Gendre   Gilles,1,1
+Moreau   Jean-Baptiste,Viry   Stéphane,0,1
+Moreau   Jean-Baptiste,Terlier   Jean,1,1
+Moreau   Jean-Baptiste,Michel-Kleisbauer   Philippe,1,1
+Moreau   Jean-Baptiste,Florennes   Isabelle,1,1
+Moreau   Jean-Baptiste,Calvez   Céline,1,1
+Moreau   Jean-Baptiste,Boucard   Ian,0,1
+Moreau   Jean-Baptiste,Lebec   Marie,1,1
+Moreau   Jean-Baptiste,Guévenoux   Marie,1,1
+Moreau   Jean-Baptiste,Braun-Pivet   Yaël,1,1
+Moreau   Jean-Baptiste,Millienne   Bruno,1,1
+Moreau   Jean-Baptiste,Dirx   Benjamin,1,1
+Clapot   Mireille,Chapelier   Annie,1,1
+Clapot   Mireille,Balanant   Erwan,1,1
+Clapot   Mireille,Ménard   Emmanuelle,0,1
+Clapot   Mireille,Euzet   Christophe,1,1
+Clapot   Mireille,Mirallès   Patricia,1,1
+Clapot   Mireille,Colas-Roy   Jean-Charles,1,1
+Clapot   Mireille,Bachelier   Florian,1,1
+Clapot   Mireille,Chalumeau   Philippe,1,1
+Clapot   Mireille,Labaronne   Daniel,1,1
+Clapot   Mireille,Thillaye   Sabine,1,1
+Clapot   Mireille,Jacquier-Laforge   Élodie,1,1
+Clapot   Mireille,Brulebois   Danielle,1,1
+Clapot   Mireille,Pradié   Aurélien,0,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Bolo   Philippe,1,1
+Clapot   Mireille,Sorre   Bertrand,1,1
+Clapot   Mireille,Cariou   Émilie,1,1
+Clapot   Mireille,Trisse   Nicole,1,1
+Clapot   Mireille,Osson   Catherine,1,1
+Clapot   Mireille,Bureau-Bonnard   Carole,1,1
+Clapot   Mireille,Minot   Maxime,0,1
+Clapot   Mireille,Dumont   Pierre-Henri,0,1
+Clapot   Mireille,Waserman   Sylvain,1,1
+Clapot   Mireille,Descrozaille   Frédéric,1,1
+Clapot   Mireille,Panot   Mathilde,0,1
+Clapot   Mireille,Da Silva   Dominique,1,1
+Clapot   Mireille,El Guerrab   M'jid,1,1
+Clapot   Mireille,Vuilletet   Guillaume,1,1
+Clapot   Mireille,Gouffier-Cha   Guillaume,1,1
+Clapot   Mireille,Schellenberger   Raphaël,0,1
+Clapot   Mireille,Fontenel-Personne   Pascale,1,1
+Clapot   Mireille,Lenne   Marion,1,1
+Clapot   Mireille,Le Gendre   Gilles,1,1
+Clapot   Mireille,Viry   Stéphane,0,1
+Clapot   Mireille,Terlier   Jean,1,1
+Clapot   Mireille,Michel-Kleisbauer   Philippe,1,1
+Clapot   Mireille,Florennes   Isabelle,1,1
+Clapot   Mireille,Calvez   Céline,1,1
+Clapot   Mireille,Boucard   Ian,0,1
+Clapot   Mireille,Lebec   Marie,1,1
+Clapot   Mireille,Guévenoux   Marie,1,1
+Clapot   Mireille,Braun-Pivet   Yaël,1,1
+Clapot   Mireille,Millienne   Bruno,1,1
+Clapot   Mireille,Dirx   Benjamin,1,1
+Chapelier   Annie,Balanant   Erwan,1,1
+Chapelier   Annie,Ménard   Emmanuelle,0,1
+Chapelier   Annie,Euzet   Christophe,1,1
+Chapelier   Annie,Mirallès   Patricia,1,1
+Chapelier   Annie,Colas-Roy   Jean-Charles,1,1
+Chapelier   Annie,Bachelier   Florian,1,1
+Chapelier   Annie,Chalumeau   Philippe,1,1
+Chapelier   Annie,Labaronne   Daniel,1,1
+Chapelier   Annie,Thillaye   Sabine,1,1
+Chapelier   Annie,Jacquier-Laforge   Élodie,1,1
+Chapelier   Annie,Brulebois   Danielle,1,1
+Chapelier   Annie,Pradié   Aurélien,0,1
+Chapelier   Annie,Dubré-Chirat   Nicole,1,1
+Chapelier   Annie,Bolo   Philippe,1,1
+Chapelier   Annie,Sorre   Bertrand,1,1
+Chapelier   Annie,Cariou   Émilie,1,1
+Chapelier   Annie,Trisse   Nicole,1,1
+Chapelier   Annie,Osson   Catherine,1,1
+Chapelier   Annie,Bureau-Bonnard   Carole,1,1
+Chapelier   Annie,Minot   Maxime,0,1
+Chapelier   Annie,Dumont   Pierre-Henri,0,1
+Chapelier   Annie,Waserman   Sylvain,1,1
+Chapelier   Annie,Descrozaille   Frédéric,1,1
+Chapelier   Annie,Panot   Mathilde,0,1
+Chapelier   Annie,Da Silva   Dominique,1,1
+Chapelier   Annie,El Guerrab   M'jid,1,1
+Chapelier   Annie,Vuilletet   Guillaume,1,1
+Chapelier   Annie,Gouffier-Cha   Guillaume,1,1
+Chapelier   Annie,Schellenberger   Raphaël,0,1
+Chapelier   Annie,Fontenel-Personne   Pascale,1,1
+Chapelier   Annie,Lenne   Marion,1,1
+Chapelier   Annie,Le Gendre   Gilles,1,1
+Chapelier   Annie,Viry   Stéphane,0,1
+Chapelier   Annie,Terlier   Jean,1,1
+Chapelier   Annie,Michel-Kleisbauer   Philippe,1,1
+Chapelier   Annie,Florennes   Isabelle,1,1
+Chapelier   Annie,Calvez   Céline,1,1
+Chapelier   Annie,Boucard   Ian,0,1
+Chapelier   Annie,Lebec   Marie,1,1
+Chapelier   Annie,Guévenoux   Marie,1,1
+Chapelier   Annie,Braun-Pivet   Yaël,1,1
+Chapelier   Annie,Millienne   Bruno,1,1
+Chapelier   Annie,Dirx   Benjamin,1,1
+Balanant   Erwan,Ménard   Emmanuelle,0,1
+Balanant   Erwan,Euzet   Christophe,1,1
+Balanant   Erwan,Mirallès   Patricia,1,1
+Balanant   Erwan,Colas-Roy   Jean-Charles,1,1
+Balanant   Erwan,Bachelier   Florian,1,1
+Balanant   Erwan,Chalumeau   Philippe,1,1
+Balanant   Erwan,Labaronne   Daniel,1,1
+Balanant   Erwan,Thillaye   Sabine,1,1
+Balanant   Erwan,Jacquier-Laforge   Élodie,1,1
+Balanant   Erwan,Brulebois   Danielle,1,1
+Balanant   Erwan,Pradié   Aurélien,0,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Bolo   Philippe,1,1
+Balanant   Erwan,Sorre   Bertrand,1,1
+Balanant   Erwan,Cariou   Émilie,1,1
+Balanant   Erwan,Trisse   Nicole,1,1
+Balanant   Erwan,Osson   Catherine,1,1
+Balanant   Erwan,Bureau-Bonnard   Carole,1,1
+Balanant   Erwan,Minot   Maxime,0,1
+Balanant   Erwan,Dumont   Pierre-Henri,0,1
+Balanant   Erwan,Waserman   Sylvain,1,1
+Balanant   Erwan,Descrozaille   Frédéric,1,1
+Balanant   Erwan,Panot   Mathilde,0,1
+Balanant   Erwan,Da Silva   Dominique,1,1
+Balanant   Erwan,El Guerrab   M'jid,1,1
+Balanant   Erwan,Vuilletet   Guillaume,1,1
+Balanant   Erwan,Gouffier-Cha   Guillaume,1,1
+Balanant   Erwan,Schellenberger   Raphaël,0,1
+Balanant   Erwan,Fontenel-Personne   Pascale,1,1
+Balanant   Erwan,Lenne   Marion,1,1
+Balanant   Erwan,Le Gendre   Gilles,1,1
+Balanant   Erwan,Viry   Stéphane,0,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Michel-Kleisbauer   Philippe,1,1
+Balanant   Erwan,Florennes   Isabelle,1,1
+Balanant   Erwan,Calvez   Céline,1,1
+Balanant   Erwan,Boucard   Ian,0,1
+Balanant   Erwan,Lebec   Marie,1,1
+Balanant   Erwan,Guévenoux   Marie,1,1
+Balanant   Erwan,Braun-Pivet   Yaël,1,1
+Balanant   Erwan,Millienne   Bruno,1,1
+Balanant   Erwan,Dirx   Benjamin,1,1
+Ménard   Emmanuelle,Euzet   Christophe,0,1
+Ménard   Emmanuelle,Mirallès   Patricia,0,1
+Ménard   Emmanuelle,Colas-Roy   Jean-Charles,0,1
+Ménard   Emmanuelle,Bachelier   Florian,0,1
+Ménard   Emmanuelle,Chalumeau   Philippe,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Thillaye   Sabine,0,1
+Ménard   Emmanuelle,Jacquier-Laforge   Élodie,0,1
+Ménard   Emmanuelle,Brulebois   Danielle,0,1
+Ménard   Emmanuelle,Pradié   Aurélien,1,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Bolo   Philippe,0,1
+Ménard   Emmanuelle,Sorre   Bertrand,0,1
+Ménard   Emmanuelle,Cariou   Émilie,0,1
+Ménard   Emmanuelle,Trisse   Nicole,0,1
+Ménard   Emmanuelle,Osson   Catherine,0,1
+Ménard   Emmanuelle,Bureau-Bonnard   Carole,0,1
+Ménard   Emmanuelle,Minot   Maxime,1,1
+Ménard   Emmanuelle,Dumont   Pierre-Henri,1,1
+Ménard   Emmanuelle,Waserman   Sylvain,0,1
+Ménard   Emmanuelle,Descrozaille   Frédéric,0,1
+Ménard   Emmanuelle,Panot   Mathilde,0,1
+Ménard   Emmanuelle,Da Silva   Dominique,0,1
+Ménard   Emmanuelle,El Guerrab   M'jid,0,1
+Ménard   Emmanuelle,Vuilletet   Guillaume,0,1
+Ménard   Emmanuelle,Gouffier-Cha   Guillaume,0,1
+Ménard   Emmanuelle,Schellenberger   Raphaël,1,1
+Ménard   Emmanuelle,Fontenel-Personne   Pascale,0,1
+Ménard   Emmanuelle,Lenne   Marion,0,1
+Ménard   Emmanuelle,Le Gendre   Gilles,0,1
+Ménard   Emmanuelle,Viry   Stéphane,1,1
+Ménard   Emmanuelle,Terlier   Jean,0,1
+Ménard   Emmanuelle,Michel-Kleisbauer   Philippe,0,1
+Ménard   Emmanuelle,Florennes   Isabelle,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Boucard   Ian,1,1
+Ménard   Emmanuelle,Lebec   Marie,0,1
+Ménard   Emmanuelle,Guévenoux   Marie,0,1
+Ménard   Emmanuelle,Braun-Pivet   Yaël,0,1
+Ménard   Emmanuelle,Millienne   Bruno,0,1
+Ménard   Emmanuelle,Dirx   Benjamin,0,1
+Euzet   Christophe,Mirallès   Patricia,1,1
+Euzet   Christophe,Colas-Roy   Jean-Charles,1,1
+Euzet   Christophe,Bachelier   Florian,1,1
+Euzet   Christophe,Chalumeau   Philippe,1,1
+Euzet   Christophe,Labaronne   Daniel,1,1
+Euzet   Christophe,Thillaye   Sabine,1,1
+Euzet   Christophe,Jacquier-Laforge   Élodie,1,1
+Euzet   Christophe,Brulebois   Danielle,1,1
+Euzet   Christophe,Pradié   Aurélien,0,1
+Euzet   Christophe,Dubré-Chirat   Nicole,1,1
+Euzet   Christophe,Bolo   Philippe,1,1
+Euzet   Christophe,Sorre   Bertrand,1,1
+Euzet   Christophe,Cariou   Émilie,1,1
+Euzet   Christophe,Trisse   Nicole,1,1
+Euzet   Christophe,Osson   Catherine,1,1
+Euzet   Christophe,Bureau-Bonnard   Carole,1,1
+Euzet   Christophe,Minot   Maxime,0,1
+Euzet   Christophe,Dumont   Pierre-Henri,0,1
+Euzet   Christophe,Waserman   Sylvain,1,1
+Euzet   Christophe,Descrozaille   Frédéric,1,1
+Euzet   Christophe,Panot   Mathilde,0,1
+Euzet   Christophe,Da Silva   Dominique,1,1
+Euzet   Christophe,El Guerrab   M'jid,1,1
+Euzet   Christophe,Vuilletet   Guillaume,1,1
+Euzet   Christophe,Gouffier-Cha   Guillaume,1,1
+Euzet   Christophe,Schellenberger   Raphaël,0,1
+Euzet   Christophe,Fontenel-Personne   Pascale,1,1
+Euzet   Christophe,Lenne   Marion,1,1
+Euzet   Christophe,Le Gendre   Gilles,1,1
+Euzet   Christophe,Viry   Stéphane,0,1
+Euzet   Christophe,Terlier   Jean,1,1
+Euzet   Christophe,Michel-Kleisbauer   Philippe,1,1
+Euzet   Christophe,Florennes   Isabelle,1,1
+Euzet   Christophe,Calvez   Céline,1,1
+Euzet   Christophe,Boucard   Ian,0,1
+Euzet   Christophe,Lebec   Marie,1,1
+Euzet   Christophe,Guévenoux   Marie,1,1
+Euzet   Christophe,Braun-Pivet   Yaël,1,1
+Euzet   Christophe,Millienne   Bruno,1,1
+Euzet   Christophe,Dirx   Benjamin,1,1
+Mirallès   Patricia,Colas-Roy   Jean-Charles,1,1
+Mirallès   Patricia,Bachelier   Florian,1,1
+Mirallès   Patricia,Chalumeau   Philippe,1,1
+Mirallès   Patricia,Labaronne   Daniel,1,1
+Mirallès   Patricia,Thillaye   Sabine,1,1
+Mirallès   Patricia,Jacquier-Laforge   Élodie,1,1
+Mirallès   Patricia,Brulebois   Danielle,1,1
+Mirallès   Patricia,Pradié   Aurélien,0,1
+Mirallès   Patricia,Dubré-Chirat   Nicole,1,1
+Mirallès   Patricia,Bolo   Philippe,1,1
+Mirallès   Patricia,Sorre   Bertrand,1,1
+Mirallès   Patricia,Cariou   Émilie,1,1
+Mirallès   Patricia,Trisse   Nicole,1,1
+Mirallès   Patricia,Osson   Catherine,1,1
+Mirallès   Patricia,Bureau-Bonnard   Carole,1,1
+Mirallès   Patricia,Minot   Maxime,0,1
+Mirallès   Patricia,Dumont   Pierre-Henri,0,1
+Mirallès   Patricia,Waserman   Sylvain,1,1
+Mirallès   Patricia,Descrozaille   Frédéric,1,1
+Mirallès   Patricia,Panot   Mathilde,0,1
+Mirallès   Patricia,Da Silva   Dominique,1,1
+Mirallès   Patricia,El Guerrab   M'jid,1,1
+Mirallès   Patricia,Vuilletet   Guillaume,1,1
+Mirallès   Patricia,Gouffier-Cha   Guillaume,1,1
+Mirallès   Patricia,Schellenberger   Raphaël,0,1
+Mirallès   Patricia,Fontenel-Personne   Pascale,1,1
+Mirallès   Patricia,Lenne   Marion,1,1
+Mirallès   Patricia,Le Gendre   Gilles,1,1
+Mirallès   Patricia,Viry   Stéphane,0,1
+Mirallès   Patricia,Terlier   Jean,1,1
+Mirallès   Patricia,Michel-Kleisbauer   Philippe,1,1
+Mirallès   Patricia,Florennes   Isabelle,1,1
+Mirallès   Patricia,Calvez   Céline,1,1
+Mirallès   Patricia,Boucard   Ian,0,1
+Mirallès   Patricia,Lebec   Marie,1,1
+Mirallès   Patricia,Guévenoux   Marie,1,1
+Mirallès   Patricia,Braun-Pivet   Yaël,1,1
+Mirallès   Patricia,Millienne   Bruno,1,1
+Mirallès   Patricia,Dirx   Benjamin,1,1
+Colas-Roy   Jean-Charles,Bachelier   Florian,1,1
+Colas-Roy   Jean-Charles,Chalumeau   Philippe,1,1
+Colas-Roy   Jean-Charles,Labaronne   Daniel,1,1
+Colas-Roy   Jean-Charles,Thillaye   Sabine,1,1
+Colas-Roy   Jean-Charles,Jacquier-Laforge   Élodie,1,1
+Colas-Roy   Jean-Charles,Brulebois   Danielle,1,1
+Colas-Roy   Jean-Charles,Pradié   Aurélien,0,1
+Colas-Roy   Jean-Charles,Dubré-Chirat   Nicole,1,1
+Colas-Roy   Jean-Charles,Bolo   Philippe,1,1
+Colas-Roy   Jean-Charles,Sorre   Bertrand,1,1
+Colas-Roy   Jean-Charles,Cariou   Émilie,1,1
+Colas-Roy   Jean-Charles,Trisse   Nicole,1,1
+Colas-Roy   Jean-Charles,Osson   Catherine,1,1
+Colas-Roy   Jean-Charles,Bureau-Bonnard   Carole,1,1
+Colas-Roy   Jean-Charles,Minot   Maxime,0,1
+Colas-Roy   Jean-Charles,Dumont   Pierre-Henri,0,1
+Colas-Roy   Jean-Charles,Waserman   Sylvain,1,1
+Colas-Roy   Jean-Charles,Descrozaille   Frédéric,1,1
+Colas-Roy   Jean-Charles,Panot   Mathilde,0,1
+Colas-Roy   Jean-Charles,Da Silva   Dominique,1,1
+Colas-Roy   Jean-Charles,El Guerrab   M'jid,1,1
+Colas-Roy   Jean-Charles,Vuilletet   Guillaume,1,1
+Colas-Roy   Jean-Charles,Gouffier-Cha   Guillaume,1,1
+Colas-Roy   Jean-Charles,Schellenberger   Raphaël,0,1
+Colas-Roy   Jean-Charles,Fontenel-Personne   Pascale,1,1
+Colas-Roy   Jean-Charles,Lenne   Marion,1,1
+Colas-Roy   Jean-Charles,Le Gendre   Gilles,1,1
+Colas-Roy   Jean-Charles,Viry   Stéphane,0,1
+Colas-Roy   Jean-Charles,Terlier   Jean,1,1
+Colas-Roy   Jean-Charles,Michel-Kleisbauer   Philippe,1,1
+Colas-Roy   Jean-Charles,Florennes   Isabelle,1,1
+Colas-Roy   Jean-Charles,Calvez   Céline,1,1
+Colas-Roy   Jean-Charles,Boucard   Ian,0,1
+Colas-Roy   Jean-Charles,Lebec   Marie,1,1
+Colas-Roy   Jean-Charles,Guévenoux   Marie,1,1
+Colas-Roy   Jean-Charles,Braun-Pivet   Yaël,1,1
+Colas-Roy   Jean-Charles,Millienne   Bruno,1,1
+Colas-Roy   Jean-Charles,Dirx   Benjamin,1,1
+Bachelier   Florian,Chalumeau   Philippe,1,1
+Bachelier   Florian,Labaronne   Daniel,1,1
+Bachelier   Florian,Thillaye   Sabine,1,1
+Bachelier   Florian,Jacquier-Laforge   Élodie,1,1
+Bachelier   Florian,Brulebois   Danielle,1,1
+Bachelier   Florian,Pradié   Aurélien,0,1
+Bachelier   Florian,Dubré-Chirat   Nicole,1,1
+Bachelier   Florian,Bolo   Philippe,1,1
+Bachelier   Florian,Sorre   Bertrand,1,1
+Bachelier   Florian,Cariou   Émilie,1,1
+Bachelier   Florian,Trisse   Nicole,1,1
+Bachelier   Florian,Osson   Catherine,1,1
+Bachelier   Florian,Bureau-Bonnard   Carole,1,1
+Bachelier   Florian,Minot   Maxime,0,1
+Bachelier   Florian,Dumont   Pierre-Henri,0,1
+Bachelier   Florian,Waserman   Sylvain,1,1
+Bachelier   Florian,Descrozaille   Frédéric,1,1
+Bachelier   Florian,Panot   Mathilde,0,1
+Bachelier   Florian,Da Silva   Dominique,1,1
+Bachelier   Florian,El Guerrab   M'jid,1,1
+Bachelier   Florian,Vuilletet   Guillaume,1,1
+Bachelier   Florian,Gouffier-Cha   Guillaume,1,1
+Bachelier   Florian,Schellenberger   Raphaël,0,1
+Bachelier   Florian,Fontenel-Personne   Pascale,1,1
+Bachelier   Florian,Lenne   Marion,1,1
+Bachelier   Florian,Le Gendre   Gilles,1,1
+Bachelier   Florian,Viry   Stéphane,0,1
+Bachelier   Florian,Terlier   Jean,1,1
+Bachelier   Florian,Michel-Kleisbauer   Philippe,1,1
+Bachelier   Florian,Florennes   Isabelle,1,1
+Bachelier   Florian,Calvez   Céline,1,1
+Bachelier   Florian,Boucard   Ian,0,1
+Bachelier   Florian,Lebec   Marie,1,1
+Bachelier   Florian,Guévenoux   Marie,1,1
+Bachelier   Florian,Braun-Pivet   Yaël,1,1
+Bachelier   Florian,Millienne   Bruno,1,1
+Bachelier   Florian,Dirx   Benjamin,1,1
+Chalumeau   Philippe,Labaronne   Daniel,1,1
+Chalumeau   Philippe,Thillaye   Sabine,1,1
+Chalumeau   Philippe,Jacquier-Laforge   Élodie,1,1
+Chalumeau   Philippe,Brulebois   Danielle,1,1
+Chalumeau   Philippe,Pradié   Aurélien,0,1
+Chalumeau   Philippe,Dubré-Chirat   Nicole,1,1
+Chalumeau   Philippe,Bolo   Philippe,1,1
+Chalumeau   Philippe,Sorre   Bertrand,1,1
+Chalumeau   Philippe,Cariou   Émilie,1,1
+Chalumeau   Philippe,Trisse   Nicole,1,1
+Chalumeau   Philippe,Osson   Catherine,1,1
+Chalumeau   Philippe,Bureau-Bonnard   Carole,1,1
+Chalumeau   Philippe,Minot   Maxime,0,1
+Chalumeau   Philippe,Dumont   Pierre-Henri,0,1
+Chalumeau   Philippe,Waserman   Sylvain,1,1
+Chalumeau   Philippe,Descrozaille   Frédéric,1,1
+Chalumeau   Philippe,Panot   Mathilde,0,1
+Chalumeau   Philippe,Da Silva   Dominique,1,1
+Chalumeau   Philippe,El Guerrab   M'jid,1,1
+Chalumeau   Philippe,Vuilletet   Guillaume,1,1
+Chalumeau   Philippe,Gouffier-Cha   Guillaume,1,1
+Chalumeau   Philippe,Schellenberger   Raphaël,0,1
+Chalumeau   Philippe,Fontenel-Personne   Pascale,1,1
+Chalumeau   Philippe,Lenne   Marion,1,1
+Chalumeau   Philippe,Le Gendre   Gilles,1,1
+Chalumeau   Philippe,Viry   Stéphane,0,1
+Chalumeau   Philippe,Terlier   Jean,1,1
+Chalumeau   Philippe,Michel-Kleisbauer   Philippe,1,1
+Chalumeau   Philippe,Florennes   Isabelle,1,1
+Chalumeau   Philippe,Calvez   Céline,1,1
+Chalumeau   Philippe,Boucard   Ian,0,1
+Chalumeau   Philippe,Lebec   Marie,1,1
+Chalumeau   Philippe,Guévenoux   Marie,1,1
+Chalumeau   Philippe,Braun-Pivet   Yaël,1,1
+Chalumeau   Philippe,Millienne   Bruno,1,1
+Chalumeau   Philippe,Dirx   Benjamin,1,1
+Labaronne   Daniel,Thillaye   Sabine,1,1
+Labaronne   Daniel,Jacquier-Laforge   Élodie,1,1
+Labaronne   Daniel,Brulebois   Danielle,1,1
+Labaronne   Daniel,Pradié   Aurélien,0,1
+Labaronne   Daniel,Dubré-Chirat   Nicole,1,1
+Labaronne   Daniel,Bolo   Philippe,1,1
+Labaronne   Daniel,Sorre   Bertrand,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Trisse   Nicole,1,1
+Labaronne   Daniel,Osson   Catherine,1,1
+Labaronne   Daniel,Bureau-Bonnard   Carole,1,1
+Labaronne   Daniel,Minot   Maxime,0,1
+Labaronne   Daniel,Dumont   Pierre-Henri,0,1
+Labaronne   Daniel,Waserman   Sylvain,1,1
+Labaronne   Daniel,Descrozaille   Frédéric,1,1
+Labaronne   Daniel,Panot   Mathilde,0,1
+Labaronne   Daniel,Da Silva   Dominique,1,1
+Labaronne   Daniel,El Guerrab   M'jid,1,1
+Labaronne   Daniel,Vuilletet   Guillaume,1,1
+Labaronne   Daniel,Gouffier-Cha   Guillaume,1,1
+Labaronne   Daniel,Schellenberger   Raphaël,0,1
+Labaronne   Daniel,Fontenel-Personne   Pascale,1,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Le Gendre   Gilles,1,1
+Labaronne   Daniel,Viry   Stéphane,0,1
+Labaronne   Daniel,Terlier   Jean,1,1
+Labaronne   Daniel,Michel-Kleisbauer   Philippe,1,1
+Labaronne   Daniel,Florennes   Isabelle,1,1
+Labaronne   Daniel,Calvez   Céline,1,1
+Labaronne   Daniel,Boucard   Ian,0,1
+Labaronne   Daniel,Lebec   Marie,1,1
+Labaronne   Daniel,Guévenoux   Marie,1,1
+Labaronne   Daniel,Braun-Pivet   Yaël,1,1
+Labaronne   Daniel,Millienne   Bruno,1,1
+Labaronne   Daniel,Dirx   Benjamin,1,1
+Thillaye   Sabine,Jacquier-Laforge   Élodie,1,1
+Thillaye   Sabine,Brulebois   Danielle,1,1
+Thillaye   Sabine,Pradié   Aurélien,0,1
+Thillaye   Sabine,Dubré-Chirat   Nicole,1,1
+Thillaye   Sabine,Bolo   Philippe,1,1
+Thillaye   Sabine,Sorre   Bertrand,1,1
+Thillaye   Sabine,Cariou   Émilie,1,1
+Thillaye   Sabine,Trisse   Nicole,1,1
+Thillaye   Sabine,Osson   Catherine,1,1
+Thillaye   Sabine,Bureau-Bonnard   Carole,1,1
+Thillaye   Sabine,Minot   Maxime,0,1
+Thillaye   Sabine,Dumont   Pierre-Henri,0,1
+Thillaye   Sabine,Waserman   Sylvain,1,1
+Thillaye   Sabine,Descrozaille   Frédéric,1,1
+Thillaye   Sabine,Panot   Mathilde,0,1
+Thillaye   Sabine,Da Silva   Dominique,1,1
+Thillaye   Sabine,El Guerrab   M'jid,1,1
+Thillaye   Sabine,Vuilletet   Guillaume,1,1
+Thillaye   Sabine,Gouffier-Cha   Guillaume,1,1
+Thillaye   Sabine,Schellenberger   Raphaël,0,1
+Thillaye   Sabine,Fontenel-Personne   Pascale,1,1
+Thillaye   Sabine,Lenne   Marion,1,1
+Thillaye   Sabine,Le Gendre   Gilles,1,1
+Thillaye   Sabine,Viry   Stéphane,0,1
+Thillaye   Sabine,Terlier   Jean,1,1
+Thillaye   Sabine,Michel-Kleisbauer   Philippe,1,1
+Thillaye   Sabine,Florennes   Isabelle,1,1
+Thillaye   Sabine,Calvez   Céline,1,1
+Thillaye   Sabine,Boucard   Ian,0,1
+Thillaye   Sabine,Lebec   Marie,1,1
+Thillaye   Sabine,Guévenoux   Marie,1,1
+Thillaye   Sabine,Braun-Pivet   Yaël,1,1
+Thillaye   Sabine,Millienne   Bruno,1,1
+Thillaye   Sabine,Dirx   Benjamin,1,1
+Jacquier-Laforge   Élodie,Brulebois   Danielle,1,1
+Jacquier-Laforge   Élodie,Pradié   Aurélien,0,1
+Jacquier-Laforge   Élodie,Dubré-Chirat   Nicole,1,1
+Jacquier-Laforge   Élodie,Bolo   Philippe,1,1
+Jacquier-Laforge   Élodie,Sorre   Bertrand,1,1
+Jacquier-Laforge   Élodie,Cariou   Émilie,1,1
+Jacquier-Laforge   Élodie,Trisse   Nicole,1,1
+Jacquier-Laforge   Élodie,Osson   Catherine,1,1
+Jacquier-Laforge   Élodie,Bureau-Bonnard   Carole,1,1
+Jacquier-Laforge   Élodie,Minot   Maxime,0,1
+Jacquier-Laforge   Élodie,Dumont   Pierre-Henri,0,1
+Jacquier-Laforge   Élodie,Waserman   Sylvain,1,1
+Jacquier-Laforge   Élodie,Descrozaille   Frédéric,1,1
+Jacquier-Laforge   Élodie,Panot   Mathilde,0,1
+Jacquier-Laforge   Élodie,Da Silva   Dominique,1,1
+Jacquier-Laforge   Élodie,El Guerrab   M'jid,1,1
+Jacquier-Laforge   Élodie,Vuilletet   Guillaume,1,1
+Jacquier-Laforge   Élodie,Gouffier-Cha   Guillaume,1,1
+Jacquier-Laforge   Élodie,Schellenberger   Raphaël,0,1
+Jacquier-Laforge   Élodie,Fontenel-Personne   Pascale,1,1
+Jacquier-Laforge   Élodie,Lenne   Marion,1,1
+Jacquier-Laforge   Élodie,Le Gendre   Gilles,1,1
+Jacquier-Laforge   Élodie,Viry   Stéphane,0,1
+Jacquier-Laforge   Élodie,Terlier   Jean,1,1
+Jacquier-Laforge   Élodie,Michel-Kleisbauer   Philippe,1,1
+Jacquier-Laforge   Élodie,Florennes   Isabelle,1,1
+Jacquier-Laforge   Élodie,Calvez   Céline,1,1
+Jacquier-Laforge   Élodie,Boucard   Ian,0,1
+Jacquier-Laforge   Élodie,Lebec   Marie,1,1
+Jacquier-Laforge   Élodie,Guévenoux   Marie,1,1
+Jacquier-Laforge   Élodie,Braun-Pivet   Yaël,1,1
+Jacquier-Laforge   Élodie,Millienne   Bruno,1,1
+Jacquier-Laforge   Élodie,Dirx   Benjamin,1,1
+Brulebois   Danielle,Pradié   Aurélien,0,1
+Brulebois   Danielle,Dubré-Chirat   Nicole,1,1
+Brulebois   Danielle,Bolo   Philippe,1,1
+Brulebois   Danielle,Sorre   Bertrand,1,1
+Brulebois   Danielle,Cariou   Émilie,1,1
+Brulebois   Danielle,Trisse   Nicole,1,1
+Brulebois   Danielle,Osson   Catherine,1,1
+Brulebois   Danielle,Bureau-Bonnard   Carole,1,1
+Brulebois   Danielle,Minot   Maxime,0,1
+Brulebois   Danielle,Dumont   Pierre-Henri,0,1
+Brulebois   Danielle,Waserman   Sylvain,1,1
+Brulebois   Danielle,Descrozaille   Frédéric,1,1
+Brulebois   Danielle,Panot   Mathilde,0,1
+Brulebois   Danielle,Da Silva   Dominique,1,1
+Brulebois   Danielle,El Guerrab   M'jid,1,1
+Brulebois   Danielle,Vuilletet   Guillaume,1,1
+Brulebois   Danielle,Gouffier-Cha   Guillaume,1,1
+Brulebois   Danielle,Schellenberger   Raphaël,0,1
+Brulebois   Danielle,Fontenel-Personne   Pascale,1,1
+Brulebois   Danielle,Lenne   Marion,1,1
+Brulebois   Danielle,Le Gendre   Gilles,1,1
+Brulebois   Danielle,Viry   Stéphane,0,1
+Brulebois   Danielle,Terlier   Jean,1,1
+Brulebois   Danielle,Michel-Kleisbauer   Philippe,1,1
+Brulebois   Danielle,Florennes   Isabelle,1,1
+Brulebois   Danielle,Calvez   Céline,1,1
+Brulebois   Danielle,Boucard   Ian,0,1
+Brulebois   Danielle,Lebec   Marie,1,1
+Brulebois   Danielle,Guévenoux   Marie,1,1
+Brulebois   Danielle,Braun-Pivet   Yaël,1,1
+Brulebois   Danielle,Millienne   Bruno,1,1
+Brulebois   Danielle,Dirx   Benjamin,1,1
+Pradié   Aurélien,Dubré-Chirat   Nicole,0,1
+Pradié   Aurélien,Bolo   Philippe,0,1
+Pradié   Aurélien,Sorre   Bertrand,0,1
+Pradié   Aurélien,Cariou   Émilie,0,1
+Pradié   Aurélien,Trisse   Nicole,0,1
+Pradié   Aurélien,Osson   Catherine,0,1
+Pradié   Aurélien,Bureau-Bonnard   Carole,0,1
+Pradié   Aurélien,Minot   Maxime,1,1
+Pradié   Aurélien,Dumont   Pierre-Henri,1,1
+Pradié   Aurélien,Waserman   Sylvain,0,1
+Pradié   Aurélien,Descrozaille   Frédéric,0,1
+Pradié   Aurélien,Panot   Mathilde,0,1
+Pradié   Aurélien,Da Silva   Dominique,0,1
+Pradié   Aurélien,El Guerrab   M'jid,0,1
+Pradié   Aurélien,Vuilletet   Guillaume,0,1
+Pradié   Aurélien,Gouffier-Cha   Guillaume,0,1
+Pradié   Aurélien,Schellenberger   Raphaël,1,1
+Pradié   Aurélien,Fontenel-Personne   Pascale,0,1
+Pradié   Aurélien,Lenne   Marion,0,1
+Pradié   Aurélien,Le Gendre   Gilles,0,1
+Pradié   Aurélien,Viry   Stéphane,1,1
+Pradié   Aurélien,Terlier   Jean,0,1
+Pradié   Aurélien,Michel-Kleisbauer   Philippe,0,1
+Pradié   Aurélien,Florennes   Isabelle,0,1
+Pradié   Aurélien,Calvez   Céline,0,1
+Pradié   Aurélien,Boucard   Ian,1,1
+Pradié   Aurélien,Lebec   Marie,0,1
+Pradié   Aurélien,Guévenoux   Marie,0,1
+Pradié   Aurélien,Braun-Pivet   Yaël,0,1
+Pradié   Aurélien,Millienne   Bruno,0,1
+Pradié   Aurélien,Dirx   Benjamin,0,1
+Dubré-Chirat   Nicole,Bolo   Philippe,1,1
+Dubré-Chirat   Nicole,Sorre   Bertrand,1,1
+Dubré-Chirat   Nicole,Cariou   Émilie,1,1
+Dubré-Chirat   Nicole,Trisse   Nicole,1,1
+Dubré-Chirat   Nicole,Osson   Catherine,1,1
+Dubré-Chirat   Nicole,Bureau-Bonnard   Carole,1,1
+Dubré-Chirat   Nicole,Minot   Maxime,0,1
+Dubré-Chirat   Nicole,Dumont   Pierre-Henri,0,1
+Dubré-Chirat   Nicole,Waserman   Sylvain,1,1
+Dubré-Chirat   Nicole,Descrozaille   Frédéric,1,1
+Dubré-Chirat   Nicole,Panot   Mathilde,0,1
+Dubré-Chirat   Nicole,Da Silva   Dominique,1,1
+Dubré-Chirat   Nicole,El Guerrab   M'jid,1,1
+Dubré-Chirat   Nicole,Vuilletet   Guillaume,1,1
+Dubré-Chirat   Nicole,Gouffier-Cha   Guillaume,1,1
+Dubré-Chirat   Nicole,Schellenberger   Raphaël,0,1
+Dubré-Chirat   Nicole,Fontenel-Personne   Pascale,1,1
+Dubré-Chirat   Nicole,Lenne   Marion,1,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Viry   Stéphane,0,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Michel-Kleisbauer   Philippe,1,1
+Dubré-Chirat   Nicole,Florennes   Isabelle,1,1
+Dubré-Chirat   Nicole,Calvez   Céline,1,1
+Dubré-Chirat   Nicole,Boucard   Ian,0,1
+Dubré-Chirat   Nicole,Lebec   Marie,1,1
+Dubré-Chirat   Nicole,Guévenoux   Marie,1,1
+Dubré-Chirat   Nicole,Braun-Pivet   Yaël,1,1
+Dubré-Chirat   Nicole,Millienne   Bruno,1,1
+Dubré-Chirat   Nicole,Dirx   Benjamin,1,1
+Bolo   Philippe,Sorre   Bertrand,1,1
+Bolo   Philippe,Cariou   Émilie,1,1
+Bolo   Philippe,Trisse   Nicole,1,1
+Bolo   Philippe,Osson   Catherine,1,1
+Bolo   Philippe,Bureau-Bonnard   Carole,1,1
+Bolo   Philippe,Minot   Maxime,0,1
+Bolo   Philippe,Dumont   Pierre-Henri,0,1
+Bolo   Philippe,Waserman   Sylvain,1,1
+Bolo   Philippe,Descrozaille   Frédéric,1,1
+Bolo   Philippe,Panot   Mathilde,0,1
+Bolo   Philippe,Da Silva   Dominique,1,1
+Bolo   Philippe,El Guerrab   M'jid,1,1
+Bolo   Philippe,Vuilletet   Guillaume,1,1
+Bolo   Philippe,Gouffier-Cha   Guillaume,1,1
+Bolo   Philippe,Schellenberger   Raphaël,0,1
+Bolo   Philippe,Fontenel-Personne   Pascale,1,1
+Bolo   Philippe,Lenne   Marion,1,1
+Bolo   Philippe,Le Gendre   Gilles,1,1
+Bolo   Philippe,Viry   Stéphane,0,1
+Bolo   Philippe,Terlier   Jean,1,1
+Bolo   Philippe,Michel-Kleisbauer   Philippe,1,1
+Bolo   Philippe,Florennes   Isabelle,1,1
+Bolo   Philippe,Calvez   Céline,1,1
+Bolo   Philippe,Boucard   Ian,0,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Guévenoux   Marie,1,1
+Bolo   Philippe,Braun-Pivet   Yaël,1,1
+Bolo   Philippe,Millienne   Bruno,1,1
+Bolo   Philippe,Dirx   Benjamin,1,1
+Sorre   Bertrand,Cariou   Émilie,1,1
+Sorre   Bertrand,Trisse   Nicole,1,1
+Sorre   Bertrand,Osson   Catherine,1,1
+Sorre   Bertrand,Bureau-Bonnard   Carole,1,1
+Sorre   Bertrand,Minot   Maxime,0,1
+Sorre   Bertrand,Dumont   Pierre-Henri,0,1
+Sorre   Bertrand,Waserman   Sylvain,1,1
+Sorre   Bertrand,Descrozaille   Frédéric,1,1
+Sorre   Bertrand,Panot   Mathilde,0,1
+Sorre   Bertrand,Da Silva   Dominique,1,1
+Sorre   Bertrand,El Guerrab   M'jid,1,1
+Sorre   Bertrand,Vuilletet   Guillaume,1,1
+Sorre   Bertrand,Gouffier-Cha   Guillaume,1,1
+Sorre   Bertrand,Schellenberger   Raphaël,0,1
+Sorre   Bertrand,Fontenel-Personne   Pascale,1,1
+Sorre   Bertrand,Lenne   Marion,1,1
+Sorre   Bertrand,Le Gendre   Gilles,1,1
+Sorre   Bertrand,Viry   Stéphane,0,1
+Sorre   Bertrand,Terlier   Jean,1,1
+Sorre   Bertrand,Michel-Kleisbauer   Philippe,1,1
+Sorre   Bertrand,Florennes   Isabelle,1,1
+Sorre   Bertrand,Calvez   Céline,1,1
+Sorre   Bertrand,Boucard   Ian,0,1
+Sorre   Bertrand,Lebec   Marie,1,1
+Sorre   Bertrand,Guévenoux   Marie,1,1
+Sorre   Bertrand,Braun-Pivet   Yaël,1,1
+Sorre   Bertrand,Millienne   Bruno,1,1
+Sorre   Bertrand,Dirx   Benjamin,1,1
+Cariou   Émilie,Trisse   Nicole,1,1
+Cariou   Émilie,Osson   Catherine,1,1
+Cariou   Émilie,Bureau-Bonnard   Carole,1,1
+Cariou   Émilie,Minot   Maxime,0,1
+Cariou   Émilie,Dumont   Pierre-Henri,0,1
+Cariou   Émilie,Waserman   Sylvain,1,1
+Cariou   Émilie,Descrozaille   Frédéric,1,1
+Cariou   Émilie,Panot   Mathilde,0,1
+Cariou   Émilie,Da Silva   Dominique,1,1
+Cariou   Émilie,El Guerrab   M'jid,1,1
+Cariou   Émilie,Vuilletet   Guillaume,1,1
+Cariou   Émilie,Gouffier-Cha   Guillaume,1,1
+Cariou   Émilie,Schellenberger   Raphaël,0,1
+Cariou   Émilie,Fontenel-Personne   Pascale,1,1
+Cariou   Émilie,Lenne   Marion,1,1
+Cariou   Émilie,Le Gendre   Gilles,1,1
+Cariou   Émilie,Viry   Stéphane,0,1
+Cariou   Émilie,Terlier   Jean,1,1
+Cariou   Émilie,Michel-Kleisbauer   Philippe,1,1
+Cariou   Émilie,Florennes   Isabelle,1,1
+Cariou   Émilie,Calvez   Céline,1,1
+Cariou   Émilie,Boucard   Ian,0,1
+Cariou   Émilie,Lebec   Marie,1,1
+Cariou   Émilie,Guévenoux   Marie,1,1
+Cariou   Émilie,Braun-Pivet   Yaël,1,1
+Cariou   Émilie,Millienne   Bruno,1,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Trisse   Nicole,Osson   Catherine,1,1
+Trisse   Nicole,Bureau-Bonnard   Carole,1,1
+Trisse   Nicole,Minot   Maxime,0,1
+Trisse   Nicole,Dumont   Pierre-Henri,0,1
+Trisse   Nicole,Waserman   Sylvain,1,1
+Trisse   Nicole,Descrozaille   Frédéric,1,1
+Trisse   Nicole,Panot   Mathilde,0,1
+Trisse   Nicole,Da Silva   Dominique,1,1
+Trisse   Nicole,El Guerrab   M'jid,1,1
+Trisse   Nicole,Vuilletet   Guillaume,1,1
+Trisse   Nicole,Gouffier-Cha   Guillaume,1,1
+Trisse   Nicole,Schellenberger   Raphaël,0,1
+Trisse   Nicole,Fontenel-Personne   Pascale,1,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Le Gendre   Gilles,1,1
+Trisse   Nicole,Viry   Stéphane,0,1
+Trisse   Nicole,Terlier   Jean,1,1
+Trisse   Nicole,Michel-Kleisbauer   Philippe,1,1
+Trisse   Nicole,Florennes   Isabelle,1,1
+Trisse   Nicole,Calvez   Céline,1,1
+Trisse   Nicole,Boucard   Ian,0,1
+Trisse   Nicole,Lebec   Marie,1,1
+Trisse   Nicole,Guévenoux   Marie,1,1
+Trisse   Nicole,Braun-Pivet   Yaël,1,1
+Trisse   Nicole,Millienne   Bruno,1,1
+Trisse   Nicole,Dirx   Benjamin,1,1
+Osson   Catherine,Bureau-Bonnard   Carole,1,1
+Osson   Catherine,Minot   Maxime,0,1
+Osson   Catherine,Dumont   Pierre-Henri,0,1
+Osson   Catherine,Waserman   Sylvain,1,1
+Osson   Catherine,Descrozaille   Frédéric,1,1
+Osson   Catherine,Panot   Mathilde,0,1
+Osson   Catherine,Da Silva   Dominique,1,1
+Osson   Catherine,El Guerrab   M'jid,1,1
+Osson   Catherine,Vuilletet   Guillaume,1,1
+Osson   Catherine,Gouffier-Cha   Guillaume,1,1
+Osson   Catherine,Schellenberger   Raphaël,0,1
+Osson   Catherine,Fontenel-Personne   Pascale,1,1
+Osson   Catherine,Lenne   Marion,1,1
+Osson   Catherine,Le Gendre   Gilles,1,1
+Osson   Catherine,Viry   Stéphane,0,1
+Osson   Catherine,Terlier   Jean,1,1
+Osson   Catherine,Michel-Kleisbauer   Philippe,1,1
+Osson   Catherine,Florennes   Isabelle,1,1
+Osson   Catherine,Calvez   Céline,1,1
+Osson   Catherine,Boucard   Ian,0,1
+Osson   Catherine,Lebec   Marie,1,1
+Osson   Catherine,Guévenoux   Marie,1,1
+Osson   Catherine,Braun-Pivet   Yaël,1,1
+Osson   Catherine,Millienne   Bruno,1,1
+Osson   Catherine,Dirx   Benjamin,1,1
+Bureau-Bonnard   Carole,Minot   Maxime,0,1
+Bureau-Bonnard   Carole,Dumont   Pierre-Henri,0,1
+Bureau-Bonnard   Carole,Waserman   Sylvain,1,1
+Bureau-Bonnard   Carole,Descrozaille   Frédéric,1,1
+Bureau-Bonnard   Carole,Panot   Mathilde,0,1
+Bureau-Bonnard   Carole,Da Silva   Dominique,1,1
+Bureau-Bonnard   Carole,El Guerrab   M'jid,1,1
+Bureau-Bonnard   Carole,Vuilletet   Guillaume,1,1
+Bureau-Bonnard   Carole,Gouffier-Cha   Guillaume,1,1
+Bureau-Bonnard   Carole,Schellenberger   Raphaël,0,1
+Bureau-Bonnard   Carole,Fontenel-Personne   Pascale,1,1
+Bureau-Bonnard   Carole,Lenne   Marion,1,1
+Bureau-Bonnard   Carole,Le Gendre   Gilles,1,1
+Bureau-Bonnard   Carole,Viry   Stéphane,0,1
+Bureau-Bonnard   Carole,Terlier   Jean,1,1
+Bureau-Bonnard   Carole,Michel-Kleisbauer   Philippe,1,1
+Bureau-Bonnard   Carole,Florennes   Isabelle,1,1
+Bureau-Bonnard   Carole,Calvez   Céline,1,1
+Bureau-Bonnard   Carole,Boucard   Ian,0,1
+Bureau-Bonnard   Carole,Lebec   Marie,1,1
+Bureau-Bonnard   Carole,Guévenoux   Marie,1,1
+Bureau-Bonnard   Carole,Braun-Pivet   Yaël,1,1
+Bureau-Bonnard   Carole,Millienne   Bruno,1,1
+Bureau-Bonnard   Carole,Dirx   Benjamin,1,1
+Minot   Maxime,Dumont   Pierre-Henri,1,1
+Minot   Maxime,Waserman   Sylvain,0,1
+Minot   Maxime,Descrozaille   Frédéric,0,1
+Minot   Maxime,Panot   Mathilde,0,1
+Minot   Maxime,Da Silva   Dominique,0,1
+Minot   Maxime,El Guerrab   M'jid,0,1
+Minot   Maxime,Vuilletet   Guillaume,0,1
+Minot   Maxime,Gouffier-Cha   Guillaume,0,1
+Minot   Maxime,Schellenberger   Raphaël,1,1
+Minot   Maxime,Fontenel-Personne   Pascale,0,1
+Minot   Maxime,Lenne   Marion,0,1
+Minot   Maxime,Le Gendre   Gilles,0,1
+Minot   Maxime,Viry   Stéphane,1,1
+Minot   Maxime,Terlier   Jean,0,1
+Minot   Maxime,Michel-Kleisbauer   Philippe,0,1
+Minot   Maxime,Florennes   Isabelle,0,1
+Minot   Maxime,Calvez   Céline,0,1
+Minot   Maxime,Boucard   Ian,1,1
+Minot   Maxime,Lebec   Marie,0,1
+Minot   Maxime,Guévenoux   Marie,0,1
+Minot   Maxime,Braun-Pivet   Yaël,0,1
+Minot   Maxime,Millienne   Bruno,0,1
+Minot   Maxime,Dirx   Benjamin,0,1
+Dumont   Pierre-Henri,Waserman   Sylvain,0,1
+Dumont   Pierre-Henri,Descrozaille   Frédéric,0,1
+Dumont   Pierre-Henri,Panot   Mathilde,0,1
+Dumont   Pierre-Henri,Da Silva   Dominique,0,1
+Dumont   Pierre-Henri,El Guerrab   M'jid,0,1
+Dumont   Pierre-Henri,Vuilletet   Guillaume,0,1
+Dumont   Pierre-Henri,Gouffier-Cha   Guillaume,0,1
+Dumont   Pierre-Henri,Schellenberger   Raphaël,1,1
+Dumont   Pierre-Henri,Fontenel-Personne   Pascale,0,1
+Dumont   Pierre-Henri,Lenne   Marion,0,1
+Dumont   Pierre-Henri,Le Gendre   Gilles,0,1
+Dumont   Pierre-Henri,Viry   Stéphane,1,1
+Dumont   Pierre-Henri,Terlier   Jean,0,1
+Dumont   Pierre-Henri,Michel-Kleisbauer   Philippe,0,1
+Dumont   Pierre-Henri,Florennes   Isabelle,0,1
+Dumont   Pierre-Henri,Calvez   Céline,0,1
+Dumont   Pierre-Henri,Boucard   Ian,1,1
+Dumont   Pierre-Henri,Lebec   Marie,0,1
+Dumont   Pierre-Henri,Guévenoux   Marie,0,1
+Dumont   Pierre-Henri,Braun-Pivet   Yaël,0,1
+Dumont   Pierre-Henri,Millienne   Bruno,0,1
+Dumont   Pierre-Henri,Dirx   Benjamin,0,1
+Waserman   Sylvain,Descrozaille   Frédéric,1,1
+Waserman   Sylvain,Panot   Mathilde,0,1
+Waserman   Sylvain,Da Silva   Dominique,1,1
+Waserman   Sylvain,El Guerrab   M'jid,1,1
+Waserman   Sylvain,Vuilletet   Guillaume,1,1
+Waserman   Sylvain,Gouffier-Cha   Guillaume,1,1
+Waserman   Sylvain,Schellenberger   Raphaël,0,1
+Waserman   Sylvain,Fontenel-Personne   Pascale,1,1
+Waserman   Sylvain,Lenne   Marion,1,1
+Waserman   Sylvain,Le Gendre   Gilles,1,1
+Waserman   Sylvain,Viry   Stéphane,0,1
+Waserman   Sylvain,Terlier   Jean,1,1
+Waserman   Sylvain,Michel-Kleisbauer   Philippe,1,1
+Waserman   Sylvain,Florennes   Isabelle,1,1
+Waserman   Sylvain,Calvez   Céline,1,1
+Waserman   Sylvain,Boucard   Ian,0,1
+Waserman   Sylvain,Lebec   Marie,1,1
+Waserman   Sylvain,Guévenoux   Marie,1,1
+Waserman   Sylvain,Braun-Pivet   Yaël,1,1
+Waserman   Sylvain,Millienne   Bruno,1,1
+Waserman   Sylvain,Dirx   Benjamin,1,1
+Descrozaille   Frédéric,Panot   Mathilde,0,1
+Descrozaille   Frédéric,Da Silva   Dominique,1,1
+Descrozaille   Frédéric,El Guerrab   M'jid,1,1
+Descrozaille   Frédéric,Vuilletet   Guillaume,1,1
+Descrozaille   Frédéric,Gouffier-Cha   Guillaume,1,1
+Descrozaille   Frédéric,Schellenberger   Raphaël,0,1
+Descrozaille   Frédéric,Fontenel-Personne   Pascale,1,1
+Descrozaille   Frédéric,Lenne   Marion,1,1
+Descrozaille   Frédéric,Le Gendre   Gilles,1,1
+Descrozaille   Frédéric,Viry   Stéphane,0,1
+Descrozaille   Frédéric,Terlier   Jean,1,1
+Descrozaille   Frédéric,Michel-Kleisbauer   Philippe,1,1
+Descrozaille   Frédéric,Florennes   Isabelle,1,1
+Descrozaille   Frédéric,Calvez   Céline,1,1
+Descrozaille   Frédéric,Boucard   Ian,0,1
+Descrozaille   Frédéric,Lebec   Marie,1,1
+Descrozaille   Frédéric,Guévenoux   Marie,1,1
+Descrozaille   Frédéric,Braun-Pivet   Yaël,1,1
+Descrozaille   Frédéric,Millienne   Bruno,1,1
+Descrozaille   Frédéric,Dirx   Benjamin,1,1
+Panot   Mathilde,Da Silva   Dominique,0,1
+Panot   Mathilde,El Guerrab   M'jid,0,1
+Panot   Mathilde,Vuilletet   Guillaume,0,1
+Panot   Mathilde,Gouffier-Cha   Guillaume,0,1
+Panot   Mathilde,Schellenberger   Raphaël,0,1
+Panot   Mathilde,Fontenel-Personne   Pascale,0,1
+Panot   Mathilde,Lenne   Marion,0,1
+Panot   Mathilde,Le Gendre   Gilles,0,1
+Panot   Mathilde,Viry   Stéphane,0,1
+Panot   Mathilde,Terlier   Jean,0,1
+Panot   Mathilde,Michel-Kleisbauer   Philippe,0,1
+Panot   Mathilde,Florennes   Isabelle,0,1
+Panot   Mathilde,Calvez   Céline,0,1
+Panot   Mathilde,Boucard   Ian,0,1
+Panot   Mathilde,Lebec   Marie,0,1
+Panot   Mathilde,Guévenoux   Marie,0,1
+Panot   Mathilde,Braun-Pivet   Yaël,0,1
+Panot   Mathilde,Millienne   Bruno,0,1
+Panot   Mathilde,Dirx   Benjamin,0,1
+Da Silva   Dominique,El Guerrab   M'jid,1,1
+Da Silva   Dominique,Vuilletet   Guillaume,1,1
+Da Silva   Dominique,Gouffier-Cha   Guillaume,1,1
+Da Silva   Dominique,Schellenberger   Raphaël,0,1
+Da Silva   Dominique,Fontenel-Personne   Pascale,1,1
+Da Silva   Dominique,Lenne   Marion,1,1
+Da Silva   Dominique,Le Gendre   Gilles,1,1
+Da Silva   Dominique,Viry   Stéphane,0,1
+Da Silva   Dominique,Terlier   Jean,1,1
+Da Silva   Dominique,Michel-Kleisbauer   Philippe,1,1
+Da Silva   Dominique,Florennes   Isabelle,1,1
+Da Silva   Dominique,Calvez   Céline,1,1
+Da Silva   Dominique,Boucard   Ian,0,1
+Da Silva   Dominique,Lebec   Marie,1,1
+Da Silva   Dominique,Guévenoux   Marie,1,1
+Da Silva   Dominique,Braun-Pivet   Yaël,1,1
+Da Silva   Dominique,Millienne   Bruno,1,1
+Da Silva   Dominique,Dirx   Benjamin,1,1
+El Guerrab   M'jid,Vuilletet   Guillaume,1,1
+El Guerrab   M'jid,Gouffier-Cha   Guillaume,1,1
+El Guerrab   M'jid,Schellenberger   Raphaël,0,1
+El Guerrab   M'jid,Fontenel-Personne   Pascale,1,1
+El Guerrab   M'jid,Lenne   Marion,1,1
+El Guerrab   M'jid,Le Gendre   Gilles,1,1
+El Guerrab   M'jid,Viry   Stéphane,0,1
+El Guerrab   M'jid,Terlier   Jean,1,1
+El Guerrab   M'jid,Michel-Kleisbauer   Philippe,1,1
+El Guerrab   M'jid,Florennes   Isabelle,1,1
+El Guerrab   M'jid,Calvez   Céline,1,1
+El Guerrab   M'jid,Boucard   Ian,0,1
+El Guerrab   M'jid,Lebec   Marie,1,1
+El Guerrab   M'jid,Guévenoux   Marie,1,1
+El Guerrab   M'jid,Braun-Pivet   Yaël,1,1
+El Guerrab   M'jid,Millienne   Bruno,1,1
+El Guerrab   M'jid,Dirx   Benjamin,1,1
+Vuilletet   Guillaume,Gouffier-Cha   Guillaume,1,1
+Vuilletet   Guillaume,Schellenberger   Raphaël,0,1
+Vuilletet   Guillaume,Fontenel-Personne   Pascale,1,1
+Vuilletet   Guillaume,Lenne   Marion,1,1
+Vuilletet   Guillaume,Le Gendre   Gilles,1,1
+Vuilletet   Guillaume,Viry   Stéphane,0,1
+Vuilletet   Guillaume,Terlier   Jean,1,1
+Vuilletet   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Vuilletet   Guillaume,Florennes   Isabelle,1,1
+Vuilletet   Guillaume,Calvez   Céline,1,1
+Vuilletet   Guillaume,Boucard   Ian,0,1
+Vuilletet   Guillaume,Lebec   Marie,1,1
+Vuilletet   Guillaume,Guévenoux   Marie,1,1
+Vuilletet   Guillaume,Braun-Pivet   Yaël,1,1
+Vuilletet   Guillaume,Millienne   Bruno,1,1
+Vuilletet   Guillaume,Dirx   Benjamin,1,1
+Gouffier-Cha   Guillaume,Schellenberger   Raphaël,0,1
+Gouffier-Cha   Guillaume,Fontenel-Personne   Pascale,1,1
+Gouffier-Cha   Guillaume,Lenne   Marion,1,1
+Gouffier-Cha   Guillaume,Le Gendre   Gilles,1,1
+Gouffier-Cha   Guillaume,Viry   Stéphane,0,1
+Gouffier-Cha   Guillaume,Terlier   Jean,1,1
+Gouffier-Cha   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Gouffier-Cha   Guillaume,Florennes   Isabelle,1,1
+Gouffier-Cha   Guillaume,Calvez   Céline,1,1
+Gouffier-Cha   Guillaume,Boucard   Ian,0,1
+Gouffier-Cha   Guillaume,Lebec   Marie,1,1
+Gouffier-Cha   Guillaume,Guévenoux   Marie,1,1
+Gouffier-Cha   Guillaume,Braun-Pivet   Yaël,1,1
+Gouffier-Cha   Guillaume,Millienne   Bruno,1,1
+Gouffier-Cha   Guillaume,Dirx   Benjamin,1,1
+Schellenberger   Raphaël,Fontenel-Personne   Pascale,0,1
+Schellenberger   Raphaël,Lenne   Marion,0,1
+Schellenberger   Raphaël,Le Gendre   Gilles,0,1
+Schellenberger   Raphaël,Viry   Stéphane,1,1
+Schellenberger   Raphaël,Terlier   Jean,0,1
+Schellenberger   Raphaël,Michel-Kleisbauer   Philippe,0,1
+Schellenberger   Raphaël,Florennes   Isabelle,0,1
+Schellenberger   Raphaël,Calvez   Céline,0,1
+Schellenberger   Raphaël,Boucard   Ian,1,1
+Schellenberger   Raphaël,Lebec   Marie,0,1
+Schellenberger   Raphaël,Guévenoux   Marie,0,1
+Schellenberger   Raphaël,Braun-Pivet   Yaël,0,1
+Schellenberger   Raphaël,Millienne   Bruno,0,1
+Schellenberger   Raphaël,Dirx   Benjamin,0,1
+Fontenel-Personne   Pascale,Lenne   Marion,1,1
+Fontenel-Personne   Pascale,Le Gendre   Gilles,1,1
+Fontenel-Personne   Pascale,Viry   Stéphane,0,1
+Fontenel-Personne   Pascale,Terlier   Jean,1,1
+Fontenel-Personne   Pascale,Michel-Kleisbauer   Philippe,1,1
+Fontenel-Personne   Pascale,Florennes   Isabelle,1,1
+Fontenel-Personne   Pascale,Calvez   Céline,1,1
+Fontenel-Personne   Pascale,Boucard   Ian,0,1
+Fontenel-Personne   Pascale,Lebec   Marie,1,1
+Fontenel-Personne   Pascale,Guévenoux   Marie,1,1
+Fontenel-Personne   Pascale,Braun-Pivet   Yaël,1,1
+Fontenel-Personne   Pascale,Millienne   Bruno,1,1
+Fontenel-Personne   Pascale,Dirx   Benjamin,1,1
+Lenne   Marion,Le Gendre   Gilles,1,1
+Lenne   Marion,Viry   Stéphane,0,1
+Lenne   Marion,Terlier   Jean,1,1
+Lenne   Marion,Michel-Kleisbauer   Philippe,1,1
+Lenne   Marion,Florennes   Isabelle,1,1
+Lenne   Marion,Calvez   Céline,1,1
+Lenne   Marion,Boucard   Ian,0,1
+Lenne   Marion,Lebec   Marie,1,1
+Lenne   Marion,Guévenoux   Marie,1,1
+Lenne   Marion,Braun-Pivet   Yaël,1,1
+Lenne   Marion,Millienne   Bruno,1,1
+Lenne   Marion,Dirx   Benjamin,1,1
+Le Gendre   Gilles,Viry   Stéphane,0,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Michel-Kleisbauer   Philippe,1,1
+Le Gendre   Gilles,Florennes   Isabelle,1,1
+Le Gendre   Gilles,Calvez   Céline,1,1
+Le Gendre   Gilles,Boucard   Ian,0,1
+Le Gendre   Gilles,Lebec   Marie,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,Braun-Pivet   Yaël,1,1
+Le Gendre   Gilles,Millienne   Bruno,1,1
+Le Gendre   Gilles,Dirx   Benjamin,1,1
+Viry   Stéphane,Terlier   Jean,0,1
+Viry   Stéphane,Michel-Kleisbauer   Philippe,0,1
+Viry   Stéphane,Florennes   Isabelle,0,1
+Viry   Stéphane,Calvez   Céline,0,1
+Viry   Stéphane,Boucard   Ian,1,1
+Viry   Stéphane,Lebec   Marie,0,1
+Viry   Stéphane,Guévenoux   Marie,0,1
+Viry   Stéphane,Braun-Pivet   Yaël,0,1
+Viry   Stéphane,Millienne   Bruno,0,1
+Viry   Stéphane,Dirx   Benjamin,0,1
+Terlier   Jean,Michel-Kleisbauer   Philippe,1,1
+Terlier   Jean,Florennes   Isabelle,1,1
+Terlier   Jean,Calvez   Céline,1,1
+Terlier   Jean,Boucard   Ian,0,1
+Terlier   Jean,Lebec   Marie,1,1
+Terlier   Jean,Guévenoux   Marie,1,1
+Terlier   Jean,Braun-Pivet   Yaël,1,1
+Terlier   Jean,Millienne   Bruno,1,1
+Terlier   Jean,Dirx   Benjamin,1,1
+Michel-Kleisbauer   Philippe,Florennes   Isabelle,1,1
+Michel-Kleisbauer   Philippe,Calvez   Céline,1,1
+Michel-Kleisbauer   Philippe,Boucard   Ian,0,1
+Michel-Kleisbauer   Philippe,Lebec   Marie,1,1
+Michel-Kleisbauer   Philippe,Guévenoux   Marie,1,1
+Michel-Kleisbauer   Philippe,Braun-Pivet   Yaël,1,1
+Michel-Kleisbauer   Philippe,Millienne   Bruno,1,1
+Michel-Kleisbauer   Philippe,Dirx   Benjamin,1,1
+Florennes   Isabelle,Calvez   Céline,1,1
+Florennes   Isabelle,Boucard   Ian,0,1
+Florennes   Isabelle,Lebec   Marie,1,1
+Florennes   Isabelle,Guévenoux   Marie,1,1
+Florennes   Isabelle,Braun-Pivet   Yaël,1,1
+Florennes   Isabelle,Millienne   Bruno,1,1
+Florennes   Isabelle,Dirx   Benjamin,1,1
+Calvez   Céline,Boucard   Ian,0,1
+Calvez   Céline,Lebec   Marie,1,1
+Calvez   Céline,Guévenoux   Marie,1,1
+Calvez   Céline,Braun-Pivet   Yaël,1,1
+Calvez   Céline,Millienne   Bruno,1,1
+Calvez   Céline,Dirx   Benjamin,1,1
+Boucard   Ian,Lebec   Marie,0,1
+Boucard   Ian,Guévenoux   Marie,0,1
+Boucard   Ian,Braun-Pivet   Yaël,0,1
+Boucard   Ian,Millienne   Bruno,0,1
+Boucard   Ian,Dirx   Benjamin,0,1
+Lebec   Marie,Guévenoux   Marie,1,1
+Lebec   Marie,Braun-Pivet   Yaël,1,1
+Lebec   Marie,Millienne   Bruno,1,1
+Lebec   Marie,Dirx   Benjamin,1,1
+Guévenoux   Marie,Braun-Pivet   Yaël,1,1
+Guévenoux   Marie,Millienne   Bruno,1,1
+Guévenoux   Marie,Dirx   Benjamin,1,1
+Braun-Pivet   Yaël,Millienne   Bruno,1,1
+Braun-Pivet   Yaël,Dirx   Benjamin,1,1
+Millienne   Bruno,Dirx   Benjamin,1,1

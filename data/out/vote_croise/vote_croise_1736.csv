@@ -1,0 +1,1276 @@
+from,to,vote_commun,loi_commun
+Forissier   Nicolas,Benoit   Thierry,0,1
+Forissier   Nicolas,Juanico   Régis,0,1
+Forissier   Nicolas,Battistel   Marie-Noëlle,0,1
+Forissier   Nicolas,Alauzet   Éric,1,1
+Forissier   Nicolas,Potier   Dominique,0,1
+Forissier   Nicolas,Louwagie   Véronique,0,1
+Forissier   Nicolas,Dupont   Stella,1,1
+Forissier   Nicolas,Mazars   Stéphane,1,1
+Forissier   Nicolas,Maillard   Sylvain,1,1
+Forissier   Nicolas,Givernet   Olga,1,1
+Forissier   Nicolas,Boyer   Pascale,1,1
+Forissier   Nicolas,Zulesi   Jean-Marc,1,1
+Forissier   Nicolas,Laqhila   Mohamed,1,1
+Forissier   Nicolas,Blanchet   Christophe,1,1
+Forissier   Nicolas,Castellani   Michel,0,1
+Forissier   Nicolas,Charvier   Fannette,1,1
+Forissier   Nicolas,de Lavergne   Célia,1,1
+Forissier   Nicolas,Melchior   Graziella,1,1
+Forissier   Nicolas,Sommer   Denis,1,1
+Forissier   Nicolas,Ménard   Emmanuelle,0,1
+Forissier   Nicolas,Motin   Cendra,1,1
+Forissier   Nicolas,Vallaud   Boris,0,1
+Forissier   Nicolas,Sarles   Nathalie,1,1
+Forissier   Nicolas,Borowczyk   Julien,1,1
+Forissier   Nicolas,Oppelt   Valérie,1,1
+Forissier   Nicolas,Amadou   Aude,1,1
+Forissier   Nicolas,Saint-Paul   Laetitia,1,1
+Forissier   Nicolas,Bolo   Philippe,1,1
+Forissier   Nicolas,Fiat   Caroline,0,1
+Forissier   Nicolas,Perrot   Patrice,1,1
+Forissier   Nicolas,Cattelot   Anne-Laure,1,1
+Forissier   Nicolas,Thill   Agnès,1,1
+Forissier   Nicolas,Duvergé   Bruno,1,1
+Forissier   Nicolas,Thomas   Valérie,1,1
+Forissier   Nicolas,Rilhac   Cécile,1,1
+Forissier   Nicolas,Lescure   Roland,1,1
+Forissier   Nicolas,Corbière   Alexis,0,1
+Forissier   Nicolas,Peu   Stéphane,0,1
+Forissier   Nicolas,Ramadier   Alain,0,1
+Forissier   Nicolas,Verdier-Jouclas   Marie-Christine,1,1
+Forissier   Nicolas,Boucard   Ian,0,1
+Forissier   Nicolas,Barrot   Jean-Noël,1,1
+Forissier   Nicolas,Lebec   Marie,1,1
+Forissier   Nicolas,Raphan   Pierre-Alain,1,1
+Forissier   Nicolas,de Vaucouleurs   Michèle,1,1
+Forissier   Nicolas,Leguille-Balloy   Martine,1,1
+Forissier   Nicolas,Hennion   Christine,1,1
+Forissier   Nicolas,Turquois   Nicolas,1,1
+Forissier   Nicolas,Provendier   Florence,1,1
+Forissier   Nicolas,de Courson   Charles,1,1
+Benoit   Thierry,Juanico   Régis,1,1
+Benoit   Thierry,Battistel   Marie-Noëlle,1,1
+Benoit   Thierry,Alauzet   Éric,0,1
+Benoit   Thierry,Potier   Dominique,1,1
+Benoit   Thierry,Louwagie   Véronique,1,1
+Benoit   Thierry,Dupont   Stella,0,1
+Benoit   Thierry,Mazars   Stéphane,0,1
+Benoit   Thierry,Maillard   Sylvain,0,1
+Benoit   Thierry,Givernet   Olga,0,1
+Benoit   Thierry,Boyer   Pascale,0,1
+Benoit   Thierry,Zulesi   Jean-Marc,0,1
+Benoit   Thierry,Laqhila   Mohamed,0,1
+Benoit   Thierry,Blanchet   Christophe,0,1
+Benoit   Thierry,Castellani   Michel,1,1
+Benoit   Thierry,Charvier   Fannette,0,1
+Benoit   Thierry,de Lavergne   Célia,0,1
+Benoit   Thierry,Melchior   Graziella,0,1
+Benoit   Thierry,Sommer   Denis,0,1
+Benoit   Thierry,Ménard   Emmanuelle,1,1
+Benoit   Thierry,Motin   Cendra,0,1
+Benoit   Thierry,Vallaud   Boris,1,1
+Benoit   Thierry,Sarles   Nathalie,0,1
+Benoit   Thierry,Borowczyk   Julien,0,1
+Benoit   Thierry,Oppelt   Valérie,0,1
+Benoit   Thierry,Amadou   Aude,0,1
+Benoit   Thierry,Saint-Paul   Laetitia,0,1
+Benoit   Thierry,Bolo   Philippe,0,1
+Benoit   Thierry,Fiat   Caroline,1,1
+Benoit   Thierry,Perrot   Patrice,0,1
+Benoit   Thierry,Cattelot   Anne-Laure,0,1
+Benoit   Thierry,Thill   Agnès,0,1
+Benoit   Thierry,Duvergé   Bruno,0,1
+Benoit   Thierry,Thomas   Valérie,0,1
+Benoit   Thierry,Rilhac   Cécile,0,1
+Benoit   Thierry,Lescure   Roland,0,1
+Benoit   Thierry,Corbière   Alexis,1,1
+Benoit   Thierry,Peu   Stéphane,1,1
+Benoit   Thierry,Ramadier   Alain,1,1
+Benoit   Thierry,Verdier-Jouclas   Marie-Christine,0,1
+Benoit   Thierry,Boucard   Ian,1,1
+Benoit   Thierry,Barrot   Jean-Noël,0,1
+Benoit   Thierry,Lebec   Marie,0,1
+Benoit   Thierry,Raphan   Pierre-Alain,0,1
+Benoit   Thierry,de Vaucouleurs   Michèle,0,1
+Benoit   Thierry,Leguille-Balloy   Martine,0,1
+Benoit   Thierry,Hennion   Christine,0,1
+Benoit   Thierry,Turquois   Nicolas,0,1
+Benoit   Thierry,Provendier   Florence,0,1
+Benoit   Thierry,de Courson   Charles,0,1
+Juanico   Régis,Battistel   Marie-Noëlle,1,1
+Juanico   Régis,Alauzet   Éric,0,1
+Juanico   Régis,Potier   Dominique,1,1
+Juanico   Régis,Louwagie   Véronique,1,1
+Juanico   Régis,Dupont   Stella,0,1
+Juanico   Régis,Mazars   Stéphane,0,1
+Juanico   Régis,Maillard   Sylvain,0,1
+Juanico   Régis,Givernet   Olga,0,1
+Juanico   Régis,Boyer   Pascale,0,1
+Juanico   Régis,Zulesi   Jean-Marc,0,1
+Juanico   Régis,Laqhila   Mohamed,0,1
+Juanico   Régis,Blanchet   Christophe,0,1
+Juanico   Régis,Castellani   Michel,1,1
+Juanico   Régis,Charvier   Fannette,0,1
+Juanico   Régis,de Lavergne   Célia,0,1
+Juanico   Régis,Melchior   Graziella,0,1
+Juanico   Régis,Sommer   Denis,0,1
+Juanico   Régis,Ménard   Emmanuelle,1,1
+Juanico   Régis,Motin   Cendra,0,1
+Juanico   Régis,Vallaud   Boris,1,1
+Juanico   Régis,Sarles   Nathalie,0,1
+Juanico   Régis,Borowczyk   Julien,0,1
+Juanico   Régis,Oppelt   Valérie,0,1
+Juanico   Régis,Amadou   Aude,0,1
+Juanico   Régis,Saint-Paul   Laetitia,0,1
+Juanico   Régis,Bolo   Philippe,0,1
+Juanico   Régis,Fiat   Caroline,1,1
+Juanico   Régis,Perrot   Patrice,0,1
+Juanico   Régis,Cattelot   Anne-Laure,0,1
+Juanico   Régis,Thill   Agnès,0,1
+Juanico   Régis,Duvergé   Bruno,0,1
+Juanico   Régis,Thomas   Valérie,0,1
+Juanico   Régis,Rilhac   Cécile,0,1
+Juanico   Régis,Lescure   Roland,0,1
+Juanico   Régis,Corbière   Alexis,1,1
+Juanico   Régis,Peu   Stéphane,1,1
+Juanico   Régis,Ramadier   Alain,1,1
+Juanico   Régis,Verdier-Jouclas   Marie-Christine,0,1
+Juanico   Régis,Boucard   Ian,1,1
+Juanico   Régis,Barrot   Jean-Noël,0,1
+Juanico   Régis,Lebec   Marie,0,1
+Juanico   Régis,Raphan   Pierre-Alain,0,1
+Juanico   Régis,de Vaucouleurs   Michèle,0,1
+Juanico   Régis,Leguille-Balloy   Martine,0,1
+Juanico   Régis,Hennion   Christine,0,1
+Juanico   Régis,Turquois   Nicolas,0,1
+Juanico   Régis,Provendier   Florence,0,1
+Juanico   Régis,de Courson   Charles,0,1
+Battistel   Marie-Noëlle,Alauzet   Éric,0,1
+Battistel   Marie-Noëlle,Potier   Dominique,1,1
+Battistel   Marie-Noëlle,Louwagie   Véronique,1,1
+Battistel   Marie-Noëlle,Dupont   Stella,0,1
+Battistel   Marie-Noëlle,Mazars   Stéphane,0,1
+Battistel   Marie-Noëlle,Maillard   Sylvain,0,1
+Battistel   Marie-Noëlle,Givernet   Olga,0,1
+Battistel   Marie-Noëlle,Boyer   Pascale,0,1
+Battistel   Marie-Noëlle,Zulesi   Jean-Marc,0,1
+Battistel   Marie-Noëlle,Laqhila   Mohamed,0,1
+Battistel   Marie-Noëlle,Blanchet   Christophe,0,1
+Battistel   Marie-Noëlle,Castellani   Michel,1,1
+Battistel   Marie-Noëlle,Charvier   Fannette,0,1
+Battistel   Marie-Noëlle,de Lavergne   Célia,0,1
+Battistel   Marie-Noëlle,Melchior   Graziella,0,1
+Battistel   Marie-Noëlle,Sommer   Denis,0,1
+Battistel   Marie-Noëlle,Ménard   Emmanuelle,1,1
+Battistel   Marie-Noëlle,Motin   Cendra,0,1
+Battistel   Marie-Noëlle,Vallaud   Boris,1,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,0,1
+Battistel   Marie-Noëlle,Borowczyk   Julien,0,1
+Battistel   Marie-Noëlle,Oppelt   Valérie,0,1
+Battistel   Marie-Noëlle,Amadou   Aude,0,1
+Battistel   Marie-Noëlle,Saint-Paul   Laetitia,0,1
+Battistel   Marie-Noëlle,Bolo   Philippe,0,1
+Battistel   Marie-Noëlle,Fiat   Caroline,1,1
+Battistel   Marie-Noëlle,Perrot   Patrice,0,1
+Battistel   Marie-Noëlle,Cattelot   Anne-Laure,0,1
+Battistel   Marie-Noëlle,Thill   Agnès,0,1
+Battistel   Marie-Noëlle,Duvergé   Bruno,0,1
+Battistel   Marie-Noëlle,Thomas   Valérie,0,1
+Battistel   Marie-Noëlle,Rilhac   Cécile,0,1
+Battistel   Marie-Noëlle,Lescure   Roland,0,1
+Battistel   Marie-Noëlle,Corbière   Alexis,1,1
+Battistel   Marie-Noëlle,Peu   Stéphane,1,1
+Battistel   Marie-Noëlle,Ramadier   Alain,1,1
+Battistel   Marie-Noëlle,Verdier-Jouclas   Marie-Christine,0,1
+Battistel   Marie-Noëlle,Boucard   Ian,1,1
+Battistel   Marie-Noëlle,Barrot   Jean-Noël,0,1
+Battistel   Marie-Noëlle,Lebec   Marie,0,1
+Battistel   Marie-Noëlle,Raphan   Pierre-Alain,0,1
+Battistel   Marie-Noëlle,de Vaucouleurs   Michèle,0,1
+Battistel   Marie-Noëlle,Leguille-Balloy   Martine,0,1
+Battistel   Marie-Noëlle,Hennion   Christine,0,1
+Battistel   Marie-Noëlle,Turquois   Nicolas,0,1
+Battistel   Marie-Noëlle,Provendier   Florence,0,1
+Battistel   Marie-Noëlle,de Courson   Charles,0,1
+Alauzet   Éric,Potier   Dominique,0,1
+Alauzet   Éric,Louwagie   Véronique,0,1
+Alauzet   Éric,Dupont   Stella,1,1
+Alauzet   Éric,Mazars   Stéphane,1,1
+Alauzet   Éric,Maillard   Sylvain,1,1
+Alauzet   Éric,Givernet   Olga,1,1
+Alauzet   Éric,Boyer   Pascale,1,1
+Alauzet   Éric,Zulesi   Jean-Marc,1,1
+Alauzet   Éric,Laqhila   Mohamed,1,1
+Alauzet   Éric,Blanchet   Christophe,1,1
+Alauzet   Éric,Castellani   Michel,0,1
+Alauzet   Éric,Charvier   Fannette,1,1
+Alauzet   Éric,de Lavergne   Célia,1,1
+Alauzet   Éric,Melchior   Graziella,1,1
+Alauzet   Éric,Sommer   Denis,1,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,Motin   Cendra,1,1
+Alauzet   Éric,Vallaud   Boris,0,1
+Alauzet   Éric,Sarles   Nathalie,1,1
+Alauzet   Éric,Borowczyk   Julien,1,1
+Alauzet   Éric,Oppelt   Valérie,1,1
+Alauzet   Éric,Amadou   Aude,1,1
+Alauzet   Éric,Saint-Paul   Laetitia,1,1
+Alauzet   Éric,Bolo   Philippe,1,1
+Alauzet   Éric,Fiat   Caroline,0,1
+Alauzet   Éric,Perrot   Patrice,1,1
+Alauzet   Éric,Cattelot   Anne-Laure,1,1
+Alauzet   Éric,Thill   Agnès,1,1
+Alauzet   Éric,Duvergé   Bruno,1,1
+Alauzet   Éric,Thomas   Valérie,1,1
+Alauzet   Éric,Rilhac   Cécile,1,1
+Alauzet   Éric,Lescure   Roland,1,1
+Alauzet   Éric,Corbière   Alexis,0,1
+Alauzet   Éric,Peu   Stéphane,0,1
+Alauzet   Éric,Ramadier   Alain,0,1
+Alauzet   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Alauzet   Éric,Boucard   Ian,0,1
+Alauzet   Éric,Barrot   Jean-Noël,1,1
+Alauzet   Éric,Lebec   Marie,1,1
+Alauzet   Éric,Raphan   Pierre-Alain,1,1
+Alauzet   Éric,de Vaucouleurs   Michèle,1,1
+Alauzet   Éric,Leguille-Balloy   Martine,1,1
+Alauzet   Éric,Hennion   Christine,1,1
+Alauzet   Éric,Turquois   Nicolas,1,1
+Alauzet   Éric,Provendier   Florence,1,1
+Alauzet   Éric,de Courson   Charles,1,1
+Potier   Dominique,Louwagie   Véronique,1,1
+Potier   Dominique,Dupont   Stella,0,1
+Potier   Dominique,Mazars   Stéphane,0,1
+Potier   Dominique,Maillard   Sylvain,0,1
+Potier   Dominique,Givernet   Olga,0,1
+Potier   Dominique,Boyer   Pascale,0,1
+Potier   Dominique,Zulesi   Jean-Marc,0,1
+Potier   Dominique,Laqhila   Mohamed,0,1
+Potier   Dominique,Blanchet   Christophe,0,1
+Potier   Dominique,Castellani   Michel,1,1
+Potier   Dominique,Charvier   Fannette,0,1
+Potier   Dominique,de Lavergne   Célia,0,1
+Potier   Dominique,Melchior   Graziella,0,1
+Potier   Dominique,Sommer   Denis,0,1
+Potier   Dominique,Ménard   Emmanuelle,1,1
+Potier   Dominique,Motin   Cendra,0,1
+Potier   Dominique,Vallaud   Boris,1,1
+Potier   Dominique,Sarles   Nathalie,0,1
+Potier   Dominique,Borowczyk   Julien,0,1
+Potier   Dominique,Oppelt   Valérie,0,1
+Potier   Dominique,Amadou   Aude,0,1
+Potier   Dominique,Saint-Paul   Laetitia,0,1
+Potier   Dominique,Bolo   Philippe,0,1
+Potier   Dominique,Fiat   Caroline,1,1
+Potier   Dominique,Perrot   Patrice,0,1
+Potier   Dominique,Cattelot   Anne-Laure,0,1
+Potier   Dominique,Thill   Agnès,0,1
+Potier   Dominique,Duvergé   Bruno,0,1
+Potier   Dominique,Thomas   Valérie,0,1
+Potier   Dominique,Rilhac   Cécile,0,1
+Potier   Dominique,Lescure   Roland,0,1
+Potier   Dominique,Corbière   Alexis,1,1
+Potier   Dominique,Peu   Stéphane,1,1
+Potier   Dominique,Ramadier   Alain,1,1
+Potier   Dominique,Verdier-Jouclas   Marie-Christine,0,1
+Potier   Dominique,Boucard   Ian,1,1
+Potier   Dominique,Barrot   Jean-Noël,0,1
+Potier   Dominique,Lebec   Marie,0,1
+Potier   Dominique,Raphan   Pierre-Alain,0,1
+Potier   Dominique,de Vaucouleurs   Michèle,0,1
+Potier   Dominique,Leguille-Balloy   Martine,0,1
+Potier   Dominique,Hennion   Christine,0,1
+Potier   Dominique,Turquois   Nicolas,0,1
+Potier   Dominique,Provendier   Florence,0,1
+Potier   Dominique,de Courson   Charles,0,1
+Louwagie   Véronique,Dupont   Stella,0,1
+Louwagie   Véronique,Mazars   Stéphane,0,1
+Louwagie   Véronique,Maillard   Sylvain,0,1
+Louwagie   Véronique,Givernet   Olga,0,1
+Louwagie   Véronique,Boyer   Pascale,0,1
+Louwagie   Véronique,Zulesi   Jean-Marc,0,1
+Louwagie   Véronique,Laqhila   Mohamed,0,1
+Louwagie   Véronique,Blanchet   Christophe,0,1
+Louwagie   Véronique,Castellani   Michel,1,1
+Louwagie   Véronique,Charvier   Fannette,0,1
+Louwagie   Véronique,de Lavergne   Célia,0,1
+Louwagie   Véronique,Melchior   Graziella,0,1
+Louwagie   Véronique,Sommer   Denis,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Motin   Cendra,0,1
+Louwagie   Véronique,Vallaud   Boris,1,1
+Louwagie   Véronique,Sarles   Nathalie,0,1
+Louwagie   Véronique,Borowczyk   Julien,0,1
+Louwagie   Véronique,Oppelt   Valérie,0,1
+Louwagie   Véronique,Amadou   Aude,0,1
+Louwagie   Véronique,Saint-Paul   Laetitia,0,1
+Louwagie   Véronique,Bolo   Philippe,0,1
+Louwagie   Véronique,Fiat   Caroline,1,1
+Louwagie   Véronique,Perrot   Patrice,0,1
+Louwagie   Véronique,Cattelot   Anne-Laure,0,1
+Louwagie   Véronique,Thill   Agnès,0,1
+Louwagie   Véronique,Duvergé   Bruno,0,1
+Louwagie   Véronique,Thomas   Valérie,0,1
+Louwagie   Véronique,Rilhac   Cécile,0,1
+Louwagie   Véronique,Lescure   Roland,0,1
+Louwagie   Véronique,Corbière   Alexis,1,1
+Louwagie   Véronique,Peu   Stéphane,1,1
+Louwagie   Véronique,Ramadier   Alain,1,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Boucard   Ian,1,1
+Louwagie   Véronique,Barrot   Jean-Noël,0,1
+Louwagie   Véronique,Lebec   Marie,0,1
+Louwagie   Véronique,Raphan   Pierre-Alain,0,1
+Louwagie   Véronique,de Vaucouleurs   Michèle,0,1
+Louwagie   Véronique,Leguille-Balloy   Martine,0,1
+Louwagie   Véronique,Hennion   Christine,0,1
+Louwagie   Véronique,Turquois   Nicolas,0,1
+Louwagie   Véronique,Provendier   Florence,0,1
+Louwagie   Véronique,de Courson   Charles,0,1
+Dupont   Stella,Mazars   Stéphane,1,1
+Dupont   Stella,Maillard   Sylvain,1,1
+Dupont   Stella,Givernet   Olga,1,1
+Dupont   Stella,Boyer   Pascale,1,1
+Dupont   Stella,Zulesi   Jean-Marc,1,1
+Dupont   Stella,Laqhila   Mohamed,1,1
+Dupont   Stella,Blanchet   Christophe,1,1
+Dupont   Stella,Castellani   Michel,0,1
+Dupont   Stella,Charvier   Fannette,1,1
+Dupont   Stella,de Lavergne   Célia,1,1
+Dupont   Stella,Melchior   Graziella,1,1
+Dupont   Stella,Sommer   Denis,1,1
+Dupont   Stella,Ménard   Emmanuelle,0,1
+Dupont   Stella,Motin   Cendra,1,1
+Dupont   Stella,Vallaud   Boris,0,1
+Dupont   Stella,Sarles   Nathalie,1,1
+Dupont   Stella,Borowczyk   Julien,1,1
+Dupont   Stella,Oppelt   Valérie,1,1
+Dupont   Stella,Amadou   Aude,1,1
+Dupont   Stella,Saint-Paul   Laetitia,1,1
+Dupont   Stella,Bolo   Philippe,1,1
+Dupont   Stella,Fiat   Caroline,0,1
+Dupont   Stella,Perrot   Patrice,1,1
+Dupont   Stella,Cattelot   Anne-Laure,1,1
+Dupont   Stella,Thill   Agnès,1,1
+Dupont   Stella,Duvergé   Bruno,1,1
+Dupont   Stella,Thomas   Valérie,1,1
+Dupont   Stella,Rilhac   Cécile,1,1
+Dupont   Stella,Lescure   Roland,1,1
+Dupont   Stella,Corbière   Alexis,0,1
+Dupont   Stella,Peu   Stéphane,0,1
+Dupont   Stella,Ramadier   Alain,0,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Boucard   Ian,0,1
+Dupont   Stella,Barrot   Jean-Noël,1,1
+Dupont   Stella,Lebec   Marie,1,1
+Dupont   Stella,Raphan   Pierre-Alain,1,1
+Dupont   Stella,de Vaucouleurs   Michèle,1,1
+Dupont   Stella,Leguille-Balloy   Martine,1,1
+Dupont   Stella,Hennion   Christine,1,1
+Dupont   Stella,Turquois   Nicolas,1,1
+Dupont   Stella,Provendier   Florence,1,1
+Dupont   Stella,de Courson   Charles,1,1
+Mazars   Stéphane,Maillard   Sylvain,1,1
+Mazars   Stéphane,Givernet   Olga,1,1
+Mazars   Stéphane,Boyer   Pascale,1,1
+Mazars   Stéphane,Zulesi   Jean-Marc,1,1
+Mazars   Stéphane,Laqhila   Mohamed,1,1
+Mazars   Stéphane,Blanchet   Christophe,1,1
+Mazars   Stéphane,Castellani   Michel,0,1
+Mazars   Stéphane,Charvier   Fannette,1,1
+Mazars   Stéphane,de Lavergne   Célia,1,1
+Mazars   Stéphane,Melchior   Graziella,1,1
+Mazars   Stéphane,Sommer   Denis,1,1
+Mazars   Stéphane,Ménard   Emmanuelle,0,1
+Mazars   Stéphane,Motin   Cendra,1,1
+Mazars   Stéphane,Vallaud   Boris,0,1
+Mazars   Stéphane,Sarles   Nathalie,1,1
+Mazars   Stéphane,Borowczyk   Julien,1,1
+Mazars   Stéphane,Oppelt   Valérie,1,1
+Mazars   Stéphane,Amadou   Aude,1,1
+Mazars   Stéphane,Saint-Paul   Laetitia,1,1
+Mazars   Stéphane,Bolo   Philippe,1,1
+Mazars   Stéphane,Fiat   Caroline,0,1
+Mazars   Stéphane,Perrot   Patrice,1,1
+Mazars   Stéphane,Cattelot   Anne-Laure,1,1
+Mazars   Stéphane,Thill   Agnès,1,1
+Mazars   Stéphane,Duvergé   Bruno,1,1
+Mazars   Stéphane,Thomas   Valérie,1,1
+Mazars   Stéphane,Rilhac   Cécile,1,1
+Mazars   Stéphane,Lescure   Roland,1,1
+Mazars   Stéphane,Corbière   Alexis,0,1
+Mazars   Stéphane,Peu   Stéphane,0,1
+Mazars   Stéphane,Ramadier   Alain,0,1
+Mazars   Stéphane,Verdier-Jouclas   Marie-Christine,1,1
+Mazars   Stéphane,Boucard   Ian,0,1
+Mazars   Stéphane,Barrot   Jean-Noël,1,1
+Mazars   Stéphane,Lebec   Marie,1,1
+Mazars   Stéphane,Raphan   Pierre-Alain,1,1
+Mazars   Stéphane,de Vaucouleurs   Michèle,1,1
+Mazars   Stéphane,Leguille-Balloy   Martine,1,1
+Mazars   Stéphane,Hennion   Christine,1,1
+Mazars   Stéphane,Turquois   Nicolas,1,1
+Mazars   Stéphane,Provendier   Florence,1,1
+Mazars   Stéphane,de Courson   Charles,1,1
+Maillard   Sylvain,Givernet   Olga,1,1
+Maillard   Sylvain,Boyer   Pascale,1,1
+Maillard   Sylvain,Zulesi   Jean-Marc,1,1
+Maillard   Sylvain,Laqhila   Mohamed,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Castellani   Michel,0,1
+Maillard   Sylvain,Charvier   Fannette,1,1
+Maillard   Sylvain,de Lavergne   Célia,1,1
+Maillard   Sylvain,Melchior   Graziella,1,1
+Maillard   Sylvain,Sommer   Denis,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Vallaud   Boris,0,1
+Maillard   Sylvain,Sarles   Nathalie,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Oppelt   Valérie,1,1
+Maillard   Sylvain,Amadou   Aude,1,1
+Maillard   Sylvain,Saint-Paul   Laetitia,1,1
+Maillard   Sylvain,Bolo   Philippe,1,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Perrot   Patrice,1,1
+Maillard   Sylvain,Cattelot   Anne-Laure,1,1
+Maillard   Sylvain,Thill   Agnès,1,1
+Maillard   Sylvain,Duvergé   Bruno,1,1
+Maillard   Sylvain,Thomas   Valérie,1,1
+Maillard   Sylvain,Rilhac   Cécile,1,1
+Maillard   Sylvain,Lescure   Roland,1,1
+Maillard   Sylvain,Corbière   Alexis,0,1
+Maillard   Sylvain,Peu   Stéphane,0,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Verdier-Jouclas   Marie-Christine,1,1
+Maillard   Sylvain,Boucard   Ian,0,1
+Maillard   Sylvain,Barrot   Jean-Noël,1,1
+Maillard   Sylvain,Lebec   Marie,1,1
+Maillard   Sylvain,Raphan   Pierre-Alain,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Leguille-Balloy   Martine,1,1
+Maillard   Sylvain,Hennion   Christine,1,1
+Maillard   Sylvain,Turquois   Nicolas,1,1
+Maillard   Sylvain,Provendier   Florence,1,1
+Maillard   Sylvain,de Courson   Charles,1,1
+Givernet   Olga,Boyer   Pascale,1,1
+Givernet   Olga,Zulesi   Jean-Marc,1,1
+Givernet   Olga,Laqhila   Mohamed,1,1
+Givernet   Olga,Blanchet   Christophe,1,1
+Givernet   Olga,Castellani   Michel,0,1
+Givernet   Olga,Charvier   Fannette,1,1
+Givernet   Olga,de Lavergne   Célia,1,1
+Givernet   Olga,Melchior   Graziella,1,1
+Givernet   Olga,Sommer   Denis,1,1
+Givernet   Olga,Ménard   Emmanuelle,0,1
+Givernet   Olga,Motin   Cendra,1,1
+Givernet   Olga,Vallaud   Boris,0,1
+Givernet   Olga,Sarles   Nathalie,1,1
+Givernet   Olga,Borowczyk   Julien,1,1
+Givernet   Olga,Oppelt   Valérie,1,1
+Givernet   Olga,Amadou   Aude,1,1
+Givernet   Olga,Saint-Paul   Laetitia,1,1
+Givernet   Olga,Bolo   Philippe,1,1
+Givernet   Olga,Fiat   Caroline,0,1
+Givernet   Olga,Perrot   Patrice,1,1
+Givernet   Olga,Cattelot   Anne-Laure,1,1
+Givernet   Olga,Thill   Agnès,1,1
+Givernet   Olga,Duvergé   Bruno,1,1
+Givernet   Olga,Thomas   Valérie,1,1
+Givernet   Olga,Rilhac   Cécile,1,1
+Givernet   Olga,Lescure   Roland,1,1
+Givernet   Olga,Corbière   Alexis,0,1
+Givernet   Olga,Peu   Stéphane,0,1
+Givernet   Olga,Ramadier   Alain,0,1
+Givernet   Olga,Verdier-Jouclas   Marie-Christine,1,1
+Givernet   Olga,Boucard   Ian,0,1
+Givernet   Olga,Barrot   Jean-Noël,1,1
+Givernet   Olga,Lebec   Marie,1,1
+Givernet   Olga,Raphan   Pierre-Alain,1,1
+Givernet   Olga,de Vaucouleurs   Michèle,1,1
+Givernet   Olga,Leguille-Balloy   Martine,1,1
+Givernet   Olga,Hennion   Christine,1,1
+Givernet   Olga,Turquois   Nicolas,1,1
+Givernet   Olga,Provendier   Florence,1,1
+Givernet   Olga,de Courson   Charles,1,1
+Boyer   Pascale,Zulesi   Jean-Marc,1,1
+Boyer   Pascale,Laqhila   Mohamed,1,1
+Boyer   Pascale,Blanchet   Christophe,1,1
+Boyer   Pascale,Castellani   Michel,0,1
+Boyer   Pascale,Charvier   Fannette,1,1
+Boyer   Pascale,de Lavergne   Célia,1,1
+Boyer   Pascale,Melchior   Graziella,1,1
+Boyer   Pascale,Sommer   Denis,1,1
+Boyer   Pascale,Ménard   Emmanuelle,0,1
+Boyer   Pascale,Motin   Cendra,1,1
+Boyer   Pascale,Vallaud   Boris,0,1
+Boyer   Pascale,Sarles   Nathalie,1,1
+Boyer   Pascale,Borowczyk   Julien,1,1
+Boyer   Pascale,Oppelt   Valérie,1,1
+Boyer   Pascale,Amadou   Aude,1,1
+Boyer   Pascale,Saint-Paul   Laetitia,1,1
+Boyer   Pascale,Bolo   Philippe,1,1
+Boyer   Pascale,Fiat   Caroline,0,1
+Boyer   Pascale,Perrot   Patrice,1,1
+Boyer   Pascale,Cattelot   Anne-Laure,1,1
+Boyer   Pascale,Thill   Agnès,1,1
+Boyer   Pascale,Duvergé   Bruno,1,1
+Boyer   Pascale,Thomas   Valérie,1,1
+Boyer   Pascale,Rilhac   Cécile,1,1
+Boyer   Pascale,Lescure   Roland,1,1
+Boyer   Pascale,Corbière   Alexis,0,1
+Boyer   Pascale,Peu   Stéphane,0,1
+Boyer   Pascale,Ramadier   Alain,0,1
+Boyer   Pascale,Verdier-Jouclas   Marie-Christine,1,1
+Boyer   Pascale,Boucard   Ian,0,1
+Boyer   Pascale,Barrot   Jean-Noël,1,1
+Boyer   Pascale,Lebec   Marie,1,1
+Boyer   Pascale,Raphan   Pierre-Alain,1,1
+Boyer   Pascale,de Vaucouleurs   Michèle,1,1
+Boyer   Pascale,Leguille-Balloy   Martine,1,1
+Boyer   Pascale,Hennion   Christine,1,1
+Boyer   Pascale,Turquois   Nicolas,1,1
+Boyer   Pascale,Provendier   Florence,1,1
+Boyer   Pascale,de Courson   Charles,1,1
+Zulesi   Jean-Marc,Laqhila   Mohamed,1,1
+Zulesi   Jean-Marc,Blanchet   Christophe,1,1
+Zulesi   Jean-Marc,Castellani   Michel,0,1
+Zulesi   Jean-Marc,Charvier   Fannette,1,1
+Zulesi   Jean-Marc,de Lavergne   Célia,1,1
+Zulesi   Jean-Marc,Melchior   Graziella,1,1
+Zulesi   Jean-Marc,Sommer   Denis,1,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,0,1
+Zulesi   Jean-Marc,Motin   Cendra,1,1
+Zulesi   Jean-Marc,Vallaud   Boris,0,1
+Zulesi   Jean-Marc,Sarles   Nathalie,1,1
+Zulesi   Jean-Marc,Borowczyk   Julien,1,1
+Zulesi   Jean-Marc,Oppelt   Valérie,1,1
+Zulesi   Jean-Marc,Amadou   Aude,1,1
+Zulesi   Jean-Marc,Saint-Paul   Laetitia,1,1
+Zulesi   Jean-Marc,Bolo   Philippe,1,1
+Zulesi   Jean-Marc,Fiat   Caroline,0,1
+Zulesi   Jean-Marc,Perrot   Patrice,1,1
+Zulesi   Jean-Marc,Cattelot   Anne-Laure,1,1
+Zulesi   Jean-Marc,Thill   Agnès,1,1
+Zulesi   Jean-Marc,Duvergé   Bruno,1,1
+Zulesi   Jean-Marc,Thomas   Valérie,1,1
+Zulesi   Jean-Marc,Rilhac   Cécile,1,1
+Zulesi   Jean-Marc,Lescure   Roland,1,1
+Zulesi   Jean-Marc,Corbière   Alexis,0,1
+Zulesi   Jean-Marc,Peu   Stéphane,0,1
+Zulesi   Jean-Marc,Ramadier   Alain,0,1
+Zulesi   Jean-Marc,Verdier-Jouclas   Marie-Christine,1,1
+Zulesi   Jean-Marc,Boucard   Ian,0,1
+Zulesi   Jean-Marc,Barrot   Jean-Noël,1,1
+Zulesi   Jean-Marc,Lebec   Marie,1,1
+Zulesi   Jean-Marc,Raphan   Pierre-Alain,1,1
+Zulesi   Jean-Marc,de Vaucouleurs   Michèle,1,1
+Zulesi   Jean-Marc,Leguille-Balloy   Martine,1,1
+Zulesi   Jean-Marc,Hennion   Christine,1,1
+Zulesi   Jean-Marc,Turquois   Nicolas,1,1
+Zulesi   Jean-Marc,Provendier   Florence,1,1
+Zulesi   Jean-Marc,de Courson   Charles,1,1
+Laqhila   Mohamed,Blanchet   Christophe,1,1
+Laqhila   Mohamed,Castellani   Michel,0,1
+Laqhila   Mohamed,Charvier   Fannette,1,1
+Laqhila   Mohamed,de Lavergne   Célia,1,1
+Laqhila   Mohamed,Melchior   Graziella,1,1
+Laqhila   Mohamed,Sommer   Denis,1,1
+Laqhila   Mohamed,Ménard   Emmanuelle,0,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Vallaud   Boris,0,1
+Laqhila   Mohamed,Sarles   Nathalie,1,1
+Laqhila   Mohamed,Borowczyk   Julien,1,1
+Laqhila   Mohamed,Oppelt   Valérie,1,1
+Laqhila   Mohamed,Amadou   Aude,1,1
+Laqhila   Mohamed,Saint-Paul   Laetitia,1,1
+Laqhila   Mohamed,Bolo   Philippe,1,1
+Laqhila   Mohamed,Fiat   Caroline,0,1
+Laqhila   Mohamed,Perrot   Patrice,1,1
+Laqhila   Mohamed,Cattelot   Anne-Laure,1,1
+Laqhila   Mohamed,Thill   Agnès,1,1
+Laqhila   Mohamed,Duvergé   Bruno,1,1
+Laqhila   Mohamed,Thomas   Valérie,1,1
+Laqhila   Mohamed,Rilhac   Cécile,1,1
+Laqhila   Mohamed,Lescure   Roland,1,1
+Laqhila   Mohamed,Corbière   Alexis,0,1
+Laqhila   Mohamed,Peu   Stéphane,0,1
+Laqhila   Mohamed,Ramadier   Alain,0,1
+Laqhila   Mohamed,Verdier-Jouclas   Marie-Christine,1,1
+Laqhila   Mohamed,Boucard   Ian,0,1
+Laqhila   Mohamed,Barrot   Jean-Noël,1,1
+Laqhila   Mohamed,Lebec   Marie,1,1
+Laqhila   Mohamed,Raphan   Pierre-Alain,1,1
+Laqhila   Mohamed,de Vaucouleurs   Michèle,1,1
+Laqhila   Mohamed,Leguille-Balloy   Martine,1,1
+Laqhila   Mohamed,Hennion   Christine,1,1
+Laqhila   Mohamed,Turquois   Nicolas,1,1
+Laqhila   Mohamed,Provendier   Florence,1,1
+Laqhila   Mohamed,de Courson   Charles,1,1
+Blanchet   Christophe,Castellani   Michel,0,1
+Blanchet   Christophe,Charvier   Fannette,1,1
+Blanchet   Christophe,de Lavergne   Célia,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Sommer   Denis,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Vallaud   Boris,0,1
+Blanchet   Christophe,Sarles   Nathalie,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Oppelt   Valérie,1,1
+Blanchet   Christophe,Amadou   Aude,1,1
+Blanchet   Christophe,Saint-Paul   Laetitia,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Fiat   Caroline,0,1
+Blanchet   Christophe,Perrot   Patrice,1,1
+Blanchet   Christophe,Cattelot   Anne-Laure,1,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Duvergé   Bruno,1,1
+Blanchet   Christophe,Thomas   Valérie,1,1
+Blanchet   Christophe,Rilhac   Cécile,1,1
+Blanchet   Christophe,Lescure   Roland,1,1
+Blanchet   Christophe,Corbière   Alexis,0,1
+Blanchet   Christophe,Peu   Stéphane,0,1
+Blanchet   Christophe,Ramadier   Alain,0,1
+Blanchet   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Blanchet   Christophe,Boucard   Ian,0,1
+Blanchet   Christophe,Barrot   Jean-Noël,1,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Raphan   Pierre-Alain,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Leguille-Balloy   Martine,1,1
+Blanchet   Christophe,Hennion   Christine,1,1
+Blanchet   Christophe,Turquois   Nicolas,1,1
+Blanchet   Christophe,Provendier   Florence,1,1
+Blanchet   Christophe,de Courson   Charles,1,1
+Castellani   Michel,Charvier   Fannette,0,1
+Castellani   Michel,de Lavergne   Célia,0,1
+Castellani   Michel,Melchior   Graziella,0,1
+Castellani   Michel,Sommer   Denis,0,1
+Castellani   Michel,Ménard   Emmanuelle,1,1
+Castellani   Michel,Motin   Cendra,0,1
+Castellani   Michel,Vallaud   Boris,1,1
+Castellani   Michel,Sarles   Nathalie,0,1
+Castellani   Michel,Borowczyk   Julien,0,1
+Castellani   Michel,Oppelt   Valérie,0,1
+Castellani   Michel,Amadou   Aude,0,1
+Castellani   Michel,Saint-Paul   Laetitia,0,1
+Castellani   Michel,Bolo   Philippe,0,1
+Castellani   Michel,Fiat   Caroline,1,1
+Castellani   Michel,Perrot   Patrice,0,1
+Castellani   Michel,Cattelot   Anne-Laure,0,1
+Castellani   Michel,Thill   Agnès,0,1
+Castellani   Michel,Duvergé   Bruno,0,1
+Castellani   Michel,Thomas   Valérie,0,1
+Castellani   Michel,Rilhac   Cécile,0,1
+Castellani   Michel,Lescure   Roland,0,1
+Castellani   Michel,Corbière   Alexis,1,1
+Castellani   Michel,Peu   Stéphane,1,1
+Castellani   Michel,Ramadier   Alain,1,1
+Castellani   Michel,Verdier-Jouclas   Marie-Christine,0,1
+Castellani   Michel,Boucard   Ian,1,1
+Castellani   Michel,Barrot   Jean-Noël,0,1
+Castellani   Michel,Lebec   Marie,0,1
+Castellani   Michel,Raphan   Pierre-Alain,0,1
+Castellani   Michel,de Vaucouleurs   Michèle,0,1
+Castellani   Michel,Leguille-Balloy   Martine,0,1
+Castellani   Michel,Hennion   Christine,0,1
+Castellani   Michel,Turquois   Nicolas,0,1
+Castellani   Michel,Provendier   Florence,0,1
+Castellani   Michel,de Courson   Charles,0,1
+Charvier   Fannette,de Lavergne   Célia,1,1
+Charvier   Fannette,Melchior   Graziella,1,1
+Charvier   Fannette,Sommer   Denis,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Vallaud   Boris,0,1
+Charvier   Fannette,Sarles   Nathalie,1,1
+Charvier   Fannette,Borowczyk   Julien,1,1
+Charvier   Fannette,Oppelt   Valérie,1,1
+Charvier   Fannette,Amadou   Aude,1,1
+Charvier   Fannette,Saint-Paul   Laetitia,1,1
+Charvier   Fannette,Bolo   Philippe,1,1
+Charvier   Fannette,Fiat   Caroline,0,1
+Charvier   Fannette,Perrot   Patrice,1,1
+Charvier   Fannette,Cattelot   Anne-Laure,1,1
+Charvier   Fannette,Thill   Agnès,1,1
+Charvier   Fannette,Duvergé   Bruno,1,1
+Charvier   Fannette,Thomas   Valérie,1,1
+Charvier   Fannette,Rilhac   Cécile,1,1
+Charvier   Fannette,Lescure   Roland,1,1
+Charvier   Fannette,Corbière   Alexis,0,1
+Charvier   Fannette,Peu   Stéphane,0,1
+Charvier   Fannette,Ramadier   Alain,0,1
+Charvier   Fannette,Verdier-Jouclas   Marie-Christine,1,1
+Charvier   Fannette,Boucard   Ian,0,1
+Charvier   Fannette,Barrot   Jean-Noël,1,1
+Charvier   Fannette,Lebec   Marie,1,1
+Charvier   Fannette,Raphan   Pierre-Alain,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,1,1
+Charvier   Fannette,Leguille-Balloy   Martine,1,1
+Charvier   Fannette,Hennion   Christine,1,1
+Charvier   Fannette,Turquois   Nicolas,1,1
+Charvier   Fannette,Provendier   Florence,1,1
+Charvier   Fannette,de Courson   Charles,1,1
+de Lavergne   Célia,Melchior   Graziella,1,1
+de Lavergne   Célia,Sommer   Denis,1,1
+de Lavergne   Célia,Ménard   Emmanuelle,0,1
+de Lavergne   Célia,Motin   Cendra,1,1
+de Lavergne   Célia,Vallaud   Boris,0,1
+de Lavergne   Célia,Sarles   Nathalie,1,1
+de Lavergne   Célia,Borowczyk   Julien,1,1
+de Lavergne   Célia,Oppelt   Valérie,1,1
+de Lavergne   Célia,Amadou   Aude,1,1
+de Lavergne   Célia,Saint-Paul   Laetitia,1,1
+de Lavergne   Célia,Bolo   Philippe,1,1
+de Lavergne   Célia,Fiat   Caroline,0,1
+de Lavergne   Célia,Perrot   Patrice,1,1
+de Lavergne   Célia,Cattelot   Anne-Laure,1,1
+de Lavergne   Célia,Thill   Agnès,1,1
+de Lavergne   Célia,Duvergé   Bruno,1,1
+de Lavergne   Célia,Thomas   Valérie,1,1
+de Lavergne   Célia,Rilhac   Cécile,1,1
+de Lavergne   Célia,Lescure   Roland,1,1
+de Lavergne   Célia,Corbière   Alexis,0,1
+de Lavergne   Célia,Peu   Stéphane,0,1
+de Lavergne   Célia,Ramadier   Alain,0,1
+de Lavergne   Célia,Verdier-Jouclas   Marie-Christine,1,1
+de Lavergne   Célia,Boucard   Ian,0,1
+de Lavergne   Célia,Barrot   Jean-Noël,1,1
+de Lavergne   Célia,Lebec   Marie,1,1
+de Lavergne   Célia,Raphan   Pierre-Alain,1,1
+de Lavergne   Célia,de Vaucouleurs   Michèle,1,1
+de Lavergne   Célia,Leguille-Balloy   Martine,1,1
+de Lavergne   Célia,Hennion   Christine,1,1
+de Lavergne   Célia,Turquois   Nicolas,1,1
+de Lavergne   Célia,Provendier   Florence,1,1
+de Lavergne   Célia,de Courson   Charles,1,1
+Melchior   Graziella,Sommer   Denis,1,1
+Melchior   Graziella,Ménard   Emmanuelle,0,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Vallaud   Boris,0,1
+Melchior   Graziella,Sarles   Nathalie,1,1
+Melchior   Graziella,Borowczyk   Julien,1,1
+Melchior   Graziella,Oppelt   Valérie,1,1
+Melchior   Graziella,Amadou   Aude,1,1
+Melchior   Graziella,Saint-Paul   Laetitia,1,1
+Melchior   Graziella,Bolo   Philippe,1,1
+Melchior   Graziella,Fiat   Caroline,0,1
+Melchior   Graziella,Perrot   Patrice,1,1
+Melchior   Graziella,Cattelot   Anne-Laure,1,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Duvergé   Bruno,1,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,Rilhac   Cécile,1,1
+Melchior   Graziella,Lescure   Roland,1,1
+Melchior   Graziella,Corbière   Alexis,0,1
+Melchior   Graziella,Peu   Stéphane,0,1
+Melchior   Graziella,Ramadier   Alain,0,1
+Melchior   Graziella,Verdier-Jouclas   Marie-Christine,1,1
+Melchior   Graziella,Boucard   Ian,0,1
+Melchior   Graziella,Barrot   Jean-Noël,1,1
+Melchior   Graziella,Lebec   Marie,1,1
+Melchior   Graziella,Raphan   Pierre-Alain,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Leguille-Balloy   Martine,1,1
+Melchior   Graziella,Hennion   Christine,1,1
+Melchior   Graziella,Turquois   Nicolas,1,1
+Melchior   Graziella,Provendier   Florence,1,1
+Melchior   Graziella,de Courson   Charles,1,1
+Sommer   Denis,Ménard   Emmanuelle,0,1
+Sommer   Denis,Motin   Cendra,1,1
+Sommer   Denis,Vallaud   Boris,0,1
+Sommer   Denis,Sarles   Nathalie,1,1
+Sommer   Denis,Borowczyk   Julien,1,1
+Sommer   Denis,Oppelt   Valérie,1,1
+Sommer   Denis,Amadou   Aude,1,1
+Sommer   Denis,Saint-Paul   Laetitia,1,1
+Sommer   Denis,Bolo   Philippe,1,1
+Sommer   Denis,Fiat   Caroline,0,1
+Sommer   Denis,Perrot   Patrice,1,1
+Sommer   Denis,Cattelot   Anne-Laure,1,1
+Sommer   Denis,Thill   Agnès,1,1
+Sommer   Denis,Duvergé   Bruno,1,1
+Sommer   Denis,Thomas   Valérie,1,1
+Sommer   Denis,Rilhac   Cécile,1,1
+Sommer   Denis,Lescure   Roland,1,1
+Sommer   Denis,Corbière   Alexis,0,1
+Sommer   Denis,Peu   Stéphane,0,1
+Sommer   Denis,Ramadier   Alain,0,1
+Sommer   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Sommer   Denis,Boucard   Ian,0,1
+Sommer   Denis,Barrot   Jean-Noël,1,1
+Sommer   Denis,Lebec   Marie,1,1
+Sommer   Denis,Raphan   Pierre-Alain,1,1
+Sommer   Denis,de Vaucouleurs   Michèle,1,1
+Sommer   Denis,Leguille-Balloy   Martine,1,1
+Sommer   Denis,Hennion   Christine,1,1
+Sommer   Denis,Turquois   Nicolas,1,1
+Sommer   Denis,Provendier   Florence,1,1
+Sommer   Denis,de Courson   Charles,1,1
+Ménard   Emmanuelle,Motin   Cendra,0,1
+Ménard   Emmanuelle,Vallaud   Boris,1,1
+Ménard   Emmanuelle,Sarles   Nathalie,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Oppelt   Valérie,0,1
+Ménard   Emmanuelle,Amadou   Aude,0,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,0,1
+Ménard   Emmanuelle,Bolo   Philippe,0,1
+Ménard   Emmanuelle,Fiat   Caroline,1,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Cattelot   Anne-Laure,0,1
+Ménard   Emmanuelle,Thill   Agnès,0,1
+Ménard   Emmanuelle,Duvergé   Bruno,0,1
+Ménard   Emmanuelle,Thomas   Valérie,0,1
+Ménard   Emmanuelle,Rilhac   Cécile,0,1
+Ménard   Emmanuelle,Lescure   Roland,0,1
+Ménard   Emmanuelle,Corbière   Alexis,1,1
+Ménard   Emmanuelle,Peu   Stéphane,1,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Boucard   Ian,1,1
+Ménard   Emmanuelle,Barrot   Jean-Noël,0,1
+Ménard   Emmanuelle,Lebec   Marie,0,1
+Ménard   Emmanuelle,Raphan   Pierre-Alain,0,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Leguille-Balloy   Martine,0,1
+Ménard   Emmanuelle,Hennion   Christine,0,1
+Ménard   Emmanuelle,Turquois   Nicolas,0,1
+Ménard   Emmanuelle,Provendier   Florence,0,1
+Ménard   Emmanuelle,de Courson   Charles,0,1
+Motin   Cendra,Vallaud   Boris,0,1
+Motin   Cendra,Sarles   Nathalie,1,1
+Motin   Cendra,Borowczyk   Julien,1,1
+Motin   Cendra,Oppelt   Valérie,1,1
+Motin   Cendra,Amadou   Aude,1,1
+Motin   Cendra,Saint-Paul   Laetitia,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Fiat   Caroline,0,1
+Motin   Cendra,Perrot   Patrice,1,1
+Motin   Cendra,Cattelot   Anne-Laure,1,1
+Motin   Cendra,Thill   Agnès,1,1
+Motin   Cendra,Duvergé   Bruno,1,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,Rilhac   Cécile,1,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Corbière   Alexis,0,1
+Motin   Cendra,Peu   Stéphane,0,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Boucard   Ian,0,1
+Motin   Cendra,Barrot   Jean-Noël,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,Raphan   Pierre-Alain,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,1,1
+Motin   Cendra,Leguille-Balloy   Martine,1,1
+Motin   Cendra,Hennion   Christine,1,1
+Motin   Cendra,Turquois   Nicolas,1,1
+Motin   Cendra,Provendier   Florence,1,1
+Motin   Cendra,de Courson   Charles,1,1
+Vallaud   Boris,Sarles   Nathalie,0,1
+Vallaud   Boris,Borowczyk   Julien,0,1
+Vallaud   Boris,Oppelt   Valérie,0,1
+Vallaud   Boris,Amadou   Aude,0,1
+Vallaud   Boris,Saint-Paul   Laetitia,0,1
+Vallaud   Boris,Bolo   Philippe,0,1
+Vallaud   Boris,Fiat   Caroline,1,1
+Vallaud   Boris,Perrot   Patrice,0,1
+Vallaud   Boris,Cattelot   Anne-Laure,0,1
+Vallaud   Boris,Thill   Agnès,0,1
+Vallaud   Boris,Duvergé   Bruno,0,1
+Vallaud   Boris,Thomas   Valérie,0,1
+Vallaud   Boris,Rilhac   Cécile,0,1
+Vallaud   Boris,Lescure   Roland,0,1
+Vallaud   Boris,Corbière   Alexis,1,1
+Vallaud   Boris,Peu   Stéphane,1,1
+Vallaud   Boris,Ramadier   Alain,1,1
+Vallaud   Boris,Verdier-Jouclas   Marie-Christine,0,1
+Vallaud   Boris,Boucard   Ian,1,1
+Vallaud   Boris,Barrot   Jean-Noël,0,1
+Vallaud   Boris,Lebec   Marie,0,1
+Vallaud   Boris,Raphan   Pierre-Alain,0,1
+Vallaud   Boris,de Vaucouleurs   Michèle,0,1
+Vallaud   Boris,Leguille-Balloy   Martine,0,1
+Vallaud   Boris,Hennion   Christine,0,1
+Vallaud   Boris,Turquois   Nicolas,0,1
+Vallaud   Boris,Provendier   Florence,0,1
+Vallaud   Boris,de Courson   Charles,0,1
+Sarles   Nathalie,Borowczyk   Julien,1,1
+Sarles   Nathalie,Oppelt   Valérie,1,1
+Sarles   Nathalie,Amadou   Aude,1,1
+Sarles   Nathalie,Saint-Paul   Laetitia,1,1
+Sarles   Nathalie,Bolo   Philippe,1,1
+Sarles   Nathalie,Fiat   Caroline,0,1
+Sarles   Nathalie,Perrot   Patrice,1,1
+Sarles   Nathalie,Cattelot   Anne-Laure,1,1
+Sarles   Nathalie,Thill   Agnès,1,1
+Sarles   Nathalie,Duvergé   Bruno,1,1
+Sarles   Nathalie,Thomas   Valérie,1,1
+Sarles   Nathalie,Rilhac   Cécile,1,1
+Sarles   Nathalie,Lescure   Roland,1,1
+Sarles   Nathalie,Corbière   Alexis,0,1
+Sarles   Nathalie,Peu   Stéphane,0,1
+Sarles   Nathalie,Ramadier   Alain,0,1
+Sarles   Nathalie,Verdier-Jouclas   Marie-Christine,1,1
+Sarles   Nathalie,Boucard   Ian,0,1
+Sarles   Nathalie,Barrot   Jean-Noël,1,1
+Sarles   Nathalie,Lebec   Marie,1,1
+Sarles   Nathalie,Raphan   Pierre-Alain,1,1
+Sarles   Nathalie,de Vaucouleurs   Michèle,1,1
+Sarles   Nathalie,Leguille-Balloy   Martine,1,1
+Sarles   Nathalie,Hennion   Christine,1,1
+Sarles   Nathalie,Turquois   Nicolas,1,1
+Sarles   Nathalie,Provendier   Florence,1,1
+Sarles   Nathalie,de Courson   Charles,1,1
+Borowczyk   Julien,Oppelt   Valérie,1,1
+Borowczyk   Julien,Amadou   Aude,1,1
+Borowczyk   Julien,Saint-Paul   Laetitia,1,1
+Borowczyk   Julien,Bolo   Philippe,1,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Perrot   Patrice,1,1
+Borowczyk   Julien,Cattelot   Anne-Laure,1,1
+Borowczyk   Julien,Thill   Agnès,1,1
+Borowczyk   Julien,Duvergé   Bruno,1,1
+Borowczyk   Julien,Thomas   Valérie,1,1
+Borowczyk   Julien,Rilhac   Cécile,1,1
+Borowczyk   Julien,Lescure   Roland,1,1
+Borowczyk   Julien,Corbière   Alexis,0,1
+Borowczyk   Julien,Peu   Stéphane,0,1
+Borowczyk   Julien,Ramadier   Alain,0,1
+Borowczyk   Julien,Verdier-Jouclas   Marie-Christine,1,1
+Borowczyk   Julien,Boucard   Ian,0,1
+Borowczyk   Julien,Barrot   Jean-Noël,1,1
+Borowczyk   Julien,Lebec   Marie,1,1
+Borowczyk   Julien,Raphan   Pierre-Alain,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Leguille-Balloy   Martine,1,1
+Borowczyk   Julien,Hennion   Christine,1,1
+Borowczyk   Julien,Turquois   Nicolas,1,1
+Borowczyk   Julien,Provendier   Florence,1,1
+Borowczyk   Julien,de Courson   Charles,1,1
+Oppelt   Valérie,Amadou   Aude,1,1
+Oppelt   Valérie,Saint-Paul   Laetitia,1,1
+Oppelt   Valérie,Bolo   Philippe,1,1
+Oppelt   Valérie,Fiat   Caroline,0,1
+Oppelt   Valérie,Perrot   Patrice,1,1
+Oppelt   Valérie,Cattelot   Anne-Laure,1,1
+Oppelt   Valérie,Thill   Agnès,1,1
+Oppelt   Valérie,Duvergé   Bruno,1,1
+Oppelt   Valérie,Thomas   Valérie,1,1
+Oppelt   Valérie,Rilhac   Cécile,1,1
+Oppelt   Valérie,Lescure   Roland,1,1
+Oppelt   Valérie,Corbière   Alexis,0,1
+Oppelt   Valérie,Peu   Stéphane,0,1
+Oppelt   Valérie,Ramadier   Alain,0,1
+Oppelt   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Oppelt   Valérie,Boucard   Ian,0,1
+Oppelt   Valérie,Barrot   Jean-Noël,1,1
+Oppelt   Valérie,Lebec   Marie,1,1
+Oppelt   Valérie,Raphan   Pierre-Alain,1,1
+Oppelt   Valérie,de Vaucouleurs   Michèle,1,1
+Oppelt   Valérie,Leguille-Balloy   Martine,1,1
+Oppelt   Valérie,Hennion   Christine,1,1
+Oppelt   Valérie,Turquois   Nicolas,1,1
+Oppelt   Valérie,Provendier   Florence,1,1
+Oppelt   Valérie,de Courson   Charles,1,1
+Amadou   Aude,Saint-Paul   Laetitia,1,1
+Amadou   Aude,Bolo   Philippe,1,1
+Amadou   Aude,Fiat   Caroline,0,1
+Amadou   Aude,Perrot   Patrice,1,1
+Amadou   Aude,Cattelot   Anne-Laure,1,1
+Amadou   Aude,Thill   Agnès,1,1
+Amadou   Aude,Duvergé   Bruno,1,1
+Amadou   Aude,Thomas   Valérie,1,1
+Amadou   Aude,Rilhac   Cécile,1,1
+Amadou   Aude,Lescure   Roland,1,1
+Amadou   Aude,Corbière   Alexis,0,1
+Amadou   Aude,Peu   Stéphane,0,1
+Amadou   Aude,Ramadier   Alain,0,1
+Amadou   Aude,Verdier-Jouclas   Marie-Christine,1,1
+Amadou   Aude,Boucard   Ian,0,1
+Amadou   Aude,Barrot   Jean-Noël,1,1
+Amadou   Aude,Lebec   Marie,1,1
+Amadou   Aude,Raphan   Pierre-Alain,1,1
+Amadou   Aude,de Vaucouleurs   Michèle,1,1
+Amadou   Aude,Leguille-Balloy   Martine,1,1
+Amadou   Aude,Hennion   Christine,1,1
+Amadou   Aude,Turquois   Nicolas,1,1
+Amadou   Aude,Provendier   Florence,1,1
+Amadou   Aude,de Courson   Charles,1,1
+Saint-Paul   Laetitia,Bolo   Philippe,1,1
+Saint-Paul   Laetitia,Fiat   Caroline,0,1
+Saint-Paul   Laetitia,Perrot   Patrice,1,1
+Saint-Paul   Laetitia,Cattelot   Anne-Laure,1,1
+Saint-Paul   Laetitia,Thill   Agnès,1,1
+Saint-Paul   Laetitia,Duvergé   Bruno,1,1
+Saint-Paul   Laetitia,Thomas   Valérie,1,1
+Saint-Paul   Laetitia,Rilhac   Cécile,1,1
+Saint-Paul   Laetitia,Lescure   Roland,1,1
+Saint-Paul   Laetitia,Corbière   Alexis,0,1
+Saint-Paul   Laetitia,Peu   Stéphane,0,1
+Saint-Paul   Laetitia,Ramadier   Alain,0,1
+Saint-Paul   Laetitia,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Paul   Laetitia,Boucard   Ian,0,1
+Saint-Paul   Laetitia,Barrot   Jean-Noël,1,1
+Saint-Paul   Laetitia,Lebec   Marie,1,1
+Saint-Paul   Laetitia,Raphan   Pierre-Alain,1,1
+Saint-Paul   Laetitia,de Vaucouleurs   Michèle,1,1
+Saint-Paul   Laetitia,Leguille-Balloy   Martine,1,1
+Saint-Paul   Laetitia,Hennion   Christine,1,1
+Saint-Paul   Laetitia,Turquois   Nicolas,1,1
+Saint-Paul   Laetitia,Provendier   Florence,1,1
+Saint-Paul   Laetitia,de Courson   Charles,1,1
+Bolo   Philippe,Fiat   Caroline,0,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Cattelot   Anne-Laure,1,1
+Bolo   Philippe,Thill   Agnès,1,1
+Bolo   Philippe,Duvergé   Bruno,1,1
+Bolo   Philippe,Thomas   Valérie,1,1
+Bolo   Philippe,Rilhac   Cécile,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Corbière   Alexis,0,1
+Bolo   Philippe,Peu   Stéphane,0,1
+Bolo   Philippe,Ramadier   Alain,0,1
+Bolo   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Bolo   Philippe,Boucard   Ian,0,1
+Bolo   Philippe,Barrot   Jean-Noël,1,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Raphan   Pierre-Alain,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Leguille-Balloy   Martine,1,1
+Bolo   Philippe,Hennion   Christine,1,1
+Bolo   Philippe,Turquois   Nicolas,1,1
+Bolo   Philippe,Provendier   Florence,1,1
+Bolo   Philippe,de Courson   Charles,1,1
+Fiat   Caroline,Perrot   Patrice,0,1
+Fiat   Caroline,Cattelot   Anne-Laure,0,1
+Fiat   Caroline,Thill   Agnès,0,1
+Fiat   Caroline,Duvergé   Bruno,0,1
+Fiat   Caroline,Thomas   Valérie,0,1
+Fiat   Caroline,Rilhac   Cécile,0,1
+Fiat   Caroline,Lescure   Roland,0,1
+Fiat   Caroline,Corbière   Alexis,1,1
+Fiat   Caroline,Peu   Stéphane,1,1
+Fiat   Caroline,Ramadier   Alain,1,1
+Fiat   Caroline,Verdier-Jouclas   Marie-Christine,0,1
+Fiat   Caroline,Boucard   Ian,1,1
+Fiat   Caroline,Barrot   Jean-Noël,0,1
+Fiat   Caroline,Lebec   Marie,0,1
+Fiat   Caroline,Raphan   Pierre-Alain,0,1
+Fiat   Caroline,de Vaucouleurs   Michèle,0,1
+Fiat   Caroline,Leguille-Balloy   Martine,0,1
+Fiat   Caroline,Hennion   Christine,0,1
+Fiat   Caroline,Turquois   Nicolas,0,1
+Fiat   Caroline,Provendier   Florence,0,1
+Fiat   Caroline,de Courson   Charles,0,1
+Perrot   Patrice,Cattelot   Anne-Laure,1,1
+Perrot   Patrice,Thill   Agnès,1,1
+Perrot   Patrice,Duvergé   Bruno,1,1
+Perrot   Patrice,Thomas   Valérie,1,1
+Perrot   Patrice,Rilhac   Cécile,1,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Corbière   Alexis,0,1
+Perrot   Patrice,Peu   Stéphane,0,1
+Perrot   Patrice,Ramadier   Alain,0,1
+Perrot   Patrice,Verdier-Jouclas   Marie-Christine,1,1
+Perrot   Patrice,Boucard   Ian,0,1
+Perrot   Patrice,Barrot   Jean-Noël,1,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,Raphan   Pierre-Alain,1,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Leguille-Balloy   Martine,1,1
+Perrot   Patrice,Hennion   Christine,1,1
+Perrot   Patrice,Turquois   Nicolas,1,1
+Perrot   Patrice,Provendier   Florence,1,1
+Perrot   Patrice,de Courson   Charles,1,1
+Cattelot   Anne-Laure,Thill   Agnès,1,1
+Cattelot   Anne-Laure,Duvergé   Bruno,1,1
+Cattelot   Anne-Laure,Thomas   Valérie,1,1
+Cattelot   Anne-Laure,Rilhac   Cécile,1,1
+Cattelot   Anne-Laure,Lescure   Roland,1,1
+Cattelot   Anne-Laure,Corbière   Alexis,0,1
+Cattelot   Anne-Laure,Peu   Stéphane,0,1
+Cattelot   Anne-Laure,Ramadier   Alain,0,1
+Cattelot   Anne-Laure,Verdier-Jouclas   Marie-Christine,1,1
+Cattelot   Anne-Laure,Boucard   Ian,0,1
+Cattelot   Anne-Laure,Barrot   Jean-Noël,1,1
+Cattelot   Anne-Laure,Lebec   Marie,1,1
+Cattelot   Anne-Laure,Raphan   Pierre-Alain,1,1
+Cattelot   Anne-Laure,de Vaucouleurs   Michèle,1,1
+Cattelot   Anne-Laure,Leguille-Balloy   Martine,1,1
+Cattelot   Anne-Laure,Hennion   Christine,1,1
+Cattelot   Anne-Laure,Turquois   Nicolas,1,1
+Cattelot   Anne-Laure,Provendier   Florence,1,1
+Cattelot   Anne-Laure,de Courson   Charles,1,1
+Thill   Agnès,Duvergé   Bruno,1,1
+Thill   Agnès,Thomas   Valérie,1,1
+Thill   Agnès,Rilhac   Cécile,1,1
+Thill   Agnès,Lescure   Roland,1,1
+Thill   Agnès,Corbière   Alexis,0,1
+Thill   Agnès,Peu   Stéphane,0,1
+Thill   Agnès,Ramadier   Alain,0,1
+Thill   Agnès,Verdier-Jouclas   Marie-Christine,1,1
+Thill   Agnès,Boucard   Ian,0,1
+Thill   Agnès,Barrot   Jean-Noël,1,1
+Thill   Agnès,Lebec   Marie,1,1
+Thill   Agnès,Raphan   Pierre-Alain,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Leguille-Balloy   Martine,1,1
+Thill   Agnès,Hennion   Christine,1,1
+Thill   Agnès,Turquois   Nicolas,1,1
+Thill   Agnès,Provendier   Florence,1,1
+Thill   Agnès,de Courson   Charles,1,1
+Duvergé   Bruno,Thomas   Valérie,1,1
+Duvergé   Bruno,Rilhac   Cécile,1,1
+Duvergé   Bruno,Lescure   Roland,1,1
+Duvergé   Bruno,Corbière   Alexis,0,1
+Duvergé   Bruno,Peu   Stéphane,0,1
+Duvergé   Bruno,Ramadier   Alain,0,1
+Duvergé   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Duvergé   Bruno,Boucard   Ian,0,1
+Duvergé   Bruno,Barrot   Jean-Noël,1,1
+Duvergé   Bruno,Lebec   Marie,1,1
+Duvergé   Bruno,Raphan   Pierre-Alain,1,1
+Duvergé   Bruno,de Vaucouleurs   Michèle,1,1
+Duvergé   Bruno,Leguille-Balloy   Martine,1,1
+Duvergé   Bruno,Hennion   Christine,1,1
+Duvergé   Bruno,Turquois   Nicolas,1,1
+Duvergé   Bruno,Provendier   Florence,1,1
+Duvergé   Bruno,de Courson   Charles,1,1
+Thomas   Valérie,Rilhac   Cécile,1,1
+Thomas   Valérie,Lescure   Roland,1,1
+Thomas   Valérie,Corbière   Alexis,0,1
+Thomas   Valérie,Peu   Stéphane,0,1
+Thomas   Valérie,Ramadier   Alain,0,1
+Thomas   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Thomas   Valérie,Boucard   Ian,0,1
+Thomas   Valérie,Barrot   Jean-Noël,1,1
+Thomas   Valérie,Lebec   Marie,1,1
+Thomas   Valérie,Raphan   Pierre-Alain,1,1
+Thomas   Valérie,de Vaucouleurs   Michèle,1,1
+Thomas   Valérie,Leguille-Balloy   Martine,1,1
+Thomas   Valérie,Hennion   Christine,1,1
+Thomas   Valérie,Turquois   Nicolas,1,1
+Thomas   Valérie,Provendier   Florence,1,1
+Thomas   Valérie,de Courson   Charles,1,1
+Rilhac   Cécile,Lescure   Roland,1,1
+Rilhac   Cécile,Corbière   Alexis,0,1
+Rilhac   Cécile,Peu   Stéphane,0,1
+Rilhac   Cécile,Ramadier   Alain,0,1
+Rilhac   Cécile,Verdier-Jouclas   Marie-Christine,1,1
+Rilhac   Cécile,Boucard   Ian,0,1
+Rilhac   Cécile,Barrot   Jean-Noël,1,1
+Rilhac   Cécile,Lebec   Marie,1,1
+Rilhac   Cécile,Raphan   Pierre-Alain,1,1
+Rilhac   Cécile,de Vaucouleurs   Michèle,1,1
+Rilhac   Cécile,Leguille-Balloy   Martine,1,1
+Rilhac   Cécile,Hennion   Christine,1,1
+Rilhac   Cécile,Turquois   Nicolas,1,1
+Rilhac   Cécile,Provendier   Florence,1,1
+Rilhac   Cécile,de Courson   Charles,1,1
+Lescure   Roland,Corbière   Alexis,0,1
+Lescure   Roland,Peu   Stéphane,0,1
+Lescure   Roland,Ramadier   Alain,0,1
+Lescure   Roland,Verdier-Jouclas   Marie-Christine,1,1
+Lescure   Roland,Boucard   Ian,0,1
+Lescure   Roland,Barrot   Jean-Noël,1,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,Raphan   Pierre-Alain,1,1
+Lescure   Roland,de Vaucouleurs   Michèle,1,1
+Lescure   Roland,Leguille-Balloy   Martine,1,1
+Lescure   Roland,Hennion   Christine,1,1
+Lescure   Roland,Turquois   Nicolas,1,1
+Lescure   Roland,Provendier   Florence,1,1
+Lescure   Roland,de Courson   Charles,1,1
+Corbière   Alexis,Peu   Stéphane,1,1
+Corbière   Alexis,Ramadier   Alain,1,1
+Corbière   Alexis,Verdier-Jouclas   Marie-Christine,0,1
+Corbière   Alexis,Boucard   Ian,1,1
+Corbière   Alexis,Barrot   Jean-Noël,0,1
+Corbière   Alexis,Lebec   Marie,0,1
+Corbière   Alexis,Raphan   Pierre-Alain,0,1
+Corbière   Alexis,de Vaucouleurs   Michèle,0,1
+Corbière   Alexis,Leguille-Balloy   Martine,0,1
+Corbière   Alexis,Hennion   Christine,0,1
+Corbière   Alexis,Turquois   Nicolas,0,1
+Corbière   Alexis,Provendier   Florence,0,1
+Corbière   Alexis,de Courson   Charles,0,1
+Peu   Stéphane,Ramadier   Alain,1,1
+Peu   Stéphane,Verdier-Jouclas   Marie-Christine,0,1
+Peu   Stéphane,Boucard   Ian,1,1
+Peu   Stéphane,Barrot   Jean-Noël,0,1
+Peu   Stéphane,Lebec   Marie,0,1
+Peu   Stéphane,Raphan   Pierre-Alain,0,1
+Peu   Stéphane,de Vaucouleurs   Michèle,0,1
+Peu   Stéphane,Leguille-Balloy   Martine,0,1
+Peu   Stéphane,Hennion   Christine,0,1
+Peu   Stéphane,Turquois   Nicolas,0,1
+Peu   Stéphane,Provendier   Florence,0,1
+Peu   Stéphane,de Courson   Charles,0,1
+Ramadier   Alain,Verdier-Jouclas   Marie-Christine,0,1
+Ramadier   Alain,Boucard   Ian,1,1
+Ramadier   Alain,Barrot   Jean-Noël,0,1
+Ramadier   Alain,Lebec   Marie,0,1
+Ramadier   Alain,Raphan   Pierre-Alain,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Leguille-Balloy   Martine,0,1
+Ramadier   Alain,Hennion   Christine,0,1
+Ramadier   Alain,Turquois   Nicolas,0,1
+Ramadier   Alain,Provendier   Florence,0,1
+Ramadier   Alain,de Courson   Charles,0,1
+Verdier-Jouclas   Marie-Christine,Boucard   Ian,0,1
+Verdier-Jouclas   Marie-Christine,Barrot   Jean-Noël,1,1
+Verdier-Jouclas   Marie-Christine,Lebec   Marie,1,1
+Verdier-Jouclas   Marie-Christine,Raphan   Pierre-Alain,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Leguille-Balloy   Martine,1,1
+Verdier-Jouclas   Marie-Christine,Hennion   Christine,1,1
+Verdier-Jouclas   Marie-Christine,Turquois   Nicolas,1,1
+Verdier-Jouclas   Marie-Christine,Provendier   Florence,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,1,1
+Boucard   Ian,Barrot   Jean-Noël,0,1
+Boucard   Ian,Lebec   Marie,0,1
+Boucard   Ian,Raphan   Pierre-Alain,0,1
+Boucard   Ian,de Vaucouleurs   Michèle,0,1
+Boucard   Ian,Leguille-Balloy   Martine,0,1
+Boucard   Ian,Hennion   Christine,0,1
+Boucard   Ian,Turquois   Nicolas,0,1
+Boucard   Ian,Provendier   Florence,0,1
+Boucard   Ian,de Courson   Charles,0,1
+Barrot   Jean-Noël,Lebec   Marie,1,1
+Barrot   Jean-Noël,Raphan   Pierre-Alain,1,1
+Barrot   Jean-Noël,de Vaucouleurs   Michèle,1,1
+Barrot   Jean-Noël,Leguille-Balloy   Martine,1,1
+Barrot   Jean-Noël,Hennion   Christine,1,1
+Barrot   Jean-Noël,Turquois   Nicolas,1,1
+Barrot   Jean-Noël,Provendier   Florence,1,1
+Barrot   Jean-Noël,de Courson   Charles,1,1
+Lebec   Marie,Raphan   Pierre-Alain,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Leguille-Balloy   Martine,1,1
+Lebec   Marie,Hennion   Christine,1,1
+Lebec   Marie,Turquois   Nicolas,1,1
+Lebec   Marie,Provendier   Florence,1,1
+Lebec   Marie,de Courson   Charles,1,1
+Raphan   Pierre-Alain,de Vaucouleurs   Michèle,1,1
+Raphan   Pierre-Alain,Leguille-Balloy   Martine,1,1
+Raphan   Pierre-Alain,Hennion   Christine,1,1
+Raphan   Pierre-Alain,Turquois   Nicolas,1,1
+Raphan   Pierre-Alain,Provendier   Florence,1,1
+Raphan   Pierre-Alain,de Courson   Charles,1,1
+de Vaucouleurs   Michèle,Leguille-Balloy   Martine,1,1
+de Vaucouleurs   Michèle,Hennion   Christine,1,1
+de Vaucouleurs   Michèle,Turquois   Nicolas,1,1
+de Vaucouleurs   Michèle,Provendier   Florence,1,1
+de Vaucouleurs   Michèle,de Courson   Charles,1,1
+Leguille-Balloy   Martine,Hennion   Christine,1,1
+Leguille-Balloy   Martine,Turquois   Nicolas,1,1
+Leguille-Balloy   Martine,Provendier   Florence,1,1
+Leguille-Balloy   Martine,de Courson   Charles,1,1
+Hennion   Christine,Turquois   Nicolas,1,1
+Hennion   Christine,Provendier   Florence,1,1
+Hennion   Christine,de Courson   Charles,1,1
+Turquois   Nicolas,Provendier   Florence,1,1
+Turquois   Nicolas,de Courson   Charles,1,1
+Provendier   Florence,de Courson   Charles,1,1

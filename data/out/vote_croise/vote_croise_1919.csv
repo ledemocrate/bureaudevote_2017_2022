@@ -1,0 +1,436 @@
+from,to,vote_commun,loi_commun
+Duby-Muller   Virginie,Barbier   Frédéric,1,1
+Duby-Muller   Virginie,Thiériot   Jean-Louis,1,1
+Duby-Muller   Virginie,Dufrègne   Jean-Paul,1,1
+Duby-Muller   Virginie,Bono-Vandorme   Aude,1,1
+Duby-Muller   Virginie,Blanchet   Christophe,1,1
+Duby-Muller   Virginie,Ardouin   Jean-Philippe,1,1
+Duby-Muller   Virginie,Michel-Brassart   Monica,1,1
+Duby-Muller   Virginie,Dubois   Jacqueline,1,1
+Duby-Muller   Virginie,Gipson   Séverine,1,1
+Duby-Muller   Virginie,Melchior   Graziella,1,1
+Duby-Muller   Virginie,Chapelier   Annie,1,1
+Duby-Muller   Virginie,Mette   Sophie,1,1
+Duby-Muller   Virginie,Cloarec-Le Nabour   Christine,1,1
+Duby-Muller   Virginie,Saint-Paul   Laetitia,1,1
+Duby-Muller   Virginie,Masséglia   Denis,1,1
+Duby-Muller   Virginie,Grandjean   Carole,1,1
+Duby-Muller   Virginie,Jacques   Jean-Michel,1,1
+Duby-Muller   Virginie,Rauch   Isabelle,1,1
+Duby-Muller   Virginie,Thomas   Valérie,1,1
+Duby-Muller   Virginie,El Guerrab   M'jid,1,1
+Duby-Muller   Virginie,Genetet   Anne,1,1
+Duby-Muller   Virginie,Lenne   Marion,1,1
+Duby-Muller   Virginie,Viry   Stéphane,1,1
+Duby-Muller   Virginie,Kokouendo   Rodrigue,1,1
+Duby-Muller   Virginie,Mauborgne   Sereine,1,1
+Duby-Muller   Virginie,Henriet   Pierre,1,1
+Duby-Muller   Virginie,Hennion   Christine,1,1
+Duby-Muller   Virginie,Fuchs   Bruno,1,1
+Duby-Muller   Virginie,Julien-Laferrière   Hubert,1,1
+Barbier   Frédéric,Thiériot   Jean-Louis,1,1
+Barbier   Frédéric,Dufrègne   Jean-Paul,1,1
+Barbier   Frédéric,Bono-Vandorme   Aude,1,1
+Barbier   Frédéric,Blanchet   Christophe,1,1
+Barbier   Frédéric,Ardouin   Jean-Philippe,1,1
+Barbier   Frédéric,Michel-Brassart   Monica,1,1
+Barbier   Frédéric,Dubois   Jacqueline,1,1
+Barbier   Frédéric,Gipson   Séverine,1,1
+Barbier   Frédéric,Melchior   Graziella,1,1
+Barbier   Frédéric,Chapelier   Annie,1,1
+Barbier   Frédéric,Mette   Sophie,1,1
+Barbier   Frédéric,Cloarec-Le Nabour   Christine,1,1
+Barbier   Frédéric,Saint-Paul   Laetitia,1,1
+Barbier   Frédéric,Masséglia   Denis,1,1
+Barbier   Frédéric,Grandjean   Carole,1,1
+Barbier   Frédéric,Jacques   Jean-Michel,1,1
+Barbier   Frédéric,Rauch   Isabelle,1,1
+Barbier   Frédéric,Thomas   Valérie,1,1
+Barbier   Frédéric,El Guerrab   M'jid,1,1
+Barbier   Frédéric,Genetet   Anne,1,1
+Barbier   Frédéric,Lenne   Marion,1,1
+Barbier   Frédéric,Viry   Stéphane,1,1
+Barbier   Frédéric,Kokouendo   Rodrigue,1,1
+Barbier   Frédéric,Mauborgne   Sereine,1,1
+Barbier   Frédéric,Henriet   Pierre,1,1
+Barbier   Frédéric,Hennion   Christine,1,1
+Barbier   Frédéric,Fuchs   Bruno,1,1
+Barbier   Frédéric,Julien-Laferrière   Hubert,1,1
+Thiériot   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Thiériot   Jean-Louis,Bono-Vandorme   Aude,1,1
+Thiériot   Jean-Louis,Blanchet   Christophe,1,1
+Thiériot   Jean-Louis,Ardouin   Jean-Philippe,1,1
+Thiériot   Jean-Louis,Michel-Brassart   Monica,1,1
+Thiériot   Jean-Louis,Dubois   Jacqueline,1,1
+Thiériot   Jean-Louis,Gipson   Séverine,1,1
+Thiériot   Jean-Louis,Melchior   Graziella,1,1
+Thiériot   Jean-Louis,Chapelier   Annie,1,1
+Thiériot   Jean-Louis,Mette   Sophie,1,1
+Thiériot   Jean-Louis,Cloarec-Le Nabour   Christine,1,1
+Thiériot   Jean-Louis,Saint-Paul   Laetitia,1,1
+Thiériot   Jean-Louis,Masséglia   Denis,1,1
+Thiériot   Jean-Louis,Grandjean   Carole,1,1
+Thiériot   Jean-Louis,Jacques   Jean-Michel,1,1
+Thiériot   Jean-Louis,Rauch   Isabelle,1,1
+Thiériot   Jean-Louis,Thomas   Valérie,1,1
+Thiériot   Jean-Louis,El Guerrab   M'jid,1,1
+Thiériot   Jean-Louis,Genetet   Anne,1,1
+Thiériot   Jean-Louis,Lenne   Marion,1,1
+Thiériot   Jean-Louis,Viry   Stéphane,1,1
+Thiériot   Jean-Louis,Kokouendo   Rodrigue,1,1
+Thiériot   Jean-Louis,Mauborgne   Sereine,1,1
+Thiériot   Jean-Louis,Henriet   Pierre,1,1
+Thiériot   Jean-Louis,Hennion   Christine,1,1
+Thiériot   Jean-Louis,Fuchs   Bruno,1,1
+Thiériot   Jean-Louis,Julien-Laferrière   Hubert,1,1
+Dufrègne   Jean-Paul,Bono-Vandorme   Aude,1,1
+Dufrègne   Jean-Paul,Blanchet   Christophe,1,1
+Dufrègne   Jean-Paul,Ardouin   Jean-Philippe,1,1
+Dufrègne   Jean-Paul,Michel-Brassart   Monica,1,1
+Dufrègne   Jean-Paul,Dubois   Jacqueline,1,1
+Dufrègne   Jean-Paul,Gipson   Séverine,1,1
+Dufrègne   Jean-Paul,Melchior   Graziella,1,1
+Dufrègne   Jean-Paul,Chapelier   Annie,1,1
+Dufrègne   Jean-Paul,Mette   Sophie,1,1
+Dufrègne   Jean-Paul,Cloarec-Le Nabour   Christine,1,1
+Dufrègne   Jean-Paul,Saint-Paul   Laetitia,1,1
+Dufrègne   Jean-Paul,Masséglia   Denis,1,1
+Dufrègne   Jean-Paul,Grandjean   Carole,1,1
+Dufrègne   Jean-Paul,Jacques   Jean-Michel,1,1
+Dufrègne   Jean-Paul,Rauch   Isabelle,1,1
+Dufrègne   Jean-Paul,Thomas   Valérie,1,1
+Dufrègne   Jean-Paul,El Guerrab   M'jid,1,1
+Dufrègne   Jean-Paul,Genetet   Anne,1,1
+Dufrègne   Jean-Paul,Lenne   Marion,1,1
+Dufrègne   Jean-Paul,Viry   Stéphane,1,1
+Dufrègne   Jean-Paul,Kokouendo   Rodrigue,1,1
+Dufrègne   Jean-Paul,Mauborgne   Sereine,1,1
+Dufrègne   Jean-Paul,Henriet   Pierre,1,1
+Dufrègne   Jean-Paul,Hennion   Christine,1,1
+Dufrègne   Jean-Paul,Fuchs   Bruno,1,1
+Dufrègne   Jean-Paul,Julien-Laferrière   Hubert,1,1
+Bono-Vandorme   Aude,Blanchet   Christophe,1,1
+Bono-Vandorme   Aude,Ardouin   Jean-Philippe,1,1
+Bono-Vandorme   Aude,Michel-Brassart   Monica,1,1
+Bono-Vandorme   Aude,Dubois   Jacqueline,1,1
+Bono-Vandorme   Aude,Gipson   Séverine,1,1
+Bono-Vandorme   Aude,Melchior   Graziella,1,1
+Bono-Vandorme   Aude,Chapelier   Annie,1,1
+Bono-Vandorme   Aude,Mette   Sophie,1,1
+Bono-Vandorme   Aude,Cloarec-Le Nabour   Christine,1,1
+Bono-Vandorme   Aude,Saint-Paul   Laetitia,1,1
+Bono-Vandorme   Aude,Masséglia   Denis,1,1
+Bono-Vandorme   Aude,Grandjean   Carole,1,1
+Bono-Vandorme   Aude,Jacques   Jean-Michel,1,1
+Bono-Vandorme   Aude,Rauch   Isabelle,1,1
+Bono-Vandorme   Aude,Thomas   Valérie,1,1
+Bono-Vandorme   Aude,El Guerrab   M'jid,1,1
+Bono-Vandorme   Aude,Genetet   Anne,1,1
+Bono-Vandorme   Aude,Lenne   Marion,1,1
+Bono-Vandorme   Aude,Viry   Stéphane,1,1
+Bono-Vandorme   Aude,Kokouendo   Rodrigue,1,1
+Bono-Vandorme   Aude,Mauborgne   Sereine,1,1
+Bono-Vandorme   Aude,Henriet   Pierre,1,1
+Bono-Vandorme   Aude,Hennion   Christine,1,1
+Bono-Vandorme   Aude,Fuchs   Bruno,1,1
+Bono-Vandorme   Aude,Julien-Laferrière   Hubert,1,1
+Blanchet   Christophe,Ardouin   Jean-Philippe,1,1
+Blanchet   Christophe,Michel-Brassart   Monica,1,1
+Blanchet   Christophe,Dubois   Jacqueline,1,1
+Blanchet   Christophe,Gipson   Séverine,1,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Chapelier   Annie,1,1
+Blanchet   Christophe,Mette   Sophie,1,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Saint-Paul   Laetitia,1,1
+Blanchet   Christophe,Masséglia   Denis,1,1
+Blanchet   Christophe,Grandjean   Carole,1,1
+Blanchet   Christophe,Jacques   Jean-Michel,1,1
+Blanchet   Christophe,Rauch   Isabelle,1,1
+Blanchet   Christophe,Thomas   Valérie,1,1
+Blanchet   Christophe,El Guerrab   M'jid,1,1
+Blanchet   Christophe,Genetet   Anne,1,1
+Blanchet   Christophe,Lenne   Marion,1,1
+Blanchet   Christophe,Viry   Stéphane,1,1
+Blanchet   Christophe,Kokouendo   Rodrigue,1,1
+Blanchet   Christophe,Mauborgne   Sereine,1,1
+Blanchet   Christophe,Henriet   Pierre,1,1
+Blanchet   Christophe,Hennion   Christine,1,1
+Blanchet   Christophe,Fuchs   Bruno,1,1
+Blanchet   Christophe,Julien-Laferrière   Hubert,1,1
+Ardouin   Jean-Philippe,Michel-Brassart   Monica,1,1
+Ardouin   Jean-Philippe,Dubois   Jacqueline,1,1
+Ardouin   Jean-Philippe,Gipson   Séverine,1,1
+Ardouin   Jean-Philippe,Melchior   Graziella,1,1
+Ardouin   Jean-Philippe,Chapelier   Annie,1,1
+Ardouin   Jean-Philippe,Mette   Sophie,1,1
+Ardouin   Jean-Philippe,Cloarec-Le Nabour   Christine,1,1
+Ardouin   Jean-Philippe,Saint-Paul   Laetitia,1,1
+Ardouin   Jean-Philippe,Masséglia   Denis,1,1
+Ardouin   Jean-Philippe,Grandjean   Carole,1,1
+Ardouin   Jean-Philippe,Jacques   Jean-Michel,1,1
+Ardouin   Jean-Philippe,Rauch   Isabelle,1,1
+Ardouin   Jean-Philippe,Thomas   Valérie,1,1
+Ardouin   Jean-Philippe,El Guerrab   M'jid,1,1
+Ardouin   Jean-Philippe,Genetet   Anne,1,1
+Ardouin   Jean-Philippe,Lenne   Marion,1,1
+Ardouin   Jean-Philippe,Viry   Stéphane,1,1
+Ardouin   Jean-Philippe,Kokouendo   Rodrigue,1,1
+Ardouin   Jean-Philippe,Mauborgne   Sereine,1,1
+Ardouin   Jean-Philippe,Henriet   Pierre,1,1
+Ardouin   Jean-Philippe,Hennion   Christine,1,1
+Ardouin   Jean-Philippe,Fuchs   Bruno,1,1
+Ardouin   Jean-Philippe,Julien-Laferrière   Hubert,1,1
+Michel-Brassart   Monica,Dubois   Jacqueline,1,1
+Michel-Brassart   Monica,Gipson   Séverine,1,1
+Michel-Brassart   Monica,Melchior   Graziella,1,1
+Michel-Brassart   Monica,Chapelier   Annie,1,1
+Michel-Brassart   Monica,Mette   Sophie,1,1
+Michel-Brassart   Monica,Cloarec-Le Nabour   Christine,1,1
+Michel-Brassart   Monica,Saint-Paul   Laetitia,1,1
+Michel-Brassart   Monica,Masséglia   Denis,1,1
+Michel-Brassart   Monica,Grandjean   Carole,1,1
+Michel-Brassart   Monica,Jacques   Jean-Michel,1,1
+Michel-Brassart   Monica,Rauch   Isabelle,1,1
+Michel-Brassart   Monica,Thomas   Valérie,1,1
+Michel-Brassart   Monica,El Guerrab   M'jid,1,1
+Michel-Brassart   Monica,Genetet   Anne,1,1
+Michel-Brassart   Monica,Lenne   Marion,1,1
+Michel-Brassart   Monica,Viry   Stéphane,1,1
+Michel-Brassart   Monica,Kokouendo   Rodrigue,1,1
+Michel-Brassart   Monica,Mauborgne   Sereine,1,1
+Michel-Brassart   Monica,Henriet   Pierre,1,1
+Michel-Brassart   Monica,Hennion   Christine,1,1
+Michel-Brassart   Monica,Fuchs   Bruno,1,1
+Michel-Brassart   Monica,Julien-Laferrière   Hubert,1,1
+Dubois   Jacqueline,Gipson   Séverine,1,1
+Dubois   Jacqueline,Melchior   Graziella,1,1
+Dubois   Jacqueline,Chapelier   Annie,1,1
+Dubois   Jacqueline,Mette   Sophie,1,1
+Dubois   Jacqueline,Cloarec-Le Nabour   Christine,1,1
+Dubois   Jacqueline,Saint-Paul   Laetitia,1,1
+Dubois   Jacqueline,Masséglia   Denis,1,1
+Dubois   Jacqueline,Grandjean   Carole,1,1
+Dubois   Jacqueline,Jacques   Jean-Michel,1,1
+Dubois   Jacqueline,Rauch   Isabelle,1,1
+Dubois   Jacqueline,Thomas   Valérie,1,1
+Dubois   Jacqueline,El Guerrab   M'jid,1,1
+Dubois   Jacqueline,Genetet   Anne,1,1
+Dubois   Jacqueline,Lenne   Marion,1,1
+Dubois   Jacqueline,Viry   Stéphane,1,1
+Dubois   Jacqueline,Kokouendo   Rodrigue,1,1
+Dubois   Jacqueline,Mauborgne   Sereine,1,1
+Dubois   Jacqueline,Henriet   Pierre,1,1
+Dubois   Jacqueline,Hennion   Christine,1,1
+Dubois   Jacqueline,Fuchs   Bruno,1,1
+Dubois   Jacqueline,Julien-Laferrière   Hubert,1,1
+Gipson   Séverine,Melchior   Graziella,1,1
+Gipson   Séverine,Chapelier   Annie,1,1
+Gipson   Séverine,Mette   Sophie,1,1
+Gipson   Séverine,Cloarec-Le Nabour   Christine,1,1
+Gipson   Séverine,Saint-Paul   Laetitia,1,1
+Gipson   Séverine,Masséglia   Denis,1,1
+Gipson   Séverine,Grandjean   Carole,1,1
+Gipson   Séverine,Jacques   Jean-Michel,1,1
+Gipson   Séverine,Rauch   Isabelle,1,1
+Gipson   Séverine,Thomas   Valérie,1,1
+Gipson   Séverine,El Guerrab   M'jid,1,1
+Gipson   Séverine,Genetet   Anne,1,1
+Gipson   Séverine,Lenne   Marion,1,1
+Gipson   Séverine,Viry   Stéphane,1,1
+Gipson   Séverine,Kokouendo   Rodrigue,1,1
+Gipson   Séverine,Mauborgne   Sereine,1,1
+Gipson   Séverine,Henriet   Pierre,1,1
+Gipson   Séverine,Hennion   Christine,1,1
+Gipson   Séverine,Fuchs   Bruno,1,1
+Gipson   Séverine,Julien-Laferrière   Hubert,1,1
+Melchior   Graziella,Chapelier   Annie,1,1
+Melchior   Graziella,Mette   Sophie,1,1
+Melchior   Graziella,Cloarec-Le Nabour   Christine,1,1
+Melchior   Graziella,Saint-Paul   Laetitia,1,1
+Melchior   Graziella,Masséglia   Denis,1,1
+Melchior   Graziella,Grandjean   Carole,1,1
+Melchior   Graziella,Jacques   Jean-Michel,1,1
+Melchior   Graziella,Rauch   Isabelle,1,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,El Guerrab   M'jid,1,1
+Melchior   Graziella,Genetet   Anne,1,1
+Melchior   Graziella,Lenne   Marion,1,1
+Melchior   Graziella,Viry   Stéphane,1,1
+Melchior   Graziella,Kokouendo   Rodrigue,1,1
+Melchior   Graziella,Mauborgne   Sereine,1,1
+Melchior   Graziella,Henriet   Pierre,1,1
+Melchior   Graziella,Hennion   Christine,1,1
+Melchior   Graziella,Fuchs   Bruno,1,1
+Melchior   Graziella,Julien-Laferrière   Hubert,1,1
+Chapelier   Annie,Mette   Sophie,1,1
+Chapelier   Annie,Cloarec-Le Nabour   Christine,1,1
+Chapelier   Annie,Saint-Paul   Laetitia,1,1
+Chapelier   Annie,Masséglia   Denis,1,1
+Chapelier   Annie,Grandjean   Carole,1,1
+Chapelier   Annie,Jacques   Jean-Michel,1,1
+Chapelier   Annie,Rauch   Isabelle,1,1
+Chapelier   Annie,Thomas   Valérie,1,1
+Chapelier   Annie,El Guerrab   M'jid,1,1
+Chapelier   Annie,Genetet   Anne,1,1
+Chapelier   Annie,Lenne   Marion,1,1
+Chapelier   Annie,Viry   Stéphane,1,1
+Chapelier   Annie,Kokouendo   Rodrigue,1,1
+Chapelier   Annie,Mauborgne   Sereine,1,1
+Chapelier   Annie,Henriet   Pierre,1,1
+Chapelier   Annie,Hennion   Christine,1,1
+Chapelier   Annie,Fuchs   Bruno,1,1
+Chapelier   Annie,Julien-Laferrière   Hubert,1,1
+Mette   Sophie,Cloarec-Le Nabour   Christine,1,1
+Mette   Sophie,Saint-Paul   Laetitia,1,1
+Mette   Sophie,Masséglia   Denis,1,1
+Mette   Sophie,Grandjean   Carole,1,1
+Mette   Sophie,Jacques   Jean-Michel,1,1
+Mette   Sophie,Rauch   Isabelle,1,1
+Mette   Sophie,Thomas   Valérie,1,1
+Mette   Sophie,El Guerrab   M'jid,1,1
+Mette   Sophie,Genetet   Anne,1,1
+Mette   Sophie,Lenne   Marion,1,1
+Mette   Sophie,Viry   Stéphane,1,1
+Mette   Sophie,Kokouendo   Rodrigue,1,1
+Mette   Sophie,Mauborgne   Sereine,1,1
+Mette   Sophie,Henriet   Pierre,1,1
+Mette   Sophie,Hennion   Christine,1,1
+Mette   Sophie,Fuchs   Bruno,1,1
+Mette   Sophie,Julien-Laferrière   Hubert,1,1
+Cloarec-Le Nabour   Christine,Saint-Paul   Laetitia,1,1
+Cloarec-Le Nabour   Christine,Masséglia   Denis,1,1
+Cloarec-Le Nabour   Christine,Grandjean   Carole,1,1
+Cloarec-Le Nabour   Christine,Jacques   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Rauch   Isabelle,1,1
+Cloarec-Le Nabour   Christine,Thomas   Valérie,1,1
+Cloarec-Le Nabour   Christine,El Guerrab   M'jid,1,1
+Cloarec-Le Nabour   Christine,Genetet   Anne,1,1
+Cloarec-Le Nabour   Christine,Lenne   Marion,1,1
+Cloarec-Le Nabour   Christine,Viry   Stéphane,1,1
+Cloarec-Le Nabour   Christine,Kokouendo   Rodrigue,1,1
+Cloarec-Le Nabour   Christine,Mauborgne   Sereine,1,1
+Cloarec-Le Nabour   Christine,Henriet   Pierre,1,1
+Cloarec-Le Nabour   Christine,Hennion   Christine,1,1
+Cloarec-Le Nabour   Christine,Fuchs   Bruno,1,1
+Cloarec-Le Nabour   Christine,Julien-Laferrière   Hubert,1,1
+Saint-Paul   Laetitia,Masséglia   Denis,1,1
+Saint-Paul   Laetitia,Grandjean   Carole,1,1
+Saint-Paul   Laetitia,Jacques   Jean-Michel,1,1
+Saint-Paul   Laetitia,Rauch   Isabelle,1,1
+Saint-Paul   Laetitia,Thomas   Valérie,1,1
+Saint-Paul   Laetitia,El Guerrab   M'jid,1,1
+Saint-Paul   Laetitia,Genetet   Anne,1,1
+Saint-Paul   Laetitia,Lenne   Marion,1,1
+Saint-Paul   Laetitia,Viry   Stéphane,1,1
+Saint-Paul   Laetitia,Kokouendo   Rodrigue,1,1
+Saint-Paul   Laetitia,Mauborgne   Sereine,1,1
+Saint-Paul   Laetitia,Henriet   Pierre,1,1
+Saint-Paul   Laetitia,Hennion   Christine,1,1
+Saint-Paul   Laetitia,Fuchs   Bruno,1,1
+Saint-Paul   Laetitia,Julien-Laferrière   Hubert,1,1
+Masséglia   Denis,Grandjean   Carole,1,1
+Masséglia   Denis,Jacques   Jean-Michel,1,1
+Masséglia   Denis,Rauch   Isabelle,1,1
+Masséglia   Denis,Thomas   Valérie,1,1
+Masséglia   Denis,El Guerrab   M'jid,1,1
+Masséglia   Denis,Genetet   Anne,1,1
+Masséglia   Denis,Lenne   Marion,1,1
+Masséglia   Denis,Viry   Stéphane,1,1
+Masséglia   Denis,Kokouendo   Rodrigue,1,1
+Masséglia   Denis,Mauborgne   Sereine,1,1
+Masséglia   Denis,Henriet   Pierre,1,1
+Masséglia   Denis,Hennion   Christine,1,1
+Masséglia   Denis,Fuchs   Bruno,1,1
+Masséglia   Denis,Julien-Laferrière   Hubert,1,1
+Grandjean   Carole,Jacques   Jean-Michel,1,1
+Grandjean   Carole,Rauch   Isabelle,1,1
+Grandjean   Carole,Thomas   Valérie,1,1
+Grandjean   Carole,El Guerrab   M'jid,1,1
+Grandjean   Carole,Genetet   Anne,1,1
+Grandjean   Carole,Lenne   Marion,1,1
+Grandjean   Carole,Viry   Stéphane,1,1
+Grandjean   Carole,Kokouendo   Rodrigue,1,1
+Grandjean   Carole,Mauborgne   Sereine,1,1
+Grandjean   Carole,Henriet   Pierre,1,1
+Grandjean   Carole,Hennion   Christine,1,1
+Grandjean   Carole,Fuchs   Bruno,1,1
+Grandjean   Carole,Julien-Laferrière   Hubert,1,1
+Jacques   Jean-Michel,Rauch   Isabelle,1,1
+Jacques   Jean-Michel,Thomas   Valérie,1,1
+Jacques   Jean-Michel,El Guerrab   M'jid,1,1
+Jacques   Jean-Michel,Genetet   Anne,1,1
+Jacques   Jean-Michel,Lenne   Marion,1,1
+Jacques   Jean-Michel,Viry   Stéphane,1,1
+Jacques   Jean-Michel,Kokouendo   Rodrigue,1,1
+Jacques   Jean-Michel,Mauborgne   Sereine,1,1
+Jacques   Jean-Michel,Henriet   Pierre,1,1
+Jacques   Jean-Michel,Hennion   Christine,1,1
+Jacques   Jean-Michel,Fuchs   Bruno,1,1
+Jacques   Jean-Michel,Julien-Laferrière   Hubert,1,1
+Rauch   Isabelle,Thomas   Valérie,1,1
+Rauch   Isabelle,El Guerrab   M'jid,1,1
+Rauch   Isabelle,Genetet   Anne,1,1
+Rauch   Isabelle,Lenne   Marion,1,1
+Rauch   Isabelle,Viry   Stéphane,1,1
+Rauch   Isabelle,Kokouendo   Rodrigue,1,1
+Rauch   Isabelle,Mauborgne   Sereine,1,1
+Rauch   Isabelle,Henriet   Pierre,1,1
+Rauch   Isabelle,Hennion   Christine,1,1
+Rauch   Isabelle,Fuchs   Bruno,1,1
+Rauch   Isabelle,Julien-Laferrière   Hubert,1,1
+Thomas   Valérie,El Guerrab   M'jid,1,1
+Thomas   Valérie,Genetet   Anne,1,1
+Thomas   Valérie,Lenne   Marion,1,1
+Thomas   Valérie,Viry   Stéphane,1,1
+Thomas   Valérie,Kokouendo   Rodrigue,1,1
+Thomas   Valérie,Mauborgne   Sereine,1,1
+Thomas   Valérie,Henriet   Pierre,1,1
+Thomas   Valérie,Hennion   Christine,1,1
+Thomas   Valérie,Fuchs   Bruno,1,1
+Thomas   Valérie,Julien-Laferrière   Hubert,1,1
+El Guerrab   M'jid,Genetet   Anne,1,1
+El Guerrab   M'jid,Lenne   Marion,1,1
+El Guerrab   M'jid,Viry   Stéphane,1,1
+El Guerrab   M'jid,Kokouendo   Rodrigue,1,1
+El Guerrab   M'jid,Mauborgne   Sereine,1,1
+El Guerrab   M'jid,Henriet   Pierre,1,1
+El Guerrab   M'jid,Hennion   Christine,1,1
+El Guerrab   M'jid,Fuchs   Bruno,1,1
+El Guerrab   M'jid,Julien-Laferrière   Hubert,1,1
+Genetet   Anne,Lenne   Marion,1,1
+Genetet   Anne,Viry   Stéphane,1,1
+Genetet   Anne,Kokouendo   Rodrigue,1,1
+Genetet   Anne,Mauborgne   Sereine,1,1
+Genetet   Anne,Henriet   Pierre,1,1
+Genetet   Anne,Hennion   Christine,1,1
+Genetet   Anne,Fuchs   Bruno,1,1
+Genetet   Anne,Julien-Laferrière   Hubert,1,1
+Lenne   Marion,Viry   Stéphane,1,1
+Lenne   Marion,Kokouendo   Rodrigue,1,1
+Lenne   Marion,Mauborgne   Sereine,1,1
+Lenne   Marion,Henriet   Pierre,1,1
+Lenne   Marion,Hennion   Christine,1,1
+Lenne   Marion,Fuchs   Bruno,1,1
+Lenne   Marion,Julien-Laferrière   Hubert,1,1
+Viry   Stéphane,Kokouendo   Rodrigue,1,1
+Viry   Stéphane,Mauborgne   Sereine,1,1
+Viry   Stéphane,Henriet   Pierre,1,1
+Viry   Stéphane,Hennion   Christine,1,1
+Viry   Stéphane,Fuchs   Bruno,1,1
+Viry   Stéphane,Julien-Laferrière   Hubert,1,1
+Kokouendo   Rodrigue,Mauborgne   Sereine,1,1
+Kokouendo   Rodrigue,Henriet   Pierre,1,1
+Kokouendo   Rodrigue,Hennion   Christine,1,1
+Kokouendo   Rodrigue,Fuchs   Bruno,1,1
+Kokouendo   Rodrigue,Julien-Laferrière   Hubert,1,1
+Mauborgne   Sereine,Henriet   Pierre,1,1
+Mauborgne   Sereine,Hennion   Christine,1,1
+Mauborgne   Sereine,Fuchs   Bruno,1,1
+Mauborgne   Sereine,Julien-Laferrière   Hubert,1,1
+Henriet   Pierre,Hennion   Christine,1,1
+Henriet   Pierre,Fuchs   Bruno,1,1
+Henriet   Pierre,Julien-Laferrière   Hubert,1,1
+Hennion   Christine,Fuchs   Bruno,1,1
+Hennion   Christine,Julien-Laferrière   Hubert,1,1
+Fuchs   Bruno,Julien-Laferrière   Hubert,1,1

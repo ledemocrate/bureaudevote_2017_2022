@@ -1,0 +1,742 @@
+from,to,vote_commun,loi_commun
+Le Fur   Marc,Herth   Antoine,1,1
+Le Fur   Marc,Vigier   Philippe,1,1
+Le Fur   Marc,Benoit   Thierry,1,1
+Le Fur   Marc,Victory   Michèle,1,1
+Le Fur   Marc,Le Grip   Constance,1,1
+Le Fur   Marc,Lang   Anne-Christine,1,1
+Le Fur   Marc,Maillard   Sylvain,1,1
+Le Fur   Marc,Racon-Bouzon   Cathy,1,1
+Le Fur   Marc,Ahamada   Saïd,1,1
+Le Fur   Marc,Le Vigoureux   Fabrice,1,1
+Le Fur   Marc,Gérard   Raphaël,1,1
+Le Fur   Marc,Cormier-Bouligeon   François,1,1
+Le Fur   Marc,Ménard   Emmanuelle,1,1
+Le Fur   Marc,Mette   Sophie,1,1
+Le Fur   Marc,Motin   Cendra,1,1
+Le Fur   Marc,Limon   Monique,1,1
+Le Fur   Marc,Paluszkiewicz   Xavier,1,1
+Le Fur   Marc,Parmentier-Lecocq   Charlotte,1,1
+Le Fur   Marc,Dumont   Pierre-Henri,1,1
+Le Fur   Marc,Studer   Bruno,1,1
+Le Fur   Marc,Dumas   Frédérique,1,1
+Le Fur   Marc,Petit   Maud,1,1
+Le Fur   Marc,Gaillot   Albane,1,1
+Le Fur   Marc,Ramadier   Alain,1,1
+Le Fur   Marc,Brugnera   Anne,1,1
+Le Fur   Marc,Fontenel-Personne   Pascale,1,1
+Le Fur   Marc,Kuster   Brigitte,1,1
+Le Fur   Marc,Rupin   Pacôme,1,1
+Le Fur   Marc,Lemoine   Patricia,1,1
+Le Fur   Marc,Kokouendo   Rodrigue,1,1
+Le Fur   Marc,Atger   Stéphanie,1,1
+Le Fur   Marc,Calvez   Céline,1,1
+Le Fur   Marc,Baichère   Didier,1,1
+Le Fur   Marc,Pouzyreff   Natalia,1,1
+Le Fur   Marc,Buchou   Stéphane,1,1
+Le Fur   Marc,Pételle   Bénédicte,1,1
+Le Fur   Marc,Magne   Marie-Ange,1,1
+Le Fur   Marc,Carrez   Gilles,1,1
+Herth   Antoine,Vigier   Philippe,1,1
+Herth   Antoine,Benoit   Thierry,1,1
+Herth   Antoine,Victory   Michèle,1,1
+Herth   Antoine,Le Grip   Constance,1,1
+Herth   Antoine,Lang   Anne-Christine,1,1
+Herth   Antoine,Maillard   Sylvain,1,1
+Herth   Antoine,Racon-Bouzon   Cathy,1,1
+Herth   Antoine,Ahamada   Saïd,1,1
+Herth   Antoine,Le Vigoureux   Fabrice,1,1
+Herth   Antoine,Gérard   Raphaël,1,1
+Herth   Antoine,Cormier-Bouligeon   François,1,1
+Herth   Antoine,Ménard   Emmanuelle,1,1
+Herth   Antoine,Mette   Sophie,1,1
+Herth   Antoine,Motin   Cendra,1,1
+Herth   Antoine,Limon   Monique,1,1
+Herth   Antoine,Paluszkiewicz   Xavier,1,1
+Herth   Antoine,Parmentier-Lecocq   Charlotte,1,1
+Herth   Antoine,Dumont   Pierre-Henri,1,1
+Herth   Antoine,Studer   Bruno,1,1
+Herth   Antoine,Dumas   Frédérique,1,1
+Herth   Antoine,Petit   Maud,1,1
+Herth   Antoine,Gaillot   Albane,1,1
+Herth   Antoine,Ramadier   Alain,1,1
+Herth   Antoine,Brugnera   Anne,1,1
+Herth   Antoine,Fontenel-Personne   Pascale,1,1
+Herth   Antoine,Kuster   Brigitte,1,1
+Herth   Antoine,Rupin   Pacôme,1,1
+Herth   Antoine,Lemoine   Patricia,1,1
+Herth   Antoine,Kokouendo   Rodrigue,1,1
+Herth   Antoine,Atger   Stéphanie,1,1
+Herth   Antoine,Calvez   Céline,1,1
+Herth   Antoine,Baichère   Didier,1,1
+Herth   Antoine,Pouzyreff   Natalia,1,1
+Herth   Antoine,Buchou   Stéphane,1,1
+Herth   Antoine,Pételle   Bénédicte,1,1
+Herth   Antoine,Magne   Marie-Ange,1,1
+Herth   Antoine,Carrez   Gilles,1,1
+Vigier   Philippe,Benoit   Thierry,1,1
+Vigier   Philippe,Victory   Michèle,1,1
+Vigier   Philippe,Le Grip   Constance,1,1
+Vigier   Philippe,Lang   Anne-Christine,1,1
+Vigier   Philippe,Maillard   Sylvain,1,1
+Vigier   Philippe,Racon-Bouzon   Cathy,1,1
+Vigier   Philippe,Ahamada   Saïd,1,1
+Vigier   Philippe,Le Vigoureux   Fabrice,1,1
+Vigier   Philippe,Gérard   Raphaël,1,1
+Vigier   Philippe,Cormier-Bouligeon   François,1,1
+Vigier   Philippe,Ménard   Emmanuelle,1,1
+Vigier   Philippe,Mette   Sophie,1,1
+Vigier   Philippe,Motin   Cendra,1,1
+Vigier   Philippe,Limon   Monique,1,1
+Vigier   Philippe,Paluszkiewicz   Xavier,1,1
+Vigier   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Vigier   Philippe,Dumont   Pierre-Henri,1,1
+Vigier   Philippe,Studer   Bruno,1,1
+Vigier   Philippe,Dumas   Frédérique,1,1
+Vigier   Philippe,Petit   Maud,1,1
+Vigier   Philippe,Gaillot   Albane,1,1
+Vigier   Philippe,Ramadier   Alain,1,1
+Vigier   Philippe,Brugnera   Anne,1,1
+Vigier   Philippe,Fontenel-Personne   Pascale,1,1
+Vigier   Philippe,Kuster   Brigitte,1,1
+Vigier   Philippe,Rupin   Pacôme,1,1
+Vigier   Philippe,Lemoine   Patricia,1,1
+Vigier   Philippe,Kokouendo   Rodrigue,1,1
+Vigier   Philippe,Atger   Stéphanie,1,1
+Vigier   Philippe,Calvez   Céline,1,1
+Vigier   Philippe,Baichère   Didier,1,1
+Vigier   Philippe,Pouzyreff   Natalia,1,1
+Vigier   Philippe,Buchou   Stéphane,1,1
+Vigier   Philippe,Pételle   Bénédicte,1,1
+Vigier   Philippe,Magne   Marie-Ange,1,1
+Vigier   Philippe,Carrez   Gilles,1,1
+Benoit   Thierry,Victory   Michèle,1,1
+Benoit   Thierry,Le Grip   Constance,1,1
+Benoit   Thierry,Lang   Anne-Christine,1,1
+Benoit   Thierry,Maillard   Sylvain,1,1
+Benoit   Thierry,Racon-Bouzon   Cathy,1,1
+Benoit   Thierry,Ahamada   Saïd,1,1
+Benoit   Thierry,Le Vigoureux   Fabrice,1,1
+Benoit   Thierry,Gérard   Raphaël,1,1
+Benoit   Thierry,Cormier-Bouligeon   François,1,1
+Benoit   Thierry,Ménard   Emmanuelle,1,1
+Benoit   Thierry,Mette   Sophie,1,1
+Benoit   Thierry,Motin   Cendra,1,1
+Benoit   Thierry,Limon   Monique,1,1
+Benoit   Thierry,Paluszkiewicz   Xavier,1,1
+Benoit   Thierry,Parmentier-Lecocq   Charlotte,1,1
+Benoit   Thierry,Dumont   Pierre-Henri,1,1
+Benoit   Thierry,Studer   Bruno,1,1
+Benoit   Thierry,Dumas   Frédérique,1,1
+Benoit   Thierry,Petit   Maud,1,1
+Benoit   Thierry,Gaillot   Albane,1,1
+Benoit   Thierry,Ramadier   Alain,1,1
+Benoit   Thierry,Brugnera   Anne,1,1
+Benoit   Thierry,Fontenel-Personne   Pascale,1,1
+Benoit   Thierry,Kuster   Brigitte,1,1
+Benoit   Thierry,Rupin   Pacôme,1,1
+Benoit   Thierry,Lemoine   Patricia,1,1
+Benoit   Thierry,Kokouendo   Rodrigue,1,1
+Benoit   Thierry,Atger   Stéphanie,1,1
+Benoit   Thierry,Calvez   Céline,1,1
+Benoit   Thierry,Baichère   Didier,1,1
+Benoit   Thierry,Pouzyreff   Natalia,1,1
+Benoit   Thierry,Buchou   Stéphane,1,1
+Benoit   Thierry,Pételle   Bénédicte,1,1
+Benoit   Thierry,Magne   Marie-Ange,1,1
+Benoit   Thierry,Carrez   Gilles,1,1
+Victory   Michèle,Le Grip   Constance,1,1
+Victory   Michèle,Lang   Anne-Christine,1,1
+Victory   Michèle,Maillard   Sylvain,1,1
+Victory   Michèle,Racon-Bouzon   Cathy,1,1
+Victory   Michèle,Ahamada   Saïd,1,1
+Victory   Michèle,Le Vigoureux   Fabrice,1,1
+Victory   Michèle,Gérard   Raphaël,1,1
+Victory   Michèle,Cormier-Bouligeon   François,1,1
+Victory   Michèle,Ménard   Emmanuelle,1,1
+Victory   Michèle,Mette   Sophie,1,1
+Victory   Michèle,Motin   Cendra,1,1
+Victory   Michèle,Limon   Monique,1,1
+Victory   Michèle,Paluszkiewicz   Xavier,1,1
+Victory   Michèle,Parmentier-Lecocq   Charlotte,1,1
+Victory   Michèle,Dumont   Pierre-Henri,1,1
+Victory   Michèle,Studer   Bruno,1,1
+Victory   Michèle,Dumas   Frédérique,1,1
+Victory   Michèle,Petit   Maud,1,1
+Victory   Michèle,Gaillot   Albane,1,1
+Victory   Michèle,Ramadier   Alain,1,1
+Victory   Michèle,Brugnera   Anne,1,1
+Victory   Michèle,Fontenel-Personne   Pascale,1,1
+Victory   Michèle,Kuster   Brigitte,1,1
+Victory   Michèle,Rupin   Pacôme,1,1
+Victory   Michèle,Lemoine   Patricia,1,1
+Victory   Michèle,Kokouendo   Rodrigue,1,1
+Victory   Michèle,Atger   Stéphanie,1,1
+Victory   Michèle,Calvez   Céline,1,1
+Victory   Michèle,Baichère   Didier,1,1
+Victory   Michèle,Pouzyreff   Natalia,1,1
+Victory   Michèle,Buchou   Stéphane,1,1
+Victory   Michèle,Pételle   Bénédicte,1,1
+Victory   Michèle,Magne   Marie-Ange,1,1
+Victory   Michèle,Carrez   Gilles,1,1
+Le Grip   Constance,Lang   Anne-Christine,1,1
+Le Grip   Constance,Maillard   Sylvain,1,1
+Le Grip   Constance,Racon-Bouzon   Cathy,1,1
+Le Grip   Constance,Ahamada   Saïd,1,1
+Le Grip   Constance,Le Vigoureux   Fabrice,1,1
+Le Grip   Constance,Gérard   Raphaël,1,1
+Le Grip   Constance,Cormier-Bouligeon   François,1,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Mette   Sophie,1,1
+Le Grip   Constance,Motin   Cendra,1,1
+Le Grip   Constance,Limon   Monique,1,1
+Le Grip   Constance,Paluszkiewicz   Xavier,1,1
+Le Grip   Constance,Parmentier-Lecocq   Charlotte,1,1
+Le Grip   Constance,Dumont   Pierre-Henri,1,1
+Le Grip   Constance,Studer   Bruno,1,1
+Le Grip   Constance,Dumas   Frédérique,1,1
+Le Grip   Constance,Petit   Maud,1,1
+Le Grip   Constance,Gaillot   Albane,1,1
+Le Grip   Constance,Ramadier   Alain,1,1
+Le Grip   Constance,Brugnera   Anne,1,1
+Le Grip   Constance,Fontenel-Personne   Pascale,1,1
+Le Grip   Constance,Kuster   Brigitte,1,1
+Le Grip   Constance,Rupin   Pacôme,1,1
+Le Grip   Constance,Lemoine   Patricia,1,1
+Le Grip   Constance,Kokouendo   Rodrigue,1,1
+Le Grip   Constance,Atger   Stéphanie,1,1
+Le Grip   Constance,Calvez   Céline,1,1
+Le Grip   Constance,Baichère   Didier,1,1
+Le Grip   Constance,Pouzyreff   Natalia,1,1
+Le Grip   Constance,Buchou   Stéphane,1,1
+Le Grip   Constance,Pételle   Bénédicte,1,1
+Le Grip   Constance,Magne   Marie-Ange,1,1
+Le Grip   Constance,Carrez   Gilles,1,1
+Lang   Anne-Christine,Maillard   Sylvain,1,1
+Lang   Anne-Christine,Racon-Bouzon   Cathy,1,1
+Lang   Anne-Christine,Ahamada   Saïd,1,1
+Lang   Anne-Christine,Le Vigoureux   Fabrice,1,1
+Lang   Anne-Christine,Gérard   Raphaël,1,1
+Lang   Anne-Christine,Cormier-Bouligeon   François,1,1
+Lang   Anne-Christine,Ménard   Emmanuelle,1,1
+Lang   Anne-Christine,Mette   Sophie,1,1
+Lang   Anne-Christine,Motin   Cendra,1,1
+Lang   Anne-Christine,Limon   Monique,1,1
+Lang   Anne-Christine,Paluszkiewicz   Xavier,1,1
+Lang   Anne-Christine,Parmentier-Lecocq   Charlotte,1,1
+Lang   Anne-Christine,Dumont   Pierre-Henri,1,1
+Lang   Anne-Christine,Studer   Bruno,1,1
+Lang   Anne-Christine,Dumas   Frédérique,1,1
+Lang   Anne-Christine,Petit   Maud,1,1
+Lang   Anne-Christine,Gaillot   Albane,1,1
+Lang   Anne-Christine,Ramadier   Alain,1,1
+Lang   Anne-Christine,Brugnera   Anne,1,1
+Lang   Anne-Christine,Fontenel-Personne   Pascale,1,1
+Lang   Anne-Christine,Kuster   Brigitte,1,1
+Lang   Anne-Christine,Rupin   Pacôme,1,1
+Lang   Anne-Christine,Lemoine   Patricia,1,1
+Lang   Anne-Christine,Kokouendo   Rodrigue,1,1
+Lang   Anne-Christine,Atger   Stéphanie,1,1
+Lang   Anne-Christine,Calvez   Céline,1,1
+Lang   Anne-Christine,Baichère   Didier,1,1
+Lang   Anne-Christine,Pouzyreff   Natalia,1,1
+Lang   Anne-Christine,Buchou   Stéphane,1,1
+Lang   Anne-Christine,Pételle   Bénédicte,1,1
+Lang   Anne-Christine,Magne   Marie-Ange,1,1
+Lang   Anne-Christine,Carrez   Gilles,1,1
+Maillard   Sylvain,Racon-Bouzon   Cathy,1,1
+Maillard   Sylvain,Ahamada   Saïd,1,1
+Maillard   Sylvain,Le Vigoureux   Fabrice,1,1
+Maillard   Sylvain,Gérard   Raphaël,1,1
+Maillard   Sylvain,Cormier-Bouligeon   François,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,1,1
+Maillard   Sylvain,Mette   Sophie,1,1
+Maillard   Sylvain,Motin   Cendra,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Paluszkiewicz   Xavier,1,1
+Maillard   Sylvain,Parmentier-Lecocq   Charlotte,1,1
+Maillard   Sylvain,Dumont   Pierre-Henri,1,1
+Maillard   Sylvain,Studer   Bruno,1,1
+Maillard   Sylvain,Dumas   Frédérique,1,1
+Maillard   Sylvain,Petit   Maud,1,1
+Maillard   Sylvain,Gaillot   Albane,1,1
+Maillard   Sylvain,Ramadier   Alain,1,1
+Maillard   Sylvain,Brugnera   Anne,1,1
+Maillard   Sylvain,Fontenel-Personne   Pascale,1,1
+Maillard   Sylvain,Kuster   Brigitte,1,1
+Maillard   Sylvain,Rupin   Pacôme,1,1
+Maillard   Sylvain,Lemoine   Patricia,1,1
+Maillard   Sylvain,Kokouendo   Rodrigue,1,1
+Maillard   Sylvain,Atger   Stéphanie,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Baichère   Didier,1,1
+Maillard   Sylvain,Pouzyreff   Natalia,1,1
+Maillard   Sylvain,Buchou   Stéphane,1,1
+Maillard   Sylvain,Pételle   Bénédicte,1,1
+Maillard   Sylvain,Magne   Marie-Ange,1,1
+Maillard   Sylvain,Carrez   Gilles,1,1
+Racon-Bouzon   Cathy,Ahamada   Saïd,1,1
+Racon-Bouzon   Cathy,Le Vigoureux   Fabrice,1,1
+Racon-Bouzon   Cathy,Gérard   Raphaël,1,1
+Racon-Bouzon   Cathy,Cormier-Bouligeon   François,1,1
+Racon-Bouzon   Cathy,Ménard   Emmanuelle,1,1
+Racon-Bouzon   Cathy,Mette   Sophie,1,1
+Racon-Bouzon   Cathy,Motin   Cendra,1,1
+Racon-Bouzon   Cathy,Limon   Monique,1,1
+Racon-Bouzon   Cathy,Paluszkiewicz   Xavier,1,1
+Racon-Bouzon   Cathy,Parmentier-Lecocq   Charlotte,1,1
+Racon-Bouzon   Cathy,Dumont   Pierre-Henri,1,1
+Racon-Bouzon   Cathy,Studer   Bruno,1,1
+Racon-Bouzon   Cathy,Dumas   Frédérique,1,1
+Racon-Bouzon   Cathy,Petit   Maud,1,1
+Racon-Bouzon   Cathy,Gaillot   Albane,1,1
+Racon-Bouzon   Cathy,Ramadier   Alain,1,1
+Racon-Bouzon   Cathy,Brugnera   Anne,1,1
+Racon-Bouzon   Cathy,Fontenel-Personne   Pascale,1,1
+Racon-Bouzon   Cathy,Kuster   Brigitte,1,1
+Racon-Bouzon   Cathy,Rupin   Pacôme,1,1
+Racon-Bouzon   Cathy,Lemoine   Patricia,1,1
+Racon-Bouzon   Cathy,Kokouendo   Rodrigue,1,1
+Racon-Bouzon   Cathy,Atger   Stéphanie,1,1
+Racon-Bouzon   Cathy,Calvez   Céline,1,1
+Racon-Bouzon   Cathy,Baichère   Didier,1,1
+Racon-Bouzon   Cathy,Pouzyreff   Natalia,1,1
+Racon-Bouzon   Cathy,Buchou   Stéphane,1,1
+Racon-Bouzon   Cathy,Pételle   Bénédicte,1,1
+Racon-Bouzon   Cathy,Magne   Marie-Ange,1,1
+Racon-Bouzon   Cathy,Carrez   Gilles,1,1
+Ahamada   Saïd,Le Vigoureux   Fabrice,1,1
+Ahamada   Saïd,Gérard   Raphaël,1,1
+Ahamada   Saïd,Cormier-Bouligeon   François,1,1
+Ahamada   Saïd,Ménard   Emmanuelle,1,1
+Ahamada   Saïd,Mette   Sophie,1,1
+Ahamada   Saïd,Motin   Cendra,1,1
+Ahamada   Saïd,Limon   Monique,1,1
+Ahamada   Saïd,Paluszkiewicz   Xavier,1,1
+Ahamada   Saïd,Parmentier-Lecocq   Charlotte,1,1
+Ahamada   Saïd,Dumont   Pierre-Henri,1,1
+Ahamada   Saïd,Studer   Bruno,1,1
+Ahamada   Saïd,Dumas   Frédérique,1,1
+Ahamada   Saïd,Petit   Maud,1,1
+Ahamada   Saïd,Gaillot   Albane,1,1
+Ahamada   Saïd,Ramadier   Alain,1,1
+Ahamada   Saïd,Brugnera   Anne,1,1
+Ahamada   Saïd,Fontenel-Personne   Pascale,1,1
+Ahamada   Saïd,Kuster   Brigitte,1,1
+Ahamada   Saïd,Rupin   Pacôme,1,1
+Ahamada   Saïd,Lemoine   Patricia,1,1
+Ahamada   Saïd,Kokouendo   Rodrigue,1,1
+Ahamada   Saïd,Atger   Stéphanie,1,1
+Ahamada   Saïd,Calvez   Céline,1,1
+Ahamada   Saïd,Baichère   Didier,1,1
+Ahamada   Saïd,Pouzyreff   Natalia,1,1
+Ahamada   Saïd,Buchou   Stéphane,1,1
+Ahamada   Saïd,Pételle   Bénédicte,1,1
+Ahamada   Saïd,Magne   Marie-Ange,1,1
+Ahamada   Saïd,Carrez   Gilles,1,1
+Le Vigoureux   Fabrice,Gérard   Raphaël,1,1
+Le Vigoureux   Fabrice,Cormier-Bouligeon   François,1,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,1,1
+Le Vigoureux   Fabrice,Mette   Sophie,1,1
+Le Vigoureux   Fabrice,Motin   Cendra,1,1
+Le Vigoureux   Fabrice,Limon   Monique,1,1
+Le Vigoureux   Fabrice,Paluszkiewicz   Xavier,1,1
+Le Vigoureux   Fabrice,Parmentier-Lecocq   Charlotte,1,1
+Le Vigoureux   Fabrice,Dumont   Pierre-Henri,1,1
+Le Vigoureux   Fabrice,Studer   Bruno,1,1
+Le Vigoureux   Fabrice,Dumas   Frédérique,1,1
+Le Vigoureux   Fabrice,Petit   Maud,1,1
+Le Vigoureux   Fabrice,Gaillot   Albane,1,1
+Le Vigoureux   Fabrice,Ramadier   Alain,1,1
+Le Vigoureux   Fabrice,Brugnera   Anne,1,1
+Le Vigoureux   Fabrice,Fontenel-Personne   Pascale,1,1
+Le Vigoureux   Fabrice,Kuster   Brigitte,1,1
+Le Vigoureux   Fabrice,Rupin   Pacôme,1,1
+Le Vigoureux   Fabrice,Lemoine   Patricia,1,1
+Le Vigoureux   Fabrice,Kokouendo   Rodrigue,1,1
+Le Vigoureux   Fabrice,Atger   Stéphanie,1,1
+Le Vigoureux   Fabrice,Calvez   Céline,1,1
+Le Vigoureux   Fabrice,Baichère   Didier,1,1
+Le Vigoureux   Fabrice,Pouzyreff   Natalia,1,1
+Le Vigoureux   Fabrice,Buchou   Stéphane,1,1
+Le Vigoureux   Fabrice,Pételle   Bénédicte,1,1
+Le Vigoureux   Fabrice,Magne   Marie-Ange,1,1
+Le Vigoureux   Fabrice,Carrez   Gilles,1,1
+Gérard   Raphaël,Cormier-Bouligeon   François,1,1
+Gérard   Raphaël,Ménard   Emmanuelle,1,1
+Gérard   Raphaël,Mette   Sophie,1,1
+Gérard   Raphaël,Motin   Cendra,1,1
+Gérard   Raphaël,Limon   Monique,1,1
+Gérard   Raphaël,Paluszkiewicz   Xavier,1,1
+Gérard   Raphaël,Parmentier-Lecocq   Charlotte,1,1
+Gérard   Raphaël,Dumont   Pierre-Henri,1,1
+Gérard   Raphaël,Studer   Bruno,1,1
+Gérard   Raphaël,Dumas   Frédérique,1,1
+Gérard   Raphaël,Petit   Maud,1,1
+Gérard   Raphaël,Gaillot   Albane,1,1
+Gérard   Raphaël,Ramadier   Alain,1,1
+Gérard   Raphaël,Brugnera   Anne,1,1
+Gérard   Raphaël,Fontenel-Personne   Pascale,1,1
+Gérard   Raphaël,Kuster   Brigitte,1,1
+Gérard   Raphaël,Rupin   Pacôme,1,1
+Gérard   Raphaël,Lemoine   Patricia,1,1
+Gérard   Raphaël,Kokouendo   Rodrigue,1,1
+Gérard   Raphaël,Atger   Stéphanie,1,1
+Gérard   Raphaël,Calvez   Céline,1,1
+Gérard   Raphaël,Baichère   Didier,1,1
+Gérard   Raphaël,Pouzyreff   Natalia,1,1
+Gérard   Raphaël,Buchou   Stéphane,1,1
+Gérard   Raphaël,Pételle   Bénédicte,1,1
+Gérard   Raphaël,Magne   Marie-Ange,1,1
+Gérard   Raphaël,Carrez   Gilles,1,1
+Cormier-Bouligeon   François,Ménard   Emmanuelle,1,1
+Cormier-Bouligeon   François,Mette   Sophie,1,1
+Cormier-Bouligeon   François,Motin   Cendra,1,1
+Cormier-Bouligeon   François,Limon   Monique,1,1
+Cormier-Bouligeon   François,Paluszkiewicz   Xavier,1,1
+Cormier-Bouligeon   François,Parmentier-Lecocq   Charlotte,1,1
+Cormier-Bouligeon   François,Dumont   Pierre-Henri,1,1
+Cormier-Bouligeon   François,Studer   Bruno,1,1
+Cormier-Bouligeon   François,Dumas   Frédérique,1,1
+Cormier-Bouligeon   François,Petit   Maud,1,1
+Cormier-Bouligeon   François,Gaillot   Albane,1,1
+Cormier-Bouligeon   François,Ramadier   Alain,1,1
+Cormier-Bouligeon   François,Brugnera   Anne,1,1
+Cormier-Bouligeon   François,Fontenel-Personne   Pascale,1,1
+Cormier-Bouligeon   François,Kuster   Brigitte,1,1
+Cormier-Bouligeon   François,Rupin   Pacôme,1,1
+Cormier-Bouligeon   François,Lemoine   Patricia,1,1
+Cormier-Bouligeon   François,Kokouendo   Rodrigue,1,1
+Cormier-Bouligeon   François,Atger   Stéphanie,1,1
+Cormier-Bouligeon   François,Calvez   Céline,1,1
+Cormier-Bouligeon   François,Baichère   Didier,1,1
+Cormier-Bouligeon   François,Pouzyreff   Natalia,1,1
+Cormier-Bouligeon   François,Buchou   Stéphane,1,1
+Cormier-Bouligeon   François,Pételle   Bénédicte,1,1
+Cormier-Bouligeon   François,Magne   Marie-Ange,1,1
+Cormier-Bouligeon   François,Carrez   Gilles,1,1
+Ménard   Emmanuelle,Mette   Sophie,1,1
+Ménard   Emmanuelle,Motin   Cendra,1,1
+Ménard   Emmanuelle,Limon   Monique,1,1
+Ménard   Emmanuelle,Paluszkiewicz   Xavier,1,1
+Ménard   Emmanuelle,Parmentier-Lecocq   Charlotte,1,1
+Ménard   Emmanuelle,Dumont   Pierre-Henri,1,1
+Ménard   Emmanuelle,Studer   Bruno,1,1
+Ménard   Emmanuelle,Dumas   Frédérique,1,1
+Ménard   Emmanuelle,Petit   Maud,1,1
+Ménard   Emmanuelle,Gaillot   Albane,1,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Brugnera   Anne,1,1
+Ménard   Emmanuelle,Fontenel-Personne   Pascale,1,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Rupin   Pacôme,1,1
+Ménard   Emmanuelle,Lemoine   Patricia,1,1
+Ménard   Emmanuelle,Kokouendo   Rodrigue,1,1
+Ménard   Emmanuelle,Atger   Stéphanie,1,1
+Ménard   Emmanuelle,Calvez   Céline,1,1
+Ménard   Emmanuelle,Baichère   Didier,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,1,1
+Ménard   Emmanuelle,Buchou   Stéphane,1,1
+Ménard   Emmanuelle,Pételle   Bénédicte,1,1
+Ménard   Emmanuelle,Magne   Marie-Ange,1,1
+Ménard   Emmanuelle,Carrez   Gilles,1,1
+Mette   Sophie,Motin   Cendra,1,1
+Mette   Sophie,Limon   Monique,1,1
+Mette   Sophie,Paluszkiewicz   Xavier,1,1
+Mette   Sophie,Parmentier-Lecocq   Charlotte,1,1
+Mette   Sophie,Dumont   Pierre-Henri,1,1
+Mette   Sophie,Studer   Bruno,1,1
+Mette   Sophie,Dumas   Frédérique,1,1
+Mette   Sophie,Petit   Maud,1,1
+Mette   Sophie,Gaillot   Albane,1,1
+Mette   Sophie,Ramadier   Alain,1,1
+Mette   Sophie,Brugnera   Anne,1,1
+Mette   Sophie,Fontenel-Personne   Pascale,1,1
+Mette   Sophie,Kuster   Brigitte,1,1
+Mette   Sophie,Rupin   Pacôme,1,1
+Mette   Sophie,Lemoine   Patricia,1,1
+Mette   Sophie,Kokouendo   Rodrigue,1,1
+Mette   Sophie,Atger   Stéphanie,1,1
+Mette   Sophie,Calvez   Céline,1,1
+Mette   Sophie,Baichère   Didier,1,1
+Mette   Sophie,Pouzyreff   Natalia,1,1
+Mette   Sophie,Buchou   Stéphane,1,1
+Mette   Sophie,Pételle   Bénédicte,1,1
+Mette   Sophie,Magne   Marie-Ange,1,1
+Mette   Sophie,Carrez   Gilles,1,1
+Motin   Cendra,Limon   Monique,1,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Parmentier-Lecocq   Charlotte,1,1
+Motin   Cendra,Dumont   Pierre-Henri,1,1
+Motin   Cendra,Studer   Bruno,1,1
+Motin   Cendra,Dumas   Frédérique,1,1
+Motin   Cendra,Petit   Maud,1,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Ramadier   Alain,1,1
+Motin   Cendra,Brugnera   Anne,1,1
+Motin   Cendra,Fontenel-Personne   Pascale,1,1
+Motin   Cendra,Kuster   Brigitte,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Lemoine   Patricia,1,1
+Motin   Cendra,Kokouendo   Rodrigue,1,1
+Motin   Cendra,Atger   Stéphanie,1,1
+Motin   Cendra,Calvez   Céline,1,1
+Motin   Cendra,Baichère   Didier,1,1
+Motin   Cendra,Pouzyreff   Natalia,1,1
+Motin   Cendra,Buchou   Stéphane,1,1
+Motin   Cendra,Pételle   Bénédicte,1,1
+Motin   Cendra,Magne   Marie-Ange,1,1
+Motin   Cendra,Carrez   Gilles,1,1
+Limon   Monique,Paluszkiewicz   Xavier,1,1
+Limon   Monique,Parmentier-Lecocq   Charlotte,1,1
+Limon   Monique,Dumont   Pierre-Henri,1,1
+Limon   Monique,Studer   Bruno,1,1
+Limon   Monique,Dumas   Frédérique,1,1
+Limon   Monique,Petit   Maud,1,1
+Limon   Monique,Gaillot   Albane,1,1
+Limon   Monique,Ramadier   Alain,1,1
+Limon   Monique,Brugnera   Anne,1,1
+Limon   Monique,Fontenel-Personne   Pascale,1,1
+Limon   Monique,Kuster   Brigitte,1,1
+Limon   Monique,Rupin   Pacôme,1,1
+Limon   Monique,Lemoine   Patricia,1,1
+Limon   Monique,Kokouendo   Rodrigue,1,1
+Limon   Monique,Atger   Stéphanie,1,1
+Limon   Monique,Calvez   Céline,1,1
+Limon   Monique,Baichère   Didier,1,1
+Limon   Monique,Pouzyreff   Natalia,1,1
+Limon   Monique,Buchou   Stéphane,1,1
+Limon   Monique,Pételle   Bénédicte,1,1
+Limon   Monique,Magne   Marie-Ange,1,1
+Limon   Monique,Carrez   Gilles,1,1
+Paluszkiewicz   Xavier,Parmentier-Lecocq   Charlotte,1,1
+Paluszkiewicz   Xavier,Dumont   Pierre-Henri,1,1
+Paluszkiewicz   Xavier,Studer   Bruno,1,1
+Paluszkiewicz   Xavier,Dumas   Frédérique,1,1
+Paluszkiewicz   Xavier,Petit   Maud,1,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Ramadier   Alain,1,1
+Paluszkiewicz   Xavier,Brugnera   Anne,1,1
+Paluszkiewicz   Xavier,Fontenel-Personne   Pascale,1,1
+Paluszkiewicz   Xavier,Kuster   Brigitte,1,1
+Paluszkiewicz   Xavier,Rupin   Pacôme,1,1
+Paluszkiewicz   Xavier,Lemoine   Patricia,1,1
+Paluszkiewicz   Xavier,Kokouendo   Rodrigue,1,1
+Paluszkiewicz   Xavier,Atger   Stéphanie,1,1
+Paluszkiewicz   Xavier,Calvez   Céline,1,1
+Paluszkiewicz   Xavier,Baichère   Didier,1,1
+Paluszkiewicz   Xavier,Pouzyreff   Natalia,1,1
+Paluszkiewicz   Xavier,Buchou   Stéphane,1,1
+Paluszkiewicz   Xavier,Pételle   Bénédicte,1,1
+Paluszkiewicz   Xavier,Magne   Marie-Ange,1,1
+Paluszkiewicz   Xavier,Carrez   Gilles,1,1
+Parmentier-Lecocq   Charlotte,Dumont   Pierre-Henri,1,1
+Parmentier-Lecocq   Charlotte,Studer   Bruno,1,1
+Parmentier-Lecocq   Charlotte,Dumas   Frédérique,1,1
+Parmentier-Lecocq   Charlotte,Petit   Maud,1,1
+Parmentier-Lecocq   Charlotte,Gaillot   Albane,1,1
+Parmentier-Lecocq   Charlotte,Ramadier   Alain,1,1
+Parmentier-Lecocq   Charlotte,Brugnera   Anne,1,1
+Parmentier-Lecocq   Charlotte,Fontenel-Personne   Pascale,1,1
+Parmentier-Lecocq   Charlotte,Kuster   Brigitte,1,1
+Parmentier-Lecocq   Charlotte,Rupin   Pacôme,1,1
+Parmentier-Lecocq   Charlotte,Lemoine   Patricia,1,1
+Parmentier-Lecocq   Charlotte,Kokouendo   Rodrigue,1,1
+Parmentier-Lecocq   Charlotte,Atger   Stéphanie,1,1
+Parmentier-Lecocq   Charlotte,Calvez   Céline,1,1
+Parmentier-Lecocq   Charlotte,Baichère   Didier,1,1
+Parmentier-Lecocq   Charlotte,Pouzyreff   Natalia,1,1
+Parmentier-Lecocq   Charlotte,Buchou   Stéphane,1,1
+Parmentier-Lecocq   Charlotte,Pételle   Bénédicte,1,1
+Parmentier-Lecocq   Charlotte,Magne   Marie-Ange,1,1
+Parmentier-Lecocq   Charlotte,Carrez   Gilles,1,1
+Dumont   Pierre-Henri,Studer   Bruno,1,1
+Dumont   Pierre-Henri,Dumas   Frédérique,1,1
+Dumont   Pierre-Henri,Petit   Maud,1,1
+Dumont   Pierre-Henri,Gaillot   Albane,1,1
+Dumont   Pierre-Henri,Ramadier   Alain,1,1
+Dumont   Pierre-Henri,Brugnera   Anne,1,1
+Dumont   Pierre-Henri,Fontenel-Personne   Pascale,1,1
+Dumont   Pierre-Henri,Kuster   Brigitte,1,1
+Dumont   Pierre-Henri,Rupin   Pacôme,1,1
+Dumont   Pierre-Henri,Lemoine   Patricia,1,1
+Dumont   Pierre-Henri,Kokouendo   Rodrigue,1,1
+Dumont   Pierre-Henri,Atger   Stéphanie,1,1
+Dumont   Pierre-Henri,Calvez   Céline,1,1
+Dumont   Pierre-Henri,Baichère   Didier,1,1
+Dumont   Pierre-Henri,Pouzyreff   Natalia,1,1
+Dumont   Pierre-Henri,Buchou   Stéphane,1,1
+Dumont   Pierre-Henri,Pételle   Bénédicte,1,1
+Dumont   Pierre-Henri,Magne   Marie-Ange,1,1
+Dumont   Pierre-Henri,Carrez   Gilles,1,1
+Studer   Bruno,Dumas   Frédérique,1,1
+Studer   Bruno,Petit   Maud,1,1
+Studer   Bruno,Gaillot   Albane,1,1
+Studer   Bruno,Ramadier   Alain,1,1
+Studer   Bruno,Brugnera   Anne,1,1
+Studer   Bruno,Fontenel-Personne   Pascale,1,1
+Studer   Bruno,Kuster   Brigitte,1,1
+Studer   Bruno,Rupin   Pacôme,1,1
+Studer   Bruno,Lemoine   Patricia,1,1
+Studer   Bruno,Kokouendo   Rodrigue,1,1
+Studer   Bruno,Atger   Stéphanie,1,1
+Studer   Bruno,Calvez   Céline,1,1
+Studer   Bruno,Baichère   Didier,1,1
+Studer   Bruno,Pouzyreff   Natalia,1,1
+Studer   Bruno,Buchou   Stéphane,1,1
+Studer   Bruno,Pételle   Bénédicte,1,1
+Studer   Bruno,Magne   Marie-Ange,1,1
+Studer   Bruno,Carrez   Gilles,1,1
+Dumas   Frédérique,Petit   Maud,1,1
+Dumas   Frédérique,Gaillot   Albane,1,1
+Dumas   Frédérique,Ramadier   Alain,1,1
+Dumas   Frédérique,Brugnera   Anne,1,1
+Dumas   Frédérique,Fontenel-Personne   Pascale,1,1
+Dumas   Frédérique,Kuster   Brigitte,1,1
+Dumas   Frédérique,Rupin   Pacôme,1,1
+Dumas   Frédérique,Lemoine   Patricia,1,1
+Dumas   Frédérique,Kokouendo   Rodrigue,1,1
+Dumas   Frédérique,Atger   Stéphanie,1,1
+Dumas   Frédérique,Calvez   Céline,1,1
+Dumas   Frédérique,Baichère   Didier,1,1
+Dumas   Frédérique,Pouzyreff   Natalia,1,1
+Dumas   Frédérique,Buchou   Stéphane,1,1
+Dumas   Frédérique,Pételle   Bénédicte,1,1
+Dumas   Frédérique,Magne   Marie-Ange,1,1
+Dumas   Frédérique,Carrez   Gilles,1,1
+Petit   Maud,Gaillot   Albane,1,1
+Petit   Maud,Ramadier   Alain,1,1
+Petit   Maud,Brugnera   Anne,1,1
+Petit   Maud,Fontenel-Personne   Pascale,1,1
+Petit   Maud,Kuster   Brigitte,1,1
+Petit   Maud,Rupin   Pacôme,1,1
+Petit   Maud,Lemoine   Patricia,1,1
+Petit   Maud,Kokouendo   Rodrigue,1,1
+Petit   Maud,Atger   Stéphanie,1,1
+Petit   Maud,Calvez   Céline,1,1
+Petit   Maud,Baichère   Didier,1,1
+Petit   Maud,Pouzyreff   Natalia,1,1
+Petit   Maud,Buchou   Stéphane,1,1
+Petit   Maud,Pételle   Bénédicte,1,1
+Petit   Maud,Magne   Marie-Ange,1,1
+Petit   Maud,Carrez   Gilles,1,1
+Gaillot   Albane,Ramadier   Alain,1,1
+Gaillot   Albane,Brugnera   Anne,1,1
+Gaillot   Albane,Fontenel-Personne   Pascale,1,1
+Gaillot   Albane,Kuster   Brigitte,1,1
+Gaillot   Albane,Rupin   Pacôme,1,1
+Gaillot   Albane,Lemoine   Patricia,1,1
+Gaillot   Albane,Kokouendo   Rodrigue,1,1
+Gaillot   Albane,Atger   Stéphanie,1,1
+Gaillot   Albane,Calvez   Céline,1,1
+Gaillot   Albane,Baichère   Didier,1,1
+Gaillot   Albane,Pouzyreff   Natalia,1,1
+Gaillot   Albane,Buchou   Stéphane,1,1
+Gaillot   Albane,Pételle   Bénédicte,1,1
+Gaillot   Albane,Magne   Marie-Ange,1,1
+Gaillot   Albane,Carrez   Gilles,1,1
+Ramadier   Alain,Brugnera   Anne,1,1
+Ramadier   Alain,Fontenel-Personne   Pascale,1,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Rupin   Pacôme,1,1
+Ramadier   Alain,Lemoine   Patricia,1,1
+Ramadier   Alain,Kokouendo   Rodrigue,1,1
+Ramadier   Alain,Atger   Stéphanie,1,1
+Ramadier   Alain,Calvez   Céline,1,1
+Ramadier   Alain,Baichère   Didier,1,1
+Ramadier   Alain,Pouzyreff   Natalia,1,1
+Ramadier   Alain,Buchou   Stéphane,1,1
+Ramadier   Alain,Pételle   Bénédicte,1,1
+Ramadier   Alain,Magne   Marie-Ange,1,1
+Ramadier   Alain,Carrez   Gilles,1,1
+Brugnera   Anne,Fontenel-Personne   Pascale,1,1
+Brugnera   Anne,Kuster   Brigitte,1,1
+Brugnera   Anne,Rupin   Pacôme,1,1
+Brugnera   Anne,Lemoine   Patricia,1,1
+Brugnera   Anne,Kokouendo   Rodrigue,1,1
+Brugnera   Anne,Atger   Stéphanie,1,1
+Brugnera   Anne,Calvez   Céline,1,1
+Brugnera   Anne,Baichère   Didier,1,1
+Brugnera   Anne,Pouzyreff   Natalia,1,1
+Brugnera   Anne,Buchou   Stéphane,1,1
+Brugnera   Anne,Pételle   Bénédicte,1,1
+Brugnera   Anne,Magne   Marie-Ange,1,1
+Brugnera   Anne,Carrez   Gilles,1,1
+Fontenel-Personne   Pascale,Kuster   Brigitte,1,1
+Fontenel-Personne   Pascale,Rupin   Pacôme,1,1
+Fontenel-Personne   Pascale,Lemoine   Patricia,1,1
+Fontenel-Personne   Pascale,Kokouendo   Rodrigue,1,1
+Fontenel-Personne   Pascale,Atger   Stéphanie,1,1
+Fontenel-Personne   Pascale,Calvez   Céline,1,1
+Fontenel-Personne   Pascale,Baichère   Didier,1,1
+Fontenel-Personne   Pascale,Pouzyreff   Natalia,1,1
+Fontenel-Personne   Pascale,Buchou   Stéphane,1,1
+Fontenel-Personne   Pascale,Pételle   Bénédicte,1,1
+Fontenel-Personne   Pascale,Magne   Marie-Ange,1,1
+Fontenel-Personne   Pascale,Carrez   Gilles,1,1
+Kuster   Brigitte,Rupin   Pacôme,1,1
+Kuster   Brigitte,Lemoine   Patricia,1,1
+Kuster   Brigitte,Kokouendo   Rodrigue,1,1
+Kuster   Brigitte,Atger   Stéphanie,1,1
+Kuster   Brigitte,Calvez   Céline,1,1
+Kuster   Brigitte,Baichère   Didier,1,1
+Kuster   Brigitte,Pouzyreff   Natalia,1,1
+Kuster   Brigitte,Buchou   Stéphane,1,1
+Kuster   Brigitte,Pételle   Bénédicte,1,1
+Kuster   Brigitte,Magne   Marie-Ange,1,1
+Kuster   Brigitte,Carrez   Gilles,1,1
+Rupin   Pacôme,Lemoine   Patricia,1,1
+Rupin   Pacôme,Kokouendo   Rodrigue,1,1
+Rupin   Pacôme,Atger   Stéphanie,1,1
+Rupin   Pacôme,Calvez   Céline,1,1
+Rupin   Pacôme,Baichère   Didier,1,1
+Rupin   Pacôme,Pouzyreff   Natalia,1,1
+Rupin   Pacôme,Buchou   Stéphane,1,1
+Rupin   Pacôme,Pételle   Bénédicte,1,1
+Rupin   Pacôme,Magne   Marie-Ange,1,1
+Rupin   Pacôme,Carrez   Gilles,1,1
+Lemoine   Patricia,Kokouendo   Rodrigue,1,1
+Lemoine   Patricia,Atger   Stéphanie,1,1
+Lemoine   Patricia,Calvez   Céline,1,1
+Lemoine   Patricia,Baichère   Didier,1,1
+Lemoine   Patricia,Pouzyreff   Natalia,1,1
+Lemoine   Patricia,Buchou   Stéphane,1,1
+Lemoine   Patricia,Pételle   Bénédicte,1,1
+Lemoine   Patricia,Magne   Marie-Ange,1,1
+Lemoine   Patricia,Carrez   Gilles,1,1
+Kokouendo   Rodrigue,Atger   Stéphanie,1,1
+Kokouendo   Rodrigue,Calvez   Céline,1,1
+Kokouendo   Rodrigue,Baichère   Didier,1,1
+Kokouendo   Rodrigue,Pouzyreff   Natalia,1,1
+Kokouendo   Rodrigue,Buchou   Stéphane,1,1
+Kokouendo   Rodrigue,Pételle   Bénédicte,1,1
+Kokouendo   Rodrigue,Magne   Marie-Ange,1,1
+Kokouendo   Rodrigue,Carrez   Gilles,1,1
+Atger   Stéphanie,Calvez   Céline,1,1
+Atger   Stéphanie,Baichère   Didier,1,1
+Atger   Stéphanie,Pouzyreff   Natalia,1,1
+Atger   Stéphanie,Buchou   Stéphane,1,1
+Atger   Stéphanie,Pételle   Bénédicte,1,1
+Atger   Stéphanie,Magne   Marie-Ange,1,1
+Atger   Stéphanie,Carrez   Gilles,1,1
+Calvez   Céline,Baichère   Didier,1,1
+Calvez   Céline,Pouzyreff   Natalia,1,1
+Calvez   Céline,Buchou   Stéphane,1,1
+Calvez   Céline,Pételle   Bénédicte,1,1
+Calvez   Céline,Magne   Marie-Ange,1,1
+Calvez   Céline,Carrez   Gilles,1,1
+Baichère   Didier,Pouzyreff   Natalia,1,1
+Baichère   Didier,Buchou   Stéphane,1,1
+Baichère   Didier,Pételle   Bénédicte,1,1
+Baichère   Didier,Magne   Marie-Ange,1,1
+Baichère   Didier,Carrez   Gilles,1,1
+Pouzyreff   Natalia,Buchou   Stéphane,1,1
+Pouzyreff   Natalia,Pételle   Bénédicte,1,1
+Pouzyreff   Natalia,Magne   Marie-Ange,1,1
+Pouzyreff   Natalia,Carrez   Gilles,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Magne   Marie-Ange,1,1
+Buchou   Stéphane,Carrez   Gilles,1,1
+Pételle   Bénédicte,Magne   Marie-Ange,1,1
+Pételle   Bénédicte,Carrez   Gilles,1,1
+Magne   Marie-Ange,Carrez   Gilles,1,1

@@ -1,0 +1,742 @@
+from,to,vote_commun,loi_commun
+Sermier   Jean-Marie,Lecoq   Jean-Paul,1,1
+Sermier   Jean-Marie,Pinel   Sylvia,1,1
+Sermier   Jean-Marie,Lambert   François-Michel,1,1
+Sermier   Jean-Marie,Potier   Dominique,1,1
+Sermier   Jean-Marie,Rabault   Valérie,1,1
+Sermier   Jean-Marie,Boyer   Pascale,0,1
+Sermier   Jean-Marie,Bagarry   Delphine,1,1
+Sermier   Jean-Marie,Zulesi   Jean-Marc,0,1
+Sermier   Jean-Marie,Le Feur   Sandrine,0,1
+Sermier   Jean-Marie,Cazeneuve   Jean-René,0,1
+Sermier   Jean-Marie,Prud'homme   Loïc,1,1
+Sermier   Jean-Marie,Simian   Benoit,0,1
+Sermier   Jean-Marie,Ménard   Emmanuelle,1,1
+Sermier   Jean-Marie,Couillard   Bérangère,0,1
+Sermier   Jean-Marie,Maillart-Méhaignerie   Laurence,0,1
+Sermier   Jean-Marie,Démoulin   Nicolas,0,1
+Sermier   Jean-Marie,Mis   Jean-Michel,0,1
+Sermier   Jean-Marie,Sarles   Nathalie,0,1
+Sermier   Jean-Marie,Girardin   Éric,0,1
+Sermier   Jean-Marie,Cariou   Émilie,0,1
+Sermier   Jean-Marie,Di Filippo   Fabien,1,1
+Sermier   Jean-Marie,Trisse   Nicole,0,1
+Sermier   Jean-Marie,Duvergé   Bruno,0,1
+Sermier   Jean-Marie,Gayte   Laurence,0,1
+Sermier   Jean-Marie,Park   Zivka,0,1
+Sermier   Jean-Marie,Coquerel   Éric,1,1
+Sermier   Jean-Marie,Gaillot   Albane,0,1
+Sermier   Jean-Marie,Pichereau   Damien,0,1
+Sermier   Jean-Marie,Riotton   Véronique,0,1
+Sermier   Jean-Marie,Lenne   Marion,0,1
+Sermier   Jean-Marie,Rossi   Laurianne,0,1
+Sermier   Jean-Marie,Morenas   Adrien,0,1
+Sermier   Jean-Marie,Wulfranc   Hubert,1,1
+Sermier   Jean-Marie,Leclabart   Jean-Claude,0,1
+Sermier   Jean-Marie,Rudigoz   Thomas,0,1
+Sermier   Jean-Marie,Thiébaut   Vincent,0,1
+Sermier   Jean-Marie,Fugit   Jean-Luc,0,1
+Sermier   Jean-Marie,Ali   Ramlati,0,1
+Lecoq   Jean-Paul,Pinel   Sylvia,1,1
+Lecoq   Jean-Paul,Lambert   François-Michel,1,1
+Lecoq   Jean-Paul,Potier   Dominique,1,1
+Lecoq   Jean-Paul,Rabault   Valérie,1,1
+Lecoq   Jean-Paul,Boyer   Pascale,0,1
+Lecoq   Jean-Paul,Bagarry   Delphine,1,1
+Lecoq   Jean-Paul,Zulesi   Jean-Marc,0,1
+Lecoq   Jean-Paul,Le Feur   Sandrine,0,1
+Lecoq   Jean-Paul,Cazeneuve   Jean-René,0,1
+Lecoq   Jean-Paul,Prud'homme   Loïc,1,1
+Lecoq   Jean-Paul,Simian   Benoit,0,1
+Lecoq   Jean-Paul,Ménard   Emmanuelle,1,1
+Lecoq   Jean-Paul,Couillard   Bérangère,0,1
+Lecoq   Jean-Paul,Maillart-Méhaignerie   Laurence,0,1
+Lecoq   Jean-Paul,Démoulin   Nicolas,0,1
+Lecoq   Jean-Paul,Mis   Jean-Michel,0,1
+Lecoq   Jean-Paul,Sarles   Nathalie,0,1
+Lecoq   Jean-Paul,Girardin   Éric,0,1
+Lecoq   Jean-Paul,Cariou   Émilie,0,1
+Lecoq   Jean-Paul,Di Filippo   Fabien,1,1
+Lecoq   Jean-Paul,Trisse   Nicole,0,1
+Lecoq   Jean-Paul,Duvergé   Bruno,0,1
+Lecoq   Jean-Paul,Gayte   Laurence,0,1
+Lecoq   Jean-Paul,Park   Zivka,0,1
+Lecoq   Jean-Paul,Coquerel   Éric,1,1
+Lecoq   Jean-Paul,Gaillot   Albane,0,1
+Lecoq   Jean-Paul,Pichereau   Damien,0,1
+Lecoq   Jean-Paul,Riotton   Véronique,0,1
+Lecoq   Jean-Paul,Lenne   Marion,0,1
+Lecoq   Jean-Paul,Rossi   Laurianne,0,1
+Lecoq   Jean-Paul,Morenas   Adrien,0,1
+Lecoq   Jean-Paul,Wulfranc   Hubert,1,1
+Lecoq   Jean-Paul,Leclabart   Jean-Claude,0,1
+Lecoq   Jean-Paul,Rudigoz   Thomas,0,1
+Lecoq   Jean-Paul,Thiébaut   Vincent,0,1
+Lecoq   Jean-Paul,Fugit   Jean-Luc,0,1
+Lecoq   Jean-Paul,Ali   Ramlati,0,1
+Pinel   Sylvia,Lambert   François-Michel,1,1
+Pinel   Sylvia,Potier   Dominique,1,1
+Pinel   Sylvia,Rabault   Valérie,1,1
+Pinel   Sylvia,Boyer   Pascale,0,1
+Pinel   Sylvia,Bagarry   Delphine,1,1
+Pinel   Sylvia,Zulesi   Jean-Marc,0,1
+Pinel   Sylvia,Le Feur   Sandrine,0,1
+Pinel   Sylvia,Cazeneuve   Jean-René,0,1
+Pinel   Sylvia,Prud'homme   Loïc,1,1
+Pinel   Sylvia,Simian   Benoit,0,1
+Pinel   Sylvia,Ménard   Emmanuelle,1,1
+Pinel   Sylvia,Couillard   Bérangère,0,1
+Pinel   Sylvia,Maillart-Méhaignerie   Laurence,0,1
+Pinel   Sylvia,Démoulin   Nicolas,0,1
+Pinel   Sylvia,Mis   Jean-Michel,0,1
+Pinel   Sylvia,Sarles   Nathalie,0,1
+Pinel   Sylvia,Girardin   Éric,0,1
+Pinel   Sylvia,Cariou   Émilie,0,1
+Pinel   Sylvia,Di Filippo   Fabien,1,1
+Pinel   Sylvia,Trisse   Nicole,0,1
+Pinel   Sylvia,Duvergé   Bruno,0,1
+Pinel   Sylvia,Gayte   Laurence,0,1
+Pinel   Sylvia,Park   Zivka,0,1
+Pinel   Sylvia,Coquerel   Éric,1,1
+Pinel   Sylvia,Gaillot   Albane,0,1
+Pinel   Sylvia,Pichereau   Damien,0,1
+Pinel   Sylvia,Riotton   Véronique,0,1
+Pinel   Sylvia,Lenne   Marion,0,1
+Pinel   Sylvia,Rossi   Laurianne,0,1
+Pinel   Sylvia,Morenas   Adrien,0,1
+Pinel   Sylvia,Wulfranc   Hubert,1,1
+Pinel   Sylvia,Leclabart   Jean-Claude,0,1
+Pinel   Sylvia,Rudigoz   Thomas,0,1
+Pinel   Sylvia,Thiébaut   Vincent,0,1
+Pinel   Sylvia,Fugit   Jean-Luc,0,1
+Pinel   Sylvia,Ali   Ramlati,0,1
+Lambert   François-Michel,Potier   Dominique,1,1
+Lambert   François-Michel,Rabault   Valérie,1,1
+Lambert   François-Michel,Boyer   Pascale,0,1
+Lambert   François-Michel,Bagarry   Delphine,1,1
+Lambert   François-Michel,Zulesi   Jean-Marc,0,1
+Lambert   François-Michel,Le Feur   Sandrine,0,1
+Lambert   François-Michel,Cazeneuve   Jean-René,0,1
+Lambert   François-Michel,Prud'homme   Loïc,1,1
+Lambert   François-Michel,Simian   Benoit,0,1
+Lambert   François-Michel,Ménard   Emmanuelle,1,1
+Lambert   François-Michel,Couillard   Bérangère,0,1
+Lambert   François-Michel,Maillart-Méhaignerie   Laurence,0,1
+Lambert   François-Michel,Démoulin   Nicolas,0,1
+Lambert   François-Michel,Mis   Jean-Michel,0,1
+Lambert   François-Michel,Sarles   Nathalie,0,1
+Lambert   François-Michel,Girardin   Éric,0,1
+Lambert   François-Michel,Cariou   Émilie,0,1
+Lambert   François-Michel,Di Filippo   Fabien,1,1
+Lambert   François-Michel,Trisse   Nicole,0,1
+Lambert   François-Michel,Duvergé   Bruno,0,1
+Lambert   François-Michel,Gayte   Laurence,0,1
+Lambert   François-Michel,Park   Zivka,0,1
+Lambert   François-Michel,Coquerel   Éric,1,1
+Lambert   François-Michel,Gaillot   Albane,0,1
+Lambert   François-Michel,Pichereau   Damien,0,1
+Lambert   François-Michel,Riotton   Véronique,0,1
+Lambert   François-Michel,Lenne   Marion,0,1
+Lambert   François-Michel,Rossi   Laurianne,0,1
+Lambert   François-Michel,Morenas   Adrien,0,1
+Lambert   François-Michel,Wulfranc   Hubert,1,1
+Lambert   François-Michel,Leclabart   Jean-Claude,0,1
+Lambert   François-Michel,Rudigoz   Thomas,0,1
+Lambert   François-Michel,Thiébaut   Vincent,0,1
+Lambert   François-Michel,Fugit   Jean-Luc,0,1
+Lambert   François-Michel,Ali   Ramlati,0,1
+Potier   Dominique,Rabault   Valérie,1,1
+Potier   Dominique,Boyer   Pascale,0,1
+Potier   Dominique,Bagarry   Delphine,1,1
+Potier   Dominique,Zulesi   Jean-Marc,0,1
+Potier   Dominique,Le Feur   Sandrine,0,1
+Potier   Dominique,Cazeneuve   Jean-René,0,1
+Potier   Dominique,Prud'homme   Loïc,1,1
+Potier   Dominique,Simian   Benoit,0,1
+Potier   Dominique,Ménard   Emmanuelle,1,1
+Potier   Dominique,Couillard   Bérangère,0,1
+Potier   Dominique,Maillart-Méhaignerie   Laurence,0,1
+Potier   Dominique,Démoulin   Nicolas,0,1
+Potier   Dominique,Mis   Jean-Michel,0,1
+Potier   Dominique,Sarles   Nathalie,0,1
+Potier   Dominique,Girardin   Éric,0,1
+Potier   Dominique,Cariou   Émilie,0,1
+Potier   Dominique,Di Filippo   Fabien,1,1
+Potier   Dominique,Trisse   Nicole,0,1
+Potier   Dominique,Duvergé   Bruno,0,1
+Potier   Dominique,Gayte   Laurence,0,1
+Potier   Dominique,Park   Zivka,0,1
+Potier   Dominique,Coquerel   Éric,1,1
+Potier   Dominique,Gaillot   Albane,0,1
+Potier   Dominique,Pichereau   Damien,0,1
+Potier   Dominique,Riotton   Véronique,0,1
+Potier   Dominique,Lenne   Marion,0,1
+Potier   Dominique,Rossi   Laurianne,0,1
+Potier   Dominique,Morenas   Adrien,0,1
+Potier   Dominique,Wulfranc   Hubert,1,1
+Potier   Dominique,Leclabart   Jean-Claude,0,1
+Potier   Dominique,Rudigoz   Thomas,0,1
+Potier   Dominique,Thiébaut   Vincent,0,1
+Potier   Dominique,Fugit   Jean-Luc,0,1
+Potier   Dominique,Ali   Ramlati,0,1
+Rabault   Valérie,Boyer   Pascale,0,1
+Rabault   Valérie,Bagarry   Delphine,1,1
+Rabault   Valérie,Zulesi   Jean-Marc,0,1
+Rabault   Valérie,Le Feur   Sandrine,0,1
+Rabault   Valérie,Cazeneuve   Jean-René,0,1
+Rabault   Valérie,Prud'homme   Loïc,1,1
+Rabault   Valérie,Simian   Benoit,0,1
+Rabault   Valérie,Ménard   Emmanuelle,1,1
+Rabault   Valérie,Couillard   Bérangère,0,1
+Rabault   Valérie,Maillart-Méhaignerie   Laurence,0,1
+Rabault   Valérie,Démoulin   Nicolas,0,1
+Rabault   Valérie,Mis   Jean-Michel,0,1
+Rabault   Valérie,Sarles   Nathalie,0,1
+Rabault   Valérie,Girardin   Éric,0,1
+Rabault   Valérie,Cariou   Émilie,0,1
+Rabault   Valérie,Di Filippo   Fabien,1,1
+Rabault   Valérie,Trisse   Nicole,0,1
+Rabault   Valérie,Duvergé   Bruno,0,1
+Rabault   Valérie,Gayte   Laurence,0,1
+Rabault   Valérie,Park   Zivka,0,1
+Rabault   Valérie,Coquerel   Éric,1,1
+Rabault   Valérie,Gaillot   Albane,0,1
+Rabault   Valérie,Pichereau   Damien,0,1
+Rabault   Valérie,Riotton   Véronique,0,1
+Rabault   Valérie,Lenne   Marion,0,1
+Rabault   Valérie,Rossi   Laurianne,0,1
+Rabault   Valérie,Morenas   Adrien,0,1
+Rabault   Valérie,Wulfranc   Hubert,1,1
+Rabault   Valérie,Leclabart   Jean-Claude,0,1
+Rabault   Valérie,Rudigoz   Thomas,0,1
+Rabault   Valérie,Thiébaut   Vincent,0,1
+Rabault   Valérie,Fugit   Jean-Luc,0,1
+Rabault   Valérie,Ali   Ramlati,0,1
+Boyer   Pascale,Bagarry   Delphine,0,1
+Boyer   Pascale,Zulesi   Jean-Marc,1,1
+Boyer   Pascale,Le Feur   Sandrine,1,1
+Boyer   Pascale,Cazeneuve   Jean-René,1,1
+Boyer   Pascale,Prud'homme   Loïc,0,1
+Boyer   Pascale,Simian   Benoit,1,1
+Boyer   Pascale,Ménard   Emmanuelle,0,1
+Boyer   Pascale,Couillard   Bérangère,1,1
+Boyer   Pascale,Maillart-Méhaignerie   Laurence,1,1
+Boyer   Pascale,Démoulin   Nicolas,1,1
+Boyer   Pascale,Mis   Jean-Michel,1,1
+Boyer   Pascale,Sarles   Nathalie,1,1
+Boyer   Pascale,Girardin   Éric,1,1
+Boyer   Pascale,Cariou   Émilie,1,1
+Boyer   Pascale,Di Filippo   Fabien,0,1
+Boyer   Pascale,Trisse   Nicole,1,1
+Boyer   Pascale,Duvergé   Bruno,1,1
+Boyer   Pascale,Gayte   Laurence,1,1
+Boyer   Pascale,Park   Zivka,1,1
+Boyer   Pascale,Coquerel   Éric,0,1
+Boyer   Pascale,Gaillot   Albane,1,1
+Boyer   Pascale,Pichereau   Damien,1,1
+Boyer   Pascale,Riotton   Véronique,1,1
+Boyer   Pascale,Lenne   Marion,1,1
+Boyer   Pascale,Rossi   Laurianne,1,1
+Boyer   Pascale,Morenas   Adrien,1,1
+Boyer   Pascale,Wulfranc   Hubert,0,1
+Boyer   Pascale,Leclabart   Jean-Claude,1,1
+Boyer   Pascale,Rudigoz   Thomas,1,1
+Boyer   Pascale,Thiébaut   Vincent,1,1
+Boyer   Pascale,Fugit   Jean-Luc,1,1
+Boyer   Pascale,Ali   Ramlati,1,1
+Bagarry   Delphine,Zulesi   Jean-Marc,0,1
+Bagarry   Delphine,Le Feur   Sandrine,0,1
+Bagarry   Delphine,Cazeneuve   Jean-René,0,1
+Bagarry   Delphine,Prud'homme   Loïc,1,1
+Bagarry   Delphine,Simian   Benoit,0,1
+Bagarry   Delphine,Ménard   Emmanuelle,1,1
+Bagarry   Delphine,Couillard   Bérangère,0,1
+Bagarry   Delphine,Maillart-Méhaignerie   Laurence,0,1
+Bagarry   Delphine,Démoulin   Nicolas,0,1
+Bagarry   Delphine,Mis   Jean-Michel,0,1
+Bagarry   Delphine,Sarles   Nathalie,0,1
+Bagarry   Delphine,Girardin   Éric,0,1
+Bagarry   Delphine,Cariou   Émilie,0,1
+Bagarry   Delphine,Di Filippo   Fabien,1,1
+Bagarry   Delphine,Trisse   Nicole,0,1
+Bagarry   Delphine,Duvergé   Bruno,0,1
+Bagarry   Delphine,Gayte   Laurence,0,1
+Bagarry   Delphine,Park   Zivka,0,1
+Bagarry   Delphine,Coquerel   Éric,1,1
+Bagarry   Delphine,Gaillot   Albane,0,1
+Bagarry   Delphine,Pichereau   Damien,0,1
+Bagarry   Delphine,Riotton   Véronique,0,1
+Bagarry   Delphine,Lenne   Marion,0,1
+Bagarry   Delphine,Rossi   Laurianne,0,1
+Bagarry   Delphine,Morenas   Adrien,0,1
+Bagarry   Delphine,Wulfranc   Hubert,1,1
+Bagarry   Delphine,Leclabart   Jean-Claude,0,1
+Bagarry   Delphine,Rudigoz   Thomas,0,1
+Bagarry   Delphine,Thiébaut   Vincent,0,1
+Bagarry   Delphine,Fugit   Jean-Luc,0,1
+Bagarry   Delphine,Ali   Ramlati,0,1
+Zulesi   Jean-Marc,Le Feur   Sandrine,1,1
+Zulesi   Jean-Marc,Cazeneuve   Jean-René,1,1
+Zulesi   Jean-Marc,Prud'homme   Loïc,0,1
+Zulesi   Jean-Marc,Simian   Benoit,1,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,0,1
+Zulesi   Jean-Marc,Couillard   Bérangère,1,1
+Zulesi   Jean-Marc,Maillart-Méhaignerie   Laurence,1,1
+Zulesi   Jean-Marc,Démoulin   Nicolas,1,1
+Zulesi   Jean-Marc,Mis   Jean-Michel,1,1
+Zulesi   Jean-Marc,Sarles   Nathalie,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,Cariou   Émilie,1,1
+Zulesi   Jean-Marc,Di Filippo   Fabien,0,1
+Zulesi   Jean-Marc,Trisse   Nicole,1,1
+Zulesi   Jean-Marc,Duvergé   Bruno,1,1
+Zulesi   Jean-Marc,Gayte   Laurence,1,1
+Zulesi   Jean-Marc,Park   Zivka,1,1
+Zulesi   Jean-Marc,Coquerel   Éric,0,1
+Zulesi   Jean-Marc,Gaillot   Albane,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Lenne   Marion,1,1
+Zulesi   Jean-Marc,Rossi   Laurianne,1,1
+Zulesi   Jean-Marc,Morenas   Adrien,1,1
+Zulesi   Jean-Marc,Wulfranc   Hubert,0,1
+Zulesi   Jean-Marc,Leclabart   Jean-Claude,1,1
+Zulesi   Jean-Marc,Rudigoz   Thomas,1,1
+Zulesi   Jean-Marc,Thiébaut   Vincent,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,Ali   Ramlati,1,1
+Le Feur   Sandrine,Cazeneuve   Jean-René,1,1
+Le Feur   Sandrine,Prud'homme   Loïc,0,1
+Le Feur   Sandrine,Simian   Benoit,1,1
+Le Feur   Sandrine,Ménard   Emmanuelle,0,1
+Le Feur   Sandrine,Couillard   Bérangère,1,1
+Le Feur   Sandrine,Maillart-Méhaignerie   Laurence,1,1
+Le Feur   Sandrine,Démoulin   Nicolas,1,1
+Le Feur   Sandrine,Mis   Jean-Michel,1,1
+Le Feur   Sandrine,Sarles   Nathalie,1,1
+Le Feur   Sandrine,Girardin   Éric,1,1
+Le Feur   Sandrine,Cariou   Émilie,1,1
+Le Feur   Sandrine,Di Filippo   Fabien,0,1
+Le Feur   Sandrine,Trisse   Nicole,1,1
+Le Feur   Sandrine,Duvergé   Bruno,1,1
+Le Feur   Sandrine,Gayte   Laurence,1,1
+Le Feur   Sandrine,Park   Zivka,1,1
+Le Feur   Sandrine,Coquerel   Éric,0,1
+Le Feur   Sandrine,Gaillot   Albane,1,1
+Le Feur   Sandrine,Pichereau   Damien,1,1
+Le Feur   Sandrine,Riotton   Véronique,1,1
+Le Feur   Sandrine,Lenne   Marion,1,1
+Le Feur   Sandrine,Rossi   Laurianne,1,1
+Le Feur   Sandrine,Morenas   Adrien,1,1
+Le Feur   Sandrine,Wulfranc   Hubert,0,1
+Le Feur   Sandrine,Leclabart   Jean-Claude,1,1
+Le Feur   Sandrine,Rudigoz   Thomas,1,1
+Le Feur   Sandrine,Thiébaut   Vincent,1,1
+Le Feur   Sandrine,Fugit   Jean-Luc,1,1
+Le Feur   Sandrine,Ali   Ramlati,1,1
+Cazeneuve   Jean-René,Prud'homme   Loïc,0,1
+Cazeneuve   Jean-René,Simian   Benoit,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,Couillard   Bérangère,1,1
+Cazeneuve   Jean-René,Maillart-Méhaignerie   Laurence,1,1
+Cazeneuve   Jean-René,Démoulin   Nicolas,1,1
+Cazeneuve   Jean-René,Mis   Jean-Michel,1,1
+Cazeneuve   Jean-René,Sarles   Nathalie,1,1
+Cazeneuve   Jean-René,Girardin   Éric,1,1
+Cazeneuve   Jean-René,Cariou   Émilie,1,1
+Cazeneuve   Jean-René,Di Filippo   Fabien,0,1
+Cazeneuve   Jean-René,Trisse   Nicole,1,1
+Cazeneuve   Jean-René,Duvergé   Bruno,1,1
+Cazeneuve   Jean-René,Gayte   Laurence,1,1
+Cazeneuve   Jean-René,Park   Zivka,1,1
+Cazeneuve   Jean-René,Coquerel   Éric,0,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Pichereau   Damien,1,1
+Cazeneuve   Jean-René,Riotton   Véronique,1,1
+Cazeneuve   Jean-René,Lenne   Marion,1,1
+Cazeneuve   Jean-René,Rossi   Laurianne,1,1
+Cazeneuve   Jean-René,Morenas   Adrien,1,1
+Cazeneuve   Jean-René,Wulfranc   Hubert,0,1
+Cazeneuve   Jean-René,Leclabart   Jean-Claude,1,1
+Cazeneuve   Jean-René,Rudigoz   Thomas,1,1
+Cazeneuve   Jean-René,Thiébaut   Vincent,1,1
+Cazeneuve   Jean-René,Fugit   Jean-Luc,1,1
+Cazeneuve   Jean-René,Ali   Ramlati,1,1
+Prud'homme   Loïc,Simian   Benoit,0,1
+Prud'homme   Loïc,Ménard   Emmanuelle,1,1
+Prud'homme   Loïc,Couillard   Bérangère,0,1
+Prud'homme   Loïc,Maillart-Méhaignerie   Laurence,0,1
+Prud'homme   Loïc,Démoulin   Nicolas,0,1
+Prud'homme   Loïc,Mis   Jean-Michel,0,1
+Prud'homme   Loïc,Sarles   Nathalie,0,1
+Prud'homme   Loïc,Girardin   Éric,0,1
+Prud'homme   Loïc,Cariou   Émilie,0,1
+Prud'homme   Loïc,Di Filippo   Fabien,1,1
+Prud'homme   Loïc,Trisse   Nicole,0,1
+Prud'homme   Loïc,Duvergé   Bruno,0,1
+Prud'homme   Loïc,Gayte   Laurence,0,1
+Prud'homme   Loïc,Park   Zivka,0,1
+Prud'homme   Loïc,Coquerel   Éric,1,1
+Prud'homme   Loïc,Gaillot   Albane,0,1
+Prud'homme   Loïc,Pichereau   Damien,0,1
+Prud'homme   Loïc,Riotton   Véronique,0,1
+Prud'homme   Loïc,Lenne   Marion,0,1
+Prud'homme   Loïc,Rossi   Laurianne,0,1
+Prud'homme   Loïc,Morenas   Adrien,0,1
+Prud'homme   Loïc,Wulfranc   Hubert,1,1
+Prud'homme   Loïc,Leclabart   Jean-Claude,0,1
+Prud'homme   Loïc,Rudigoz   Thomas,0,1
+Prud'homme   Loïc,Thiébaut   Vincent,0,1
+Prud'homme   Loïc,Fugit   Jean-Luc,0,1
+Prud'homme   Loïc,Ali   Ramlati,0,1
+Simian   Benoit,Ménard   Emmanuelle,0,1
+Simian   Benoit,Couillard   Bérangère,1,1
+Simian   Benoit,Maillart-Méhaignerie   Laurence,1,1
+Simian   Benoit,Démoulin   Nicolas,1,1
+Simian   Benoit,Mis   Jean-Michel,1,1
+Simian   Benoit,Sarles   Nathalie,1,1
+Simian   Benoit,Girardin   Éric,1,1
+Simian   Benoit,Cariou   Émilie,1,1
+Simian   Benoit,Di Filippo   Fabien,0,1
+Simian   Benoit,Trisse   Nicole,1,1
+Simian   Benoit,Duvergé   Bruno,1,1
+Simian   Benoit,Gayte   Laurence,1,1
+Simian   Benoit,Park   Zivka,1,1
+Simian   Benoit,Coquerel   Éric,0,1
+Simian   Benoit,Gaillot   Albane,1,1
+Simian   Benoit,Pichereau   Damien,1,1
+Simian   Benoit,Riotton   Véronique,1,1
+Simian   Benoit,Lenne   Marion,1,1
+Simian   Benoit,Rossi   Laurianne,1,1
+Simian   Benoit,Morenas   Adrien,1,1
+Simian   Benoit,Wulfranc   Hubert,0,1
+Simian   Benoit,Leclabart   Jean-Claude,1,1
+Simian   Benoit,Rudigoz   Thomas,1,1
+Simian   Benoit,Thiébaut   Vincent,1,1
+Simian   Benoit,Fugit   Jean-Luc,1,1
+Simian   Benoit,Ali   Ramlati,1,1
+Ménard   Emmanuelle,Couillard   Bérangère,0,1
+Ménard   Emmanuelle,Maillart-Méhaignerie   Laurence,0,1
+Ménard   Emmanuelle,Démoulin   Nicolas,0,1
+Ménard   Emmanuelle,Mis   Jean-Michel,0,1
+Ménard   Emmanuelle,Sarles   Nathalie,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Cariou   Émilie,0,1
+Ménard   Emmanuelle,Di Filippo   Fabien,1,1
+Ménard   Emmanuelle,Trisse   Nicole,0,1
+Ménard   Emmanuelle,Duvergé   Bruno,0,1
+Ménard   Emmanuelle,Gayte   Laurence,0,1
+Ménard   Emmanuelle,Park   Zivka,0,1
+Ménard   Emmanuelle,Coquerel   Éric,1,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Pichereau   Damien,0,1
+Ménard   Emmanuelle,Riotton   Véronique,0,1
+Ménard   Emmanuelle,Lenne   Marion,0,1
+Ménard   Emmanuelle,Rossi   Laurianne,0,1
+Ménard   Emmanuelle,Morenas   Adrien,0,1
+Ménard   Emmanuelle,Wulfranc   Hubert,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,0,1
+Ménard   Emmanuelle,Rudigoz   Thomas,0,1
+Ménard   Emmanuelle,Thiébaut   Vincent,0,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,0,1
+Ménard   Emmanuelle,Ali   Ramlati,0,1
+Couillard   Bérangère,Maillart-Méhaignerie   Laurence,1,1
+Couillard   Bérangère,Démoulin   Nicolas,1,1
+Couillard   Bérangère,Mis   Jean-Michel,1,1
+Couillard   Bérangère,Sarles   Nathalie,1,1
+Couillard   Bérangère,Girardin   Éric,1,1
+Couillard   Bérangère,Cariou   Émilie,1,1
+Couillard   Bérangère,Di Filippo   Fabien,0,1
+Couillard   Bérangère,Trisse   Nicole,1,1
+Couillard   Bérangère,Duvergé   Bruno,1,1
+Couillard   Bérangère,Gayte   Laurence,1,1
+Couillard   Bérangère,Park   Zivka,1,1
+Couillard   Bérangère,Coquerel   Éric,0,1
+Couillard   Bérangère,Gaillot   Albane,1,1
+Couillard   Bérangère,Pichereau   Damien,1,1
+Couillard   Bérangère,Riotton   Véronique,1,1
+Couillard   Bérangère,Lenne   Marion,1,1
+Couillard   Bérangère,Rossi   Laurianne,1,1
+Couillard   Bérangère,Morenas   Adrien,1,1
+Couillard   Bérangère,Wulfranc   Hubert,0,1
+Couillard   Bérangère,Leclabart   Jean-Claude,1,1
+Couillard   Bérangère,Rudigoz   Thomas,1,1
+Couillard   Bérangère,Thiébaut   Vincent,1,1
+Couillard   Bérangère,Fugit   Jean-Luc,1,1
+Couillard   Bérangère,Ali   Ramlati,1,1
+Maillart-Méhaignerie   Laurence,Démoulin   Nicolas,1,1
+Maillart-Méhaignerie   Laurence,Mis   Jean-Michel,1,1
+Maillart-Méhaignerie   Laurence,Sarles   Nathalie,1,1
+Maillart-Méhaignerie   Laurence,Girardin   Éric,1,1
+Maillart-Méhaignerie   Laurence,Cariou   Émilie,1,1
+Maillart-Méhaignerie   Laurence,Di Filippo   Fabien,0,1
+Maillart-Méhaignerie   Laurence,Trisse   Nicole,1,1
+Maillart-Méhaignerie   Laurence,Duvergé   Bruno,1,1
+Maillart-Méhaignerie   Laurence,Gayte   Laurence,1,1
+Maillart-Méhaignerie   Laurence,Park   Zivka,1,1
+Maillart-Méhaignerie   Laurence,Coquerel   Éric,0,1
+Maillart-Méhaignerie   Laurence,Gaillot   Albane,1,1
+Maillart-Méhaignerie   Laurence,Pichereau   Damien,1,1
+Maillart-Méhaignerie   Laurence,Riotton   Véronique,1,1
+Maillart-Méhaignerie   Laurence,Lenne   Marion,1,1
+Maillart-Méhaignerie   Laurence,Rossi   Laurianne,1,1
+Maillart-Méhaignerie   Laurence,Morenas   Adrien,1,1
+Maillart-Méhaignerie   Laurence,Wulfranc   Hubert,0,1
+Maillart-Méhaignerie   Laurence,Leclabart   Jean-Claude,1,1
+Maillart-Méhaignerie   Laurence,Rudigoz   Thomas,1,1
+Maillart-Méhaignerie   Laurence,Thiébaut   Vincent,1,1
+Maillart-Méhaignerie   Laurence,Fugit   Jean-Luc,1,1
+Maillart-Méhaignerie   Laurence,Ali   Ramlati,1,1
+Démoulin   Nicolas,Mis   Jean-Michel,1,1
+Démoulin   Nicolas,Sarles   Nathalie,1,1
+Démoulin   Nicolas,Girardin   Éric,1,1
+Démoulin   Nicolas,Cariou   Émilie,1,1
+Démoulin   Nicolas,Di Filippo   Fabien,0,1
+Démoulin   Nicolas,Trisse   Nicole,1,1
+Démoulin   Nicolas,Duvergé   Bruno,1,1
+Démoulin   Nicolas,Gayte   Laurence,1,1
+Démoulin   Nicolas,Park   Zivka,1,1
+Démoulin   Nicolas,Coquerel   Éric,0,1
+Démoulin   Nicolas,Gaillot   Albane,1,1
+Démoulin   Nicolas,Pichereau   Damien,1,1
+Démoulin   Nicolas,Riotton   Véronique,1,1
+Démoulin   Nicolas,Lenne   Marion,1,1
+Démoulin   Nicolas,Rossi   Laurianne,1,1
+Démoulin   Nicolas,Morenas   Adrien,1,1
+Démoulin   Nicolas,Wulfranc   Hubert,0,1
+Démoulin   Nicolas,Leclabart   Jean-Claude,1,1
+Démoulin   Nicolas,Rudigoz   Thomas,1,1
+Démoulin   Nicolas,Thiébaut   Vincent,1,1
+Démoulin   Nicolas,Fugit   Jean-Luc,1,1
+Démoulin   Nicolas,Ali   Ramlati,1,1
+Mis   Jean-Michel,Sarles   Nathalie,1,1
+Mis   Jean-Michel,Girardin   Éric,1,1
+Mis   Jean-Michel,Cariou   Émilie,1,1
+Mis   Jean-Michel,Di Filippo   Fabien,0,1
+Mis   Jean-Michel,Trisse   Nicole,1,1
+Mis   Jean-Michel,Duvergé   Bruno,1,1
+Mis   Jean-Michel,Gayte   Laurence,1,1
+Mis   Jean-Michel,Park   Zivka,1,1
+Mis   Jean-Michel,Coquerel   Éric,0,1
+Mis   Jean-Michel,Gaillot   Albane,1,1
+Mis   Jean-Michel,Pichereau   Damien,1,1
+Mis   Jean-Michel,Riotton   Véronique,1,1
+Mis   Jean-Michel,Lenne   Marion,1,1
+Mis   Jean-Michel,Rossi   Laurianne,1,1
+Mis   Jean-Michel,Morenas   Adrien,1,1
+Mis   Jean-Michel,Wulfranc   Hubert,0,1
+Mis   Jean-Michel,Leclabart   Jean-Claude,1,1
+Mis   Jean-Michel,Rudigoz   Thomas,1,1
+Mis   Jean-Michel,Thiébaut   Vincent,1,1
+Mis   Jean-Michel,Fugit   Jean-Luc,1,1
+Mis   Jean-Michel,Ali   Ramlati,1,1
+Sarles   Nathalie,Girardin   Éric,1,1
+Sarles   Nathalie,Cariou   Émilie,1,1
+Sarles   Nathalie,Di Filippo   Fabien,0,1
+Sarles   Nathalie,Trisse   Nicole,1,1
+Sarles   Nathalie,Duvergé   Bruno,1,1
+Sarles   Nathalie,Gayte   Laurence,1,1
+Sarles   Nathalie,Park   Zivka,1,1
+Sarles   Nathalie,Coquerel   Éric,0,1
+Sarles   Nathalie,Gaillot   Albane,1,1
+Sarles   Nathalie,Pichereau   Damien,1,1
+Sarles   Nathalie,Riotton   Véronique,1,1
+Sarles   Nathalie,Lenne   Marion,1,1
+Sarles   Nathalie,Rossi   Laurianne,1,1
+Sarles   Nathalie,Morenas   Adrien,1,1
+Sarles   Nathalie,Wulfranc   Hubert,0,1
+Sarles   Nathalie,Leclabart   Jean-Claude,1,1
+Sarles   Nathalie,Rudigoz   Thomas,1,1
+Sarles   Nathalie,Thiébaut   Vincent,1,1
+Sarles   Nathalie,Fugit   Jean-Luc,1,1
+Sarles   Nathalie,Ali   Ramlati,1,1
+Girardin   Éric,Cariou   Émilie,1,1
+Girardin   Éric,Di Filippo   Fabien,0,1
+Girardin   Éric,Trisse   Nicole,1,1
+Girardin   Éric,Duvergé   Bruno,1,1
+Girardin   Éric,Gayte   Laurence,1,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Coquerel   Éric,0,1
+Girardin   Éric,Gaillot   Albane,1,1
+Girardin   Éric,Pichereau   Damien,1,1
+Girardin   Éric,Riotton   Véronique,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Rossi   Laurianne,1,1
+Girardin   Éric,Morenas   Adrien,1,1
+Girardin   Éric,Wulfranc   Hubert,0,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Rudigoz   Thomas,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Girardin   Éric,Ali   Ramlati,1,1
+Cariou   Émilie,Di Filippo   Fabien,0,1
+Cariou   Émilie,Trisse   Nicole,1,1
+Cariou   Émilie,Duvergé   Bruno,1,1
+Cariou   Émilie,Gayte   Laurence,1,1
+Cariou   Émilie,Park   Zivka,1,1
+Cariou   Émilie,Coquerel   Éric,0,1
+Cariou   Émilie,Gaillot   Albane,1,1
+Cariou   Émilie,Pichereau   Damien,1,1
+Cariou   Émilie,Riotton   Véronique,1,1
+Cariou   Émilie,Lenne   Marion,1,1
+Cariou   Émilie,Rossi   Laurianne,1,1
+Cariou   Émilie,Morenas   Adrien,1,1
+Cariou   Émilie,Wulfranc   Hubert,0,1
+Cariou   Émilie,Leclabart   Jean-Claude,1,1
+Cariou   Émilie,Rudigoz   Thomas,1,1
+Cariou   Émilie,Thiébaut   Vincent,1,1
+Cariou   Émilie,Fugit   Jean-Luc,1,1
+Cariou   Émilie,Ali   Ramlati,1,1
+Di Filippo   Fabien,Trisse   Nicole,0,1
+Di Filippo   Fabien,Duvergé   Bruno,0,1
+Di Filippo   Fabien,Gayte   Laurence,0,1
+Di Filippo   Fabien,Park   Zivka,0,1
+Di Filippo   Fabien,Coquerel   Éric,1,1
+Di Filippo   Fabien,Gaillot   Albane,0,1
+Di Filippo   Fabien,Pichereau   Damien,0,1
+Di Filippo   Fabien,Riotton   Véronique,0,1
+Di Filippo   Fabien,Lenne   Marion,0,1
+Di Filippo   Fabien,Rossi   Laurianne,0,1
+Di Filippo   Fabien,Morenas   Adrien,0,1
+Di Filippo   Fabien,Wulfranc   Hubert,1,1
+Di Filippo   Fabien,Leclabart   Jean-Claude,0,1
+Di Filippo   Fabien,Rudigoz   Thomas,0,1
+Di Filippo   Fabien,Thiébaut   Vincent,0,1
+Di Filippo   Fabien,Fugit   Jean-Luc,0,1
+Di Filippo   Fabien,Ali   Ramlati,0,1
+Trisse   Nicole,Duvergé   Bruno,1,1
+Trisse   Nicole,Gayte   Laurence,1,1
+Trisse   Nicole,Park   Zivka,1,1
+Trisse   Nicole,Coquerel   Éric,0,1
+Trisse   Nicole,Gaillot   Albane,1,1
+Trisse   Nicole,Pichereau   Damien,1,1
+Trisse   Nicole,Riotton   Véronique,1,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Rossi   Laurianne,1,1
+Trisse   Nicole,Morenas   Adrien,1,1
+Trisse   Nicole,Wulfranc   Hubert,0,1
+Trisse   Nicole,Leclabart   Jean-Claude,1,1
+Trisse   Nicole,Rudigoz   Thomas,1,1
+Trisse   Nicole,Thiébaut   Vincent,1,1
+Trisse   Nicole,Fugit   Jean-Luc,1,1
+Trisse   Nicole,Ali   Ramlati,1,1
+Duvergé   Bruno,Gayte   Laurence,1,1
+Duvergé   Bruno,Park   Zivka,1,1
+Duvergé   Bruno,Coquerel   Éric,0,1
+Duvergé   Bruno,Gaillot   Albane,1,1
+Duvergé   Bruno,Pichereau   Damien,1,1
+Duvergé   Bruno,Riotton   Véronique,1,1
+Duvergé   Bruno,Lenne   Marion,1,1
+Duvergé   Bruno,Rossi   Laurianne,1,1
+Duvergé   Bruno,Morenas   Adrien,1,1
+Duvergé   Bruno,Wulfranc   Hubert,0,1
+Duvergé   Bruno,Leclabart   Jean-Claude,1,1
+Duvergé   Bruno,Rudigoz   Thomas,1,1
+Duvergé   Bruno,Thiébaut   Vincent,1,1
+Duvergé   Bruno,Fugit   Jean-Luc,1,1
+Duvergé   Bruno,Ali   Ramlati,1,1
+Gayte   Laurence,Park   Zivka,1,1
+Gayte   Laurence,Coquerel   Éric,0,1
+Gayte   Laurence,Gaillot   Albane,1,1
+Gayte   Laurence,Pichereau   Damien,1,1
+Gayte   Laurence,Riotton   Véronique,1,1
+Gayte   Laurence,Lenne   Marion,1,1
+Gayte   Laurence,Rossi   Laurianne,1,1
+Gayte   Laurence,Morenas   Adrien,1,1
+Gayte   Laurence,Wulfranc   Hubert,0,1
+Gayte   Laurence,Leclabart   Jean-Claude,1,1
+Gayte   Laurence,Rudigoz   Thomas,1,1
+Gayte   Laurence,Thiébaut   Vincent,1,1
+Gayte   Laurence,Fugit   Jean-Luc,1,1
+Gayte   Laurence,Ali   Ramlati,1,1
+Park   Zivka,Coquerel   Éric,0,1
+Park   Zivka,Gaillot   Albane,1,1
+Park   Zivka,Pichereau   Damien,1,1
+Park   Zivka,Riotton   Véronique,1,1
+Park   Zivka,Lenne   Marion,1,1
+Park   Zivka,Rossi   Laurianne,1,1
+Park   Zivka,Morenas   Adrien,1,1
+Park   Zivka,Wulfranc   Hubert,0,1
+Park   Zivka,Leclabart   Jean-Claude,1,1
+Park   Zivka,Rudigoz   Thomas,1,1
+Park   Zivka,Thiébaut   Vincent,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Park   Zivka,Ali   Ramlati,1,1
+Coquerel   Éric,Gaillot   Albane,0,1
+Coquerel   Éric,Pichereau   Damien,0,1
+Coquerel   Éric,Riotton   Véronique,0,1
+Coquerel   Éric,Lenne   Marion,0,1
+Coquerel   Éric,Rossi   Laurianne,0,1
+Coquerel   Éric,Morenas   Adrien,0,1
+Coquerel   Éric,Wulfranc   Hubert,1,1
+Coquerel   Éric,Leclabart   Jean-Claude,0,1
+Coquerel   Éric,Rudigoz   Thomas,0,1
+Coquerel   Éric,Thiébaut   Vincent,0,1
+Coquerel   Éric,Fugit   Jean-Luc,0,1
+Coquerel   Éric,Ali   Ramlati,0,1
+Gaillot   Albane,Pichereau   Damien,1,1
+Gaillot   Albane,Riotton   Véronique,1,1
+Gaillot   Albane,Lenne   Marion,1,1
+Gaillot   Albane,Rossi   Laurianne,1,1
+Gaillot   Albane,Morenas   Adrien,1,1
+Gaillot   Albane,Wulfranc   Hubert,0,1
+Gaillot   Albane,Leclabart   Jean-Claude,1,1
+Gaillot   Albane,Rudigoz   Thomas,1,1
+Gaillot   Albane,Thiébaut   Vincent,1,1
+Gaillot   Albane,Fugit   Jean-Luc,1,1
+Gaillot   Albane,Ali   Ramlati,1,1
+Pichereau   Damien,Riotton   Véronique,1,1
+Pichereau   Damien,Lenne   Marion,1,1
+Pichereau   Damien,Rossi   Laurianne,1,1
+Pichereau   Damien,Morenas   Adrien,1,1
+Pichereau   Damien,Wulfranc   Hubert,0,1
+Pichereau   Damien,Leclabart   Jean-Claude,1,1
+Pichereau   Damien,Rudigoz   Thomas,1,1
+Pichereau   Damien,Thiébaut   Vincent,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Ali   Ramlati,1,1
+Riotton   Véronique,Lenne   Marion,1,1
+Riotton   Véronique,Rossi   Laurianne,1,1
+Riotton   Véronique,Morenas   Adrien,1,1
+Riotton   Véronique,Wulfranc   Hubert,0,1
+Riotton   Véronique,Leclabart   Jean-Claude,1,1
+Riotton   Véronique,Rudigoz   Thomas,1,1
+Riotton   Véronique,Thiébaut   Vincent,1,1
+Riotton   Véronique,Fugit   Jean-Luc,1,1
+Riotton   Véronique,Ali   Ramlati,1,1
+Lenne   Marion,Rossi   Laurianne,1,1
+Lenne   Marion,Morenas   Adrien,1,1
+Lenne   Marion,Wulfranc   Hubert,0,1
+Lenne   Marion,Leclabart   Jean-Claude,1,1
+Lenne   Marion,Rudigoz   Thomas,1,1
+Lenne   Marion,Thiébaut   Vincent,1,1
+Lenne   Marion,Fugit   Jean-Luc,1,1
+Lenne   Marion,Ali   Ramlati,1,1
+Rossi   Laurianne,Morenas   Adrien,1,1
+Rossi   Laurianne,Wulfranc   Hubert,0,1
+Rossi   Laurianne,Leclabart   Jean-Claude,1,1
+Rossi   Laurianne,Rudigoz   Thomas,1,1
+Rossi   Laurianne,Thiébaut   Vincent,1,1
+Rossi   Laurianne,Fugit   Jean-Luc,1,1
+Rossi   Laurianne,Ali   Ramlati,1,1
+Morenas   Adrien,Wulfranc   Hubert,0,1
+Morenas   Adrien,Leclabart   Jean-Claude,1,1
+Morenas   Adrien,Rudigoz   Thomas,1,1
+Morenas   Adrien,Thiébaut   Vincent,1,1
+Morenas   Adrien,Fugit   Jean-Luc,1,1
+Morenas   Adrien,Ali   Ramlati,1,1
+Wulfranc   Hubert,Leclabart   Jean-Claude,0,1
+Wulfranc   Hubert,Rudigoz   Thomas,0,1
+Wulfranc   Hubert,Thiébaut   Vincent,0,1
+Wulfranc   Hubert,Fugit   Jean-Luc,0,1
+Wulfranc   Hubert,Ali   Ramlati,0,1
+Leclabart   Jean-Claude,Rudigoz   Thomas,1,1
+Leclabart   Jean-Claude,Thiébaut   Vincent,1,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1
+Leclabart   Jean-Claude,Ali   Ramlati,1,1
+Rudigoz   Thomas,Thiébaut   Vincent,1,1
+Rudigoz   Thomas,Fugit   Jean-Luc,1,1
+Rudigoz   Thomas,Ali   Ramlati,1,1
+Thiébaut   Vincent,Fugit   Jean-Luc,1,1
+Thiébaut   Vincent,Ali   Ramlati,1,1
+Fugit   Jean-Luc,Ali   Ramlati,1,1

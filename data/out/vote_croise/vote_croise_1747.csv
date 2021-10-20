@@ -1,0 +1,631 @@
+from,to,vote_commun,loi_commun
+Forissier   Nicolas,Benoit   Thierry,1,1
+Forissier   Nicolas,Juanico   Régis,0,1
+Forissier   Nicolas,Pinel   Sylvia,0,1
+Forissier   Nicolas,Alauzet   Éric,0,1
+Forissier   Nicolas,Louwagie   Véronique,1,1
+Forissier   Nicolas,Rabault   Valérie,0,1
+Forissier   Nicolas,Bridey   Jean-Jacques,1,1
+Forissier   Nicolas,Boyer   Pascale,1,1
+Forissier   Nicolas,Petel   Anne-Laurence,1,1
+Forissier   Nicolas,Laqhila   Mohamed,1,1
+Forissier   Nicolas,Blanchet   Christophe,1,1
+Forissier   Nicolas,Castellani   Michel,0,1
+Forissier   Nicolas,Melchior   Graziella,1,1
+Forissier   Nicolas,Sommer   Denis,1,1
+Forissier   Nicolas,Chapelier   Annie,0,1
+Forissier   Nicolas,Motin   Cendra,1,1
+Forissier   Nicolas,Vallaud   Boris,0,1
+Forissier   Nicolas,Oppelt   Valérie,1,1
+Forissier   Nicolas,Masséglia   Denis,1,1
+Forissier   Nicolas,Bolo   Philippe,1,1
+Forissier   Nicolas,Cariou   Émilie,1,1
+Forissier   Nicolas,Thill   Agnès,1,1
+Forissier   Nicolas,Duvergé   Bruno,1,1
+Forissier   Nicolas,Thomas   Valérie,1,1
+Forissier   Nicolas,Lescure   Roland,1,1
+Forissier   Nicolas,Coquerel   Éric,0,1
+Forissier   Nicolas,Bonnell   Bruno,1,1
+Forissier   Nicolas,Le Gendre   Gilles,1,1
+Forissier   Nicolas,Verdier-Jouclas   Marie-Christine,1,1
+Forissier   Nicolas,Rupin   Pacôme,1,1
+Forissier   Nicolas,Lebec   Marie,1,1
+Forissier   Nicolas,Guévenoux   Marie,1,1
+Forissier   Nicolas,de Vaucouleurs   Michèle,1,1
+Forissier   Nicolas,Bournazel   Pierre-Yves,0,1
+Forissier   Nicolas,Dirx   Benjamin,1,1
+Benoit   Thierry,Juanico   Régis,0,1
+Benoit   Thierry,Pinel   Sylvia,0,1
+Benoit   Thierry,Alauzet   Éric,0,1
+Benoit   Thierry,Louwagie   Véronique,1,1
+Benoit   Thierry,Rabault   Valérie,0,1
+Benoit   Thierry,Bridey   Jean-Jacques,1,1
+Benoit   Thierry,Boyer   Pascale,1,1
+Benoit   Thierry,Petel   Anne-Laurence,1,1
+Benoit   Thierry,Laqhila   Mohamed,1,1
+Benoit   Thierry,Blanchet   Christophe,1,1
+Benoit   Thierry,Castellani   Michel,0,1
+Benoit   Thierry,Melchior   Graziella,1,1
+Benoit   Thierry,Sommer   Denis,1,1
+Benoit   Thierry,Chapelier   Annie,0,1
+Benoit   Thierry,Motin   Cendra,1,1
+Benoit   Thierry,Vallaud   Boris,0,1
+Benoit   Thierry,Oppelt   Valérie,1,1
+Benoit   Thierry,Masséglia   Denis,1,1
+Benoit   Thierry,Bolo   Philippe,1,1
+Benoit   Thierry,Cariou   Émilie,1,1
+Benoit   Thierry,Thill   Agnès,1,1
+Benoit   Thierry,Duvergé   Bruno,1,1
+Benoit   Thierry,Thomas   Valérie,1,1
+Benoit   Thierry,Lescure   Roland,1,1
+Benoit   Thierry,Coquerel   Éric,0,1
+Benoit   Thierry,Bonnell   Bruno,1,1
+Benoit   Thierry,Le Gendre   Gilles,1,1
+Benoit   Thierry,Verdier-Jouclas   Marie-Christine,1,1
+Benoit   Thierry,Rupin   Pacôme,1,1
+Benoit   Thierry,Lebec   Marie,1,1
+Benoit   Thierry,Guévenoux   Marie,1,1
+Benoit   Thierry,de Vaucouleurs   Michèle,1,1
+Benoit   Thierry,Bournazel   Pierre-Yves,0,1
+Benoit   Thierry,Dirx   Benjamin,1,1
+Juanico   Régis,Pinel   Sylvia,1,1
+Juanico   Régis,Alauzet   Éric,1,1
+Juanico   Régis,Louwagie   Véronique,0,1
+Juanico   Régis,Rabault   Valérie,1,1
+Juanico   Régis,Bridey   Jean-Jacques,0,1
+Juanico   Régis,Boyer   Pascale,0,1
+Juanico   Régis,Petel   Anne-Laurence,0,1
+Juanico   Régis,Laqhila   Mohamed,0,1
+Juanico   Régis,Blanchet   Christophe,0,1
+Juanico   Régis,Castellani   Michel,1,1
+Juanico   Régis,Melchior   Graziella,0,1
+Juanico   Régis,Sommer   Denis,0,1
+Juanico   Régis,Chapelier   Annie,1,1
+Juanico   Régis,Motin   Cendra,0,1
+Juanico   Régis,Vallaud   Boris,1,1
+Juanico   Régis,Oppelt   Valérie,0,1
+Juanico   Régis,Masséglia   Denis,0,1
+Juanico   Régis,Bolo   Philippe,0,1
+Juanico   Régis,Cariou   Émilie,0,1
+Juanico   Régis,Thill   Agnès,0,1
+Juanico   Régis,Duvergé   Bruno,0,1
+Juanico   Régis,Thomas   Valérie,0,1
+Juanico   Régis,Lescure   Roland,0,1
+Juanico   Régis,Coquerel   Éric,1,1
+Juanico   Régis,Bonnell   Bruno,0,1
+Juanico   Régis,Le Gendre   Gilles,0,1
+Juanico   Régis,Verdier-Jouclas   Marie-Christine,0,1
+Juanico   Régis,Rupin   Pacôme,0,1
+Juanico   Régis,Lebec   Marie,0,1
+Juanico   Régis,Guévenoux   Marie,0,1
+Juanico   Régis,de Vaucouleurs   Michèle,0,1
+Juanico   Régis,Bournazel   Pierre-Yves,1,1
+Juanico   Régis,Dirx   Benjamin,0,1
+Pinel   Sylvia,Alauzet   Éric,1,1
+Pinel   Sylvia,Louwagie   Véronique,0,1
+Pinel   Sylvia,Rabault   Valérie,1,1
+Pinel   Sylvia,Bridey   Jean-Jacques,0,1
+Pinel   Sylvia,Boyer   Pascale,0,1
+Pinel   Sylvia,Petel   Anne-Laurence,0,1
+Pinel   Sylvia,Laqhila   Mohamed,0,1
+Pinel   Sylvia,Blanchet   Christophe,0,1
+Pinel   Sylvia,Castellani   Michel,1,1
+Pinel   Sylvia,Melchior   Graziella,0,1
+Pinel   Sylvia,Sommer   Denis,0,1
+Pinel   Sylvia,Chapelier   Annie,1,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Vallaud   Boris,1,1
+Pinel   Sylvia,Oppelt   Valérie,0,1
+Pinel   Sylvia,Masséglia   Denis,0,1
+Pinel   Sylvia,Bolo   Philippe,0,1
+Pinel   Sylvia,Cariou   Émilie,0,1
+Pinel   Sylvia,Thill   Agnès,0,1
+Pinel   Sylvia,Duvergé   Bruno,0,1
+Pinel   Sylvia,Thomas   Valérie,0,1
+Pinel   Sylvia,Lescure   Roland,0,1
+Pinel   Sylvia,Coquerel   Éric,1,1
+Pinel   Sylvia,Bonnell   Bruno,0,1
+Pinel   Sylvia,Le Gendre   Gilles,0,1
+Pinel   Sylvia,Verdier-Jouclas   Marie-Christine,0,1
+Pinel   Sylvia,Rupin   Pacôme,0,1
+Pinel   Sylvia,Lebec   Marie,0,1
+Pinel   Sylvia,Guévenoux   Marie,0,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,0,1
+Pinel   Sylvia,Bournazel   Pierre-Yves,1,1
+Pinel   Sylvia,Dirx   Benjamin,0,1
+Alauzet   Éric,Louwagie   Véronique,0,1
+Alauzet   Éric,Rabault   Valérie,1,1
+Alauzet   Éric,Bridey   Jean-Jacques,0,1
+Alauzet   Éric,Boyer   Pascale,0,1
+Alauzet   Éric,Petel   Anne-Laurence,0,1
+Alauzet   Éric,Laqhila   Mohamed,0,1
+Alauzet   Éric,Blanchet   Christophe,0,1
+Alauzet   Éric,Castellani   Michel,1,1
+Alauzet   Éric,Melchior   Graziella,0,1
+Alauzet   Éric,Sommer   Denis,0,1
+Alauzet   Éric,Chapelier   Annie,1,1
+Alauzet   Éric,Motin   Cendra,0,1
+Alauzet   Éric,Vallaud   Boris,1,1
+Alauzet   Éric,Oppelt   Valérie,0,1
+Alauzet   Éric,Masséglia   Denis,0,1
+Alauzet   Éric,Bolo   Philippe,0,1
+Alauzet   Éric,Cariou   Émilie,0,1
+Alauzet   Éric,Thill   Agnès,0,1
+Alauzet   Éric,Duvergé   Bruno,0,1
+Alauzet   Éric,Thomas   Valérie,0,1
+Alauzet   Éric,Lescure   Roland,0,1
+Alauzet   Éric,Coquerel   Éric,1,1
+Alauzet   Éric,Bonnell   Bruno,0,1
+Alauzet   Éric,Le Gendre   Gilles,0,1
+Alauzet   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Alauzet   Éric,Rupin   Pacôme,0,1
+Alauzet   Éric,Lebec   Marie,0,1
+Alauzet   Éric,Guévenoux   Marie,0,1
+Alauzet   Éric,de Vaucouleurs   Michèle,0,1
+Alauzet   Éric,Bournazel   Pierre-Yves,1,1
+Alauzet   Éric,Dirx   Benjamin,0,1
+Louwagie   Véronique,Rabault   Valérie,0,1
+Louwagie   Véronique,Bridey   Jean-Jacques,1,1
+Louwagie   Véronique,Boyer   Pascale,1,1
+Louwagie   Véronique,Petel   Anne-Laurence,1,1
+Louwagie   Véronique,Laqhila   Mohamed,1,1
+Louwagie   Véronique,Blanchet   Christophe,1,1
+Louwagie   Véronique,Castellani   Michel,0,1
+Louwagie   Véronique,Melchior   Graziella,1,1
+Louwagie   Véronique,Sommer   Denis,1,1
+Louwagie   Véronique,Chapelier   Annie,0,1
+Louwagie   Véronique,Motin   Cendra,1,1
+Louwagie   Véronique,Vallaud   Boris,0,1
+Louwagie   Véronique,Oppelt   Valérie,1,1
+Louwagie   Véronique,Masséglia   Denis,1,1
+Louwagie   Véronique,Bolo   Philippe,1,1
+Louwagie   Véronique,Cariou   Émilie,1,1
+Louwagie   Véronique,Thill   Agnès,1,1
+Louwagie   Véronique,Duvergé   Bruno,1,1
+Louwagie   Véronique,Thomas   Valérie,1,1
+Louwagie   Véronique,Lescure   Roland,1,1
+Louwagie   Véronique,Coquerel   Éric,0,1
+Louwagie   Véronique,Bonnell   Bruno,1,1
+Louwagie   Véronique,Le Gendre   Gilles,1,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,1,1
+Louwagie   Véronique,Rupin   Pacôme,1,1
+Louwagie   Véronique,Lebec   Marie,1,1
+Louwagie   Véronique,Guévenoux   Marie,1,1
+Louwagie   Véronique,de Vaucouleurs   Michèle,1,1
+Louwagie   Véronique,Bournazel   Pierre-Yves,0,1
+Louwagie   Véronique,Dirx   Benjamin,1,1
+Rabault   Valérie,Bridey   Jean-Jacques,0,1
+Rabault   Valérie,Boyer   Pascale,0,1
+Rabault   Valérie,Petel   Anne-Laurence,0,1
+Rabault   Valérie,Laqhila   Mohamed,0,1
+Rabault   Valérie,Blanchet   Christophe,0,1
+Rabault   Valérie,Castellani   Michel,1,1
+Rabault   Valérie,Melchior   Graziella,0,1
+Rabault   Valérie,Sommer   Denis,0,1
+Rabault   Valérie,Chapelier   Annie,1,1
+Rabault   Valérie,Motin   Cendra,0,1
+Rabault   Valérie,Vallaud   Boris,1,1
+Rabault   Valérie,Oppelt   Valérie,0,1
+Rabault   Valérie,Masséglia   Denis,0,1
+Rabault   Valérie,Bolo   Philippe,0,1
+Rabault   Valérie,Cariou   Émilie,0,1
+Rabault   Valérie,Thill   Agnès,0,1
+Rabault   Valérie,Duvergé   Bruno,0,1
+Rabault   Valérie,Thomas   Valérie,0,1
+Rabault   Valérie,Lescure   Roland,0,1
+Rabault   Valérie,Coquerel   Éric,1,1
+Rabault   Valérie,Bonnell   Bruno,0,1
+Rabault   Valérie,Le Gendre   Gilles,0,1
+Rabault   Valérie,Verdier-Jouclas   Marie-Christine,0,1
+Rabault   Valérie,Rupin   Pacôme,0,1
+Rabault   Valérie,Lebec   Marie,0,1
+Rabault   Valérie,Guévenoux   Marie,0,1
+Rabault   Valérie,de Vaucouleurs   Michèle,0,1
+Rabault   Valérie,Bournazel   Pierre-Yves,1,1
+Rabault   Valérie,Dirx   Benjamin,0,1
+Bridey   Jean-Jacques,Boyer   Pascale,1,1
+Bridey   Jean-Jacques,Petel   Anne-Laurence,1,1
+Bridey   Jean-Jacques,Laqhila   Mohamed,1,1
+Bridey   Jean-Jacques,Blanchet   Christophe,1,1
+Bridey   Jean-Jacques,Castellani   Michel,0,1
+Bridey   Jean-Jacques,Melchior   Graziella,1,1
+Bridey   Jean-Jacques,Sommer   Denis,1,1
+Bridey   Jean-Jacques,Chapelier   Annie,0,1
+Bridey   Jean-Jacques,Motin   Cendra,1,1
+Bridey   Jean-Jacques,Vallaud   Boris,0,1
+Bridey   Jean-Jacques,Oppelt   Valérie,1,1
+Bridey   Jean-Jacques,Masséglia   Denis,1,1
+Bridey   Jean-Jacques,Bolo   Philippe,1,1
+Bridey   Jean-Jacques,Cariou   Émilie,1,1
+Bridey   Jean-Jacques,Thill   Agnès,1,1
+Bridey   Jean-Jacques,Duvergé   Bruno,1,1
+Bridey   Jean-Jacques,Thomas   Valérie,1,1
+Bridey   Jean-Jacques,Lescure   Roland,1,1
+Bridey   Jean-Jacques,Coquerel   Éric,0,1
+Bridey   Jean-Jacques,Bonnell   Bruno,1,1
+Bridey   Jean-Jacques,Le Gendre   Gilles,1,1
+Bridey   Jean-Jacques,Verdier-Jouclas   Marie-Christine,1,1
+Bridey   Jean-Jacques,Rupin   Pacôme,1,1
+Bridey   Jean-Jacques,Lebec   Marie,1,1
+Bridey   Jean-Jacques,Guévenoux   Marie,1,1
+Bridey   Jean-Jacques,de Vaucouleurs   Michèle,1,1
+Bridey   Jean-Jacques,Bournazel   Pierre-Yves,0,1
+Bridey   Jean-Jacques,Dirx   Benjamin,1,1
+Boyer   Pascale,Petel   Anne-Laurence,1,1
+Boyer   Pascale,Laqhila   Mohamed,1,1
+Boyer   Pascale,Blanchet   Christophe,1,1
+Boyer   Pascale,Castellani   Michel,0,1
+Boyer   Pascale,Melchior   Graziella,1,1
+Boyer   Pascale,Sommer   Denis,1,1
+Boyer   Pascale,Chapelier   Annie,0,1
+Boyer   Pascale,Motin   Cendra,1,1
+Boyer   Pascale,Vallaud   Boris,0,1
+Boyer   Pascale,Oppelt   Valérie,1,1
+Boyer   Pascale,Masséglia   Denis,1,1
+Boyer   Pascale,Bolo   Philippe,1,1
+Boyer   Pascale,Cariou   Émilie,1,1
+Boyer   Pascale,Thill   Agnès,1,1
+Boyer   Pascale,Duvergé   Bruno,1,1
+Boyer   Pascale,Thomas   Valérie,1,1
+Boyer   Pascale,Lescure   Roland,1,1
+Boyer   Pascale,Coquerel   Éric,0,1
+Boyer   Pascale,Bonnell   Bruno,1,1
+Boyer   Pascale,Le Gendre   Gilles,1,1
+Boyer   Pascale,Verdier-Jouclas   Marie-Christine,1,1
+Boyer   Pascale,Rupin   Pacôme,1,1
+Boyer   Pascale,Lebec   Marie,1,1
+Boyer   Pascale,Guévenoux   Marie,1,1
+Boyer   Pascale,de Vaucouleurs   Michèle,1,1
+Boyer   Pascale,Bournazel   Pierre-Yves,0,1
+Boyer   Pascale,Dirx   Benjamin,1,1
+Petel   Anne-Laurence,Laqhila   Mohamed,1,1
+Petel   Anne-Laurence,Blanchet   Christophe,1,1
+Petel   Anne-Laurence,Castellani   Michel,0,1
+Petel   Anne-Laurence,Melchior   Graziella,1,1
+Petel   Anne-Laurence,Sommer   Denis,1,1
+Petel   Anne-Laurence,Chapelier   Annie,0,1
+Petel   Anne-Laurence,Motin   Cendra,1,1
+Petel   Anne-Laurence,Vallaud   Boris,0,1
+Petel   Anne-Laurence,Oppelt   Valérie,1,1
+Petel   Anne-Laurence,Masséglia   Denis,1,1
+Petel   Anne-Laurence,Bolo   Philippe,1,1
+Petel   Anne-Laurence,Cariou   Émilie,1,1
+Petel   Anne-Laurence,Thill   Agnès,1,1
+Petel   Anne-Laurence,Duvergé   Bruno,1,1
+Petel   Anne-Laurence,Thomas   Valérie,1,1
+Petel   Anne-Laurence,Lescure   Roland,1,1
+Petel   Anne-Laurence,Coquerel   Éric,0,1
+Petel   Anne-Laurence,Bonnell   Bruno,1,1
+Petel   Anne-Laurence,Le Gendre   Gilles,1,1
+Petel   Anne-Laurence,Verdier-Jouclas   Marie-Christine,1,1
+Petel   Anne-Laurence,Rupin   Pacôme,1,1
+Petel   Anne-Laurence,Lebec   Marie,1,1
+Petel   Anne-Laurence,Guévenoux   Marie,1,1
+Petel   Anne-Laurence,de Vaucouleurs   Michèle,1,1
+Petel   Anne-Laurence,Bournazel   Pierre-Yves,0,1
+Petel   Anne-Laurence,Dirx   Benjamin,1,1
+Laqhila   Mohamed,Blanchet   Christophe,1,1
+Laqhila   Mohamed,Castellani   Michel,0,1
+Laqhila   Mohamed,Melchior   Graziella,1,1
+Laqhila   Mohamed,Sommer   Denis,1,1
+Laqhila   Mohamed,Chapelier   Annie,0,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Vallaud   Boris,0,1
+Laqhila   Mohamed,Oppelt   Valérie,1,1
+Laqhila   Mohamed,Masséglia   Denis,1,1
+Laqhila   Mohamed,Bolo   Philippe,1,1
+Laqhila   Mohamed,Cariou   Émilie,1,1
+Laqhila   Mohamed,Thill   Agnès,1,1
+Laqhila   Mohamed,Duvergé   Bruno,1,1
+Laqhila   Mohamed,Thomas   Valérie,1,1
+Laqhila   Mohamed,Lescure   Roland,1,1
+Laqhila   Mohamed,Coquerel   Éric,0,1
+Laqhila   Mohamed,Bonnell   Bruno,1,1
+Laqhila   Mohamed,Le Gendre   Gilles,1,1
+Laqhila   Mohamed,Verdier-Jouclas   Marie-Christine,1,1
+Laqhila   Mohamed,Rupin   Pacôme,1,1
+Laqhila   Mohamed,Lebec   Marie,1,1
+Laqhila   Mohamed,Guévenoux   Marie,1,1
+Laqhila   Mohamed,de Vaucouleurs   Michèle,1,1
+Laqhila   Mohamed,Bournazel   Pierre-Yves,0,1
+Laqhila   Mohamed,Dirx   Benjamin,1,1
+Blanchet   Christophe,Castellani   Michel,0,1
+Blanchet   Christophe,Melchior   Graziella,1,1
+Blanchet   Christophe,Sommer   Denis,1,1
+Blanchet   Christophe,Chapelier   Annie,0,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Vallaud   Boris,0,1
+Blanchet   Christophe,Oppelt   Valérie,1,1
+Blanchet   Christophe,Masséglia   Denis,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Cariou   Émilie,1,1
+Blanchet   Christophe,Thill   Agnès,1,1
+Blanchet   Christophe,Duvergé   Bruno,1,1
+Blanchet   Christophe,Thomas   Valérie,1,1
+Blanchet   Christophe,Lescure   Roland,1,1
+Blanchet   Christophe,Coquerel   Éric,0,1
+Blanchet   Christophe,Bonnell   Bruno,1,1
+Blanchet   Christophe,Le Gendre   Gilles,1,1
+Blanchet   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Blanchet   Christophe,Rupin   Pacôme,1,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Guévenoux   Marie,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Bournazel   Pierre-Yves,0,1
+Blanchet   Christophe,Dirx   Benjamin,1,1
+Castellani   Michel,Melchior   Graziella,0,1
+Castellani   Michel,Sommer   Denis,0,1
+Castellani   Michel,Chapelier   Annie,1,1
+Castellani   Michel,Motin   Cendra,0,1
+Castellani   Michel,Vallaud   Boris,1,1
+Castellani   Michel,Oppelt   Valérie,0,1
+Castellani   Michel,Masséglia   Denis,0,1
+Castellani   Michel,Bolo   Philippe,0,1
+Castellani   Michel,Cariou   Émilie,0,1
+Castellani   Michel,Thill   Agnès,0,1
+Castellani   Michel,Duvergé   Bruno,0,1
+Castellani   Michel,Thomas   Valérie,0,1
+Castellani   Michel,Lescure   Roland,0,1
+Castellani   Michel,Coquerel   Éric,1,1
+Castellani   Michel,Bonnell   Bruno,0,1
+Castellani   Michel,Le Gendre   Gilles,0,1
+Castellani   Michel,Verdier-Jouclas   Marie-Christine,0,1
+Castellani   Michel,Rupin   Pacôme,0,1
+Castellani   Michel,Lebec   Marie,0,1
+Castellani   Michel,Guévenoux   Marie,0,1
+Castellani   Michel,de Vaucouleurs   Michèle,0,1
+Castellani   Michel,Bournazel   Pierre-Yves,1,1
+Castellani   Michel,Dirx   Benjamin,0,1
+Melchior   Graziella,Sommer   Denis,1,1
+Melchior   Graziella,Chapelier   Annie,0,1
+Melchior   Graziella,Motin   Cendra,1,1
+Melchior   Graziella,Vallaud   Boris,0,1
+Melchior   Graziella,Oppelt   Valérie,1,1
+Melchior   Graziella,Masséglia   Denis,1,1
+Melchior   Graziella,Bolo   Philippe,1,1
+Melchior   Graziella,Cariou   Émilie,1,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Duvergé   Bruno,1,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,Lescure   Roland,1,1
+Melchior   Graziella,Coquerel   Éric,0,1
+Melchior   Graziella,Bonnell   Bruno,1,1
+Melchior   Graziella,Le Gendre   Gilles,1,1
+Melchior   Graziella,Verdier-Jouclas   Marie-Christine,1,1
+Melchior   Graziella,Rupin   Pacôme,1,1
+Melchior   Graziella,Lebec   Marie,1,1
+Melchior   Graziella,Guévenoux   Marie,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Bournazel   Pierre-Yves,0,1
+Melchior   Graziella,Dirx   Benjamin,1,1
+Sommer   Denis,Chapelier   Annie,0,1
+Sommer   Denis,Motin   Cendra,1,1
+Sommer   Denis,Vallaud   Boris,0,1
+Sommer   Denis,Oppelt   Valérie,1,1
+Sommer   Denis,Masséglia   Denis,1,1
+Sommer   Denis,Bolo   Philippe,1,1
+Sommer   Denis,Cariou   Émilie,1,1
+Sommer   Denis,Thill   Agnès,1,1
+Sommer   Denis,Duvergé   Bruno,1,1
+Sommer   Denis,Thomas   Valérie,1,1
+Sommer   Denis,Lescure   Roland,1,1
+Sommer   Denis,Coquerel   Éric,0,1
+Sommer   Denis,Bonnell   Bruno,1,1
+Sommer   Denis,Le Gendre   Gilles,1,1
+Sommer   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Sommer   Denis,Rupin   Pacôme,1,1
+Sommer   Denis,Lebec   Marie,1,1
+Sommer   Denis,Guévenoux   Marie,1,1
+Sommer   Denis,de Vaucouleurs   Michèle,1,1
+Sommer   Denis,Bournazel   Pierre-Yves,0,1
+Sommer   Denis,Dirx   Benjamin,1,1
+Chapelier   Annie,Motin   Cendra,0,1
+Chapelier   Annie,Vallaud   Boris,1,1
+Chapelier   Annie,Oppelt   Valérie,0,1
+Chapelier   Annie,Masséglia   Denis,0,1
+Chapelier   Annie,Bolo   Philippe,0,1
+Chapelier   Annie,Cariou   Émilie,0,1
+Chapelier   Annie,Thill   Agnès,0,1
+Chapelier   Annie,Duvergé   Bruno,0,1
+Chapelier   Annie,Thomas   Valérie,0,1
+Chapelier   Annie,Lescure   Roland,0,1
+Chapelier   Annie,Coquerel   Éric,1,1
+Chapelier   Annie,Bonnell   Bruno,0,1
+Chapelier   Annie,Le Gendre   Gilles,0,1
+Chapelier   Annie,Verdier-Jouclas   Marie-Christine,0,1
+Chapelier   Annie,Rupin   Pacôme,0,1
+Chapelier   Annie,Lebec   Marie,0,1
+Chapelier   Annie,Guévenoux   Marie,0,1
+Chapelier   Annie,de Vaucouleurs   Michèle,0,1
+Chapelier   Annie,Bournazel   Pierre-Yves,1,1
+Chapelier   Annie,Dirx   Benjamin,0,1
+Motin   Cendra,Vallaud   Boris,0,1
+Motin   Cendra,Oppelt   Valérie,1,1
+Motin   Cendra,Masséglia   Denis,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Cariou   Émilie,1,1
+Motin   Cendra,Thill   Agnès,1,1
+Motin   Cendra,Duvergé   Bruno,1,1
+Motin   Cendra,Thomas   Valérie,1,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Coquerel   Éric,0,1
+Motin   Cendra,Bonnell   Bruno,1,1
+Motin   Cendra,Le Gendre   Gilles,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Rupin   Pacôme,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,Guévenoux   Marie,1,1
+Motin   Cendra,de Vaucouleurs   Michèle,1,1
+Motin   Cendra,Bournazel   Pierre-Yves,0,1
+Motin   Cendra,Dirx   Benjamin,1,1
+Vallaud   Boris,Oppelt   Valérie,0,1
+Vallaud   Boris,Masséglia   Denis,0,1
+Vallaud   Boris,Bolo   Philippe,0,1
+Vallaud   Boris,Cariou   Émilie,0,1
+Vallaud   Boris,Thill   Agnès,0,1
+Vallaud   Boris,Duvergé   Bruno,0,1
+Vallaud   Boris,Thomas   Valérie,0,1
+Vallaud   Boris,Lescure   Roland,0,1
+Vallaud   Boris,Coquerel   Éric,1,1
+Vallaud   Boris,Bonnell   Bruno,0,1
+Vallaud   Boris,Le Gendre   Gilles,0,1
+Vallaud   Boris,Verdier-Jouclas   Marie-Christine,0,1
+Vallaud   Boris,Rupin   Pacôme,0,1
+Vallaud   Boris,Lebec   Marie,0,1
+Vallaud   Boris,Guévenoux   Marie,0,1
+Vallaud   Boris,de Vaucouleurs   Michèle,0,1
+Vallaud   Boris,Bournazel   Pierre-Yves,1,1
+Vallaud   Boris,Dirx   Benjamin,0,1
+Oppelt   Valérie,Masséglia   Denis,1,1
+Oppelt   Valérie,Bolo   Philippe,1,1
+Oppelt   Valérie,Cariou   Émilie,1,1
+Oppelt   Valérie,Thill   Agnès,1,1
+Oppelt   Valérie,Duvergé   Bruno,1,1
+Oppelt   Valérie,Thomas   Valérie,1,1
+Oppelt   Valérie,Lescure   Roland,1,1
+Oppelt   Valérie,Coquerel   Éric,0,1
+Oppelt   Valérie,Bonnell   Bruno,1,1
+Oppelt   Valérie,Le Gendre   Gilles,1,1
+Oppelt   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Oppelt   Valérie,Rupin   Pacôme,1,1
+Oppelt   Valérie,Lebec   Marie,1,1
+Oppelt   Valérie,Guévenoux   Marie,1,1
+Oppelt   Valérie,de Vaucouleurs   Michèle,1,1
+Oppelt   Valérie,Bournazel   Pierre-Yves,0,1
+Oppelt   Valérie,Dirx   Benjamin,1,1
+Masséglia   Denis,Bolo   Philippe,1,1
+Masséglia   Denis,Cariou   Émilie,1,1
+Masséglia   Denis,Thill   Agnès,1,1
+Masséglia   Denis,Duvergé   Bruno,1,1
+Masséglia   Denis,Thomas   Valérie,1,1
+Masséglia   Denis,Lescure   Roland,1,1
+Masséglia   Denis,Coquerel   Éric,0,1
+Masséglia   Denis,Bonnell   Bruno,1,1
+Masséglia   Denis,Le Gendre   Gilles,1,1
+Masséglia   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Masséglia   Denis,Rupin   Pacôme,1,1
+Masséglia   Denis,Lebec   Marie,1,1
+Masséglia   Denis,Guévenoux   Marie,1,1
+Masséglia   Denis,de Vaucouleurs   Michèle,1,1
+Masséglia   Denis,Bournazel   Pierre-Yves,0,1
+Masséglia   Denis,Dirx   Benjamin,1,1
+Bolo   Philippe,Cariou   Émilie,1,1
+Bolo   Philippe,Thill   Agnès,1,1
+Bolo   Philippe,Duvergé   Bruno,1,1
+Bolo   Philippe,Thomas   Valérie,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Coquerel   Éric,0,1
+Bolo   Philippe,Bonnell   Bruno,1,1
+Bolo   Philippe,Le Gendre   Gilles,1,1
+Bolo   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Bolo   Philippe,Rupin   Pacôme,1,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Guévenoux   Marie,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Bournazel   Pierre-Yves,0,1
+Bolo   Philippe,Dirx   Benjamin,1,1
+Cariou   Émilie,Thill   Agnès,1,1
+Cariou   Émilie,Duvergé   Bruno,1,1
+Cariou   Émilie,Thomas   Valérie,1,1
+Cariou   Émilie,Lescure   Roland,1,1
+Cariou   Émilie,Coquerel   Éric,0,1
+Cariou   Émilie,Bonnell   Bruno,1,1
+Cariou   Émilie,Le Gendre   Gilles,1,1
+Cariou   Émilie,Verdier-Jouclas   Marie-Christine,1,1
+Cariou   Émilie,Rupin   Pacôme,1,1
+Cariou   Émilie,Lebec   Marie,1,1
+Cariou   Émilie,Guévenoux   Marie,1,1
+Cariou   Émilie,de Vaucouleurs   Michèle,1,1
+Cariou   Émilie,Bournazel   Pierre-Yves,0,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Thill   Agnès,Duvergé   Bruno,1,1
+Thill   Agnès,Thomas   Valérie,1,1
+Thill   Agnès,Lescure   Roland,1,1
+Thill   Agnès,Coquerel   Éric,0,1
+Thill   Agnès,Bonnell   Bruno,1,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Verdier-Jouclas   Marie-Christine,1,1
+Thill   Agnès,Rupin   Pacôme,1,1
+Thill   Agnès,Lebec   Marie,1,1
+Thill   Agnès,Guévenoux   Marie,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Bournazel   Pierre-Yves,0,1
+Thill   Agnès,Dirx   Benjamin,1,1
+Duvergé   Bruno,Thomas   Valérie,1,1
+Duvergé   Bruno,Lescure   Roland,1,1
+Duvergé   Bruno,Coquerel   Éric,0,1
+Duvergé   Bruno,Bonnell   Bruno,1,1
+Duvergé   Bruno,Le Gendre   Gilles,1,1
+Duvergé   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Duvergé   Bruno,Rupin   Pacôme,1,1
+Duvergé   Bruno,Lebec   Marie,1,1
+Duvergé   Bruno,Guévenoux   Marie,1,1
+Duvergé   Bruno,de Vaucouleurs   Michèle,1,1
+Duvergé   Bruno,Bournazel   Pierre-Yves,0,1
+Duvergé   Bruno,Dirx   Benjamin,1,1
+Thomas   Valérie,Lescure   Roland,1,1
+Thomas   Valérie,Coquerel   Éric,0,1
+Thomas   Valérie,Bonnell   Bruno,1,1
+Thomas   Valérie,Le Gendre   Gilles,1,1
+Thomas   Valérie,Verdier-Jouclas   Marie-Christine,1,1
+Thomas   Valérie,Rupin   Pacôme,1,1
+Thomas   Valérie,Lebec   Marie,1,1
+Thomas   Valérie,Guévenoux   Marie,1,1
+Thomas   Valérie,de Vaucouleurs   Michèle,1,1
+Thomas   Valérie,Bournazel   Pierre-Yves,0,1
+Thomas   Valérie,Dirx   Benjamin,1,1
+Lescure   Roland,Coquerel   Éric,0,1
+Lescure   Roland,Bonnell   Bruno,1,1
+Lescure   Roland,Le Gendre   Gilles,1,1
+Lescure   Roland,Verdier-Jouclas   Marie-Christine,1,1
+Lescure   Roland,Rupin   Pacôme,1,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,Guévenoux   Marie,1,1
+Lescure   Roland,de Vaucouleurs   Michèle,1,1
+Lescure   Roland,Bournazel   Pierre-Yves,0,1
+Lescure   Roland,Dirx   Benjamin,1,1
+Coquerel   Éric,Bonnell   Bruno,0,1
+Coquerel   Éric,Le Gendre   Gilles,0,1
+Coquerel   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Coquerel   Éric,Rupin   Pacôme,0,1
+Coquerel   Éric,Lebec   Marie,0,1
+Coquerel   Éric,Guévenoux   Marie,0,1
+Coquerel   Éric,de Vaucouleurs   Michèle,0,1
+Coquerel   Éric,Bournazel   Pierre-Yves,1,1
+Coquerel   Éric,Dirx   Benjamin,0,1
+Bonnell   Bruno,Le Gendre   Gilles,1,1
+Bonnell   Bruno,Verdier-Jouclas   Marie-Christine,1,1
+Bonnell   Bruno,Rupin   Pacôme,1,1
+Bonnell   Bruno,Lebec   Marie,1,1
+Bonnell   Bruno,Guévenoux   Marie,1,1
+Bonnell   Bruno,de Vaucouleurs   Michèle,1,1
+Bonnell   Bruno,Bournazel   Pierre-Yves,0,1
+Bonnell   Bruno,Dirx   Benjamin,1,1
+Le Gendre   Gilles,Verdier-Jouclas   Marie-Christine,1,1
+Le Gendre   Gilles,Rupin   Pacôme,1,1
+Le Gendre   Gilles,Lebec   Marie,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,1,1
+Le Gendre   Gilles,Bournazel   Pierre-Yves,0,1
+Le Gendre   Gilles,Dirx   Benjamin,1,1
+Verdier-Jouclas   Marie-Christine,Rupin   Pacôme,1,1
+Verdier-Jouclas   Marie-Christine,Lebec   Marie,1,1
+Verdier-Jouclas   Marie-Christine,Guévenoux   Marie,1,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Bournazel   Pierre-Yves,0,1
+Verdier-Jouclas   Marie-Christine,Dirx   Benjamin,1,1
+Rupin   Pacôme,Lebec   Marie,1,1
+Rupin   Pacôme,Guévenoux   Marie,1,1
+Rupin   Pacôme,de Vaucouleurs   Michèle,1,1
+Rupin   Pacôme,Bournazel   Pierre-Yves,0,1
+Rupin   Pacôme,Dirx   Benjamin,1,1
+Lebec   Marie,Guévenoux   Marie,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Bournazel   Pierre-Yves,0,1
+Lebec   Marie,Dirx   Benjamin,1,1
+Guévenoux   Marie,de Vaucouleurs   Michèle,1,1
+Guévenoux   Marie,Bournazel   Pierre-Yves,0,1
+Guévenoux   Marie,Dirx   Benjamin,1,1
+de Vaucouleurs   Michèle,Bournazel   Pierre-Yves,0,1
+de Vaucouleurs   Michèle,Dirx   Benjamin,1,1
+Bournazel   Pierre-Yves,Dirx   Benjamin,0,1

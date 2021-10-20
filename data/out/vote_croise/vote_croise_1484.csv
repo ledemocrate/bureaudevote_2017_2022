@@ -1,0 +1,862 @@
+from,to,vote_commun,loi_commun
+de la Verpillière   Charles,Woerth   Éric,1,1
+de la Verpillière   Charles,Ciotti   Éric,1,1
+de la Verpillière   Charles,Dalloz   Marie-Christine,1,1
+de la Verpillière   Charles,Lecoq   Jean-Paul,1,1
+de la Verpillière   Charles,Biémouret   Gisèle,1,1
+de la Verpillière   Charles,Bricout   Jean-Louis,1,1
+de la Verpillière   Charles,Louwagie   Véronique,1,1
+de la Verpillière   Charles,Dufrègne   Jean-Paul,1,1
+de la Verpillière   Charles,Bono-Vandorme   Aude,0,1
+de la Verpillière   Charles,Dharréville   Pierre,1,1
+de la Verpillière   Charles,Bouyx   Bertrand,0,1
+de la Verpillière   Charles,Tuffnell   Frédérique,0,1
+de la Verpillière   Charles,Charvier   Fannette,0,1
+de la Verpillière   Charles,Clapot   Mireille,0,1
+de la Verpillière   Charles,Tamarelle-Verhaeghe   Marie,0,1
+de la Verpillière   Charles,Le Feur   Sandrine,0,1
+de la Verpillière   Charles,Chapelier   Annie,0,1
+de la Verpillière   Charles,Ménard   Emmanuelle,1,1
+de la Verpillière   Charles,David   Dominique,0,1
+de la Verpillière   Charles,Jolivet   François,0,1
+de la Verpillière   Charles,Rist   Stéphanie,0,1
+de la Verpillière   Charles,Magnier   Lise,1,1
+de la Verpillière   Charles,Le Peih   Nicole,0,1
+de la Verpillière   Charles,Perrot   Patrice,0,1
+de la Verpillière   Charles,Potterie   Benoit,0,1
+de la Verpillière   Charles,Bureau-Bonnard   Carole,0,1
+de la Verpillière   Charles,Michels   Thierry,0,1
+de la Verpillière   Charles,Sempastous   Jean-Bernard,0,1
+de la Verpillière   Charles,Rubin   Sabine,1,1
+de la Verpillière   Charles,Ramadier   Alain,1,1
+de la Verpillière   Charles,Lardet   Frédérique,0,1
+de la Verpillière   Charles,Verdier-Jouclas   Marie-Christine,0,1
+de la Verpillière   Charles,Calvez   Céline,0,1
+de la Verpillière   Charles,Boucard   Ian,1,1
+de la Verpillière   Charles,de Vaucouleurs   Michèle,0,1
+de la Verpillière   Charles,Granjus   Florence,0,1
+de la Verpillière   Charles,Wulfranc   Hubert,1,1
+de la Verpillière   Charles,Fugit   Jean-Luc,0,1
+de la Verpillière   Charles,Rebeyrotte   Rémy,0,1
+de la Verpillière   Charles,Cornut-Gentille   François,1,1
+de la Verpillière   Charles,de Courson   Charles,1,1
+Woerth   Éric,Ciotti   Éric,1,1
+Woerth   Éric,Dalloz   Marie-Christine,1,1
+Woerth   Éric,Lecoq   Jean-Paul,1,1
+Woerth   Éric,Biémouret   Gisèle,1,1
+Woerth   Éric,Bricout   Jean-Louis,1,1
+Woerth   Éric,Louwagie   Véronique,1,1
+Woerth   Éric,Dufrègne   Jean-Paul,1,1
+Woerth   Éric,Bono-Vandorme   Aude,0,1
+Woerth   Éric,Dharréville   Pierre,1,1
+Woerth   Éric,Bouyx   Bertrand,0,1
+Woerth   Éric,Tuffnell   Frédérique,0,1
+Woerth   Éric,Charvier   Fannette,0,1
+Woerth   Éric,Clapot   Mireille,0,1
+Woerth   Éric,Tamarelle-Verhaeghe   Marie,0,1
+Woerth   Éric,Le Feur   Sandrine,0,1
+Woerth   Éric,Chapelier   Annie,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,David   Dominique,0,1
+Woerth   Éric,Jolivet   François,0,1
+Woerth   Éric,Rist   Stéphanie,0,1
+Woerth   Éric,Magnier   Lise,1,1
+Woerth   Éric,Le Peih   Nicole,0,1
+Woerth   Éric,Perrot   Patrice,0,1
+Woerth   Éric,Potterie   Benoit,0,1
+Woerth   Éric,Bureau-Bonnard   Carole,0,1
+Woerth   Éric,Michels   Thierry,0,1
+Woerth   Éric,Sempastous   Jean-Bernard,0,1
+Woerth   Éric,Rubin   Sabine,1,1
+Woerth   Éric,Ramadier   Alain,1,1
+Woerth   Éric,Lardet   Frédérique,0,1
+Woerth   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Woerth   Éric,Calvez   Céline,0,1
+Woerth   Éric,Boucard   Ian,1,1
+Woerth   Éric,de Vaucouleurs   Michèle,0,1
+Woerth   Éric,Granjus   Florence,0,1
+Woerth   Éric,Wulfranc   Hubert,1,1
+Woerth   Éric,Fugit   Jean-Luc,0,1
+Woerth   Éric,Rebeyrotte   Rémy,0,1
+Woerth   Éric,Cornut-Gentille   François,1,1
+Woerth   Éric,de Courson   Charles,1,1
+Ciotti   Éric,Dalloz   Marie-Christine,1,1
+Ciotti   Éric,Lecoq   Jean-Paul,1,1
+Ciotti   Éric,Biémouret   Gisèle,1,1
+Ciotti   Éric,Bricout   Jean-Louis,1,1
+Ciotti   Éric,Louwagie   Véronique,1,1
+Ciotti   Éric,Dufrègne   Jean-Paul,1,1
+Ciotti   Éric,Bono-Vandorme   Aude,0,1
+Ciotti   Éric,Dharréville   Pierre,1,1
+Ciotti   Éric,Bouyx   Bertrand,0,1
+Ciotti   Éric,Tuffnell   Frédérique,0,1
+Ciotti   Éric,Charvier   Fannette,0,1
+Ciotti   Éric,Clapot   Mireille,0,1
+Ciotti   Éric,Tamarelle-Verhaeghe   Marie,0,1
+Ciotti   Éric,Le Feur   Sandrine,0,1
+Ciotti   Éric,Chapelier   Annie,0,1
+Ciotti   Éric,Ménard   Emmanuelle,1,1
+Ciotti   Éric,David   Dominique,0,1
+Ciotti   Éric,Jolivet   François,0,1
+Ciotti   Éric,Rist   Stéphanie,0,1
+Ciotti   Éric,Magnier   Lise,1,1
+Ciotti   Éric,Le Peih   Nicole,0,1
+Ciotti   Éric,Perrot   Patrice,0,1
+Ciotti   Éric,Potterie   Benoit,0,1
+Ciotti   Éric,Bureau-Bonnard   Carole,0,1
+Ciotti   Éric,Michels   Thierry,0,1
+Ciotti   Éric,Sempastous   Jean-Bernard,0,1
+Ciotti   Éric,Rubin   Sabine,1,1
+Ciotti   Éric,Ramadier   Alain,1,1
+Ciotti   Éric,Lardet   Frédérique,0,1
+Ciotti   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Ciotti   Éric,Calvez   Céline,0,1
+Ciotti   Éric,Boucard   Ian,1,1
+Ciotti   Éric,de Vaucouleurs   Michèle,0,1
+Ciotti   Éric,Granjus   Florence,0,1
+Ciotti   Éric,Wulfranc   Hubert,1,1
+Ciotti   Éric,Fugit   Jean-Luc,0,1
+Ciotti   Éric,Rebeyrotte   Rémy,0,1
+Ciotti   Éric,Cornut-Gentille   François,1,1
+Ciotti   Éric,de Courson   Charles,1,1
+Dalloz   Marie-Christine,Lecoq   Jean-Paul,1,1
+Dalloz   Marie-Christine,Biémouret   Gisèle,1,1
+Dalloz   Marie-Christine,Bricout   Jean-Louis,1,1
+Dalloz   Marie-Christine,Louwagie   Véronique,1,1
+Dalloz   Marie-Christine,Dufrègne   Jean-Paul,1,1
+Dalloz   Marie-Christine,Bono-Vandorme   Aude,0,1
+Dalloz   Marie-Christine,Dharréville   Pierre,1,1
+Dalloz   Marie-Christine,Bouyx   Bertrand,0,1
+Dalloz   Marie-Christine,Tuffnell   Frédérique,0,1
+Dalloz   Marie-Christine,Charvier   Fannette,0,1
+Dalloz   Marie-Christine,Clapot   Mireille,0,1
+Dalloz   Marie-Christine,Tamarelle-Verhaeghe   Marie,0,1
+Dalloz   Marie-Christine,Le Feur   Sandrine,0,1
+Dalloz   Marie-Christine,Chapelier   Annie,0,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,David   Dominique,0,1
+Dalloz   Marie-Christine,Jolivet   François,0,1
+Dalloz   Marie-Christine,Rist   Stéphanie,0,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Le Peih   Nicole,0,1
+Dalloz   Marie-Christine,Perrot   Patrice,0,1
+Dalloz   Marie-Christine,Potterie   Benoit,0,1
+Dalloz   Marie-Christine,Bureau-Bonnard   Carole,0,1
+Dalloz   Marie-Christine,Michels   Thierry,0,1
+Dalloz   Marie-Christine,Sempastous   Jean-Bernard,0,1
+Dalloz   Marie-Christine,Rubin   Sabine,1,1
+Dalloz   Marie-Christine,Ramadier   Alain,1,1
+Dalloz   Marie-Christine,Lardet   Frédérique,0,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,0,1
+Dalloz   Marie-Christine,Calvez   Céline,0,1
+Dalloz   Marie-Christine,Boucard   Ian,1,1
+Dalloz   Marie-Christine,de Vaucouleurs   Michèle,0,1
+Dalloz   Marie-Christine,Granjus   Florence,0,1
+Dalloz   Marie-Christine,Wulfranc   Hubert,1,1
+Dalloz   Marie-Christine,Fugit   Jean-Luc,0,1
+Dalloz   Marie-Christine,Rebeyrotte   Rémy,0,1
+Dalloz   Marie-Christine,Cornut-Gentille   François,1,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Lecoq   Jean-Paul,Biémouret   Gisèle,1,1
+Lecoq   Jean-Paul,Bricout   Jean-Louis,1,1
+Lecoq   Jean-Paul,Louwagie   Véronique,1,1
+Lecoq   Jean-Paul,Dufrègne   Jean-Paul,1,1
+Lecoq   Jean-Paul,Bono-Vandorme   Aude,0,1
+Lecoq   Jean-Paul,Dharréville   Pierre,1,1
+Lecoq   Jean-Paul,Bouyx   Bertrand,0,1
+Lecoq   Jean-Paul,Tuffnell   Frédérique,0,1
+Lecoq   Jean-Paul,Charvier   Fannette,0,1
+Lecoq   Jean-Paul,Clapot   Mireille,0,1
+Lecoq   Jean-Paul,Tamarelle-Verhaeghe   Marie,0,1
+Lecoq   Jean-Paul,Le Feur   Sandrine,0,1
+Lecoq   Jean-Paul,Chapelier   Annie,0,1
+Lecoq   Jean-Paul,Ménard   Emmanuelle,1,1
+Lecoq   Jean-Paul,David   Dominique,0,1
+Lecoq   Jean-Paul,Jolivet   François,0,1
+Lecoq   Jean-Paul,Rist   Stéphanie,0,1
+Lecoq   Jean-Paul,Magnier   Lise,1,1
+Lecoq   Jean-Paul,Le Peih   Nicole,0,1
+Lecoq   Jean-Paul,Perrot   Patrice,0,1
+Lecoq   Jean-Paul,Potterie   Benoit,0,1
+Lecoq   Jean-Paul,Bureau-Bonnard   Carole,0,1
+Lecoq   Jean-Paul,Michels   Thierry,0,1
+Lecoq   Jean-Paul,Sempastous   Jean-Bernard,0,1
+Lecoq   Jean-Paul,Rubin   Sabine,1,1
+Lecoq   Jean-Paul,Ramadier   Alain,1,1
+Lecoq   Jean-Paul,Lardet   Frédérique,0,1
+Lecoq   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Lecoq   Jean-Paul,Calvez   Céline,0,1
+Lecoq   Jean-Paul,Boucard   Ian,1,1
+Lecoq   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Lecoq   Jean-Paul,Granjus   Florence,0,1
+Lecoq   Jean-Paul,Wulfranc   Hubert,1,1
+Lecoq   Jean-Paul,Fugit   Jean-Luc,0,1
+Lecoq   Jean-Paul,Rebeyrotte   Rémy,0,1
+Lecoq   Jean-Paul,Cornut-Gentille   François,1,1
+Lecoq   Jean-Paul,de Courson   Charles,1,1
+Biémouret   Gisèle,Bricout   Jean-Louis,1,1
+Biémouret   Gisèle,Louwagie   Véronique,1,1
+Biémouret   Gisèle,Dufrègne   Jean-Paul,1,1
+Biémouret   Gisèle,Bono-Vandorme   Aude,0,1
+Biémouret   Gisèle,Dharréville   Pierre,1,1
+Biémouret   Gisèle,Bouyx   Bertrand,0,1
+Biémouret   Gisèle,Tuffnell   Frédérique,0,1
+Biémouret   Gisèle,Charvier   Fannette,0,1
+Biémouret   Gisèle,Clapot   Mireille,0,1
+Biémouret   Gisèle,Tamarelle-Verhaeghe   Marie,0,1
+Biémouret   Gisèle,Le Feur   Sandrine,0,1
+Biémouret   Gisèle,Chapelier   Annie,0,1
+Biémouret   Gisèle,Ménard   Emmanuelle,1,1
+Biémouret   Gisèle,David   Dominique,0,1
+Biémouret   Gisèle,Jolivet   François,0,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Magnier   Lise,1,1
+Biémouret   Gisèle,Le Peih   Nicole,0,1
+Biémouret   Gisèle,Perrot   Patrice,0,1
+Biémouret   Gisèle,Potterie   Benoit,0,1
+Biémouret   Gisèle,Bureau-Bonnard   Carole,0,1
+Biémouret   Gisèle,Michels   Thierry,0,1
+Biémouret   Gisèle,Sempastous   Jean-Bernard,0,1
+Biémouret   Gisèle,Rubin   Sabine,1,1
+Biémouret   Gisèle,Ramadier   Alain,1,1
+Biémouret   Gisèle,Lardet   Frédérique,0,1
+Biémouret   Gisèle,Verdier-Jouclas   Marie-Christine,0,1
+Biémouret   Gisèle,Calvez   Céline,0,1
+Biémouret   Gisèle,Boucard   Ian,1,1
+Biémouret   Gisèle,de Vaucouleurs   Michèle,0,1
+Biémouret   Gisèle,Granjus   Florence,0,1
+Biémouret   Gisèle,Wulfranc   Hubert,1,1
+Biémouret   Gisèle,Fugit   Jean-Luc,0,1
+Biémouret   Gisèle,Rebeyrotte   Rémy,0,1
+Biémouret   Gisèle,Cornut-Gentille   François,1,1
+Biémouret   Gisèle,de Courson   Charles,1,1
+Bricout   Jean-Louis,Louwagie   Véronique,1,1
+Bricout   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Bricout   Jean-Louis,Bono-Vandorme   Aude,0,1
+Bricout   Jean-Louis,Dharréville   Pierre,1,1
+Bricout   Jean-Louis,Bouyx   Bertrand,0,1
+Bricout   Jean-Louis,Tuffnell   Frédérique,0,1
+Bricout   Jean-Louis,Charvier   Fannette,0,1
+Bricout   Jean-Louis,Clapot   Mireille,0,1
+Bricout   Jean-Louis,Tamarelle-Verhaeghe   Marie,0,1
+Bricout   Jean-Louis,Le Feur   Sandrine,0,1
+Bricout   Jean-Louis,Chapelier   Annie,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,1,1
+Bricout   Jean-Louis,David   Dominique,0,1
+Bricout   Jean-Louis,Jolivet   François,0,1
+Bricout   Jean-Louis,Rist   Stéphanie,0,1
+Bricout   Jean-Louis,Magnier   Lise,1,1
+Bricout   Jean-Louis,Le Peih   Nicole,0,1
+Bricout   Jean-Louis,Perrot   Patrice,0,1
+Bricout   Jean-Louis,Potterie   Benoit,0,1
+Bricout   Jean-Louis,Bureau-Bonnard   Carole,0,1
+Bricout   Jean-Louis,Michels   Thierry,0,1
+Bricout   Jean-Louis,Sempastous   Jean-Bernard,0,1
+Bricout   Jean-Louis,Rubin   Sabine,1,1
+Bricout   Jean-Louis,Ramadier   Alain,1,1
+Bricout   Jean-Louis,Lardet   Frédérique,0,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Calvez   Céline,0,1
+Bricout   Jean-Louis,Boucard   Ian,1,1
+Bricout   Jean-Louis,de Vaucouleurs   Michèle,0,1
+Bricout   Jean-Louis,Granjus   Florence,0,1
+Bricout   Jean-Louis,Wulfranc   Hubert,1,1
+Bricout   Jean-Louis,Fugit   Jean-Luc,0,1
+Bricout   Jean-Louis,Rebeyrotte   Rémy,0,1
+Bricout   Jean-Louis,Cornut-Gentille   François,1,1
+Bricout   Jean-Louis,de Courson   Charles,1,1
+Louwagie   Véronique,Dufrègne   Jean-Paul,1,1
+Louwagie   Véronique,Bono-Vandorme   Aude,0,1
+Louwagie   Véronique,Dharréville   Pierre,1,1
+Louwagie   Véronique,Bouyx   Bertrand,0,1
+Louwagie   Véronique,Tuffnell   Frédérique,0,1
+Louwagie   Véronique,Charvier   Fannette,0,1
+Louwagie   Véronique,Clapot   Mireille,0,1
+Louwagie   Véronique,Tamarelle-Verhaeghe   Marie,0,1
+Louwagie   Véronique,Le Feur   Sandrine,0,1
+Louwagie   Véronique,Chapelier   Annie,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,David   Dominique,0,1
+Louwagie   Véronique,Jolivet   François,0,1
+Louwagie   Véronique,Rist   Stéphanie,0,1
+Louwagie   Véronique,Magnier   Lise,1,1
+Louwagie   Véronique,Le Peih   Nicole,0,1
+Louwagie   Véronique,Perrot   Patrice,0,1
+Louwagie   Véronique,Potterie   Benoit,0,1
+Louwagie   Véronique,Bureau-Bonnard   Carole,0,1
+Louwagie   Véronique,Michels   Thierry,0,1
+Louwagie   Véronique,Sempastous   Jean-Bernard,0,1
+Louwagie   Véronique,Rubin   Sabine,1,1
+Louwagie   Véronique,Ramadier   Alain,1,1
+Louwagie   Véronique,Lardet   Frédérique,0,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,0,1
+Louwagie   Véronique,Calvez   Céline,0,1
+Louwagie   Véronique,Boucard   Ian,1,1
+Louwagie   Véronique,de Vaucouleurs   Michèle,0,1
+Louwagie   Véronique,Granjus   Florence,0,1
+Louwagie   Véronique,Wulfranc   Hubert,1,1
+Louwagie   Véronique,Fugit   Jean-Luc,0,1
+Louwagie   Véronique,Rebeyrotte   Rémy,0,1
+Louwagie   Véronique,Cornut-Gentille   François,1,1
+Louwagie   Véronique,de Courson   Charles,1,1
+Dufrègne   Jean-Paul,Bono-Vandorme   Aude,0,1
+Dufrègne   Jean-Paul,Dharréville   Pierre,1,1
+Dufrègne   Jean-Paul,Bouyx   Bertrand,0,1
+Dufrègne   Jean-Paul,Tuffnell   Frédérique,0,1
+Dufrègne   Jean-Paul,Charvier   Fannette,0,1
+Dufrègne   Jean-Paul,Clapot   Mireille,0,1
+Dufrègne   Jean-Paul,Tamarelle-Verhaeghe   Marie,0,1
+Dufrègne   Jean-Paul,Le Feur   Sandrine,0,1
+Dufrègne   Jean-Paul,Chapelier   Annie,0,1
+Dufrègne   Jean-Paul,Ménard   Emmanuelle,1,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Jolivet   François,0,1
+Dufrègne   Jean-Paul,Rist   Stéphanie,0,1
+Dufrègne   Jean-Paul,Magnier   Lise,1,1
+Dufrègne   Jean-Paul,Le Peih   Nicole,0,1
+Dufrègne   Jean-Paul,Perrot   Patrice,0,1
+Dufrègne   Jean-Paul,Potterie   Benoit,0,1
+Dufrègne   Jean-Paul,Bureau-Bonnard   Carole,0,1
+Dufrègne   Jean-Paul,Michels   Thierry,0,1
+Dufrègne   Jean-Paul,Sempastous   Jean-Bernard,0,1
+Dufrègne   Jean-Paul,Rubin   Sabine,1,1
+Dufrègne   Jean-Paul,Ramadier   Alain,1,1
+Dufrègne   Jean-Paul,Lardet   Frédérique,0,1
+Dufrègne   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Dufrègne   Jean-Paul,Calvez   Céline,0,1
+Dufrègne   Jean-Paul,Boucard   Ian,1,1
+Dufrègne   Jean-Paul,de Vaucouleurs   Michèle,0,1
+Dufrègne   Jean-Paul,Granjus   Florence,0,1
+Dufrègne   Jean-Paul,Wulfranc   Hubert,1,1
+Dufrègne   Jean-Paul,Fugit   Jean-Luc,0,1
+Dufrègne   Jean-Paul,Rebeyrotte   Rémy,0,1
+Dufrègne   Jean-Paul,Cornut-Gentille   François,1,1
+Dufrègne   Jean-Paul,de Courson   Charles,1,1
+Bono-Vandorme   Aude,Dharréville   Pierre,0,1
+Bono-Vandorme   Aude,Bouyx   Bertrand,1,1
+Bono-Vandorme   Aude,Tuffnell   Frédérique,1,1
+Bono-Vandorme   Aude,Charvier   Fannette,1,1
+Bono-Vandorme   Aude,Clapot   Mireille,1,1
+Bono-Vandorme   Aude,Tamarelle-Verhaeghe   Marie,1,1
+Bono-Vandorme   Aude,Le Feur   Sandrine,1,1
+Bono-Vandorme   Aude,Chapelier   Annie,1,1
+Bono-Vandorme   Aude,Ménard   Emmanuelle,0,1
+Bono-Vandorme   Aude,David   Dominique,1,1
+Bono-Vandorme   Aude,Jolivet   François,1,1
+Bono-Vandorme   Aude,Rist   Stéphanie,1,1
+Bono-Vandorme   Aude,Magnier   Lise,0,1
+Bono-Vandorme   Aude,Le Peih   Nicole,1,1
+Bono-Vandorme   Aude,Perrot   Patrice,1,1
+Bono-Vandorme   Aude,Potterie   Benoit,1,1
+Bono-Vandorme   Aude,Bureau-Bonnard   Carole,1,1
+Bono-Vandorme   Aude,Michels   Thierry,1,1
+Bono-Vandorme   Aude,Sempastous   Jean-Bernard,1,1
+Bono-Vandorme   Aude,Rubin   Sabine,0,1
+Bono-Vandorme   Aude,Ramadier   Alain,0,1
+Bono-Vandorme   Aude,Lardet   Frédérique,1,1
+Bono-Vandorme   Aude,Verdier-Jouclas   Marie-Christine,1,1
+Bono-Vandorme   Aude,Calvez   Céline,1,1
+Bono-Vandorme   Aude,Boucard   Ian,0,1
+Bono-Vandorme   Aude,de Vaucouleurs   Michèle,1,1
+Bono-Vandorme   Aude,Granjus   Florence,1,1
+Bono-Vandorme   Aude,Wulfranc   Hubert,0,1
+Bono-Vandorme   Aude,Fugit   Jean-Luc,1,1
+Bono-Vandorme   Aude,Rebeyrotte   Rémy,1,1
+Bono-Vandorme   Aude,Cornut-Gentille   François,0,1
+Bono-Vandorme   Aude,de Courson   Charles,0,1
+Dharréville   Pierre,Bouyx   Bertrand,0,1
+Dharréville   Pierre,Tuffnell   Frédérique,0,1
+Dharréville   Pierre,Charvier   Fannette,0,1
+Dharréville   Pierre,Clapot   Mireille,0,1
+Dharréville   Pierre,Tamarelle-Verhaeghe   Marie,0,1
+Dharréville   Pierre,Le Feur   Sandrine,0,1
+Dharréville   Pierre,Chapelier   Annie,0,1
+Dharréville   Pierre,Ménard   Emmanuelle,1,1
+Dharréville   Pierre,David   Dominique,0,1
+Dharréville   Pierre,Jolivet   François,0,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Magnier   Lise,1,1
+Dharréville   Pierre,Le Peih   Nicole,0,1
+Dharréville   Pierre,Perrot   Patrice,0,1
+Dharréville   Pierre,Potterie   Benoit,0,1
+Dharréville   Pierre,Bureau-Bonnard   Carole,0,1
+Dharréville   Pierre,Michels   Thierry,0,1
+Dharréville   Pierre,Sempastous   Jean-Bernard,0,1
+Dharréville   Pierre,Rubin   Sabine,1,1
+Dharréville   Pierre,Ramadier   Alain,1,1
+Dharréville   Pierre,Lardet   Frédérique,0,1
+Dharréville   Pierre,Verdier-Jouclas   Marie-Christine,0,1
+Dharréville   Pierre,Calvez   Céline,0,1
+Dharréville   Pierre,Boucard   Ian,1,1
+Dharréville   Pierre,de Vaucouleurs   Michèle,0,1
+Dharréville   Pierre,Granjus   Florence,0,1
+Dharréville   Pierre,Wulfranc   Hubert,1,1
+Dharréville   Pierre,Fugit   Jean-Luc,0,1
+Dharréville   Pierre,Rebeyrotte   Rémy,0,1
+Dharréville   Pierre,Cornut-Gentille   François,1,1
+Dharréville   Pierre,de Courson   Charles,1,1
+Bouyx   Bertrand,Tuffnell   Frédérique,1,1
+Bouyx   Bertrand,Charvier   Fannette,1,1
+Bouyx   Bertrand,Clapot   Mireille,1,1
+Bouyx   Bertrand,Tamarelle-Verhaeghe   Marie,1,1
+Bouyx   Bertrand,Le Feur   Sandrine,1,1
+Bouyx   Bertrand,Chapelier   Annie,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,0,1
+Bouyx   Bertrand,David   Dominique,1,1
+Bouyx   Bertrand,Jolivet   François,1,1
+Bouyx   Bertrand,Rist   Stéphanie,1,1
+Bouyx   Bertrand,Magnier   Lise,0,1
+Bouyx   Bertrand,Le Peih   Nicole,1,1
+Bouyx   Bertrand,Perrot   Patrice,1,1
+Bouyx   Bertrand,Potterie   Benoit,1,1
+Bouyx   Bertrand,Bureau-Bonnard   Carole,1,1
+Bouyx   Bertrand,Michels   Thierry,1,1
+Bouyx   Bertrand,Sempastous   Jean-Bernard,1,1
+Bouyx   Bertrand,Rubin   Sabine,0,1
+Bouyx   Bertrand,Ramadier   Alain,0,1
+Bouyx   Bertrand,Lardet   Frédérique,1,1
+Bouyx   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Bouyx   Bertrand,Calvez   Céline,1,1
+Bouyx   Bertrand,Boucard   Ian,0,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,1,1
+Bouyx   Bertrand,Granjus   Florence,1,1
+Bouyx   Bertrand,Wulfranc   Hubert,0,1
+Bouyx   Bertrand,Fugit   Jean-Luc,1,1
+Bouyx   Bertrand,Rebeyrotte   Rémy,1,1
+Bouyx   Bertrand,Cornut-Gentille   François,0,1
+Bouyx   Bertrand,de Courson   Charles,0,1
+Tuffnell   Frédérique,Charvier   Fannette,1,1
+Tuffnell   Frédérique,Clapot   Mireille,1,1
+Tuffnell   Frédérique,Tamarelle-Verhaeghe   Marie,1,1
+Tuffnell   Frédérique,Le Feur   Sandrine,1,1
+Tuffnell   Frédérique,Chapelier   Annie,1,1
+Tuffnell   Frédérique,Ménard   Emmanuelle,0,1
+Tuffnell   Frédérique,David   Dominique,1,1
+Tuffnell   Frédérique,Jolivet   François,1,1
+Tuffnell   Frédérique,Rist   Stéphanie,1,1
+Tuffnell   Frédérique,Magnier   Lise,0,1
+Tuffnell   Frédérique,Le Peih   Nicole,1,1
+Tuffnell   Frédérique,Perrot   Patrice,1,1
+Tuffnell   Frédérique,Potterie   Benoit,1,1
+Tuffnell   Frédérique,Bureau-Bonnard   Carole,1,1
+Tuffnell   Frédérique,Michels   Thierry,1,1
+Tuffnell   Frédérique,Sempastous   Jean-Bernard,1,1
+Tuffnell   Frédérique,Rubin   Sabine,0,1
+Tuffnell   Frédérique,Ramadier   Alain,0,1
+Tuffnell   Frédérique,Lardet   Frédérique,1,1
+Tuffnell   Frédérique,Verdier-Jouclas   Marie-Christine,1,1
+Tuffnell   Frédérique,Calvez   Céline,1,1
+Tuffnell   Frédérique,Boucard   Ian,0,1
+Tuffnell   Frédérique,de Vaucouleurs   Michèle,1,1
+Tuffnell   Frédérique,Granjus   Florence,1,1
+Tuffnell   Frédérique,Wulfranc   Hubert,0,1
+Tuffnell   Frédérique,Fugit   Jean-Luc,1,1
+Tuffnell   Frédérique,Rebeyrotte   Rémy,1,1
+Tuffnell   Frédérique,Cornut-Gentille   François,0,1
+Tuffnell   Frédérique,de Courson   Charles,0,1
+Charvier   Fannette,Clapot   Mireille,1,1
+Charvier   Fannette,Tamarelle-Verhaeghe   Marie,1,1
+Charvier   Fannette,Le Feur   Sandrine,1,1
+Charvier   Fannette,Chapelier   Annie,1,1
+Charvier   Fannette,Ménard   Emmanuelle,0,1
+Charvier   Fannette,David   Dominique,1,1
+Charvier   Fannette,Jolivet   François,1,1
+Charvier   Fannette,Rist   Stéphanie,1,1
+Charvier   Fannette,Magnier   Lise,0,1
+Charvier   Fannette,Le Peih   Nicole,1,1
+Charvier   Fannette,Perrot   Patrice,1,1
+Charvier   Fannette,Potterie   Benoit,1,1
+Charvier   Fannette,Bureau-Bonnard   Carole,1,1
+Charvier   Fannette,Michels   Thierry,1,1
+Charvier   Fannette,Sempastous   Jean-Bernard,1,1
+Charvier   Fannette,Rubin   Sabine,0,1
+Charvier   Fannette,Ramadier   Alain,0,1
+Charvier   Fannette,Lardet   Frédérique,1,1
+Charvier   Fannette,Verdier-Jouclas   Marie-Christine,1,1
+Charvier   Fannette,Calvez   Céline,1,1
+Charvier   Fannette,Boucard   Ian,0,1
+Charvier   Fannette,de Vaucouleurs   Michèle,1,1
+Charvier   Fannette,Granjus   Florence,1,1
+Charvier   Fannette,Wulfranc   Hubert,0,1
+Charvier   Fannette,Fugit   Jean-Luc,1,1
+Charvier   Fannette,Rebeyrotte   Rémy,1,1
+Charvier   Fannette,Cornut-Gentille   François,0,1
+Charvier   Fannette,de Courson   Charles,0,1
+Clapot   Mireille,Tamarelle-Verhaeghe   Marie,1,1
+Clapot   Mireille,Le Feur   Sandrine,1,1
+Clapot   Mireille,Chapelier   Annie,1,1
+Clapot   Mireille,Ménard   Emmanuelle,0,1
+Clapot   Mireille,David   Dominique,1,1
+Clapot   Mireille,Jolivet   François,1,1
+Clapot   Mireille,Rist   Stéphanie,1,1
+Clapot   Mireille,Magnier   Lise,0,1
+Clapot   Mireille,Le Peih   Nicole,1,1
+Clapot   Mireille,Perrot   Patrice,1,1
+Clapot   Mireille,Potterie   Benoit,1,1
+Clapot   Mireille,Bureau-Bonnard   Carole,1,1
+Clapot   Mireille,Michels   Thierry,1,1
+Clapot   Mireille,Sempastous   Jean-Bernard,1,1
+Clapot   Mireille,Rubin   Sabine,0,1
+Clapot   Mireille,Ramadier   Alain,0,1
+Clapot   Mireille,Lardet   Frédérique,1,1
+Clapot   Mireille,Verdier-Jouclas   Marie-Christine,1,1
+Clapot   Mireille,Calvez   Céline,1,1
+Clapot   Mireille,Boucard   Ian,0,1
+Clapot   Mireille,de Vaucouleurs   Michèle,1,1
+Clapot   Mireille,Granjus   Florence,1,1
+Clapot   Mireille,Wulfranc   Hubert,0,1
+Clapot   Mireille,Fugit   Jean-Luc,1,1
+Clapot   Mireille,Rebeyrotte   Rémy,1,1
+Clapot   Mireille,Cornut-Gentille   François,0,1
+Clapot   Mireille,de Courson   Charles,0,1
+Tamarelle-Verhaeghe   Marie,Le Feur   Sandrine,1,1
+Tamarelle-Verhaeghe   Marie,Chapelier   Annie,1,1
+Tamarelle-Verhaeghe   Marie,Ménard   Emmanuelle,0,1
+Tamarelle-Verhaeghe   Marie,David   Dominique,1,1
+Tamarelle-Verhaeghe   Marie,Jolivet   François,1,1
+Tamarelle-Verhaeghe   Marie,Rist   Stéphanie,1,1
+Tamarelle-Verhaeghe   Marie,Magnier   Lise,0,1
+Tamarelle-Verhaeghe   Marie,Le Peih   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Perrot   Patrice,1,1
+Tamarelle-Verhaeghe   Marie,Potterie   Benoit,1,1
+Tamarelle-Verhaeghe   Marie,Bureau-Bonnard   Carole,1,1
+Tamarelle-Verhaeghe   Marie,Michels   Thierry,1,1
+Tamarelle-Verhaeghe   Marie,Sempastous   Jean-Bernard,1,1
+Tamarelle-Verhaeghe   Marie,Rubin   Sabine,0,1
+Tamarelle-Verhaeghe   Marie,Ramadier   Alain,0,1
+Tamarelle-Verhaeghe   Marie,Lardet   Frédérique,1,1
+Tamarelle-Verhaeghe   Marie,Verdier-Jouclas   Marie-Christine,1,1
+Tamarelle-Verhaeghe   Marie,Calvez   Céline,1,1
+Tamarelle-Verhaeghe   Marie,Boucard   Ian,0,1
+Tamarelle-Verhaeghe   Marie,de Vaucouleurs   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Granjus   Florence,1,1
+Tamarelle-Verhaeghe   Marie,Wulfranc   Hubert,0,1
+Tamarelle-Verhaeghe   Marie,Fugit   Jean-Luc,1,1
+Tamarelle-Verhaeghe   Marie,Rebeyrotte   Rémy,1,1
+Tamarelle-Verhaeghe   Marie,Cornut-Gentille   François,0,1
+Tamarelle-Verhaeghe   Marie,de Courson   Charles,0,1
+Le Feur   Sandrine,Chapelier   Annie,1,1
+Le Feur   Sandrine,Ménard   Emmanuelle,0,1
+Le Feur   Sandrine,David   Dominique,1,1
+Le Feur   Sandrine,Jolivet   François,1,1
+Le Feur   Sandrine,Rist   Stéphanie,1,1
+Le Feur   Sandrine,Magnier   Lise,0,1
+Le Feur   Sandrine,Le Peih   Nicole,1,1
+Le Feur   Sandrine,Perrot   Patrice,1,1
+Le Feur   Sandrine,Potterie   Benoit,1,1
+Le Feur   Sandrine,Bureau-Bonnard   Carole,1,1
+Le Feur   Sandrine,Michels   Thierry,1,1
+Le Feur   Sandrine,Sempastous   Jean-Bernard,1,1
+Le Feur   Sandrine,Rubin   Sabine,0,1
+Le Feur   Sandrine,Ramadier   Alain,0,1
+Le Feur   Sandrine,Lardet   Frédérique,1,1
+Le Feur   Sandrine,Verdier-Jouclas   Marie-Christine,1,1
+Le Feur   Sandrine,Calvez   Céline,1,1
+Le Feur   Sandrine,Boucard   Ian,0,1
+Le Feur   Sandrine,de Vaucouleurs   Michèle,1,1
+Le Feur   Sandrine,Granjus   Florence,1,1
+Le Feur   Sandrine,Wulfranc   Hubert,0,1
+Le Feur   Sandrine,Fugit   Jean-Luc,1,1
+Le Feur   Sandrine,Rebeyrotte   Rémy,1,1
+Le Feur   Sandrine,Cornut-Gentille   François,0,1
+Le Feur   Sandrine,de Courson   Charles,0,1
+Chapelier   Annie,Ménard   Emmanuelle,0,1
+Chapelier   Annie,David   Dominique,1,1
+Chapelier   Annie,Jolivet   François,1,1
+Chapelier   Annie,Rist   Stéphanie,1,1
+Chapelier   Annie,Magnier   Lise,0,1
+Chapelier   Annie,Le Peih   Nicole,1,1
+Chapelier   Annie,Perrot   Patrice,1,1
+Chapelier   Annie,Potterie   Benoit,1,1
+Chapelier   Annie,Bureau-Bonnard   Carole,1,1
+Chapelier   Annie,Michels   Thierry,1,1
+Chapelier   Annie,Sempastous   Jean-Bernard,1,1
+Chapelier   Annie,Rubin   Sabine,0,1
+Chapelier   Annie,Ramadier   Alain,0,1
+Chapelier   Annie,Lardet   Frédérique,1,1
+Chapelier   Annie,Verdier-Jouclas   Marie-Christine,1,1
+Chapelier   Annie,Calvez   Céline,1,1
+Chapelier   Annie,Boucard   Ian,0,1
+Chapelier   Annie,de Vaucouleurs   Michèle,1,1
+Chapelier   Annie,Granjus   Florence,1,1
+Chapelier   Annie,Wulfranc   Hubert,0,1
+Chapelier   Annie,Fugit   Jean-Luc,1,1
+Chapelier   Annie,Rebeyrotte   Rémy,1,1
+Chapelier   Annie,Cornut-Gentille   François,0,1
+Chapelier   Annie,de Courson   Charles,0,1
+Ménard   Emmanuelle,David   Dominique,0,1
+Ménard   Emmanuelle,Jolivet   François,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Magnier   Lise,1,1
+Ménard   Emmanuelle,Le Peih   Nicole,0,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Potterie   Benoit,0,1
+Ménard   Emmanuelle,Bureau-Bonnard   Carole,0,1
+Ménard   Emmanuelle,Michels   Thierry,0,1
+Ménard   Emmanuelle,Sempastous   Jean-Bernard,0,1
+Ménard   Emmanuelle,Rubin   Sabine,1,1
+Ménard   Emmanuelle,Ramadier   Alain,1,1
+Ménard   Emmanuelle,Lardet   Frédérique,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Boucard   Ian,1,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,0,1
+Ménard   Emmanuelle,Granjus   Florence,0,1
+Ménard   Emmanuelle,Wulfranc   Hubert,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,0,1
+Ménard   Emmanuelle,Rebeyrotte   Rémy,0,1
+Ménard   Emmanuelle,Cornut-Gentille   François,1,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+David   Dominique,Jolivet   François,1,1
+David   Dominique,Rist   Stéphanie,1,1
+David   Dominique,Magnier   Lise,0,1
+David   Dominique,Le Peih   Nicole,1,1
+David   Dominique,Perrot   Patrice,1,1
+David   Dominique,Potterie   Benoit,1,1
+David   Dominique,Bureau-Bonnard   Carole,1,1
+David   Dominique,Michels   Thierry,1,1
+David   Dominique,Sempastous   Jean-Bernard,1,1
+David   Dominique,Rubin   Sabine,0,1
+David   Dominique,Ramadier   Alain,0,1
+David   Dominique,Lardet   Frédérique,1,1
+David   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+David   Dominique,Calvez   Céline,1,1
+David   Dominique,Boucard   Ian,0,1
+David   Dominique,de Vaucouleurs   Michèle,1,1
+David   Dominique,Granjus   Florence,1,1
+David   Dominique,Wulfranc   Hubert,0,1
+David   Dominique,Fugit   Jean-Luc,1,1
+David   Dominique,Rebeyrotte   Rémy,1,1
+David   Dominique,Cornut-Gentille   François,0,1
+David   Dominique,de Courson   Charles,0,1
+Jolivet   François,Rist   Stéphanie,1,1
+Jolivet   François,Magnier   Lise,0,1
+Jolivet   François,Le Peih   Nicole,1,1
+Jolivet   François,Perrot   Patrice,1,1
+Jolivet   François,Potterie   Benoit,1,1
+Jolivet   François,Bureau-Bonnard   Carole,1,1
+Jolivet   François,Michels   Thierry,1,1
+Jolivet   François,Sempastous   Jean-Bernard,1,1
+Jolivet   François,Rubin   Sabine,0,1
+Jolivet   François,Ramadier   Alain,0,1
+Jolivet   François,Lardet   Frédérique,1,1
+Jolivet   François,Verdier-Jouclas   Marie-Christine,1,1
+Jolivet   François,Calvez   Céline,1,1
+Jolivet   François,Boucard   Ian,0,1
+Jolivet   François,de Vaucouleurs   Michèle,1,1
+Jolivet   François,Granjus   Florence,1,1
+Jolivet   François,Wulfranc   Hubert,0,1
+Jolivet   François,Fugit   Jean-Luc,1,1
+Jolivet   François,Rebeyrotte   Rémy,1,1
+Jolivet   François,Cornut-Gentille   François,0,1
+Jolivet   François,de Courson   Charles,0,1
+Rist   Stéphanie,Magnier   Lise,0,1
+Rist   Stéphanie,Le Peih   Nicole,1,1
+Rist   Stéphanie,Perrot   Patrice,1,1
+Rist   Stéphanie,Potterie   Benoit,1,1
+Rist   Stéphanie,Bureau-Bonnard   Carole,1,1
+Rist   Stéphanie,Michels   Thierry,1,1
+Rist   Stéphanie,Sempastous   Jean-Bernard,1,1
+Rist   Stéphanie,Rubin   Sabine,0,1
+Rist   Stéphanie,Ramadier   Alain,0,1
+Rist   Stéphanie,Lardet   Frédérique,1,1
+Rist   Stéphanie,Verdier-Jouclas   Marie-Christine,1,1
+Rist   Stéphanie,Calvez   Céline,1,1
+Rist   Stéphanie,Boucard   Ian,0,1
+Rist   Stéphanie,de Vaucouleurs   Michèle,1,1
+Rist   Stéphanie,Granjus   Florence,1,1
+Rist   Stéphanie,Wulfranc   Hubert,0,1
+Rist   Stéphanie,Fugit   Jean-Luc,1,1
+Rist   Stéphanie,Rebeyrotte   Rémy,1,1
+Rist   Stéphanie,Cornut-Gentille   François,0,1
+Rist   Stéphanie,de Courson   Charles,0,1
+Magnier   Lise,Le Peih   Nicole,0,1
+Magnier   Lise,Perrot   Patrice,0,1
+Magnier   Lise,Potterie   Benoit,0,1
+Magnier   Lise,Bureau-Bonnard   Carole,0,1
+Magnier   Lise,Michels   Thierry,0,1
+Magnier   Lise,Sempastous   Jean-Bernard,0,1
+Magnier   Lise,Rubin   Sabine,1,1
+Magnier   Lise,Ramadier   Alain,1,1
+Magnier   Lise,Lardet   Frédérique,0,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,0,1
+Magnier   Lise,Calvez   Céline,0,1
+Magnier   Lise,Boucard   Ian,1,1
+Magnier   Lise,de Vaucouleurs   Michèle,0,1
+Magnier   Lise,Granjus   Florence,0,1
+Magnier   Lise,Wulfranc   Hubert,1,1
+Magnier   Lise,Fugit   Jean-Luc,0,1
+Magnier   Lise,Rebeyrotte   Rémy,0,1
+Magnier   Lise,Cornut-Gentille   François,1,1
+Magnier   Lise,de Courson   Charles,1,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Bureau-Bonnard   Carole,1,1
+Le Peih   Nicole,Michels   Thierry,1,1
+Le Peih   Nicole,Sempastous   Jean-Bernard,1,1
+Le Peih   Nicole,Rubin   Sabine,0,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Lardet   Frédérique,1,1
+Le Peih   Nicole,Verdier-Jouclas   Marie-Christine,1,1
+Le Peih   Nicole,Calvez   Céline,1,1
+Le Peih   Nicole,Boucard   Ian,0,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Granjus   Florence,1,1
+Le Peih   Nicole,Wulfranc   Hubert,0,1
+Le Peih   Nicole,Fugit   Jean-Luc,1,1
+Le Peih   Nicole,Rebeyrotte   Rémy,1,1
+Le Peih   Nicole,Cornut-Gentille   François,0,1
+Le Peih   Nicole,de Courson   Charles,0,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Bureau-Bonnard   Carole,1,1
+Perrot   Patrice,Michels   Thierry,1,1
+Perrot   Patrice,Sempastous   Jean-Bernard,1,1
+Perrot   Patrice,Rubin   Sabine,0,1
+Perrot   Patrice,Ramadier   Alain,0,1
+Perrot   Patrice,Lardet   Frédérique,1,1
+Perrot   Patrice,Verdier-Jouclas   Marie-Christine,1,1
+Perrot   Patrice,Calvez   Céline,1,1
+Perrot   Patrice,Boucard   Ian,0,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Granjus   Florence,1,1
+Perrot   Patrice,Wulfranc   Hubert,0,1
+Perrot   Patrice,Fugit   Jean-Luc,1,1
+Perrot   Patrice,Rebeyrotte   Rémy,1,1
+Perrot   Patrice,Cornut-Gentille   François,0,1
+Perrot   Patrice,de Courson   Charles,0,1
+Potterie   Benoit,Bureau-Bonnard   Carole,1,1
+Potterie   Benoit,Michels   Thierry,1,1
+Potterie   Benoit,Sempastous   Jean-Bernard,1,1
+Potterie   Benoit,Rubin   Sabine,0,1
+Potterie   Benoit,Ramadier   Alain,0,1
+Potterie   Benoit,Lardet   Frédérique,1,1
+Potterie   Benoit,Verdier-Jouclas   Marie-Christine,1,1
+Potterie   Benoit,Calvez   Céline,1,1
+Potterie   Benoit,Boucard   Ian,0,1
+Potterie   Benoit,de Vaucouleurs   Michèle,1,1
+Potterie   Benoit,Granjus   Florence,1,1
+Potterie   Benoit,Wulfranc   Hubert,0,1
+Potterie   Benoit,Fugit   Jean-Luc,1,1
+Potterie   Benoit,Rebeyrotte   Rémy,1,1
+Potterie   Benoit,Cornut-Gentille   François,0,1
+Potterie   Benoit,de Courson   Charles,0,1
+Bureau-Bonnard   Carole,Michels   Thierry,1,1
+Bureau-Bonnard   Carole,Sempastous   Jean-Bernard,1,1
+Bureau-Bonnard   Carole,Rubin   Sabine,0,1
+Bureau-Bonnard   Carole,Ramadier   Alain,0,1
+Bureau-Bonnard   Carole,Lardet   Frédérique,1,1
+Bureau-Bonnard   Carole,Verdier-Jouclas   Marie-Christine,1,1
+Bureau-Bonnard   Carole,Calvez   Céline,1,1
+Bureau-Bonnard   Carole,Boucard   Ian,0,1
+Bureau-Bonnard   Carole,de Vaucouleurs   Michèle,1,1
+Bureau-Bonnard   Carole,Granjus   Florence,1,1
+Bureau-Bonnard   Carole,Wulfranc   Hubert,0,1
+Bureau-Bonnard   Carole,Fugit   Jean-Luc,1,1
+Bureau-Bonnard   Carole,Rebeyrotte   Rémy,1,1
+Bureau-Bonnard   Carole,Cornut-Gentille   François,0,1
+Bureau-Bonnard   Carole,de Courson   Charles,0,1
+Michels   Thierry,Sempastous   Jean-Bernard,1,1
+Michels   Thierry,Rubin   Sabine,0,1
+Michels   Thierry,Ramadier   Alain,0,1
+Michels   Thierry,Lardet   Frédérique,1,1
+Michels   Thierry,Verdier-Jouclas   Marie-Christine,1,1
+Michels   Thierry,Calvez   Céline,1,1
+Michels   Thierry,Boucard   Ian,0,1
+Michels   Thierry,de Vaucouleurs   Michèle,1,1
+Michels   Thierry,Granjus   Florence,1,1
+Michels   Thierry,Wulfranc   Hubert,0,1
+Michels   Thierry,Fugit   Jean-Luc,1,1
+Michels   Thierry,Rebeyrotte   Rémy,1,1
+Michels   Thierry,Cornut-Gentille   François,0,1
+Michels   Thierry,de Courson   Charles,0,1
+Sempastous   Jean-Bernard,Rubin   Sabine,0,1
+Sempastous   Jean-Bernard,Ramadier   Alain,0,1
+Sempastous   Jean-Bernard,Lardet   Frédérique,1,1
+Sempastous   Jean-Bernard,Verdier-Jouclas   Marie-Christine,1,1
+Sempastous   Jean-Bernard,Calvez   Céline,1,1
+Sempastous   Jean-Bernard,Boucard   Ian,0,1
+Sempastous   Jean-Bernard,de Vaucouleurs   Michèle,1,1
+Sempastous   Jean-Bernard,Granjus   Florence,1,1
+Sempastous   Jean-Bernard,Wulfranc   Hubert,0,1
+Sempastous   Jean-Bernard,Fugit   Jean-Luc,1,1
+Sempastous   Jean-Bernard,Rebeyrotte   Rémy,1,1
+Sempastous   Jean-Bernard,Cornut-Gentille   François,0,1
+Sempastous   Jean-Bernard,de Courson   Charles,0,1
+Rubin   Sabine,Ramadier   Alain,1,1
+Rubin   Sabine,Lardet   Frédérique,0,1
+Rubin   Sabine,Verdier-Jouclas   Marie-Christine,0,1
+Rubin   Sabine,Calvez   Céline,0,1
+Rubin   Sabine,Boucard   Ian,1,1
+Rubin   Sabine,de Vaucouleurs   Michèle,0,1
+Rubin   Sabine,Granjus   Florence,0,1
+Rubin   Sabine,Wulfranc   Hubert,1,1
+Rubin   Sabine,Fugit   Jean-Luc,0,1
+Rubin   Sabine,Rebeyrotte   Rémy,0,1
+Rubin   Sabine,Cornut-Gentille   François,1,1
+Rubin   Sabine,de Courson   Charles,1,1
+Ramadier   Alain,Lardet   Frédérique,0,1
+Ramadier   Alain,Verdier-Jouclas   Marie-Christine,0,1
+Ramadier   Alain,Calvez   Céline,0,1
+Ramadier   Alain,Boucard   Ian,1,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Granjus   Florence,0,1
+Ramadier   Alain,Wulfranc   Hubert,1,1
+Ramadier   Alain,Fugit   Jean-Luc,0,1
+Ramadier   Alain,Rebeyrotte   Rémy,0,1
+Ramadier   Alain,Cornut-Gentille   François,1,1
+Ramadier   Alain,de Courson   Charles,1,1
+Lardet   Frédérique,Verdier-Jouclas   Marie-Christine,1,1
+Lardet   Frédérique,Calvez   Céline,1,1
+Lardet   Frédérique,Boucard   Ian,0,1
+Lardet   Frédérique,de Vaucouleurs   Michèle,1,1
+Lardet   Frédérique,Granjus   Florence,1,1
+Lardet   Frédérique,Wulfranc   Hubert,0,1
+Lardet   Frédérique,Fugit   Jean-Luc,1,1
+Lardet   Frédérique,Rebeyrotte   Rémy,1,1
+Lardet   Frédérique,Cornut-Gentille   François,0,1
+Lardet   Frédérique,de Courson   Charles,0,1
+Verdier-Jouclas   Marie-Christine,Calvez   Céline,1,1
+Verdier-Jouclas   Marie-Christine,Boucard   Ian,0,1
+Verdier-Jouclas   Marie-Christine,de Vaucouleurs   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Granjus   Florence,1,1
+Verdier-Jouclas   Marie-Christine,Wulfranc   Hubert,0,1
+Verdier-Jouclas   Marie-Christine,Fugit   Jean-Luc,1,1
+Verdier-Jouclas   Marie-Christine,Rebeyrotte   Rémy,1,1
+Verdier-Jouclas   Marie-Christine,Cornut-Gentille   François,0,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,0,1
+Calvez   Céline,Boucard   Ian,0,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Granjus   Florence,1,1
+Calvez   Céline,Wulfranc   Hubert,0,1
+Calvez   Céline,Fugit   Jean-Luc,1,1
+Calvez   Céline,Rebeyrotte   Rémy,1,1
+Calvez   Céline,Cornut-Gentille   François,0,1
+Calvez   Céline,de Courson   Charles,0,1
+Boucard   Ian,de Vaucouleurs   Michèle,0,1
+Boucard   Ian,Granjus   Florence,0,1
+Boucard   Ian,Wulfranc   Hubert,1,1
+Boucard   Ian,Fugit   Jean-Luc,0,1
+Boucard   Ian,Rebeyrotte   Rémy,0,1
+Boucard   Ian,Cornut-Gentille   François,1,1
+Boucard   Ian,de Courson   Charles,1,1
+de Vaucouleurs   Michèle,Granjus   Florence,1,1
+de Vaucouleurs   Michèle,Wulfranc   Hubert,0,1
+de Vaucouleurs   Michèle,Fugit   Jean-Luc,1,1
+de Vaucouleurs   Michèle,Rebeyrotte   Rémy,1,1
+de Vaucouleurs   Michèle,Cornut-Gentille   François,0,1
+de Vaucouleurs   Michèle,de Courson   Charles,0,1
+Granjus   Florence,Wulfranc   Hubert,0,1
+Granjus   Florence,Fugit   Jean-Luc,1,1
+Granjus   Florence,Rebeyrotte   Rémy,1,1
+Granjus   Florence,Cornut-Gentille   François,0,1
+Granjus   Florence,de Courson   Charles,0,1
+Wulfranc   Hubert,Fugit   Jean-Luc,0,1
+Wulfranc   Hubert,Rebeyrotte   Rémy,0,1
+Wulfranc   Hubert,Cornut-Gentille   François,1,1
+Wulfranc   Hubert,de Courson   Charles,1,1
+Fugit   Jean-Luc,Rebeyrotte   Rémy,1,1
+Fugit   Jean-Luc,Cornut-Gentille   François,0,1
+Fugit   Jean-Luc,de Courson   Charles,0,1
+Rebeyrotte   Rémy,Cornut-Gentille   François,0,1
+Rebeyrotte   Rémy,de Courson   Charles,0,1
+Cornut-Gentille   François,de Courson   Charles,1,1

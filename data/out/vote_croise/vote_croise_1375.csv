@@ -1,0 +1,667 @@
+from,to,vote_commun,loi_commun
+Bricout   Guy,Batho   Delphine,1,1
+Bricout   Guy,Pinel   Sylvia,1,1
+Bricout   Guy,Pupponi   François,1,1
+Bricout   Guy,Bricout   Jean-Louis,1,1
+Bricout   Guy,Bazin   Thibault,1,1
+Bricout   Guy,Laqhila   Mohamed,0,1
+Bricout   Guy,Le Meur   Annaïg,0,1
+Bricout   Guy,Lagleize   Jean-Luc,0,1
+Bricout   Guy,Nogal   Mickaël,0,1
+Bricout   Guy,Hammerer   Véronique,0,1
+Bricout   Guy,Jolivet   François,0,1
+Bricout   Guy,Motin   Cendra,0,1
+Bricout   Guy,Kamowski   Catherine,0,1
+Bricout   Guy,Dubré-Chirat   Nicole,0,1
+Bricout   Guy,Damaisin   Olivier,0,1
+Bricout   Guy,Cariou   Émilie,0,1
+Bricout   Guy,Lioger   Richard,0,1
+Bricout   Guy,Paluszkiewicz   Xavier,0,1
+Bricout   Guy,Osson   Catherine,0,1
+Bricout   Guy,Lasserre   Florence,0,1
+Bricout   Guy,Gayte   Laurence,0,1
+Bricout   Guy,Saint-Martin   Laurent,0,1
+Bricout   Guy,Panot   Mathilde,1,1
+Bricout   Guy,Park   Zivka,0,1
+Bricout   Guy,Manin   Josette,1,1
+Bricout   Guy,Gaillot   Albane,0,1
+Bricout   Guy,Vuilletet   Guillaume,0,1
+Bricout   Guy,Peu   Stéphane,1,1
+Bricout   Guy,Anato   Patrice,0,1
+Bricout   Guy,Ramadier   Alain,1,1
+Bricout   Guy,Le Gendre   Gilles,0,1
+Bricout   Guy,Kuster   Brigitte,1,1
+Bricout   Guy,Do   Stéphanie,0,1
+Bricout   Guy,Guerel   Émilie,0,1
+Bricout   Guy,Piron   Béatrice,0,1
+Bricout   Guy,Dirx   Benjamin,0,1
+Batho   Delphine,Pinel   Sylvia,1,1
+Batho   Delphine,Pupponi   François,1,1
+Batho   Delphine,Bricout   Jean-Louis,1,1
+Batho   Delphine,Bazin   Thibault,1,1
+Batho   Delphine,Laqhila   Mohamed,0,1
+Batho   Delphine,Le Meur   Annaïg,0,1
+Batho   Delphine,Lagleize   Jean-Luc,0,1
+Batho   Delphine,Nogal   Mickaël,0,1
+Batho   Delphine,Hammerer   Véronique,0,1
+Batho   Delphine,Jolivet   François,0,1
+Batho   Delphine,Motin   Cendra,0,1
+Batho   Delphine,Kamowski   Catherine,0,1
+Batho   Delphine,Dubré-Chirat   Nicole,0,1
+Batho   Delphine,Damaisin   Olivier,0,1
+Batho   Delphine,Cariou   Émilie,0,1
+Batho   Delphine,Lioger   Richard,0,1
+Batho   Delphine,Paluszkiewicz   Xavier,0,1
+Batho   Delphine,Osson   Catherine,0,1
+Batho   Delphine,Lasserre   Florence,0,1
+Batho   Delphine,Gayte   Laurence,0,1
+Batho   Delphine,Saint-Martin   Laurent,0,1
+Batho   Delphine,Panot   Mathilde,1,1
+Batho   Delphine,Park   Zivka,0,1
+Batho   Delphine,Manin   Josette,1,1
+Batho   Delphine,Gaillot   Albane,0,1
+Batho   Delphine,Vuilletet   Guillaume,0,1
+Batho   Delphine,Peu   Stéphane,1,1
+Batho   Delphine,Anato   Patrice,0,1
+Batho   Delphine,Ramadier   Alain,1,1
+Batho   Delphine,Le Gendre   Gilles,0,1
+Batho   Delphine,Kuster   Brigitte,1,1
+Batho   Delphine,Do   Stéphanie,0,1
+Batho   Delphine,Guerel   Émilie,0,1
+Batho   Delphine,Piron   Béatrice,0,1
+Batho   Delphine,Dirx   Benjamin,0,1
+Pinel   Sylvia,Pupponi   François,1,1
+Pinel   Sylvia,Bricout   Jean-Louis,1,1
+Pinel   Sylvia,Bazin   Thibault,1,1
+Pinel   Sylvia,Laqhila   Mohamed,0,1
+Pinel   Sylvia,Le Meur   Annaïg,0,1
+Pinel   Sylvia,Lagleize   Jean-Luc,0,1
+Pinel   Sylvia,Nogal   Mickaël,0,1
+Pinel   Sylvia,Hammerer   Véronique,0,1
+Pinel   Sylvia,Jolivet   François,0,1
+Pinel   Sylvia,Motin   Cendra,0,1
+Pinel   Sylvia,Kamowski   Catherine,0,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,0,1
+Pinel   Sylvia,Damaisin   Olivier,0,1
+Pinel   Sylvia,Cariou   Émilie,0,1
+Pinel   Sylvia,Lioger   Richard,0,1
+Pinel   Sylvia,Paluszkiewicz   Xavier,0,1
+Pinel   Sylvia,Osson   Catherine,0,1
+Pinel   Sylvia,Lasserre   Florence,0,1
+Pinel   Sylvia,Gayte   Laurence,0,1
+Pinel   Sylvia,Saint-Martin   Laurent,0,1
+Pinel   Sylvia,Panot   Mathilde,1,1
+Pinel   Sylvia,Park   Zivka,0,1
+Pinel   Sylvia,Manin   Josette,1,1
+Pinel   Sylvia,Gaillot   Albane,0,1
+Pinel   Sylvia,Vuilletet   Guillaume,0,1
+Pinel   Sylvia,Peu   Stéphane,1,1
+Pinel   Sylvia,Anato   Patrice,0,1
+Pinel   Sylvia,Ramadier   Alain,1,1
+Pinel   Sylvia,Le Gendre   Gilles,0,1
+Pinel   Sylvia,Kuster   Brigitte,1,1
+Pinel   Sylvia,Do   Stéphanie,0,1
+Pinel   Sylvia,Guerel   Émilie,0,1
+Pinel   Sylvia,Piron   Béatrice,0,1
+Pinel   Sylvia,Dirx   Benjamin,0,1
+Pupponi   François,Bricout   Jean-Louis,1,1
+Pupponi   François,Bazin   Thibault,1,1
+Pupponi   François,Laqhila   Mohamed,0,1
+Pupponi   François,Le Meur   Annaïg,0,1
+Pupponi   François,Lagleize   Jean-Luc,0,1
+Pupponi   François,Nogal   Mickaël,0,1
+Pupponi   François,Hammerer   Véronique,0,1
+Pupponi   François,Jolivet   François,0,1
+Pupponi   François,Motin   Cendra,0,1
+Pupponi   François,Kamowski   Catherine,0,1
+Pupponi   François,Dubré-Chirat   Nicole,0,1
+Pupponi   François,Damaisin   Olivier,0,1
+Pupponi   François,Cariou   Émilie,0,1
+Pupponi   François,Lioger   Richard,0,1
+Pupponi   François,Paluszkiewicz   Xavier,0,1
+Pupponi   François,Osson   Catherine,0,1
+Pupponi   François,Lasserre   Florence,0,1
+Pupponi   François,Gayte   Laurence,0,1
+Pupponi   François,Saint-Martin   Laurent,0,1
+Pupponi   François,Panot   Mathilde,1,1
+Pupponi   François,Park   Zivka,0,1
+Pupponi   François,Manin   Josette,1,1
+Pupponi   François,Gaillot   Albane,0,1
+Pupponi   François,Vuilletet   Guillaume,0,1
+Pupponi   François,Peu   Stéphane,1,1
+Pupponi   François,Anato   Patrice,0,1
+Pupponi   François,Ramadier   Alain,1,1
+Pupponi   François,Le Gendre   Gilles,0,1
+Pupponi   François,Kuster   Brigitte,1,1
+Pupponi   François,Do   Stéphanie,0,1
+Pupponi   François,Guerel   Émilie,0,1
+Pupponi   François,Piron   Béatrice,0,1
+Pupponi   François,Dirx   Benjamin,0,1
+Bricout   Jean-Louis,Bazin   Thibault,1,1
+Bricout   Jean-Louis,Laqhila   Mohamed,0,1
+Bricout   Jean-Louis,Le Meur   Annaïg,0,1
+Bricout   Jean-Louis,Lagleize   Jean-Luc,0,1
+Bricout   Jean-Louis,Nogal   Mickaël,0,1
+Bricout   Jean-Louis,Hammerer   Véronique,0,1
+Bricout   Jean-Louis,Jolivet   François,0,1
+Bricout   Jean-Louis,Motin   Cendra,0,1
+Bricout   Jean-Louis,Kamowski   Catherine,0,1
+Bricout   Jean-Louis,Dubré-Chirat   Nicole,0,1
+Bricout   Jean-Louis,Damaisin   Olivier,0,1
+Bricout   Jean-Louis,Cariou   Émilie,0,1
+Bricout   Jean-Louis,Lioger   Richard,0,1
+Bricout   Jean-Louis,Paluszkiewicz   Xavier,0,1
+Bricout   Jean-Louis,Osson   Catherine,0,1
+Bricout   Jean-Louis,Lasserre   Florence,0,1
+Bricout   Jean-Louis,Gayte   Laurence,0,1
+Bricout   Jean-Louis,Saint-Martin   Laurent,0,1
+Bricout   Jean-Louis,Panot   Mathilde,1,1
+Bricout   Jean-Louis,Park   Zivka,0,1
+Bricout   Jean-Louis,Manin   Josette,1,1
+Bricout   Jean-Louis,Gaillot   Albane,0,1
+Bricout   Jean-Louis,Vuilletet   Guillaume,0,1
+Bricout   Jean-Louis,Peu   Stéphane,1,1
+Bricout   Jean-Louis,Anato   Patrice,0,1
+Bricout   Jean-Louis,Ramadier   Alain,1,1
+Bricout   Jean-Louis,Le Gendre   Gilles,0,1
+Bricout   Jean-Louis,Kuster   Brigitte,1,1
+Bricout   Jean-Louis,Do   Stéphanie,0,1
+Bricout   Jean-Louis,Guerel   Émilie,0,1
+Bricout   Jean-Louis,Piron   Béatrice,0,1
+Bricout   Jean-Louis,Dirx   Benjamin,0,1
+Bazin   Thibault,Laqhila   Mohamed,0,1
+Bazin   Thibault,Le Meur   Annaïg,0,1
+Bazin   Thibault,Lagleize   Jean-Luc,0,1
+Bazin   Thibault,Nogal   Mickaël,0,1
+Bazin   Thibault,Hammerer   Véronique,0,1
+Bazin   Thibault,Jolivet   François,0,1
+Bazin   Thibault,Motin   Cendra,0,1
+Bazin   Thibault,Kamowski   Catherine,0,1
+Bazin   Thibault,Dubré-Chirat   Nicole,0,1
+Bazin   Thibault,Damaisin   Olivier,0,1
+Bazin   Thibault,Cariou   Émilie,0,1
+Bazin   Thibault,Lioger   Richard,0,1
+Bazin   Thibault,Paluszkiewicz   Xavier,0,1
+Bazin   Thibault,Osson   Catherine,0,1
+Bazin   Thibault,Lasserre   Florence,0,1
+Bazin   Thibault,Gayte   Laurence,0,1
+Bazin   Thibault,Saint-Martin   Laurent,0,1
+Bazin   Thibault,Panot   Mathilde,1,1
+Bazin   Thibault,Park   Zivka,0,1
+Bazin   Thibault,Manin   Josette,1,1
+Bazin   Thibault,Gaillot   Albane,0,1
+Bazin   Thibault,Vuilletet   Guillaume,0,1
+Bazin   Thibault,Peu   Stéphane,1,1
+Bazin   Thibault,Anato   Patrice,0,1
+Bazin   Thibault,Ramadier   Alain,1,1
+Bazin   Thibault,Le Gendre   Gilles,0,1
+Bazin   Thibault,Kuster   Brigitte,1,1
+Bazin   Thibault,Do   Stéphanie,0,1
+Bazin   Thibault,Guerel   Émilie,0,1
+Bazin   Thibault,Piron   Béatrice,0,1
+Bazin   Thibault,Dirx   Benjamin,0,1
+Laqhila   Mohamed,Le Meur   Annaïg,1,1
+Laqhila   Mohamed,Lagleize   Jean-Luc,1,1
+Laqhila   Mohamed,Nogal   Mickaël,1,1
+Laqhila   Mohamed,Hammerer   Véronique,1,1
+Laqhila   Mohamed,Jolivet   François,1,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Kamowski   Catherine,1,1
+Laqhila   Mohamed,Dubré-Chirat   Nicole,1,1
+Laqhila   Mohamed,Damaisin   Olivier,1,1
+Laqhila   Mohamed,Cariou   Émilie,1,1
+Laqhila   Mohamed,Lioger   Richard,1,1
+Laqhila   Mohamed,Paluszkiewicz   Xavier,1,1
+Laqhila   Mohamed,Osson   Catherine,1,1
+Laqhila   Mohamed,Lasserre   Florence,1,1
+Laqhila   Mohamed,Gayte   Laurence,1,1
+Laqhila   Mohamed,Saint-Martin   Laurent,1,1
+Laqhila   Mohamed,Panot   Mathilde,0,1
+Laqhila   Mohamed,Park   Zivka,1,1
+Laqhila   Mohamed,Manin   Josette,0,1
+Laqhila   Mohamed,Gaillot   Albane,1,1
+Laqhila   Mohamed,Vuilletet   Guillaume,1,1
+Laqhila   Mohamed,Peu   Stéphane,0,1
+Laqhila   Mohamed,Anato   Patrice,1,1
+Laqhila   Mohamed,Ramadier   Alain,0,1
+Laqhila   Mohamed,Le Gendre   Gilles,1,1
+Laqhila   Mohamed,Kuster   Brigitte,0,1
+Laqhila   Mohamed,Do   Stéphanie,1,1
+Laqhila   Mohamed,Guerel   Émilie,1,1
+Laqhila   Mohamed,Piron   Béatrice,1,1
+Laqhila   Mohamed,Dirx   Benjamin,1,1
+Le Meur   Annaïg,Lagleize   Jean-Luc,1,1
+Le Meur   Annaïg,Nogal   Mickaël,1,1
+Le Meur   Annaïg,Hammerer   Véronique,1,1
+Le Meur   Annaïg,Jolivet   François,1,1
+Le Meur   Annaïg,Motin   Cendra,1,1
+Le Meur   Annaïg,Kamowski   Catherine,1,1
+Le Meur   Annaïg,Dubré-Chirat   Nicole,1,1
+Le Meur   Annaïg,Damaisin   Olivier,1,1
+Le Meur   Annaïg,Cariou   Émilie,1,1
+Le Meur   Annaïg,Lioger   Richard,1,1
+Le Meur   Annaïg,Paluszkiewicz   Xavier,1,1
+Le Meur   Annaïg,Osson   Catherine,1,1
+Le Meur   Annaïg,Lasserre   Florence,1,1
+Le Meur   Annaïg,Gayte   Laurence,1,1
+Le Meur   Annaïg,Saint-Martin   Laurent,1,1
+Le Meur   Annaïg,Panot   Mathilde,0,1
+Le Meur   Annaïg,Park   Zivka,1,1
+Le Meur   Annaïg,Manin   Josette,0,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Vuilletet   Guillaume,1,1
+Le Meur   Annaïg,Peu   Stéphane,0,1
+Le Meur   Annaïg,Anato   Patrice,1,1
+Le Meur   Annaïg,Ramadier   Alain,0,1
+Le Meur   Annaïg,Le Gendre   Gilles,1,1
+Le Meur   Annaïg,Kuster   Brigitte,0,1
+Le Meur   Annaïg,Do   Stéphanie,1,1
+Le Meur   Annaïg,Guerel   Émilie,1,1
+Le Meur   Annaïg,Piron   Béatrice,1,1
+Le Meur   Annaïg,Dirx   Benjamin,1,1
+Lagleize   Jean-Luc,Nogal   Mickaël,1,1
+Lagleize   Jean-Luc,Hammerer   Véronique,1,1
+Lagleize   Jean-Luc,Jolivet   François,1,1
+Lagleize   Jean-Luc,Motin   Cendra,1,1
+Lagleize   Jean-Luc,Kamowski   Catherine,1,1
+Lagleize   Jean-Luc,Dubré-Chirat   Nicole,1,1
+Lagleize   Jean-Luc,Damaisin   Olivier,1,1
+Lagleize   Jean-Luc,Cariou   Émilie,1,1
+Lagleize   Jean-Luc,Lioger   Richard,1,1
+Lagleize   Jean-Luc,Paluszkiewicz   Xavier,1,1
+Lagleize   Jean-Luc,Osson   Catherine,1,1
+Lagleize   Jean-Luc,Lasserre   Florence,1,1
+Lagleize   Jean-Luc,Gayte   Laurence,1,1
+Lagleize   Jean-Luc,Saint-Martin   Laurent,1,1
+Lagleize   Jean-Luc,Panot   Mathilde,0,1
+Lagleize   Jean-Luc,Park   Zivka,1,1
+Lagleize   Jean-Luc,Manin   Josette,0,1
+Lagleize   Jean-Luc,Gaillot   Albane,1,1
+Lagleize   Jean-Luc,Vuilletet   Guillaume,1,1
+Lagleize   Jean-Luc,Peu   Stéphane,0,1
+Lagleize   Jean-Luc,Anato   Patrice,1,1
+Lagleize   Jean-Luc,Ramadier   Alain,0,1
+Lagleize   Jean-Luc,Le Gendre   Gilles,1,1
+Lagleize   Jean-Luc,Kuster   Brigitte,0,1
+Lagleize   Jean-Luc,Do   Stéphanie,1,1
+Lagleize   Jean-Luc,Guerel   Émilie,1,1
+Lagleize   Jean-Luc,Piron   Béatrice,1,1
+Lagleize   Jean-Luc,Dirx   Benjamin,1,1
+Nogal   Mickaël,Hammerer   Véronique,1,1
+Nogal   Mickaël,Jolivet   François,1,1
+Nogal   Mickaël,Motin   Cendra,1,1
+Nogal   Mickaël,Kamowski   Catherine,1,1
+Nogal   Mickaël,Dubré-Chirat   Nicole,1,1
+Nogal   Mickaël,Damaisin   Olivier,1,1
+Nogal   Mickaël,Cariou   Émilie,1,1
+Nogal   Mickaël,Lioger   Richard,1,1
+Nogal   Mickaël,Paluszkiewicz   Xavier,1,1
+Nogal   Mickaël,Osson   Catherine,1,1
+Nogal   Mickaël,Lasserre   Florence,1,1
+Nogal   Mickaël,Gayte   Laurence,1,1
+Nogal   Mickaël,Saint-Martin   Laurent,1,1
+Nogal   Mickaël,Panot   Mathilde,0,1
+Nogal   Mickaël,Park   Zivka,1,1
+Nogal   Mickaël,Manin   Josette,0,1
+Nogal   Mickaël,Gaillot   Albane,1,1
+Nogal   Mickaël,Vuilletet   Guillaume,1,1
+Nogal   Mickaël,Peu   Stéphane,0,1
+Nogal   Mickaël,Anato   Patrice,1,1
+Nogal   Mickaël,Ramadier   Alain,0,1
+Nogal   Mickaël,Le Gendre   Gilles,1,1
+Nogal   Mickaël,Kuster   Brigitte,0,1
+Nogal   Mickaël,Do   Stéphanie,1,1
+Nogal   Mickaël,Guerel   Émilie,1,1
+Nogal   Mickaël,Piron   Béatrice,1,1
+Nogal   Mickaël,Dirx   Benjamin,1,1
+Hammerer   Véronique,Jolivet   François,1,1
+Hammerer   Véronique,Motin   Cendra,1,1
+Hammerer   Véronique,Kamowski   Catherine,1,1
+Hammerer   Véronique,Dubré-Chirat   Nicole,1,1
+Hammerer   Véronique,Damaisin   Olivier,1,1
+Hammerer   Véronique,Cariou   Émilie,1,1
+Hammerer   Véronique,Lioger   Richard,1,1
+Hammerer   Véronique,Paluszkiewicz   Xavier,1,1
+Hammerer   Véronique,Osson   Catherine,1,1
+Hammerer   Véronique,Lasserre   Florence,1,1
+Hammerer   Véronique,Gayte   Laurence,1,1
+Hammerer   Véronique,Saint-Martin   Laurent,1,1
+Hammerer   Véronique,Panot   Mathilde,0,1
+Hammerer   Véronique,Park   Zivka,1,1
+Hammerer   Véronique,Manin   Josette,0,1
+Hammerer   Véronique,Gaillot   Albane,1,1
+Hammerer   Véronique,Vuilletet   Guillaume,1,1
+Hammerer   Véronique,Peu   Stéphane,0,1
+Hammerer   Véronique,Anato   Patrice,1,1
+Hammerer   Véronique,Ramadier   Alain,0,1
+Hammerer   Véronique,Le Gendre   Gilles,1,1
+Hammerer   Véronique,Kuster   Brigitte,0,1
+Hammerer   Véronique,Do   Stéphanie,1,1
+Hammerer   Véronique,Guerel   Émilie,1,1
+Hammerer   Véronique,Piron   Béatrice,1,1
+Hammerer   Véronique,Dirx   Benjamin,1,1
+Jolivet   François,Motin   Cendra,1,1
+Jolivet   François,Kamowski   Catherine,1,1
+Jolivet   François,Dubré-Chirat   Nicole,1,1
+Jolivet   François,Damaisin   Olivier,1,1
+Jolivet   François,Cariou   Émilie,1,1
+Jolivet   François,Lioger   Richard,1,1
+Jolivet   François,Paluszkiewicz   Xavier,1,1
+Jolivet   François,Osson   Catherine,1,1
+Jolivet   François,Lasserre   Florence,1,1
+Jolivet   François,Gayte   Laurence,1,1
+Jolivet   François,Saint-Martin   Laurent,1,1
+Jolivet   François,Panot   Mathilde,0,1
+Jolivet   François,Park   Zivka,1,1
+Jolivet   François,Manin   Josette,0,1
+Jolivet   François,Gaillot   Albane,1,1
+Jolivet   François,Vuilletet   Guillaume,1,1
+Jolivet   François,Peu   Stéphane,0,1
+Jolivet   François,Anato   Patrice,1,1
+Jolivet   François,Ramadier   Alain,0,1
+Jolivet   François,Le Gendre   Gilles,1,1
+Jolivet   François,Kuster   Brigitte,0,1
+Jolivet   François,Do   Stéphanie,1,1
+Jolivet   François,Guerel   Émilie,1,1
+Jolivet   François,Piron   Béatrice,1,1
+Jolivet   François,Dirx   Benjamin,1,1
+Motin   Cendra,Kamowski   Catherine,1,1
+Motin   Cendra,Dubré-Chirat   Nicole,1,1
+Motin   Cendra,Damaisin   Olivier,1,1
+Motin   Cendra,Cariou   Émilie,1,1
+Motin   Cendra,Lioger   Richard,1,1
+Motin   Cendra,Paluszkiewicz   Xavier,1,1
+Motin   Cendra,Osson   Catherine,1,1
+Motin   Cendra,Lasserre   Florence,1,1
+Motin   Cendra,Gayte   Laurence,1,1
+Motin   Cendra,Saint-Martin   Laurent,1,1
+Motin   Cendra,Panot   Mathilde,0,1
+Motin   Cendra,Park   Zivka,1,1
+Motin   Cendra,Manin   Josette,0,1
+Motin   Cendra,Gaillot   Albane,1,1
+Motin   Cendra,Vuilletet   Guillaume,1,1
+Motin   Cendra,Peu   Stéphane,0,1
+Motin   Cendra,Anato   Patrice,1,1
+Motin   Cendra,Ramadier   Alain,0,1
+Motin   Cendra,Le Gendre   Gilles,1,1
+Motin   Cendra,Kuster   Brigitte,0,1
+Motin   Cendra,Do   Stéphanie,1,1
+Motin   Cendra,Guerel   Émilie,1,1
+Motin   Cendra,Piron   Béatrice,1,1
+Motin   Cendra,Dirx   Benjamin,1,1
+Kamowski   Catherine,Dubré-Chirat   Nicole,1,1
+Kamowski   Catherine,Damaisin   Olivier,1,1
+Kamowski   Catherine,Cariou   Émilie,1,1
+Kamowski   Catherine,Lioger   Richard,1,1
+Kamowski   Catherine,Paluszkiewicz   Xavier,1,1
+Kamowski   Catherine,Osson   Catherine,1,1
+Kamowski   Catherine,Lasserre   Florence,1,1
+Kamowski   Catherine,Gayte   Laurence,1,1
+Kamowski   Catherine,Saint-Martin   Laurent,1,1
+Kamowski   Catherine,Panot   Mathilde,0,1
+Kamowski   Catherine,Park   Zivka,1,1
+Kamowski   Catherine,Manin   Josette,0,1
+Kamowski   Catherine,Gaillot   Albane,1,1
+Kamowski   Catherine,Vuilletet   Guillaume,1,1
+Kamowski   Catherine,Peu   Stéphane,0,1
+Kamowski   Catherine,Anato   Patrice,1,1
+Kamowski   Catherine,Ramadier   Alain,0,1
+Kamowski   Catherine,Le Gendre   Gilles,1,1
+Kamowski   Catherine,Kuster   Brigitte,0,1
+Kamowski   Catherine,Do   Stéphanie,1,1
+Kamowski   Catherine,Guerel   Émilie,1,1
+Kamowski   Catherine,Piron   Béatrice,1,1
+Kamowski   Catherine,Dirx   Benjamin,1,1
+Dubré-Chirat   Nicole,Damaisin   Olivier,1,1
+Dubré-Chirat   Nicole,Cariou   Émilie,1,1
+Dubré-Chirat   Nicole,Lioger   Richard,1,1
+Dubré-Chirat   Nicole,Paluszkiewicz   Xavier,1,1
+Dubré-Chirat   Nicole,Osson   Catherine,1,1
+Dubré-Chirat   Nicole,Lasserre   Florence,1,1
+Dubré-Chirat   Nicole,Gayte   Laurence,1,1
+Dubré-Chirat   Nicole,Saint-Martin   Laurent,1,1
+Dubré-Chirat   Nicole,Panot   Mathilde,0,1
+Dubré-Chirat   Nicole,Park   Zivka,1,1
+Dubré-Chirat   Nicole,Manin   Josette,0,1
+Dubré-Chirat   Nicole,Gaillot   Albane,1,1
+Dubré-Chirat   Nicole,Vuilletet   Guillaume,1,1
+Dubré-Chirat   Nicole,Peu   Stéphane,0,1
+Dubré-Chirat   Nicole,Anato   Patrice,1,1
+Dubré-Chirat   Nicole,Ramadier   Alain,0,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,0,1
+Dubré-Chirat   Nicole,Do   Stéphanie,1,1
+Dubré-Chirat   Nicole,Guerel   Émilie,1,1
+Dubré-Chirat   Nicole,Piron   Béatrice,1,1
+Dubré-Chirat   Nicole,Dirx   Benjamin,1,1
+Damaisin   Olivier,Cariou   Émilie,1,1
+Damaisin   Olivier,Lioger   Richard,1,1
+Damaisin   Olivier,Paluszkiewicz   Xavier,1,1
+Damaisin   Olivier,Osson   Catherine,1,1
+Damaisin   Olivier,Lasserre   Florence,1,1
+Damaisin   Olivier,Gayte   Laurence,1,1
+Damaisin   Olivier,Saint-Martin   Laurent,1,1
+Damaisin   Olivier,Panot   Mathilde,0,1
+Damaisin   Olivier,Park   Zivka,1,1
+Damaisin   Olivier,Manin   Josette,0,1
+Damaisin   Olivier,Gaillot   Albane,1,1
+Damaisin   Olivier,Vuilletet   Guillaume,1,1
+Damaisin   Olivier,Peu   Stéphane,0,1
+Damaisin   Olivier,Anato   Patrice,1,1
+Damaisin   Olivier,Ramadier   Alain,0,1
+Damaisin   Olivier,Le Gendre   Gilles,1,1
+Damaisin   Olivier,Kuster   Brigitte,0,1
+Damaisin   Olivier,Do   Stéphanie,1,1
+Damaisin   Olivier,Guerel   Émilie,1,1
+Damaisin   Olivier,Piron   Béatrice,1,1
+Damaisin   Olivier,Dirx   Benjamin,1,1
+Cariou   Émilie,Lioger   Richard,1,1
+Cariou   Émilie,Paluszkiewicz   Xavier,1,1
+Cariou   Émilie,Osson   Catherine,1,1
+Cariou   Émilie,Lasserre   Florence,1,1
+Cariou   Émilie,Gayte   Laurence,1,1
+Cariou   Émilie,Saint-Martin   Laurent,1,1
+Cariou   Émilie,Panot   Mathilde,0,1
+Cariou   Émilie,Park   Zivka,1,1
+Cariou   Émilie,Manin   Josette,0,1
+Cariou   Émilie,Gaillot   Albane,1,1
+Cariou   Émilie,Vuilletet   Guillaume,1,1
+Cariou   Émilie,Peu   Stéphane,0,1
+Cariou   Émilie,Anato   Patrice,1,1
+Cariou   Émilie,Ramadier   Alain,0,1
+Cariou   Émilie,Le Gendre   Gilles,1,1
+Cariou   Émilie,Kuster   Brigitte,0,1
+Cariou   Émilie,Do   Stéphanie,1,1
+Cariou   Émilie,Guerel   Émilie,1,1
+Cariou   Émilie,Piron   Béatrice,1,1
+Cariou   Émilie,Dirx   Benjamin,1,1
+Lioger   Richard,Paluszkiewicz   Xavier,1,1
+Lioger   Richard,Osson   Catherine,1,1
+Lioger   Richard,Lasserre   Florence,1,1
+Lioger   Richard,Gayte   Laurence,1,1
+Lioger   Richard,Saint-Martin   Laurent,1,1
+Lioger   Richard,Panot   Mathilde,0,1
+Lioger   Richard,Park   Zivka,1,1
+Lioger   Richard,Manin   Josette,0,1
+Lioger   Richard,Gaillot   Albane,1,1
+Lioger   Richard,Vuilletet   Guillaume,1,1
+Lioger   Richard,Peu   Stéphane,0,1
+Lioger   Richard,Anato   Patrice,1,1
+Lioger   Richard,Ramadier   Alain,0,1
+Lioger   Richard,Le Gendre   Gilles,1,1
+Lioger   Richard,Kuster   Brigitte,0,1
+Lioger   Richard,Do   Stéphanie,1,1
+Lioger   Richard,Guerel   Émilie,1,1
+Lioger   Richard,Piron   Béatrice,1,1
+Lioger   Richard,Dirx   Benjamin,1,1
+Paluszkiewicz   Xavier,Osson   Catherine,1,1
+Paluszkiewicz   Xavier,Lasserre   Florence,1,1
+Paluszkiewicz   Xavier,Gayte   Laurence,1,1
+Paluszkiewicz   Xavier,Saint-Martin   Laurent,1,1
+Paluszkiewicz   Xavier,Panot   Mathilde,0,1
+Paluszkiewicz   Xavier,Park   Zivka,1,1
+Paluszkiewicz   Xavier,Manin   Josette,0,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Vuilletet   Guillaume,1,1
+Paluszkiewicz   Xavier,Peu   Stéphane,0,1
+Paluszkiewicz   Xavier,Anato   Patrice,1,1
+Paluszkiewicz   Xavier,Ramadier   Alain,0,1
+Paluszkiewicz   Xavier,Le Gendre   Gilles,1,1
+Paluszkiewicz   Xavier,Kuster   Brigitte,0,1
+Paluszkiewicz   Xavier,Do   Stéphanie,1,1
+Paluszkiewicz   Xavier,Guerel   Émilie,1,1
+Paluszkiewicz   Xavier,Piron   Béatrice,1,1
+Paluszkiewicz   Xavier,Dirx   Benjamin,1,1
+Osson   Catherine,Lasserre   Florence,1,1
+Osson   Catherine,Gayte   Laurence,1,1
+Osson   Catherine,Saint-Martin   Laurent,1,1
+Osson   Catherine,Panot   Mathilde,0,1
+Osson   Catherine,Park   Zivka,1,1
+Osson   Catherine,Manin   Josette,0,1
+Osson   Catherine,Gaillot   Albane,1,1
+Osson   Catherine,Vuilletet   Guillaume,1,1
+Osson   Catherine,Peu   Stéphane,0,1
+Osson   Catherine,Anato   Patrice,1,1
+Osson   Catherine,Ramadier   Alain,0,1
+Osson   Catherine,Le Gendre   Gilles,1,1
+Osson   Catherine,Kuster   Brigitte,0,1
+Osson   Catherine,Do   Stéphanie,1,1
+Osson   Catherine,Guerel   Émilie,1,1
+Osson   Catherine,Piron   Béatrice,1,1
+Osson   Catherine,Dirx   Benjamin,1,1
+Lasserre   Florence,Gayte   Laurence,1,1
+Lasserre   Florence,Saint-Martin   Laurent,1,1
+Lasserre   Florence,Panot   Mathilde,0,1
+Lasserre   Florence,Park   Zivka,1,1
+Lasserre   Florence,Manin   Josette,0,1
+Lasserre   Florence,Gaillot   Albane,1,1
+Lasserre   Florence,Vuilletet   Guillaume,1,1
+Lasserre   Florence,Peu   Stéphane,0,1
+Lasserre   Florence,Anato   Patrice,1,1
+Lasserre   Florence,Ramadier   Alain,0,1
+Lasserre   Florence,Le Gendre   Gilles,1,1
+Lasserre   Florence,Kuster   Brigitte,0,1
+Lasserre   Florence,Do   Stéphanie,1,1
+Lasserre   Florence,Guerel   Émilie,1,1
+Lasserre   Florence,Piron   Béatrice,1,1
+Lasserre   Florence,Dirx   Benjamin,1,1
+Gayte   Laurence,Saint-Martin   Laurent,1,1
+Gayte   Laurence,Panot   Mathilde,0,1
+Gayte   Laurence,Park   Zivka,1,1
+Gayte   Laurence,Manin   Josette,0,1
+Gayte   Laurence,Gaillot   Albane,1,1
+Gayte   Laurence,Vuilletet   Guillaume,1,1
+Gayte   Laurence,Peu   Stéphane,0,1
+Gayte   Laurence,Anato   Patrice,1,1
+Gayte   Laurence,Ramadier   Alain,0,1
+Gayte   Laurence,Le Gendre   Gilles,1,1
+Gayte   Laurence,Kuster   Brigitte,0,1
+Gayte   Laurence,Do   Stéphanie,1,1
+Gayte   Laurence,Guerel   Émilie,1,1
+Gayte   Laurence,Piron   Béatrice,1,1
+Gayte   Laurence,Dirx   Benjamin,1,1
+Saint-Martin   Laurent,Panot   Mathilde,0,1
+Saint-Martin   Laurent,Park   Zivka,1,1
+Saint-Martin   Laurent,Manin   Josette,0,1
+Saint-Martin   Laurent,Gaillot   Albane,1,1
+Saint-Martin   Laurent,Vuilletet   Guillaume,1,1
+Saint-Martin   Laurent,Peu   Stéphane,0,1
+Saint-Martin   Laurent,Anato   Patrice,1,1
+Saint-Martin   Laurent,Ramadier   Alain,0,1
+Saint-Martin   Laurent,Le Gendre   Gilles,1,1
+Saint-Martin   Laurent,Kuster   Brigitte,0,1
+Saint-Martin   Laurent,Do   Stéphanie,1,1
+Saint-Martin   Laurent,Guerel   Émilie,1,1
+Saint-Martin   Laurent,Piron   Béatrice,1,1
+Saint-Martin   Laurent,Dirx   Benjamin,1,1
+Panot   Mathilde,Park   Zivka,0,1
+Panot   Mathilde,Manin   Josette,1,1
+Panot   Mathilde,Gaillot   Albane,0,1
+Panot   Mathilde,Vuilletet   Guillaume,0,1
+Panot   Mathilde,Peu   Stéphane,1,1
+Panot   Mathilde,Anato   Patrice,0,1
+Panot   Mathilde,Ramadier   Alain,1,1
+Panot   Mathilde,Le Gendre   Gilles,0,1
+Panot   Mathilde,Kuster   Brigitte,1,1
+Panot   Mathilde,Do   Stéphanie,0,1
+Panot   Mathilde,Guerel   Émilie,0,1
+Panot   Mathilde,Piron   Béatrice,0,1
+Panot   Mathilde,Dirx   Benjamin,0,1
+Park   Zivka,Manin   Josette,0,1
+Park   Zivka,Gaillot   Albane,1,1
+Park   Zivka,Vuilletet   Guillaume,1,1
+Park   Zivka,Peu   Stéphane,0,1
+Park   Zivka,Anato   Patrice,1,1
+Park   Zivka,Ramadier   Alain,0,1
+Park   Zivka,Le Gendre   Gilles,1,1
+Park   Zivka,Kuster   Brigitte,0,1
+Park   Zivka,Do   Stéphanie,1,1
+Park   Zivka,Guerel   Émilie,1,1
+Park   Zivka,Piron   Béatrice,1,1
+Park   Zivka,Dirx   Benjamin,1,1
+Manin   Josette,Gaillot   Albane,0,1
+Manin   Josette,Vuilletet   Guillaume,0,1
+Manin   Josette,Peu   Stéphane,1,1
+Manin   Josette,Anato   Patrice,0,1
+Manin   Josette,Ramadier   Alain,1,1
+Manin   Josette,Le Gendre   Gilles,0,1
+Manin   Josette,Kuster   Brigitte,1,1
+Manin   Josette,Do   Stéphanie,0,1
+Manin   Josette,Guerel   Émilie,0,1
+Manin   Josette,Piron   Béatrice,0,1
+Manin   Josette,Dirx   Benjamin,0,1
+Gaillot   Albane,Vuilletet   Guillaume,1,1
+Gaillot   Albane,Peu   Stéphane,0,1
+Gaillot   Albane,Anato   Patrice,1,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Le Gendre   Gilles,1,1
+Gaillot   Albane,Kuster   Brigitte,0,1
+Gaillot   Albane,Do   Stéphanie,1,1
+Gaillot   Albane,Guerel   Émilie,1,1
+Gaillot   Albane,Piron   Béatrice,1,1
+Gaillot   Albane,Dirx   Benjamin,1,1
+Vuilletet   Guillaume,Peu   Stéphane,0,1
+Vuilletet   Guillaume,Anato   Patrice,1,1
+Vuilletet   Guillaume,Ramadier   Alain,0,1
+Vuilletet   Guillaume,Le Gendre   Gilles,1,1
+Vuilletet   Guillaume,Kuster   Brigitte,0,1
+Vuilletet   Guillaume,Do   Stéphanie,1,1
+Vuilletet   Guillaume,Guerel   Émilie,1,1
+Vuilletet   Guillaume,Piron   Béatrice,1,1
+Vuilletet   Guillaume,Dirx   Benjamin,1,1
+Peu   Stéphane,Anato   Patrice,0,1
+Peu   Stéphane,Ramadier   Alain,1,1
+Peu   Stéphane,Le Gendre   Gilles,0,1
+Peu   Stéphane,Kuster   Brigitte,1,1
+Peu   Stéphane,Do   Stéphanie,0,1
+Peu   Stéphane,Guerel   Émilie,0,1
+Peu   Stéphane,Piron   Béatrice,0,1
+Peu   Stéphane,Dirx   Benjamin,0,1
+Anato   Patrice,Ramadier   Alain,0,1
+Anato   Patrice,Le Gendre   Gilles,1,1
+Anato   Patrice,Kuster   Brigitte,0,1
+Anato   Patrice,Do   Stéphanie,1,1
+Anato   Patrice,Guerel   Émilie,1,1
+Anato   Patrice,Piron   Béatrice,1,1
+Anato   Patrice,Dirx   Benjamin,1,1
+Ramadier   Alain,Le Gendre   Gilles,0,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Do   Stéphanie,0,1
+Ramadier   Alain,Guerel   Émilie,0,1
+Ramadier   Alain,Piron   Béatrice,0,1
+Ramadier   Alain,Dirx   Benjamin,0,1
+Le Gendre   Gilles,Kuster   Brigitte,0,1
+Le Gendre   Gilles,Do   Stéphanie,1,1
+Le Gendre   Gilles,Guerel   Émilie,1,1
+Le Gendre   Gilles,Piron   Béatrice,1,1
+Le Gendre   Gilles,Dirx   Benjamin,1,1
+Kuster   Brigitte,Do   Stéphanie,0,1
+Kuster   Brigitte,Guerel   Émilie,0,1
+Kuster   Brigitte,Piron   Béatrice,0,1
+Kuster   Brigitte,Dirx   Benjamin,0,1
+Do   Stéphanie,Guerel   Émilie,1,1
+Do   Stéphanie,Piron   Béatrice,1,1
+Do   Stéphanie,Dirx   Benjamin,1,1
+Guerel   Émilie,Piron   Béatrice,1,1
+Guerel   Émilie,Dirx   Benjamin,1,1
+Piron   Béatrice,Dirx   Benjamin,1,1

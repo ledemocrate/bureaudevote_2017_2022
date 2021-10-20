@@ -1,0 +1,326 @@
+from,to,vote_commun,loi_commun
+Battistel   Marie-Noëlle,Aubert   Julien,1,1
+Battistel   Marie-Noëlle,Boyer   Pascale,1,1
+Battistel   Marie-Noëlle,Michel-Brassart   Monica,1,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,0,1
+Battistel   Marie-Noëlle,de Lavergne   Célia,0,1
+Battistel   Marie-Noëlle,Kasbarian   Guillaume,0,1
+Battistel   Marie-Noëlle,Cellier   Anthony,0,1
+Battistel   Marie-Noëlle,Labaronne   Daniel,0,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,0,1
+Battistel   Marie-Noëlle,Tiegna   Huguette,0,1
+Battistel   Marie-Noëlle,Dufeu   Audrey,0,1
+Battistel   Marie-Noëlle,Brunet   Anne-France,0,1
+Battistel   Marie-Noëlle,Cariou   Émilie,0,1
+Battistel   Marie-Noëlle,Le Peih   Nicole,0,1
+Battistel   Marie-Noëlle,Parmentier-Lecocq   Charlotte,0,1
+Battistel   Marie-Noëlle,Potterie   Benoit,0,1
+Battistel   Marie-Noëlle,Panot   Mathilde,1,1
+Battistel   Marie-Noëlle,Lescure   Roland,0,1
+Battistel   Marie-Noëlle,Fontenel-Personne   Pascale,0,1
+Battistel   Marie-Noëlle,Riotton   Véronique,0,1
+Battistel   Marie-Noëlle,Lebec   Marie,0,1
+Battistel   Marie-Noëlle,Raphan   Pierre-Alain,0,1
+Battistel   Marie-Noëlle,Pouzyreff   Natalia,1,1
+Battistel   Marie-Noëlle,Hennion   Christine,0,1
+Battistel   Marie-Noëlle,Chouat   Francis,0,1
+Aubert   Julien,Boyer   Pascale,1,1
+Aubert   Julien,Michel-Brassart   Monica,1,1
+Aubert   Julien,Kerlogot   Yannick,0,1
+Aubert   Julien,de Lavergne   Célia,0,1
+Aubert   Julien,Kasbarian   Guillaume,0,1
+Aubert   Julien,Cellier   Anthony,0,1
+Aubert   Julien,Labaronne   Daniel,0,1
+Aubert   Julien,Sarles   Nathalie,0,1
+Aubert   Julien,Tiegna   Huguette,0,1
+Aubert   Julien,Dufeu   Audrey,0,1
+Aubert   Julien,Brunet   Anne-France,0,1
+Aubert   Julien,Cariou   Émilie,0,1
+Aubert   Julien,Le Peih   Nicole,0,1
+Aubert   Julien,Parmentier-Lecocq   Charlotte,0,1
+Aubert   Julien,Potterie   Benoit,0,1
+Aubert   Julien,Panot   Mathilde,1,1
+Aubert   Julien,Lescure   Roland,0,1
+Aubert   Julien,Fontenel-Personne   Pascale,0,1
+Aubert   Julien,Riotton   Véronique,0,1
+Aubert   Julien,Lebec   Marie,0,1
+Aubert   Julien,Raphan   Pierre-Alain,0,1
+Aubert   Julien,Pouzyreff   Natalia,1,1
+Aubert   Julien,Hennion   Christine,0,1
+Aubert   Julien,Chouat   Francis,0,1
+Boyer   Pascale,Michel-Brassart   Monica,1,1
+Boyer   Pascale,Kerlogot   Yannick,0,1
+Boyer   Pascale,de Lavergne   Célia,0,1
+Boyer   Pascale,Kasbarian   Guillaume,0,1
+Boyer   Pascale,Cellier   Anthony,0,1
+Boyer   Pascale,Labaronne   Daniel,0,1
+Boyer   Pascale,Sarles   Nathalie,0,1
+Boyer   Pascale,Tiegna   Huguette,0,1
+Boyer   Pascale,Dufeu   Audrey,0,1
+Boyer   Pascale,Brunet   Anne-France,0,1
+Boyer   Pascale,Cariou   Émilie,0,1
+Boyer   Pascale,Le Peih   Nicole,0,1
+Boyer   Pascale,Parmentier-Lecocq   Charlotte,0,1
+Boyer   Pascale,Potterie   Benoit,0,1
+Boyer   Pascale,Panot   Mathilde,1,1
+Boyer   Pascale,Lescure   Roland,0,1
+Boyer   Pascale,Fontenel-Personne   Pascale,0,1
+Boyer   Pascale,Riotton   Véronique,0,1
+Boyer   Pascale,Lebec   Marie,0,1
+Boyer   Pascale,Raphan   Pierre-Alain,0,1
+Boyer   Pascale,Pouzyreff   Natalia,1,1
+Boyer   Pascale,Hennion   Christine,0,1
+Boyer   Pascale,Chouat   Francis,0,1
+Michel-Brassart   Monica,Kerlogot   Yannick,0,1
+Michel-Brassart   Monica,de Lavergne   Célia,0,1
+Michel-Brassart   Monica,Kasbarian   Guillaume,0,1
+Michel-Brassart   Monica,Cellier   Anthony,0,1
+Michel-Brassart   Monica,Labaronne   Daniel,0,1
+Michel-Brassart   Monica,Sarles   Nathalie,0,1
+Michel-Brassart   Monica,Tiegna   Huguette,0,1
+Michel-Brassart   Monica,Dufeu   Audrey,0,1
+Michel-Brassart   Monica,Brunet   Anne-France,0,1
+Michel-Brassart   Monica,Cariou   Émilie,0,1
+Michel-Brassart   Monica,Le Peih   Nicole,0,1
+Michel-Brassart   Monica,Parmentier-Lecocq   Charlotte,0,1
+Michel-Brassart   Monica,Potterie   Benoit,0,1
+Michel-Brassart   Monica,Panot   Mathilde,1,1
+Michel-Brassart   Monica,Lescure   Roland,0,1
+Michel-Brassart   Monica,Fontenel-Personne   Pascale,0,1
+Michel-Brassart   Monica,Riotton   Véronique,0,1
+Michel-Brassart   Monica,Lebec   Marie,0,1
+Michel-Brassart   Monica,Raphan   Pierre-Alain,0,1
+Michel-Brassart   Monica,Pouzyreff   Natalia,1,1
+Michel-Brassart   Monica,Hennion   Christine,0,1
+Michel-Brassart   Monica,Chouat   Francis,0,1
+Kerlogot   Yannick,de Lavergne   Célia,1,1
+Kerlogot   Yannick,Kasbarian   Guillaume,1,1
+Kerlogot   Yannick,Cellier   Anthony,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Sarles   Nathalie,1,1
+Kerlogot   Yannick,Tiegna   Huguette,1,1
+Kerlogot   Yannick,Dufeu   Audrey,1,1
+Kerlogot   Yannick,Brunet   Anne-France,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Le Peih   Nicole,1,1
+Kerlogot   Yannick,Parmentier-Lecocq   Charlotte,1,1
+Kerlogot   Yannick,Potterie   Benoit,1,1
+Kerlogot   Yannick,Panot   Mathilde,0,1
+Kerlogot   Yannick,Lescure   Roland,1,1
+Kerlogot   Yannick,Fontenel-Personne   Pascale,1,1
+Kerlogot   Yannick,Riotton   Véronique,1,1
+Kerlogot   Yannick,Lebec   Marie,1,1
+Kerlogot   Yannick,Raphan   Pierre-Alain,1,1
+Kerlogot   Yannick,Pouzyreff   Natalia,0,1
+Kerlogot   Yannick,Hennion   Christine,1,1
+Kerlogot   Yannick,Chouat   Francis,1,1
+de Lavergne   Célia,Kasbarian   Guillaume,1,1
+de Lavergne   Célia,Cellier   Anthony,1,1
+de Lavergne   Célia,Labaronne   Daniel,1,1
+de Lavergne   Célia,Sarles   Nathalie,1,1
+de Lavergne   Célia,Tiegna   Huguette,1,1
+de Lavergne   Célia,Dufeu   Audrey,1,1
+de Lavergne   Célia,Brunet   Anne-France,1,1
+de Lavergne   Célia,Cariou   Émilie,1,1
+de Lavergne   Célia,Le Peih   Nicole,1,1
+de Lavergne   Célia,Parmentier-Lecocq   Charlotte,1,1
+de Lavergne   Célia,Potterie   Benoit,1,1
+de Lavergne   Célia,Panot   Mathilde,0,1
+de Lavergne   Célia,Lescure   Roland,1,1
+de Lavergne   Célia,Fontenel-Personne   Pascale,1,1
+de Lavergne   Célia,Riotton   Véronique,1,1
+de Lavergne   Célia,Lebec   Marie,1,1
+de Lavergne   Célia,Raphan   Pierre-Alain,1,1
+de Lavergne   Célia,Pouzyreff   Natalia,0,1
+de Lavergne   Célia,Hennion   Christine,1,1
+de Lavergne   Célia,Chouat   Francis,1,1
+Kasbarian   Guillaume,Cellier   Anthony,1,1
+Kasbarian   Guillaume,Labaronne   Daniel,1,1
+Kasbarian   Guillaume,Sarles   Nathalie,1,1
+Kasbarian   Guillaume,Tiegna   Huguette,1,1
+Kasbarian   Guillaume,Dufeu   Audrey,1,1
+Kasbarian   Guillaume,Brunet   Anne-France,1,1
+Kasbarian   Guillaume,Cariou   Émilie,1,1
+Kasbarian   Guillaume,Le Peih   Nicole,1,1
+Kasbarian   Guillaume,Parmentier-Lecocq   Charlotte,1,1
+Kasbarian   Guillaume,Potterie   Benoit,1,1
+Kasbarian   Guillaume,Panot   Mathilde,0,1
+Kasbarian   Guillaume,Lescure   Roland,1,1
+Kasbarian   Guillaume,Fontenel-Personne   Pascale,1,1
+Kasbarian   Guillaume,Riotton   Véronique,1,1
+Kasbarian   Guillaume,Lebec   Marie,1,1
+Kasbarian   Guillaume,Raphan   Pierre-Alain,1,1
+Kasbarian   Guillaume,Pouzyreff   Natalia,0,1
+Kasbarian   Guillaume,Hennion   Christine,1,1
+Kasbarian   Guillaume,Chouat   Francis,1,1
+Cellier   Anthony,Labaronne   Daniel,1,1
+Cellier   Anthony,Sarles   Nathalie,1,1
+Cellier   Anthony,Tiegna   Huguette,1,1
+Cellier   Anthony,Dufeu   Audrey,1,1
+Cellier   Anthony,Brunet   Anne-France,1,1
+Cellier   Anthony,Cariou   Émilie,1,1
+Cellier   Anthony,Le Peih   Nicole,1,1
+Cellier   Anthony,Parmentier-Lecocq   Charlotte,1,1
+Cellier   Anthony,Potterie   Benoit,1,1
+Cellier   Anthony,Panot   Mathilde,0,1
+Cellier   Anthony,Lescure   Roland,1,1
+Cellier   Anthony,Fontenel-Personne   Pascale,1,1
+Cellier   Anthony,Riotton   Véronique,1,1
+Cellier   Anthony,Lebec   Marie,1,1
+Cellier   Anthony,Raphan   Pierre-Alain,1,1
+Cellier   Anthony,Pouzyreff   Natalia,0,1
+Cellier   Anthony,Hennion   Christine,1,1
+Cellier   Anthony,Chouat   Francis,1,1
+Labaronne   Daniel,Sarles   Nathalie,1,1
+Labaronne   Daniel,Tiegna   Huguette,1,1
+Labaronne   Daniel,Dufeu   Audrey,1,1
+Labaronne   Daniel,Brunet   Anne-France,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Parmentier-Lecocq   Charlotte,1,1
+Labaronne   Daniel,Potterie   Benoit,1,1
+Labaronne   Daniel,Panot   Mathilde,0,1
+Labaronne   Daniel,Lescure   Roland,1,1
+Labaronne   Daniel,Fontenel-Personne   Pascale,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Lebec   Marie,1,1
+Labaronne   Daniel,Raphan   Pierre-Alain,1,1
+Labaronne   Daniel,Pouzyreff   Natalia,0,1
+Labaronne   Daniel,Hennion   Christine,1,1
+Labaronne   Daniel,Chouat   Francis,1,1
+Sarles   Nathalie,Tiegna   Huguette,1,1
+Sarles   Nathalie,Dufeu   Audrey,1,1
+Sarles   Nathalie,Brunet   Anne-France,1,1
+Sarles   Nathalie,Cariou   Émilie,1,1
+Sarles   Nathalie,Le Peih   Nicole,1,1
+Sarles   Nathalie,Parmentier-Lecocq   Charlotte,1,1
+Sarles   Nathalie,Potterie   Benoit,1,1
+Sarles   Nathalie,Panot   Mathilde,0,1
+Sarles   Nathalie,Lescure   Roland,1,1
+Sarles   Nathalie,Fontenel-Personne   Pascale,1,1
+Sarles   Nathalie,Riotton   Véronique,1,1
+Sarles   Nathalie,Lebec   Marie,1,1
+Sarles   Nathalie,Raphan   Pierre-Alain,1,1
+Sarles   Nathalie,Pouzyreff   Natalia,0,1
+Sarles   Nathalie,Hennion   Christine,1,1
+Sarles   Nathalie,Chouat   Francis,1,1
+Tiegna   Huguette,Dufeu   Audrey,1,1
+Tiegna   Huguette,Brunet   Anne-France,1,1
+Tiegna   Huguette,Cariou   Émilie,1,1
+Tiegna   Huguette,Le Peih   Nicole,1,1
+Tiegna   Huguette,Parmentier-Lecocq   Charlotte,1,1
+Tiegna   Huguette,Potterie   Benoit,1,1
+Tiegna   Huguette,Panot   Mathilde,0,1
+Tiegna   Huguette,Lescure   Roland,1,1
+Tiegna   Huguette,Fontenel-Personne   Pascale,1,1
+Tiegna   Huguette,Riotton   Véronique,1,1
+Tiegna   Huguette,Lebec   Marie,1,1
+Tiegna   Huguette,Raphan   Pierre-Alain,1,1
+Tiegna   Huguette,Pouzyreff   Natalia,0,1
+Tiegna   Huguette,Hennion   Christine,1,1
+Tiegna   Huguette,Chouat   Francis,1,1
+Dufeu   Audrey,Brunet   Anne-France,1,1
+Dufeu   Audrey,Cariou   Émilie,1,1
+Dufeu   Audrey,Le Peih   Nicole,1,1
+Dufeu   Audrey,Parmentier-Lecocq   Charlotte,1,1
+Dufeu   Audrey,Potterie   Benoit,1,1
+Dufeu   Audrey,Panot   Mathilde,0,1
+Dufeu   Audrey,Lescure   Roland,1,1
+Dufeu   Audrey,Fontenel-Personne   Pascale,1,1
+Dufeu   Audrey,Riotton   Véronique,1,1
+Dufeu   Audrey,Lebec   Marie,1,1
+Dufeu   Audrey,Raphan   Pierre-Alain,1,1
+Dufeu   Audrey,Pouzyreff   Natalia,0,1
+Dufeu   Audrey,Hennion   Christine,1,1
+Dufeu   Audrey,Chouat   Francis,1,1
+Brunet   Anne-France,Cariou   Émilie,1,1
+Brunet   Anne-France,Le Peih   Nicole,1,1
+Brunet   Anne-France,Parmentier-Lecocq   Charlotte,1,1
+Brunet   Anne-France,Potterie   Benoit,1,1
+Brunet   Anne-France,Panot   Mathilde,0,1
+Brunet   Anne-France,Lescure   Roland,1,1
+Brunet   Anne-France,Fontenel-Personne   Pascale,1,1
+Brunet   Anne-France,Riotton   Véronique,1,1
+Brunet   Anne-France,Lebec   Marie,1,1
+Brunet   Anne-France,Raphan   Pierre-Alain,1,1
+Brunet   Anne-France,Pouzyreff   Natalia,0,1
+Brunet   Anne-France,Hennion   Christine,1,1
+Brunet   Anne-France,Chouat   Francis,1,1
+Cariou   Émilie,Le Peih   Nicole,1,1
+Cariou   Émilie,Parmentier-Lecocq   Charlotte,1,1
+Cariou   Émilie,Potterie   Benoit,1,1
+Cariou   Émilie,Panot   Mathilde,0,1
+Cariou   Émilie,Lescure   Roland,1,1
+Cariou   Émilie,Fontenel-Personne   Pascale,1,1
+Cariou   Émilie,Riotton   Véronique,1,1
+Cariou   Émilie,Lebec   Marie,1,1
+Cariou   Émilie,Raphan   Pierre-Alain,1,1
+Cariou   Émilie,Pouzyreff   Natalia,0,1
+Cariou   Émilie,Hennion   Christine,1,1
+Cariou   Émilie,Chouat   Francis,1,1
+Le Peih   Nicole,Parmentier-Lecocq   Charlotte,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Panot   Mathilde,0,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Fontenel-Personne   Pascale,1,1
+Le Peih   Nicole,Riotton   Véronique,1,1
+Le Peih   Nicole,Lebec   Marie,1,1
+Le Peih   Nicole,Raphan   Pierre-Alain,1,1
+Le Peih   Nicole,Pouzyreff   Natalia,0,1
+Le Peih   Nicole,Hennion   Christine,1,1
+Le Peih   Nicole,Chouat   Francis,1,1
+Parmentier-Lecocq   Charlotte,Potterie   Benoit,1,1
+Parmentier-Lecocq   Charlotte,Panot   Mathilde,0,1
+Parmentier-Lecocq   Charlotte,Lescure   Roland,1,1
+Parmentier-Lecocq   Charlotte,Fontenel-Personne   Pascale,1,1
+Parmentier-Lecocq   Charlotte,Riotton   Véronique,1,1
+Parmentier-Lecocq   Charlotte,Lebec   Marie,1,1
+Parmentier-Lecocq   Charlotte,Raphan   Pierre-Alain,1,1
+Parmentier-Lecocq   Charlotte,Pouzyreff   Natalia,0,1
+Parmentier-Lecocq   Charlotte,Hennion   Christine,1,1
+Parmentier-Lecocq   Charlotte,Chouat   Francis,1,1
+Potterie   Benoit,Panot   Mathilde,0,1
+Potterie   Benoit,Lescure   Roland,1,1
+Potterie   Benoit,Fontenel-Personne   Pascale,1,1
+Potterie   Benoit,Riotton   Véronique,1,1
+Potterie   Benoit,Lebec   Marie,1,1
+Potterie   Benoit,Raphan   Pierre-Alain,1,1
+Potterie   Benoit,Pouzyreff   Natalia,0,1
+Potterie   Benoit,Hennion   Christine,1,1
+Potterie   Benoit,Chouat   Francis,1,1
+Panot   Mathilde,Lescure   Roland,0,1
+Panot   Mathilde,Fontenel-Personne   Pascale,0,1
+Panot   Mathilde,Riotton   Véronique,0,1
+Panot   Mathilde,Lebec   Marie,0,1
+Panot   Mathilde,Raphan   Pierre-Alain,0,1
+Panot   Mathilde,Pouzyreff   Natalia,1,1
+Panot   Mathilde,Hennion   Christine,0,1
+Panot   Mathilde,Chouat   Francis,0,1
+Lescure   Roland,Fontenel-Personne   Pascale,1,1
+Lescure   Roland,Riotton   Véronique,1,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,Raphan   Pierre-Alain,1,1
+Lescure   Roland,Pouzyreff   Natalia,0,1
+Lescure   Roland,Hennion   Christine,1,1
+Lescure   Roland,Chouat   Francis,1,1
+Fontenel-Personne   Pascale,Riotton   Véronique,1,1
+Fontenel-Personne   Pascale,Lebec   Marie,1,1
+Fontenel-Personne   Pascale,Raphan   Pierre-Alain,1,1
+Fontenel-Personne   Pascale,Pouzyreff   Natalia,0,1
+Fontenel-Personne   Pascale,Hennion   Christine,1,1
+Fontenel-Personne   Pascale,Chouat   Francis,1,1
+Riotton   Véronique,Lebec   Marie,1,1
+Riotton   Véronique,Raphan   Pierre-Alain,1,1
+Riotton   Véronique,Pouzyreff   Natalia,0,1
+Riotton   Véronique,Hennion   Christine,1,1
+Riotton   Véronique,Chouat   Francis,1,1
+Lebec   Marie,Raphan   Pierre-Alain,1,1
+Lebec   Marie,Pouzyreff   Natalia,0,1
+Lebec   Marie,Hennion   Christine,1,1
+Lebec   Marie,Chouat   Francis,1,1
+Raphan   Pierre-Alain,Pouzyreff   Natalia,0,1
+Raphan   Pierre-Alain,Hennion   Christine,1,1
+Raphan   Pierre-Alain,Chouat   Francis,1,1
+Pouzyreff   Natalia,Hennion   Christine,0,1
+Pouzyreff   Natalia,Chouat   Francis,0,1
+Hennion   Christine,Chouat   Francis,1,1

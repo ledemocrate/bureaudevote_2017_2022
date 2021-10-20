@@ -1,0 +1,1129 @@
+from,to,vote_commun,loi_commun
+David   Alain,Menuel   Gérard,0,1
+David   Alain,Door   Jean-Pierre,0,1
+David   Alain,Grelier   Jean-Carles,0,1
+David   Alain,Delatte   Rémi,0,1
+David   Alain,Firmin Le Bodo   Agnès,0,1
+David   Alain,Bricout   Jean-Louis,1,1
+David   Alain,Alauzet   Éric,0,1
+David   Alain,Pellois   Hervé,0,1
+David   Alain,Louwagie   Véronique,0,1
+David   Alain,Aviragnet   Joël,1,1
+David   Alain,Dupont   Stella,0,1
+David   Alain,Dufrègne   Jean-Paul,1,1
+David   Alain,Peyrol   Bénédicte,0,1
+David   Alain,Bono-Vandorme   Aude,0,1
+David   Alain,Besson-Moreau   Grégory,0,1
+David   Alain,Dharréville   Pierre,1,1
+David   Alain,Le Vigoureux   Fabrice,0,1
+David   Alain,Bouyx   Bertrand,0,1
+David   Alain,Mesnier   Thomas,0,1
+David   Alain,Michel-Brassart   Monica,0,1
+David   Alain,Fabre   Catherine,0,1
+David   Alain,Prud'homme   Loïc,1,1
+David   Alain,Ménard   Emmanuelle,0,1
+David   Alain,David   Dominique,0,1
+David   Alain,Vallaud   Boris,1,1
+David   Alain,Borowczyk   Julien,0,1
+David   Alain,Rist   Stéphanie,0,1
+David   Alain,Dubré-Chirat   Nicole,0,1
+David   Alain,Belhaddad   Belkhir,0,1
+David   Alain,Trisse   Nicole,0,1
+David   Alain,Perrot   Patrice,0,1
+David   Alain,Osson   Catherine,0,1
+David   Alain,De Temmerman   Jennifer,0,1
+David   Alain,Bru   Vincent,1,1
+David   Alain,Lazaar   Fiona,0,1
+David   Alain,Genetet   Anne,0,1
+David   Alain,Gaillot   Albane,0,1
+David   Alain,Ramadier   Alain,0,1
+David   Alain,Kuster   Brigitte,0,1
+David   Alain,Rupin   Pacôme,0,1
+David   Alain,Fauvergue   Jean-Michel,0,1
+David   Alain,Peyron   Michèle,0,1
+David   Alain,Calvez   Céline,0,1
+David   Alain,Obono   Danièle,1,1
+David   Alain,Bergé   Aurore,0,1
+David   Alain,Fiévet   Jean-Marie,0,1
+David   Alain,Bessot Ballot   Barbara,0,1
+Menuel   Gérard,Door   Jean-Pierre,1,1
+Menuel   Gérard,Grelier   Jean-Carles,1,1
+Menuel   Gérard,Delatte   Rémi,1,1
+Menuel   Gérard,Firmin Le Bodo   Agnès,0,1
+Menuel   Gérard,Bricout   Jean-Louis,0,1
+Menuel   Gérard,Alauzet   Éric,1,1
+Menuel   Gérard,Pellois   Hervé,1,1
+Menuel   Gérard,Louwagie   Véronique,1,1
+Menuel   Gérard,Aviragnet   Joël,0,1
+Menuel   Gérard,Dupont   Stella,1,1
+Menuel   Gérard,Dufrègne   Jean-Paul,0,1
+Menuel   Gérard,Peyrol   Bénédicte,1,1
+Menuel   Gérard,Bono-Vandorme   Aude,1,1
+Menuel   Gérard,Besson-Moreau   Grégory,1,1
+Menuel   Gérard,Dharréville   Pierre,0,1
+Menuel   Gérard,Le Vigoureux   Fabrice,1,1
+Menuel   Gérard,Bouyx   Bertrand,1,1
+Menuel   Gérard,Mesnier   Thomas,1,1
+Menuel   Gérard,Michel-Brassart   Monica,1,1
+Menuel   Gérard,Fabre   Catherine,1,1
+Menuel   Gérard,Prud'homme   Loïc,0,1
+Menuel   Gérard,Ménard   Emmanuelle,0,1
+Menuel   Gérard,David   Dominique,1,1
+Menuel   Gérard,Vallaud   Boris,0,1
+Menuel   Gérard,Borowczyk   Julien,1,1
+Menuel   Gérard,Rist   Stéphanie,1,1
+Menuel   Gérard,Dubré-Chirat   Nicole,1,1
+Menuel   Gérard,Belhaddad   Belkhir,1,1
+Menuel   Gérard,Trisse   Nicole,1,1
+Menuel   Gérard,Perrot   Patrice,1,1
+Menuel   Gérard,Osson   Catherine,1,1
+Menuel   Gérard,De Temmerman   Jennifer,1,1
+Menuel   Gérard,Bru   Vincent,0,1
+Menuel   Gérard,Lazaar   Fiona,1,1
+Menuel   Gérard,Genetet   Anne,1,1
+Menuel   Gérard,Gaillot   Albane,1,1
+Menuel   Gérard,Ramadier   Alain,1,1
+Menuel   Gérard,Kuster   Brigitte,1,1
+Menuel   Gérard,Rupin   Pacôme,1,1
+Menuel   Gérard,Fauvergue   Jean-Michel,1,1
+Menuel   Gérard,Peyron   Michèle,1,1
+Menuel   Gérard,Calvez   Céline,1,1
+Menuel   Gérard,Obono   Danièle,0,1
+Menuel   Gérard,Bergé   Aurore,1,1
+Menuel   Gérard,Fiévet   Jean-Marie,1,1
+Menuel   Gérard,Bessot Ballot   Barbara,1,1
+Door   Jean-Pierre,Grelier   Jean-Carles,1,1
+Door   Jean-Pierre,Delatte   Rémi,1,1
+Door   Jean-Pierre,Firmin Le Bodo   Agnès,0,1
+Door   Jean-Pierre,Bricout   Jean-Louis,0,1
+Door   Jean-Pierre,Alauzet   Éric,1,1
+Door   Jean-Pierre,Pellois   Hervé,1,1
+Door   Jean-Pierre,Louwagie   Véronique,1,1
+Door   Jean-Pierre,Aviragnet   Joël,0,1
+Door   Jean-Pierre,Dupont   Stella,1,1
+Door   Jean-Pierre,Dufrègne   Jean-Paul,0,1
+Door   Jean-Pierre,Peyrol   Bénédicte,1,1
+Door   Jean-Pierre,Bono-Vandorme   Aude,1,1
+Door   Jean-Pierre,Besson-Moreau   Grégory,1,1
+Door   Jean-Pierre,Dharréville   Pierre,0,1
+Door   Jean-Pierre,Le Vigoureux   Fabrice,1,1
+Door   Jean-Pierre,Bouyx   Bertrand,1,1
+Door   Jean-Pierre,Mesnier   Thomas,1,1
+Door   Jean-Pierre,Michel-Brassart   Monica,1,1
+Door   Jean-Pierre,Fabre   Catherine,1,1
+Door   Jean-Pierre,Prud'homme   Loïc,0,1
+Door   Jean-Pierre,Ménard   Emmanuelle,0,1
+Door   Jean-Pierre,David   Dominique,1,1
+Door   Jean-Pierre,Vallaud   Boris,0,1
+Door   Jean-Pierre,Borowczyk   Julien,1,1
+Door   Jean-Pierre,Rist   Stéphanie,1,1
+Door   Jean-Pierre,Dubré-Chirat   Nicole,1,1
+Door   Jean-Pierre,Belhaddad   Belkhir,1,1
+Door   Jean-Pierre,Trisse   Nicole,1,1
+Door   Jean-Pierre,Perrot   Patrice,1,1
+Door   Jean-Pierre,Osson   Catherine,1,1
+Door   Jean-Pierre,De Temmerman   Jennifer,1,1
+Door   Jean-Pierre,Bru   Vincent,0,1
+Door   Jean-Pierre,Lazaar   Fiona,1,1
+Door   Jean-Pierre,Genetet   Anne,1,1
+Door   Jean-Pierre,Gaillot   Albane,1,1
+Door   Jean-Pierre,Ramadier   Alain,1,1
+Door   Jean-Pierre,Kuster   Brigitte,1,1
+Door   Jean-Pierre,Rupin   Pacôme,1,1
+Door   Jean-Pierre,Fauvergue   Jean-Michel,1,1
+Door   Jean-Pierre,Peyron   Michèle,1,1
+Door   Jean-Pierre,Calvez   Céline,1,1
+Door   Jean-Pierre,Obono   Danièle,0,1
+Door   Jean-Pierre,Bergé   Aurore,1,1
+Door   Jean-Pierre,Fiévet   Jean-Marie,1,1
+Door   Jean-Pierre,Bessot Ballot   Barbara,1,1
+Grelier   Jean-Carles,Delatte   Rémi,1,1
+Grelier   Jean-Carles,Firmin Le Bodo   Agnès,0,1
+Grelier   Jean-Carles,Bricout   Jean-Louis,0,1
+Grelier   Jean-Carles,Alauzet   Éric,1,1
+Grelier   Jean-Carles,Pellois   Hervé,1,1
+Grelier   Jean-Carles,Louwagie   Véronique,1,1
+Grelier   Jean-Carles,Aviragnet   Joël,0,1
+Grelier   Jean-Carles,Dupont   Stella,1,1
+Grelier   Jean-Carles,Dufrègne   Jean-Paul,0,1
+Grelier   Jean-Carles,Peyrol   Bénédicte,1,1
+Grelier   Jean-Carles,Bono-Vandorme   Aude,1,1
+Grelier   Jean-Carles,Besson-Moreau   Grégory,1,1
+Grelier   Jean-Carles,Dharréville   Pierre,0,1
+Grelier   Jean-Carles,Le Vigoureux   Fabrice,1,1
+Grelier   Jean-Carles,Bouyx   Bertrand,1,1
+Grelier   Jean-Carles,Mesnier   Thomas,1,1
+Grelier   Jean-Carles,Michel-Brassart   Monica,1,1
+Grelier   Jean-Carles,Fabre   Catherine,1,1
+Grelier   Jean-Carles,Prud'homme   Loïc,0,1
+Grelier   Jean-Carles,Ménard   Emmanuelle,0,1
+Grelier   Jean-Carles,David   Dominique,1,1
+Grelier   Jean-Carles,Vallaud   Boris,0,1
+Grelier   Jean-Carles,Borowczyk   Julien,1,1
+Grelier   Jean-Carles,Rist   Stéphanie,1,1
+Grelier   Jean-Carles,Dubré-Chirat   Nicole,1,1
+Grelier   Jean-Carles,Belhaddad   Belkhir,1,1
+Grelier   Jean-Carles,Trisse   Nicole,1,1
+Grelier   Jean-Carles,Perrot   Patrice,1,1
+Grelier   Jean-Carles,Osson   Catherine,1,1
+Grelier   Jean-Carles,De Temmerman   Jennifer,1,1
+Grelier   Jean-Carles,Bru   Vincent,0,1
+Grelier   Jean-Carles,Lazaar   Fiona,1,1
+Grelier   Jean-Carles,Genetet   Anne,1,1
+Grelier   Jean-Carles,Gaillot   Albane,1,1
+Grelier   Jean-Carles,Ramadier   Alain,1,1
+Grelier   Jean-Carles,Kuster   Brigitte,1,1
+Grelier   Jean-Carles,Rupin   Pacôme,1,1
+Grelier   Jean-Carles,Fauvergue   Jean-Michel,1,1
+Grelier   Jean-Carles,Peyron   Michèle,1,1
+Grelier   Jean-Carles,Calvez   Céline,1,1
+Grelier   Jean-Carles,Obono   Danièle,0,1
+Grelier   Jean-Carles,Bergé   Aurore,1,1
+Grelier   Jean-Carles,Fiévet   Jean-Marie,1,1
+Grelier   Jean-Carles,Bessot Ballot   Barbara,1,1
+Delatte   Rémi,Firmin Le Bodo   Agnès,0,1
+Delatte   Rémi,Bricout   Jean-Louis,0,1
+Delatte   Rémi,Alauzet   Éric,1,1
+Delatte   Rémi,Pellois   Hervé,1,1
+Delatte   Rémi,Louwagie   Véronique,1,1
+Delatte   Rémi,Aviragnet   Joël,0,1
+Delatte   Rémi,Dupont   Stella,1,1
+Delatte   Rémi,Dufrègne   Jean-Paul,0,1
+Delatte   Rémi,Peyrol   Bénédicte,1,1
+Delatte   Rémi,Bono-Vandorme   Aude,1,1
+Delatte   Rémi,Besson-Moreau   Grégory,1,1
+Delatte   Rémi,Dharréville   Pierre,0,1
+Delatte   Rémi,Le Vigoureux   Fabrice,1,1
+Delatte   Rémi,Bouyx   Bertrand,1,1
+Delatte   Rémi,Mesnier   Thomas,1,1
+Delatte   Rémi,Michel-Brassart   Monica,1,1
+Delatte   Rémi,Fabre   Catherine,1,1
+Delatte   Rémi,Prud'homme   Loïc,0,1
+Delatte   Rémi,Ménard   Emmanuelle,0,1
+Delatte   Rémi,David   Dominique,1,1
+Delatte   Rémi,Vallaud   Boris,0,1
+Delatte   Rémi,Borowczyk   Julien,1,1
+Delatte   Rémi,Rist   Stéphanie,1,1
+Delatte   Rémi,Dubré-Chirat   Nicole,1,1
+Delatte   Rémi,Belhaddad   Belkhir,1,1
+Delatte   Rémi,Trisse   Nicole,1,1
+Delatte   Rémi,Perrot   Patrice,1,1
+Delatte   Rémi,Osson   Catherine,1,1
+Delatte   Rémi,De Temmerman   Jennifer,1,1
+Delatte   Rémi,Bru   Vincent,0,1
+Delatte   Rémi,Lazaar   Fiona,1,1
+Delatte   Rémi,Genetet   Anne,1,1
+Delatte   Rémi,Gaillot   Albane,1,1
+Delatte   Rémi,Ramadier   Alain,1,1
+Delatte   Rémi,Kuster   Brigitte,1,1
+Delatte   Rémi,Rupin   Pacôme,1,1
+Delatte   Rémi,Fauvergue   Jean-Michel,1,1
+Delatte   Rémi,Peyron   Michèle,1,1
+Delatte   Rémi,Calvez   Céline,1,1
+Delatte   Rémi,Obono   Danièle,0,1
+Delatte   Rémi,Bergé   Aurore,1,1
+Delatte   Rémi,Fiévet   Jean-Marie,1,1
+Delatte   Rémi,Bessot Ballot   Barbara,1,1
+Firmin Le Bodo   Agnès,Bricout   Jean-Louis,0,1
+Firmin Le Bodo   Agnès,Alauzet   Éric,0,1
+Firmin Le Bodo   Agnès,Pellois   Hervé,0,1
+Firmin Le Bodo   Agnès,Louwagie   Véronique,0,1
+Firmin Le Bodo   Agnès,Aviragnet   Joël,0,1
+Firmin Le Bodo   Agnès,Dupont   Stella,0,1
+Firmin Le Bodo   Agnès,Dufrègne   Jean-Paul,0,1
+Firmin Le Bodo   Agnès,Peyrol   Bénédicte,0,1
+Firmin Le Bodo   Agnès,Bono-Vandorme   Aude,0,1
+Firmin Le Bodo   Agnès,Besson-Moreau   Grégory,0,1
+Firmin Le Bodo   Agnès,Dharréville   Pierre,0,1
+Firmin Le Bodo   Agnès,Le Vigoureux   Fabrice,0,1
+Firmin Le Bodo   Agnès,Bouyx   Bertrand,0,1
+Firmin Le Bodo   Agnès,Mesnier   Thomas,0,1
+Firmin Le Bodo   Agnès,Michel-Brassart   Monica,0,1
+Firmin Le Bodo   Agnès,Fabre   Catherine,0,1
+Firmin Le Bodo   Agnès,Prud'homme   Loïc,0,1
+Firmin Le Bodo   Agnès,Ménard   Emmanuelle,1,1
+Firmin Le Bodo   Agnès,David   Dominique,0,1
+Firmin Le Bodo   Agnès,Vallaud   Boris,0,1
+Firmin Le Bodo   Agnès,Borowczyk   Julien,0,1
+Firmin Le Bodo   Agnès,Rist   Stéphanie,0,1
+Firmin Le Bodo   Agnès,Dubré-Chirat   Nicole,0,1
+Firmin Le Bodo   Agnès,Belhaddad   Belkhir,0,1
+Firmin Le Bodo   Agnès,Trisse   Nicole,0,1
+Firmin Le Bodo   Agnès,Perrot   Patrice,0,1
+Firmin Le Bodo   Agnès,Osson   Catherine,0,1
+Firmin Le Bodo   Agnès,De Temmerman   Jennifer,0,1
+Firmin Le Bodo   Agnès,Bru   Vincent,0,1
+Firmin Le Bodo   Agnès,Lazaar   Fiona,0,1
+Firmin Le Bodo   Agnès,Genetet   Anne,0,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,0,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,0,1
+Firmin Le Bodo   Agnès,Kuster   Brigitte,0,1
+Firmin Le Bodo   Agnès,Rupin   Pacôme,0,1
+Firmin Le Bodo   Agnès,Fauvergue   Jean-Michel,0,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,0,1
+Firmin Le Bodo   Agnès,Calvez   Céline,0,1
+Firmin Le Bodo   Agnès,Obono   Danièle,0,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,0,1
+Firmin Le Bodo   Agnès,Fiévet   Jean-Marie,0,1
+Firmin Le Bodo   Agnès,Bessot Ballot   Barbara,0,1
+Bricout   Jean-Louis,Alauzet   Éric,0,1
+Bricout   Jean-Louis,Pellois   Hervé,0,1
+Bricout   Jean-Louis,Louwagie   Véronique,0,1
+Bricout   Jean-Louis,Aviragnet   Joël,1,1
+Bricout   Jean-Louis,Dupont   Stella,0,1
+Bricout   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Bono-Vandorme   Aude,0,1
+Bricout   Jean-Louis,Besson-Moreau   Grégory,0,1
+Bricout   Jean-Louis,Dharréville   Pierre,1,1
+Bricout   Jean-Louis,Le Vigoureux   Fabrice,0,1
+Bricout   Jean-Louis,Bouyx   Bertrand,0,1
+Bricout   Jean-Louis,Mesnier   Thomas,0,1
+Bricout   Jean-Louis,Michel-Brassart   Monica,0,1
+Bricout   Jean-Louis,Fabre   Catherine,0,1
+Bricout   Jean-Louis,Prud'homme   Loïc,1,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,David   Dominique,0,1
+Bricout   Jean-Louis,Vallaud   Boris,1,1
+Bricout   Jean-Louis,Borowczyk   Julien,0,1
+Bricout   Jean-Louis,Rist   Stéphanie,0,1
+Bricout   Jean-Louis,Dubré-Chirat   Nicole,0,1
+Bricout   Jean-Louis,Belhaddad   Belkhir,0,1
+Bricout   Jean-Louis,Trisse   Nicole,0,1
+Bricout   Jean-Louis,Perrot   Patrice,0,1
+Bricout   Jean-Louis,Osson   Catherine,0,1
+Bricout   Jean-Louis,De Temmerman   Jennifer,0,1
+Bricout   Jean-Louis,Bru   Vincent,1,1
+Bricout   Jean-Louis,Lazaar   Fiona,0,1
+Bricout   Jean-Louis,Genetet   Anne,0,1
+Bricout   Jean-Louis,Gaillot   Albane,0,1
+Bricout   Jean-Louis,Ramadier   Alain,0,1
+Bricout   Jean-Louis,Kuster   Brigitte,0,1
+Bricout   Jean-Louis,Rupin   Pacôme,0,1
+Bricout   Jean-Louis,Fauvergue   Jean-Michel,0,1
+Bricout   Jean-Louis,Peyron   Michèle,0,1
+Bricout   Jean-Louis,Calvez   Céline,0,1
+Bricout   Jean-Louis,Obono   Danièle,1,1
+Bricout   Jean-Louis,Bergé   Aurore,0,1
+Bricout   Jean-Louis,Fiévet   Jean-Marie,0,1
+Bricout   Jean-Louis,Bessot Ballot   Barbara,0,1
+Alauzet   Éric,Pellois   Hervé,1,1
+Alauzet   Éric,Louwagie   Véronique,1,1
+Alauzet   Éric,Aviragnet   Joël,0,1
+Alauzet   Éric,Dupont   Stella,1,1
+Alauzet   Éric,Dufrègne   Jean-Paul,0,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Bono-Vandorme   Aude,1,1
+Alauzet   Éric,Besson-Moreau   Grégory,1,1
+Alauzet   Éric,Dharréville   Pierre,0,1
+Alauzet   Éric,Le Vigoureux   Fabrice,1,1
+Alauzet   Éric,Bouyx   Bertrand,1,1
+Alauzet   Éric,Mesnier   Thomas,1,1
+Alauzet   Éric,Michel-Brassart   Monica,1,1
+Alauzet   Éric,Fabre   Catherine,1,1
+Alauzet   Éric,Prud'homme   Loïc,0,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,David   Dominique,1,1
+Alauzet   Éric,Vallaud   Boris,0,1
+Alauzet   Éric,Borowczyk   Julien,1,1
+Alauzet   Éric,Rist   Stéphanie,1,1
+Alauzet   Éric,Dubré-Chirat   Nicole,1,1
+Alauzet   Éric,Belhaddad   Belkhir,1,1
+Alauzet   Éric,Trisse   Nicole,1,1
+Alauzet   Éric,Perrot   Patrice,1,1
+Alauzet   Éric,Osson   Catherine,1,1
+Alauzet   Éric,De Temmerman   Jennifer,1,1
+Alauzet   Éric,Bru   Vincent,0,1
+Alauzet   Éric,Lazaar   Fiona,1,1
+Alauzet   Éric,Genetet   Anne,1,1
+Alauzet   Éric,Gaillot   Albane,1,1
+Alauzet   Éric,Ramadier   Alain,1,1
+Alauzet   Éric,Kuster   Brigitte,1,1
+Alauzet   Éric,Rupin   Pacôme,1,1
+Alauzet   Éric,Fauvergue   Jean-Michel,1,1
+Alauzet   Éric,Peyron   Michèle,1,1
+Alauzet   Éric,Calvez   Céline,1,1
+Alauzet   Éric,Obono   Danièle,0,1
+Alauzet   Éric,Bergé   Aurore,1,1
+Alauzet   Éric,Fiévet   Jean-Marie,1,1
+Alauzet   Éric,Bessot Ballot   Barbara,1,1
+Pellois   Hervé,Louwagie   Véronique,1,1
+Pellois   Hervé,Aviragnet   Joël,0,1
+Pellois   Hervé,Dupont   Stella,1,1
+Pellois   Hervé,Dufrègne   Jean-Paul,0,1
+Pellois   Hervé,Peyrol   Bénédicte,1,1
+Pellois   Hervé,Bono-Vandorme   Aude,1,1
+Pellois   Hervé,Besson-Moreau   Grégory,1,1
+Pellois   Hervé,Dharréville   Pierre,0,1
+Pellois   Hervé,Le Vigoureux   Fabrice,1,1
+Pellois   Hervé,Bouyx   Bertrand,1,1
+Pellois   Hervé,Mesnier   Thomas,1,1
+Pellois   Hervé,Michel-Brassart   Monica,1,1
+Pellois   Hervé,Fabre   Catherine,1,1
+Pellois   Hervé,Prud'homme   Loïc,0,1
+Pellois   Hervé,Ménard   Emmanuelle,0,1
+Pellois   Hervé,David   Dominique,1,1
+Pellois   Hervé,Vallaud   Boris,0,1
+Pellois   Hervé,Borowczyk   Julien,1,1
+Pellois   Hervé,Rist   Stéphanie,1,1
+Pellois   Hervé,Dubré-Chirat   Nicole,1,1
+Pellois   Hervé,Belhaddad   Belkhir,1,1
+Pellois   Hervé,Trisse   Nicole,1,1
+Pellois   Hervé,Perrot   Patrice,1,1
+Pellois   Hervé,Osson   Catherine,1,1
+Pellois   Hervé,De Temmerman   Jennifer,1,1
+Pellois   Hervé,Bru   Vincent,0,1
+Pellois   Hervé,Lazaar   Fiona,1,1
+Pellois   Hervé,Genetet   Anne,1,1
+Pellois   Hervé,Gaillot   Albane,1,1
+Pellois   Hervé,Ramadier   Alain,1,1
+Pellois   Hervé,Kuster   Brigitte,1,1
+Pellois   Hervé,Rupin   Pacôme,1,1
+Pellois   Hervé,Fauvergue   Jean-Michel,1,1
+Pellois   Hervé,Peyron   Michèle,1,1
+Pellois   Hervé,Calvez   Céline,1,1
+Pellois   Hervé,Obono   Danièle,0,1
+Pellois   Hervé,Bergé   Aurore,1,1
+Pellois   Hervé,Fiévet   Jean-Marie,1,1
+Pellois   Hervé,Bessot Ballot   Barbara,1,1
+Louwagie   Véronique,Aviragnet   Joël,0,1
+Louwagie   Véronique,Dupont   Stella,1,1
+Louwagie   Véronique,Dufrègne   Jean-Paul,0,1
+Louwagie   Véronique,Peyrol   Bénédicte,1,1
+Louwagie   Véronique,Bono-Vandorme   Aude,1,1
+Louwagie   Véronique,Besson-Moreau   Grégory,1,1
+Louwagie   Véronique,Dharréville   Pierre,0,1
+Louwagie   Véronique,Le Vigoureux   Fabrice,1,1
+Louwagie   Véronique,Bouyx   Bertrand,1,1
+Louwagie   Véronique,Mesnier   Thomas,1,1
+Louwagie   Véronique,Michel-Brassart   Monica,1,1
+Louwagie   Véronique,Fabre   Catherine,1,1
+Louwagie   Véronique,Prud'homme   Loïc,0,1
+Louwagie   Véronique,Ménard   Emmanuelle,0,1
+Louwagie   Véronique,David   Dominique,1,1
+Louwagie   Véronique,Vallaud   Boris,0,1
+Louwagie   Véronique,Borowczyk   Julien,1,1
+Louwagie   Véronique,Rist   Stéphanie,1,1
+Louwagie   Véronique,Dubré-Chirat   Nicole,1,1
+Louwagie   Véronique,Belhaddad   Belkhir,1,1
+Louwagie   Véronique,Trisse   Nicole,1,1
+Louwagie   Véronique,Perrot   Patrice,1,1
+Louwagie   Véronique,Osson   Catherine,1,1
+Louwagie   Véronique,De Temmerman   Jennifer,1,1
+Louwagie   Véronique,Bru   Vincent,0,1
+Louwagie   Véronique,Lazaar   Fiona,1,1
+Louwagie   Véronique,Genetet   Anne,1,1
+Louwagie   Véronique,Gaillot   Albane,1,1
+Louwagie   Véronique,Ramadier   Alain,1,1
+Louwagie   Véronique,Kuster   Brigitte,1,1
+Louwagie   Véronique,Rupin   Pacôme,1,1
+Louwagie   Véronique,Fauvergue   Jean-Michel,1,1
+Louwagie   Véronique,Peyron   Michèle,1,1
+Louwagie   Véronique,Calvez   Céline,1,1
+Louwagie   Véronique,Obono   Danièle,0,1
+Louwagie   Véronique,Bergé   Aurore,1,1
+Louwagie   Véronique,Fiévet   Jean-Marie,1,1
+Louwagie   Véronique,Bessot Ballot   Barbara,1,1
+Aviragnet   Joël,Dupont   Stella,0,1
+Aviragnet   Joël,Dufrègne   Jean-Paul,1,1
+Aviragnet   Joël,Peyrol   Bénédicte,0,1
+Aviragnet   Joël,Bono-Vandorme   Aude,0,1
+Aviragnet   Joël,Besson-Moreau   Grégory,0,1
+Aviragnet   Joël,Dharréville   Pierre,1,1
+Aviragnet   Joël,Le Vigoureux   Fabrice,0,1
+Aviragnet   Joël,Bouyx   Bertrand,0,1
+Aviragnet   Joël,Mesnier   Thomas,0,1
+Aviragnet   Joël,Michel-Brassart   Monica,0,1
+Aviragnet   Joël,Fabre   Catherine,0,1
+Aviragnet   Joël,Prud'homme   Loïc,1,1
+Aviragnet   Joël,Ménard   Emmanuelle,0,1
+Aviragnet   Joël,David   Dominique,0,1
+Aviragnet   Joël,Vallaud   Boris,1,1
+Aviragnet   Joël,Borowczyk   Julien,0,1
+Aviragnet   Joël,Rist   Stéphanie,0,1
+Aviragnet   Joël,Dubré-Chirat   Nicole,0,1
+Aviragnet   Joël,Belhaddad   Belkhir,0,1
+Aviragnet   Joël,Trisse   Nicole,0,1
+Aviragnet   Joël,Perrot   Patrice,0,1
+Aviragnet   Joël,Osson   Catherine,0,1
+Aviragnet   Joël,De Temmerman   Jennifer,0,1
+Aviragnet   Joël,Bru   Vincent,1,1
+Aviragnet   Joël,Lazaar   Fiona,0,1
+Aviragnet   Joël,Genetet   Anne,0,1
+Aviragnet   Joël,Gaillot   Albane,0,1
+Aviragnet   Joël,Ramadier   Alain,0,1
+Aviragnet   Joël,Kuster   Brigitte,0,1
+Aviragnet   Joël,Rupin   Pacôme,0,1
+Aviragnet   Joël,Fauvergue   Jean-Michel,0,1
+Aviragnet   Joël,Peyron   Michèle,0,1
+Aviragnet   Joël,Calvez   Céline,0,1
+Aviragnet   Joël,Obono   Danièle,1,1
+Aviragnet   Joël,Bergé   Aurore,0,1
+Aviragnet   Joël,Fiévet   Jean-Marie,0,1
+Aviragnet   Joël,Bessot Ballot   Barbara,0,1
+Dupont   Stella,Dufrègne   Jean-Paul,0,1
+Dupont   Stella,Peyrol   Bénédicte,1,1
+Dupont   Stella,Bono-Vandorme   Aude,1,1
+Dupont   Stella,Besson-Moreau   Grégory,1,1
+Dupont   Stella,Dharréville   Pierre,0,1
+Dupont   Stella,Le Vigoureux   Fabrice,1,1
+Dupont   Stella,Bouyx   Bertrand,1,1
+Dupont   Stella,Mesnier   Thomas,1,1
+Dupont   Stella,Michel-Brassart   Monica,1,1
+Dupont   Stella,Fabre   Catherine,1,1
+Dupont   Stella,Prud'homme   Loïc,0,1
+Dupont   Stella,Ménard   Emmanuelle,0,1
+Dupont   Stella,David   Dominique,1,1
+Dupont   Stella,Vallaud   Boris,0,1
+Dupont   Stella,Borowczyk   Julien,1,1
+Dupont   Stella,Rist   Stéphanie,1,1
+Dupont   Stella,Dubré-Chirat   Nicole,1,1
+Dupont   Stella,Belhaddad   Belkhir,1,1
+Dupont   Stella,Trisse   Nicole,1,1
+Dupont   Stella,Perrot   Patrice,1,1
+Dupont   Stella,Osson   Catherine,1,1
+Dupont   Stella,De Temmerman   Jennifer,1,1
+Dupont   Stella,Bru   Vincent,0,1
+Dupont   Stella,Lazaar   Fiona,1,1
+Dupont   Stella,Genetet   Anne,1,1
+Dupont   Stella,Gaillot   Albane,1,1
+Dupont   Stella,Ramadier   Alain,1,1
+Dupont   Stella,Kuster   Brigitte,1,1
+Dupont   Stella,Rupin   Pacôme,1,1
+Dupont   Stella,Fauvergue   Jean-Michel,1,1
+Dupont   Stella,Peyron   Michèle,1,1
+Dupont   Stella,Calvez   Céline,1,1
+Dupont   Stella,Obono   Danièle,0,1
+Dupont   Stella,Bergé   Aurore,1,1
+Dupont   Stella,Fiévet   Jean-Marie,1,1
+Dupont   Stella,Bessot Ballot   Barbara,1,1
+Dufrègne   Jean-Paul,Peyrol   Bénédicte,0,1
+Dufrègne   Jean-Paul,Bono-Vandorme   Aude,0,1
+Dufrègne   Jean-Paul,Besson-Moreau   Grégory,0,1
+Dufrègne   Jean-Paul,Dharréville   Pierre,1,1
+Dufrègne   Jean-Paul,Le Vigoureux   Fabrice,0,1
+Dufrègne   Jean-Paul,Bouyx   Bertrand,0,1
+Dufrègne   Jean-Paul,Mesnier   Thomas,0,1
+Dufrègne   Jean-Paul,Michel-Brassart   Monica,0,1
+Dufrègne   Jean-Paul,Fabre   Catherine,0,1
+Dufrègne   Jean-Paul,Prud'homme   Loïc,1,1
+Dufrègne   Jean-Paul,Ménard   Emmanuelle,0,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Vallaud   Boris,1,1
+Dufrègne   Jean-Paul,Borowczyk   Julien,0,1
+Dufrègne   Jean-Paul,Rist   Stéphanie,0,1
+Dufrègne   Jean-Paul,Dubré-Chirat   Nicole,0,1
+Dufrègne   Jean-Paul,Belhaddad   Belkhir,0,1
+Dufrègne   Jean-Paul,Trisse   Nicole,0,1
+Dufrègne   Jean-Paul,Perrot   Patrice,0,1
+Dufrègne   Jean-Paul,Osson   Catherine,0,1
+Dufrègne   Jean-Paul,De Temmerman   Jennifer,0,1
+Dufrègne   Jean-Paul,Bru   Vincent,1,1
+Dufrègne   Jean-Paul,Lazaar   Fiona,0,1
+Dufrègne   Jean-Paul,Genetet   Anne,0,1
+Dufrègne   Jean-Paul,Gaillot   Albane,0,1
+Dufrègne   Jean-Paul,Ramadier   Alain,0,1
+Dufrègne   Jean-Paul,Kuster   Brigitte,0,1
+Dufrègne   Jean-Paul,Rupin   Pacôme,0,1
+Dufrègne   Jean-Paul,Fauvergue   Jean-Michel,0,1
+Dufrègne   Jean-Paul,Peyron   Michèle,0,1
+Dufrègne   Jean-Paul,Calvez   Céline,0,1
+Dufrègne   Jean-Paul,Obono   Danièle,1,1
+Dufrègne   Jean-Paul,Bergé   Aurore,0,1
+Dufrègne   Jean-Paul,Fiévet   Jean-Marie,0,1
+Dufrègne   Jean-Paul,Bessot Ballot   Barbara,0,1
+Peyrol   Bénédicte,Bono-Vandorme   Aude,1,1
+Peyrol   Bénédicte,Besson-Moreau   Grégory,1,1
+Peyrol   Bénédicte,Dharréville   Pierre,0,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Bouyx   Bertrand,1,1
+Peyrol   Bénédicte,Mesnier   Thomas,1,1
+Peyrol   Bénédicte,Michel-Brassart   Monica,1,1
+Peyrol   Bénédicte,Fabre   Catherine,1,1
+Peyrol   Bénédicte,Prud'homme   Loïc,0,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,David   Dominique,1,1
+Peyrol   Bénédicte,Vallaud   Boris,0,1
+Peyrol   Bénédicte,Borowczyk   Julien,1,1
+Peyrol   Bénédicte,Rist   Stéphanie,1,1
+Peyrol   Bénédicte,Dubré-Chirat   Nicole,1,1
+Peyrol   Bénédicte,Belhaddad   Belkhir,1,1
+Peyrol   Bénédicte,Trisse   Nicole,1,1
+Peyrol   Bénédicte,Perrot   Patrice,1,1
+Peyrol   Bénédicte,Osson   Catherine,1,1
+Peyrol   Bénédicte,De Temmerman   Jennifer,1,1
+Peyrol   Bénédicte,Bru   Vincent,0,1
+Peyrol   Bénédicte,Lazaar   Fiona,1,1
+Peyrol   Bénédicte,Genetet   Anne,1,1
+Peyrol   Bénédicte,Gaillot   Albane,1,1
+Peyrol   Bénédicte,Ramadier   Alain,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,1,1
+Peyrol   Bénédicte,Rupin   Pacôme,1,1
+Peyrol   Bénédicte,Fauvergue   Jean-Michel,1,1
+Peyrol   Bénédicte,Peyron   Michèle,1,1
+Peyrol   Bénédicte,Calvez   Céline,1,1
+Peyrol   Bénédicte,Obono   Danièle,0,1
+Peyrol   Bénédicte,Bergé   Aurore,1,1
+Peyrol   Bénédicte,Fiévet   Jean-Marie,1,1
+Peyrol   Bénédicte,Bessot Ballot   Barbara,1,1
+Bono-Vandorme   Aude,Besson-Moreau   Grégory,1,1
+Bono-Vandorme   Aude,Dharréville   Pierre,0,1
+Bono-Vandorme   Aude,Le Vigoureux   Fabrice,1,1
+Bono-Vandorme   Aude,Bouyx   Bertrand,1,1
+Bono-Vandorme   Aude,Mesnier   Thomas,1,1
+Bono-Vandorme   Aude,Michel-Brassart   Monica,1,1
+Bono-Vandorme   Aude,Fabre   Catherine,1,1
+Bono-Vandorme   Aude,Prud'homme   Loïc,0,1
+Bono-Vandorme   Aude,Ménard   Emmanuelle,0,1
+Bono-Vandorme   Aude,David   Dominique,1,1
+Bono-Vandorme   Aude,Vallaud   Boris,0,1
+Bono-Vandorme   Aude,Borowczyk   Julien,1,1
+Bono-Vandorme   Aude,Rist   Stéphanie,1,1
+Bono-Vandorme   Aude,Dubré-Chirat   Nicole,1,1
+Bono-Vandorme   Aude,Belhaddad   Belkhir,1,1
+Bono-Vandorme   Aude,Trisse   Nicole,1,1
+Bono-Vandorme   Aude,Perrot   Patrice,1,1
+Bono-Vandorme   Aude,Osson   Catherine,1,1
+Bono-Vandorme   Aude,De Temmerman   Jennifer,1,1
+Bono-Vandorme   Aude,Bru   Vincent,0,1
+Bono-Vandorme   Aude,Lazaar   Fiona,1,1
+Bono-Vandorme   Aude,Genetet   Anne,1,1
+Bono-Vandorme   Aude,Gaillot   Albane,1,1
+Bono-Vandorme   Aude,Ramadier   Alain,1,1
+Bono-Vandorme   Aude,Kuster   Brigitte,1,1
+Bono-Vandorme   Aude,Rupin   Pacôme,1,1
+Bono-Vandorme   Aude,Fauvergue   Jean-Michel,1,1
+Bono-Vandorme   Aude,Peyron   Michèle,1,1
+Bono-Vandorme   Aude,Calvez   Céline,1,1
+Bono-Vandorme   Aude,Obono   Danièle,0,1
+Bono-Vandorme   Aude,Bergé   Aurore,1,1
+Bono-Vandorme   Aude,Fiévet   Jean-Marie,1,1
+Bono-Vandorme   Aude,Bessot Ballot   Barbara,1,1
+Besson-Moreau   Grégory,Dharréville   Pierre,0,1
+Besson-Moreau   Grégory,Le Vigoureux   Fabrice,1,1
+Besson-Moreau   Grégory,Bouyx   Bertrand,1,1
+Besson-Moreau   Grégory,Mesnier   Thomas,1,1
+Besson-Moreau   Grégory,Michel-Brassart   Monica,1,1
+Besson-Moreau   Grégory,Fabre   Catherine,1,1
+Besson-Moreau   Grégory,Prud'homme   Loïc,0,1
+Besson-Moreau   Grégory,Ménard   Emmanuelle,0,1
+Besson-Moreau   Grégory,David   Dominique,1,1
+Besson-Moreau   Grégory,Vallaud   Boris,0,1
+Besson-Moreau   Grégory,Borowczyk   Julien,1,1
+Besson-Moreau   Grégory,Rist   Stéphanie,1,1
+Besson-Moreau   Grégory,Dubré-Chirat   Nicole,1,1
+Besson-Moreau   Grégory,Belhaddad   Belkhir,1,1
+Besson-Moreau   Grégory,Trisse   Nicole,1,1
+Besson-Moreau   Grégory,Perrot   Patrice,1,1
+Besson-Moreau   Grégory,Osson   Catherine,1,1
+Besson-Moreau   Grégory,De Temmerman   Jennifer,1,1
+Besson-Moreau   Grégory,Bru   Vincent,0,1
+Besson-Moreau   Grégory,Lazaar   Fiona,1,1
+Besson-Moreau   Grégory,Genetet   Anne,1,1
+Besson-Moreau   Grégory,Gaillot   Albane,1,1
+Besson-Moreau   Grégory,Ramadier   Alain,1,1
+Besson-Moreau   Grégory,Kuster   Brigitte,1,1
+Besson-Moreau   Grégory,Rupin   Pacôme,1,1
+Besson-Moreau   Grégory,Fauvergue   Jean-Michel,1,1
+Besson-Moreau   Grégory,Peyron   Michèle,1,1
+Besson-Moreau   Grégory,Calvez   Céline,1,1
+Besson-Moreau   Grégory,Obono   Danièle,0,1
+Besson-Moreau   Grégory,Bergé   Aurore,1,1
+Besson-Moreau   Grégory,Fiévet   Jean-Marie,1,1
+Besson-Moreau   Grégory,Bessot Ballot   Barbara,1,1
+Dharréville   Pierre,Le Vigoureux   Fabrice,0,1
+Dharréville   Pierre,Bouyx   Bertrand,0,1
+Dharréville   Pierre,Mesnier   Thomas,0,1
+Dharréville   Pierre,Michel-Brassart   Monica,0,1
+Dharréville   Pierre,Fabre   Catherine,0,1
+Dharréville   Pierre,Prud'homme   Loïc,1,1
+Dharréville   Pierre,Ménard   Emmanuelle,0,1
+Dharréville   Pierre,David   Dominique,0,1
+Dharréville   Pierre,Vallaud   Boris,1,1
+Dharréville   Pierre,Borowczyk   Julien,0,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Belhaddad   Belkhir,0,1
+Dharréville   Pierre,Trisse   Nicole,0,1
+Dharréville   Pierre,Perrot   Patrice,0,1
+Dharréville   Pierre,Osson   Catherine,0,1
+Dharréville   Pierre,De Temmerman   Jennifer,0,1
+Dharréville   Pierre,Bru   Vincent,1,1
+Dharréville   Pierre,Lazaar   Fiona,0,1
+Dharréville   Pierre,Genetet   Anne,0,1
+Dharréville   Pierre,Gaillot   Albane,0,1
+Dharréville   Pierre,Ramadier   Alain,0,1
+Dharréville   Pierre,Kuster   Brigitte,0,1
+Dharréville   Pierre,Rupin   Pacôme,0,1
+Dharréville   Pierre,Fauvergue   Jean-Michel,0,1
+Dharréville   Pierre,Peyron   Michèle,0,1
+Dharréville   Pierre,Calvez   Céline,0,1
+Dharréville   Pierre,Obono   Danièle,1,1
+Dharréville   Pierre,Bergé   Aurore,0,1
+Dharréville   Pierre,Fiévet   Jean-Marie,0,1
+Dharréville   Pierre,Bessot Ballot   Barbara,0,1
+Le Vigoureux   Fabrice,Bouyx   Bertrand,1,1
+Le Vigoureux   Fabrice,Mesnier   Thomas,1,1
+Le Vigoureux   Fabrice,Michel-Brassart   Monica,1,1
+Le Vigoureux   Fabrice,Fabre   Catherine,1,1
+Le Vigoureux   Fabrice,Prud'homme   Loïc,0,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,0,1
+Le Vigoureux   Fabrice,David   Dominique,1,1
+Le Vigoureux   Fabrice,Vallaud   Boris,0,1
+Le Vigoureux   Fabrice,Borowczyk   Julien,1,1
+Le Vigoureux   Fabrice,Rist   Stéphanie,1,1
+Le Vigoureux   Fabrice,Dubré-Chirat   Nicole,1,1
+Le Vigoureux   Fabrice,Belhaddad   Belkhir,1,1
+Le Vigoureux   Fabrice,Trisse   Nicole,1,1
+Le Vigoureux   Fabrice,Perrot   Patrice,1,1
+Le Vigoureux   Fabrice,Osson   Catherine,1,1
+Le Vigoureux   Fabrice,De Temmerman   Jennifer,1,1
+Le Vigoureux   Fabrice,Bru   Vincent,0,1
+Le Vigoureux   Fabrice,Lazaar   Fiona,1,1
+Le Vigoureux   Fabrice,Genetet   Anne,1,1
+Le Vigoureux   Fabrice,Gaillot   Albane,1,1
+Le Vigoureux   Fabrice,Ramadier   Alain,1,1
+Le Vigoureux   Fabrice,Kuster   Brigitte,1,1
+Le Vigoureux   Fabrice,Rupin   Pacôme,1,1
+Le Vigoureux   Fabrice,Fauvergue   Jean-Michel,1,1
+Le Vigoureux   Fabrice,Peyron   Michèle,1,1
+Le Vigoureux   Fabrice,Calvez   Céline,1,1
+Le Vigoureux   Fabrice,Obono   Danièle,0,1
+Le Vigoureux   Fabrice,Bergé   Aurore,1,1
+Le Vigoureux   Fabrice,Fiévet   Jean-Marie,1,1
+Le Vigoureux   Fabrice,Bessot Ballot   Barbara,1,1
+Bouyx   Bertrand,Mesnier   Thomas,1,1
+Bouyx   Bertrand,Michel-Brassart   Monica,1,1
+Bouyx   Bertrand,Fabre   Catherine,1,1
+Bouyx   Bertrand,Prud'homme   Loïc,0,1
+Bouyx   Bertrand,Ménard   Emmanuelle,0,1
+Bouyx   Bertrand,David   Dominique,1,1
+Bouyx   Bertrand,Vallaud   Boris,0,1
+Bouyx   Bertrand,Borowczyk   Julien,1,1
+Bouyx   Bertrand,Rist   Stéphanie,1,1
+Bouyx   Bertrand,Dubré-Chirat   Nicole,1,1
+Bouyx   Bertrand,Belhaddad   Belkhir,1,1
+Bouyx   Bertrand,Trisse   Nicole,1,1
+Bouyx   Bertrand,Perrot   Patrice,1,1
+Bouyx   Bertrand,Osson   Catherine,1,1
+Bouyx   Bertrand,De Temmerman   Jennifer,1,1
+Bouyx   Bertrand,Bru   Vincent,0,1
+Bouyx   Bertrand,Lazaar   Fiona,1,1
+Bouyx   Bertrand,Genetet   Anne,1,1
+Bouyx   Bertrand,Gaillot   Albane,1,1
+Bouyx   Bertrand,Ramadier   Alain,1,1
+Bouyx   Bertrand,Kuster   Brigitte,1,1
+Bouyx   Bertrand,Rupin   Pacôme,1,1
+Bouyx   Bertrand,Fauvergue   Jean-Michel,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Calvez   Céline,1,1
+Bouyx   Bertrand,Obono   Danièle,0,1
+Bouyx   Bertrand,Bergé   Aurore,1,1
+Bouyx   Bertrand,Fiévet   Jean-Marie,1,1
+Bouyx   Bertrand,Bessot Ballot   Barbara,1,1
+Mesnier   Thomas,Michel-Brassart   Monica,1,1
+Mesnier   Thomas,Fabre   Catherine,1,1
+Mesnier   Thomas,Prud'homme   Loïc,0,1
+Mesnier   Thomas,Ménard   Emmanuelle,0,1
+Mesnier   Thomas,David   Dominique,1,1
+Mesnier   Thomas,Vallaud   Boris,0,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Rist   Stéphanie,1,1
+Mesnier   Thomas,Dubré-Chirat   Nicole,1,1
+Mesnier   Thomas,Belhaddad   Belkhir,1,1
+Mesnier   Thomas,Trisse   Nicole,1,1
+Mesnier   Thomas,Perrot   Patrice,1,1
+Mesnier   Thomas,Osson   Catherine,1,1
+Mesnier   Thomas,De Temmerman   Jennifer,1,1
+Mesnier   Thomas,Bru   Vincent,0,1
+Mesnier   Thomas,Lazaar   Fiona,1,1
+Mesnier   Thomas,Genetet   Anne,1,1
+Mesnier   Thomas,Gaillot   Albane,1,1
+Mesnier   Thomas,Ramadier   Alain,1,1
+Mesnier   Thomas,Kuster   Brigitte,1,1
+Mesnier   Thomas,Rupin   Pacôme,1,1
+Mesnier   Thomas,Fauvergue   Jean-Michel,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Calvez   Céline,1,1
+Mesnier   Thomas,Obono   Danièle,0,1
+Mesnier   Thomas,Bergé   Aurore,1,1
+Mesnier   Thomas,Fiévet   Jean-Marie,1,1
+Mesnier   Thomas,Bessot Ballot   Barbara,1,1
+Michel-Brassart   Monica,Fabre   Catherine,1,1
+Michel-Brassart   Monica,Prud'homme   Loïc,0,1
+Michel-Brassart   Monica,Ménard   Emmanuelle,0,1
+Michel-Brassart   Monica,David   Dominique,1,1
+Michel-Brassart   Monica,Vallaud   Boris,0,1
+Michel-Brassart   Monica,Borowczyk   Julien,1,1
+Michel-Brassart   Monica,Rist   Stéphanie,1,1
+Michel-Brassart   Monica,Dubré-Chirat   Nicole,1,1
+Michel-Brassart   Monica,Belhaddad   Belkhir,1,1
+Michel-Brassart   Monica,Trisse   Nicole,1,1
+Michel-Brassart   Monica,Perrot   Patrice,1,1
+Michel-Brassart   Monica,Osson   Catherine,1,1
+Michel-Brassart   Monica,De Temmerman   Jennifer,1,1
+Michel-Brassart   Monica,Bru   Vincent,0,1
+Michel-Brassart   Monica,Lazaar   Fiona,1,1
+Michel-Brassart   Monica,Genetet   Anne,1,1
+Michel-Brassart   Monica,Gaillot   Albane,1,1
+Michel-Brassart   Monica,Ramadier   Alain,1,1
+Michel-Brassart   Monica,Kuster   Brigitte,1,1
+Michel-Brassart   Monica,Rupin   Pacôme,1,1
+Michel-Brassart   Monica,Fauvergue   Jean-Michel,1,1
+Michel-Brassart   Monica,Peyron   Michèle,1,1
+Michel-Brassart   Monica,Calvez   Céline,1,1
+Michel-Brassart   Monica,Obono   Danièle,0,1
+Michel-Brassart   Monica,Bergé   Aurore,1,1
+Michel-Brassart   Monica,Fiévet   Jean-Marie,1,1
+Michel-Brassart   Monica,Bessot Ballot   Barbara,1,1
+Fabre   Catherine,Prud'homme   Loïc,0,1
+Fabre   Catherine,Ménard   Emmanuelle,0,1
+Fabre   Catherine,David   Dominique,1,1
+Fabre   Catherine,Vallaud   Boris,0,1
+Fabre   Catherine,Borowczyk   Julien,1,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Dubré-Chirat   Nicole,1,1
+Fabre   Catherine,Belhaddad   Belkhir,1,1
+Fabre   Catherine,Trisse   Nicole,1,1
+Fabre   Catherine,Perrot   Patrice,1,1
+Fabre   Catherine,Osson   Catherine,1,1
+Fabre   Catherine,De Temmerman   Jennifer,1,1
+Fabre   Catherine,Bru   Vincent,0,1
+Fabre   Catherine,Lazaar   Fiona,1,1
+Fabre   Catherine,Genetet   Anne,1,1
+Fabre   Catherine,Gaillot   Albane,1,1
+Fabre   Catherine,Ramadier   Alain,1,1
+Fabre   Catherine,Kuster   Brigitte,1,1
+Fabre   Catherine,Rupin   Pacôme,1,1
+Fabre   Catherine,Fauvergue   Jean-Michel,1,1
+Fabre   Catherine,Peyron   Michèle,1,1
+Fabre   Catherine,Calvez   Céline,1,1
+Fabre   Catherine,Obono   Danièle,0,1
+Fabre   Catherine,Bergé   Aurore,1,1
+Fabre   Catherine,Fiévet   Jean-Marie,1,1
+Fabre   Catherine,Bessot Ballot   Barbara,1,1
+Prud'homme   Loïc,Ménard   Emmanuelle,0,1
+Prud'homme   Loïc,David   Dominique,0,1
+Prud'homme   Loïc,Vallaud   Boris,1,1
+Prud'homme   Loïc,Borowczyk   Julien,0,1
+Prud'homme   Loïc,Rist   Stéphanie,0,1
+Prud'homme   Loïc,Dubré-Chirat   Nicole,0,1
+Prud'homme   Loïc,Belhaddad   Belkhir,0,1
+Prud'homme   Loïc,Trisse   Nicole,0,1
+Prud'homme   Loïc,Perrot   Patrice,0,1
+Prud'homme   Loïc,Osson   Catherine,0,1
+Prud'homme   Loïc,De Temmerman   Jennifer,0,1
+Prud'homme   Loïc,Bru   Vincent,1,1
+Prud'homme   Loïc,Lazaar   Fiona,0,1
+Prud'homme   Loïc,Genetet   Anne,0,1
+Prud'homme   Loïc,Gaillot   Albane,0,1
+Prud'homme   Loïc,Ramadier   Alain,0,1
+Prud'homme   Loïc,Kuster   Brigitte,0,1
+Prud'homme   Loïc,Rupin   Pacôme,0,1
+Prud'homme   Loïc,Fauvergue   Jean-Michel,0,1
+Prud'homme   Loïc,Peyron   Michèle,0,1
+Prud'homme   Loïc,Calvez   Céline,0,1
+Prud'homme   Loïc,Obono   Danièle,1,1
+Prud'homme   Loïc,Bergé   Aurore,0,1
+Prud'homme   Loïc,Fiévet   Jean-Marie,0,1
+Prud'homme   Loïc,Bessot Ballot   Barbara,0,1
+Ménard   Emmanuelle,David   Dominique,0,1
+Ménard   Emmanuelle,Vallaud   Boris,0,1
+Ménard   Emmanuelle,Borowczyk   Julien,0,1
+Ménard   Emmanuelle,Rist   Stéphanie,0,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,0,1
+Ménard   Emmanuelle,Belhaddad   Belkhir,0,1
+Ménard   Emmanuelle,Trisse   Nicole,0,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Osson   Catherine,0,1
+Ménard   Emmanuelle,De Temmerman   Jennifer,0,1
+Ménard   Emmanuelle,Bru   Vincent,0,1
+Ménard   Emmanuelle,Lazaar   Fiona,0,1
+Ménard   Emmanuelle,Genetet   Anne,0,1
+Ménard   Emmanuelle,Gaillot   Albane,0,1
+Ménard   Emmanuelle,Ramadier   Alain,0,1
+Ménard   Emmanuelle,Kuster   Brigitte,0,1
+Ménard   Emmanuelle,Rupin   Pacôme,0,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,0,1
+Ménard   Emmanuelle,Peyron   Michèle,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Obono   Danièle,0,1
+Ménard   Emmanuelle,Bergé   Aurore,0,1
+Ménard   Emmanuelle,Fiévet   Jean-Marie,0,1
+Ménard   Emmanuelle,Bessot Ballot   Barbara,0,1
+David   Dominique,Vallaud   Boris,0,1
+David   Dominique,Borowczyk   Julien,1,1
+David   Dominique,Rist   Stéphanie,1,1
+David   Dominique,Dubré-Chirat   Nicole,1,1
+David   Dominique,Belhaddad   Belkhir,1,1
+David   Dominique,Trisse   Nicole,1,1
+David   Dominique,Perrot   Patrice,1,1
+David   Dominique,Osson   Catherine,1,1
+David   Dominique,De Temmerman   Jennifer,1,1
+David   Dominique,Bru   Vincent,0,1
+David   Dominique,Lazaar   Fiona,1,1
+David   Dominique,Genetet   Anne,1,1
+David   Dominique,Gaillot   Albane,1,1
+David   Dominique,Ramadier   Alain,1,1
+David   Dominique,Kuster   Brigitte,1,1
+David   Dominique,Rupin   Pacôme,1,1
+David   Dominique,Fauvergue   Jean-Michel,1,1
+David   Dominique,Peyron   Michèle,1,1
+David   Dominique,Calvez   Céline,1,1
+David   Dominique,Obono   Danièle,0,1
+David   Dominique,Bergé   Aurore,1,1
+David   Dominique,Fiévet   Jean-Marie,1,1
+David   Dominique,Bessot Ballot   Barbara,1,1
+Vallaud   Boris,Borowczyk   Julien,0,1
+Vallaud   Boris,Rist   Stéphanie,0,1
+Vallaud   Boris,Dubré-Chirat   Nicole,0,1
+Vallaud   Boris,Belhaddad   Belkhir,0,1
+Vallaud   Boris,Trisse   Nicole,0,1
+Vallaud   Boris,Perrot   Patrice,0,1
+Vallaud   Boris,Osson   Catherine,0,1
+Vallaud   Boris,De Temmerman   Jennifer,0,1
+Vallaud   Boris,Bru   Vincent,1,1
+Vallaud   Boris,Lazaar   Fiona,0,1
+Vallaud   Boris,Genetet   Anne,0,1
+Vallaud   Boris,Gaillot   Albane,0,1
+Vallaud   Boris,Ramadier   Alain,0,1
+Vallaud   Boris,Kuster   Brigitte,0,1
+Vallaud   Boris,Rupin   Pacôme,0,1
+Vallaud   Boris,Fauvergue   Jean-Michel,0,1
+Vallaud   Boris,Peyron   Michèle,0,1
+Vallaud   Boris,Calvez   Céline,0,1
+Vallaud   Boris,Obono   Danièle,1,1
+Vallaud   Boris,Bergé   Aurore,0,1
+Vallaud   Boris,Fiévet   Jean-Marie,0,1
+Vallaud   Boris,Bessot Ballot   Barbara,0,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Belhaddad   Belkhir,1,1
+Borowczyk   Julien,Trisse   Nicole,1,1
+Borowczyk   Julien,Perrot   Patrice,1,1
+Borowczyk   Julien,Osson   Catherine,1,1
+Borowczyk   Julien,De Temmerman   Jennifer,1,1
+Borowczyk   Julien,Bru   Vincent,0,1
+Borowczyk   Julien,Lazaar   Fiona,1,1
+Borowczyk   Julien,Genetet   Anne,1,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Ramadier   Alain,1,1
+Borowczyk   Julien,Kuster   Brigitte,1,1
+Borowczyk   Julien,Rupin   Pacôme,1,1
+Borowczyk   Julien,Fauvergue   Jean-Michel,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Calvez   Céline,1,1
+Borowczyk   Julien,Obono   Danièle,0,1
+Borowczyk   Julien,Bergé   Aurore,1,1
+Borowczyk   Julien,Fiévet   Jean-Marie,1,1
+Borowczyk   Julien,Bessot Ballot   Barbara,1,1
+Rist   Stéphanie,Dubré-Chirat   Nicole,1,1
+Rist   Stéphanie,Belhaddad   Belkhir,1,1
+Rist   Stéphanie,Trisse   Nicole,1,1
+Rist   Stéphanie,Perrot   Patrice,1,1
+Rist   Stéphanie,Osson   Catherine,1,1
+Rist   Stéphanie,De Temmerman   Jennifer,1,1
+Rist   Stéphanie,Bru   Vincent,0,1
+Rist   Stéphanie,Lazaar   Fiona,1,1
+Rist   Stéphanie,Genetet   Anne,1,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Ramadier   Alain,1,1
+Rist   Stéphanie,Kuster   Brigitte,1,1
+Rist   Stéphanie,Rupin   Pacôme,1,1
+Rist   Stéphanie,Fauvergue   Jean-Michel,1,1
+Rist   Stéphanie,Peyron   Michèle,1,1
+Rist   Stéphanie,Calvez   Céline,1,1
+Rist   Stéphanie,Obono   Danièle,0,1
+Rist   Stéphanie,Bergé   Aurore,1,1
+Rist   Stéphanie,Fiévet   Jean-Marie,1,1
+Rist   Stéphanie,Bessot Ballot   Barbara,1,1
+Dubré-Chirat   Nicole,Belhaddad   Belkhir,1,1
+Dubré-Chirat   Nicole,Trisse   Nicole,1,1
+Dubré-Chirat   Nicole,Perrot   Patrice,1,1
+Dubré-Chirat   Nicole,Osson   Catherine,1,1
+Dubré-Chirat   Nicole,De Temmerman   Jennifer,1,1
+Dubré-Chirat   Nicole,Bru   Vincent,0,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Genetet   Anne,1,1
+Dubré-Chirat   Nicole,Gaillot   Albane,1,1
+Dubré-Chirat   Nicole,Ramadier   Alain,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,1,1
+Dubré-Chirat   Nicole,Rupin   Pacôme,1,1
+Dubré-Chirat   Nicole,Fauvergue   Jean-Michel,1,1
+Dubré-Chirat   Nicole,Peyron   Michèle,1,1
+Dubré-Chirat   Nicole,Calvez   Céline,1,1
+Dubré-Chirat   Nicole,Obono   Danièle,0,1
+Dubré-Chirat   Nicole,Bergé   Aurore,1,1
+Dubré-Chirat   Nicole,Fiévet   Jean-Marie,1,1
+Dubré-Chirat   Nicole,Bessot Ballot   Barbara,1,1
+Belhaddad   Belkhir,Trisse   Nicole,1,1
+Belhaddad   Belkhir,Perrot   Patrice,1,1
+Belhaddad   Belkhir,Osson   Catherine,1,1
+Belhaddad   Belkhir,De Temmerman   Jennifer,1,1
+Belhaddad   Belkhir,Bru   Vincent,0,1
+Belhaddad   Belkhir,Lazaar   Fiona,1,1
+Belhaddad   Belkhir,Genetet   Anne,1,1
+Belhaddad   Belkhir,Gaillot   Albane,1,1
+Belhaddad   Belkhir,Ramadier   Alain,1,1
+Belhaddad   Belkhir,Kuster   Brigitte,1,1
+Belhaddad   Belkhir,Rupin   Pacôme,1,1
+Belhaddad   Belkhir,Fauvergue   Jean-Michel,1,1
+Belhaddad   Belkhir,Peyron   Michèle,1,1
+Belhaddad   Belkhir,Calvez   Céline,1,1
+Belhaddad   Belkhir,Obono   Danièle,0,1
+Belhaddad   Belkhir,Bergé   Aurore,1,1
+Belhaddad   Belkhir,Fiévet   Jean-Marie,1,1
+Belhaddad   Belkhir,Bessot Ballot   Barbara,1,1
+Trisse   Nicole,Perrot   Patrice,1,1
+Trisse   Nicole,Osson   Catherine,1,1
+Trisse   Nicole,De Temmerman   Jennifer,1,1
+Trisse   Nicole,Bru   Vincent,0,1
+Trisse   Nicole,Lazaar   Fiona,1,1
+Trisse   Nicole,Genetet   Anne,1,1
+Trisse   Nicole,Gaillot   Albane,1,1
+Trisse   Nicole,Ramadier   Alain,1,1
+Trisse   Nicole,Kuster   Brigitte,1,1
+Trisse   Nicole,Rupin   Pacôme,1,1
+Trisse   Nicole,Fauvergue   Jean-Michel,1,1
+Trisse   Nicole,Peyron   Michèle,1,1
+Trisse   Nicole,Calvez   Céline,1,1
+Trisse   Nicole,Obono   Danièle,0,1
+Trisse   Nicole,Bergé   Aurore,1,1
+Trisse   Nicole,Fiévet   Jean-Marie,1,1
+Trisse   Nicole,Bessot Ballot   Barbara,1,1
+Perrot   Patrice,Osson   Catherine,1,1
+Perrot   Patrice,De Temmerman   Jennifer,1,1
+Perrot   Patrice,Bru   Vincent,0,1
+Perrot   Patrice,Lazaar   Fiona,1,1
+Perrot   Patrice,Genetet   Anne,1,1
+Perrot   Patrice,Gaillot   Albane,1,1
+Perrot   Patrice,Ramadier   Alain,1,1
+Perrot   Patrice,Kuster   Brigitte,1,1
+Perrot   Patrice,Rupin   Pacôme,1,1
+Perrot   Patrice,Fauvergue   Jean-Michel,1,1
+Perrot   Patrice,Peyron   Michèle,1,1
+Perrot   Patrice,Calvez   Céline,1,1
+Perrot   Patrice,Obono   Danièle,0,1
+Perrot   Patrice,Bergé   Aurore,1,1
+Perrot   Patrice,Fiévet   Jean-Marie,1,1
+Perrot   Patrice,Bessot Ballot   Barbara,1,1
+Osson   Catherine,De Temmerman   Jennifer,1,1
+Osson   Catherine,Bru   Vincent,0,1
+Osson   Catherine,Lazaar   Fiona,1,1
+Osson   Catherine,Genetet   Anne,1,1
+Osson   Catherine,Gaillot   Albane,1,1
+Osson   Catherine,Ramadier   Alain,1,1
+Osson   Catherine,Kuster   Brigitte,1,1
+Osson   Catherine,Rupin   Pacôme,1,1
+Osson   Catherine,Fauvergue   Jean-Michel,1,1
+Osson   Catherine,Peyron   Michèle,1,1
+Osson   Catherine,Calvez   Céline,1,1
+Osson   Catherine,Obono   Danièle,0,1
+Osson   Catherine,Bergé   Aurore,1,1
+Osson   Catherine,Fiévet   Jean-Marie,1,1
+Osson   Catherine,Bessot Ballot   Barbara,1,1
+De Temmerman   Jennifer,Bru   Vincent,0,1
+De Temmerman   Jennifer,Lazaar   Fiona,1,1
+De Temmerman   Jennifer,Genetet   Anne,1,1
+De Temmerman   Jennifer,Gaillot   Albane,1,1
+De Temmerman   Jennifer,Ramadier   Alain,1,1
+De Temmerman   Jennifer,Kuster   Brigitte,1,1
+De Temmerman   Jennifer,Rupin   Pacôme,1,1
+De Temmerman   Jennifer,Fauvergue   Jean-Michel,1,1
+De Temmerman   Jennifer,Peyron   Michèle,1,1
+De Temmerman   Jennifer,Calvez   Céline,1,1
+De Temmerman   Jennifer,Obono   Danièle,0,1
+De Temmerman   Jennifer,Bergé   Aurore,1,1
+De Temmerman   Jennifer,Fiévet   Jean-Marie,1,1
+De Temmerman   Jennifer,Bessot Ballot   Barbara,1,1
+Bru   Vincent,Lazaar   Fiona,0,1
+Bru   Vincent,Genetet   Anne,0,1
+Bru   Vincent,Gaillot   Albane,0,1
+Bru   Vincent,Ramadier   Alain,0,1
+Bru   Vincent,Kuster   Brigitte,0,1
+Bru   Vincent,Rupin   Pacôme,0,1
+Bru   Vincent,Fauvergue   Jean-Michel,0,1
+Bru   Vincent,Peyron   Michèle,0,1
+Bru   Vincent,Calvez   Céline,0,1
+Bru   Vincent,Obono   Danièle,1,1
+Bru   Vincent,Bergé   Aurore,0,1
+Bru   Vincent,Fiévet   Jean-Marie,0,1
+Bru   Vincent,Bessot Ballot   Barbara,0,1
+Lazaar   Fiona,Genetet   Anne,1,1
+Lazaar   Fiona,Gaillot   Albane,1,1
+Lazaar   Fiona,Ramadier   Alain,1,1
+Lazaar   Fiona,Kuster   Brigitte,1,1
+Lazaar   Fiona,Rupin   Pacôme,1,1
+Lazaar   Fiona,Fauvergue   Jean-Michel,1,1
+Lazaar   Fiona,Peyron   Michèle,1,1
+Lazaar   Fiona,Calvez   Céline,1,1
+Lazaar   Fiona,Obono   Danièle,0,1
+Lazaar   Fiona,Bergé   Aurore,1,1
+Lazaar   Fiona,Fiévet   Jean-Marie,1,1
+Lazaar   Fiona,Bessot Ballot   Barbara,1,1
+Genetet   Anne,Gaillot   Albane,1,1
+Genetet   Anne,Ramadier   Alain,1,1
+Genetet   Anne,Kuster   Brigitte,1,1
+Genetet   Anne,Rupin   Pacôme,1,1
+Genetet   Anne,Fauvergue   Jean-Michel,1,1
+Genetet   Anne,Peyron   Michèle,1,1
+Genetet   Anne,Calvez   Céline,1,1
+Genetet   Anne,Obono   Danièle,0,1
+Genetet   Anne,Bergé   Aurore,1,1
+Genetet   Anne,Fiévet   Jean-Marie,1,1
+Genetet   Anne,Bessot Ballot   Barbara,1,1
+Gaillot   Albane,Ramadier   Alain,1,1
+Gaillot   Albane,Kuster   Brigitte,1,1
+Gaillot   Albane,Rupin   Pacôme,1,1
+Gaillot   Albane,Fauvergue   Jean-Michel,1,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,Calvez   Céline,1,1
+Gaillot   Albane,Obono   Danièle,0,1
+Gaillot   Albane,Bergé   Aurore,1,1
+Gaillot   Albane,Fiévet   Jean-Marie,1,1
+Gaillot   Albane,Bessot Ballot   Barbara,1,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Rupin   Pacôme,1,1
+Ramadier   Alain,Fauvergue   Jean-Michel,1,1
+Ramadier   Alain,Peyron   Michèle,1,1
+Ramadier   Alain,Calvez   Céline,1,1
+Ramadier   Alain,Obono   Danièle,0,1
+Ramadier   Alain,Bergé   Aurore,1,1
+Ramadier   Alain,Fiévet   Jean-Marie,1,1
+Ramadier   Alain,Bessot Ballot   Barbara,1,1
+Kuster   Brigitte,Rupin   Pacôme,1,1
+Kuster   Brigitte,Fauvergue   Jean-Michel,1,1
+Kuster   Brigitte,Peyron   Michèle,1,1
+Kuster   Brigitte,Calvez   Céline,1,1
+Kuster   Brigitte,Obono   Danièle,0,1
+Kuster   Brigitte,Bergé   Aurore,1,1
+Kuster   Brigitte,Fiévet   Jean-Marie,1,1
+Kuster   Brigitte,Bessot Ballot   Barbara,1,1
+Rupin   Pacôme,Fauvergue   Jean-Michel,1,1
+Rupin   Pacôme,Peyron   Michèle,1,1
+Rupin   Pacôme,Calvez   Céline,1,1
+Rupin   Pacôme,Obono   Danièle,0,1
+Rupin   Pacôme,Bergé   Aurore,1,1
+Rupin   Pacôme,Fiévet   Jean-Marie,1,1
+Rupin   Pacôme,Bessot Ballot   Barbara,1,1
+Fauvergue   Jean-Michel,Peyron   Michèle,1,1
+Fauvergue   Jean-Michel,Calvez   Céline,1,1
+Fauvergue   Jean-Michel,Obono   Danièle,0,1
+Fauvergue   Jean-Michel,Bergé   Aurore,1,1
+Fauvergue   Jean-Michel,Fiévet   Jean-Marie,1,1
+Fauvergue   Jean-Michel,Bessot Ballot   Barbara,1,1
+Peyron   Michèle,Calvez   Céline,1,1
+Peyron   Michèle,Obono   Danièle,0,1
+Peyron   Michèle,Bergé   Aurore,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Bessot Ballot   Barbara,1,1
+Calvez   Céline,Obono   Danièle,0,1
+Calvez   Céline,Bergé   Aurore,1,1
+Calvez   Céline,Fiévet   Jean-Marie,1,1
+Calvez   Céline,Bessot Ballot   Barbara,1,1
+Obono   Danièle,Bergé   Aurore,0,1
+Obono   Danièle,Fiévet   Jean-Marie,0,1
+Obono   Danièle,Bessot Ballot   Barbara,0,1
+Bergé   Aurore,Fiévet   Jean-Marie,1,1
+Bergé   Aurore,Bessot Ballot   Barbara,1,1
+Fiévet   Jean-Marie,Bessot Ballot   Barbara,1,1

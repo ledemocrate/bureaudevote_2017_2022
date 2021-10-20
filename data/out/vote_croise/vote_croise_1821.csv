@@ -1,0 +1,211 @@
+from,to,vote_commun,loi_commun
+Hutin   Christian,Lecoq   Jean-Paul,1,1
+Hutin   Christian,Sage   Maina,1,1
+Hutin   Christian,Delatte   Marc,1,1
+Hutin   Christian,Robert   Mireille,1,1
+Hutin   Christian,Joncour   Bruno,1,1
+Hutin   Christian,Nogal   Mickaël,1,1
+Hutin   Christian,Tanguy   Liliana,1,1
+Hutin   Christian,Ménard   Emmanuelle,1,1
+Hutin   Christian,Colboc   Fabienne,1,1
+Hutin   Christian,Kuric   Aina,1,1
+Hutin   Christian,Hammouche   Brahim,1,1
+Hutin   Christian,El Guerrab   M'jid,1,1
+Hutin   Christian,Buchou   Stéphane,1,1
+Hutin   Christian,Leguille-Balloy   Martine,1,1
+Hutin   Christian,Pételle   Bénédicte,1,1
+Hutin   Christian,Ruffin   François,1,1
+Hutin   Christian,Maire   Jacques,1,1
+Hutin   Christian,Jumel   Sébastien,1,1
+Hutin   Christian,Leclabart   Jean-Claude,1,1
+Hutin   Christian,Fuchs   Bruno,1,1
+Lecoq   Jean-Paul,Sage   Maina,1,1
+Lecoq   Jean-Paul,Delatte   Marc,1,1
+Lecoq   Jean-Paul,Robert   Mireille,1,1
+Lecoq   Jean-Paul,Joncour   Bruno,1,1
+Lecoq   Jean-Paul,Nogal   Mickaël,1,1
+Lecoq   Jean-Paul,Tanguy   Liliana,1,1
+Lecoq   Jean-Paul,Ménard   Emmanuelle,1,1
+Lecoq   Jean-Paul,Colboc   Fabienne,1,1
+Lecoq   Jean-Paul,Kuric   Aina,1,1
+Lecoq   Jean-Paul,Hammouche   Brahim,1,1
+Lecoq   Jean-Paul,El Guerrab   M'jid,1,1
+Lecoq   Jean-Paul,Buchou   Stéphane,1,1
+Lecoq   Jean-Paul,Leguille-Balloy   Martine,1,1
+Lecoq   Jean-Paul,Pételle   Bénédicte,1,1
+Lecoq   Jean-Paul,Ruffin   François,1,1
+Lecoq   Jean-Paul,Maire   Jacques,1,1
+Lecoq   Jean-Paul,Jumel   Sébastien,1,1
+Lecoq   Jean-Paul,Leclabart   Jean-Claude,1,1
+Lecoq   Jean-Paul,Fuchs   Bruno,1,1
+Sage   Maina,Delatte   Marc,1,1
+Sage   Maina,Robert   Mireille,1,1
+Sage   Maina,Joncour   Bruno,1,1
+Sage   Maina,Nogal   Mickaël,1,1
+Sage   Maina,Tanguy   Liliana,1,1
+Sage   Maina,Ménard   Emmanuelle,1,1
+Sage   Maina,Colboc   Fabienne,1,1
+Sage   Maina,Kuric   Aina,1,1
+Sage   Maina,Hammouche   Brahim,1,1
+Sage   Maina,El Guerrab   M'jid,1,1
+Sage   Maina,Buchou   Stéphane,1,1
+Sage   Maina,Leguille-Balloy   Martine,1,1
+Sage   Maina,Pételle   Bénédicte,1,1
+Sage   Maina,Ruffin   François,1,1
+Sage   Maina,Maire   Jacques,1,1
+Sage   Maina,Jumel   Sébastien,1,1
+Sage   Maina,Leclabart   Jean-Claude,1,1
+Sage   Maina,Fuchs   Bruno,1,1
+Delatte   Marc,Robert   Mireille,1,1
+Delatte   Marc,Joncour   Bruno,1,1
+Delatte   Marc,Nogal   Mickaël,1,1
+Delatte   Marc,Tanguy   Liliana,1,1
+Delatte   Marc,Ménard   Emmanuelle,1,1
+Delatte   Marc,Colboc   Fabienne,1,1
+Delatte   Marc,Kuric   Aina,1,1
+Delatte   Marc,Hammouche   Brahim,1,1
+Delatte   Marc,El Guerrab   M'jid,1,1
+Delatte   Marc,Buchou   Stéphane,1,1
+Delatte   Marc,Leguille-Balloy   Martine,1,1
+Delatte   Marc,Pételle   Bénédicte,1,1
+Delatte   Marc,Ruffin   François,1,1
+Delatte   Marc,Maire   Jacques,1,1
+Delatte   Marc,Jumel   Sébastien,1,1
+Delatte   Marc,Leclabart   Jean-Claude,1,1
+Delatte   Marc,Fuchs   Bruno,1,1
+Robert   Mireille,Joncour   Bruno,1,1
+Robert   Mireille,Nogal   Mickaël,1,1
+Robert   Mireille,Tanguy   Liliana,1,1
+Robert   Mireille,Ménard   Emmanuelle,1,1
+Robert   Mireille,Colboc   Fabienne,1,1
+Robert   Mireille,Kuric   Aina,1,1
+Robert   Mireille,Hammouche   Brahim,1,1
+Robert   Mireille,El Guerrab   M'jid,1,1
+Robert   Mireille,Buchou   Stéphane,1,1
+Robert   Mireille,Leguille-Balloy   Martine,1,1
+Robert   Mireille,Pételle   Bénédicte,1,1
+Robert   Mireille,Ruffin   François,1,1
+Robert   Mireille,Maire   Jacques,1,1
+Robert   Mireille,Jumel   Sébastien,1,1
+Robert   Mireille,Leclabart   Jean-Claude,1,1
+Robert   Mireille,Fuchs   Bruno,1,1
+Joncour   Bruno,Nogal   Mickaël,1,1
+Joncour   Bruno,Tanguy   Liliana,1,1
+Joncour   Bruno,Ménard   Emmanuelle,1,1
+Joncour   Bruno,Colboc   Fabienne,1,1
+Joncour   Bruno,Kuric   Aina,1,1
+Joncour   Bruno,Hammouche   Brahim,1,1
+Joncour   Bruno,El Guerrab   M'jid,1,1
+Joncour   Bruno,Buchou   Stéphane,1,1
+Joncour   Bruno,Leguille-Balloy   Martine,1,1
+Joncour   Bruno,Pételle   Bénédicte,1,1
+Joncour   Bruno,Ruffin   François,1,1
+Joncour   Bruno,Maire   Jacques,1,1
+Joncour   Bruno,Jumel   Sébastien,1,1
+Joncour   Bruno,Leclabart   Jean-Claude,1,1
+Joncour   Bruno,Fuchs   Bruno,1,1
+Nogal   Mickaël,Tanguy   Liliana,1,1
+Nogal   Mickaël,Ménard   Emmanuelle,1,1
+Nogal   Mickaël,Colboc   Fabienne,1,1
+Nogal   Mickaël,Kuric   Aina,1,1
+Nogal   Mickaël,Hammouche   Brahim,1,1
+Nogal   Mickaël,El Guerrab   M'jid,1,1
+Nogal   Mickaël,Buchou   Stéphane,1,1
+Nogal   Mickaël,Leguille-Balloy   Martine,1,1
+Nogal   Mickaël,Pételle   Bénédicte,1,1
+Nogal   Mickaël,Ruffin   François,1,1
+Nogal   Mickaël,Maire   Jacques,1,1
+Nogal   Mickaël,Jumel   Sébastien,1,1
+Nogal   Mickaël,Leclabart   Jean-Claude,1,1
+Nogal   Mickaël,Fuchs   Bruno,1,1
+Tanguy   Liliana,Ménard   Emmanuelle,1,1
+Tanguy   Liliana,Colboc   Fabienne,1,1
+Tanguy   Liliana,Kuric   Aina,1,1
+Tanguy   Liliana,Hammouche   Brahim,1,1
+Tanguy   Liliana,El Guerrab   M'jid,1,1
+Tanguy   Liliana,Buchou   Stéphane,1,1
+Tanguy   Liliana,Leguille-Balloy   Martine,1,1
+Tanguy   Liliana,Pételle   Bénédicte,1,1
+Tanguy   Liliana,Ruffin   François,1,1
+Tanguy   Liliana,Maire   Jacques,1,1
+Tanguy   Liliana,Jumel   Sébastien,1,1
+Tanguy   Liliana,Leclabart   Jean-Claude,1,1
+Tanguy   Liliana,Fuchs   Bruno,1,1
+Ménard   Emmanuelle,Colboc   Fabienne,1,1
+Ménard   Emmanuelle,Kuric   Aina,1,1
+Ménard   Emmanuelle,Hammouche   Brahim,1,1
+Ménard   Emmanuelle,El Guerrab   M'jid,1,1
+Ménard   Emmanuelle,Buchou   Stéphane,1,1
+Ménard   Emmanuelle,Leguille-Balloy   Martine,1,1
+Ménard   Emmanuelle,Pételle   Bénédicte,1,1
+Ménard   Emmanuelle,Ruffin   François,1,1
+Ménard   Emmanuelle,Maire   Jacques,1,1
+Ménard   Emmanuelle,Jumel   Sébastien,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,1,1
+Ménard   Emmanuelle,Fuchs   Bruno,1,1
+Colboc   Fabienne,Kuric   Aina,1,1
+Colboc   Fabienne,Hammouche   Brahim,1,1
+Colboc   Fabienne,El Guerrab   M'jid,1,1
+Colboc   Fabienne,Buchou   Stéphane,1,1
+Colboc   Fabienne,Leguille-Balloy   Martine,1,1
+Colboc   Fabienne,Pételle   Bénédicte,1,1
+Colboc   Fabienne,Ruffin   François,1,1
+Colboc   Fabienne,Maire   Jacques,1,1
+Colboc   Fabienne,Jumel   Sébastien,1,1
+Colboc   Fabienne,Leclabart   Jean-Claude,1,1
+Colboc   Fabienne,Fuchs   Bruno,1,1
+Kuric   Aina,Hammouche   Brahim,1,1
+Kuric   Aina,El Guerrab   M'jid,1,1
+Kuric   Aina,Buchou   Stéphane,1,1
+Kuric   Aina,Leguille-Balloy   Martine,1,1
+Kuric   Aina,Pételle   Bénédicte,1,1
+Kuric   Aina,Ruffin   François,1,1
+Kuric   Aina,Maire   Jacques,1,1
+Kuric   Aina,Jumel   Sébastien,1,1
+Kuric   Aina,Leclabart   Jean-Claude,1,1
+Kuric   Aina,Fuchs   Bruno,1,1
+Hammouche   Brahim,El Guerrab   M'jid,1,1
+Hammouche   Brahim,Buchou   Stéphane,1,1
+Hammouche   Brahim,Leguille-Balloy   Martine,1,1
+Hammouche   Brahim,Pételle   Bénédicte,1,1
+Hammouche   Brahim,Ruffin   François,1,1
+Hammouche   Brahim,Maire   Jacques,1,1
+Hammouche   Brahim,Jumel   Sébastien,1,1
+Hammouche   Brahim,Leclabart   Jean-Claude,1,1
+Hammouche   Brahim,Fuchs   Bruno,1,1
+El Guerrab   M'jid,Buchou   Stéphane,1,1
+El Guerrab   M'jid,Leguille-Balloy   Martine,1,1
+El Guerrab   M'jid,Pételle   Bénédicte,1,1
+El Guerrab   M'jid,Ruffin   François,1,1
+El Guerrab   M'jid,Maire   Jacques,1,1
+El Guerrab   M'jid,Jumel   Sébastien,1,1
+El Guerrab   M'jid,Leclabart   Jean-Claude,1,1
+El Guerrab   M'jid,Fuchs   Bruno,1,1
+Buchou   Stéphane,Leguille-Balloy   Martine,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Ruffin   François,1,1
+Buchou   Stéphane,Maire   Jacques,1,1
+Buchou   Stéphane,Jumel   Sébastien,1,1
+Buchou   Stéphane,Leclabart   Jean-Claude,1,1
+Buchou   Stéphane,Fuchs   Bruno,1,1
+Leguille-Balloy   Martine,Pételle   Bénédicte,1,1
+Leguille-Balloy   Martine,Ruffin   François,1,1
+Leguille-Balloy   Martine,Maire   Jacques,1,1
+Leguille-Balloy   Martine,Jumel   Sébastien,1,1
+Leguille-Balloy   Martine,Leclabart   Jean-Claude,1,1
+Leguille-Balloy   Martine,Fuchs   Bruno,1,1
+Pételle   Bénédicte,Ruffin   François,1,1
+Pételle   Bénédicte,Maire   Jacques,1,1
+Pételle   Bénédicte,Jumel   Sébastien,1,1
+Pételle   Bénédicte,Leclabart   Jean-Claude,1,1
+Pételle   Bénédicte,Fuchs   Bruno,1,1
+Ruffin   François,Maire   Jacques,1,1
+Ruffin   François,Jumel   Sébastien,1,1
+Ruffin   François,Leclabart   Jean-Claude,1,1
+Ruffin   François,Fuchs   Bruno,1,1
+Maire   Jacques,Jumel   Sébastien,1,1
+Maire   Jacques,Leclabart   Jean-Claude,1,1
+Maire   Jacques,Fuchs   Bruno,1,1
+Jumel   Sébastien,Leclabart   Jean-Claude,1,1
+Jumel   Sébastien,Fuchs   Bruno,1,1
+Leclabart   Jean-Claude,Fuchs   Bruno,1,1

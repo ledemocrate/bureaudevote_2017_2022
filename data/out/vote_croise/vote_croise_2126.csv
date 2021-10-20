@@ -1,0 +1,466 @@
+from,to,vote_commun,loi_commun
+Hutin   Christian,Hetzel   Patrick,0,1
+Hutin   Christian,Bazin   Thibault,0,1
+Hutin   Christian,Lang   Anne-Christine,1,1
+Hutin   Christian,Delatte   Marc,1,1
+Hutin   Christian,Martin   Didier,1,1
+Hutin   Christian,Clapot   Mireille,1,1
+Hutin   Christian,Berta   Philippe,1,1
+Hutin   Christian,Dubost   Coralie,1,1
+Hutin   Christian,Eliaou   Jean-François,1,1
+Hutin   Christian,Maillart-Méhaignerie   Laurence,1,1
+Hutin   Christian,Grandjean   Carole,1,1
+Hutin   Christian,Minot   Maxime,1,1
+Hutin   Christian,Forteza   Paula,1,1
+Hutin   Christian,Ramadier   Alain,0,1
+Hutin   Christian,Gouffier-Cha   Guillaume,1,1
+Hutin   Christian,Peyron   Michèle,1,1
+Hutin   Christian,Calvez   Céline,1,1
+Hutin   Christian,Baichère   Didier,1,1
+Hutin   Christian,Faucillon   Elsa,1,1
+Hutin   Christian,de Vaucouleurs   Michèle,1,1
+Hutin   Christian,Buchou   Stéphane,1,1
+Hutin   Christian,Romeiro Dias   Laëtitia,1,1
+Hutin   Christian,Bergé   Aurore,1,1
+Hutin   Christian,Pételle   Bénédicte,1,1
+Hutin   Christian,Hennion   Christine,1,1
+Hutin   Christian,Chiche   Guillaume,1,1
+Hutin   Christian,Provendier   Florence,1,1
+Hutin   Christian,Khedher   Anissa,1,1
+Hutin   Christian,Thiébaut   Vincent,1,1
+Hutin   Christian,Chouat   Francis,1,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Lang   Anne-Christine,0,1
+Hetzel   Patrick,Delatte   Marc,0,1
+Hetzel   Patrick,Martin   Didier,0,1
+Hetzel   Patrick,Clapot   Mireille,0,1
+Hetzel   Patrick,Berta   Philippe,0,1
+Hetzel   Patrick,Dubost   Coralie,0,1
+Hetzel   Patrick,Eliaou   Jean-François,0,1
+Hetzel   Patrick,Maillart-Méhaignerie   Laurence,0,1
+Hetzel   Patrick,Grandjean   Carole,0,1
+Hetzel   Patrick,Minot   Maxime,0,1
+Hetzel   Patrick,Forteza   Paula,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Gouffier-Cha   Guillaume,0,1
+Hetzel   Patrick,Peyron   Michèle,0,1
+Hetzel   Patrick,Calvez   Céline,0,1
+Hetzel   Patrick,Baichère   Didier,0,1
+Hetzel   Patrick,Faucillon   Elsa,0,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,0,1
+Hetzel   Patrick,Buchou   Stéphane,0,1
+Hetzel   Patrick,Romeiro Dias   Laëtitia,0,1
+Hetzel   Patrick,Bergé   Aurore,0,1
+Hetzel   Patrick,Pételle   Bénédicte,0,1
+Hetzel   Patrick,Hennion   Christine,0,1
+Hetzel   Patrick,Chiche   Guillaume,0,1
+Hetzel   Patrick,Provendier   Florence,0,1
+Hetzel   Patrick,Khedher   Anissa,0,1
+Hetzel   Patrick,Thiébaut   Vincent,0,1
+Hetzel   Patrick,Chouat   Francis,0,1
+Bazin   Thibault,Lang   Anne-Christine,0,1
+Bazin   Thibault,Delatte   Marc,0,1
+Bazin   Thibault,Martin   Didier,0,1
+Bazin   Thibault,Clapot   Mireille,0,1
+Bazin   Thibault,Berta   Philippe,0,1
+Bazin   Thibault,Dubost   Coralie,0,1
+Bazin   Thibault,Eliaou   Jean-François,0,1
+Bazin   Thibault,Maillart-Méhaignerie   Laurence,0,1
+Bazin   Thibault,Grandjean   Carole,0,1
+Bazin   Thibault,Minot   Maxime,0,1
+Bazin   Thibault,Forteza   Paula,0,1
+Bazin   Thibault,Ramadier   Alain,1,1
+Bazin   Thibault,Gouffier-Cha   Guillaume,0,1
+Bazin   Thibault,Peyron   Michèle,0,1
+Bazin   Thibault,Calvez   Céline,0,1
+Bazin   Thibault,Baichère   Didier,0,1
+Bazin   Thibault,Faucillon   Elsa,0,1
+Bazin   Thibault,de Vaucouleurs   Michèle,0,1
+Bazin   Thibault,Buchou   Stéphane,0,1
+Bazin   Thibault,Romeiro Dias   Laëtitia,0,1
+Bazin   Thibault,Bergé   Aurore,0,1
+Bazin   Thibault,Pételle   Bénédicte,0,1
+Bazin   Thibault,Hennion   Christine,0,1
+Bazin   Thibault,Chiche   Guillaume,0,1
+Bazin   Thibault,Provendier   Florence,0,1
+Bazin   Thibault,Khedher   Anissa,0,1
+Bazin   Thibault,Thiébaut   Vincent,0,1
+Bazin   Thibault,Chouat   Francis,0,1
+Lang   Anne-Christine,Delatte   Marc,1,1
+Lang   Anne-Christine,Martin   Didier,1,1
+Lang   Anne-Christine,Clapot   Mireille,1,1
+Lang   Anne-Christine,Berta   Philippe,1,1
+Lang   Anne-Christine,Dubost   Coralie,1,1
+Lang   Anne-Christine,Eliaou   Jean-François,1,1
+Lang   Anne-Christine,Maillart-Méhaignerie   Laurence,1,1
+Lang   Anne-Christine,Grandjean   Carole,1,1
+Lang   Anne-Christine,Minot   Maxime,1,1
+Lang   Anne-Christine,Forteza   Paula,1,1
+Lang   Anne-Christine,Ramadier   Alain,0,1
+Lang   Anne-Christine,Gouffier-Cha   Guillaume,1,1
+Lang   Anne-Christine,Peyron   Michèle,1,1
+Lang   Anne-Christine,Calvez   Céline,1,1
+Lang   Anne-Christine,Baichère   Didier,1,1
+Lang   Anne-Christine,Faucillon   Elsa,1,1
+Lang   Anne-Christine,de Vaucouleurs   Michèle,1,1
+Lang   Anne-Christine,Buchou   Stéphane,1,1
+Lang   Anne-Christine,Romeiro Dias   Laëtitia,1,1
+Lang   Anne-Christine,Bergé   Aurore,1,1
+Lang   Anne-Christine,Pételle   Bénédicte,1,1
+Lang   Anne-Christine,Hennion   Christine,1,1
+Lang   Anne-Christine,Chiche   Guillaume,1,1
+Lang   Anne-Christine,Provendier   Florence,1,1
+Lang   Anne-Christine,Khedher   Anissa,1,1
+Lang   Anne-Christine,Thiébaut   Vincent,1,1
+Lang   Anne-Christine,Chouat   Francis,1,1
+Delatte   Marc,Martin   Didier,1,1
+Delatte   Marc,Clapot   Mireille,1,1
+Delatte   Marc,Berta   Philippe,1,1
+Delatte   Marc,Dubost   Coralie,1,1
+Delatte   Marc,Eliaou   Jean-François,1,1
+Delatte   Marc,Maillart-Méhaignerie   Laurence,1,1
+Delatte   Marc,Grandjean   Carole,1,1
+Delatte   Marc,Minot   Maxime,1,1
+Delatte   Marc,Forteza   Paula,1,1
+Delatte   Marc,Ramadier   Alain,0,1
+Delatte   Marc,Gouffier-Cha   Guillaume,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Calvez   Céline,1,1
+Delatte   Marc,Baichère   Didier,1,1
+Delatte   Marc,Faucillon   Elsa,1,1
+Delatte   Marc,de Vaucouleurs   Michèle,1,1
+Delatte   Marc,Buchou   Stéphane,1,1
+Delatte   Marc,Romeiro Dias   Laëtitia,1,1
+Delatte   Marc,Bergé   Aurore,1,1
+Delatte   Marc,Pételle   Bénédicte,1,1
+Delatte   Marc,Hennion   Christine,1,1
+Delatte   Marc,Chiche   Guillaume,1,1
+Delatte   Marc,Provendier   Florence,1,1
+Delatte   Marc,Khedher   Anissa,1,1
+Delatte   Marc,Thiébaut   Vincent,1,1
+Delatte   Marc,Chouat   Francis,1,1
+Martin   Didier,Clapot   Mireille,1,1
+Martin   Didier,Berta   Philippe,1,1
+Martin   Didier,Dubost   Coralie,1,1
+Martin   Didier,Eliaou   Jean-François,1,1
+Martin   Didier,Maillart-Méhaignerie   Laurence,1,1
+Martin   Didier,Grandjean   Carole,1,1
+Martin   Didier,Minot   Maxime,1,1
+Martin   Didier,Forteza   Paula,1,1
+Martin   Didier,Ramadier   Alain,0,1
+Martin   Didier,Gouffier-Cha   Guillaume,1,1
+Martin   Didier,Peyron   Michèle,1,1
+Martin   Didier,Calvez   Céline,1,1
+Martin   Didier,Baichère   Didier,1,1
+Martin   Didier,Faucillon   Elsa,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Buchou   Stéphane,1,1
+Martin   Didier,Romeiro Dias   Laëtitia,1,1
+Martin   Didier,Bergé   Aurore,1,1
+Martin   Didier,Pételle   Bénédicte,1,1
+Martin   Didier,Hennion   Christine,1,1
+Martin   Didier,Chiche   Guillaume,1,1
+Martin   Didier,Provendier   Florence,1,1
+Martin   Didier,Khedher   Anissa,1,1
+Martin   Didier,Thiébaut   Vincent,1,1
+Martin   Didier,Chouat   Francis,1,1
+Clapot   Mireille,Berta   Philippe,1,1
+Clapot   Mireille,Dubost   Coralie,1,1
+Clapot   Mireille,Eliaou   Jean-François,1,1
+Clapot   Mireille,Maillart-Méhaignerie   Laurence,1,1
+Clapot   Mireille,Grandjean   Carole,1,1
+Clapot   Mireille,Minot   Maxime,1,1
+Clapot   Mireille,Forteza   Paula,1,1
+Clapot   Mireille,Ramadier   Alain,0,1
+Clapot   Mireille,Gouffier-Cha   Guillaume,1,1
+Clapot   Mireille,Peyron   Michèle,1,1
+Clapot   Mireille,Calvez   Céline,1,1
+Clapot   Mireille,Baichère   Didier,1,1
+Clapot   Mireille,Faucillon   Elsa,1,1
+Clapot   Mireille,de Vaucouleurs   Michèle,1,1
+Clapot   Mireille,Buchou   Stéphane,1,1
+Clapot   Mireille,Romeiro Dias   Laëtitia,1,1
+Clapot   Mireille,Bergé   Aurore,1,1
+Clapot   Mireille,Pételle   Bénédicte,1,1
+Clapot   Mireille,Hennion   Christine,1,1
+Clapot   Mireille,Chiche   Guillaume,1,1
+Clapot   Mireille,Provendier   Florence,1,1
+Clapot   Mireille,Khedher   Anissa,1,1
+Clapot   Mireille,Thiébaut   Vincent,1,1
+Clapot   Mireille,Chouat   Francis,1,1
+Berta   Philippe,Dubost   Coralie,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Maillart-Méhaignerie   Laurence,1,1
+Berta   Philippe,Grandjean   Carole,1,1
+Berta   Philippe,Minot   Maxime,1,1
+Berta   Philippe,Forteza   Paula,1,1
+Berta   Philippe,Ramadier   Alain,0,1
+Berta   Philippe,Gouffier-Cha   Guillaume,1,1
+Berta   Philippe,Peyron   Michèle,1,1
+Berta   Philippe,Calvez   Céline,1,1
+Berta   Philippe,Baichère   Didier,1,1
+Berta   Philippe,Faucillon   Elsa,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Buchou   Stéphane,1,1
+Berta   Philippe,Romeiro Dias   Laëtitia,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Pételle   Bénédicte,1,1
+Berta   Philippe,Hennion   Christine,1,1
+Berta   Philippe,Chiche   Guillaume,1,1
+Berta   Philippe,Provendier   Florence,1,1
+Berta   Philippe,Khedher   Anissa,1,1
+Berta   Philippe,Thiébaut   Vincent,1,1
+Berta   Philippe,Chouat   Francis,1,1
+Dubost   Coralie,Eliaou   Jean-François,1,1
+Dubost   Coralie,Maillart-Méhaignerie   Laurence,1,1
+Dubost   Coralie,Grandjean   Carole,1,1
+Dubost   Coralie,Minot   Maxime,1,1
+Dubost   Coralie,Forteza   Paula,1,1
+Dubost   Coralie,Ramadier   Alain,0,1
+Dubost   Coralie,Gouffier-Cha   Guillaume,1,1
+Dubost   Coralie,Peyron   Michèle,1,1
+Dubost   Coralie,Calvez   Céline,1,1
+Dubost   Coralie,Baichère   Didier,1,1
+Dubost   Coralie,Faucillon   Elsa,1,1
+Dubost   Coralie,de Vaucouleurs   Michèle,1,1
+Dubost   Coralie,Buchou   Stéphane,1,1
+Dubost   Coralie,Romeiro Dias   Laëtitia,1,1
+Dubost   Coralie,Bergé   Aurore,1,1
+Dubost   Coralie,Pételle   Bénédicte,1,1
+Dubost   Coralie,Hennion   Christine,1,1
+Dubost   Coralie,Chiche   Guillaume,1,1
+Dubost   Coralie,Provendier   Florence,1,1
+Dubost   Coralie,Khedher   Anissa,1,1
+Dubost   Coralie,Thiébaut   Vincent,1,1
+Dubost   Coralie,Chouat   Francis,1,1
+Eliaou   Jean-François,Maillart-Méhaignerie   Laurence,1,1
+Eliaou   Jean-François,Grandjean   Carole,1,1
+Eliaou   Jean-François,Minot   Maxime,1,1
+Eliaou   Jean-François,Forteza   Paula,1,1
+Eliaou   Jean-François,Ramadier   Alain,0,1
+Eliaou   Jean-François,Gouffier-Cha   Guillaume,1,1
+Eliaou   Jean-François,Peyron   Michèle,1,1
+Eliaou   Jean-François,Calvez   Céline,1,1
+Eliaou   Jean-François,Baichère   Didier,1,1
+Eliaou   Jean-François,Faucillon   Elsa,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Romeiro Dias   Laëtitia,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Pételle   Bénédicte,1,1
+Eliaou   Jean-François,Hennion   Christine,1,1
+Eliaou   Jean-François,Chiche   Guillaume,1,1
+Eliaou   Jean-François,Provendier   Florence,1,1
+Eliaou   Jean-François,Khedher   Anissa,1,1
+Eliaou   Jean-François,Thiébaut   Vincent,1,1
+Eliaou   Jean-François,Chouat   Francis,1,1
+Maillart-Méhaignerie   Laurence,Grandjean   Carole,1,1
+Maillart-Méhaignerie   Laurence,Minot   Maxime,1,1
+Maillart-Méhaignerie   Laurence,Forteza   Paula,1,1
+Maillart-Méhaignerie   Laurence,Ramadier   Alain,0,1
+Maillart-Méhaignerie   Laurence,Gouffier-Cha   Guillaume,1,1
+Maillart-Méhaignerie   Laurence,Peyron   Michèle,1,1
+Maillart-Méhaignerie   Laurence,Calvez   Céline,1,1
+Maillart-Méhaignerie   Laurence,Baichère   Didier,1,1
+Maillart-Méhaignerie   Laurence,Faucillon   Elsa,1,1
+Maillart-Méhaignerie   Laurence,de Vaucouleurs   Michèle,1,1
+Maillart-Méhaignerie   Laurence,Buchou   Stéphane,1,1
+Maillart-Méhaignerie   Laurence,Romeiro Dias   Laëtitia,1,1
+Maillart-Méhaignerie   Laurence,Bergé   Aurore,1,1
+Maillart-Méhaignerie   Laurence,Pételle   Bénédicte,1,1
+Maillart-Méhaignerie   Laurence,Hennion   Christine,1,1
+Maillart-Méhaignerie   Laurence,Chiche   Guillaume,1,1
+Maillart-Méhaignerie   Laurence,Provendier   Florence,1,1
+Maillart-Méhaignerie   Laurence,Khedher   Anissa,1,1
+Maillart-Méhaignerie   Laurence,Thiébaut   Vincent,1,1
+Maillart-Méhaignerie   Laurence,Chouat   Francis,1,1
+Grandjean   Carole,Minot   Maxime,1,1
+Grandjean   Carole,Forteza   Paula,1,1
+Grandjean   Carole,Ramadier   Alain,0,1
+Grandjean   Carole,Gouffier-Cha   Guillaume,1,1
+Grandjean   Carole,Peyron   Michèle,1,1
+Grandjean   Carole,Calvez   Céline,1,1
+Grandjean   Carole,Baichère   Didier,1,1
+Grandjean   Carole,Faucillon   Elsa,1,1
+Grandjean   Carole,de Vaucouleurs   Michèle,1,1
+Grandjean   Carole,Buchou   Stéphane,1,1
+Grandjean   Carole,Romeiro Dias   Laëtitia,1,1
+Grandjean   Carole,Bergé   Aurore,1,1
+Grandjean   Carole,Pételle   Bénédicte,1,1
+Grandjean   Carole,Hennion   Christine,1,1
+Grandjean   Carole,Chiche   Guillaume,1,1
+Grandjean   Carole,Provendier   Florence,1,1
+Grandjean   Carole,Khedher   Anissa,1,1
+Grandjean   Carole,Thiébaut   Vincent,1,1
+Grandjean   Carole,Chouat   Francis,1,1
+Minot   Maxime,Forteza   Paula,1,1
+Minot   Maxime,Ramadier   Alain,0,1
+Minot   Maxime,Gouffier-Cha   Guillaume,1,1
+Minot   Maxime,Peyron   Michèle,1,1
+Minot   Maxime,Calvez   Céline,1,1
+Minot   Maxime,Baichère   Didier,1,1
+Minot   Maxime,Faucillon   Elsa,1,1
+Minot   Maxime,de Vaucouleurs   Michèle,1,1
+Minot   Maxime,Buchou   Stéphane,1,1
+Minot   Maxime,Romeiro Dias   Laëtitia,1,1
+Minot   Maxime,Bergé   Aurore,1,1
+Minot   Maxime,Pételle   Bénédicte,1,1
+Minot   Maxime,Hennion   Christine,1,1
+Minot   Maxime,Chiche   Guillaume,1,1
+Minot   Maxime,Provendier   Florence,1,1
+Minot   Maxime,Khedher   Anissa,1,1
+Minot   Maxime,Thiébaut   Vincent,1,1
+Minot   Maxime,Chouat   Francis,1,1
+Forteza   Paula,Ramadier   Alain,0,1
+Forteza   Paula,Gouffier-Cha   Guillaume,1,1
+Forteza   Paula,Peyron   Michèle,1,1
+Forteza   Paula,Calvez   Céline,1,1
+Forteza   Paula,Baichère   Didier,1,1
+Forteza   Paula,Faucillon   Elsa,1,1
+Forteza   Paula,de Vaucouleurs   Michèle,1,1
+Forteza   Paula,Buchou   Stéphane,1,1
+Forteza   Paula,Romeiro Dias   Laëtitia,1,1
+Forteza   Paula,Bergé   Aurore,1,1
+Forteza   Paula,Pételle   Bénédicte,1,1
+Forteza   Paula,Hennion   Christine,1,1
+Forteza   Paula,Chiche   Guillaume,1,1
+Forteza   Paula,Provendier   Florence,1,1
+Forteza   Paula,Khedher   Anissa,1,1
+Forteza   Paula,Thiébaut   Vincent,1,1
+Forteza   Paula,Chouat   Francis,1,1
+Ramadier   Alain,Gouffier-Cha   Guillaume,0,1
+Ramadier   Alain,Peyron   Michèle,0,1
+Ramadier   Alain,Calvez   Céline,0,1
+Ramadier   Alain,Baichère   Didier,0,1
+Ramadier   Alain,Faucillon   Elsa,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Buchou   Stéphane,0,1
+Ramadier   Alain,Romeiro Dias   Laëtitia,0,1
+Ramadier   Alain,Bergé   Aurore,0,1
+Ramadier   Alain,Pételle   Bénédicte,0,1
+Ramadier   Alain,Hennion   Christine,0,1
+Ramadier   Alain,Chiche   Guillaume,0,1
+Ramadier   Alain,Provendier   Florence,0,1
+Ramadier   Alain,Khedher   Anissa,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Ramadier   Alain,Chouat   Francis,0,1
+Gouffier-Cha   Guillaume,Peyron   Michèle,1,1
+Gouffier-Cha   Guillaume,Calvez   Céline,1,1
+Gouffier-Cha   Guillaume,Baichère   Didier,1,1
+Gouffier-Cha   Guillaume,Faucillon   Elsa,1,1
+Gouffier-Cha   Guillaume,de Vaucouleurs   Michèle,1,1
+Gouffier-Cha   Guillaume,Buchou   Stéphane,1,1
+Gouffier-Cha   Guillaume,Romeiro Dias   Laëtitia,1,1
+Gouffier-Cha   Guillaume,Bergé   Aurore,1,1
+Gouffier-Cha   Guillaume,Pételle   Bénédicte,1,1
+Gouffier-Cha   Guillaume,Hennion   Christine,1,1
+Gouffier-Cha   Guillaume,Chiche   Guillaume,1,1
+Gouffier-Cha   Guillaume,Provendier   Florence,1,1
+Gouffier-Cha   Guillaume,Khedher   Anissa,1,1
+Gouffier-Cha   Guillaume,Thiébaut   Vincent,1,1
+Gouffier-Cha   Guillaume,Chouat   Francis,1,1
+Peyron   Michèle,Calvez   Céline,1,1
+Peyron   Michèle,Baichère   Didier,1,1
+Peyron   Michèle,Faucillon   Elsa,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Buchou   Stéphane,1,1
+Peyron   Michèle,Romeiro Dias   Laëtitia,1,1
+Peyron   Michèle,Bergé   Aurore,1,1
+Peyron   Michèle,Pételle   Bénédicte,1,1
+Peyron   Michèle,Hennion   Christine,1,1
+Peyron   Michèle,Chiche   Guillaume,1,1
+Peyron   Michèle,Provendier   Florence,1,1
+Peyron   Michèle,Khedher   Anissa,1,1
+Peyron   Michèle,Thiébaut   Vincent,1,1
+Peyron   Michèle,Chouat   Francis,1,1
+Calvez   Céline,Baichère   Didier,1,1
+Calvez   Céline,Faucillon   Elsa,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Buchou   Stéphane,1,1
+Calvez   Céline,Romeiro Dias   Laëtitia,1,1
+Calvez   Céline,Bergé   Aurore,1,1
+Calvez   Céline,Pételle   Bénédicte,1,1
+Calvez   Céline,Hennion   Christine,1,1
+Calvez   Céline,Chiche   Guillaume,1,1
+Calvez   Céline,Provendier   Florence,1,1
+Calvez   Céline,Khedher   Anissa,1,1
+Calvez   Céline,Thiébaut   Vincent,1,1
+Calvez   Céline,Chouat   Francis,1,1
+Baichère   Didier,Faucillon   Elsa,1,1
+Baichère   Didier,de Vaucouleurs   Michèle,1,1
+Baichère   Didier,Buchou   Stéphane,1,1
+Baichère   Didier,Romeiro Dias   Laëtitia,1,1
+Baichère   Didier,Bergé   Aurore,1,1
+Baichère   Didier,Pételle   Bénédicte,1,1
+Baichère   Didier,Hennion   Christine,1,1
+Baichère   Didier,Chiche   Guillaume,1,1
+Baichère   Didier,Provendier   Florence,1,1
+Baichère   Didier,Khedher   Anissa,1,1
+Baichère   Didier,Thiébaut   Vincent,1,1
+Baichère   Didier,Chouat   Francis,1,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,1,1
+Faucillon   Elsa,Buchou   Stéphane,1,1
+Faucillon   Elsa,Romeiro Dias   Laëtitia,1,1
+Faucillon   Elsa,Bergé   Aurore,1,1
+Faucillon   Elsa,Pételle   Bénédicte,1,1
+Faucillon   Elsa,Hennion   Christine,1,1
+Faucillon   Elsa,Chiche   Guillaume,1,1
+Faucillon   Elsa,Provendier   Florence,1,1
+Faucillon   Elsa,Khedher   Anissa,1,1
+Faucillon   Elsa,Thiébaut   Vincent,1,1
+Faucillon   Elsa,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,1,1
+de Vaucouleurs   Michèle,Romeiro Dias   Laëtitia,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Pételle   Bénédicte,1,1
+de Vaucouleurs   Michèle,Hennion   Christine,1,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,1,1
+de Vaucouleurs   Michèle,Provendier   Florence,1,1
+de Vaucouleurs   Michèle,Khedher   Anissa,1,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,1,1
+de Vaucouleurs   Michèle,Chouat   Francis,1,1
+Buchou   Stéphane,Romeiro Dias   Laëtitia,1,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Hennion   Christine,1,1
+Buchou   Stéphane,Chiche   Guillaume,1,1
+Buchou   Stéphane,Provendier   Florence,1,1
+Buchou   Stéphane,Khedher   Anissa,1,1
+Buchou   Stéphane,Thiébaut   Vincent,1,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Romeiro Dias   Laëtitia,Bergé   Aurore,1,1
+Romeiro Dias   Laëtitia,Pételle   Bénédicte,1,1
+Romeiro Dias   Laëtitia,Hennion   Christine,1,1
+Romeiro Dias   Laëtitia,Chiche   Guillaume,1,1
+Romeiro Dias   Laëtitia,Provendier   Florence,1,1
+Romeiro Dias   Laëtitia,Khedher   Anissa,1,1
+Romeiro Dias   Laëtitia,Thiébaut   Vincent,1,1
+Romeiro Dias   Laëtitia,Chouat   Francis,1,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Hennion   Christine,1,1
+Bergé   Aurore,Chiche   Guillaume,1,1
+Bergé   Aurore,Provendier   Florence,1,1
+Bergé   Aurore,Khedher   Anissa,1,1
+Bergé   Aurore,Thiébaut   Vincent,1,1
+Bergé   Aurore,Chouat   Francis,1,1
+Pételle   Bénédicte,Hennion   Christine,1,1
+Pételle   Bénédicte,Chiche   Guillaume,1,1
+Pételle   Bénédicte,Provendier   Florence,1,1
+Pételle   Bénédicte,Khedher   Anissa,1,1
+Pételle   Bénédicte,Thiébaut   Vincent,1,1
+Pételle   Bénédicte,Chouat   Francis,1,1
+Hennion   Christine,Chiche   Guillaume,1,1
+Hennion   Christine,Provendier   Florence,1,1
+Hennion   Christine,Khedher   Anissa,1,1
+Hennion   Christine,Thiébaut   Vincent,1,1
+Hennion   Christine,Chouat   Francis,1,1
+Chiche   Guillaume,Provendier   Florence,1,1
+Chiche   Guillaume,Khedher   Anissa,1,1
+Chiche   Guillaume,Thiébaut   Vincent,1,1
+Chiche   Guillaume,Chouat   Francis,1,1
+Provendier   Florence,Khedher   Anissa,1,1
+Provendier   Florence,Thiébaut   Vincent,1,1
+Provendier   Florence,Chouat   Francis,1,1
+Khedher   Anissa,Thiébaut   Vincent,1,1
+Khedher   Anissa,Chouat   Francis,1,1
+Thiébaut   Vincent,Chouat   Francis,1,1

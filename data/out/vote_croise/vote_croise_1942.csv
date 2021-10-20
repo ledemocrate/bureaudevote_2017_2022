@@ -1,0 +1,631 @@
+from,to,vote_commun,loi_commun
+Fanget   Michel,Bony   Jean-Yves,1,1
+Fanget   Michel,Sermier   Jean-Marie,1,1
+Fanget   Michel,Lecoq   Jean-Paul,0,1
+Fanget   Michel,Batho   Delphine,1,1
+Fanget   Michel,Battistel   Marie-Noëlle,1,1
+Fanget   Michel,Trompille   Stéphane,1,1
+Fanget   Michel,Zulesi   Jean-Marc,1,1
+Fanget   Michel,Blanchet   Christophe,1,1
+Fanget   Michel,Michel-Brassart   Monica,1,1
+Fanget   Michel,Kerlogot   Yannick,1,1
+Fanget   Michel,Le Feur   Sandrine,1,1
+Fanget   Michel,Sommer   Denis,1,1
+Fanget   Michel,Prud'homme   Loïc,0,1
+Fanget   Michel,Ménard   Emmanuelle,1,1
+Fanget   Michel,Couillard   Bérangère,1,1
+Fanget   Michel,Hammerer   Véronique,1,1
+Fanget   Michel,Colas-Roy   Jean-Charles,1,1
+Fanget   Michel,Démoulin   Nicolas,1,1
+Fanget   Michel,Mis   Jean-Michel,1,1
+Fanget   Michel,Saint-Paul   Laetitia,1,1
+Fanget   Michel,Di Filippo   Fabien,1,1
+Fanget   Michel,Gayte   Laurence,1,1
+Fanget   Michel,Park   Zivka,1,1
+Fanget   Michel,El Guerrab   M'jid,1,1
+Fanget   Michel,Pichereau   Damien,1,1
+Fanget   Michel,Bonnivard   Émilie,1,1
+Fanget   Michel,Riotton   Véronique,1,1
+Fanget   Michel,Luquet   Aude,1,1
+Fanget   Michel,Reda   Robin,1,1
+Fanget   Michel,Fauvergue   Jean-Michel,1,1
+Fanget   Michel,Wulfranc   Hubert,0,1
+Fanget   Michel,Beaudouin-Hubiere   Sophie,1,1
+Fanget   Michel,Leclabart   Jean-Claude,1,1
+Fanget   Michel,Fugit   Jean-Luc,1,1
+Fanget   Michel,Chouat   Francis,1,1
+Bony   Jean-Yves,Sermier   Jean-Marie,1,1
+Bony   Jean-Yves,Lecoq   Jean-Paul,0,1
+Bony   Jean-Yves,Batho   Delphine,1,1
+Bony   Jean-Yves,Battistel   Marie-Noëlle,1,1
+Bony   Jean-Yves,Trompille   Stéphane,1,1
+Bony   Jean-Yves,Zulesi   Jean-Marc,1,1
+Bony   Jean-Yves,Blanchet   Christophe,1,1
+Bony   Jean-Yves,Michel-Brassart   Monica,1,1
+Bony   Jean-Yves,Kerlogot   Yannick,1,1
+Bony   Jean-Yves,Le Feur   Sandrine,1,1
+Bony   Jean-Yves,Sommer   Denis,1,1
+Bony   Jean-Yves,Prud'homme   Loïc,0,1
+Bony   Jean-Yves,Ménard   Emmanuelle,1,1
+Bony   Jean-Yves,Couillard   Bérangère,1,1
+Bony   Jean-Yves,Hammerer   Véronique,1,1
+Bony   Jean-Yves,Colas-Roy   Jean-Charles,1,1
+Bony   Jean-Yves,Démoulin   Nicolas,1,1
+Bony   Jean-Yves,Mis   Jean-Michel,1,1
+Bony   Jean-Yves,Saint-Paul   Laetitia,1,1
+Bony   Jean-Yves,Di Filippo   Fabien,1,1
+Bony   Jean-Yves,Gayte   Laurence,1,1
+Bony   Jean-Yves,Park   Zivka,1,1
+Bony   Jean-Yves,El Guerrab   M'jid,1,1
+Bony   Jean-Yves,Pichereau   Damien,1,1
+Bony   Jean-Yves,Bonnivard   Émilie,1,1
+Bony   Jean-Yves,Riotton   Véronique,1,1
+Bony   Jean-Yves,Luquet   Aude,1,1
+Bony   Jean-Yves,Reda   Robin,1,1
+Bony   Jean-Yves,Fauvergue   Jean-Michel,1,1
+Bony   Jean-Yves,Wulfranc   Hubert,0,1
+Bony   Jean-Yves,Beaudouin-Hubiere   Sophie,1,1
+Bony   Jean-Yves,Leclabart   Jean-Claude,1,1
+Bony   Jean-Yves,Fugit   Jean-Luc,1,1
+Bony   Jean-Yves,Chouat   Francis,1,1
+Sermier   Jean-Marie,Lecoq   Jean-Paul,0,1
+Sermier   Jean-Marie,Batho   Delphine,1,1
+Sermier   Jean-Marie,Battistel   Marie-Noëlle,1,1
+Sermier   Jean-Marie,Trompille   Stéphane,1,1
+Sermier   Jean-Marie,Zulesi   Jean-Marc,1,1
+Sermier   Jean-Marie,Blanchet   Christophe,1,1
+Sermier   Jean-Marie,Michel-Brassart   Monica,1,1
+Sermier   Jean-Marie,Kerlogot   Yannick,1,1
+Sermier   Jean-Marie,Le Feur   Sandrine,1,1
+Sermier   Jean-Marie,Sommer   Denis,1,1
+Sermier   Jean-Marie,Prud'homme   Loïc,0,1
+Sermier   Jean-Marie,Ménard   Emmanuelle,1,1
+Sermier   Jean-Marie,Couillard   Bérangère,1,1
+Sermier   Jean-Marie,Hammerer   Véronique,1,1
+Sermier   Jean-Marie,Colas-Roy   Jean-Charles,1,1
+Sermier   Jean-Marie,Démoulin   Nicolas,1,1
+Sermier   Jean-Marie,Mis   Jean-Michel,1,1
+Sermier   Jean-Marie,Saint-Paul   Laetitia,1,1
+Sermier   Jean-Marie,Di Filippo   Fabien,1,1
+Sermier   Jean-Marie,Gayte   Laurence,1,1
+Sermier   Jean-Marie,Park   Zivka,1,1
+Sermier   Jean-Marie,El Guerrab   M'jid,1,1
+Sermier   Jean-Marie,Pichereau   Damien,1,1
+Sermier   Jean-Marie,Bonnivard   Émilie,1,1
+Sermier   Jean-Marie,Riotton   Véronique,1,1
+Sermier   Jean-Marie,Luquet   Aude,1,1
+Sermier   Jean-Marie,Reda   Robin,1,1
+Sermier   Jean-Marie,Fauvergue   Jean-Michel,1,1
+Sermier   Jean-Marie,Wulfranc   Hubert,0,1
+Sermier   Jean-Marie,Beaudouin-Hubiere   Sophie,1,1
+Sermier   Jean-Marie,Leclabart   Jean-Claude,1,1
+Sermier   Jean-Marie,Fugit   Jean-Luc,1,1
+Sermier   Jean-Marie,Chouat   Francis,1,1
+Lecoq   Jean-Paul,Batho   Delphine,0,1
+Lecoq   Jean-Paul,Battistel   Marie-Noëlle,0,1
+Lecoq   Jean-Paul,Trompille   Stéphane,0,1
+Lecoq   Jean-Paul,Zulesi   Jean-Marc,0,1
+Lecoq   Jean-Paul,Blanchet   Christophe,0,1
+Lecoq   Jean-Paul,Michel-Brassart   Monica,0,1
+Lecoq   Jean-Paul,Kerlogot   Yannick,0,1
+Lecoq   Jean-Paul,Le Feur   Sandrine,0,1
+Lecoq   Jean-Paul,Sommer   Denis,0,1
+Lecoq   Jean-Paul,Prud'homme   Loïc,1,1
+Lecoq   Jean-Paul,Ménard   Emmanuelle,0,1
+Lecoq   Jean-Paul,Couillard   Bérangère,0,1
+Lecoq   Jean-Paul,Hammerer   Véronique,0,1
+Lecoq   Jean-Paul,Colas-Roy   Jean-Charles,0,1
+Lecoq   Jean-Paul,Démoulin   Nicolas,0,1
+Lecoq   Jean-Paul,Mis   Jean-Michel,0,1
+Lecoq   Jean-Paul,Saint-Paul   Laetitia,0,1
+Lecoq   Jean-Paul,Di Filippo   Fabien,0,1
+Lecoq   Jean-Paul,Gayte   Laurence,0,1
+Lecoq   Jean-Paul,Park   Zivka,0,1
+Lecoq   Jean-Paul,El Guerrab   M'jid,0,1
+Lecoq   Jean-Paul,Pichereau   Damien,0,1
+Lecoq   Jean-Paul,Bonnivard   Émilie,0,1
+Lecoq   Jean-Paul,Riotton   Véronique,0,1
+Lecoq   Jean-Paul,Luquet   Aude,0,1
+Lecoq   Jean-Paul,Reda   Robin,0,1
+Lecoq   Jean-Paul,Fauvergue   Jean-Michel,0,1
+Lecoq   Jean-Paul,Wulfranc   Hubert,1,1
+Lecoq   Jean-Paul,Beaudouin-Hubiere   Sophie,0,1
+Lecoq   Jean-Paul,Leclabart   Jean-Claude,0,1
+Lecoq   Jean-Paul,Fugit   Jean-Luc,0,1
+Lecoq   Jean-Paul,Chouat   Francis,0,1
+Batho   Delphine,Battistel   Marie-Noëlle,1,1
+Batho   Delphine,Trompille   Stéphane,1,1
+Batho   Delphine,Zulesi   Jean-Marc,1,1
+Batho   Delphine,Blanchet   Christophe,1,1
+Batho   Delphine,Michel-Brassart   Monica,1,1
+Batho   Delphine,Kerlogot   Yannick,1,1
+Batho   Delphine,Le Feur   Sandrine,1,1
+Batho   Delphine,Sommer   Denis,1,1
+Batho   Delphine,Prud'homme   Loïc,0,1
+Batho   Delphine,Ménard   Emmanuelle,1,1
+Batho   Delphine,Couillard   Bérangère,1,1
+Batho   Delphine,Hammerer   Véronique,1,1
+Batho   Delphine,Colas-Roy   Jean-Charles,1,1
+Batho   Delphine,Démoulin   Nicolas,1,1
+Batho   Delphine,Mis   Jean-Michel,1,1
+Batho   Delphine,Saint-Paul   Laetitia,1,1
+Batho   Delphine,Di Filippo   Fabien,1,1
+Batho   Delphine,Gayte   Laurence,1,1
+Batho   Delphine,Park   Zivka,1,1
+Batho   Delphine,El Guerrab   M'jid,1,1
+Batho   Delphine,Pichereau   Damien,1,1
+Batho   Delphine,Bonnivard   Émilie,1,1
+Batho   Delphine,Riotton   Véronique,1,1
+Batho   Delphine,Luquet   Aude,1,1
+Batho   Delphine,Reda   Robin,1,1
+Batho   Delphine,Fauvergue   Jean-Michel,1,1
+Batho   Delphine,Wulfranc   Hubert,0,1
+Batho   Delphine,Beaudouin-Hubiere   Sophie,1,1
+Batho   Delphine,Leclabart   Jean-Claude,1,1
+Batho   Delphine,Fugit   Jean-Luc,1,1
+Batho   Delphine,Chouat   Francis,1,1
+Battistel   Marie-Noëlle,Trompille   Stéphane,1,1
+Battistel   Marie-Noëlle,Zulesi   Jean-Marc,1,1
+Battistel   Marie-Noëlle,Blanchet   Christophe,1,1
+Battistel   Marie-Noëlle,Michel-Brassart   Monica,1,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,1,1
+Battistel   Marie-Noëlle,Le Feur   Sandrine,1,1
+Battistel   Marie-Noëlle,Sommer   Denis,1,1
+Battistel   Marie-Noëlle,Prud'homme   Loïc,0,1
+Battistel   Marie-Noëlle,Ménard   Emmanuelle,1,1
+Battistel   Marie-Noëlle,Couillard   Bérangère,1,1
+Battistel   Marie-Noëlle,Hammerer   Véronique,1,1
+Battistel   Marie-Noëlle,Colas-Roy   Jean-Charles,1,1
+Battistel   Marie-Noëlle,Démoulin   Nicolas,1,1
+Battistel   Marie-Noëlle,Mis   Jean-Michel,1,1
+Battistel   Marie-Noëlle,Saint-Paul   Laetitia,1,1
+Battistel   Marie-Noëlle,Di Filippo   Fabien,1,1
+Battistel   Marie-Noëlle,Gayte   Laurence,1,1
+Battistel   Marie-Noëlle,Park   Zivka,1,1
+Battistel   Marie-Noëlle,El Guerrab   M'jid,1,1
+Battistel   Marie-Noëlle,Pichereau   Damien,1,1
+Battistel   Marie-Noëlle,Bonnivard   Émilie,1,1
+Battistel   Marie-Noëlle,Riotton   Véronique,1,1
+Battistel   Marie-Noëlle,Luquet   Aude,1,1
+Battistel   Marie-Noëlle,Reda   Robin,1,1
+Battistel   Marie-Noëlle,Fauvergue   Jean-Michel,1,1
+Battistel   Marie-Noëlle,Wulfranc   Hubert,0,1
+Battistel   Marie-Noëlle,Beaudouin-Hubiere   Sophie,1,1
+Battistel   Marie-Noëlle,Leclabart   Jean-Claude,1,1
+Battistel   Marie-Noëlle,Fugit   Jean-Luc,1,1
+Battistel   Marie-Noëlle,Chouat   Francis,1,1
+Trompille   Stéphane,Zulesi   Jean-Marc,1,1
+Trompille   Stéphane,Blanchet   Christophe,1,1
+Trompille   Stéphane,Michel-Brassart   Monica,1,1
+Trompille   Stéphane,Kerlogot   Yannick,1,1
+Trompille   Stéphane,Le Feur   Sandrine,1,1
+Trompille   Stéphane,Sommer   Denis,1,1
+Trompille   Stéphane,Prud'homme   Loïc,0,1
+Trompille   Stéphane,Ménard   Emmanuelle,1,1
+Trompille   Stéphane,Couillard   Bérangère,1,1
+Trompille   Stéphane,Hammerer   Véronique,1,1
+Trompille   Stéphane,Colas-Roy   Jean-Charles,1,1
+Trompille   Stéphane,Démoulin   Nicolas,1,1
+Trompille   Stéphane,Mis   Jean-Michel,1,1
+Trompille   Stéphane,Saint-Paul   Laetitia,1,1
+Trompille   Stéphane,Di Filippo   Fabien,1,1
+Trompille   Stéphane,Gayte   Laurence,1,1
+Trompille   Stéphane,Park   Zivka,1,1
+Trompille   Stéphane,El Guerrab   M'jid,1,1
+Trompille   Stéphane,Pichereau   Damien,1,1
+Trompille   Stéphane,Bonnivard   Émilie,1,1
+Trompille   Stéphane,Riotton   Véronique,1,1
+Trompille   Stéphane,Luquet   Aude,1,1
+Trompille   Stéphane,Reda   Robin,1,1
+Trompille   Stéphane,Fauvergue   Jean-Michel,1,1
+Trompille   Stéphane,Wulfranc   Hubert,0,1
+Trompille   Stéphane,Beaudouin-Hubiere   Sophie,1,1
+Trompille   Stéphane,Leclabart   Jean-Claude,1,1
+Trompille   Stéphane,Fugit   Jean-Luc,1,1
+Trompille   Stéphane,Chouat   Francis,1,1
+Zulesi   Jean-Marc,Blanchet   Christophe,1,1
+Zulesi   Jean-Marc,Michel-Brassart   Monica,1,1
+Zulesi   Jean-Marc,Kerlogot   Yannick,1,1
+Zulesi   Jean-Marc,Le Feur   Sandrine,1,1
+Zulesi   Jean-Marc,Sommer   Denis,1,1
+Zulesi   Jean-Marc,Prud'homme   Loïc,0,1
+Zulesi   Jean-Marc,Ménard   Emmanuelle,1,1
+Zulesi   Jean-Marc,Couillard   Bérangère,1,1
+Zulesi   Jean-Marc,Hammerer   Véronique,1,1
+Zulesi   Jean-Marc,Colas-Roy   Jean-Charles,1,1
+Zulesi   Jean-Marc,Démoulin   Nicolas,1,1
+Zulesi   Jean-Marc,Mis   Jean-Michel,1,1
+Zulesi   Jean-Marc,Saint-Paul   Laetitia,1,1
+Zulesi   Jean-Marc,Di Filippo   Fabien,1,1
+Zulesi   Jean-Marc,Gayte   Laurence,1,1
+Zulesi   Jean-Marc,Park   Zivka,1,1
+Zulesi   Jean-Marc,El Guerrab   M'jid,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Bonnivard   Émilie,1,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Luquet   Aude,1,1
+Zulesi   Jean-Marc,Reda   Robin,1,1
+Zulesi   Jean-Marc,Fauvergue   Jean-Michel,1,1
+Zulesi   Jean-Marc,Wulfranc   Hubert,0,1
+Zulesi   Jean-Marc,Beaudouin-Hubiere   Sophie,1,1
+Zulesi   Jean-Marc,Leclabart   Jean-Claude,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,Chouat   Francis,1,1
+Blanchet   Christophe,Michel-Brassart   Monica,1,1
+Blanchet   Christophe,Kerlogot   Yannick,1,1
+Blanchet   Christophe,Le Feur   Sandrine,1,1
+Blanchet   Christophe,Sommer   Denis,1,1
+Blanchet   Christophe,Prud'homme   Loïc,0,1
+Blanchet   Christophe,Ménard   Emmanuelle,1,1
+Blanchet   Christophe,Couillard   Bérangère,1,1
+Blanchet   Christophe,Hammerer   Véronique,1,1
+Blanchet   Christophe,Colas-Roy   Jean-Charles,1,1
+Blanchet   Christophe,Démoulin   Nicolas,1,1
+Blanchet   Christophe,Mis   Jean-Michel,1,1
+Blanchet   Christophe,Saint-Paul   Laetitia,1,1
+Blanchet   Christophe,Di Filippo   Fabien,1,1
+Blanchet   Christophe,Gayte   Laurence,1,1
+Blanchet   Christophe,Park   Zivka,1,1
+Blanchet   Christophe,El Guerrab   M'jid,1,1
+Blanchet   Christophe,Pichereau   Damien,1,1
+Blanchet   Christophe,Bonnivard   Émilie,1,1
+Blanchet   Christophe,Riotton   Véronique,1,1
+Blanchet   Christophe,Luquet   Aude,1,1
+Blanchet   Christophe,Reda   Robin,1,1
+Blanchet   Christophe,Fauvergue   Jean-Michel,1,1
+Blanchet   Christophe,Wulfranc   Hubert,0,1
+Blanchet   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Blanchet   Christophe,Leclabart   Jean-Claude,1,1
+Blanchet   Christophe,Fugit   Jean-Luc,1,1
+Blanchet   Christophe,Chouat   Francis,1,1
+Michel-Brassart   Monica,Kerlogot   Yannick,1,1
+Michel-Brassart   Monica,Le Feur   Sandrine,1,1
+Michel-Brassart   Monica,Sommer   Denis,1,1
+Michel-Brassart   Monica,Prud'homme   Loïc,0,1
+Michel-Brassart   Monica,Ménard   Emmanuelle,1,1
+Michel-Brassart   Monica,Couillard   Bérangère,1,1
+Michel-Brassart   Monica,Hammerer   Véronique,1,1
+Michel-Brassart   Monica,Colas-Roy   Jean-Charles,1,1
+Michel-Brassart   Monica,Démoulin   Nicolas,1,1
+Michel-Brassart   Monica,Mis   Jean-Michel,1,1
+Michel-Brassart   Monica,Saint-Paul   Laetitia,1,1
+Michel-Brassart   Monica,Di Filippo   Fabien,1,1
+Michel-Brassart   Monica,Gayte   Laurence,1,1
+Michel-Brassart   Monica,Park   Zivka,1,1
+Michel-Brassart   Monica,El Guerrab   M'jid,1,1
+Michel-Brassart   Monica,Pichereau   Damien,1,1
+Michel-Brassart   Monica,Bonnivard   Émilie,1,1
+Michel-Brassart   Monica,Riotton   Véronique,1,1
+Michel-Brassart   Monica,Luquet   Aude,1,1
+Michel-Brassart   Monica,Reda   Robin,1,1
+Michel-Brassart   Monica,Fauvergue   Jean-Michel,1,1
+Michel-Brassart   Monica,Wulfranc   Hubert,0,1
+Michel-Brassart   Monica,Beaudouin-Hubiere   Sophie,1,1
+Michel-Brassart   Monica,Leclabart   Jean-Claude,1,1
+Michel-Brassart   Monica,Fugit   Jean-Luc,1,1
+Michel-Brassart   Monica,Chouat   Francis,1,1
+Kerlogot   Yannick,Le Feur   Sandrine,1,1
+Kerlogot   Yannick,Sommer   Denis,1,1
+Kerlogot   Yannick,Prud'homme   Loïc,0,1
+Kerlogot   Yannick,Ménard   Emmanuelle,1,1
+Kerlogot   Yannick,Couillard   Bérangère,1,1
+Kerlogot   Yannick,Hammerer   Véronique,1,1
+Kerlogot   Yannick,Colas-Roy   Jean-Charles,1,1
+Kerlogot   Yannick,Démoulin   Nicolas,1,1
+Kerlogot   Yannick,Mis   Jean-Michel,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Di Filippo   Fabien,1,1
+Kerlogot   Yannick,Gayte   Laurence,1,1
+Kerlogot   Yannick,Park   Zivka,1,1
+Kerlogot   Yannick,El Guerrab   M'jid,1,1
+Kerlogot   Yannick,Pichereau   Damien,1,1
+Kerlogot   Yannick,Bonnivard   Émilie,1,1
+Kerlogot   Yannick,Riotton   Véronique,1,1
+Kerlogot   Yannick,Luquet   Aude,1,1
+Kerlogot   Yannick,Reda   Robin,1,1
+Kerlogot   Yannick,Fauvergue   Jean-Michel,1,1
+Kerlogot   Yannick,Wulfranc   Hubert,0,1
+Kerlogot   Yannick,Beaudouin-Hubiere   Sophie,1,1
+Kerlogot   Yannick,Leclabart   Jean-Claude,1,1
+Kerlogot   Yannick,Fugit   Jean-Luc,1,1
+Kerlogot   Yannick,Chouat   Francis,1,1
+Le Feur   Sandrine,Sommer   Denis,1,1
+Le Feur   Sandrine,Prud'homme   Loïc,0,1
+Le Feur   Sandrine,Ménard   Emmanuelle,1,1
+Le Feur   Sandrine,Couillard   Bérangère,1,1
+Le Feur   Sandrine,Hammerer   Véronique,1,1
+Le Feur   Sandrine,Colas-Roy   Jean-Charles,1,1
+Le Feur   Sandrine,Démoulin   Nicolas,1,1
+Le Feur   Sandrine,Mis   Jean-Michel,1,1
+Le Feur   Sandrine,Saint-Paul   Laetitia,1,1
+Le Feur   Sandrine,Di Filippo   Fabien,1,1
+Le Feur   Sandrine,Gayte   Laurence,1,1
+Le Feur   Sandrine,Park   Zivka,1,1
+Le Feur   Sandrine,El Guerrab   M'jid,1,1
+Le Feur   Sandrine,Pichereau   Damien,1,1
+Le Feur   Sandrine,Bonnivard   Émilie,1,1
+Le Feur   Sandrine,Riotton   Véronique,1,1
+Le Feur   Sandrine,Luquet   Aude,1,1
+Le Feur   Sandrine,Reda   Robin,1,1
+Le Feur   Sandrine,Fauvergue   Jean-Michel,1,1
+Le Feur   Sandrine,Wulfranc   Hubert,0,1
+Le Feur   Sandrine,Beaudouin-Hubiere   Sophie,1,1
+Le Feur   Sandrine,Leclabart   Jean-Claude,1,1
+Le Feur   Sandrine,Fugit   Jean-Luc,1,1
+Le Feur   Sandrine,Chouat   Francis,1,1
+Sommer   Denis,Prud'homme   Loïc,0,1
+Sommer   Denis,Ménard   Emmanuelle,1,1
+Sommer   Denis,Couillard   Bérangère,1,1
+Sommer   Denis,Hammerer   Véronique,1,1
+Sommer   Denis,Colas-Roy   Jean-Charles,1,1
+Sommer   Denis,Démoulin   Nicolas,1,1
+Sommer   Denis,Mis   Jean-Michel,1,1
+Sommer   Denis,Saint-Paul   Laetitia,1,1
+Sommer   Denis,Di Filippo   Fabien,1,1
+Sommer   Denis,Gayte   Laurence,1,1
+Sommer   Denis,Park   Zivka,1,1
+Sommer   Denis,El Guerrab   M'jid,1,1
+Sommer   Denis,Pichereau   Damien,1,1
+Sommer   Denis,Bonnivard   Émilie,1,1
+Sommer   Denis,Riotton   Véronique,1,1
+Sommer   Denis,Luquet   Aude,1,1
+Sommer   Denis,Reda   Robin,1,1
+Sommer   Denis,Fauvergue   Jean-Michel,1,1
+Sommer   Denis,Wulfranc   Hubert,0,1
+Sommer   Denis,Beaudouin-Hubiere   Sophie,1,1
+Sommer   Denis,Leclabart   Jean-Claude,1,1
+Sommer   Denis,Fugit   Jean-Luc,1,1
+Sommer   Denis,Chouat   Francis,1,1
+Prud'homme   Loïc,Ménard   Emmanuelle,0,1
+Prud'homme   Loïc,Couillard   Bérangère,0,1
+Prud'homme   Loïc,Hammerer   Véronique,0,1
+Prud'homme   Loïc,Colas-Roy   Jean-Charles,0,1
+Prud'homme   Loïc,Démoulin   Nicolas,0,1
+Prud'homme   Loïc,Mis   Jean-Michel,0,1
+Prud'homme   Loïc,Saint-Paul   Laetitia,0,1
+Prud'homme   Loïc,Di Filippo   Fabien,0,1
+Prud'homme   Loïc,Gayte   Laurence,0,1
+Prud'homme   Loïc,Park   Zivka,0,1
+Prud'homme   Loïc,El Guerrab   M'jid,0,1
+Prud'homme   Loïc,Pichereau   Damien,0,1
+Prud'homme   Loïc,Bonnivard   Émilie,0,1
+Prud'homme   Loïc,Riotton   Véronique,0,1
+Prud'homme   Loïc,Luquet   Aude,0,1
+Prud'homme   Loïc,Reda   Robin,0,1
+Prud'homme   Loïc,Fauvergue   Jean-Michel,0,1
+Prud'homme   Loïc,Wulfranc   Hubert,1,1
+Prud'homme   Loïc,Beaudouin-Hubiere   Sophie,0,1
+Prud'homme   Loïc,Leclabart   Jean-Claude,0,1
+Prud'homme   Loïc,Fugit   Jean-Luc,0,1
+Prud'homme   Loïc,Chouat   Francis,0,1
+Ménard   Emmanuelle,Couillard   Bérangère,1,1
+Ménard   Emmanuelle,Hammerer   Véronique,1,1
+Ménard   Emmanuelle,Colas-Roy   Jean-Charles,1,1
+Ménard   Emmanuelle,Démoulin   Nicolas,1,1
+Ménard   Emmanuelle,Mis   Jean-Michel,1,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,1,1
+Ménard   Emmanuelle,Di Filippo   Fabien,1,1
+Ménard   Emmanuelle,Gayte   Laurence,1,1
+Ménard   Emmanuelle,Park   Zivka,1,1
+Ménard   Emmanuelle,El Guerrab   M'jid,1,1
+Ménard   Emmanuelle,Pichereau   Damien,1,1
+Ménard   Emmanuelle,Bonnivard   Émilie,1,1
+Ménard   Emmanuelle,Riotton   Véronique,1,1
+Ménard   Emmanuelle,Luquet   Aude,1,1
+Ménard   Emmanuelle,Reda   Robin,1,1
+Ménard   Emmanuelle,Fauvergue   Jean-Michel,1,1
+Ménard   Emmanuelle,Wulfranc   Hubert,0,1
+Ménard   Emmanuelle,Beaudouin-Hubiere   Sophie,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Chouat   Francis,1,1
+Couillard   Bérangère,Hammerer   Véronique,1,1
+Couillard   Bérangère,Colas-Roy   Jean-Charles,1,1
+Couillard   Bérangère,Démoulin   Nicolas,1,1
+Couillard   Bérangère,Mis   Jean-Michel,1,1
+Couillard   Bérangère,Saint-Paul   Laetitia,1,1
+Couillard   Bérangère,Di Filippo   Fabien,1,1
+Couillard   Bérangère,Gayte   Laurence,1,1
+Couillard   Bérangère,Park   Zivka,1,1
+Couillard   Bérangère,El Guerrab   M'jid,1,1
+Couillard   Bérangère,Pichereau   Damien,1,1
+Couillard   Bérangère,Bonnivard   Émilie,1,1
+Couillard   Bérangère,Riotton   Véronique,1,1
+Couillard   Bérangère,Luquet   Aude,1,1
+Couillard   Bérangère,Reda   Robin,1,1
+Couillard   Bérangère,Fauvergue   Jean-Michel,1,1
+Couillard   Bérangère,Wulfranc   Hubert,0,1
+Couillard   Bérangère,Beaudouin-Hubiere   Sophie,1,1
+Couillard   Bérangère,Leclabart   Jean-Claude,1,1
+Couillard   Bérangère,Fugit   Jean-Luc,1,1
+Couillard   Bérangère,Chouat   Francis,1,1
+Hammerer   Véronique,Colas-Roy   Jean-Charles,1,1
+Hammerer   Véronique,Démoulin   Nicolas,1,1
+Hammerer   Véronique,Mis   Jean-Michel,1,1
+Hammerer   Véronique,Saint-Paul   Laetitia,1,1
+Hammerer   Véronique,Di Filippo   Fabien,1,1
+Hammerer   Véronique,Gayte   Laurence,1,1
+Hammerer   Véronique,Park   Zivka,1,1
+Hammerer   Véronique,El Guerrab   M'jid,1,1
+Hammerer   Véronique,Pichereau   Damien,1,1
+Hammerer   Véronique,Bonnivard   Émilie,1,1
+Hammerer   Véronique,Riotton   Véronique,1,1
+Hammerer   Véronique,Luquet   Aude,1,1
+Hammerer   Véronique,Reda   Robin,1,1
+Hammerer   Véronique,Fauvergue   Jean-Michel,1,1
+Hammerer   Véronique,Wulfranc   Hubert,0,1
+Hammerer   Véronique,Beaudouin-Hubiere   Sophie,1,1
+Hammerer   Véronique,Leclabart   Jean-Claude,1,1
+Hammerer   Véronique,Fugit   Jean-Luc,1,1
+Hammerer   Véronique,Chouat   Francis,1,1
+Colas-Roy   Jean-Charles,Démoulin   Nicolas,1,1
+Colas-Roy   Jean-Charles,Mis   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Saint-Paul   Laetitia,1,1
+Colas-Roy   Jean-Charles,Di Filippo   Fabien,1,1
+Colas-Roy   Jean-Charles,Gayte   Laurence,1,1
+Colas-Roy   Jean-Charles,Park   Zivka,1,1
+Colas-Roy   Jean-Charles,El Guerrab   M'jid,1,1
+Colas-Roy   Jean-Charles,Pichereau   Damien,1,1
+Colas-Roy   Jean-Charles,Bonnivard   Émilie,1,1
+Colas-Roy   Jean-Charles,Riotton   Véronique,1,1
+Colas-Roy   Jean-Charles,Luquet   Aude,1,1
+Colas-Roy   Jean-Charles,Reda   Robin,1,1
+Colas-Roy   Jean-Charles,Fauvergue   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Wulfranc   Hubert,0,1
+Colas-Roy   Jean-Charles,Beaudouin-Hubiere   Sophie,1,1
+Colas-Roy   Jean-Charles,Leclabart   Jean-Claude,1,1
+Colas-Roy   Jean-Charles,Fugit   Jean-Luc,1,1
+Colas-Roy   Jean-Charles,Chouat   Francis,1,1
+Démoulin   Nicolas,Mis   Jean-Michel,1,1
+Démoulin   Nicolas,Saint-Paul   Laetitia,1,1
+Démoulin   Nicolas,Di Filippo   Fabien,1,1
+Démoulin   Nicolas,Gayte   Laurence,1,1
+Démoulin   Nicolas,Park   Zivka,1,1
+Démoulin   Nicolas,El Guerrab   M'jid,1,1
+Démoulin   Nicolas,Pichereau   Damien,1,1
+Démoulin   Nicolas,Bonnivard   Émilie,1,1
+Démoulin   Nicolas,Riotton   Véronique,1,1
+Démoulin   Nicolas,Luquet   Aude,1,1
+Démoulin   Nicolas,Reda   Robin,1,1
+Démoulin   Nicolas,Fauvergue   Jean-Michel,1,1
+Démoulin   Nicolas,Wulfranc   Hubert,0,1
+Démoulin   Nicolas,Beaudouin-Hubiere   Sophie,1,1
+Démoulin   Nicolas,Leclabart   Jean-Claude,1,1
+Démoulin   Nicolas,Fugit   Jean-Luc,1,1
+Démoulin   Nicolas,Chouat   Francis,1,1
+Mis   Jean-Michel,Saint-Paul   Laetitia,1,1
+Mis   Jean-Michel,Di Filippo   Fabien,1,1
+Mis   Jean-Michel,Gayte   Laurence,1,1
+Mis   Jean-Michel,Park   Zivka,1,1
+Mis   Jean-Michel,El Guerrab   M'jid,1,1
+Mis   Jean-Michel,Pichereau   Damien,1,1
+Mis   Jean-Michel,Bonnivard   Émilie,1,1
+Mis   Jean-Michel,Riotton   Véronique,1,1
+Mis   Jean-Michel,Luquet   Aude,1,1
+Mis   Jean-Michel,Reda   Robin,1,1
+Mis   Jean-Michel,Fauvergue   Jean-Michel,1,1
+Mis   Jean-Michel,Wulfranc   Hubert,0,1
+Mis   Jean-Michel,Beaudouin-Hubiere   Sophie,1,1
+Mis   Jean-Michel,Leclabart   Jean-Claude,1,1
+Mis   Jean-Michel,Fugit   Jean-Luc,1,1
+Mis   Jean-Michel,Chouat   Francis,1,1
+Saint-Paul   Laetitia,Di Filippo   Fabien,1,1
+Saint-Paul   Laetitia,Gayte   Laurence,1,1
+Saint-Paul   Laetitia,Park   Zivka,1,1
+Saint-Paul   Laetitia,El Guerrab   M'jid,1,1
+Saint-Paul   Laetitia,Pichereau   Damien,1,1
+Saint-Paul   Laetitia,Bonnivard   Émilie,1,1
+Saint-Paul   Laetitia,Riotton   Véronique,1,1
+Saint-Paul   Laetitia,Luquet   Aude,1,1
+Saint-Paul   Laetitia,Reda   Robin,1,1
+Saint-Paul   Laetitia,Fauvergue   Jean-Michel,1,1
+Saint-Paul   Laetitia,Wulfranc   Hubert,0,1
+Saint-Paul   Laetitia,Beaudouin-Hubiere   Sophie,1,1
+Saint-Paul   Laetitia,Leclabart   Jean-Claude,1,1
+Saint-Paul   Laetitia,Fugit   Jean-Luc,1,1
+Saint-Paul   Laetitia,Chouat   Francis,1,1
+Di Filippo   Fabien,Gayte   Laurence,1,1
+Di Filippo   Fabien,Park   Zivka,1,1
+Di Filippo   Fabien,El Guerrab   M'jid,1,1
+Di Filippo   Fabien,Pichereau   Damien,1,1
+Di Filippo   Fabien,Bonnivard   Émilie,1,1
+Di Filippo   Fabien,Riotton   Véronique,1,1
+Di Filippo   Fabien,Luquet   Aude,1,1
+Di Filippo   Fabien,Reda   Robin,1,1
+Di Filippo   Fabien,Fauvergue   Jean-Michel,1,1
+Di Filippo   Fabien,Wulfranc   Hubert,0,1
+Di Filippo   Fabien,Beaudouin-Hubiere   Sophie,1,1
+Di Filippo   Fabien,Leclabart   Jean-Claude,1,1
+Di Filippo   Fabien,Fugit   Jean-Luc,1,1
+Di Filippo   Fabien,Chouat   Francis,1,1
+Gayte   Laurence,Park   Zivka,1,1
+Gayte   Laurence,El Guerrab   M'jid,1,1
+Gayte   Laurence,Pichereau   Damien,1,1
+Gayte   Laurence,Bonnivard   Émilie,1,1
+Gayte   Laurence,Riotton   Véronique,1,1
+Gayte   Laurence,Luquet   Aude,1,1
+Gayte   Laurence,Reda   Robin,1,1
+Gayte   Laurence,Fauvergue   Jean-Michel,1,1
+Gayte   Laurence,Wulfranc   Hubert,0,1
+Gayte   Laurence,Beaudouin-Hubiere   Sophie,1,1
+Gayte   Laurence,Leclabart   Jean-Claude,1,1
+Gayte   Laurence,Fugit   Jean-Luc,1,1
+Gayte   Laurence,Chouat   Francis,1,1
+Park   Zivka,El Guerrab   M'jid,1,1
+Park   Zivka,Pichereau   Damien,1,1
+Park   Zivka,Bonnivard   Émilie,1,1
+Park   Zivka,Riotton   Véronique,1,1
+Park   Zivka,Luquet   Aude,1,1
+Park   Zivka,Reda   Robin,1,1
+Park   Zivka,Fauvergue   Jean-Michel,1,1
+Park   Zivka,Wulfranc   Hubert,0,1
+Park   Zivka,Beaudouin-Hubiere   Sophie,1,1
+Park   Zivka,Leclabart   Jean-Claude,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Park   Zivka,Chouat   Francis,1,1
+El Guerrab   M'jid,Pichereau   Damien,1,1
+El Guerrab   M'jid,Bonnivard   Émilie,1,1
+El Guerrab   M'jid,Riotton   Véronique,1,1
+El Guerrab   M'jid,Luquet   Aude,1,1
+El Guerrab   M'jid,Reda   Robin,1,1
+El Guerrab   M'jid,Fauvergue   Jean-Michel,1,1
+El Guerrab   M'jid,Wulfranc   Hubert,0,1
+El Guerrab   M'jid,Beaudouin-Hubiere   Sophie,1,1
+El Guerrab   M'jid,Leclabart   Jean-Claude,1,1
+El Guerrab   M'jid,Fugit   Jean-Luc,1,1
+El Guerrab   M'jid,Chouat   Francis,1,1
+Pichereau   Damien,Bonnivard   Émilie,1,1
+Pichereau   Damien,Riotton   Véronique,1,1
+Pichereau   Damien,Luquet   Aude,1,1
+Pichereau   Damien,Reda   Robin,1,1
+Pichereau   Damien,Fauvergue   Jean-Michel,1,1
+Pichereau   Damien,Wulfranc   Hubert,0,1
+Pichereau   Damien,Beaudouin-Hubiere   Sophie,1,1
+Pichereau   Damien,Leclabart   Jean-Claude,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Chouat   Francis,1,1
+Bonnivard   Émilie,Riotton   Véronique,1,1
+Bonnivard   Émilie,Luquet   Aude,1,1
+Bonnivard   Émilie,Reda   Robin,1,1
+Bonnivard   Émilie,Fauvergue   Jean-Michel,1,1
+Bonnivard   Émilie,Wulfranc   Hubert,0,1
+Bonnivard   Émilie,Beaudouin-Hubiere   Sophie,1,1
+Bonnivard   Émilie,Leclabart   Jean-Claude,1,1
+Bonnivard   Émilie,Fugit   Jean-Luc,1,1
+Bonnivard   Émilie,Chouat   Francis,1,1
+Riotton   Véronique,Luquet   Aude,1,1
+Riotton   Véronique,Reda   Robin,1,1
+Riotton   Véronique,Fauvergue   Jean-Michel,1,1
+Riotton   Véronique,Wulfranc   Hubert,0,1
+Riotton   Véronique,Beaudouin-Hubiere   Sophie,1,1
+Riotton   Véronique,Leclabart   Jean-Claude,1,1
+Riotton   Véronique,Fugit   Jean-Luc,1,1
+Riotton   Véronique,Chouat   Francis,1,1
+Luquet   Aude,Reda   Robin,1,1
+Luquet   Aude,Fauvergue   Jean-Michel,1,1
+Luquet   Aude,Wulfranc   Hubert,0,1
+Luquet   Aude,Beaudouin-Hubiere   Sophie,1,1
+Luquet   Aude,Leclabart   Jean-Claude,1,1
+Luquet   Aude,Fugit   Jean-Luc,1,1
+Luquet   Aude,Chouat   Francis,1,1
+Reda   Robin,Fauvergue   Jean-Michel,1,1
+Reda   Robin,Wulfranc   Hubert,0,1
+Reda   Robin,Beaudouin-Hubiere   Sophie,1,1
+Reda   Robin,Leclabart   Jean-Claude,1,1
+Reda   Robin,Fugit   Jean-Luc,1,1
+Reda   Robin,Chouat   Francis,1,1
+Fauvergue   Jean-Michel,Wulfranc   Hubert,0,1
+Fauvergue   Jean-Michel,Beaudouin-Hubiere   Sophie,1,1
+Fauvergue   Jean-Michel,Leclabart   Jean-Claude,1,1
+Fauvergue   Jean-Michel,Fugit   Jean-Luc,1,1
+Fauvergue   Jean-Michel,Chouat   Francis,1,1
+Wulfranc   Hubert,Beaudouin-Hubiere   Sophie,0,1
+Wulfranc   Hubert,Leclabart   Jean-Claude,0,1
+Wulfranc   Hubert,Fugit   Jean-Luc,0,1
+Wulfranc   Hubert,Chouat   Francis,0,1
+Beaudouin-Hubiere   Sophie,Leclabart   Jean-Claude,1,1
+Beaudouin-Hubiere   Sophie,Fugit   Jean-Luc,1,1
+Beaudouin-Hubiere   Sophie,Chouat   Francis,1,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1
+Leclabart   Jean-Claude,Chouat   Francis,1,1
+Fugit   Jean-Luc,Chouat   Francis,1,1

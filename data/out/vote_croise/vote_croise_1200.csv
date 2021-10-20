@@ -1,0 +1,154 @@
+from,to,vote_commun,loi_commun
+Blanchet   Christophe,Moreau   Jean-Baptiste,1,1
+Blanchet   Christophe,Sommer   Denis,1,1
+Blanchet   Christophe,Mirallès   Patricia,1,1
+Blanchet   Christophe,Dubost   Coralie,1,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Limon   Monique,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Girardin   Éric,1,1
+Blanchet   Christophe,Lescure   Roland,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Raphan   Pierre-Alain,1,1
+Blanchet   Christophe,Pouzyreff   Natalia,1,1
+Blanchet   Christophe,Romeiro Dias   Laëtitia,1,1
+Blanchet   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Blanchet   Christophe,Leclabart   Jean-Claude,1,1
+Blanchet   Christophe,Khedher   Anissa,1,1
+Moreau   Jean-Baptiste,Sommer   Denis,1,1
+Moreau   Jean-Baptiste,Mirallès   Patricia,1,1
+Moreau   Jean-Baptiste,Dubost   Coralie,1,1
+Moreau   Jean-Baptiste,Motin   Cendra,1,1
+Moreau   Jean-Baptiste,Limon   Monique,1,1
+Moreau   Jean-Baptiste,Bolo   Philippe,1,1
+Moreau   Jean-Baptiste,Girardin   Éric,1,1
+Moreau   Jean-Baptiste,Lescure   Roland,1,1
+Moreau   Jean-Baptiste,Florennes   Isabelle,1,1
+Moreau   Jean-Baptiste,Lebec   Marie,1,1
+Moreau   Jean-Baptiste,Raphan   Pierre-Alain,1,1
+Moreau   Jean-Baptiste,Pouzyreff   Natalia,1,1
+Moreau   Jean-Baptiste,Romeiro Dias   Laëtitia,1,1
+Moreau   Jean-Baptiste,Beaudouin-Hubiere   Sophie,1,1
+Moreau   Jean-Baptiste,Leclabart   Jean-Claude,1,1
+Moreau   Jean-Baptiste,Khedher   Anissa,1,1
+Sommer   Denis,Mirallès   Patricia,1,1
+Sommer   Denis,Dubost   Coralie,1,1
+Sommer   Denis,Motin   Cendra,1,1
+Sommer   Denis,Limon   Monique,1,1
+Sommer   Denis,Bolo   Philippe,1,1
+Sommer   Denis,Girardin   Éric,1,1
+Sommer   Denis,Lescure   Roland,1,1
+Sommer   Denis,Florennes   Isabelle,1,1
+Sommer   Denis,Lebec   Marie,1,1
+Sommer   Denis,Raphan   Pierre-Alain,1,1
+Sommer   Denis,Pouzyreff   Natalia,1,1
+Sommer   Denis,Romeiro Dias   Laëtitia,1,1
+Sommer   Denis,Beaudouin-Hubiere   Sophie,1,1
+Sommer   Denis,Leclabart   Jean-Claude,1,1
+Sommer   Denis,Khedher   Anissa,1,1
+Mirallès   Patricia,Dubost   Coralie,1,1
+Mirallès   Patricia,Motin   Cendra,1,1
+Mirallès   Patricia,Limon   Monique,1,1
+Mirallès   Patricia,Bolo   Philippe,1,1
+Mirallès   Patricia,Girardin   Éric,1,1
+Mirallès   Patricia,Lescure   Roland,1,1
+Mirallès   Patricia,Florennes   Isabelle,1,1
+Mirallès   Patricia,Lebec   Marie,1,1
+Mirallès   Patricia,Raphan   Pierre-Alain,1,1
+Mirallès   Patricia,Pouzyreff   Natalia,1,1
+Mirallès   Patricia,Romeiro Dias   Laëtitia,1,1
+Mirallès   Patricia,Beaudouin-Hubiere   Sophie,1,1
+Mirallès   Patricia,Leclabart   Jean-Claude,1,1
+Mirallès   Patricia,Khedher   Anissa,1,1
+Dubost   Coralie,Motin   Cendra,1,1
+Dubost   Coralie,Limon   Monique,1,1
+Dubost   Coralie,Bolo   Philippe,1,1
+Dubost   Coralie,Girardin   Éric,1,1
+Dubost   Coralie,Lescure   Roland,1,1
+Dubost   Coralie,Florennes   Isabelle,1,1
+Dubost   Coralie,Lebec   Marie,1,1
+Dubost   Coralie,Raphan   Pierre-Alain,1,1
+Dubost   Coralie,Pouzyreff   Natalia,1,1
+Dubost   Coralie,Romeiro Dias   Laëtitia,1,1
+Dubost   Coralie,Beaudouin-Hubiere   Sophie,1,1
+Dubost   Coralie,Leclabart   Jean-Claude,1,1
+Dubost   Coralie,Khedher   Anissa,1,1
+Motin   Cendra,Limon   Monique,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Florennes   Isabelle,1,1
+Motin   Cendra,Lebec   Marie,1,1
+Motin   Cendra,Raphan   Pierre-Alain,1,1
+Motin   Cendra,Pouzyreff   Natalia,1,1
+Motin   Cendra,Romeiro Dias   Laëtitia,1,1
+Motin   Cendra,Beaudouin-Hubiere   Sophie,1,1
+Motin   Cendra,Leclabart   Jean-Claude,1,1
+Motin   Cendra,Khedher   Anissa,1,1
+Limon   Monique,Bolo   Philippe,1,1
+Limon   Monique,Girardin   Éric,1,1
+Limon   Monique,Lescure   Roland,1,1
+Limon   Monique,Florennes   Isabelle,1,1
+Limon   Monique,Lebec   Marie,1,1
+Limon   Monique,Raphan   Pierre-Alain,1,1
+Limon   Monique,Pouzyreff   Natalia,1,1
+Limon   Monique,Romeiro Dias   Laëtitia,1,1
+Limon   Monique,Beaudouin-Hubiere   Sophie,1,1
+Limon   Monique,Leclabart   Jean-Claude,1,1
+Limon   Monique,Khedher   Anissa,1,1
+Bolo   Philippe,Girardin   Éric,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Florennes   Isabelle,1,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Raphan   Pierre-Alain,1,1
+Bolo   Philippe,Pouzyreff   Natalia,1,1
+Bolo   Philippe,Romeiro Dias   Laëtitia,1,1
+Bolo   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Bolo   Philippe,Leclabart   Jean-Claude,1,1
+Bolo   Philippe,Khedher   Anissa,1,1
+Girardin   Éric,Lescure   Roland,1,1
+Girardin   Éric,Florennes   Isabelle,1,1
+Girardin   Éric,Lebec   Marie,1,1
+Girardin   Éric,Raphan   Pierre-Alain,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Romeiro Dias   Laëtitia,1,1
+Girardin   Éric,Beaudouin-Hubiere   Sophie,1,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Khedher   Anissa,1,1
+Lescure   Roland,Florennes   Isabelle,1,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,Raphan   Pierre-Alain,1,1
+Lescure   Roland,Pouzyreff   Natalia,1,1
+Lescure   Roland,Romeiro Dias   Laëtitia,1,1
+Lescure   Roland,Beaudouin-Hubiere   Sophie,1,1
+Lescure   Roland,Leclabart   Jean-Claude,1,1
+Lescure   Roland,Khedher   Anissa,1,1
+Florennes   Isabelle,Lebec   Marie,1,1
+Florennes   Isabelle,Raphan   Pierre-Alain,1,1
+Florennes   Isabelle,Pouzyreff   Natalia,1,1
+Florennes   Isabelle,Romeiro Dias   Laëtitia,1,1
+Florennes   Isabelle,Beaudouin-Hubiere   Sophie,1,1
+Florennes   Isabelle,Leclabart   Jean-Claude,1,1
+Florennes   Isabelle,Khedher   Anissa,1,1
+Lebec   Marie,Raphan   Pierre-Alain,1,1
+Lebec   Marie,Pouzyreff   Natalia,1,1
+Lebec   Marie,Romeiro Dias   Laëtitia,1,1
+Lebec   Marie,Beaudouin-Hubiere   Sophie,1,1
+Lebec   Marie,Leclabart   Jean-Claude,1,1
+Lebec   Marie,Khedher   Anissa,1,1
+Raphan   Pierre-Alain,Pouzyreff   Natalia,1,1
+Raphan   Pierre-Alain,Romeiro Dias   Laëtitia,1,1
+Raphan   Pierre-Alain,Beaudouin-Hubiere   Sophie,1,1
+Raphan   Pierre-Alain,Leclabart   Jean-Claude,1,1
+Raphan   Pierre-Alain,Khedher   Anissa,1,1
+Pouzyreff   Natalia,Romeiro Dias   Laëtitia,1,1
+Pouzyreff   Natalia,Beaudouin-Hubiere   Sophie,1,1
+Pouzyreff   Natalia,Leclabart   Jean-Claude,1,1
+Pouzyreff   Natalia,Khedher   Anissa,1,1
+Romeiro Dias   Laëtitia,Beaudouin-Hubiere   Sophie,1,1
+Romeiro Dias   Laëtitia,Leclabart   Jean-Claude,1,1
+Romeiro Dias   Laëtitia,Khedher   Anissa,1,1
+Beaudouin-Hubiere   Sophie,Leclabart   Jean-Claude,1,1
+Beaudouin-Hubiere   Sophie,Khedher   Anissa,1,1
+Leclabart   Jean-Claude,Khedher   Anissa,1,1

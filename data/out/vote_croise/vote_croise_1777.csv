@@ -1,0 +1,1712 @@
+from,to,vote_commun,loi_commun
+Perrut   Bernard,Pont   Jean-Pierre,0,1
+Perrut   Bernard,Firmin Le Bodo   Agnès,0,1
+Perrut   Bernard,Dalloz   Marie-Christine,0,1
+Perrut   Bernard,Biémouret   Gisèle,0,1
+Perrut   Bernard,Alauzet   Éric,0,1
+Perrut   Bernard,Daniel   Yves,0,1
+Perrut   Bernard,Errante   Sophie,0,1
+Perrut   Bernard,Potier   Dominique,0,1
+Perrut   Bernard,Molac   Paul,0,1
+Perrut   Bernard,Dubié   Jeanine,0,1
+Perrut   Bernard,Aviragnet   Joël,0,1
+Perrut   Bernard,Bazin   Thibault,1,1
+Perrut   Bernard,Christophe   Paul,0,1
+Perrut   Bernard,Claireaux   Stéphane,0,1
+Perrut   Bernard,Maillard   Sylvain,1,1
+Perrut   Bernard,Delatte   Marc,0,1
+Perrut   Bernard,Dufrègne   Jean-Paul,0,1
+Perrut   Bernard,Roussel   Cédric,0,1
+Perrut   Bernard,Pitollat   Claire,0,1
+Perrut   Bernard,Dharréville   Pierre,0,1
+Perrut   Bernard,Mesnier   Thomas,0,1
+Perrut   Bernard,Michel-Brassart   Monica,0,1
+Perrut   Bernard,Khattabi   Fadila,0,1
+Perrut   Bernard,Tamarelle-Verhaeghe   Marie,0,1
+Perrut   Bernard,Le Meur   Annaïg,0,1
+Perrut   Bernard,Vignon   Corinne,0,1
+Perrut   Bernard,Toutut-Picard   Élisabeth,0,1
+Perrut   Bernard,Fabre   Catherine,0,1
+Perrut   Bernard,Mirallès   Patricia,0,1
+Perrut   Bernard,Chalumeau   Philippe,0,1
+Perrut   Bernard,Limon   Monique,0,1
+Perrut   Bernard,Brulebois   Danielle,0,1
+Perrut   Bernard,Borowczyk   Julien,0,1
+Perrut   Bernard,Dufeu   Audrey,0,1
+Perrut   Bernard,Rist   Stéphanie,0,1
+Perrut   Bernard,Janvier   Caroline,0,1
+Perrut   Bernard,Beauvais   Valérie,0,1
+Perrut   Bernard,Magnier   Lise,0,1
+Perrut   Bernard,Orphelin   Matthieu,0,1
+Perrut   Bernard,Fiat   Caroline,0,1
+Perrut   Bernard,Le Peih   Nicole,0,1
+Perrut   Bernard,Trisse   Nicole,0,1
+Perrut   Bernard,Parmentier-Lecocq   Charlotte,0,1
+Perrut   Bernard,Cattelot   Anne-Laure,0,1
+Perrut   Bernard,Bruneel   Alain,0,1
+Perrut   Bernard,Rauch   Isabelle,0,1
+Perrut   Bernard,Potterie   Benoit,0,1
+Perrut   Bernard,Minot   Maxime,1,1
+Perrut   Bernard,Michels   Thierry,0,1
+Perrut   Bernard,Sempastous   Jean-Bernard,0,1
+Perrut   Bernard,Descrozaille   Frédéric,0,1
+Perrut   Bernard,Gaillot   Albane,0,1
+Perrut   Bernard,Ramadier   Alain,0,1
+Perrut   Bernard,Lenne   Marion,0,1
+Perrut   Bernard,Peyron   Michèle,0,1
+Perrut   Bernard,Mauborgne   Sereine,0,1
+Perrut   Bernard,Morenas   Adrien,0,1
+Perrut   Bernard,Fiévet   Jean-Marie,0,1
+Pont   Jean-Pierre,Firmin Le Bodo   Agnès,0,1
+Pont   Jean-Pierre,Dalloz   Marie-Christine,1,1
+Pont   Jean-Pierre,Biémouret   Gisèle,0,1
+Pont   Jean-Pierre,Alauzet   Éric,0,1
+Pont   Jean-Pierre,Daniel   Yves,1,1
+Pont   Jean-Pierre,Errante   Sophie,1,1
+Pont   Jean-Pierre,Potier   Dominique,0,1
+Pont   Jean-Pierre,Molac   Paul,0,1
+Pont   Jean-Pierre,Dubié   Jeanine,0,1
+Pont   Jean-Pierre,Aviragnet   Joël,0,1
+Pont   Jean-Pierre,Bazin   Thibault,0,1
+Pont   Jean-Pierre,Christophe   Paul,0,1
+Pont   Jean-Pierre,Claireaux   Stéphane,1,1
+Pont   Jean-Pierre,Maillard   Sylvain,0,1
+Pont   Jean-Pierre,Delatte   Marc,1,1
+Pont   Jean-Pierre,Dufrègne   Jean-Paul,0,1
+Pont   Jean-Pierre,Roussel   Cédric,1,1
+Pont   Jean-Pierre,Pitollat   Claire,0,1
+Pont   Jean-Pierre,Dharréville   Pierre,0,1
+Pont   Jean-Pierre,Mesnier   Thomas,1,1
+Pont   Jean-Pierre,Michel-Brassart   Monica,1,1
+Pont   Jean-Pierre,Khattabi   Fadila,1,1
+Pont   Jean-Pierre,Tamarelle-Verhaeghe   Marie,1,1
+Pont   Jean-Pierre,Le Meur   Annaïg,1,1
+Pont   Jean-Pierre,Vignon   Corinne,1,1
+Pont   Jean-Pierre,Toutut-Picard   Élisabeth,0,1
+Pont   Jean-Pierre,Fabre   Catherine,1,1
+Pont   Jean-Pierre,Mirallès   Patricia,1,1
+Pont   Jean-Pierre,Chalumeau   Philippe,1,1
+Pont   Jean-Pierre,Limon   Monique,1,1
+Pont   Jean-Pierre,Brulebois   Danielle,1,1
+Pont   Jean-Pierre,Borowczyk   Julien,1,1
+Pont   Jean-Pierre,Dufeu   Audrey,0,1
+Pont   Jean-Pierre,Rist   Stéphanie,1,1
+Pont   Jean-Pierre,Janvier   Caroline,0,1
+Pont   Jean-Pierre,Beauvais   Valérie,1,1
+Pont   Jean-Pierre,Magnier   Lise,0,1
+Pont   Jean-Pierre,Orphelin   Matthieu,0,1
+Pont   Jean-Pierre,Fiat   Caroline,0,1
+Pont   Jean-Pierre,Le Peih   Nicole,1,1
+Pont   Jean-Pierre,Trisse   Nicole,1,1
+Pont   Jean-Pierre,Parmentier-Lecocq   Charlotte,1,1
+Pont   Jean-Pierre,Cattelot   Anne-Laure,1,1
+Pont   Jean-Pierre,Bruneel   Alain,0,1
+Pont   Jean-Pierre,Rauch   Isabelle,1,1
+Pont   Jean-Pierre,Potterie   Benoit,1,1
+Pont   Jean-Pierre,Minot   Maxime,0,1
+Pont   Jean-Pierre,Michels   Thierry,1,1
+Pont   Jean-Pierre,Sempastous   Jean-Bernard,1,1
+Pont   Jean-Pierre,Descrozaille   Frédéric,1,1
+Pont   Jean-Pierre,Gaillot   Albane,1,1
+Pont   Jean-Pierre,Ramadier   Alain,0,1
+Pont   Jean-Pierre,Lenne   Marion,1,1
+Pont   Jean-Pierre,Peyron   Michèle,1,1
+Pont   Jean-Pierre,Mauborgne   Sereine,0,1
+Pont   Jean-Pierre,Morenas   Adrien,1,1
+Pont   Jean-Pierre,Fiévet   Jean-Marie,1,1
+Firmin Le Bodo   Agnès,Dalloz   Marie-Christine,0,1
+Firmin Le Bodo   Agnès,Biémouret   Gisèle,1,1
+Firmin Le Bodo   Agnès,Alauzet   Éric,1,1
+Firmin Le Bodo   Agnès,Daniel   Yves,0,1
+Firmin Le Bodo   Agnès,Errante   Sophie,0,1
+Firmin Le Bodo   Agnès,Potier   Dominique,1,1
+Firmin Le Bodo   Agnès,Molac   Paul,1,1
+Firmin Le Bodo   Agnès,Dubié   Jeanine,1,1
+Firmin Le Bodo   Agnès,Aviragnet   Joël,1,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,0,1
+Firmin Le Bodo   Agnès,Christophe   Paul,1,1
+Firmin Le Bodo   Agnès,Claireaux   Stéphane,0,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,0,1
+Firmin Le Bodo   Agnès,Delatte   Marc,0,1
+Firmin Le Bodo   Agnès,Dufrègne   Jean-Paul,1,1
+Firmin Le Bodo   Agnès,Roussel   Cédric,0,1
+Firmin Le Bodo   Agnès,Pitollat   Claire,1,1
+Firmin Le Bodo   Agnès,Dharréville   Pierre,1,1
+Firmin Le Bodo   Agnès,Mesnier   Thomas,0,1
+Firmin Le Bodo   Agnès,Michel-Brassart   Monica,0,1
+Firmin Le Bodo   Agnès,Khattabi   Fadila,0,1
+Firmin Le Bodo   Agnès,Tamarelle-Verhaeghe   Marie,0,1
+Firmin Le Bodo   Agnès,Le Meur   Annaïg,0,1
+Firmin Le Bodo   Agnès,Vignon   Corinne,0,1
+Firmin Le Bodo   Agnès,Toutut-Picard   Élisabeth,1,1
+Firmin Le Bodo   Agnès,Fabre   Catherine,0,1
+Firmin Le Bodo   Agnès,Mirallès   Patricia,0,1
+Firmin Le Bodo   Agnès,Chalumeau   Philippe,0,1
+Firmin Le Bodo   Agnès,Limon   Monique,0,1
+Firmin Le Bodo   Agnès,Brulebois   Danielle,0,1
+Firmin Le Bodo   Agnès,Borowczyk   Julien,0,1
+Firmin Le Bodo   Agnès,Dufeu   Audrey,1,1
+Firmin Le Bodo   Agnès,Rist   Stéphanie,0,1
+Firmin Le Bodo   Agnès,Janvier   Caroline,1,1
+Firmin Le Bodo   Agnès,Beauvais   Valérie,0,1
+Firmin Le Bodo   Agnès,Magnier   Lise,1,1
+Firmin Le Bodo   Agnès,Orphelin   Matthieu,1,1
+Firmin Le Bodo   Agnès,Fiat   Caroline,1,1
+Firmin Le Bodo   Agnès,Le Peih   Nicole,0,1
+Firmin Le Bodo   Agnès,Trisse   Nicole,0,1
+Firmin Le Bodo   Agnès,Parmentier-Lecocq   Charlotte,0,1
+Firmin Le Bodo   Agnès,Cattelot   Anne-Laure,0,1
+Firmin Le Bodo   Agnès,Bruneel   Alain,1,1
+Firmin Le Bodo   Agnès,Rauch   Isabelle,0,1
+Firmin Le Bodo   Agnès,Potterie   Benoit,0,1
+Firmin Le Bodo   Agnès,Minot   Maxime,0,1
+Firmin Le Bodo   Agnès,Michels   Thierry,0,1
+Firmin Le Bodo   Agnès,Sempastous   Jean-Bernard,0,1
+Firmin Le Bodo   Agnès,Descrozaille   Frédéric,0,1
+Firmin Le Bodo   Agnès,Gaillot   Albane,0,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,1,1
+Firmin Le Bodo   Agnès,Lenne   Marion,0,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,0,1
+Firmin Le Bodo   Agnès,Mauborgne   Sereine,1,1
+Firmin Le Bodo   Agnès,Morenas   Adrien,0,1
+Firmin Le Bodo   Agnès,Fiévet   Jean-Marie,0,1
+Dalloz   Marie-Christine,Biémouret   Gisèle,0,1
+Dalloz   Marie-Christine,Alauzet   Éric,0,1
+Dalloz   Marie-Christine,Daniel   Yves,1,1
+Dalloz   Marie-Christine,Errante   Sophie,1,1
+Dalloz   Marie-Christine,Potier   Dominique,0,1
+Dalloz   Marie-Christine,Molac   Paul,0,1
+Dalloz   Marie-Christine,Dubié   Jeanine,0,1
+Dalloz   Marie-Christine,Aviragnet   Joël,0,1
+Dalloz   Marie-Christine,Bazin   Thibault,0,1
+Dalloz   Marie-Christine,Christophe   Paul,0,1
+Dalloz   Marie-Christine,Claireaux   Stéphane,1,1
+Dalloz   Marie-Christine,Maillard   Sylvain,0,1
+Dalloz   Marie-Christine,Delatte   Marc,1,1
+Dalloz   Marie-Christine,Dufrègne   Jean-Paul,0,1
+Dalloz   Marie-Christine,Roussel   Cédric,1,1
+Dalloz   Marie-Christine,Pitollat   Claire,0,1
+Dalloz   Marie-Christine,Dharréville   Pierre,0,1
+Dalloz   Marie-Christine,Mesnier   Thomas,1,1
+Dalloz   Marie-Christine,Michel-Brassart   Monica,1,1
+Dalloz   Marie-Christine,Khattabi   Fadila,1,1
+Dalloz   Marie-Christine,Tamarelle-Verhaeghe   Marie,1,1
+Dalloz   Marie-Christine,Le Meur   Annaïg,1,1
+Dalloz   Marie-Christine,Vignon   Corinne,1,1
+Dalloz   Marie-Christine,Toutut-Picard   Élisabeth,0,1
+Dalloz   Marie-Christine,Fabre   Catherine,1,1
+Dalloz   Marie-Christine,Mirallès   Patricia,1,1
+Dalloz   Marie-Christine,Chalumeau   Philippe,1,1
+Dalloz   Marie-Christine,Limon   Monique,1,1
+Dalloz   Marie-Christine,Brulebois   Danielle,1,1
+Dalloz   Marie-Christine,Borowczyk   Julien,1,1
+Dalloz   Marie-Christine,Dufeu   Audrey,0,1
+Dalloz   Marie-Christine,Rist   Stéphanie,1,1
+Dalloz   Marie-Christine,Janvier   Caroline,0,1
+Dalloz   Marie-Christine,Beauvais   Valérie,1,1
+Dalloz   Marie-Christine,Magnier   Lise,0,1
+Dalloz   Marie-Christine,Orphelin   Matthieu,0,1
+Dalloz   Marie-Christine,Fiat   Caroline,0,1
+Dalloz   Marie-Christine,Le Peih   Nicole,1,1
+Dalloz   Marie-Christine,Trisse   Nicole,1,1
+Dalloz   Marie-Christine,Parmentier-Lecocq   Charlotte,1,1
+Dalloz   Marie-Christine,Cattelot   Anne-Laure,1,1
+Dalloz   Marie-Christine,Bruneel   Alain,0,1
+Dalloz   Marie-Christine,Rauch   Isabelle,1,1
+Dalloz   Marie-Christine,Potterie   Benoit,1,1
+Dalloz   Marie-Christine,Minot   Maxime,0,1
+Dalloz   Marie-Christine,Michels   Thierry,1,1
+Dalloz   Marie-Christine,Sempastous   Jean-Bernard,1,1
+Dalloz   Marie-Christine,Descrozaille   Frédéric,1,1
+Dalloz   Marie-Christine,Gaillot   Albane,1,1
+Dalloz   Marie-Christine,Ramadier   Alain,0,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Peyron   Michèle,1,1
+Dalloz   Marie-Christine,Mauborgne   Sereine,0,1
+Dalloz   Marie-Christine,Morenas   Adrien,1,1
+Dalloz   Marie-Christine,Fiévet   Jean-Marie,1,1
+Biémouret   Gisèle,Alauzet   Éric,1,1
+Biémouret   Gisèle,Daniel   Yves,0,1
+Biémouret   Gisèle,Errante   Sophie,0,1
+Biémouret   Gisèle,Potier   Dominique,1,1
+Biémouret   Gisèle,Molac   Paul,1,1
+Biémouret   Gisèle,Dubié   Jeanine,1,1
+Biémouret   Gisèle,Aviragnet   Joël,1,1
+Biémouret   Gisèle,Bazin   Thibault,0,1
+Biémouret   Gisèle,Christophe   Paul,1,1
+Biémouret   Gisèle,Claireaux   Stéphane,0,1
+Biémouret   Gisèle,Maillard   Sylvain,0,1
+Biémouret   Gisèle,Delatte   Marc,0,1
+Biémouret   Gisèle,Dufrègne   Jean-Paul,1,1
+Biémouret   Gisèle,Roussel   Cédric,0,1
+Biémouret   Gisèle,Pitollat   Claire,1,1
+Biémouret   Gisèle,Dharréville   Pierre,1,1
+Biémouret   Gisèle,Mesnier   Thomas,0,1
+Biémouret   Gisèle,Michel-Brassart   Monica,0,1
+Biémouret   Gisèle,Khattabi   Fadila,0,1
+Biémouret   Gisèle,Tamarelle-Verhaeghe   Marie,0,1
+Biémouret   Gisèle,Le Meur   Annaïg,0,1
+Biémouret   Gisèle,Vignon   Corinne,0,1
+Biémouret   Gisèle,Toutut-Picard   Élisabeth,1,1
+Biémouret   Gisèle,Fabre   Catherine,0,1
+Biémouret   Gisèle,Mirallès   Patricia,0,1
+Biémouret   Gisèle,Chalumeau   Philippe,0,1
+Biémouret   Gisèle,Limon   Monique,0,1
+Biémouret   Gisèle,Brulebois   Danielle,0,1
+Biémouret   Gisèle,Borowczyk   Julien,0,1
+Biémouret   Gisèle,Dufeu   Audrey,1,1
+Biémouret   Gisèle,Rist   Stéphanie,0,1
+Biémouret   Gisèle,Janvier   Caroline,1,1
+Biémouret   Gisèle,Beauvais   Valérie,0,1
+Biémouret   Gisèle,Magnier   Lise,1,1
+Biémouret   Gisèle,Orphelin   Matthieu,1,1
+Biémouret   Gisèle,Fiat   Caroline,1,1
+Biémouret   Gisèle,Le Peih   Nicole,0,1
+Biémouret   Gisèle,Trisse   Nicole,0,1
+Biémouret   Gisèle,Parmentier-Lecocq   Charlotte,0,1
+Biémouret   Gisèle,Cattelot   Anne-Laure,0,1
+Biémouret   Gisèle,Bruneel   Alain,1,1
+Biémouret   Gisèle,Rauch   Isabelle,0,1
+Biémouret   Gisèle,Potterie   Benoit,0,1
+Biémouret   Gisèle,Minot   Maxime,0,1
+Biémouret   Gisèle,Michels   Thierry,0,1
+Biémouret   Gisèle,Sempastous   Jean-Bernard,0,1
+Biémouret   Gisèle,Descrozaille   Frédéric,0,1
+Biémouret   Gisèle,Gaillot   Albane,0,1
+Biémouret   Gisèle,Ramadier   Alain,1,1
+Biémouret   Gisèle,Lenne   Marion,0,1
+Biémouret   Gisèle,Peyron   Michèle,0,1
+Biémouret   Gisèle,Mauborgne   Sereine,1,1
+Biémouret   Gisèle,Morenas   Adrien,0,1
+Biémouret   Gisèle,Fiévet   Jean-Marie,0,1
+Alauzet   Éric,Daniel   Yves,0,1
+Alauzet   Éric,Errante   Sophie,0,1
+Alauzet   Éric,Potier   Dominique,1,1
+Alauzet   Éric,Molac   Paul,1,1
+Alauzet   Éric,Dubié   Jeanine,1,1
+Alauzet   Éric,Aviragnet   Joël,1,1
+Alauzet   Éric,Bazin   Thibault,0,1
+Alauzet   Éric,Christophe   Paul,1,1
+Alauzet   Éric,Claireaux   Stéphane,0,1
+Alauzet   Éric,Maillard   Sylvain,0,1
+Alauzet   Éric,Delatte   Marc,0,1
+Alauzet   Éric,Dufrègne   Jean-Paul,1,1
+Alauzet   Éric,Roussel   Cédric,0,1
+Alauzet   Éric,Pitollat   Claire,1,1
+Alauzet   Éric,Dharréville   Pierre,1,1
+Alauzet   Éric,Mesnier   Thomas,0,1
+Alauzet   Éric,Michel-Brassart   Monica,0,1
+Alauzet   Éric,Khattabi   Fadila,0,1
+Alauzet   Éric,Tamarelle-Verhaeghe   Marie,0,1
+Alauzet   Éric,Le Meur   Annaïg,0,1
+Alauzet   Éric,Vignon   Corinne,0,1
+Alauzet   Éric,Toutut-Picard   Élisabeth,1,1
+Alauzet   Éric,Fabre   Catherine,0,1
+Alauzet   Éric,Mirallès   Patricia,0,1
+Alauzet   Éric,Chalumeau   Philippe,0,1
+Alauzet   Éric,Limon   Monique,0,1
+Alauzet   Éric,Brulebois   Danielle,0,1
+Alauzet   Éric,Borowczyk   Julien,0,1
+Alauzet   Éric,Dufeu   Audrey,1,1
+Alauzet   Éric,Rist   Stéphanie,0,1
+Alauzet   Éric,Janvier   Caroline,1,1
+Alauzet   Éric,Beauvais   Valérie,0,1
+Alauzet   Éric,Magnier   Lise,1,1
+Alauzet   Éric,Orphelin   Matthieu,1,1
+Alauzet   Éric,Fiat   Caroline,1,1
+Alauzet   Éric,Le Peih   Nicole,0,1
+Alauzet   Éric,Trisse   Nicole,0,1
+Alauzet   Éric,Parmentier-Lecocq   Charlotte,0,1
+Alauzet   Éric,Cattelot   Anne-Laure,0,1
+Alauzet   Éric,Bruneel   Alain,1,1
+Alauzet   Éric,Rauch   Isabelle,0,1
+Alauzet   Éric,Potterie   Benoit,0,1
+Alauzet   Éric,Minot   Maxime,0,1
+Alauzet   Éric,Michels   Thierry,0,1
+Alauzet   Éric,Sempastous   Jean-Bernard,0,1
+Alauzet   Éric,Descrozaille   Frédéric,0,1
+Alauzet   Éric,Gaillot   Albane,0,1
+Alauzet   Éric,Ramadier   Alain,1,1
+Alauzet   Éric,Lenne   Marion,0,1
+Alauzet   Éric,Peyron   Michèle,0,1
+Alauzet   Éric,Mauborgne   Sereine,1,1
+Alauzet   Éric,Morenas   Adrien,0,1
+Alauzet   Éric,Fiévet   Jean-Marie,0,1
+Daniel   Yves,Errante   Sophie,1,1
+Daniel   Yves,Potier   Dominique,0,1
+Daniel   Yves,Molac   Paul,0,1
+Daniel   Yves,Dubié   Jeanine,0,1
+Daniel   Yves,Aviragnet   Joël,0,1
+Daniel   Yves,Bazin   Thibault,0,1
+Daniel   Yves,Christophe   Paul,0,1
+Daniel   Yves,Claireaux   Stéphane,1,1
+Daniel   Yves,Maillard   Sylvain,0,1
+Daniel   Yves,Delatte   Marc,1,1
+Daniel   Yves,Dufrègne   Jean-Paul,0,1
+Daniel   Yves,Roussel   Cédric,1,1
+Daniel   Yves,Pitollat   Claire,0,1
+Daniel   Yves,Dharréville   Pierre,0,1
+Daniel   Yves,Mesnier   Thomas,1,1
+Daniel   Yves,Michel-Brassart   Monica,1,1
+Daniel   Yves,Khattabi   Fadila,1,1
+Daniel   Yves,Tamarelle-Verhaeghe   Marie,1,1
+Daniel   Yves,Le Meur   Annaïg,1,1
+Daniel   Yves,Vignon   Corinne,1,1
+Daniel   Yves,Toutut-Picard   Élisabeth,0,1
+Daniel   Yves,Fabre   Catherine,1,1
+Daniel   Yves,Mirallès   Patricia,1,1
+Daniel   Yves,Chalumeau   Philippe,1,1
+Daniel   Yves,Limon   Monique,1,1
+Daniel   Yves,Brulebois   Danielle,1,1
+Daniel   Yves,Borowczyk   Julien,1,1
+Daniel   Yves,Dufeu   Audrey,0,1
+Daniel   Yves,Rist   Stéphanie,1,1
+Daniel   Yves,Janvier   Caroline,0,1
+Daniel   Yves,Beauvais   Valérie,1,1
+Daniel   Yves,Magnier   Lise,0,1
+Daniel   Yves,Orphelin   Matthieu,0,1
+Daniel   Yves,Fiat   Caroline,0,1
+Daniel   Yves,Le Peih   Nicole,1,1
+Daniel   Yves,Trisse   Nicole,1,1
+Daniel   Yves,Parmentier-Lecocq   Charlotte,1,1
+Daniel   Yves,Cattelot   Anne-Laure,1,1
+Daniel   Yves,Bruneel   Alain,0,1
+Daniel   Yves,Rauch   Isabelle,1,1
+Daniel   Yves,Potterie   Benoit,1,1
+Daniel   Yves,Minot   Maxime,0,1
+Daniel   Yves,Michels   Thierry,1,1
+Daniel   Yves,Sempastous   Jean-Bernard,1,1
+Daniel   Yves,Descrozaille   Frédéric,1,1
+Daniel   Yves,Gaillot   Albane,1,1
+Daniel   Yves,Ramadier   Alain,0,1
+Daniel   Yves,Lenne   Marion,1,1
+Daniel   Yves,Peyron   Michèle,1,1
+Daniel   Yves,Mauborgne   Sereine,0,1
+Daniel   Yves,Morenas   Adrien,1,1
+Daniel   Yves,Fiévet   Jean-Marie,1,1
+Errante   Sophie,Potier   Dominique,0,1
+Errante   Sophie,Molac   Paul,0,1
+Errante   Sophie,Dubié   Jeanine,0,1
+Errante   Sophie,Aviragnet   Joël,0,1
+Errante   Sophie,Bazin   Thibault,0,1
+Errante   Sophie,Christophe   Paul,0,1
+Errante   Sophie,Claireaux   Stéphane,1,1
+Errante   Sophie,Maillard   Sylvain,0,1
+Errante   Sophie,Delatte   Marc,1,1
+Errante   Sophie,Dufrègne   Jean-Paul,0,1
+Errante   Sophie,Roussel   Cédric,1,1
+Errante   Sophie,Pitollat   Claire,0,1
+Errante   Sophie,Dharréville   Pierre,0,1
+Errante   Sophie,Mesnier   Thomas,1,1
+Errante   Sophie,Michel-Brassart   Monica,1,1
+Errante   Sophie,Khattabi   Fadila,1,1
+Errante   Sophie,Tamarelle-Verhaeghe   Marie,1,1
+Errante   Sophie,Le Meur   Annaïg,1,1
+Errante   Sophie,Vignon   Corinne,1,1
+Errante   Sophie,Toutut-Picard   Élisabeth,0,1
+Errante   Sophie,Fabre   Catherine,1,1
+Errante   Sophie,Mirallès   Patricia,1,1
+Errante   Sophie,Chalumeau   Philippe,1,1
+Errante   Sophie,Limon   Monique,1,1
+Errante   Sophie,Brulebois   Danielle,1,1
+Errante   Sophie,Borowczyk   Julien,1,1
+Errante   Sophie,Dufeu   Audrey,0,1
+Errante   Sophie,Rist   Stéphanie,1,1
+Errante   Sophie,Janvier   Caroline,0,1
+Errante   Sophie,Beauvais   Valérie,1,1
+Errante   Sophie,Magnier   Lise,0,1
+Errante   Sophie,Orphelin   Matthieu,0,1
+Errante   Sophie,Fiat   Caroline,0,1
+Errante   Sophie,Le Peih   Nicole,1,1
+Errante   Sophie,Trisse   Nicole,1,1
+Errante   Sophie,Parmentier-Lecocq   Charlotte,1,1
+Errante   Sophie,Cattelot   Anne-Laure,1,1
+Errante   Sophie,Bruneel   Alain,0,1
+Errante   Sophie,Rauch   Isabelle,1,1
+Errante   Sophie,Potterie   Benoit,1,1
+Errante   Sophie,Minot   Maxime,0,1
+Errante   Sophie,Michels   Thierry,1,1
+Errante   Sophie,Sempastous   Jean-Bernard,1,1
+Errante   Sophie,Descrozaille   Frédéric,1,1
+Errante   Sophie,Gaillot   Albane,1,1
+Errante   Sophie,Ramadier   Alain,0,1
+Errante   Sophie,Lenne   Marion,1,1
+Errante   Sophie,Peyron   Michèle,1,1
+Errante   Sophie,Mauborgne   Sereine,0,1
+Errante   Sophie,Morenas   Adrien,1,1
+Errante   Sophie,Fiévet   Jean-Marie,1,1
+Potier   Dominique,Molac   Paul,1,1
+Potier   Dominique,Dubié   Jeanine,1,1
+Potier   Dominique,Aviragnet   Joël,1,1
+Potier   Dominique,Bazin   Thibault,0,1
+Potier   Dominique,Christophe   Paul,1,1
+Potier   Dominique,Claireaux   Stéphane,0,1
+Potier   Dominique,Maillard   Sylvain,0,1
+Potier   Dominique,Delatte   Marc,0,1
+Potier   Dominique,Dufrègne   Jean-Paul,1,1
+Potier   Dominique,Roussel   Cédric,0,1
+Potier   Dominique,Pitollat   Claire,1,1
+Potier   Dominique,Dharréville   Pierre,1,1
+Potier   Dominique,Mesnier   Thomas,0,1
+Potier   Dominique,Michel-Brassart   Monica,0,1
+Potier   Dominique,Khattabi   Fadila,0,1
+Potier   Dominique,Tamarelle-Verhaeghe   Marie,0,1
+Potier   Dominique,Le Meur   Annaïg,0,1
+Potier   Dominique,Vignon   Corinne,0,1
+Potier   Dominique,Toutut-Picard   Élisabeth,1,1
+Potier   Dominique,Fabre   Catherine,0,1
+Potier   Dominique,Mirallès   Patricia,0,1
+Potier   Dominique,Chalumeau   Philippe,0,1
+Potier   Dominique,Limon   Monique,0,1
+Potier   Dominique,Brulebois   Danielle,0,1
+Potier   Dominique,Borowczyk   Julien,0,1
+Potier   Dominique,Dufeu   Audrey,1,1
+Potier   Dominique,Rist   Stéphanie,0,1
+Potier   Dominique,Janvier   Caroline,1,1
+Potier   Dominique,Beauvais   Valérie,0,1
+Potier   Dominique,Magnier   Lise,1,1
+Potier   Dominique,Orphelin   Matthieu,1,1
+Potier   Dominique,Fiat   Caroline,1,1
+Potier   Dominique,Le Peih   Nicole,0,1
+Potier   Dominique,Trisse   Nicole,0,1
+Potier   Dominique,Parmentier-Lecocq   Charlotte,0,1
+Potier   Dominique,Cattelot   Anne-Laure,0,1
+Potier   Dominique,Bruneel   Alain,1,1
+Potier   Dominique,Rauch   Isabelle,0,1
+Potier   Dominique,Potterie   Benoit,0,1
+Potier   Dominique,Minot   Maxime,0,1
+Potier   Dominique,Michels   Thierry,0,1
+Potier   Dominique,Sempastous   Jean-Bernard,0,1
+Potier   Dominique,Descrozaille   Frédéric,0,1
+Potier   Dominique,Gaillot   Albane,0,1
+Potier   Dominique,Ramadier   Alain,1,1
+Potier   Dominique,Lenne   Marion,0,1
+Potier   Dominique,Peyron   Michèle,0,1
+Potier   Dominique,Mauborgne   Sereine,1,1
+Potier   Dominique,Morenas   Adrien,0,1
+Potier   Dominique,Fiévet   Jean-Marie,0,1
+Molac   Paul,Dubié   Jeanine,1,1
+Molac   Paul,Aviragnet   Joël,1,1
+Molac   Paul,Bazin   Thibault,0,1
+Molac   Paul,Christophe   Paul,1,1
+Molac   Paul,Claireaux   Stéphane,0,1
+Molac   Paul,Maillard   Sylvain,0,1
+Molac   Paul,Delatte   Marc,0,1
+Molac   Paul,Dufrègne   Jean-Paul,1,1
+Molac   Paul,Roussel   Cédric,0,1
+Molac   Paul,Pitollat   Claire,1,1
+Molac   Paul,Dharréville   Pierre,1,1
+Molac   Paul,Mesnier   Thomas,0,1
+Molac   Paul,Michel-Brassart   Monica,0,1
+Molac   Paul,Khattabi   Fadila,0,1
+Molac   Paul,Tamarelle-Verhaeghe   Marie,0,1
+Molac   Paul,Le Meur   Annaïg,0,1
+Molac   Paul,Vignon   Corinne,0,1
+Molac   Paul,Toutut-Picard   Élisabeth,1,1
+Molac   Paul,Fabre   Catherine,0,1
+Molac   Paul,Mirallès   Patricia,0,1
+Molac   Paul,Chalumeau   Philippe,0,1
+Molac   Paul,Limon   Monique,0,1
+Molac   Paul,Brulebois   Danielle,0,1
+Molac   Paul,Borowczyk   Julien,0,1
+Molac   Paul,Dufeu   Audrey,1,1
+Molac   Paul,Rist   Stéphanie,0,1
+Molac   Paul,Janvier   Caroline,1,1
+Molac   Paul,Beauvais   Valérie,0,1
+Molac   Paul,Magnier   Lise,1,1
+Molac   Paul,Orphelin   Matthieu,1,1
+Molac   Paul,Fiat   Caroline,1,1
+Molac   Paul,Le Peih   Nicole,0,1
+Molac   Paul,Trisse   Nicole,0,1
+Molac   Paul,Parmentier-Lecocq   Charlotte,0,1
+Molac   Paul,Cattelot   Anne-Laure,0,1
+Molac   Paul,Bruneel   Alain,1,1
+Molac   Paul,Rauch   Isabelle,0,1
+Molac   Paul,Potterie   Benoit,0,1
+Molac   Paul,Minot   Maxime,0,1
+Molac   Paul,Michels   Thierry,0,1
+Molac   Paul,Sempastous   Jean-Bernard,0,1
+Molac   Paul,Descrozaille   Frédéric,0,1
+Molac   Paul,Gaillot   Albane,0,1
+Molac   Paul,Ramadier   Alain,1,1
+Molac   Paul,Lenne   Marion,0,1
+Molac   Paul,Peyron   Michèle,0,1
+Molac   Paul,Mauborgne   Sereine,1,1
+Molac   Paul,Morenas   Adrien,0,1
+Molac   Paul,Fiévet   Jean-Marie,0,1
+Dubié   Jeanine,Aviragnet   Joël,1,1
+Dubié   Jeanine,Bazin   Thibault,0,1
+Dubié   Jeanine,Christophe   Paul,1,1
+Dubié   Jeanine,Claireaux   Stéphane,0,1
+Dubié   Jeanine,Maillard   Sylvain,0,1
+Dubié   Jeanine,Delatte   Marc,0,1
+Dubié   Jeanine,Dufrègne   Jean-Paul,1,1
+Dubié   Jeanine,Roussel   Cédric,0,1
+Dubié   Jeanine,Pitollat   Claire,1,1
+Dubié   Jeanine,Dharréville   Pierre,1,1
+Dubié   Jeanine,Mesnier   Thomas,0,1
+Dubié   Jeanine,Michel-Brassart   Monica,0,1
+Dubié   Jeanine,Khattabi   Fadila,0,1
+Dubié   Jeanine,Tamarelle-Verhaeghe   Marie,0,1
+Dubié   Jeanine,Le Meur   Annaïg,0,1
+Dubié   Jeanine,Vignon   Corinne,0,1
+Dubié   Jeanine,Toutut-Picard   Élisabeth,1,1
+Dubié   Jeanine,Fabre   Catherine,0,1
+Dubié   Jeanine,Mirallès   Patricia,0,1
+Dubié   Jeanine,Chalumeau   Philippe,0,1
+Dubié   Jeanine,Limon   Monique,0,1
+Dubié   Jeanine,Brulebois   Danielle,0,1
+Dubié   Jeanine,Borowczyk   Julien,0,1
+Dubié   Jeanine,Dufeu   Audrey,1,1
+Dubié   Jeanine,Rist   Stéphanie,0,1
+Dubié   Jeanine,Janvier   Caroline,1,1
+Dubié   Jeanine,Beauvais   Valérie,0,1
+Dubié   Jeanine,Magnier   Lise,1,1
+Dubié   Jeanine,Orphelin   Matthieu,1,1
+Dubié   Jeanine,Fiat   Caroline,1,1
+Dubié   Jeanine,Le Peih   Nicole,0,1
+Dubié   Jeanine,Trisse   Nicole,0,1
+Dubié   Jeanine,Parmentier-Lecocq   Charlotte,0,1
+Dubié   Jeanine,Cattelot   Anne-Laure,0,1
+Dubié   Jeanine,Bruneel   Alain,1,1
+Dubié   Jeanine,Rauch   Isabelle,0,1
+Dubié   Jeanine,Potterie   Benoit,0,1
+Dubié   Jeanine,Minot   Maxime,0,1
+Dubié   Jeanine,Michels   Thierry,0,1
+Dubié   Jeanine,Sempastous   Jean-Bernard,0,1
+Dubié   Jeanine,Descrozaille   Frédéric,0,1
+Dubié   Jeanine,Gaillot   Albane,0,1
+Dubié   Jeanine,Ramadier   Alain,1,1
+Dubié   Jeanine,Lenne   Marion,0,1
+Dubié   Jeanine,Peyron   Michèle,0,1
+Dubié   Jeanine,Mauborgne   Sereine,1,1
+Dubié   Jeanine,Morenas   Adrien,0,1
+Dubié   Jeanine,Fiévet   Jean-Marie,0,1
+Aviragnet   Joël,Bazin   Thibault,0,1
+Aviragnet   Joël,Christophe   Paul,1,1
+Aviragnet   Joël,Claireaux   Stéphane,0,1
+Aviragnet   Joël,Maillard   Sylvain,0,1
+Aviragnet   Joël,Delatte   Marc,0,1
+Aviragnet   Joël,Dufrègne   Jean-Paul,1,1
+Aviragnet   Joël,Roussel   Cédric,0,1
+Aviragnet   Joël,Pitollat   Claire,1,1
+Aviragnet   Joël,Dharréville   Pierre,1,1
+Aviragnet   Joël,Mesnier   Thomas,0,1
+Aviragnet   Joël,Michel-Brassart   Monica,0,1
+Aviragnet   Joël,Khattabi   Fadila,0,1
+Aviragnet   Joël,Tamarelle-Verhaeghe   Marie,0,1
+Aviragnet   Joël,Le Meur   Annaïg,0,1
+Aviragnet   Joël,Vignon   Corinne,0,1
+Aviragnet   Joël,Toutut-Picard   Élisabeth,1,1
+Aviragnet   Joël,Fabre   Catherine,0,1
+Aviragnet   Joël,Mirallès   Patricia,0,1
+Aviragnet   Joël,Chalumeau   Philippe,0,1
+Aviragnet   Joël,Limon   Monique,0,1
+Aviragnet   Joël,Brulebois   Danielle,0,1
+Aviragnet   Joël,Borowczyk   Julien,0,1
+Aviragnet   Joël,Dufeu   Audrey,1,1
+Aviragnet   Joël,Rist   Stéphanie,0,1
+Aviragnet   Joël,Janvier   Caroline,1,1
+Aviragnet   Joël,Beauvais   Valérie,0,1
+Aviragnet   Joël,Magnier   Lise,1,1
+Aviragnet   Joël,Orphelin   Matthieu,1,1
+Aviragnet   Joël,Fiat   Caroline,1,1
+Aviragnet   Joël,Le Peih   Nicole,0,1
+Aviragnet   Joël,Trisse   Nicole,0,1
+Aviragnet   Joël,Parmentier-Lecocq   Charlotte,0,1
+Aviragnet   Joël,Cattelot   Anne-Laure,0,1
+Aviragnet   Joël,Bruneel   Alain,1,1
+Aviragnet   Joël,Rauch   Isabelle,0,1
+Aviragnet   Joël,Potterie   Benoit,0,1
+Aviragnet   Joël,Minot   Maxime,0,1
+Aviragnet   Joël,Michels   Thierry,0,1
+Aviragnet   Joël,Sempastous   Jean-Bernard,0,1
+Aviragnet   Joël,Descrozaille   Frédéric,0,1
+Aviragnet   Joël,Gaillot   Albane,0,1
+Aviragnet   Joël,Ramadier   Alain,1,1
+Aviragnet   Joël,Lenne   Marion,0,1
+Aviragnet   Joël,Peyron   Michèle,0,1
+Aviragnet   Joël,Mauborgne   Sereine,1,1
+Aviragnet   Joël,Morenas   Adrien,0,1
+Aviragnet   Joël,Fiévet   Jean-Marie,0,1
+Bazin   Thibault,Christophe   Paul,0,1
+Bazin   Thibault,Claireaux   Stéphane,0,1
+Bazin   Thibault,Maillard   Sylvain,1,1
+Bazin   Thibault,Delatte   Marc,0,1
+Bazin   Thibault,Dufrègne   Jean-Paul,0,1
+Bazin   Thibault,Roussel   Cédric,0,1
+Bazin   Thibault,Pitollat   Claire,0,1
+Bazin   Thibault,Dharréville   Pierre,0,1
+Bazin   Thibault,Mesnier   Thomas,0,1
+Bazin   Thibault,Michel-Brassart   Monica,0,1
+Bazin   Thibault,Khattabi   Fadila,0,1
+Bazin   Thibault,Tamarelle-Verhaeghe   Marie,0,1
+Bazin   Thibault,Le Meur   Annaïg,0,1
+Bazin   Thibault,Vignon   Corinne,0,1
+Bazin   Thibault,Toutut-Picard   Élisabeth,0,1
+Bazin   Thibault,Fabre   Catherine,0,1
+Bazin   Thibault,Mirallès   Patricia,0,1
+Bazin   Thibault,Chalumeau   Philippe,0,1
+Bazin   Thibault,Limon   Monique,0,1
+Bazin   Thibault,Brulebois   Danielle,0,1
+Bazin   Thibault,Borowczyk   Julien,0,1
+Bazin   Thibault,Dufeu   Audrey,0,1
+Bazin   Thibault,Rist   Stéphanie,0,1
+Bazin   Thibault,Janvier   Caroline,0,1
+Bazin   Thibault,Beauvais   Valérie,0,1
+Bazin   Thibault,Magnier   Lise,0,1
+Bazin   Thibault,Orphelin   Matthieu,0,1
+Bazin   Thibault,Fiat   Caroline,0,1
+Bazin   Thibault,Le Peih   Nicole,0,1
+Bazin   Thibault,Trisse   Nicole,0,1
+Bazin   Thibault,Parmentier-Lecocq   Charlotte,0,1
+Bazin   Thibault,Cattelot   Anne-Laure,0,1
+Bazin   Thibault,Bruneel   Alain,0,1
+Bazin   Thibault,Rauch   Isabelle,0,1
+Bazin   Thibault,Potterie   Benoit,0,1
+Bazin   Thibault,Minot   Maxime,1,1
+Bazin   Thibault,Michels   Thierry,0,1
+Bazin   Thibault,Sempastous   Jean-Bernard,0,1
+Bazin   Thibault,Descrozaille   Frédéric,0,1
+Bazin   Thibault,Gaillot   Albane,0,1
+Bazin   Thibault,Ramadier   Alain,0,1
+Bazin   Thibault,Lenne   Marion,0,1
+Bazin   Thibault,Peyron   Michèle,0,1
+Bazin   Thibault,Mauborgne   Sereine,0,1
+Bazin   Thibault,Morenas   Adrien,0,1
+Bazin   Thibault,Fiévet   Jean-Marie,0,1
+Christophe   Paul,Claireaux   Stéphane,0,1
+Christophe   Paul,Maillard   Sylvain,0,1
+Christophe   Paul,Delatte   Marc,0,1
+Christophe   Paul,Dufrègne   Jean-Paul,1,1
+Christophe   Paul,Roussel   Cédric,0,1
+Christophe   Paul,Pitollat   Claire,1,1
+Christophe   Paul,Dharréville   Pierre,1,1
+Christophe   Paul,Mesnier   Thomas,0,1
+Christophe   Paul,Michel-Brassart   Monica,0,1
+Christophe   Paul,Khattabi   Fadila,0,1
+Christophe   Paul,Tamarelle-Verhaeghe   Marie,0,1
+Christophe   Paul,Le Meur   Annaïg,0,1
+Christophe   Paul,Vignon   Corinne,0,1
+Christophe   Paul,Toutut-Picard   Élisabeth,1,1
+Christophe   Paul,Fabre   Catherine,0,1
+Christophe   Paul,Mirallès   Patricia,0,1
+Christophe   Paul,Chalumeau   Philippe,0,1
+Christophe   Paul,Limon   Monique,0,1
+Christophe   Paul,Brulebois   Danielle,0,1
+Christophe   Paul,Borowczyk   Julien,0,1
+Christophe   Paul,Dufeu   Audrey,1,1
+Christophe   Paul,Rist   Stéphanie,0,1
+Christophe   Paul,Janvier   Caroline,1,1
+Christophe   Paul,Beauvais   Valérie,0,1
+Christophe   Paul,Magnier   Lise,1,1
+Christophe   Paul,Orphelin   Matthieu,1,1
+Christophe   Paul,Fiat   Caroline,1,1
+Christophe   Paul,Le Peih   Nicole,0,1
+Christophe   Paul,Trisse   Nicole,0,1
+Christophe   Paul,Parmentier-Lecocq   Charlotte,0,1
+Christophe   Paul,Cattelot   Anne-Laure,0,1
+Christophe   Paul,Bruneel   Alain,1,1
+Christophe   Paul,Rauch   Isabelle,0,1
+Christophe   Paul,Potterie   Benoit,0,1
+Christophe   Paul,Minot   Maxime,0,1
+Christophe   Paul,Michels   Thierry,0,1
+Christophe   Paul,Sempastous   Jean-Bernard,0,1
+Christophe   Paul,Descrozaille   Frédéric,0,1
+Christophe   Paul,Gaillot   Albane,0,1
+Christophe   Paul,Ramadier   Alain,1,1
+Christophe   Paul,Lenne   Marion,0,1
+Christophe   Paul,Peyron   Michèle,0,1
+Christophe   Paul,Mauborgne   Sereine,1,1
+Christophe   Paul,Morenas   Adrien,0,1
+Christophe   Paul,Fiévet   Jean-Marie,0,1
+Claireaux   Stéphane,Maillard   Sylvain,0,1
+Claireaux   Stéphane,Delatte   Marc,1,1
+Claireaux   Stéphane,Dufrègne   Jean-Paul,0,1
+Claireaux   Stéphane,Roussel   Cédric,1,1
+Claireaux   Stéphane,Pitollat   Claire,0,1
+Claireaux   Stéphane,Dharréville   Pierre,0,1
+Claireaux   Stéphane,Mesnier   Thomas,1,1
+Claireaux   Stéphane,Michel-Brassart   Monica,1,1
+Claireaux   Stéphane,Khattabi   Fadila,1,1
+Claireaux   Stéphane,Tamarelle-Verhaeghe   Marie,1,1
+Claireaux   Stéphane,Le Meur   Annaïg,1,1
+Claireaux   Stéphane,Vignon   Corinne,1,1
+Claireaux   Stéphane,Toutut-Picard   Élisabeth,0,1
+Claireaux   Stéphane,Fabre   Catherine,1,1
+Claireaux   Stéphane,Mirallès   Patricia,1,1
+Claireaux   Stéphane,Chalumeau   Philippe,1,1
+Claireaux   Stéphane,Limon   Monique,1,1
+Claireaux   Stéphane,Brulebois   Danielle,1,1
+Claireaux   Stéphane,Borowczyk   Julien,1,1
+Claireaux   Stéphane,Dufeu   Audrey,0,1
+Claireaux   Stéphane,Rist   Stéphanie,1,1
+Claireaux   Stéphane,Janvier   Caroline,0,1
+Claireaux   Stéphane,Beauvais   Valérie,1,1
+Claireaux   Stéphane,Magnier   Lise,0,1
+Claireaux   Stéphane,Orphelin   Matthieu,0,1
+Claireaux   Stéphane,Fiat   Caroline,0,1
+Claireaux   Stéphane,Le Peih   Nicole,1,1
+Claireaux   Stéphane,Trisse   Nicole,1,1
+Claireaux   Stéphane,Parmentier-Lecocq   Charlotte,1,1
+Claireaux   Stéphane,Cattelot   Anne-Laure,1,1
+Claireaux   Stéphane,Bruneel   Alain,0,1
+Claireaux   Stéphane,Rauch   Isabelle,1,1
+Claireaux   Stéphane,Potterie   Benoit,1,1
+Claireaux   Stéphane,Minot   Maxime,0,1
+Claireaux   Stéphane,Michels   Thierry,1,1
+Claireaux   Stéphane,Sempastous   Jean-Bernard,1,1
+Claireaux   Stéphane,Descrozaille   Frédéric,1,1
+Claireaux   Stéphane,Gaillot   Albane,1,1
+Claireaux   Stéphane,Ramadier   Alain,0,1
+Claireaux   Stéphane,Lenne   Marion,1,1
+Claireaux   Stéphane,Peyron   Michèle,1,1
+Claireaux   Stéphane,Mauborgne   Sereine,0,1
+Claireaux   Stéphane,Morenas   Adrien,1,1
+Claireaux   Stéphane,Fiévet   Jean-Marie,1,1
+Maillard   Sylvain,Delatte   Marc,0,1
+Maillard   Sylvain,Dufrègne   Jean-Paul,0,1
+Maillard   Sylvain,Roussel   Cédric,0,1
+Maillard   Sylvain,Pitollat   Claire,0,1
+Maillard   Sylvain,Dharréville   Pierre,0,1
+Maillard   Sylvain,Mesnier   Thomas,0,1
+Maillard   Sylvain,Michel-Brassart   Monica,0,1
+Maillard   Sylvain,Khattabi   Fadila,0,1
+Maillard   Sylvain,Tamarelle-Verhaeghe   Marie,0,1
+Maillard   Sylvain,Le Meur   Annaïg,0,1
+Maillard   Sylvain,Vignon   Corinne,0,1
+Maillard   Sylvain,Toutut-Picard   Élisabeth,0,1
+Maillard   Sylvain,Fabre   Catherine,0,1
+Maillard   Sylvain,Mirallès   Patricia,0,1
+Maillard   Sylvain,Chalumeau   Philippe,0,1
+Maillard   Sylvain,Limon   Monique,0,1
+Maillard   Sylvain,Brulebois   Danielle,0,1
+Maillard   Sylvain,Borowczyk   Julien,0,1
+Maillard   Sylvain,Dufeu   Audrey,0,1
+Maillard   Sylvain,Rist   Stéphanie,0,1
+Maillard   Sylvain,Janvier   Caroline,0,1
+Maillard   Sylvain,Beauvais   Valérie,0,1
+Maillard   Sylvain,Magnier   Lise,0,1
+Maillard   Sylvain,Orphelin   Matthieu,0,1
+Maillard   Sylvain,Fiat   Caroline,0,1
+Maillard   Sylvain,Le Peih   Nicole,0,1
+Maillard   Sylvain,Trisse   Nicole,0,1
+Maillard   Sylvain,Parmentier-Lecocq   Charlotte,0,1
+Maillard   Sylvain,Cattelot   Anne-Laure,0,1
+Maillard   Sylvain,Bruneel   Alain,0,1
+Maillard   Sylvain,Rauch   Isabelle,0,1
+Maillard   Sylvain,Potterie   Benoit,0,1
+Maillard   Sylvain,Minot   Maxime,1,1
+Maillard   Sylvain,Michels   Thierry,0,1
+Maillard   Sylvain,Sempastous   Jean-Bernard,0,1
+Maillard   Sylvain,Descrozaille   Frédéric,0,1
+Maillard   Sylvain,Gaillot   Albane,0,1
+Maillard   Sylvain,Ramadier   Alain,0,1
+Maillard   Sylvain,Lenne   Marion,0,1
+Maillard   Sylvain,Peyron   Michèle,0,1
+Maillard   Sylvain,Mauborgne   Sereine,0,1
+Maillard   Sylvain,Morenas   Adrien,0,1
+Maillard   Sylvain,Fiévet   Jean-Marie,0,1
+Delatte   Marc,Dufrègne   Jean-Paul,0,1
+Delatte   Marc,Roussel   Cédric,1,1
+Delatte   Marc,Pitollat   Claire,0,1
+Delatte   Marc,Dharréville   Pierre,0,1
+Delatte   Marc,Mesnier   Thomas,1,1
+Delatte   Marc,Michel-Brassart   Monica,1,1
+Delatte   Marc,Khattabi   Fadila,1,1
+Delatte   Marc,Tamarelle-Verhaeghe   Marie,1,1
+Delatte   Marc,Le Meur   Annaïg,1,1
+Delatte   Marc,Vignon   Corinne,1,1
+Delatte   Marc,Toutut-Picard   Élisabeth,0,1
+Delatte   Marc,Fabre   Catherine,1,1
+Delatte   Marc,Mirallès   Patricia,1,1
+Delatte   Marc,Chalumeau   Philippe,1,1
+Delatte   Marc,Limon   Monique,1,1
+Delatte   Marc,Brulebois   Danielle,1,1
+Delatte   Marc,Borowczyk   Julien,1,1
+Delatte   Marc,Dufeu   Audrey,0,1
+Delatte   Marc,Rist   Stéphanie,1,1
+Delatte   Marc,Janvier   Caroline,0,1
+Delatte   Marc,Beauvais   Valérie,1,1
+Delatte   Marc,Magnier   Lise,0,1
+Delatte   Marc,Orphelin   Matthieu,0,1
+Delatte   Marc,Fiat   Caroline,0,1
+Delatte   Marc,Le Peih   Nicole,1,1
+Delatte   Marc,Trisse   Nicole,1,1
+Delatte   Marc,Parmentier-Lecocq   Charlotte,1,1
+Delatte   Marc,Cattelot   Anne-Laure,1,1
+Delatte   Marc,Bruneel   Alain,0,1
+Delatte   Marc,Rauch   Isabelle,1,1
+Delatte   Marc,Potterie   Benoit,1,1
+Delatte   Marc,Minot   Maxime,0,1
+Delatte   Marc,Michels   Thierry,1,1
+Delatte   Marc,Sempastous   Jean-Bernard,1,1
+Delatte   Marc,Descrozaille   Frédéric,1,1
+Delatte   Marc,Gaillot   Albane,1,1
+Delatte   Marc,Ramadier   Alain,0,1
+Delatte   Marc,Lenne   Marion,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Mauborgne   Sereine,0,1
+Delatte   Marc,Morenas   Adrien,1,1
+Delatte   Marc,Fiévet   Jean-Marie,1,1
+Dufrègne   Jean-Paul,Roussel   Cédric,0,1
+Dufrègne   Jean-Paul,Pitollat   Claire,1,1
+Dufrègne   Jean-Paul,Dharréville   Pierre,1,1
+Dufrègne   Jean-Paul,Mesnier   Thomas,0,1
+Dufrègne   Jean-Paul,Michel-Brassart   Monica,0,1
+Dufrègne   Jean-Paul,Khattabi   Fadila,0,1
+Dufrègne   Jean-Paul,Tamarelle-Verhaeghe   Marie,0,1
+Dufrègne   Jean-Paul,Le Meur   Annaïg,0,1
+Dufrègne   Jean-Paul,Vignon   Corinne,0,1
+Dufrègne   Jean-Paul,Toutut-Picard   Élisabeth,1,1
+Dufrègne   Jean-Paul,Fabre   Catherine,0,1
+Dufrègne   Jean-Paul,Mirallès   Patricia,0,1
+Dufrègne   Jean-Paul,Chalumeau   Philippe,0,1
+Dufrègne   Jean-Paul,Limon   Monique,0,1
+Dufrègne   Jean-Paul,Brulebois   Danielle,0,1
+Dufrègne   Jean-Paul,Borowczyk   Julien,0,1
+Dufrègne   Jean-Paul,Dufeu   Audrey,1,1
+Dufrègne   Jean-Paul,Rist   Stéphanie,0,1
+Dufrègne   Jean-Paul,Janvier   Caroline,1,1
+Dufrègne   Jean-Paul,Beauvais   Valérie,0,1
+Dufrègne   Jean-Paul,Magnier   Lise,1,1
+Dufrègne   Jean-Paul,Orphelin   Matthieu,1,1
+Dufrègne   Jean-Paul,Fiat   Caroline,1,1
+Dufrègne   Jean-Paul,Le Peih   Nicole,0,1
+Dufrègne   Jean-Paul,Trisse   Nicole,0,1
+Dufrègne   Jean-Paul,Parmentier-Lecocq   Charlotte,0,1
+Dufrègne   Jean-Paul,Cattelot   Anne-Laure,0,1
+Dufrègne   Jean-Paul,Bruneel   Alain,1,1
+Dufrègne   Jean-Paul,Rauch   Isabelle,0,1
+Dufrègne   Jean-Paul,Potterie   Benoit,0,1
+Dufrègne   Jean-Paul,Minot   Maxime,0,1
+Dufrègne   Jean-Paul,Michels   Thierry,0,1
+Dufrègne   Jean-Paul,Sempastous   Jean-Bernard,0,1
+Dufrègne   Jean-Paul,Descrozaille   Frédéric,0,1
+Dufrègne   Jean-Paul,Gaillot   Albane,0,1
+Dufrègne   Jean-Paul,Ramadier   Alain,1,1
+Dufrègne   Jean-Paul,Lenne   Marion,0,1
+Dufrègne   Jean-Paul,Peyron   Michèle,0,1
+Dufrègne   Jean-Paul,Mauborgne   Sereine,1,1
+Dufrègne   Jean-Paul,Morenas   Adrien,0,1
+Dufrègne   Jean-Paul,Fiévet   Jean-Marie,0,1
+Roussel   Cédric,Pitollat   Claire,0,1
+Roussel   Cédric,Dharréville   Pierre,0,1
+Roussel   Cédric,Mesnier   Thomas,1,1
+Roussel   Cédric,Michel-Brassart   Monica,1,1
+Roussel   Cédric,Khattabi   Fadila,1,1
+Roussel   Cédric,Tamarelle-Verhaeghe   Marie,1,1
+Roussel   Cédric,Le Meur   Annaïg,1,1
+Roussel   Cédric,Vignon   Corinne,1,1
+Roussel   Cédric,Toutut-Picard   Élisabeth,0,1
+Roussel   Cédric,Fabre   Catherine,1,1
+Roussel   Cédric,Mirallès   Patricia,1,1
+Roussel   Cédric,Chalumeau   Philippe,1,1
+Roussel   Cédric,Limon   Monique,1,1
+Roussel   Cédric,Brulebois   Danielle,1,1
+Roussel   Cédric,Borowczyk   Julien,1,1
+Roussel   Cédric,Dufeu   Audrey,0,1
+Roussel   Cédric,Rist   Stéphanie,1,1
+Roussel   Cédric,Janvier   Caroline,0,1
+Roussel   Cédric,Beauvais   Valérie,1,1
+Roussel   Cédric,Magnier   Lise,0,1
+Roussel   Cédric,Orphelin   Matthieu,0,1
+Roussel   Cédric,Fiat   Caroline,0,1
+Roussel   Cédric,Le Peih   Nicole,1,1
+Roussel   Cédric,Trisse   Nicole,1,1
+Roussel   Cédric,Parmentier-Lecocq   Charlotte,1,1
+Roussel   Cédric,Cattelot   Anne-Laure,1,1
+Roussel   Cédric,Bruneel   Alain,0,1
+Roussel   Cédric,Rauch   Isabelle,1,1
+Roussel   Cédric,Potterie   Benoit,1,1
+Roussel   Cédric,Minot   Maxime,0,1
+Roussel   Cédric,Michels   Thierry,1,1
+Roussel   Cédric,Sempastous   Jean-Bernard,1,1
+Roussel   Cédric,Descrozaille   Frédéric,1,1
+Roussel   Cédric,Gaillot   Albane,1,1
+Roussel   Cédric,Ramadier   Alain,0,1
+Roussel   Cédric,Lenne   Marion,1,1
+Roussel   Cédric,Peyron   Michèle,1,1
+Roussel   Cédric,Mauborgne   Sereine,0,1
+Roussel   Cédric,Morenas   Adrien,1,1
+Roussel   Cédric,Fiévet   Jean-Marie,1,1
+Pitollat   Claire,Dharréville   Pierre,1,1
+Pitollat   Claire,Mesnier   Thomas,0,1
+Pitollat   Claire,Michel-Brassart   Monica,0,1
+Pitollat   Claire,Khattabi   Fadila,0,1
+Pitollat   Claire,Tamarelle-Verhaeghe   Marie,0,1
+Pitollat   Claire,Le Meur   Annaïg,0,1
+Pitollat   Claire,Vignon   Corinne,0,1
+Pitollat   Claire,Toutut-Picard   Élisabeth,1,1
+Pitollat   Claire,Fabre   Catherine,0,1
+Pitollat   Claire,Mirallès   Patricia,0,1
+Pitollat   Claire,Chalumeau   Philippe,0,1
+Pitollat   Claire,Limon   Monique,0,1
+Pitollat   Claire,Brulebois   Danielle,0,1
+Pitollat   Claire,Borowczyk   Julien,0,1
+Pitollat   Claire,Dufeu   Audrey,1,1
+Pitollat   Claire,Rist   Stéphanie,0,1
+Pitollat   Claire,Janvier   Caroline,1,1
+Pitollat   Claire,Beauvais   Valérie,0,1
+Pitollat   Claire,Magnier   Lise,1,1
+Pitollat   Claire,Orphelin   Matthieu,1,1
+Pitollat   Claire,Fiat   Caroline,1,1
+Pitollat   Claire,Le Peih   Nicole,0,1
+Pitollat   Claire,Trisse   Nicole,0,1
+Pitollat   Claire,Parmentier-Lecocq   Charlotte,0,1
+Pitollat   Claire,Cattelot   Anne-Laure,0,1
+Pitollat   Claire,Bruneel   Alain,1,1
+Pitollat   Claire,Rauch   Isabelle,0,1
+Pitollat   Claire,Potterie   Benoit,0,1
+Pitollat   Claire,Minot   Maxime,0,1
+Pitollat   Claire,Michels   Thierry,0,1
+Pitollat   Claire,Sempastous   Jean-Bernard,0,1
+Pitollat   Claire,Descrozaille   Frédéric,0,1
+Pitollat   Claire,Gaillot   Albane,0,1
+Pitollat   Claire,Ramadier   Alain,1,1
+Pitollat   Claire,Lenne   Marion,0,1
+Pitollat   Claire,Peyron   Michèle,0,1
+Pitollat   Claire,Mauborgne   Sereine,1,1
+Pitollat   Claire,Morenas   Adrien,0,1
+Pitollat   Claire,Fiévet   Jean-Marie,0,1
+Dharréville   Pierre,Mesnier   Thomas,0,1
+Dharréville   Pierre,Michel-Brassart   Monica,0,1
+Dharréville   Pierre,Khattabi   Fadila,0,1
+Dharréville   Pierre,Tamarelle-Verhaeghe   Marie,0,1
+Dharréville   Pierre,Le Meur   Annaïg,0,1
+Dharréville   Pierre,Vignon   Corinne,0,1
+Dharréville   Pierre,Toutut-Picard   Élisabeth,1,1
+Dharréville   Pierre,Fabre   Catherine,0,1
+Dharréville   Pierre,Mirallès   Patricia,0,1
+Dharréville   Pierre,Chalumeau   Philippe,0,1
+Dharréville   Pierre,Limon   Monique,0,1
+Dharréville   Pierre,Brulebois   Danielle,0,1
+Dharréville   Pierre,Borowczyk   Julien,0,1
+Dharréville   Pierre,Dufeu   Audrey,1,1
+Dharréville   Pierre,Rist   Stéphanie,0,1
+Dharréville   Pierre,Janvier   Caroline,1,1
+Dharréville   Pierre,Beauvais   Valérie,0,1
+Dharréville   Pierre,Magnier   Lise,1,1
+Dharréville   Pierre,Orphelin   Matthieu,1,1
+Dharréville   Pierre,Fiat   Caroline,1,1
+Dharréville   Pierre,Le Peih   Nicole,0,1
+Dharréville   Pierre,Trisse   Nicole,0,1
+Dharréville   Pierre,Parmentier-Lecocq   Charlotte,0,1
+Dharréville   Pierre,Cattelot   Anne-Laure,0,1
+Dharréville   Pierre,Bruneel   Alain,1,1
+Dharréville   Pierre,Rauch   Isabelle,0,1
+Dharréville   Pierre,Potterie   Benoit,0,1
+Dharréville   Pierre,Minot   Maxime,0,1
+Dharréville   Pierre,Michels   Thierry,0,1
+Dharréville   Pierre,Sempastous   Jean-Bernard,0,1
+Dharréville   Pierre,Descrozaille   Frédéric,0,1
+Dharréville   Pierre,Gaillot   Albane,0,1
+Dharréville   Pierre,Ramadier   Alain,1,1
+Dharréville   Pierre,Lenne   Marion,0,1
+Dharréville   Pierre,Peyron   Michèle,0,1
+Dharréville   Pierre,Mauborgne   Sereine,1,1
+Dharréville   Pierre,Morenas   Adrien,0,1
+Dharréville   Pierre,Fiévet   Jean-Marie,0,1
+Mesnier   Thomas,Michel-Brassart   Monica,1,1
+Mesnier   Thomas,Khattabi   Fadila,1,1
+Mesnier   Thomas,Tamarelle-Verhaeghe   Marie,1,1
+Mesnier   Thomas,Le Meur   Annaïg,1,1
+Mesnier   Thomas,Vignon   Corinne,1,1
+Mesnier   Thomas,Toutut-Picard   Élisabeth,0,1
+Mesnier   Thomas,Fabre   Catherine,1,1
+Mesnier   Thomas,Mirallès   Patricia,1,1
+Mesnier   Thomas,Chalumeau   Philippe,1,1
+Mesnier   Thomas,Limon   Monique,1,1
+Mesnier   Thomas,Brulebois   Danielle,1,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Dufeu   Audrey,0,1
+Mesnier   Thomas,Rist   Stéphanie,1,1
+Mesnier   Thomas,Janvier   Caroline,0,1
+Mesnier   Thomas,Beauvais   Valérie,1,1
+Mesnier   Thomas,Magnier   Lise,0,1
+Mesnier   Thomas,Orphelin   Matthieu,0,1
+Mesnier   Thomas,Fiat   Caroline,0,1
+Mesnier   Thomas,Le Peih   Nicole,1,1
+Mesnier   Thomas,Trisse   Nicole,1,1
+Mesnier   Thomas,Parmentier-Lecocq   Charlotte,1,1
+Mesnier   Thomas,Cattelot   Anne-Laure,1,1
+Mesnier   Thomas,Bruneel   Alain,0,1
+Mesnier   Thomas,Rauch   Isabelle,1,1
+Mesnier   Thomas,Potterie   Benoit,1,1
+Mesnier   Thomas,Minot   Maxime,0,1
+Mesnier   Thomas,Michels   Thierry,1,1
+Mesnier   Thomas,Sempastous   Jean-Bernard,1,1
+Mesnier   Thomas,Descrozaille   Frédéric,1,1
+Mesnier   Thomas,Gaillot   Albane,1,1
+Mesnier   Thomas,Ramadier   Alain,0,1
+Mesnier   Thomas,Lenne   Marion,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Mauborgne   Sereine,0,1
+Mesnier   Thomas,Morenas   Adrien,1,1
+Mesnier   Thomas,Fiévet   Jean-Marie,1,1
+Michel-Brassart   Monica,Khattabi   Fadila,1,1
+Michel-Brassart   Monica,Tamarelle-Verhaeghe   Marie,1,1
+Michel-Brassart   Monica,Le Meur   Annaïg,1,1
+Michel-Brassart   Monica,Vignon   Corinne,1,1
+Michel-Brassart   Monica,Toutut-Picard   Élisabeth,0,1
+Michel-Brassart   Monica,Fabre   Catherine,1,1
+Michel-Brassart   Monica,Mirallès   Patricia,1,1
+Michel-Brassart   Monica,Chalumeau   Philippe,1,1
+Michel-Brassart   Monica,Limon   Monique,1,1
+Michel-Brassart   Monica,Brulebois   Danielle,1,1
+Michel-Brassart   Monica,Borowczyk   Julien,1,1
+Michel-Brassart   Monica,Dufeu   Audrey,0,1
+Michel-Brassart   Monica,Rist   Stéphanie,1,1
+Michel-Brassart   Monica,Janvier   Caroline,0,1
+Michel-Brassart   Monica,Beauvais   Valérie,1,1
+Michel-Brassart   Monica,Magnier   Lise,0,1
+Michel-Brassart   Monica,Orphelin   Matthieu,0,1
+Michel-Brassart   Monica,Fiat   Caroline,0,1
+Michel-Brassart   Monica,Le Peih   Nicole,1,1
+Michel-Brassart   Monica,Trisse   Nicole,1,1
+Michel-Brassart   Monica,Parmentier-Lecocq   Charlotte,1,1
+Michel-Brassart   Monica,Cattelot   Anne-Laure,1,1
+Michel-Brassart   Monica,Bruneel   Alain,0,1
+Michel-Brassart   Monica,Rauch   Isabelle,1,1
+Michel-Brassart   Monica,Potterie   Benoit,1,1
+Michel-Brassart   Monica,Minot   Maxime,0,1
+Michel-Brassart   Monica,Michels   Thierry,1,1
+Michel-Brassart   Monica,Sempastous   Jean-Bernard,1,1
+Michel-Brassart   Monica,Descrozaille   Frédéric,1,1
+Michel-Brassart   Monica,Gaillot   Albane,1,1
+Michel-Brassart   Monica,Ramadier   Alain,0,1
+Michel-Brassart   Monica,Lenne   Marion,1,1
+Michel-Brassart   Monica,Peyron   Michèle,1,1
+Michel-Brassart   Monica,Mauborgne   Sereine,0,1
+Michel-Brassart   Monica,Morenas   Adrien,1,1
+Michel-Brassart   Monica,Fiévet   Jean-Marie,1,1
+Khattabi   Fadila,Tamarelle-Verhaeghe   Marie,1,1
+Khattabi   Fadila,Le Meur   Annaïg,1,1
+Khattabi   Fadila,Vignon   Corinne,1,1
+Khattabi   Fadila,Toutut-Picard   Élisabeth,0,1
+Khattabi   Fadila,Fabre   Catherine,1,1
+Khattabi   Fadila,Mirallès   Patricia,1,1
+Khattabi   Fadila,Chalumeau   Philippe,1,1
+Khattabi   Fadila,Limon   Monique,1,1
+Khattabi   Fadila,Brulebois   Danielle,1,1
+Khattabi   Fadila,Borowczyk   Julien,1,1
+Khattabi   Fadila,Dufeu   Audrey,0,1
+Khattabi   Fadila,Rist   Stéphanie,1,1
+Khattabi   Fadila,Janvier   Caroline,0,1
+Khattabi   Fadila,Beauvais   Valérie,1,1
+Khattabi   Fadila,Magnier   Lise,0,1
+Khattabi   Fadila,Orphelin   Matthieu,0,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Le Peih   Nicole,1,1
+Khattabi   Fadila,Trisse   Nicole,1,1
+Khattabi   Fadila,Parmentier-Lecocq   Charlotte,1,1
+Khattabi   Fadila,Cattelot   Anne-Laure,1,1
+Khattabi   Fadila,Bruneel   Alain,0,1
+Khattabi   Fadila,Rauch   Isabelle,1,1
+Khattabi   Fadila,Potterie   Benoit,1,1
+Khattabi   Fadila,Minot   Maxime,0,1
+Khattabi   Fadila,Michels   Thierry,1,1
+Khattabi   Fadila,Sempastous   Jean-Bernard,1,1
+Khattabi   Fadila,Descrozaille   Frédéric,1,1
+Khattabi   Fadila,Gaillot   Albane,1,1
+Khattabi   Fadila,Ramadier   Alain,0,1
+Khattabi   Fadila,Lenne   Marion,1,1
+Khattabi   Fadila,Peyron   Michèle,1,1
+Khattabi   Fadila,Mauborgne   Sereine,0,1
+Khattabi   Fadila,Morenas   Adrien,1,1
+Khattabi   Fadila,Fiévet   Jean-Marie,1,1
+Tamarelle-Verhaeghe   Marie,Le Meur   Annaïg,1,1
+Tamarelle-Verhaeghe   Marie,Vignon   Corinne,1,1
+Tamarelle-Verhaeghe   Marie,Toutut-Picard   Élisabeth,0,1
+Tamarelle-Verhaeghe   Marie,Fabre   Catherine,1,1
+Tamarelle-Verhaeghe   Marie,Mirallès   Patricia,1,1
+Tamarelle-Verhaeghe   Marie,Chalumeau   Philippe,1,1
+Tamarelle-Verhaeghe   Marie,Limon   Monique,1,1
+Tamarelle-Verhaeghe   Marie,Brulebois   Danielle,1,1
+Tamarelle-Verhaeghe   Marie,Borowczyk   Julien,1,1
+Tamarelle-Verhaeghe   Marie,Dufeu   Audrey,0,1
+Tamarelle-Verhaeghe   Marie,Rist   Stéphanie,1,1
+Tamarelle-Verhaeghe   Marie,Janvier   Caroline,0,1
+Tamarelle-Verhaeghe   Marie,Beauvais   Valérie,1,1
+Tamarelle-Verhaeghe   Marie,Magnier   Lise,0,1
+Tamarelle-Verhaeghe   Marie,Orphelin   Matthieu,0,1
+Tamarelle-Verhaeghe   Marie,Fiat   Caroline,0,1
+Tamarelle-Verhaeghe   Marie,Le Peih   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Trisse   Nicole,1,1
+Tamarelle-Verhaeghe   Marie,Parmentier-Lecocq   Charlotte,1,1
+Tamarelle-Verhaeghe   Marie,Cattelot   Anne-Laure,1,1
+Tamarelle-Verhaeghe   Marie,Bruneel   Alain,0,1
+Tamarelle-Verhaeghe   Marie,Rauch   Isabelle,1,1
+Tamarelle-Verhaeghe   Marie,Potterie   Benoit,1,1
+Tamarelle-Verhaeghe   Marie,Minot   Maxime,0,1
+Tamarelle-Verhaeghe   Marie,Michels   Thierry,1,1
+Tamarelle-Verhaeghe   Marie,Sempastous   Jean-Bernard,1,1
+Tamarelle-Verhaeghe   Marie,Descrozaille   Frédéric,1,1
+Tamarelle-Verhaeghe   Marie,Gaillot   Albane,1,1
+Tamarelle-Verhaeghe   Marie,Ramadier   Alain,0,1
+Tamarelle-Verhaeghe   Marie,Lenne   Marion,1,1
+Tamarelle-Verhaeghe   Marie,Peyron   Michèle,1,1
+Tamarelle-Verhaeghe   Marie,Mauborgne   Sereine,0,1
+Tamarelle-Verhaeghe   Marie,Morenas   Adrien,1,1
+Tamarelle-Verhaeghe   Marie,Fiévet   Jean-Marie,1,1
+Le Meur   Annaïg,Vignon   Corinne,1,1
+Le Meur   Annaïg,Toutut-Picard   Élisabeth,0,1
+Le Meur   Annaïg,Fabre   Catherine,1,1
+Le Meur   Annaïg,Mirallès   Patricia,1,1
+Le Meur   Annaïg,Chalumeau   Philippe,1,1
+Le Meur   Annaïg,Limon   Monique,1,1
+Le Meur   Annaïg,Brulebois   Danielle,1,1
+Le Meur   Annaïg,Borowczyk   Julien,1,1
+Le Meur   Annaïg,Dufeu   Audrey,0,1
+Le Meur   Annaïg,Rist   Stéphanie,1,1
+Le Meur   Annaïg,Janvier   Caroline,0,1
+Le Meur   Annaïg,Beauvais   Valérie,1,1
+Le Meur   Annaïg,Magnier   Lise,0,1
+Le Meur   Annaïg,Orphelin   Matthieu,0,1
+Le Meur   Annaïg,Fiat   Caroline,0,1
+Le Meur   Annaïg,Le Peih   Nicole,1,1
+Le Meur   Annaïg,Trisse   Nicole,1,1
+Le Meur   Annaïg,Parmentier-Lecocq   Charlotte,1,1
+Le Meur   Annaïg,Cattelot   Anne-Laure,1,1
+Le Meur   Annaïg,Bruneel   Alain,0,1
+Le Meur   Annaïg,Rauch   Isabelle,1,1
+Le Meur   Annaïg,Potterie   Benoit,1,1
+Le Meur   Annaïg,Minot   Maxime,0,1
+Le Meur   Annaïg,Michels   Thierry,1,1
+Le Meur   Annaïg,Sempastous   Jean-Bernard,1,1
+Le Meur   Annaïg,Descrozaille   Frédéric,1,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Ramadier   Alain,0,1
+Le Meur   Annaïg,Lenne   Marion,1,1
+Le Meur   Annaïg,Peyron   Michèle,1,1
+Le Meur   Annaïg,Mauborgne   Sereine,0,1
+Le Meur   Annaïg,Morenas   Adrien,1,1
+Le Meur   Annaïg,Fiévet   Jean-Marie,1,1
+Vignon   Corinne,Toutut-Picard   Élisabeth,0,1
+Vignon   Corinne,Fabre   Catherine,1,1
+Vignon   Corinne,Mirallès   Patricia,1,1
+Vignon   Corinne,Chalumeau   Philippe,1,1
+Vignon   Corinne,Limon   Monique,1,1
+Vignon   Corinne,Brulebois   Danielle,1,1
+Vignon   Corinne,Borowczyk   Julien,1,1
+Vignon   Corinne,Dufeu   Audrey,0,1
+Vignon   Corinne,Rist   Stéphanie,1,1
+Vignon   Corinne,Janvier   Caroline,0,1
+Vignon   Corinne,Beauvais   Valérie,1,1
+Vignon   Corinne,Magnier   Lise,0,1
+Vignon   Corinne,Orphelin   Matthieu,0,1
+Vignon   Corinne,Fiat   Caroline,0,1
+Vignon   Corinne,Le Peih   Nicole,1,1
+Vignon   Corinne,Trisse   Nicole,1,1
+Vignon   Corinne,Parmentier-Lecocq   Charlotte,1,1
+Vignon   Corinne,Cattelot   Anne-Laure,1,1
+Vignon   Corinne,Bruneel   Alain,0,1
+Vignon   Corinne,Rauch   Isabelle,1,1
+Vignon   Corinne,Potterie   Benoit,1,1
+Vignon   Corinne,Minot   Maxime,0,1
+Vignon   Corinne,Michels   Thierry,1,1
+Vignon   Corinne,Sempastous   Jean-Bernard,1,1
+Vignon   Corinne,Descrozaille   Frédéric,1,1
+Vignon   Corinne,Gaillot   Albane,1,1
+Vignon   Corinne,Ramadier   Alain,0,1
+Vignon   Corinne,Lenne   Marion,1,1
+Vignon   Corinne,Peyron   Michèle,1,1
+Vignon   Corinne,Mauborgne   Sereine,0,1
+Vignon   Corinne,Morenas   Adrien,1,1
+Vignon   Corinne,Fiévet   Jean-Marie,1,1
+Toutut-Picard   Élisabeth,Fabre   Catherine,0,1
+Toutut-Picard   Élisabeth,Mirallès   Patricia,0,1
+Toutut-Picard   Élisabeth,Chalumeau   Philippe,0,1
+Toutut-Picard   Élisabeth,Limon   Monique,0,1
+Toutut-Picard   Élisabeth,Brulebois   Danielle,0,1
+Toutut-Picard   Élisabeth,Borowczyk   Julien,0,1
+Toutut-Picard   Élisabeth,Dufeu   Audrey,1,1
+Toutut-Picard   Élisabeth,Rist   Stéphanie,0,1
+Toutut-Picard   Élisabeth,Janvier   Caroline,1,1
+Toutut-Picard   Élisabeth,Beauvais   Valérie,0,1
+Toutut-Picard   Élisabeth,Magnier   Lise,1,1
+Toutut-Picard   Élisabeth,Orphelin   Matthieu,1,1
+Toutut-Picard   Élisabeth,Fiat   Caroline,1,1
+Toutut-Picard   Élisabeth,Le Peih   Nicole,0,1
+Toutut-Picard   Élisabeth,Trisse   Nicole,0,1
+Toutut-Picard   Élisabeth,Parmentier-Lecocq   Charlotte,0,1
+Toutut-Picard   Élisabeth,Cattelot   Anne-Laure,0,1
+Toutut-Picard   Élisabeth,Bruneel   Alain,1,1
+Toutut-Picard   Élisabeth,Rauch   Isabelle,0,1
+Toutut-Picard   Élisabeth,Potterie   Benoit,0,1
+Toutut-Picard   Élisabeth,Minot   Maxime,0,1
+Toutut-Picard   Élisabeth,Michels   Thierry,0,1
+Toutut-Picard   Élisabeth,Sempastous   Jean-Bernard,0,1
+Toutut-Picard   Élisabeth,Descrozaille   Frédéric,0,1
+Toutut-Picard   Élisabeth,Gaillot   Albane,0,1
+Toutut-Picard   Élisabeth,Ramadier   Alain,1,1
+Toutut-Picard   Élisabeth,Lenne   Marion,0,1
+Toutut-Picard   Élisabeth,Peyron   Michèle,0,1
+Toutut-Picard   Élisabeth,Mauborgne   Sereine,1,1
+Toutut-Picard   Élisabeth,Morenas   Adrien,0,1
+Toutut-Picard   Élisabeth,Fiévet   Jean-Marie,0,1
+Fabre   Catherine,Mirallès   Patricia,1,1
+Fabre   Catherine,Chalumeau   Philippe,1,1
+Fabre   Catherine,Limon   Monique,1,1
+Fabre   Catherine,Brulebois   Danielle,1,1
+Fabre   Catherine,Borowczyk   Julien,1,1
+Fabre   Catherine,Dufeu   Audrey,0,1
+Fabre   Catherine,Rist   Stéphanie,1,1
+Fabre   Catherine,Janvier   Caroline,0,1
+Fabre   Catherine,Beauvais   Valérie,1,1
+Fabre   Catherine,Magnier   Lise,0,1
+Fabre   Catherine,Orphelin   Matthieu,0,1
+Fabre   Catherine,Fiat   Caroline,0,1
+Fabre   Catherine,Le Peih   Nicole,1,1
+Fabre   Catherine,Trisse   Nicole,1,1
+Fabre   Catherine,Parmentier-Lecocq   Charlotte,1,1
+Fabre   Catherine,Cattelot   Anne-Laure,1,1
+Fabre   Catherine,Bruneel   Alain,0,1
+Fabre   Catherine,Rauch   Isabelle,1,1
+Fabre   Catherine,Potterie   Benoit,1,1
+Fabre   Catherine,Minot   Maxime,0,1
+Fabre   Catherine,Michels   Thierry,1,1
+Fabre   Catherine,Sempastous   Jean-Bernard,1,1
+Fabre   Catherine,Descrozaille   Frédéric,1,1
+Fabre   Catherine,Gaillot   Albane,1,1
+Fabre   Catherine,Ramadier   Alain,0,1
+Fabre   Catherine,Lenne   Marion,1,1
+Fabre   Catherine,Peyron   Michèle,1,1
+Fabre   Catherine,Mauborgne   Sereine,0,1
+Fabre   Catherine,Morenas   Adrien,1,1
+Fabre   Catherine,Fiévet   Jean-Marie,1,1
+Mirallès   Patricia,Chalumeau   Philippe,1,1
+Mirallès   Patricia,Limon   Monique,1,1
+Mirallès   Patricia,Brulebois   Danielle,1,1
+Mirallès   Patricia,Borowczyk   Julien,1,1
+Mirallès   Patricia,Dufeu   Audrey,0,1
+Mirallès   Patricia,Rist   Stéphanie,1,1
+Mirallès   Patricia,Janvier   Caroline,0,1
+Mirallès   Patricia,Beauvais   Valérie,1,1
+Mirallès   Patricia,Magnier   Lise,0,1
+Mirallès   Patricia,Orphelin   Matthieu,0,1
+Mirallès   Patricia,Fiat   Caroline,0,1
+Mirallès   Patricia,Le Peih   Nicole,1,1
+Mirallès   Patricia,Trisse   Nicole,1,1
+Mirallès   Patricia,Parmentier-Lecocq   Charlotte,1,1
+Mirallès   Patricia,Cattelot   Anne-Laure,1,1
+Mirallès   Patricia,Bruneel   Alain,0,1
+Mirallès   Patricia,Rauch   Isabelle,1,1
+Mirallès   Patricia,Potterie   Benoit,1,1
+Mirallès   Patricia,Minot   Maxime,0,1
+Mirallès   Patricia,Michels   Thierry,1,1
+Mirallès   Patricia,Sempastous   Jean-Bernard,1,1
+Mirallès   Patricia,Descrozaille   Frédéric,1,1
+Mirallès   Patricia,Gaillot   Albane,1,1
+Mirallès   Patricia,Ramadier   Alain,0,1
+Mirallès   Patricia,Lenne   Marion,1,1
+Mirallès   Patricia,Peyron   Michèle,1,1
+Mirallès   Patricia,Mauborgne   Sereine,0,1
+Mirallès   Patricia,Morenas   Adrien,1,1
+Mirallès   Patricia,Fiévet   Jean-Marie,1,1
+Chalumeau   Philippe,Limon   Monique,1,1
+Chalumeau   Philippe,Brulebois   Danielle,1,1
+Chalumeau   Philippe,Borowczyk   Julien,1,1
+Chalumeau   Philippe,Dufeu   Audrey,0,1
+Chalumeau   Philippe,Rist   Stéphanie,1,1
+Chalumeau   Philippe,Janvier   Caroline,0,1
+Chalumeau   Philippe,Beauvais   Valérie,1,1
+Chalumeau   Philippe,Magnier   Lise,0,1
+Chalumeau   Philippe,Orphelin   Matthieu,0,1
+Chalumeau   Philippe,Fiat   Caroline,0,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Trisse   Nicole,1,1
+Chalumeau   Philippe,Parmentier-Lecocq   Charlotte,1,1
+Chalumeau   Philippe,Cattelot   Anne-Laure,1,1
+Chalumeau   Philippe,Bruneel   Alain,0,1
+Chalumeau   Philippe,Rauch   Isabelle,1,1
+Chalumeau   Philippe,Potterie   Benoit,1,1
+Chalumeau   Philippe,Minot   Maxime,0,1
+Chalumeau   Philippe,Michels   Thierry,1,1
+Chalumeau   Philippe,Sempastous   Jean-Bernard,1,1
+Chalumeau   Philippe,Descrozaille   Frédéric,1,1
+Chalumeau   Philippe,Gaillot   Albane,1,1
+Chalumeau   Philippe,Ramadier   Alain,0,1
+Chalumeau   Philippe,Lenne   Marion,1,1
+Chalumeau   Philippe,Peyron   Michèle,1,1
+Chalumeau   Philippe,Mauborgne   Sereine,0,1
+Chalumeau   Philippe,Morenas   Adrien,1,1
+Chalumeau   Philippe,Fiévet   Jean-Marie,1,1
+Limon   Monique,Brulebois   Danielle,1,1
+Limon   Monique,Borowczyk   Julien,1,1
+Limon   Monique,Dufeu   Audrey,0,1
+Limon   Monique,Rist   Stéphanie,1,1
+Limon   Monique,Janvier   Caroline,0,1
+Limon   Monique,Beauvais   Valérie,1,1
+Limon   Monique,Magnier   Lise,0,1
+Limon   Monique,Orphelin   Matthieu,0,1
+Limon   Monique,Fiat   Caroline,0,1
+Limon   Monique,Le Peih   Nicole,1,1
+Limon   Monique,Trisse   Nicole,1,1
+Limon   Monique,Parmentier-Lecocq   Charlotte,1,1
+Limon   Monique,Cattelot   Anne-Laure,1,1
+Limon   Monique,Bruneel   Alain,0,1
+Limon   Monique,Rauch   Isabelle,1,1
+Limon   Monique,Potterie   Benoit,1,1
+Limon   Monique,Minot   Maxime,0,1
+Limon   Monique,Michels   Thierry,1,1
+Limon   Monique,Sempastous   Jean-Bernard,1,1
+Limon   Monique,Descrozaille   Frédéric,1,1
+Limon   Monique,Gaillot   Albane,1,1
+Limon   Monique,Ramadier   Alain,0,1
+Limon   Monique,Lenne   Marion,1,1
+Limon   Monique,Peyron   Michèle,1,1
+Limon   Monique,Mauborgne   Sereine,0,1
+Limon   Monique,Morenas   Adrien,1,1
+Limon   Monique,Fiévet   Jean-Marie,1,1
+Brulebois   Danielle,Borowczyk   Julien,1,1
+Brulebois   Danielle,Dufeu   Audrey,0,1
+Brulebois   Danielle,Rist   Stéphanie,1,1
+Brulebois   Danielle,Janvier   Caroline,0,1
+Brulebois   Danielle,Beauvais   Valérie,1,1
+Brulebois   Danielle,Magnier   Lise,0,1
+Brulebois   Danielle,Orphelin   Matthieu,0,1
+Brulebois   Danielle,Fiat   Caroline,0,1
+Brulebois   Danielle,Le Peih   Nicole,1,1
+Brulebois   Danielle,Trisse   Nicole,1,1
+Brulebois   Danielle,Parmentier-Lecocq   Charlotte,1,1
+Brulebois   Danielle,Cattelot   Anne-Laure,1,1
+Brulebois   Danielle,Bruneel   Alain,0,1
+Brulebois   Danielle,Rauch   Isabelle,1,1
+Brulebois   Danielle,Potterie   Benoit,1,1
+Brulebois   Danielle,Minot   Maxime,0,1
+Brulebois   Danielle,Michels   Thierry,1,1
+Brulebois   Danielle,Sempastous   Jean-Bernard,1,1
+Brulebois   Danielle,Descrozaille   Frédéric,1,1
+Brulebois   Danielle,Gaillot   Albane,1,1
+Brulebois   Danielle,Ramadier   Alain,0,1
+Brulebois   Danielle,Lenne   Marion,1,1
+Brulebois   Danielle,Peyron   Michèle,1,1
+Brulebois   Danielle,Mauborgne   Sereine,0,1
+Brulebois   Danielle,Morenas   Adrien,1,1
+Brulebois   Danielle,Fiévet   Jean-Marie,1,1
+Borowczyk   Julien,Dufeu   Audrey,0,1
+Borowczyk   Julien,Rist   Stéphanie,1,1
+Borowczyk   Julien,Janvier   Caroline,0,1
+Borowczyk   Julien,Beauvais   Valérie,1,1
+Borowczyk   Julien,Magnier   Lise,0,1
+Borowczyk   Julien,Orphelin   Matthieu,0,1
+Borowczyk   Julien,Fiat   Caroline,0,1
+Borowczyk   Julien,Le Peih   Nicole,1,1
+Borowczyk   Julien,Trisse   Nicole,1,1
+Borowczyk   Julien,Parmentier-Lecocq   Charlotte,1,1
+Borowczyk   Julien,Cattelot   Anne-Laure,1,1
+Borowczyk   Julien,Bruneel   Alain,0,1
+Borowczyk   Julien,Rauch   Isabelle,1,1
+Borowczyk   Julien,Potterie   Benoit,1,1
+Borowczyk   Julien,Minot   Maxime,0,1
+Borowczyk   Julien,Michels   Thierry,1,1
+Borowczyk   Julien,Sempastous   Jean-Bernard,1,1
+Borowczyk   Julien,Descrozaille   Frédéric,1,1
+Borowczyk   Julien,Gaillot   Albane,1,1
+Borowczyk   Julien,Ramadier   Alain,0,1
+Borowczyk   Julien,Lenne   Marion,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Mauborgne   Sereine,0,1
+Borowczyk   Julien,Morenas   Adrien,1,1
+Borowczyk   Julien,Fiévet   Jean-Marie,1,1
+Dufeu   Audrey,Rist   Stéphanie,0,1
+Dufeu   Audrey,Janvier   Caroline,1,1
+Dufeu   Audrey,Beauvais   Valérie,0,1
+Dufeu   Audrey,Magnier   Lise,1,1
+Dufeu   Audrey,Orphelin   Matthieu,1,1
+Dufeu   Audrey,Fiat   Caroline,1,1
+Dufeu   Audrey,Le Peih   Nicole,0,1
+Dufeu   Audrey,Trisse   Nicole,0,1
+Dufeu   Audrey,Parmentier-Lecocq   Charlotte,0,1
+Dufeu   Audrey,Cattelot   Anne-Laure,0,1
+Dufeu   Audrey,Bruneel   Alain,1,1
+Dufeu   Audrey,Rauch   Isabelle,0,1
+Dufeu   Audrey,Potterie   Benoit,0,1
+Dufeu   Audrey,Minot   Maxime,0,1
+Dufeu   Audrey,Michels   Thierry,0,1
+Dufeu   Audrey,Sempastous   Jean-Bernard,0,1
+Dufeu   Audrey,Descrozaille   Frédéric,0,1
+Dufeu   Audrey,Gaillot   Albane,0,1
+Dufeu   Audrey,Ramadier   Alain,1,1
+Dufeu   Audrey,Lenne   Marion,0,1
+Dufeu   Audrey,Peyron   Michèle,0,1
+Dufeu   Audrey,Mauborgne   Sereine,1,1
+Dufeu   Audrey,Morenas   Adrien,0,1
+Dufeu   Audrey,Fiévet   Jean-Marie,0,1
+Rist   Stéphanie,Janvier   Caroline,0,1
+Rist   Stéphanie,Beauvais   Valérie,1,1
+Rist   Stéphanie,Magnier   Lise,0,1
+Rist   Stéphanie,Orphelin   Matthieu,0,1
+Rist   Stéphanie,Fiat   Caroline,0,1
+Rist   Stéphanie,Le Peih   Nicole,1,1
+Rist   Stéphanie,Trisse   Nicole,1,1
+Rist   Stéphanie,Parmentier-Lecocq   Charlotte,1,1
+Rist   Stéphanie,Cattelot   Anne-Laure,1,1
+Rist   Stéphanie,Bruneel   Alain,0,1
+Rist   Stéphanie,Rauch   Isabelle,1,1
+Rist   Stéphanie,Potterie   Benoit,1,1
+Rist   Stéphanie,Minot   Maxime,0,1
+Rist   Stéphanie,Michels   Thierry,1,1
+Rist   Stéphanie,Sempastous   Jean-Bernard,1,1
+Rist   Stéphanie,Descrozaille   Frédéric,1,1
+Rist   Stéphanie,Gaillot   Albane,1,1
+Rist   Stéphanie,Ramadier   Alain,0,1
+Rist   Stéphanie,Lenne   Marion,1,1
+Rist   Stéphanie,Peyron   Michèle,1,1
+Rist   Stéphanie,Mauborgne   Sereine,0,1
+Rist   Stéphanie,Morenas   Adrien,1,1
+Rist   Stéphanie,Fiévet   Jean-Marie,1,1
+Janvier   Caroline,Beauvais   Valérie,0,1
+Janvier   Caroline,Magnier   Lise,1,1
+Janvier   Caroline,Orphelin   Matthieu,1,1
+Janvier   Caroline,Fiat   Caroline,1,1
+Janvier   Caroline,Le Peih   Nicole,0,1
+Janvier   Caroline,Trisse   Nicole,0,1
+Janvier   Caroline,Parmentier-Lecocq   Charlotte,0,1
+Janvier   Caroline,Cattelot   Anne-Laure,0,1
+Janvier   Caroline,Bruneel   Alain,1,1
+Janvier   Caroline,Rauch   Isabelle,0,1
+Janvier   Caroline,Potterie   Benoit,0,1
+Janvier   Caroline,Minot   Maxime,0,1
+Janvier   Caroline,Michels   Thierry,0,1
+Janvier   Caroline,Sempastous   Jean-Bernard,0,1
+Janvier   Caroline,Descrozaille   Frédéric,0,1
+Janvier   Caroline,Gaillot   Albane,0,1
+Janvier   Caroline,Ramadier   Alain,1,1
+Janvier   Caroline,Lenne   Marion,0,1
+Janvier   Caroline,Peyron   Michèle,0,1
+Janvier   Caroline,Mauborgne   Sereine,1,1
+Janvier   Caroline,Morenas   Adrien,0,1
+Janvier   Caroline,Fiévet   Jean-Marie,0,1
+Beauvais   Valérie,Magnier   Lise,0,1
+Beauvais   Valérie,Orphelin   Matthieu,0,1
+Beauvais   Valérie,Fiat   Caroline,0,1
+Beauvais   Valérie,Le Peih   Nicole,1,1
+Beauvais   Valérie,Trisse   Nicole,1,1
+Beauvais   Valérie,Parmentier-Lecocq   Charlotte,1,1
+Beauvais   Valérie,Cattelot   Anne-Laure,1,1
+Beauvais   Valérie,Bruneel   Alain,0,1
+Beauvais   Valérie,Rauch   Isabelle,1,1
+Beauvais   Valérie,Potterie   Benoit,1,1
+Beauvais   Valérie,Minot   Maxime,0,1
+Beauvais   Valérie,Michels   Thierry,1,1
+Beauvais   Valérie,Sempastous   Jean-Bernard,1,1
+Beauvais   Valérie,Descrozaille   Frédéric,1,1
+Beauvais   Valérie,Gaillot   Albane,1,1
+Beauvais   Valérie,Ramadier   Alain,0,1
+Beauvais   Valérie,Lenne   Marion,1,1
+Beauvais   Valérie,Peyron   Michèle,1,1
+Beauvais   Valérie,Mauborgne   Sereine,0,1
+Beauvais   Valérie,Morenas   Adrien,1,1
+Beauvais   Valérie,Fiévet   Jean-Marie,1,1
+Magnier   Lise,Orphelin   Matthieu,1,1
+Magnier   Lise,Fiat   Caroline,1,1
+Magnier   Lise,Le Peih   Nicole,0,1
+Magnier   Lise,Trisse   Nicole,0,1
+Magnier   Lise,Parmentier-Lecocq   Charlotte,0,1
+Magnier   Lise,Cattelot   Anne-Laure,0,1
+Magnier   Lise,Bruneel   Alain,1,1
+Magnier   Lise,Rauch   Isabelle,0,1
+Magnier   Lise,Potterie   Benoit,0,1
+Magnier   Lise,Minot   Maxime,0,1
+Magnier   Lise,Michels   Thierry,0,1
+Magnier   Lise,Sempastous   Jean-Bernard,0,1
+Magnier   Lise,Descrozaille   Frédéric,0,1
+Magnier   Lise,Gaillot   Albane,0,1
+Magnier   Lise,Ramadier   Alain,1,1
+Magnier   Lise,Lenne   Marion,0,1
+Magnier   Lise,Peyron   Michèle,0,1
+Magnier   Lise,Mauborgne   Sereine,1,1
+Magnier   Lise,Morenas   Adrien,0,1
+Magnier   Lise,Fiévet   Jean-Marie,0,1
+Orphelin   Matthieu,Fiat   Caroline,1,1
+Orphelin   Matthieu,Le Peih   Nicole,0,1
+Orphelin   Matthieu,Trisse   Nicole,0,1
+Orphelin   Matthieu,Parmentier-Lecocq   Charlotte,0,1
+Orphelin   Matthieu,Cattelot   Anne-Laure,0,1
+Orphelin   Matthieu,Bruneel   Alain,1,1
+Orphelin   Matthieu,Rauch   Isabelle,0,1
+Orphelin   Matthieu,Potterie   Benoit,0,1
+Orphelin   Matthieu,Minot   Maxime,0,1
+Orphelin   Matthieu,Michels   Thierry,0,1
+Orphelin   Matthieu,Sempastous   Jean-Bernard,0,1
+Orphelin   Matthieu,Descrozaille   Frédéric,0,1
+Orphelin   Matthieu,Gaillot   Albane,0,1
+Orphelin   Matthieu,Ramadier   Alain,1,1
+Orphelin   Matthieu,Lenne   Marion,0,1
+Orphelin   Matthieu,Peyron   Michèle,0,1
+Orphelin   Matthieu,Mauborgne   Sereine,1,1
+Orphelin   Matthieu,Morenas   Adrien,0,1
+Orphelin   Matthieu,Fiévet   Jean-Marie,0,1
+Fiat   Caroline,Le Peih   Nicole,0,1
+Fiat   Caroline,Trisse   Nicole,0,1
+Fiat   Caroline,Parmentier-Lecocq   Charlotte,0,1
+Fiat   Caroline,Cattelot   Anne-Laure,0,1
+Fiat   Caroline,Bruneel   Alain,1,1
+Fiat   Caroline,Rauch   Isabelle,0,1
+Fiat   Caroline,Potterie   Benoit,0,1
+Fiat   Caroline,Minot   Maxime,0,1
+Fiat   Caroline,Michels   Thierry,0,1
+Fiat   Caroline,Sempastous   Jean-Bernard,0,1
+Fiat   Caroline,Descrozaille   Frédéric,0,1
+Fiat   Caroline,Gaillot   Albane,0,1
+Fiat   Caroline,Ramadier   Alain,1,1
+Fiat   Caroline,Lenne   Marion,0,1
+Fiat   Caroline,Peyron   Michèle,0,1
+Fiat   Caroline,Mauborgne   Sereine,1,1
+Fiat   Caroline,Morenas   Adrien,0,1
+Fiat   Caroline,Fiévet   Jean-Marie,0,1
+Le Peih   Nicole,Trisse   Nicole,1,1
+Le Peih   Nicole,Parmentier-Lecocq   Charlotte,1,1
+Le Peih   Nicole,Cattelot   Anne-Laure,1,1
+Le Peih   Nicole,Bruneel   Alain,0,1
+Le Peih   Nicole,Rauch   Isabelle,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Minot   Maxime,0,1
+Le Peih   Nicole,Michels   Thierry,1,1
+Le Peih   Nicole,Sempastous   Jean-Bernard,1,1
+Le Peih   Nicole,Descrozaille   Frédéric,1,1
+Le Peih   Nicole,Gaillot   Albane,1,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Lenne   Marion,1,1
+Le Peih   Nicole,Peyron   Michèle,1,1
+Le Peih   Nicole,Mauborgne   Sereine,0,1
+Le Peih   Nicole,Morenas   Adrien,1,1
+Le Peih   Nicole,Fiévet   Jean-Marie,1,1
+Trisse   Nicole,Parmentier-Lecocq   Charlotte,1,1
+Trisse   Nicole,Cattelot   Anne-Laure,1,1
+Trisse   Nicole,Bruneel   Alain,0,1
+Trisse   Nicole,Rauch   Isabelle,1,1
+Trisse   Nicole,Potterie   Benoit,1,1
+Trisse   Nicole,Minot   Maxime,0,1
+Trisse   Nicole,Michels   Thierry,1,1
+Trisse   Nicole,Sempastous   Jean-Bernard,1,1
+Trisse   Nicole,Descrozaille   Frédéric,1,1
+Trisse   Nicole,Gaillot   Albane,1,1
+Trisse   Nicole,Ramadier   Alain,0,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Peyron   Michèle,1,1
+Trisse   Nicole,Mauborgne   Sereine,0,1
+Trisse   Nicole,Morenas   Adrien,1,1
+Trisse   Nicole,Fiévet   Jean-Marie,1,1
+Parmentier-Lecocq   Charlotte,Cattelot   Anne-Laure,1,1
+Parmentier-Lecocq   Charlotte,Bruneel   Alain,0,1
+Parmentier-Lecocq   Charlotte,Rauch   Isabelle,1,1
+Parmentier-Lecocq   Charlotte,Potterie   Benoit,1,1
+Parmentier-Lecocq   Charlotte,Minot   Maxime,0,1
+Parmentier-Lecocq   Charlotte,Michels   Thierry,1,1
+Parmentier-Lecocq   Charlotte,Sempastous   Jean-Bernard,1,1
+Parmentier-Lecocq   Charlotte,Descrozaille   Frédéric,1,1
+Parmentier-Lecocq   Charlotte,Gaillot   Albane,1,1
+Parmentier-Lecocq   Charlotte,Ramadier   Alain,0,1
+Parmentier-Lecocq   Charlotte,Lenne   Marion,1,1
+Parmentier-Lecocq   Charlotte,Peyron   Michèle,1,1
+Parmentier-Lecocq   Charlotte,Mauborgne   Sereine,0,1
+Parmentier-Lecocq   Charlotte,Morenas   Adrien,1,1
+Parmentier-Lecocq   Charlotte,Fiévet   Jean-Marie,1,1
+Cattelot   Anne-Laure,Bruneel   Alain,0,1
+Cattelot   Anne-Laure,Rauch   Isabelle,1,1
+Cattelot   Anne-Laure,Potterie   Benoit,1,1
+Cattelot   Anne-Laure,Minot   Maxime,0,1
+Cattelot   Anne-Laure,Michels   Thierry,1,1
+Cattelot   Anne-Laure,Sempastous   Jean-Bernard,1,1
+Cattelot   Anne-Laure,Descrozaille   Frédéric,1,1
+Cattelot   Anne-Laure,Gaillot   Albane,1,1
+Cattelot   Anne-Laure,Ramadier   Alain,0,1
+Cattelot   Anne-Laure,Lenne   Marion,1,1
+Cattelot   Anne-Laure,Peyron   Michèle,1,1
+Cattelot   Anne-Laure,Mauborgne   Sereine,0,1
+Cattelot   Anne-Laure,Morenas   Adrien,1,1
+Cattelot   Anne-Laure,Fiévet   Jean-Marie,1,1
+Bruneel   Alain,Rauch   Isabelle,0,1
+Bruneel   Alain,Potterie   Benoit,0,1
+Bruneel   Alain,Minot   Maxime,0,1
+Bruneel   Alain,Michels   Thierry,0,1
+Bruneel   Alain,Sempastous   Jean-Bernard,0,1
+Bruneel   Alain,Descrozaille   Frédéric,0,1
+Bruneel   Alain,Gaillot   Albane,0,1
+Bruneel   Alain,Ramadier   Alain,1,1
+Bruneel   Alain,Lenne   Marion,0,1
+Bruneel   Alain,Peyron   Michèle,0,1
+Bruneel   Alain,Mauborgne   Sereine,1,1
+Bruneel   Alain,Morenas   Adrien,0,1
+Bruneel   Alain,Fiévet   Jean-Marie,0,1
+Rauch   Isabelle,Potterie   Benoit,1,1
+Rauch   Isabelle,Minot   Maxime,0,1
+Rauch   Isabelle,Michels   Thierry,1,1
+Rauch   Isabelle,Sempastous   Jean-Bernard,1,1
+Rauch   Isabelle,Descrozaille   Frédéric,1,1
+Rauch   Isabelle,Gaillot   Albane,1,1
+Rauch   Isabelle,Ramadier   Alain,0,1
+Rauch   Isabelle,Lenne   Marion,1,1
+Rauch   Isabelle,Peyron   Michèle,1,1
+Rauch   Isabelle,Mauborgne   Sereine,0,1
+Rauch   Isabelle,Morenas   Adrien,1,1
+Rauch   Isabelle,Fiévet   Jean-Marie,1,1
+Potterie   Benoit,Minot   Maxime,0,1
+Potterie   Benoit,Michels   Thierry,1,1
+Potterie   Benoit,Sempastous   Jean-Bernard,1,1
+Potterie   Benoit,Descrozaille   Frédéric,1,1
+Potterie   Benoit,Gaillot   Albane,1,1
+Potterie   Benoit,Ramadier   Alain,0,1
+Potterie   Benoit,Lenne   Marion,1,1
+Potterie   Benoit,Peyron   Michèle,1,1
+Potterie   Benoit,Mauborgne   Sereine,0,1
+Potterie   Benoit,Morenas   Adrien,1,1
+Potterie   Benoit,Fiévet   Jean-Marie,1,1
+Minot   Maxime,Michels   Thierry,0,1
+Minot   Maxime,Sempastous   Jean-Bernard,0,1
+Minot   Maxime,Descrozaille   Frédéric,0,1
+Minot   Maxime,Gaillot   Albane,0,1
+Minot   Maxime,Ramadier   Alain,0,1
+Minot   Maxime,Lenne   Marion,0,1
+Minot   Maxime,Peyron   Michèle,0,1
+Minot   Maxime,Mauborgne   Sereine,0,1
+Minot   Maxime,Morenas   Adrien,0,1
+Minot   Maxime,Fiévet   Jean-Marie,0,1
+Michels   Thierry,Sempastous   Jean-Bernard,1,1
+Michels   Thierry,Descrozaille   Frédéric,1,1
+Michels   Thierry,Gaillot   Albane,1,1
+Michels   Thierry,Ramadier   Alain,0,1
+Michels   Thierry,Lenne   Marion,1,1
+Michels   Thierry,Peyron   Michèle,1,1
+Michels   Thierry,Mauborgne   Sereine,0,1
+Michels   Thierry,Morenas   Adrien,1,1
+Michels   Thierry,Fiévet   Jean-Marie,1,1
+Sempastous   Jean-Bernard,Descrozaille   Frédéric,1,1
+Sempastous   Jean-Bernard,Gaillot   Albane,1,1
+Sempastous   Jean-Bernard,Ramadier   Alain,0,1
+Sempastous   Jean-Bernard,Lenne   Marion,1,1
+Sempastous   Jean-Bernard,Peyron   Michèle,1,1
+Sempastous   Jean-Bernard,Mauborgne   Sereine,0,1
+Sempastous   Jean-Bernard,Morenas   Adrien,1,1
+Sempastous   Jean-Bernard,Fiévet   Jean-Marie,1,1
+Descrozaille   Frédéric,Gaillot   Albane,1,1
+Descrozaille   Frédéric,Ramadier   Alain,0,1
+Descrozaille   Frédéric,Lenne   Marion,1,1
+Descrozaille   Frédéric,Peyron   Michèle,1,1
+Descrozaille   Frédéric,Mauborgne   Sereine,0,1
+Descrozaille   Frédéric,Morenas   Adrien,1,1
+Descrozaille   Frédéric,Fiévet   Jean-Marie,1,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Lenne   Marion,1,1
+Gaillot   Albane,Peyron   Michèle,1,1
+Gaillot   Albane,Mauborgne   Sereine,0,1
+Gaillot   Albane,Morenas   Adrien,1,1
+Gaillot   Albane,Fiévet   Jean-Marie,1,1
+Ramadier   Alain,Lenne   Marion,0,1
+Ramadier   Alain,Peyron   Michèle,0,1
+Ramadier   Alain,Mauborgne   Sereine,1,1
+Ramadier   Alain,Morenas   Adrien,0,1
+Ramadier   Alain,Fiévet   Jean-Marie,0,1
+Lenne   Marion,Peyron   Michèle,1,1
+Lenne   Marion,Mauborgne   Sereine,0,1
+Lenne   Marion,Morenas   Adrien,1,1
+Lenne   Marion,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Mauborgne   Sereine,0,1
+Peyron   Michèle,Morenas   Adrien,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Mauborgne   Sereine,Morenas   Adrien,0,1
+Mauborgne   Sereine,Fiévet   Jean-Marie,0,1
+Morenas   Adrien,Fiévet   Jean-Marie,1,1

@@ -1,0 +1,379 @@
+from,to,vote_commun,loi_commun
+Pancher   Bertrand,Zulesi   Jean-Marc,1,1
+Pancher   Bertrand,Laqhila   Mohamed,1,1
+Pancher   Bertrand,Marsaud   Sandra,1,1
+Pancher   Bertrand,de Courson   Yolaine,1,1
+Pancher   Bertrand,Kasbarian   Guillaume,1,1
+Pancher   Bertrand,Couillard   Bérangère,1,1
+Pancher   Bertrand,Panonacle   Sophie,1,1
+Pancher   Bertrand,Colas-Roy   Jean-Charles,1,1
+Pancher   Bertrand,Labaronne   Daniel,1,1
+Pancher   Bertrand,Girardin   Éric,1,1
+Pancher   Bertrand,Park   Zivka,1,1
+Pancher   Bertrand,Forteza   Paula,1,1
+Pancher   Bertrand,Charrière   Sylvie,1,1
+Pancher   Bertrand,Gouffier-Cha   Guillaume,1,1
+Pancher   Bertrand,Pichereau   Damien,1,1
+Pancher   Bertrand,Riotton   Véronique,1,1
+Pancher   Bertrand,Lenne   Marion,1,1
+Pancher   Bertrand,Luquet   Aude,1,1
+Pancher   Bertrand,Rossi   Laurianne,1,1
+Pancher   Bertrand,Michel-Kleisbauer   Philippe,1,1
+Pancher   Bertrand,Pouzyreff   Natalia,1,1
+Pancher   Bertrand,Millienne   Bruno,1,1
+Pancher   Bertrand,Buchou   Stéphane,1,1
+Pancher   Bertrand,Romeiro Dias   Laëtitia,1,1
+Pancher   Bertrand,Provendier   Florence,1,1
+Pancher   Bertrand,Fuchs   Bruno,1,1
+Pancher   Bertrand,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,Laqhila   Mohamed,1,1
+Zulesi   Jean-Marc,Marsaud   Sandra,1,1
+Zulesi   Jean-Marc,de Courson   Yolaine,1,1
+Zulesi   Jean-Marc,Kasbarian   Guillaume,1,1
+Zulesi   Jean-Marc,Couillard   Bérangère,1,1
+Zulesi   Jean-Marc,Panonacle   Sophie,1,1
+Zulesi   Jean-Marc,Colas-Roy   Jean-Charles,1,1
+Zulesi   Jean-Marc,Labaronne   Daniel,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,Park   Zivka,1,1
+Zulesi   Jean-Marc,Forteza   Paula,1,1
+Zulesi   Jean-Marc,Charrière   Sylvie,1,1
+Zulesi   Jean-Marc,Gouffier-Cha   Guillaume,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Riotton   Véronique,1,1
+Zulesi   Jean-Marc,Lenne   Marion,1,1
+Zulesi   Jean-Marc,Luquet   Aude,1,1
+Zulesi   Jean-Marc,Rossi   Laurianne,1,1
+Zulesi   Jean-Marc,Michel-Kleisbauer   Philippe,1,1
+Zulesi   Jean-Marc,Pouzyreff   Natalia,1,1
+Zulesi   Jean-Marc,Millienne   Bruno,1,1
+Zulesi   Jean-Marc,Buchou   Stéphane,1,1
+Zulesi   Jean-Marc,Romeiro Dias   Laëtitia,1,1
+Zulesi   Jean-Marc,Provendier   Florence,1,1
+Zulesi   Jean-Marc,Fuchs   Bruno,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+Laqhila   Mohamed,Marsaud   Sandra,1,1
+Laqhila   Mohamed,de Courson   Yolaine,1,1
+Laqhila   Mohamed,Kasbarian   Guillaume,1,1
+Laqhila   Mohamed,Couillard   Bérangère,1,1
+Laqhila   Mohamed,Panonacle   Sophie,1,1
+Laqhila   Mohamed,Colas-Roy   Jean-Charles,1,1
+Laqhila   Mohamed,Labaronne   Daniel,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Park   Zivka,1,1
+Laqhila   Mohamed,Forteza   Paula,1,1
+Laqhila   Mohamed,Charrière   Sylvie,1,1
+Laqhila   Mohamed,Gouffier-Cha   Guillaume,1,1
+Laqhila   Mohamed,Pichereau   Damien,1,1
+Laqhila   Mohamed,Riotton   Véronique,1,1
+Laqhila   Mohamed,Lenne   Marion,1,1
+Laqhila   Mohamed,Luquet   Aude,1,1
+Laqhila   Mohamed,Rossi   Laurianne,1,1
+Laqhila   Mohamed,Michel-Kleisbauer   Philippe,1,1
+Laqhila   Mohamed,Pouzyreff   Natalia,1,1
+Laqhila   Mohamed,Millienne   Bruno,1,1
+Laqhila   Mohamed,Buchou   Stéphane,1,1
+Laqhila   Mohamed,Romeiro Dias   Laëtitia,1,1
+Laqhila   Mohamed,Provendier   Florence,1,1
+Laqhila   Mohamed,Fuchs   Bruno,1,1
+Laqhila   Mohamed,Fugit   Jean-Luc,1,1
+Marsaud   Sandra,de Courson   Yolaine,1,1
+Marsaud   Sandra,Kasbarian   Guillaume,1,1
+Marsaud   Sandra,Couillard   Bérangère,1,1
+Marsaud   Sandra,Panonacle   Sophie,1,1
+Marsaud   Sandra,Colas-Roy   Jean-Charles,1,1
+Marsaud   Sandra,Labaronne   Daniel,1,1
+Marsaud   Sandra,Girardin   Éric,1,1
+Marsaud   Sandra,Park   Zivka,1,1
+Marsaud   Sandra,Forteza   Paula,1,1
+Marsaud   Sandra,Charrière   Sylvie,1,1
+Marsaud   Sandra,Gouffier-Cha   Guillaume,1,1
+Marsaud   Sandra,Pichereau   Damien,1,1
+Marsaud   Sandra,Riotton   Véronique,1,1
+Marsaud   Sandra,Lenne   Marion,1,1
+Marsaud   Sandra,Luquet   Aude,1,1
+Marsaud   Sandra,Rossi   Laurianne,1,1
+Marsaud   Sandra,Michel-Kleisbauer   Philippe,1,1
+Marsaud   Sandra,Pouzyreff   Natalia,1,1
+Marsaud   Sandra,Millienne   Bruno,1,1
+Marsaud   Sandra,Buchou   Stéphane,1,1
+Marsaud   Sandra,Romeiro Dias   Laëtitia,1,1
+Marsaud   Sandra,Provendier   Florence,1,1
+Marsaud   Sandra,Fuchs   Bruno,1,1
+Marsaud   Sandra,Fugit   Jean-Luc,1,1
+de Courson   Yolaine,Kasbarian   Guillaume,1,1
+de Courson   Yolaine,Couillard   Bérangère,1,1
+de Courson   Yolaine,Panonacle   Sophie,1,1
+de Courson   Yolaine,Colas-Roy   Jean-Charles,1,1
+de Courson   Yolaine,Labaronne   Daniel,1,1
+de Courson   Yolaine,Girardin   Éric,1,1
+de Courson   Yolaine,Park   Zivka,1,1
+de Courson   Yolaine,Forteza   Paula,1,1
+de Courson   Yolaine,Charrière   Sylvie,1,1
+de Courson   Yolaine,Gouffier-Cha   Guillaume,1,1
+de Courson   Yolaine,Pichereau   Damien,1,1
+de Courson   Yolaine,Riotton   Véronique,1,1
+de Courson   Yolaine,Lenne   Marion,1,1
+de Courson   Yolaine,Luquet   Aude,1,1
+de Courson   Yolaine,Rossi   Laurianne,1,1
+de Courson   Yolaine,Michel-Kleisbauer   Philippe,1,1
+de Courson   Yolaine,Pouzyreff   Natalia,1,1
+de Courson   Yolaine,Millienne   Bruno,1,1
+de Courson   Yolaine,Buchou   Stéphane,1,1
+de Courson   Yolaine,Romeiro Dias   Laëtitia,1,1
+de Courson   Yolaine,Provendier   Florence,1,1
+de Courson   Yolaine,Fuchs   Bruno,1,1
+de Courson   Yolaine,Fugit   Jean-Luc,1,1
+Kasbarian   Guillaume,Couillard   Bérangère,1,1
+Kasbarian   Guillaume,Panonacle   Sophie,1,1
+Kasbarian   Guillaume,Colas-Roy   Jean-Charles,1,1
+Kasbarian   Guillaume,Labaronne   Daniel,1,1
+Kasbarian   Guillaume,Girardin   Éric,1,1
+Kasbarian   Guillaume,Park   Zivka,1,1
+Kasbarian   Guillaume,Forteza   Paula,1,1
+Kasbarian   Guillaume,Charrière   Sylvie,1,1
+Kasbarian   Guillaume,Gouffier-Cha   Guillaume,1,1
+Kasbarian   Guillaume,Pichereau   Damien,1,1
+Kasbarian   Guillaume,Riotton   Véronique,1,1
+Kasbarian   Guillaume,Lenne   Marion,1,1
+Kasbarian   Guillaume,Luquet   Aude,1,1
+Kasbarian   Guillaume,Rossi   Laurianne,1,1
+Kasbarian   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Kasbarian   Guillaume,Pouzyreff   Natalia,1,1
+Kasbarian   Guillaume,Millienne   Bruno,1,1
+Kasbarian   Guillaume,Buchou   Stéphane,1,1
+Kasbarian   Guillaume,Romeiro Dias   Laëtitia,1,1
+Kasbarian   Guillaume,Provendier   Florence,1,1
+Kasbarian   Guillaume,Fuchs   Bruno,1,1
+Kasbarian   Guillaume,Fugit   Jean-Luc,1,1
+Couillard   Bérangère,Panonacle   Sophie,1,1
+Couillard   Bérangère,Colas-Roy   Jean-Charles,1,1
+Couillard   Bérangère,Labaronne   Daniel,1,1
+Couillard   Bérangère,Girardin   Éric,1,1
+Couillard   Bérangère,Park   Zivka,1,1
+Couillard   Bérangère,Forteza   Paula,1,1
+Couillard   Bérangère,Charrière   Sylvie,1,1
+Couillard   Bérangère,Gouffier-Cha   Guillaume,1,1
+Couillard   Bérangère,Pichereau   Damien,1,1
+Couillard   Bérangère,Riotton   Véronique,1,1
+Couillard   Bérangère,Lenne   Marion,1,1
+Couillard   Bérangère,Luquet   Aude,1,1
+Couillard   Bérangère,Rossi   Laurianne,1,1
+Couillard   Bérangère,Michel-Kleisbauer   Philippe,1,1
+Couillard   Bérangère,Pouzyreff   Natalia,1,1
+Couillard   Bérangère,Millienne   Bruno,1,1
+Couillard   Bérangère,Buchou   Stéphane,1,1
+Couillard   Bérangère,Romeiro Dias   Laëtitia,1,1
+Couillard   Bérangère,Provendier   Florence,1,1
+Couillard   Bérangère,Fuchs   Bruno,1,1
+Couillard   Bérangère,Fugit   Jean-Luc,1,1
+Panonacle   Sophie,Colas-Roy   Jean-Charles,1,1
+Panonacle   Sophie,Labaronne   Daniel,1,1
+Panonacle   Sophie,Girardin   Éric,1,1
+Panonacle   Sophie,Park   Zivka,1,1
+Panonacle   Sophie,Forteza   Paula,1,1
+Panonacle   Sophie,Charrière   Sylvie,1,1
+Panonacle   Sophie,Gouffier-Cha   Guillaume,1,1
+Panonacle   Sophie,Pichereau   Damien,1,1
+Panonacle   Sophie,Riotton   Véronique,1,1
+Panonacle   Sophie,Lenne   Marion,1,1
+Panonacle   Sophie,Luquet   Aude,1,1
+Panonacle   Sophie,Rossi   Laurianne,1,1
+Panonacle   Sophie,Michel-Kleisbauer   Philippe,1,1
+Panonacle   Sophie,Pouzyreff   Natalia,1,1
+Panonacle   Sophie,Millienne   Bruno,1,1
+Panonacle   Sophie,Buchou   Stéphane,1,1
+Panonacle   Sophie,Romeiro Dias   Laëtitia,1,1
+Panonacle   Sophie,Provendier   Florence,1,1
+Panonacle   Sophie,Fuchs   Bruno,1,1
+Panonacle   Sophie,Fugit   Jean-Luc,1,1
+Colas-Roy   Jean-Charles,Labaronne   Daniel,1,1
+Colas-Roy   Jean-Charles,Girardin   Éric,1,1
+Colas-Roy   Jean-Charles,Park   Zivka,1,1
+Colas-Roy   Jean-Charles,Forteza   Paula,1,1
+Colas-Roy   Jean-Charles,Charrière   Sylvie,1,1
+Colas-Roy   Jean-Charles,Gouffier-Cha   Guillaume,1,1
+Colas-Roy   Jean-Charles,Pichereau   Damien,1,1
+Colas-Roy   Jean-Charles,Riotton   Véronique,1,1
+Colas-Roy   Jean-Charles,Lenne   Marion,1,1
+Colas-Roy   Jean-Charles,Luquet   Aude,1,1
+Colas-Roy   Jean-Charles,Rossi   Laurianne,1,1
+Colas-Roy   Jean-Charles,Michel-Kleisbauer   Philippe,1,1
+Colas-Roy   Jean-Charles,Pouzyreff   Natalia,1,1
+Colas-Roy   Jean-Charles,Millienne   Bruno,1,1
+Colas-Roy   Jean-Charles,Buchou   Stéphane,1,1
+Colas-Roy   Jean-Charles,Romeiro Dias   Laëtitia,1,1
+Colas-Roy   Jean-Charles,Provendier   Florence,1,1
+Colas-Roy   Jean-Charles,Fuchs   Bruno,1,1
+Colas-Roy   Jean-Charles,Fugit   Jean-Luc,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Park   Zivka,1,1
+Labaronne   Daniel,Forteza   Paula,1,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Gouffier-Cha   Guillaume,1,1
+Labaronne   Daniel,Pichereau   Damien,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Luquet   Aude,1,1
+Labaronne   Daniel,Rossi   Laurianne,1,1
+Labaronne   Daniel,Michel-Kleisbauer   Philippe,1,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,Millienne   Bruno,1,1
+Labaronne   Daniel,Buchou   Stéphane,1,1
+Labaronne   Daniel,Romeiro Dias   Laëtitia,1,1
+Labaronne   Daniel,Provendier   Florence,1,1
+Labaronne   Daniel,Fuchs   Bruno,1,1
+Labaronne   Daniel,Fugit   Jean-Luc,1,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Forteza   Paula,1,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Gouffier-Cha   Guillaume,1,1
+Girardin   Éric,Pichereau   Damien,1,1
+Girardin   Éric,Riotton   Véronique,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Luquet   Aude,1,1
+Girardin   Éric,Rossi   Laurianne,1,1
+Girardin   Éric,Michel-Kleisbauer   Philippe,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Buchou   Stéphane,1,1
+Girardin   Éric,Romeiro Dias   Laëtitia,1,1
+Girardin   Éric,Provendier   Florence,1,1
+Girardin   Éric,Fuchs   Bruno,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Park   Zivka,Forteza   Paula,1,1
+Park   Zivka,Charrière   Sylvie,1,1
+Park   Zivka,Gouffier-Cha   Guillaume,1,1
+Park   Zivka,Pichereau   Damien,1,1
+Park   Zivka,Riotton   Véronique,1,1
+Park   Zivka,Lenne   Marion,1,1
+Park   Zivka,Luquet   Aude,1,1
+Park   Zivka,Rossi   Laurianne,1,1
+Park   Zivka,Michel-Kleisbauer   Philippe,1,1
+Park   Zivka,Pouzyreff   Natalia,1,1
+Park   Zivka,Millienne   Bruno,1,1
+Park   Zivka,Buchou   Stéphane,1,1
+Park   Zivka,Romeiro Dias   Laëtitia,1,1
+Park   Zivka,Provendier   Florence,1,1
+Park   Zivka,Fuchs   Bruno,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Forteza   Paula,Charrière   Sylvie,1,1
+Forteza   Paula,Gouffier-Cha   Guillaume,1,1
+Forteza   Paula,Pichereau   Damien,1,1
+Forteza   Paula,Riotton   Véronique,1,1
+Forteza   Paula,Lenne   Marion,1,1
+Forteza   Paula,Luquet   Aude,1,1
+Forteza   Paula,Rossi   Laurianne,1,1
+Forteza   Paula,Michel-Kleisbauer   Philippe,1,1
+Forteza   Paula,Pouzyreff   Natalia,1,1
+Forteza   Paula,Millienne   Bruno,1,1
+Forteza   Paula,Buchou   Stéphane,1,1
+Forteza   Paula,Romeiro Dias   Laëtitia,1,1
+Forteza   Paula,Provendier   Florence,1,1
+Forteza   Paula,Fuchs   Bruno,1,1
+Forteza   Paula,Fugit   Jean-Luc,1,1
+Charrière   Sylvie,Gouffier-Cha   Guillaume,1,1
+Charrière   Sylvie,Pichereau   Damien,1,1
+Charrière   Sylvie,Riotton   Véronique,1,1
+Charrière   Sylvie,Lenne   Marion,1,1
+Charrière   Sylvie,Luquet   Aude,1,1
+Charrière   Sylvie,Rossi   Laurianne,1,1
+Charrière   Sylvie,Michel-Kleisbauer   Philippe,1,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,Millienne   Bruno,1,1
+Charrière   Sylvie,Buchou   Stéphane,1,1
+Charrière   Sylvie,Romeiro Dias   Laëtitia,1,1
+Charrière   Sylvie,Provendier   Florence,1,1
+Charrière   Sylvie,Fuchs   Bruno,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Gouffier-Cha   Guillaume,Pichereau   Damien,1,1
+Gouffier-Cha   Guillaume,Riotton   Véronique,1,1
+Gouffier-Cha   Guillaume,Lenne   Marion,1,1
+Gouffier-Cha   Guillaume,Luquet   Aude,1,1
+Gouffier-Cha   Guillaume,Rossi   Laurianne,1,1
+Gouffier-Cha   Guillaume,Michel-Kleisbauer   Philippe,1,1
+Gouffier-Cha   Guillaume,Pouzyreff   Natalia,1,1
+Gouffier-Cha   Guillaume,Millienne   Bruno,1,1
+Gouffier-Cha   Guillaume,Buchou   Stéphane,1,1
+Gouffier-Cha   Guillaume,Romeiro Dias   Laëtitia,1,1
+Gouffier-Cha   Guillaume,Provendier   Florence,1,1
+Gouffier-Cha   Guillaume,Fuchs   Bruno,1,1
+Gouffier-Cha   Guillaume,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Riotton   Véronique,1,1
+Pichereau   Damien,Lenne   Marion,1,1
+Pichereau   Damien,Luquet   Aude,1,1
+Pichereau   Damien,Rossi   Laurianne,1,1
+Pichereau   Damien,Michel-Kleisbauer   Philippe,1,1
+Pichereau   Damien,Pouzyreff   Natalia,1,1
+Pichereau   Damien,Millienne   Bruno,1,1
+Pichereau   Damien,Buchou   Stéphane,1,1
+Pichereau   Damien,Romeiro Dias   Laëtitia,1,1
+Pichereau   Damien,Provendier   Florence,1,1
+Pichereau   Damien,Fuchs   Bruno,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Riotton   Véronique,Lenne   Marion,1,1
+Riotton   Véronique,Luquet   Aude,1,1
+Riotton   Véronique,Rossi   Laurianne,1,1
+Riotton   Véronique,Michel-Kleisbauer   Philippe,1,1
+Riotton   Véronique,Pouzyreff   Natalia,1,1
+Riotton   Véronique,Millienne   Bruno,1,1
+Riotton   Véronique,Buchou   Stéphane,1,1
+Riotton   Véronique,Romeiro Dias   Laëtitia,1,1
+Riotton   Véronique,Provendier   Florence,1,1
+Riotton   Véronique,Fuchs   Bruno,1,1
+Riotton   Véronique,Fugit   Jean-Luc,1,1
+Lenne   Marion,Luquet   Aude,1,1
+Lenne   Marion,Rossi   Laurianne,1,1
+Lenne   Marion,Michel-Kleisbauer   Philippe,1,1
+Lenne   Marion,Pouzyreff   Natalia,1,1
+Lenne   Marion,Millienne   Bruno,1,1
+Lenne   Marion,Buchou   Stéphane,1,1
+Lenne   Marion,Romeiro Dias   Laëtitia,1,1
+Lenne   Marion,Provendier   Florence,1,1
+Lenne   Marion,Fuchs   Bruno,1,1
+Lenne   Marion,Fugit   Jean-Luc,1,1
+Luquet   Aude,Rossi   Laurianne,1,1
+Luquet   Aude,Michel-Kleisbauer   Philippe,1,1
+Luquet   Aude,Pouzyreff   Natalia,1,1
+Luquet   Aude,Millienne   Bruno,1,1
+Luquet   Aude,Buchou   Stéphane,1,1
+Luquet   Aude,Romeiro Dias   Laëtitia,1,1
+Luquet   Aude,Provendier   Florence,1,1
+Luquet   Aude,Fuchs   Bruno,1,1
+Luquet   Aude,Fugit   Jean-Luc,1,1
+Rossi   Laurianne,Michel-Kleisbauer   Philippe,1,1
+Rossi   Laurianne,Pouzyreff   Natalia,1,1
+Rossi   Laurianne,Millienne   Bruno,1,1
+Rossi   Laurianne,Buchou   Stéphane,1,1
+Rossi   Laurianne,Romeiro Dias   Laëtitia,1,1
+Rossi   Laurianne,Provendier   Florence,1,1
+Rossi   Laurianne,Fuchs   Bruno,1,1
+Rossi   Laurianne,Fugit   Jean-Luc,1,1
+Michel-Kleisbauer   Philippe,Pouzyreff   Natalia,1,1
+Michel-Kleisbauer   Philippe,Millienne   Bruno,1,1
+Michel-Kleisbauer   Philippe,Buchou   Stéphane,1,1
+Michel-Kleisbauer   Philippe,Romeiro Dias   Laëtitia,1,1
+Michel-Kleisbauer   Philippe,Provendier   Florence,1,1
+Michel-Kleisbauer   Philippe,Fuchs   Bruno,1,1
+Michel-Kleisbauer   Philippe,Fugit   Jean-Luc,1,1
+Pouzyreff   Natalia,Millienne   Bruno,1,1
+Pouzyreff   Natalia,Buchou   Stéphane,1,1
+Pouzyreff   Natalia,Romeiro Dias   Laëtitia,1,1
+Pouzyreff   Natalia,Provendier   Florence,1,1
+Pouzyreff   Natalia,Fuchs   Bruno,1,1
+Pouzyreff   Natalia,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Buchou   Stéphane,1,1
+Millienne   Bruno,Romeiro Dias   Laëtitia,1,1
+Millienne   Bruno,Provendier   Florence,1,1
+Millienne   Bruno,Fuchs   Bruno,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Buchou   Stéphane,Romeiro Dias   Laëtitia,1,1
+Buchou   Stéphane,Provendier   Florence,1,1
+Buchou   Stéphane,Fuchs   Bruno,1,1
+Buchou   Stéphane,Fugit   Jean-Luc,1,1
+Romeiro Dias   Laëtitia,Provendier   Florence,1,1
+Romeiro Dias   Laëtitia,Fuchs   Bruno,1,1
+Romeiro Dias   Laëtitia,Fugit   Jean-Luc,1,1
+Provendier   Florence,Fuchs   Bruno,1,1
+Provendier   Florence,Fugit   Jean-Luc,1,1
+Fuchs   Bruno,Fugit   Jean-Luc,1,1

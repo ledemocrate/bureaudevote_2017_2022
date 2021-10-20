@@ -1,0 +1,301 @@
+from,to,vote_commun,loi_commun
+Untermaier   Cécile,Mazars   Stéphane,1,1
+Untermaier   Cécile,Paris   Didier,1,1
+Untermaier   Cécile,Melchior   Graziella,1,1
+Untermaier   Cécile,Balanant   Erwan,1,1
+Untermaier   Cécile,Poulliat   Éric,1,1
+Untermaier   Cécile,Cloarec-Le Nabour   Christine,1,1
+Untermaier   Cécile,Abadie   Caroline,1,1
+Untermaier   Cécile,Dubré-Chirat   Nicole,1,1
+Untermaier   Cécile,Houbron   Dimitri,1,1
+Untermaier   Cécile,Thill   Agnès,1,1
+Untermaier   Cécile,Vichnievsky   Laurence,1,1
+Untermaier   Cécile,Thomas   Valérie,1,1
+Untermaier   Cécile,Moutchou   Naïma,1,1
+Untermaier   Cécile,Sanquer   Nicole,1,1
+Untermaier   Cécile,Le Gendre   Gilles,1,1
+Untermaier   Cécile,Terlier   Jean,1,1
+Untermaier   Cécile,Mauborgne   Sereine,1,1
+Untermaier   Cécile,Guerel   Émilie,1,1
+Untermaier   Cécile,Guévenoux   Marie,1,1
+Untermaier   Cécile,Braun-Pivet   Yaël,1,1
+Untermaier   Cécile,de Vaucouleurs   Michèle,1,1
+Untermaier   Cécile,Beaudouin-Hubiere   Sophie,1,1
+Untermaier   Cécile,Rudigoz   Thomas,1,1
+Untermaier   Cécile,Rebeyrotte   Rémy,1,1
+Mazars   Stéphane,Paris   Didier,1,1
+Mazars   Stéphane,Melchior   Graziella,1,1
+Mazars   Stéphane,Balanant   Erwan,1,1
+Mazars   Stéphane,Poulliat   Éric,1,1
+Mazars   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Mazars   Stéphane,Abadie   Caroline,1,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,1,1
+Mazars   Stéphane,Houbron   Dimitri,1,1
+Mazars   Stéphane,Thill   Agnès,1,1
+Mazars   Stéphane,Vichnievsky   Laurence,1,1
+Mazars   Stéphane,Thomas   Valérie,1,1
+Mazars   Stéphane,Moutchou   Naïma,1,1
+Mazars   Stéphane,Sanquer   Nicole,1,1
+Mazars   Stéphane,Le Gendre   Gilles,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Mauborgne   Sereine,1,1
+Mazars   Stéphane,Guerel   Émilie,1,1
+Mazars   Stéphane,Guévenoux   Marie,1,1
+Mazars   Stéphane,Braun-Pivet   Yaël,1,1
+Mazars   Stéphane,de Vaucouleurs   Michèle,1,1
+Mazars   Stéphane,Beaudouin-Hubiere   Sophie,1,1
+Mazars   Stéphane,Rudigoz   Thomas,1,1
+Mazars   Stéphane,Rebeyrotte   Rémy,1,1
+Paris   Didier,Melchior   Graziella,1,1
+Paris   Didier,Balanant   Erwan,1,1
+Paris   Didier,Poulliat   Éric,1,1
+Paris   Didier,Cloarec-Le Nabour   Christine,1,1
+Paris   Didier,Abadie   Caroline,1,1
+Paris   Didier,Dubré-Chirat   Nicole,1,1
+Paris   Didier,Houbron   Dimitri,1,1
+Paris   Didier,Thill   Agnès,1,1
+Paris   Didier,Vichnievsky   Laurence,1,1
+Paris   Didier,Thomas   Valérie,1,1
+Paris   Didier,Moutchou   Naïma,1,1
+Paris   Didier,Sanquer   Nicole,1,1
+Paris   Didier,Le Gendre   Gilles,1,1
+Paris   Didier,Terlier   Jean,1,1
+Paris   Didier,Mauborgne   Sereine,1,1
+Paris   Didier,Guerel   Émilie,1,1
+Paris   Didier,Guévenoux   Marie,1,1
+Paris   Didier,Braun-Pivet   Yaël,1,1
+Paris   Didier,de Vaucouleurs   Michèle,1,1
+Paris   Didier,Beaudouin-Hubiere   Sophie,1,1
+Paris   Didier,Rudigoz   Thomas,1,1
+Paris   Didier,Rebeyrotte   Rémy,1,1
+Melchior   Graziella,Balanant   Erwan,1,1
+Melchior   Graziella,Poulliat   Éric,1,1
+Melchior   Graziella,Cloarec-Le Nabour   Christine,1,1
+Melchior   Graziella,Abadie   Caroline,1,1
+Melchior   Graziella,Dubré-Chirat   Nicole,1,1
+Melchior   Graziella,Houbron   Dimitri,1,1
+Melchior   Graziella,Thill   Agnès,1,1
+Melchior   Graziella,Vichnievsky   Laurence,1,1
+Melchior   Graziella,Thomas   Valérie,1,1
+Melchior   Graziella,Moutchou   Naïma,1,1
+Melchior   Graziella,Sanquer   Nicole,1,1
+Melchior   Graziella,Le Gendre   Gilles,1,1
+Melchior   Graziella,Terlier   Jean,1,1
+Melchior   Graziella,Mauborgne   Sereine,1,1
+Melchior   Graziella,Guerel   Émilie,1,1
+Melchior   Graziella,Guévenoux   Marie,1,1
+Melchior   Graziella,Braun-Pivet   Yaël,1,1
+Melchior   Graziella,de Vaucouleurs   Michèle,1,1
+Melchior   Graziella,Beaudouin-Hubiere   Sophie,1,1
+Melchior   Graziella,Rudigoz   Thomas,1,1
+Melchior   Graziella,Rebeyrotte   Rémy,1,1
+Balanant   Erwan,Poulliat   Éric,1,1
+Balanant   Erwan,Cloarec-Le Nabour   Christine,1,1
+Balanant   Erwan,Abadie   Caroline,1,1
+Balanant   Erwan,Dubré-Chirat   Nicole,1,1
+Balanant   Erwan,Houbron   Dimitri,1,1
+Balanant   Erwan,Thill   Agnès,1,1
+Balanant   Erwan,Vichnievsky   Laurence,1,1
+Balanant   Erwan,Thomas   Valérie,1,1
+Balanant   Erwan,Moutchou   Naïma,1,1
+Balanant   Erwan,Sanquer   Nicole,1,1
+Balanant   Erwan,Le Gendre   Gilles,1,1
+Balanant   Erwan,Terlier   Jean,1,1
+Balanant   Erwan,Mauborgne   Sereine,1,1
+Balanant   Erwan,Guerel   Émilie,1,1
+Balanant   Erwan,Guévenoux   Marie,1,1
+Balanant   Erwan,Braun-Pivet   Yaël,1,1
+Balanant   Erwan,de Vaucouleurs   Michèle,1,1
+Balanant   Erwan,Beaudouin-Hubiere   Sophie,1,1
+Balanant   Erwan,Rudigoz   Thomas,1,1
+Balanant   Erwan,Rebeyrotte   Rémy,1,1
+Poulliat   Éric,Cloarec-Le Nabour   Christine,1,1
+Poulliat   Éric,Abadie   Caroline,1,1
+Poulliat   Éric,Dubré-Chirat   Nicole,1,1
+Poulliat   Éric,Houbron   Dimitri,1,1
+Poulliat   Éric,Thill   Agnès,1,1
+Poulliat   Éric,Vichnievsky   Laurence,1,1
+Poulliat   Éric,Thomas   Valérie,1,1
+Poulliat   Éric,Moutchou   Naïma,1,1
+Poulliat   Éric,Sanquer   Nicole,1,1
+Poulliat   Éric,Le Gendre   Gilles,1,1
+Poulliat   Éric,Terlier   Jean,1,1
+Poulliat   Éric,Mauborgne   Sereine,1,1
+Poulliat   Éric,Guerel   Émilie,1,1
+Poulliat   Éric,Guévenoux   Marie,1,1
+Poulliat   Éric,Braun-Pivet   Yaël,1,1
+Poulliat   Éric,de Vaucouleurs   Michèle,1,1
+Poulliat   Éric,Beaudouin-Hubiere   Sophie,1,1
+Poulliat   Éric,Rudigoz   Thomas,1,1
+Poulliat   Éric,Rebeyrotte   Rémy,1,1
+Cloarec-Le Nabour   Christine,Abadie   Caroline,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Houbron   Dimitri,1,1
+Cloarec-Le Nabour   Christine,Thill   Agnès,1,1
+Cloarec-Le Nabour   Christine,Vichnievsky   Laurence,1,1
+Cloarec-Le Nabour   Christine,Thomas   Valérie,1,1
+Cloarec-Le Nabour   Christine,Moutchou   Naïma,1,1
+Cloarec-Le Nabour   Christine,Sanquer   Nicole,1,1
+Cloarec-Le Nabour   Christine,Le Gendre   Gilles,1,1
+Cloarec-Le Nabour   Christine,Terlier   Jean,1,1
+Cloarec-Le Nabour   Christine,Mauborgne   Sereine,1,1
+Cloarec-Le Nabour   Christine,Guerel   Émilie,1,1
+Cloarec-Le Nabour   Christine,Guévenoux   Marie,1,1
+Cloarec-Le Nabour   Christine,Braun-Pivet   Yaël,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,1,1
+Cloarec-Le Nabour   Christine,Beaudouin-Hubiere   Sophie,1,1
+Cloarec-Le Nabour   Christine,Rudigoz   Thomas,1,1
+Cloarec-Le Nabour   Christine,Rebeyrotte   Rémy,1,1
+Abadie   Caroline,Dubré-Chirat   Nicole,1,1
+Abadie   Caroline,Houbron   Dimitri,1,1
+Abadie   Caroline,Thill   Agnès,1,1
+Abadie   Caroline,Vichnievsky   Laurence,1,1
+Abadie   Caroline,Thomas   Valérie,1,1
+Abadie   Caroline,Moutchou   Naïma,1,1
+Abadie   Caroline,Sanquer   Nicole,1,1
+Abadie   Caroline,Le Gendre   Gilles,1,1
+Abadie   Caroline,Terlier   Jean,1,1
+Abadie   Caroline,Mauborgne   Sereine,1,1
+Abadie   Caroline,Guerel   Émilie,1,1
+Abadie   Caroline,Guévenoux   Marie,1,1
+Abadie   Caroline,Braun-Pivet   Yaël,1,1
+Abadie   Caroline,de Vaucouleurs   Michèle,1,1
+Abadie   Caroline,Beaudouin-Hubiere   Sophie,1,1
+Abadie   Caroline,Rudigoz   Thomas,1,1
+Abadie   Caroline,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Houbron   Dimitri,1,1
+Dubré-Chirat   Nicole,Thill   Agnès,1,1
+Dubré-Chirat   Nicole,Vichnievsky   Laurence,1,1
+Dubré-Chirat   Nicole,Thomas   Valérie,1,1
+Dubré-Chirat   Nicole,Moutchou   Naïma,1,1
+Dubré-Chirat   Nicole,Sanquer   Nicole,1,1
+Dubré-Chirat   Nicole,Le Gendre   Gilles,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Mauborgne   Sereine,1,1
+Dubré-Chirat   Nicole,Guerel   Émilie,1,1
+Dubré-Chirat   Nicole,Guévenoux   Marie,1,1
+Dubré-Chirat   Nicole,Braun-Pivet   Yaël,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Dubré-Chirat   Nicole,Rudigoz   Thomas,1,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Houbron   Dimitri,Thill   Agnès,1,1
+Houbron   Dimitri,Vichnievsky   Laurence,1,1
+Houbron   Dimitri,Thomas   Valérie,1,1
+Houbron   Dimitri,Moutchou   Naïma,1,1
+Houbron   Dimitri,Sanquer   Nicole,1,1
+Houbron   Dimitri,Le Gendre   Gilles,1,1
+Houbron   Dimitri,Terlier   Jean,1,1
+Houbron   Dimitri,Mauborgne   Sereine,1,1
+Houbron   Dimitri,Guerel   Émilie,1,1
+Houbron   Dimitri,Guévenoux   Marie,1,1
+Houbron   Dimitri,Braun-Pivet   Yaël,1,1
+Houbron   Dimitri,de Vaucouleurs   Michèle,1,1
+Houbron   Dimitri,Beaudouin-Hubiere   Sophie,1,1
+Houbron   Dimitri,Rudigoz   Thomas,1,1
+Houbron   Dimitri,Rebeyrotte   Rémy,1,1
+Thill   Agnès,Vichnievsky   Laurence,1,1
+Thill   Agnès,Thomas   Valérie,1,1
+Thill   Agnès,Moutchou   Naïma,1,1
+Thill   Agnès,Sanquer   Nicole,1,1
+Thill   Agnès,Le Gendre   Gilles,1,1
+Thill   Agnès,Terlier   Jean,1,1
+Thill   Agnès,Mauborgne   Sereine,1,1
+Thill   Agnès,Guerel   Émilie,1,1
+Thill   Agnès,Guévenoux   Marie,1,1
+Thill   Agnès,Braun-Pivet   Yaël,1,1
+Thill   Agnès,de Vaucouleurs   Michèle,1,1
+Thill   Agnès,Beaudouin-Hubiere   Sophie,1,1
+Thill   Agnès,Rudigoz   Thomas,1,1
+Thill   Agnès,Rebeyrotte   Rémy,1,1
+Vichnievsky   Laurence,Thomas   Valérie,1,1
+Vichnievsky   Laurence,Moutchou   Naïma,1,1
+Vichnievsky   Laurence,Sanquer   Nicole,1,1
+Vichnievsky   Laurence,Le Gendre   Gilles,1,1
+Vichnievsky   Laurence,Terlier   Jean,1,1
+Vichnievsky   Laurence,Mauborgne   Sereine,1,1
+Vichnievsky   Laurence,Guerel   Émilie,1,1
+Vichnievsky   Laurence,Guévenoux   Marie,1,1
+Vichnievsky   Laurence,Braun-Pivet   Yaël,1,1
+Vichnievsky   Laurence,de Vaucouleurs   Michèle,1,1
+Vichnievsky   Laurence,Beaudouin-Hubiere   Sophie,1,1
+Vichnievsky   Laurence,Rudigoz   Thomas,1,1
+Vichnievsky   Laurence,Rebeyrotte   Rémy,1,1
+Thomas   Valérie,Moutchou   Naïma,1,1
+Thomas   Valérie,Sanquer   Nicole,1,1
+Thomas   Valérie,Le Gendre   Gilles,1,1
+Thomas   Valérie,Terlier   Jean,1,1
+Thomas   Valérie,Mauborgne   Sereine,1,1
+Thomas   Valérie,Guerel   Émilie,1,1
+Thomas   Valérie,Guévenoux   Marie,1,1
+Thomas   Valérie,Braun-Pivet   Yaël,1,1
+Thomas   Valérie,de Vaucouleurs   Michèle,1,1
+Thomas   Valérie,Beaudouin-Hubiere   Sophie,1,1
+Thomas   Valérie,Rudigoz   Thomas,1,1
+Thomas   Valérie,Rebeyrotte   Rémy,1,1
+Moutchou   Naïma,Sanquer   Nicole,1,1
+Moutchou   Naïma,Le Gendre   Gilles,1,1
+Moutchou   Naïma,Terlier   Jean,1,1
+Moutchou   Naïma,Mauborgne   Sereine,1,1
+Moutchou   Naïma,Guerel   Émilie,1,1
+Moutchou   Naïma,Guévenoux   Marie,1,1
+Moutchou   Naïma,Braun-Pivet   Yaël,1,1
+Moutchou   Naïma,de Vaucouleurs   Michèle,1,1
+Moutchou   Naïma,Beaudouin-Hubiere   Sophie,1,1
+Moutchou   Naïma,Rudigoz   Thomas,1,1
+Moutchou   Naïma,Rebeyrotte   Rémy,1,1
+Sanquer   Nicole,Le Gendre   Gilles,1,1
+Sanquer   Nicole,Terlier   Jean,1,1
+Sanquer   Nicole,Mauborgne   Sereine,1,1
+Sanquer   Nicole,Guerel   Émilie,1,1
+Sanquer   Nicole,Guévenoux   Marie,1,1
+Sanquer   Nicole,Braun-Pivet   Yaël,1,1
+Sanquer   Nicole,de Vaucouleurs   Michèle,1,1
+Sanquer   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Sanquer   Nicole,Rudigoz   Thomas,1,1
+Sanquer   Nicole,Rebeyrotte   Rémy,1,1
+Le Gendre   Gilles,Terlier   Jean,1,1
+Le Gendre   Gilles,Mauborgne   Sereine,1,1
+Le Gendre   Gilles,Guerel   Émilie,1,1
+Le Gendre   Gilles,Guévenoux   Marie,1,1
+Le Gendre   Gilles,Braun-Pivet   Yaël,1,1
+Le Gendre   Gilles,de Vaucouleurs   Michèle,1,1
+Le Gendre   Gilles,Beaudouin-Hubiere   Sophie,1,1
+Le Gendre   Gilles,Rudigoz   Thomas,1,1
+Le Gendre   Gilles,Rebeyrotte   Rémy,1,1
+Terlier   Jean,Mauborgne   Sereine,1,1
+Terlier   Jean,Guerel   Émilie,1,1
+Terlier   Jean,Guévenoux   Marie,1,1
+Terlier   Jean,Braun-Pivet   Yaël,1,1
+Terlier   Jean,de Vaucouleurs   Michèle,1,1
+Terlier   Jean,Beaudouin-Hubiere   Sophie,1,1
+Terlier   Jean,Rudigoz   Thomas,1,1
+Terlier   Jean,Rebeyrotte   Rémy,1,1
+Mauborgne   Sereine,Guerel   Émilie,1,1
+Mauborgne   Sereine,Guévenoux   Marie,1,1
+Mauborgne   Sereine,Braun-Pivet   Yaël,1,1
+Mauborgne   Sereine,de Vaucouleurs   Michèle,1,1
+Mauborgne   Sereine,Beaudouin-Hubiere   Sophie,1,1
+Mauborgne   Sereine,Rudigoz   Thomas,1,1
+Mauborgne   Sereine,Rebeyrotte   Rémy,1,1
+Guerel   Émilie,Guévenoux   Marie,1,1
+Guerel   Émilie,Braun-Pivet   Yaël,1,1
+Guerel   Émilie,de Vaucouleurs   Michèle,1,1
+Guerel   Émilie,Beaudouin-Hubiere   Sophie,1,1
+Guerel   Émilie,Rudigoz   Thomas,1,1
+Guerel   Émilie,Rebeyrotte   Rémy,1,1
+Guévenoux   Marie,Braun-Pivet   Yaël,1,1
+Guévenoux   Marie,de Vaucouleurs   Michèle,1,1
+Guévenoux   Marie,Beaudouin-Hubiere   Sophie,1,1
+Guévenoux   Marie,Rudigoz   Thomas,1,1
+Guévenoux   Marie,Rebeyrotte   Rémy,1,1
+Braun-Pivet   Yaël,de Vaucouleurs   Michèle,1,1
+Braun-Pivet   Yaël,Beaudouin-Hubiere   Sophie,1,1
+Braun-Pivet   Yaël,Rudigoz   Thomas,1,1
+Braun-Pivet   Yaël,Rebeyrotte   Rémy,1,1
+de Vaucouleurs   Michèle,Beaudouin-Hubiere   Sophie,1,1
+de Vaucouleurs   Michèle,Rudigoz   Thomas,1,1
+de Vaucouleurs   Michèle,Rebeyrotte   Rémy,1,1
+Beaudouin-Hubiere   Sophie,Rudigoz   Thomas,1,1
+Beaudouin-Hubiere   Sophie,Rebeyrotte   Rémy,1,1
+Rudigoz   Thomas,Rebeyrotte   Rémy,1,1

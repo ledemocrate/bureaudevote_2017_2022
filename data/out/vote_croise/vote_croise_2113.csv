@@ -1,0 +1,497 @@
+from,to,vote_commun,loi_commun
+Firmin Le Bodo   Agnès,Pinel   Sylvia,1,1
+Firmin Le Bodo   Agnès,Saulignac   Hervé,1,1
+Firmin Le Bodo   Agnès,Brindeau   Pascal,0,1
+Firmin Le Bodo   Agnès,Le Grip   Constance,0,1
+Firmin Le Bodo   Agnès,Genevard   Annie,0,1
+Firmin Le Bodo   Agnès,Hetzel   Patrick,0,1
+Firmin Le Bodo   Agnès,Bazin   Thibault,0,1
+Firmin Le Bodo   Agnès,Vanceunebrock   Laurence,1,1
+Firmin Le Bodo   Agnès,Gérard   Raphaël,1,1
+Firmin Le Bodo   Agnès,Martin   Didier,1,1
+Firmin Le Bodo   Agnès,Charvier   Fannette,1,1
+Firmin Le Bodo   Agnès,Clapot   Mireille,1,1
+Firmin Le Bodo   Agnès,Berta   Philippe,1,1
+Firmin Le Bodo   Agnès,Dubost   Coralie,1,1
+Firmin Le Bodo   Agnès,Eliaou   Jean-François,1,1
+Firmin Le Bodo   Agnès,Chalumeau   Philippe,1,1
+Firmin Le Bodo   Agnès,Dubré-Chirat   Nicole,1,1
+Firmin Le Bodo   Agnès,Le Peih   Nicole,1,1
+Firmin Le Bodo   Agnès,Thill   Agnès,0,1
+Firmin Le Bodo   Agnès,Saint-Martin   Laurent,1,1
+Firmin Le Bodo   Agnès,Forteza   Paula,1,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,0,1
+Firmin Le Bodo   Agnès,Faucillon   Elsa,1,1
+Firmin Le Bodo   Agnès,de Vaucouleurs   Michèle,1,1
+Firmin Le Bodo   Agnès,Buchou   Stéphane,1,1
+Firmin Le Bodo   Agnès,Bergé   Aurore,1,1
+Firmin Le Bodo   Agnès,Pételle   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Chiche   Guillaume,1,1
+Firmin Le Bodo   Agnès,Beaudouin-Hubiere   Sophie,1,1
+Firmin Le Bodo   Agnès,Thiébaut   Vincent,1,1
+Firmin Le Bodo   Agnès,Chouat   Francis,1,1
+Pinel   Sylvia,Saulignac   Hervé,1,1
+Pinel   Sylvia,Brindeau   Pascal,0,1
+Pinel   Sylvia,Le Grip   Constance,0,1
+Pinel   Sylvia,Genevard   Annie,0,1
+Pinel   Sylvia,Hetzel   Patrick,0,1
+Pinel   Sylvia,Bazin   Thibault,0,1
+Pinel   Sylvia,Vanceunebrock   Laurence,1,1
+Pinel   Sylvia,Gérard   Raphaël,1,1
+Pinel   Sylvia,Martin   Didier,1,1
+Pinel   Sylvia,Charvier   Fannette,1,1
+Pinel   Sylvia,Clapot   Mireille,1,1
+Pinel   Sylvia,Berta   Philippe,1,1
+Pinel   Sylvia,Dubost   Coralie,1,1
+Pinel   Sylvia,Eliaou   Jean-François,1,1
+Pinel   Sylvia,Chalumeau   Philippe,1,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,1,1
+Pinel   Sylvia,Le Peih   Nicole,1,1
+Pinel   Sylvia,Thill   Agnès,0,1
+Pinel   Sylvia,Saint-Martin   Laurent,1,1
+Pinel   Sylvia,Forteza   Paula,1,1
+Pinel   Sylvia,Ramadier   Alain,0,1
+Pinel   Sylvia,Faucillon   Elsa,1,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,1,1
+Pinel   Sylvia,Buchou   Stéphane,1,1
+Pinel   Sylvia,Bergé   Aurore,1,1
+Pinel   Sylvia,Pételle   Bénédicte,1,1
+Pinel   Sylvia,Chiche   Guillaume,1,1
+Pinel   Sylvia,Beaudouin-Hubiere   Sophie,1,1
+Pinel   Sylvia,Thiébaut   Vincent,1,1
+Pinel   Sylvia,Chouat   Francis,1,1
+Saulignac   Hervé,Brindeau   Pascal,0,1
+Saulignac   Hervé,Le Grip   Constance,0,1
+Saulignac   Hervé,Genevard   Annie,0,1
+Saulignac   Hervé,Hetzel   Patrick,0,1
+Saulignac   Hervé,Bazin   Thibault,0,1
+Saulignac   Hervé,Vanceunebrock   Laurence,1,1
+Saulignac   Hervé,Gérard   Raphaël,1,1
+Saulignac   Hervé,Martin   Didier,1,1
+Saulignac   Hervé,Charvier   Fannette,1,1
+Saulignac   Hervé,Clapot   Mireille,1,1
+Saulignac   Hervé,Berta   Philippe,1,1
+Saulignac   Hervé,Dubost   Coralie,1,1
+Saulignac   Hervé,Eliaou   Jean-François,1,1
+Saulignac   Hervé,Chalumeau   Philippe,1,1
+Saulignac   Hervé,Dubré-Chirat   Nicole,1,1
+Saulignac   Hervé,Le Peih   Nicole,1,1
+Saulignac   Hervé,Thill   Agnès,0,1
+Saulignac   Hervé,Saint-Martin   Laurent,1,1
+Saulignac   Hervé,Forteza   Paula,1,1
+Saulignac   Hervé,Ramadier   Alain,0,1
+Saulignac   Hervé,Faucillon   Elsa,1,1
+Saulignac   Hervé,de Vaucouleurs   Michèle,1,1
+Saulignac   Hervé,Buchou   Stéphane,1,1
+Saulignac   Hervé,Bergé   Aurore,1,1
+Saulignac   Hervé,Pételle   Bénédicte,1,1
+Saulignac   Hervé,Chiche   Guillaume,1,1
+Saulignac   Hervé,Beaudouin-Hubiere   Sophie,1,1
+Saulignac   Hervé,Thiébaut   Vincent,1,1
+Saulignac   Hervé,Chouat   Francis,1,1
+Brindeau   Pascal,Le Grip   Constance,1,1
+Brindeau   Pascal,Genevard   Annie,1,1
+Brindeau   Pascal,Hetzel   Patrick,1,1
+Brindeau   Pascal,Bazin   Thibault,1,1
+Brindeau   Pascal,Vanceunebrock   Laurence,0,1
+Brindeau   Pascal,Gérard   Raphaël,0,1
+Brindeau   Pascal,Martin   Didier,0,1
+Brindeau   Pascal,Charvier   Fannette,0,1
+Brindeau   Pascal,Clapot   Mireille,0,1
+Brindeau   Pascal,Berta   Philippe,0,1
+Brindeau   Pascal,Dubost   Coralie,0,1
+Brindeau   Pascal,Eliaou   Jean-François,0,1
+Brindeau   Pascal,Chalumeau   Philippe,0,1
+Brindeau   Pascal,Dubré-Chirat   Nicole,0,1
+Brindeau   Pascal,Le Peih   Nicole,0,1
+Brindeau   Pascal,Thill   Agnès,1,1
+Brindeau   Pascal,Saint-Martin   Laurent,0,1
+Brindeau   Pascal,Forteza   Paula,0,1
+Brindeau   Pascal,Ramadier   Alain,1,1
+Brindeau   Pascal,Faucillon   Elsa,0,1
+Brindeau   Pascal,de Vaucouleurs   Michèle,0,1
+Brindeau   Pascal,Buchou   Stéphane,0,1
+Brindeau   Pascal,Bergé   Aurore,0,1
+Brindeau   Pascal,Pételle   Bénédicte,0,1
+Brindeau   Pascal,Chiche   Guillaume,0,1
+Brindeau   Pascal,Beaudouin-Hubiere   Sophie,0,1
+Brindeau   Pascal,Thiébaut   Vincent,0,1
+Brindeau   Pascal,Chouat   Francis,0,1
+Le Grip   Constance,Genevard   Annie,1,1
+Le Grip   Constance,Hetzel   Patrick,1,1
+Le Grip   Constance,Bazin   Thibault,1,1
+Le Grip   Constance,Vanceunebrock   Laurence,0,1
+Le Grip   Constance,Gérard   Raphaël,0,1
+Le Grip   Constance,Martin   Didier,0,1
+Le Grip   Constance,Charvier   Fannette,0,1
+Le Grip   Constance,Clapot   Mireille,0,1
+Le Grip   Constance,Berta   Philippe,0,1
+Le Grip   Constance,Dubost   Coralie,0,1
+Le Grip   Constance,Eliaou   Jean-François,0,1
+Le Grip   Constance,Chalumeau   Philippe,0,1
+Le Grip   Constance,Dubré-Chirat   Nicole,0,1
+Le Grip   Constance,Le Peih   Nicole,0,1
+Le Grip   Constance,Thill   Agnès,1,1
+Le Grip   Constance,Saint-Martin   Laurent,0,1
+Le Grip   Constance,Forteza   Paula,0,1
+Le Grip   Constance,Ramadier   Alain,1,1
+Le Grip   Constance,Faucillon   Elsa,0,1
+Le Grip   Constance,de Vaucouleurs   Michèle,0,1
+Le Grip   Constance,Buchou   Stéphane,0,1
+Le Grip   Constance,Bergé   Aurore,0,1
+Le Grip   Constance,Pételle   Bénédicte,0,1
+Le Grip   Constance,Chiche   Guillaume,0,1
+Le Grip   Constance,Beaudouin-Hubiere   Sophie,0,1
+Le Grip   Constance,Thiébaut   Vincent,0,1
+Le Grip   Constance,Chouat   Francis,0,1
+Genevard   Annie,Hetzel   Patrick,1,1
+Genevard   Annie,Bazin   Thibault,1,1
+Genevard   Annie,Vanceunebrock   Laurence,0,1
+Genevard   Annie,Gérard   Raphaël,0,1
+Genevard   Annie,Martin   Didier,0,1
+Genevard   Annie,Charvier   Fannette,0,1
+Genevard   Annie,Clapot   Mireille,0,1
+Genevard   Annie,Berta   Philippe,0,1
+Genevard   Annie,Dubost   Coralie,0,1
+Genevard   Annie,Eliaou   Jean-François,0,1
+Genevard   Annie,Chalumeau   Philippe,0,1
+Genevard   Annie,Dubré-Chirat   Nicole,0,1
+Genevard   Annie,Le Peih   Nicole,0,1
+Genevard   Annie,Thill   Agnès,1,1
+Genevard   Annie,Saint-Martin   Laurent,0,1
+Genevard   Annie,Forteza   Paula,0,1
+Genevard   Annie,Ramadier   Alain,1,1
+Genevard   Annie,Faucillon   Elsa,0,1
+Genevard   Annie,de Vaucouleurs   Michèle,0,1
+Genevard   Annie,Buchou   Stéphane,0,1
+Genevard   Annie,Bergé   Aurore,0,1
+Genevard   Annie,Pételle   Bénédicte,0,1
+Genevard   Annie,Chiche   Guillaume,0,1
+Genevard   Annie,Beaudouin-Hubiere   Sophie,0,1
+Genevard   Annie,Thiébaut   Vincent,0,1
+Genevard   Annie,Chouat   Francis,0,1
+Hetzel   Patrick,Bazin   Thibault,1,1
+Hetzel   Patrick,Vanceunebrock   Laurence,0,1
+Hetzel   Patrick,Gérard   Raphaël,0,1
+Hetzel   Patrick,Martin   Didier,0,1
+Hetzel   Patrick,Charvier   Fannette,0,1
+Hetzel   Patrick,Clapot   Mireille,0,1
+Hetzel   Patrick,Berta   Philippe,0,1
+Hetzel   Patrick,Dubost   Coralie,0,1
+Hetzel   Patrick,Eliaou   Jean-François,0,1
+Hetzel   Patrick,Chalumeau   Philippe,0,1
+Hetzel   Patrick,Dubré-Chirat   Nicole,0,1
+Hetzel   Patrick,Le Peih   Nicole,0,1
+Hetzel   Patrick,Thill   Agnès,1,1
+Hetzel   Patrick,Saint-Martin   Laurent,0,1
+Hetzel   Patrick,Forteza   Paula,0,1
+Hetzel   Patrick,Ramadier   Alain,1,1
+Hetzel   Patrick,Faucillon   Elsa,0,1
+Hetzel   Patrick,de Vaucouleurs   Michèle,0,1
+Hetzel   Patrick,Buchou   Stéphane,0,1
+Hetzel   Patrick,Bergé   Aurore,0,1
+Hetzel   Patrick,Pételle   Bénédicte,0,1
+Hetzel   Patrick,Chiche   Guillaume,0,1
+Hetzel   Patrick,Beaudouin-Hubiere   Sophie,0,1
+Hetzel   Patrick,Thiébaut   Vincent,0,1
+Hetzel   Patrick,Chouat   Francis,0,1
+Bazin   Thibault,Vanceunebrock   Laurence,0,1
+Bazin   Thibault,Gérard   Raphaël,0,1
+Bazin   Thibault,Martin   Didier,0,1
+Bazin   Thibault,Charvier   Fannette,0,1
+Bazin   Thibault,Clapot   Mireille,0,1
+Bazin   Thibault,Berta   Philippe,0,1
+Bazin   Thibault,Dubost   Coralie,0,1
+Bazin   Thibault,Eliaou   Jean-François,0,1
+Bazin   Thibault,Chalumeau   Philippe,0,1
+Bazin   Thibault,Dubré-Chirat   Nicole,0,1
+Bazin   Thibault,Le Peih   Nicole,0,1
+Bazin   Thibault,Thill   Agnès,1,1
+Bazin   Thibault,Saint-Martin   Laurent,0,1
+Bazin   Thibault,Forteza   Paula,0,1
+Bazin   Thibault,Ramadier   Alain,1,1
+Bazin   Thibault,Faucillon   Elsa,0,1
+Bazin   Thibault,de Vaucouleurs   Michèle,0,1
+Bazin   Thibault,Buchou   Stéphane,0,1
+Bazin   Thibault,Bergé   Aurore,0,1
+Bazin   Thibault,Pételle   Bénédicte,0,1
+Bazin   Thibault,Chiche   Guillaume,0,1
+Bazin   Thibault,Beaudouin-Hubiere   Sophie,0,1
+Bazin   Thibault,Thiébaut   Vincent,0,1
+Bazin   Thibault,Chouat   Francis,0,1
+Vanceunebrock   Laurence,Gérard   Raphaël,1,1
+Vanceunebrock   Laurence,Martin   Didier,1,1
+Vanceunebrock   Laurence,Charvier   Fannette,1,1
+Vanceunebrock   Laurence,Clapot   Mireille,1,1
+Vanceunebrock   Laurence,Berta   Philippe,1,1
+Vanceunebrock   Laurence,Dubost   Coralie,1,1
+Vanceunebrock   Laurence,Eliaou   Jean-François,1,1
+Vanceunebrock   Laurence,Chalumeau   Philippe,1,1
+Vanceunebrock   Laurence,Dubré-Chirat   Nicole,1,1
+Vanceunebrock   Laurence,Le Peih   Nicole,1,1
+Vanceunebrock   Laurence,Thill   Agnès,0,1
+Vanceunebrock   Laurence,Saint-Martin   Laurent,1,1
+Vanceunebrock   Laurence,Forteza   Paula,1,1
+Vanceunebrock   Laurence,Ramadier   Alain,0,1
+Vanceunebrock   Laurence,Faucillon   Elsa,1,1
+Vanceunebrock   Laurence,de Vaucouleurs   Michèle,1,1
+Vanceunebrock   Laurence,Buchou   Stéphane,1,1
+Vanceunebrock   Laurence,Bergé   Aurore,1,1
+Vanceunebrock   Laurence,Pételle   Bénédicte,1,1
+Vanceunebrock   Laurence,Chiche   Guillaume,1,1
+Vanceunebrock   Laurence,Beaudouin-Hubiere   Sophie,1,1
+Vanceunebrock   Laurence,Thiébaut   Vincent,1,1
+Vanceunebrock   Laurence,Chouat   Francis,1,1
+Gérard   Raphaël,Martin   Didier,1,1
+Gérard   Raphaël,Charvier   Fannette,1,1
+Gérard   Raphaël,Clapot   Mireille,1,1
+Gérard   Raphaël,Berta   Philippe,1,1
+Gérard   Raphaël,Dubost   Coralie,1,1
+Gérard   Raphaël,Eliaou   Jean-François,1,1
+Gérard   Raphaël,Chalumeau   Philippe,1,1
+Gérard   Raphaël,Dubré-Chirat   Nicole,1,1
+Gérard   Raphaël,Le Peih   Nicole,1,1
+Gérard   Raphaël,Thill   Agnès,0,1
+Gérard   Raphaël,Saint-Martin   Laurent,1,1
+Gérard   Raphaël,Forteza   Paula,1,1
+Gérard   Raphaël,Ramadier   Alain,0,1
+Gérard   Raphaël,Faucillon   Elsa,1,1
+Gérard   Raphaël,de Vaucouleurs   Michèle,1,1
+Gérard   Raphaël,Buchou   Stéphane,1,1
+Gérard   Raphaël,Bergé   Aurore,1,1
+Gérard   Raphaël,Pételle   Bénédicte,1,1
+Gérard   Raphaël,Chiche   Guillaume,1,1
+Gérard   Raphaël,Beaudouin-Hubiere   Sophie,1,1
+Gérard   Raphaël,Thiébaut   Vincent,1,1
+Gérard   Raphaël,Chouat   Francis,1,1
+Martin   Didier,Charvier   Fannette,1,1
+Martin   Didier,Clapot   Mireille,1,1
+Martin   Didier,Berta   Philippe,1,1
+Martin   Didier,Dubost   Coralie,1,1
+Martin   Didier,Eliaou   Jean-François,1,1
+Martin   Didier,Chalumeau   Philippe,1,1
+Martin   Didier,Dubré-Chirat   Nicole,1,1
+Martin   Didier,Le Peih   Nicole,1,1
+Martin   Didier,Thill   Agnès,0,1
+Martin   Didier,Saint-Martin   Laurent,1,1
+Martin   Didier,Forteza   Paula,1,1
+Martin   Didier,Ramadier   Alain,0,1
+Martin   Didier,Faucillon   Elsa,1,1
+Martin   Didier,de Vaucouleurs   Michèle,1,1
+Martin   Didier,Buchou   Stéphane,1,1
+Martin   Didier,Bergé   Aurore,1,1
+Martin   Didier,Pételle   Bénédicte,1,1
+Martin   Didier,Chiche   Guillaume,1,1
+Martin   Didier,Beaudouin-Hubiere   Sophie,1,1
+Martin   Didier,Thiébaut   Vincent,1,1
+Martin   Didier,Chouat   Francis,1,1
+Charvier   Fannette,Clapot   Mireille,1,1
+Charvier   Fannette,Berta   Philippe,1,1
+Charvier   Fannette,Dubost   Coralie,1,1
+Charvier   Fannette,Eliaou   Jean-François,1,1
+Charvier   Fannette,Chalumeau   Philippe,1,1
+Charvier   Fannette,Dubré-Chirat   Nicole,1,1
+Charvier   Fannette,Le Peih   Nicole,1,1
+Charvier   Fannette,Thill   Agnès,0,1
+Charvier   Fannette,Saint-Martin   Laurent,1,1
+Charvier   Fannette,Forteza   Paula,1,1
+Charvier   Fannette,Ramadier   Alain,0,1
+Charvier   Fannette,Faucillon   Elsa,1,1
+Charvier   Fannette,de Vaucouleurs   Michèle,1,1
+Charvier   Fannette,Buchou   Stéphane,1,1
+Charvier   Fannette,Bergé   Aurore,1,1
+Charvier   Fannette,Pételle   Bénédicte,1,1
+Charvier   Fannette,Chiche   Guillaume,1,1
+Charvier   Fannette,Beaudouin-Hubiere   Sophie,1,1
+Charvier   Fannette,Thiébaut   Vincent,1,1
+Charvier   Fannette,Chouat   Francis,1,1
+Clapot   Mireille,Berta   Philippe,1,1
+Clapot   Mireille,Dubost   Coralie,1,1
+Clapot   Mireille,Eliaou   Jean-François,1,1
+Clapot   Mireille,Chalumeau   Philippe,1,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Le Peih   Nicole,1,1
+Clapot   Mireille,Thill   Agnès,0,1
+Clapot   Mireille,Saint-Martin   Laurent,1,1
+Clapot   Mireille,Forteza   Paula,1,1
+Clapot   Mireille,Ramadier   Alain,0,1
+Clapot   Mireille,Faucillon   Elsa,1,1
+Clapot   Mireille,de Vaucouleurs   Michèle,1,1
+Clapot   Mireille,Buchou   Stéphane,1,1
+Clapot   Mireille,Bergé   Aurore,1,1
+Clapot   Mireille,Pételle   Bénédicte,1,1
+Clapot   Mireille,Chiche   Guillaume,1,1
+Clapot   Mireille,Beaudouin-Hubiere   Sophie,1,1
+Clapot   Mireille,Thiébaut   Vincent,1,1
+Clapot   Mireille,Chouat   Francis,1,1
+Berta   Philippe,Dubost   Coralie,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Chalumeau   Philippe,1,1
+Berta   Philippe,Dubré-Chirat   Nicole,1,1
+Berta   Philippe,Le Peih   Nicole,1,1
+Berta   Philippe,Thill   Agnès,0,1
+Berta   Philippe,Saint-Martin   Laurent,1,1
+Berta   Philippe,Forteza   Paula,1,1
+Berta   Philippe,Ramadier   Alain,0,1
+Berta   Philippe,Faucillon   Elsa,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Buchou   Stéphane,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Pételle   Bénédicte,1,1
+Berta   Philippe,Chiche   Guillaume,1,1
+Berta   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Berta   Philippe,Thiébaut   Vincent,1,1
+Berta   Philippe,Chouat   Francis,1,1
+Dubost   Coralie,Eliaou   Jean-François,1,1
+Dubost   Coralie,Chalumeau   Philippe,1,1
+Dubost   Coralie,Dubré-Chirat   Nicole,1,1
+Dubost   Coralie,Le Peih   Nicole,1,1
+Dubost   Coralie,Thill   Agnès,0,1
+Dubost   Coralie,Saint-Martin   Laurent,1,1
+Dubost   Coralie,Forteza   Paula,1,1
+Dubost   Coralie,Ramadier   Alain,0,1
+Dubost   Coralie,Faucillon   Elsa,1,1
+Dubost   Coralie,de Vaucouleurs   Michèle,1,1
+Dubost   Coralie,Buchou   Stéphane,1,1
+Dubost   Coralie,Bergé   Aurore,1,1
+Dubost   Coralie,Pételle   Bénédicte,1,1
+Dubost   Coralie,Chiche   Guillaume,1,1
+Dubost   Coralie,Beaudouin-Hubiere   Sophie,1,1
+Dubost   Coralie,Thiébaut   Vincent,1,1
+Dubost   Coralie,Chouat   Francis,1,1
+Eliaou   Jean-François,Chalumeau   Philippe,1,1
+Eliaou   Jean-François,Dubré-Chirat   Nicole,1,1
+Eliaou   Jean-François,Le Peih   Nicole,1,1
+Eliaou   Jean-François,Thill   Agnès,0,1
+Eliaou   Jean-François,Saint-Martin   Laurent,1,1
+Eliaou   Jean-François,Forteza   Paula,1,1
+Eliaou   Jean-François,Ramadier   Alain,0,1
+Eliaou   Jean-François,Faucillon   Elsa,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Buchou   Stéphane,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Pételle   Bénédicte,1,1
+Eliaou   Jean-François,Chiche   Guillaume,1,1
+Eliaou   Jean-François,Beaudouin-Hubiere   Sophie,1,1
+Eliaou   Jean-François,Thiébaut   Vincent,1,1
+Eliaou   Jean-François,Chouat   Francis,1,1
+Chalumeau   Philippe,Dubré-Chirat   Nicole,1,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Thill   Agnès,0,1
+Chalumeau   Philippe,Saint-Martin   Laurent,1,1
+Chalumeau   Philippe,Forteza   Paula,1,1
+Chalumeau   Philippe,Ramadier   Alain,0,1
+Chalumeau   Philippe,Faucillon   Elsa,1,1
+Chalumeau   Philippe,de Vaucouleurs   Michèle,1,1
+Chalumeau   Philippe,Buchou   Stéphane,1,1
+Chalumeau   Philippe,Bergé   Aurore,1,1
+Chalumeau   Philippe,Pételle   Bénédicte,1,1
+Chalumeau   Philippe,Chiche   Guillaume,1,1
+Chalumeau   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Chalumeau   Philippe,Thiébaut   Vincent,1,1
+Chalumeau   Philippe,Chouat   Francis,1,1
+Dubré-Chirat   Nicole,Le Peih   Nicole,1,1
+Dubré-Chirat   Nicole,Thill   Agnès,0,1
+Dubré-Chirat   Nicole,Saint-Martin   Laurent,1,1
+Dubré-Chirat   Nicole,Forteza   Paula,1,1
+Dubré-Chirat   Nicole,Ramadier   Alain,0,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Buchou   Stéphane,1,1
+Dubré-Chirat   Nicole,Bergé   Aurore,1,1
+Dubré-Chirat   Nicole,Pételle   Bénédicte,1,1
+Dubré-Chirat   Nicole,Chiche   Guillaume,1,1
+Dubré-Chirat   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Dubré-Chirat   Nicole,Thiébaut   Vincent,1,1
+Dubré-Chirat   Nicole,Chouat   Francis,1,1
+Le Peih   Nicole,Thill   Agnès,0,1
+Le Peih   Nicole,Saint-Martin   Laurent,1,1
+Le Peih   Nicole,Forteza   Paula,1,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Faucillon   Elsa,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Buchou   Stéphane,1,1
+Le Peih   Nicole,Bergé   Aurore,1,1
+Le Peih   Nicole,Pételle   Bénédicte,1,1
+Le Peih   Nicole,Chiche   Guillaume,1,1
+Le Peih   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Le Peih   Nicole,Thiébaut   Vincent,1,1
+Le Peih   Nicole,Chouat   Francis,1,1
+Thill   Agnès,Saint-Martin   Laurent,0,1
+Thill   Agnès,Forteza   Paula,0,1
+Thill   Agnès,Ramadier   Alain,1,1
+Thill   Agnès,Faucillon   Elsa,0,1
+Thill   Agnès,de Vaucouleurs   Michèle,0,1
+Thill   Agnès,Buchou   Stéphane,0,1
+Thill   Agnès,Bergé   Aurore,0,1
+Thill   Agnès,Pételle   Bénédicte,0,1
+Thill   Agnès,Chiche   Guillaume,0,1
+Thill   Agnès,Beaudouin-Hubiere   Sophie,0,1
+Thill   Agnès,Thiébaut   Vincent,0,1
+Thill   Agnès,Chouat   Francis,0,1
+Saint-Martin   Laurent,Forteza   Paula,1,1
+Saint-Martin   Laurent,Ramadier   Alain,0,1
+Saint-Martin   Laurent,Faucillon   Elsa,1,1
+Saint-Martin   Laurent,de Vaucouleurs   Michèle,1,1
+Saint-Martin   Laurent,Buchou   Stéphane,1,1
+Saint-Martin   Laurent,Bergé   Aurore,1,1
+Saint-Martin   Laurent,Pételle   Bénédicte,1,1
+Saint-Martin   Laurent,Chiche   Guillaume,1,1
+Saint-Martin   Laurent,Beaudouin-Hubiere   Sophie,1,1
+Saint-Martin   Laurent,Thiébaut   Vincent,1,1
+Saint-Martin   Laurent,Chouat   Francis,1,1
+Forteza   Paula,Ramadier   Alain,0,1
+Forteza   Paula,Faucillon   Elsa,1,1
+Forteza   Paula,de Vaucouleurs   Michèle,1,1
+Forteza   Paula,Buchou   Stéphane,1,1
+Forteza   Paula,Bergé   Aurore,1,1
+Forteza   Paula,Pételle   Bénédicte,1,1
+Forteza   Paula,Chiche   Guillaume,1,1
+Forteza   Paula,Beaudouin-Hubiere   Sophie,1,1
+Forteza   Paula,Thiébaut   Vincent,1,1
+Forteza   Paula,Chouat   Francis,1,1
+Ramadier   Alain,Faucillon   Elsa,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Buchou   Stéphane,0,1
+Ramadier   Alain,Bergé   Aurore,0,1
+Ramadier   Alain,Pételle   Bénédicte,0,1
+Ramadier   Alain,Chiche   Guillaume,0,1
+Ramadier   Alain,Beaudouin-Hubiere   Sophie,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Ramadier   Alain,Chouat   Francis,0,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,1,1
+Faucillon   Elsa,Buchou   Stéphane,1,1
+Faucillon   Elsa,Bergé   Aurore,1,1
+Faucillon   Elsa,Pételle   Bénédicte,1,1
+Faucillon   Elsa,Chiche   Guillaume,1,1
+Faucillon   Elsa,Beaudouin-Hubiere   Sophie,1,1
+Faucillon   Elsa,Thiébaut   Vincent,1,1
+Faucillon   Elsa,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Buchou   Stéphane,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Pételle   Bénédicte,1,1
+de Vaucouleurs   Michèle,Chiche   Guillaume,1,1
+de Vaucouleurs   Michèle,Beaudouin-Hubiere   Sophie,1,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,1,1
+de Vaucouleurs   Michèle,Chouat   Francis,1,1
+Buchou   Stéphane,Bergé   Aurore,1,1
+Buchou   Stéphane,Pételle   Bénédicte,1,1
+Buchou   Stéphane,Chiche   Guillaume,1,1
+Buchou   Stéphane,Beaudouin-Hubiere   Sophie,1,1
+Buchou   Stéphane,Thiébaut   Vincent,1,1
+Buchou   Stéphane,Chouat   Francis,1,1
+Bergé   Aurore,Pételle   Bénédicte,1,1
+Bergé   Aurore,Chiche   Guillaume,1,1
+Bergé   Aurore,Beaudouin-Hubiere   Sophie,1,1
+Bergé   Aurore,Thiébaut   Vincent,1,1
+Bergé   Aurore,Chouat   Francis,1,1
+Pételle   Bénédicte,Chiche   Guillaume,1,1
+Pételle   Bénédicte,Beaudouin-Hubiere   Sophie,1,1
+Pételle   Bénédicte,Thiébaut   Vincent,1,1
+Pételle   Bénédicte,Chouat   Francis,1,1
+Chiche   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Chiche   Guillaume,Thiébaut   Vincent,1,1
+Chiche   Guillaume,Chouat   Francis,1,1
+Beaudouin-Hubiere   Sophie,Thiébaut   Vincent,1,1
+Beaudouin-Hubiere   Sophie,Chouat   Francis,1,1
+Thiébaut   Vincent,Chouat   Francis,1,1

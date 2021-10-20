@@ -1,0 +1,2212 @@
+from,to,vote_commun,loi_commun
+David   Alain,Gosselin   Philippe,0,1
+David   Alain,Door   Jean-Pierre,0,1
+David   Alain,Grelier   Jean-Carles,0,1
+David   Alain,Firmin Le Bodo   Agnès,0,1
+David   Alain,Woerth   Éric,0,1
+David   Alain,Vigier   Philippe,1,1
+David   Alain,Dalloz   Marie-Christine,0,1
+David   Alain,Bricout   Jean-Louis,1,1
+David   Alain,Alauzet   Éric,0,1
+David   Alain,Dubié   Jeanine,0,1
+David   Alain,Maillard   Sylvain,0,1
+David   Alain,Delatte   Marc,0,1
+David   Alain,Dufrègne   Jean-Paul,1,1
+David   Alain,Peyrol   Bénédicte,0,1
+David   Alain,Cordier   Pierre,0,1
+David   Alain,Dombreval   Loïc,0,1
+David   Alain,Ahamada   Saïd,0,1
+David   Alain,Le Vigoureux   Fabrice,0,1
+David   Alain,Blanchet   Christophe,0,1
+David   Alain,Bouyx   Bertrand,0,1
+David   Alain,Jerretie   Christophe,0,1
+David   Alain,Mesnier   Thomas,0,1
+David   Alain,Michel-Brassart   Monica,0,1
+David   Alain,Moreau   Jean-Baptiste,0,1
+David   Alain,Chassaing   Philippe,0,1
+David   Alain,Gipson   Séverine,0,1
+David   Alain,Cazeneuve   Jean-René,0,1
+David   Alain,Ménard   Emmanuelle,0,1
+David   Alain,David   Dominique,0,1
+David   Alain,Le Bohec   Gaël,0,1
+David   Alain,Labaronne   Daniel,0,1
+David   Alain,Causse   Lionel,0,1
+David   Alain,Amadou   Aude,0,1
+David   Alain,Sorre   Bertrand,0,1
+David   Alain,Magnier   Lise,0,1
+David   Alain,Arend   Christophe,0,1
+David   Alain,Pahun   Jimmy,0,1
+David   Alain,Trisse   Nicole,0,1
+David   Alain,Perrot   Patrice,0,1
+David   Alain,Osson   Catherine,0,1
+David   Alain,Cattelot   Anne-Laure,0,1
+David   Alain,De Temmerman   Jennifer,0,1
+David   Alain,Roussel   Fabien,1,1
+David   Alain,Michels   Thierry,0,1
+David   Alain,Lachaud   Bastien,1,1
+David   Alain,Saint-Martin   Laurent,0,1
+David   Alain,Holroyd   Alexandre,0,1
+David   Alain,Rubin   Sabine,1,1
+David   Alain,Peu   Stéphane,1,1
+David   Alain,Ramadier   Alain,0,1
+David   Alain,Riotton   Véronique,0,1
+David   Alain,Lenne   Marion,0,1
+David   Alain,Roseren   Xavier,0,1
+David   Alain,Verdier-Jouclas   Marie-Christine,0,1
+David   Alain,Peyron   Michèle,0,1
+David   Alain,Florennes   Isabelle,0,1
+David   Alain,Calvez   Céline,0,1
+David   Alain,Gomez-Bassac   Valérie,0,1
+David   Alain,Renson   Hugues,0,1
+David   Alain,Piron   Béatrice,0,1
+David   Alain,Raphan   Pierre-Alain,0,1
+David   Alain,Vidal   Annie,0,1
+David   Alain,Fiévet   Jean-Marie,0,1
+David   Alain,Jumel   Sébastien,1,1
+David   Alain,Dirx   Benjamin,0,1
+David   Alain,de Courson   Charles,0,1
+Gosselin   Philippe,Door   Jean-Pierre,1,1
+Gosselin   Philippe,Grelier   Jean-Carles,1,1
+Gosselin   Philippe,Firmin Le Bodo   Agnès,1,1
+Gosselin   Philippe,Woerth   Éric,0,1
+Gosselin   Philippe,Vigier   Philippe,0,1
+Gosselin   Philippe,Dalloz   Marie-Christine,1,1
+Gosselin   Philippe,Bricout   Jean-Louis,0,1
+Gosselin   Philippe,Alauzet   Éric,1,1
+Gosselin   Philippe,Dubié   Jeanine,1,1
+Gosselin   Philippe,Maillard   Sylvain,1,1
+Gosselin   Philippe,Delatte   Marc,1,1
+Gosselin   Philippe,Dufrègne   Jean-Paul,0,1
+Gosselin   Philippe,Peyrol   Bénédicte,1,1
+Gosselin   Philippe,Cordier   Pierre,0,1
+Gosselin   Philippe,Dombreval   Loïc,1,1
+Gosselin   Philippe,Ahamada   Saïd,1,1
+Gosselin   Philippe,Le Vigoureux   Fabrice,1,1
+Gosselin   Philippe,Blanchet   Christophe,1,1
+Gosselin   Philippe,Bouyx   Bertrand,1,1
+Gosselin   Philippe,Jerretie   Christophe,1,1
+Gosselin   Philippe,Mesnier   Thomas,1,1
+Gosselin   Philippe,Michel-Brassart   Monica,1,1
+Gosselin   Philippe,Moreau   Jean-Baptiste,1,1
+Gosselin   Philippe,Chassaing   Philippe,1,1
+Gosselin   Philippe,Gipson   Séverine,1,1
+Gosselin   Philippe,Cazeneuve   Jean-René,1,1
+Gosselin   Philippe,Ménard   Emmanuelle,0,1
+Gosselin   Philippe,David   Dominique,1,1
+Gosselin   Philippe,Le Bohec   Gaël,1,1
+Gosselin   Philippe,Labaronne   Daniel,1,1
+Gosselin   Philippe,Causse   Lionel,1,1
+Gosselin   Philippe,Amadou   Aude,1,1
+Gosselin   Philippe,Sorre   Bertrand,1,1
+Gosselin   Philippe,Magnier   Lise,1,1
+Gosselin   Philippe,Arend   Christophe,1,1
+Gosselin   Philippe,Pahun   Jimmy,1,1
+Gosselin   Philippe,Trisse   Nicole,1,1
+Gosselin   Philippe,Perrot   Patrice,1,1
+Gosselin   Philippe,Osson   Catherine,1,1
+Gosselin   Philippe,Cattelot   Anne-Laure,1,1
+Gosselin   Philippe,De Temmerman   Jennifer,1,1
+Gosselin   Philippe,Roussel   Fabien,0,1
+Gosselin   Philippe,Michels   Thierry,1,1
+Gosselin   Philippe,Lachaud   Bastien,0,1
+Gosselin   Philippe,Saint-Martin   Laurent,1,1
+Gosselin   Philippe,Holroyd   Alexandre,1,1
+Gosselin   Philippe,Rubin   Sabine,0,1
+Gosselin   Philippe,Peu   Stéphane,0,1
+Gosselin   Philippe,Ramadier   Alain,1,1
+Gosselin   Philippe,Riotton   Véronique,1,1
+Gosselin   Philippe,Lenne   Marion,1,1
+Gosselin   Philippe,Roseren   Xavier,1,1
+Gosselin   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Gosselin   Philippe,Peyron   Michèle,1,1
+Gosselin   Philippe,Florennes   Isabelle,1,1
+Gosselin   Philippe,Calvez   Céline,1,1
+Gosselin   Philippe,Gomez-Bassac   Valérie,1,1
+Gosselin   Philippe,Renson   Hugues,1,1
+Gosselin   Philippe,Piron   Béatrice,1,1
+Gosselin   Philippe,Raphan   Pierre-Alain,1,1
+Gosselin   Philippe,Vidal   Annie,1,1
+Gosselin   Philippe,Fiévet   Jean-Marie,1,1
+Gosselin   Philippe,Jumel   Sébastien,0,1
+Gosselin   Philippe,Dirx   Benjamin,1,1
+Gosselin   Philippe,de Courson   Charles,1,1
+Door   Jean-Pierre,Grelier   Jean-Carles,1,1
+Door   Jean-Pierre,Firmin Le Bodo   Agnès,1,1
+Door   Jean-Pierre,Woerth   Éric,0,1
+Door   Jean-Pierre,Vigier   Philippe,0,1
+Door   Jean-Pierre,Dalloz   Marie-Christine,1,1
+Door   Jean-Pierre,Bricout   Jean-Louis,0,1
+Door   Jean-Pierre,Alauzet   Éric,1,1
+Door   Jean-Pierre,Dubié   Jeanine,1,1
+Door   Jean-Pierre,Maillard   Sylvain,1,1
+Door   Jean-Pierre,Delatte   Marc,1,1
+Door   Jean-Pierre,Dufrègne   Jean-Paul,0,1
+Door   Jean-Pierre,Peyrol   Bénédicte,1,1
+Door   Jean-Pierre,Cordier   Pierre,0,1
+Door   Jean-Pierre,Dombreval   Loïc,1,1
+Door   Jean-Pierre,Ahamada   Saïd,1,1
+Door   Jean-Pierre,Le Vigoureux   Fabrice,1,1
+Door   Jean-Pierre,Blanchet   Christophe,1,1
+Door   Jean-Pierre,Bouyx   Bertrand,1,1
+Door   Jean-Pierre,Jerretie   Christophe,1,1
+Door   Jean-Pierre,Mesnier   Thomas,1,1
+Door   Jean-Pierre,Michel-Brassart   Monica,1,1
+Door   Jean-Pierre,Moreau   Jean-Baptiste,1,1
+Door   Jean-Pierre,Chassaing   Philippe,1,1
+Door   Jean-Pierre,Gipson   Séverine,1,1
+Door   Jean-Pierre,Cazeneuve   Jean-René,1,1
+Door   Jean-Pierre,Ménard   Emmanuelle,0,1
+Door   Jean-Pierre,David   Dominique,1,1
+Door   Jean-Pierre,Le Bohec   Gaël,1,1
+Door   Jean-Pierre,Labaronne   Daniel,1,1
+Door   Jean-Pierre,Causse   Lionel,1,1
+Door   Jean-Pierre,Amadou   Aude,1,1
+Door   Jean-Pierre,Sorre   Bertrand,1,1
+Door   Jean-Pierre,Magnier   Lise,1,1
+Door   Jean-Pierre,Arend   Christophe,1,1
+Door   Jean-Pierre,Pahun   Jimmy,1,1
+Door   Jean-Pierre,Trisse   Nicole,1,1
+Door   Jean-Pierre,Perrot   Patrice,1,1
+Door   Jean-Pierre,Osson   Catherine,1,1
+Door   Jean-Pierre,Cattelot   Anne-Laure,1,1
+Door   Jean-Pierre,De Temmerman   Jennifer,1,1
+Door   Jean-Pierre,Roussel   Fabien,0,1
+Door   Jean-Pierre,Michels   Thierry,1,1
+Door   Jean-Pierre,Lachaud   Bastien,0,1
+Door   Jean-Pierre,Saint-Martin   Laurent,1,1
+Door   Jean-Pierre,Holroyd   Alexandre,1,1
+Door   Jean-Pierre,Rubin   Sabine,0,1
+Door   Jean-Pierre,Peu   Stéphane,0,1
+Door   Jean-Pierre,Ramadier   Alain,1,1
+Door   Jean-Pierre,Riotton   Véronique,1,1
+Door   Jean-Pierre,Lenne   Marion,1,1
+Door   Jean-Pierre,Roseren   Xavier,1,1
+Door   Jean-Pierre,Verdier-Jouclas   Marie-Christine,1,1
+Door   Jean-Pierre,Peyron   Michèle,1,1
+Door   Jean-Pierre,Florennes   Isabelle,1,1
+Door   Jean-Pierre,Calvez   Céline,1,1
+Door   Jean-Pierre,Gomez-Bassac   Valérie,1,1
+Door   Jean-Pierre,Renson   Hugues,1,1
+Door   Jean-Pierre,Piron   Béatrice,1,1
+Door   Jean-Pierre,Raphan   Pierre-Alain,1,1
+Door   Jean-Pierre,Vidal   Annie,1,1
+Door   Jean-Pierre,Fiévet   Jean-Marie,1,1
+Door   Jean-Pierre,Jumel   Sébastien,0,1
+Door   Jean-Pierre,Dirx   Benjamin,1,1
+Door   Jean-Pierre,de Courson   Charles,1,1
+Grelier   Jean-Carles,Firmin Le Bodo   Agnès,1,1
+Grelier   Jean-Carles,Woerth   Éric,0,1
+Grelier   Jean-Carles,Vigier   Philippe,0,1
+Grelier   Jean-Carles,Dalloz   Marie-Christine,1,1
+Grelier   Jean-Carles,Bricout   Jean-Louis,0,1
+Grelier   Jean-Carles,Alauzet   Éric,1,1
+Grelier   Jean-Carles,Dubié   Jeanine,1,1
+Grelier   Jean-Carles,Maillard   Sylvain,1,1
+Grelier   Jean-Carles,Delatte   Marc,1,1
+Grelier   Jean-Carles,Dufrègne   Jean-Paul,0,1
+Grelier   Jean-Carles,Peyrol   Bénédicte,1,1
+Grelier   Jean-Carles,Cordier   Pierre,0,1
+Grelier   Jean-Carles,Dombreval   Loïc,1,1
+Grelier   Jean-Carles,Ahamada   Saïd,1,1
+Grelier   Jean-Carles,Le Vigoureux   Fabrice,1,1
+Grelier   Jean-Carles,Blanchet   Christophe,1,1
+Grelier   Jean-Carles,Bouyx   Bertrand,1,1
+Grelier   Jean-Carles,Jerretie   Christophe,1,1
+Grelier   Jean-Carles,Mesnier   Thomas,1,1
+Grelier   Jean-Carles,Michel-Brassart   Monica,1,1
+Grelier   Jean-Carles,Moreau   Jean-Baptiste,1,1
+Grelier   Jean-Carles,Chassaing   Philippe,1,1
+Grelier   Jean-Carles,Gipson   Séverine,1,1
+Grelier   Jean-Carles,Cazeneuve   Jean-René,1,1
+Grelier   Jean-Carles,Ménard   Emmanuelle,0,1
+Grelier   Jean-Carles,David   Dominique,1,1
+Grelier   Jean-Carles,Le Bohec   Gaël,1,1
+Grelier   Jean-Carles,Labaronne   Daniel,1,1
+Grelier   Jean-Carles,Causse   Lionel,1,1
+Grelier   Jean-Carles,Amadou   Aude,1,1
+Grelier   Jean-Carles,Sorre   Bertrand,1,1
+Grelier   Jean-Carles,Magnier   Lise,1,1
+Grelier   Jean-Carles,Arend   Christophe,1,1
+Grelier   Jean-Carles,Pahun   Jimmy,1,1
+Grelier   Jean-Carles,Trisse   Nicole,1,1
+Grelier   Jean-Carles,Perrot   Patrice,1,1
+Grelier   Jean-Carles,Osson   Catherine,1,1
+Grelier   Jean-Carles,Cattelot   Anne-Laure,1,1
+Grelier   Jean-Carles,De Temmerman   Jennifer,1,1
+Grelier   Jean-Carles,Roussel   Fabien,0,1
+Grelier   Jean-Carles,Michels   Thierry,1,1
+Grelier   Jean-Carles,Lachaud   Bastien,0,1
+Grelier   Jean-Carles,Saint-Martin   Laurent,1,1
+Grelier   Jean-Carles,Holroyd   Alexandre,1,1
+Grelier   Jean-Carles,Rubin   Sabine,0,1
+Grelier   Jean-Carles,Peu   Stéphane,0,1
+Grelier   Jean-Carles,Ramadier   Alain,1,1
+Grelier   Jean-Carles,Riotton   Véronique,1,1
+Grelier   Jean-Carles,Lenne   Marion,1,1
+Grelier   Jean-Carles,Roseren   Xavier,1,1
+Grelier   Jean-Carles,Verdier-Jouclas   Marie-Christine,1,1
+Grelier   Jean-Carles,Peyron   Michèle,1,1
+Grelier   Jean-Carles,Florennes   Isabelle,1,1
+Grelier   Jean-Carles,Calvez   Céline,1,1
+Grelier   Jean-Carles,Gomez-Bassac   Valérie,1,1
+Grelier   Jean-Carles,Renson   Hugues,1,1
+Grelier   Jean-Carles,Piron   Béatrice,1,1
+Grelier   Jean-Carles,Raphan   Pierre-Alain,1,1
+Grelier   Jean-Carles,Vidal   Annie,1,1
+Grelier   Jean-Carles,Fiévet   Jean-Marie,1,1
+Grelier   Jean-Carles,Jumel   Sébastien,0,1
+Grelier   Jean-Carles,Dirx   Benjamin,1,1
+Grelier   Jean-Carles,de Courson   Charles,1,1
+Firmin Le Bodo   Agnès,Woerth   Éric,0,1
+Firmin Le Bodo   Agnès,Vigier   Philippe,0,1
+Firmin Le Bodo   Agnès,Dalloz   Marie-Christine,1,1
+Firmin Le Bodo   Agnès,Bricout   Jean-Louis,0,1
+Firmin Le Bodo   Agnès,Alauzet   Éric,1,1
+Firmin Le Bodo   Agnès,Dubié   Jeanine,1,1
+Firmin Le Bodo   Agnès,Maillard   Sylvain,1,1
+Firmin Le Bodo   Agnès,Delatte   Marc,1,1
+Firmin Le Bodo   Agnès,Dufrègne   Jean-Paul,0,1
+Firmin Le Bodo   Agnès,Peyrol   Bénédicte,1,1
+Firmin Le Bodo   Agnès,Cordier   Pierre,0,1
+Firmin Le Bodo   Agnès,Dombreval   Loïc,1,1
+Firmin Le Bodo   Agnès,Ahamada   Saïd,1,1
+Firmin Le Bodo   Agnès,Le Vigoureux   Fabrice,1,1
+Firmin Le Bodo   Agnès,Blanchet   Christophe,1,1
+Firmin Le Bodo   Agnès,Bouyx   Bertrand,1,1
+Firmin Le Bodo   Agnès,Jerretie   Christophe,1,1
+Firmin Le Bodo   Agnès,Mesnier   Thomas,1,1
+Firmin Le Bodo   Agnès,Michel-Brassart   Monica,1,1
+Firmin Le Bodo   Agnès,Moreau   Jean-Baptiste,1,1
+Firmin Le Bodo   Agnès,Chassaing   Philippe,1,1
+Firmin Le Bodo   Agnès,Gipson   Séverine,1,1
+Firmin Le Bodo   Agnès,Cazeneuve   Jean-René,1,1
+Firmin Le Bodo   Agnès,Ménard   Emmanuelle,0,1
+Firmin Le Bodo   Agnès,David   Dominique,1,1
+Firmin Le Bodo   Agnès,Le Bohec   Gaël,1,1
+Firmin Le Bodo   Agnès,Labaronne   Daniel,1,1
+Firmin Le Bodo   Agnès,Causse   Lionel,1,1
+Firmin Le Bodo   Agnès,Amadou   Aude,1,1
+Firmin Le Bodo   Agnès,Sorre   Bertrand,1,1
+Firmin Le Bodo   Agnès,Magnier   Lise,1,1
+Firmin Le Bodo   Agnès,Arend   Christophe,1,1
+Firmin Le Bodo   Agnès,Pahun   Jimmy,1,1
+Firmin Le Bodo   Agnès,Trisse   Nicole,1,1
+Firmin Le Bodo   Agnès,Perrot   Patrice,1,1
+Firmin Le Bodo   Agnès,Osson   Catherine,1,1
+Firmin Le Bodo   Agnès,Cattelot   Anne-Laure,1,1
+Firmin Le Bodo   Agnès,De Temmerman   Jennifer,1,1
+Firmin Le Bodo   Agnès,Roussel   Fabien,0,1
+Firmin Le Bodo   Agnès,Michels   Thierry,1,1
+Firmin Le Bodo   Agnès,Lachaud   Bastien,0,1
+Firmin Le Bodo   Agnès,Saint-Martin   Laurent,1,1
+Firmin Le Bodo   Agnès,Holroyd   Alexandre,1,1
+Firmin Le Bodo   Agnès,Rubin   Sabine,0,1
+Firmin Le Bodo   Agnès,Peu   Stéphane,0,1
+Firmin Le Bodo   Agnès,Ramadier   Alain,1,1
+Firmin Le Bodo   Agnès,Riotton   Véronique,1,1
+Firmin Le Bodo   Agnès,Lenne   Marion,1,1
+Firmin Le Bodo   Agnès,Roseren   Xavier,1,1
+Firmin Le Bodo   Agnès,Verdier-Jouclas   Marie-Christine,1,1
+Firmin Le Bodo   Agnès,Peyron   Michèle,1,1
+Firmin Le Bodo   Agnès,Florennes   Isabelle,1,1
+Firmin Le Bodo   Agnès,Calvez   Céline,1,1
+Firmin Le Bodo   Agnès,Gomez-Bassac   Valérie,1,1
+Firmin Le Bodo   Agnès,Renson   Hugues,1,1
+Firmin Le Bodo   Agnès,Piron   Béatrice,1,1
+Firmin Le Bodo   Agnès,Raphan   Pierre-Alain,1,1
+Firmin Le Bodo   Agnès,Vidal   Annie,1,1
+Firmin Le Bodo   Agnès,Fiévet   Jean-Marie,1,1
+Firmin Le Bodo   Agnès,Jumel   Sébastien,0,1
+Firmin Le Bodo   Agnès,Dirx   Benjamin,1,1
+Firmin Le Bodo   Agnès,de Courson   Charles,1,1
+Woerth   Éric,Vigier   Philippe,0,1
+Woerth   Éric,Dalloz   Marie-Christine,0,1
+Woerth   Éric,Bricout   Jean-Louis,0,1
+Woerth   Éric,Alauzet   Éric,0,1
+Woerth   Éric,Dubié   Jeanine,0,1
+Woerth   Éric,Maillard   Sylvain,0,1
+Woerth   Éric,Delatte   Marc,0,1
+Woerth   Éric,Dufrègne   Jean-Paul,0,1
+Woerth   Éric,Peyrol   Bénédicte,0,1
+Woerth   Éric,Cordier   Pierre,1,1
+Woerth   Éric,Dombreval   Loïc,0,1
+Woerth   Éric,Ahamada   Saïd,0,1
+Woerth   Éric,Le Vigoureux   Fabrice,0,1
+Woerth   Éric,Blanchet   Christophe,0,1
+Woerth   Éric,Bouyx   Bertrand,0,1
+Woerth   Éric,Jerretie   Christophe,0,1
+Woerth   Éric,Mesnier   Thomas,0,1
+Woerth   Éric,Michel-Brassart   Monica,0,1
+Woerth   Éric,Moreau   Jean-Baptiste,0,1
+Woerth   Éric,Chassaing   Philippe,0,1
+Woerth   Éric,Gipson   Séverine,0,1
+Woerth   Éric,Cazeneuve   Jean-René,0,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,David   Dominique,0,1
+Woerth   Éric,Le Bohec   Gaël,0,1
+Woerth   Éric,Labaronne   Daniel,0,1
+Woerth   Éric,Causse   Lionel,0,1
+Woerth   Éric,Amadou   Aude,0,1
+Woerth   Éric,Sorre   Bertrand,0,1
+Woerth   Éric,Magnier   Lise,0,1
+Woerth   Éric,Arend   Christophe,0,1
+Woerth   Éric,Pahun   Jimmy,0,1
+Woerth   Éric,Trisse   Nicole,0,1
+Woerth   Éric,Perrot   Patrice,0,1
+Woerth   Éric,Osson   Catherine,0,1
+Woerth   Éric,Cattelot   Anne-Laure,0,1
+Woerth   Éric,De Temmerman   Jennifer,0,1
+Woerth   Éric,Roussel   Fabien,0,1
+Woerth   Éric,Michels   Thierry,0,1
+Woerth   Éric,Lachaud   Bastien,0,1
+Woerth   Éric,Saint-Martin   Laurent,0,1
+Woerth   Éric,Holroyd   Alexandre,0,1
+Woerth   Éric,Rubin   Sabine,0,1
+Woerth   Éric,Peu   Stéphane,0,1
+Woerth   Éric,Ramadier   Alain,0,1
+Woerth   Éric,Riotton   Véronique,0,1
+Woerth   Éric,Lenne   Marion,0,1
+Woerth   Éric,Roseren   Xavier,0,1
+Woerth   Éric,Verdier-Jouclas   Marie-Christine,0,1
+Woerth   Éric,Peyron   Michèle,0,1
+Woerth   Éric,Florennes   Isabelle,0,1
+Woerth   Éric,Calvez   Céline,0,1
+Woerth   Éric,Gomez-Bassac   Valérie,0,1
+Woerth   Éric,Renson   Hugues,0,1
+Woerth   Éric,Piron   Béatrice,0,1
+Woerth   Éric,Raphan   Pierre-Alain,0,1
+Woerth   Éric,Vidal   Annie,0,1
+Woerth   Éric,Fiévet   Jean-Marie,0,1
+Woerth   Éric,Jumel   Sébastien,0,1
+Woerth   Éric,Dirx   Benjamin,0,1
+Woerth   Éric,de Courson   Charles,0,1
+Vigier   Philippe,Dalloz   Marie-Christine,0,1
+Vigier   Philippe,Bricout   Jean-Louis,1,1
+Vigier   Philippe,Alauzet   Éric,0,1
+Vigier   Philippe,Dubié   Jeanine,0,1
+Vigier   Philippe,Maillard   Sylvain,0,1
+Vigier   Philippe,Delatte   Marc,0,1
+Vigier   Philippe,Dufrègne   Jean-Paul,1,1
+Vigier   Philippe,Peyrol   Bénédicte,0,1
+Vigier   Philippe,Cordier   Pierre,0,1
+Vigier   Philippe,Dombreval   Loïc,0,1
+Vigier   Philippe,Ahamada   Saïd,0,1
+Vigier   Philippe,Le Vigoureux   Fabrice,0,1
+Vigier   Philippe,Blanchet   Christophe,0,1
+Vigier   Philippe,Bouyx   Bertrand,0,1
+Vigier   Philippe,Jerretie   Christophe,0,1
+Vigier   Philippe,Mesnier   Thomas,0,1
+Vigier   Philippe,Michel-Brassart   Monica,0,1
+Vigier   Philippe,Moreau   Jean-Baptiste,0,1
+Vigier   Philippe,Chassaing   Philippe,0,1
+Vigier   Philippe,Gipson   Séverine,0,1
+Vigier   Philippe,Cazeneuve   Jean-René,0,1
+Vigier   Philippe,Ménard   Emmanuelle,0,1
+Vigier   Philippe,David   Dominique,0,1
+Vigier   Philippe,Le Bohec   Gaël,0,1
+Vigier   Philippe,Labaronne   Daniel,0,1
+Vigier   Philippe,Causse   Lionel,0,1
+Vigier   Philippe,Amadou   Aude,0,1
+Vigier   Philippe,Sorre   Bertrand,0,1
+Vigier   Philippe,Magnier   Lise,0,1
+Vigier   Philippe,Arend   Christophe,0,1
+Vigier   Philippe,Pahun   Jimmy,0,1
+Vigier   Philippe,Trisse   Nicole,0,1
+Vigier   Philippe,Perrot   Patrice,0,1
+Vigier   Philippe,Osson   Catherine,0,1
+Vigier   Philippe,Cattelot   Anne-Laure,0,1
+Vigier   Philippe,De Temmerman   Jennifer,0,1
+Vigier   Philippe,Roussel   Fabien,1,1
+Vigier   Philippe,Michels   Thierry,0,1
+Vigier   Philippe,Lachaud   Bastien,1,1
+Vigier   Philippe,Saint-Martin   Laurent,0,1
+Vigier   Philippe,Holroyd   Alexandre,0,1
+Vigier   Philippe,Rubin   Sabine,1,1
+Vigier   Philippe,Peu   Stéphane,1,1
+Vigier   Philippe,Ramadier   Alain,0,1
+Vigier   Philippe,Riotton   Véronique,0,1
+Vigier   Philippe,Lenne   Marion,0,1
+Vigier   Philippe,Roseren   Xavier,0,1
+Vigier   Philippe,Verdier-Jouclas   Marie-Christine,0,1
+Vigier   Philippe,Peyron   Michèle,0,1
+Vigier   Philippe,Florennes   Isabelle,0,1
+Vigier   Philippe,Calvez   Céline,0,1
+Vigier   Philippe,Gomez-Bassac   Valérie,0,1
+Vigier   Philippe,Renson   Hugues,0,1
+Vigier   Philippe,Piron   Béatrice,0,1
+Vigier   Philippe,Raphan   Pierre-Alain,0,1
+Vigier   Philippe,Vidal   Annie,0,1
+Vigier   Philippe,Fiévet   Jean-Marie,0,1
+Vigier   Philippe,Jumel   Sébastien,1,1
+Vigier   Philippe,Dirx   Benjamin,0,1
+Vigier   Philippe,de Courson   Charles,0,1
+Dalloz   Marie-Christine,Bricout   Jean-Louis,0,1
+Dalloz   Marie-Christine,Alauzet   Éric,1,1
+Dalloz   Marie-Christine,Dubié   Jeanine,1,1
+Dalloz   Marie-Christine,Maillard   Sylvain,1,1
+Dalloz   Marie-Christine,Delatte   Marc,1,1
+Dalloz   Marie-Christine,Dufrègne   Jean-Paul,0,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Cordier   Pierre,0,1
+Dalloz   Marie-Christine,Dombreval   Loïc,1,1
+Dalloz   Marie-Christine,Ahamada   Saïd,1,1
+Dalloz   Marie-Christine,Le Vigoureux   Fabrice,1,1
+Dalloz   Marie-Christine,Blanchet   Christophe,1,1
+Dalloz   Marie-Christine,Bouyx   Bertrand,1,1
+Dalloz   Marie-Christine,Jerretie   Christophe,1,1
+Dalloz   Marie-Christine,Mesnier   Thomas,1,1
+Dalloz   Marie-Christine,Michel-Brassart   Monica,1,1
+Dalloz   Marie-Christine,Moreau   Jean-Baptiste,1,1
+Dalloz   Marie-Christine,Chassaing   Philippe,1,1
+Dalloz   Marie-Christine,Gipson   Séverine,1,1
+Dalloz   Marie-Christine,Cazeneuve   Jean-René,1,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,0,1
+Dalloz   Marie-Christine,David   Dominique,1,1
+Dalloz   Marie-Christine,Le Bohec   Gaël,1,1
+Dalloz   Marie-Christine,Labaronne   Daniel,1,1
+Dalloz   Marie-Christine,Causse   Lionel,1,1
+Dalloz   Marie-Christine,Amadou   Aude,1,1
+Dalloz   Marie-Christine,Sorre   Bertrand,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Arend   Christophe,1,1
+Dalloz   Marie-Christine,Pahun   Jimmy,1,1
+Dalloz   Marie-Christine,Trisse   Nicole,1,1
+Dalloz   Marie-Christine,Perrot   Patrice,1,1
+Dalloz   Marie-Christine,Osson   Catherine,1,1
+Dalloz   Marie-Christine,Cattelot   Anne-Laure,1,1
+Dalloz   Marie-Christine,De Temmerman   Jennifer,1,1
+Dalloz   Marie-Christine,Roussel   Fabien,0,1
+Dalloz   Marie-Christine,Michels   Thierry,1,1
+Dalloz   Marie-Christine,Lachaud   Bastien,0,1
+Dalloz   Marie-Christine,Saint-Martin   Laurent,1,1
+Dalloz   Marie-Christine,Holroyd   Alexandre,1,1
+Dalloz   Marie-Christine,Rubin   Sabine,0,1
+Dalloz   Marie-Christine,Peu   Stéphane,0,1
+Dalloz   Marie-Christine,Ramadier   Alain,1,1
+Dalloz   Marie-Christine,Riotton   Véronique,1,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Roseren   Xavier,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Dalloz   Marie-Christine,Peyron   Michèle,1,1
+Dalloz   Marie-Christine,Florennes   Isabelle,1,1
+Dalloz   Marie-Christine,Calvez   Céline,1,1
+Dalloz   Marie-Christine,Gomez-Bassac   Valérie,1,1
+Dalloz   Marie-Christine,Renson   Hugues,1,1
+Dalloz   Marie-Christine,Piron   Béatrice,1,1
+Dalloz   Marie-Christine,Raphan   Pierre-Alain,1,1
+Dalloz   Marie-Christine,Vidal   Annie,1,1
+Dalloz   Marie-Christine,Fiévet   Jean-Marie,1,1
+Dalloz   Marie-Christine,Jumel   Sébastien,0,1
+Dalloz   Marie-Christine,Dirx   Benjamin,1,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Bricout   Jean-Louis,Alauzet   Éric,0,1
+Bricout   Jean-Louis,Dubié   Jeanine,0,1
+Bricout   Jean-Louis,Maillard   Sylvain,0,1
+Bricout   Jean-Louis,Delatte   Marc,0,1
+Bricout   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Cordier   Pierre,0,1
+Bricout   Jean-Louis,Dombreval   Loïc,0,1
+Bricout   Jean-Louis,Ahamada   Saïd,0,1
+Bricout   Jean-Louis,Le Vigoureux   Fabrice,0,1
+Bricout   Jean-Louis,Blanchet   Christophe,0,1
+Bricout   Jean-Louis,Bouyx   Bertrand,0,1
+Bricout   Jean-Louis,Jerretie   Christophe,0,1
+Bricout   Jean-Louis,Mesnier   Thomas,0,1
+Bricout   Jean-Louis,Michel-Brassart   Monica,0,1
+Bricout   Jean-Louis,Moreau   Jean-Baptiste,0,1
+Bricout   Jean-Louis,Chassaing   Philippe,0,1
+Bricout   Jean-Louis,Gipson   Séverine,0,1
+Bricout   Jean-Louis,Cazeneuve   Jean-René,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,David   Dominique,0,1
+Bricout   Jean-Louis,Le Bohec   Gaël,0,1
+Bricout   Jean-Louis,Labaronne   Daniel,0,1
+Bricout   Jean-Louis,Causse   Lionel,0,1
+Bricout   Jean-Louis,Amadou   Aude,0,1
+Bricout   Jean-Louis,Sorre   Bertrand,0,1
+Bricout   Jean-Louis,Magnier   Lise,0,1
+Bricout   Jean-Louis,Arend   Christophe,0,1
+Bricout   Jean-Louis,Pahun   Jimmy,0,1
+Bricout   Jean-Louis,Trisse   Nicole,0,1
+Bricout   Jean-Louis,Perrot   Patrice,0,1
+Bricout   Jean-Louis,Osson   Catherine,0,1
+Bricout   Jean-Louis,Cattelot   Anne-Laure,0,1
+Bricout   Jean-Louis,De Temmerman   Jennifer,0,1
+Bricout   Jean-Louis,Roussel   Fabien,1,1
+Bricout   Jean-Louis,Michels   Thierry,0,1
+Bricout   Jean-Louis,Lachaud   Bastien,1,1
+Bricout   Jean-Louis,Saint-Martin   Laurent,0,1
+Bricout   Jean-Louis,Holroyd   Alexandre,0,1
+Bricout   Jean-Louis,Rubin   Sabine,1,1
+Bricout   Jean-Louis,Peu   Stéphane,1,1
+Bricout   Jean-Louis,Ramadier   Alain,0,1
+Bricout   Jean-Louis,Riotton   Véronique,0,1
+Bricout   Jean-Louis,Lenne   Marion,0,1
+Bricout   Jean-Louis,Roseren   Xavier,0,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Peyron   Michèle,0,1
+Bricout   Jean-Louis,Florennes   Isabelle,0,1
+Bricout   Jean-Louis,Calvez   Céline,0,1
+Bricout   Jean-Louis,Gomez-Bassac   Valérie,0,1
+Bricout   Jean-Louis,Renson   Hugues,0,1
+Bricout   Jean-Louis,Piron   Béatrice,0,1
+Bricout   Jean-Louis,Raphan   Pierre-Alain,0,1
+Bricout   Jean-Louis,Vidal   Annie,0,1
+Bricout   Jean-Louis,Fiévet   Jean-Marie,0,1
+Bricout   Jean-Louis,Jumel   Sébastien,1,1
+Bricout   Jean-Louis,Dirx   Benjamin,0,1
+Bricout   Jean-Louis,de Courson   Charles,0,1
+Alauzet   Éric,Dubié   Jeanine,1,1
+Alauzet   Éric,Maillard   Sylvain,1,1
+Alauzet   Éric,Delatte   Marc,1,1
+Alauzet   Éric,Dufrègne   Jean-Paul,0,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Cordier   Pierre,0,1
+Alauzet   Éric,Dombreval   Loïc,1,1
+Alauzet   Éric,Ahamada   Saïd,1,1
+Alauzet   Éric,Le Vigoureux   Fabrice,1,1
+Alauzet   Éric,Blanchet   Christophe,1,1
+Alauzet   Éric,Bouyx   Bertrand,1,1
+Alauzet   Éric,Jerretie   Christophe,1,1
+Alauzet   Éric,Mesnier   Thomas,1,1
+Alauzet   Éric,Michel-Brassart   Monica,1,1
+Alauzet   Éric,Moreau   Jean-Baptiste,1,1
+Alauzet   Éric,Chassaing   Philippe,1,1
+Alauzet   Éric,Gipson   Séverine,1,1
+Alauzet   Éric,Cazeneuve   Jean-René,1,1
+Alauzet   Éric,Ménard   Emmanuelle,0,1
+Alauzet   Éric,David   Dominique,1,1
+Alauzet   Éric,Le Bohec   Gaël,1,1
+Alauzet   Éric,Labaronne   Daniel,1,1
+Alauzet   Éric,Causse   Lionel,1,1
+Alauzet   Éric,Amadou   Aude,1,1
+Alauzet   Éric,Sorre   Bertrand,1,1
+Alauzet   Éric,Magnier   Lise,1,1
+Alauzet   Éric,Arend   Christophe,1,1
+Alauzet   Éric,Pahun   Jimmy,1,1
+Alauzet   Éric,Trisse   Nicole,1,1
+Alauzet   Éric,Perrot   Patrice,1,1
+Alauzet   Éric,Osson   Catherine,1,1
+Alauzet   Éric,Cattelot   Anne-Laure,1,1
+Alauzet   Éric,De Temmerman   Jennifer,1,1
+Alauzet   Éric,Roussel   Fabien,0,1
+Alauzet   Éric,Michels   Thierry,1,1
+Alauzet   Éric,Lachaud   Bastien,0,1
+Alauzet   Éric,Saint-Martin   Laurent,1,1
+Alauzet   Éric,Holroyd   Alexandre,1,1
+Alauzet   Éric,Rubin   Sabine,0,1
+Alauzet   Éric,Peu   Stéphane,0,1
+Alauzet   Éric,Ramadier   Alain,1,1
+Alauzet   Éric,Riotton   Véronique,1,1
+Alauzet   Éric,Lenne   Marion,1,1
+Alauzet   Éric,Roseren   Xavier,1,1
+Alauzet   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Alauzet   Éric,Peyron   Michèle,1,1
+Alauzet   Éric,Florennes   Isabelle,1,1
+Alauzet   Éric,Calvez   Céline,1,1
+Alauzet   Éric,Gomez-Bassac   Valérie,1,1
+Alauzet   Éric,Renson   Hugues,1,1
+Alauzet   Éric,Piron   Béatrice,1,1
+Alauzet   Éric,Raphan   Pierre-Alain,1,1
+Alauzet   Éric,Vidal   Annie,1,1
+Alauzet   Éric,Fiévet   Jean-Marie,1,1
+Alauzet   Éric,Jumel   Sébastien,0,1
+Alauzet   Éric,Dirx   Benjamin,1,1
+Alauzet   Éric,de Courson   Charles,1,1
+Dubié   Jeanine,Maillard   Sylvain,1,1
+Dubié   Jeanine,Delatte   Marc,1,1
+Dubié   Jeanine,Dufrègne   Jean-Paul,0,1
+Dubié   Jeanine,Peyrol   Bénédicte,1,1
+Dubié   Jeanine,Cordier   Pierre,0,1
+Dubié   Jeanine,Dombreval   Loïc,1,1
+Dubié   Jeanine,Ahamada   Saïd,1,1
+Dubié   Jeanine,Le Vigoureux   Fabrice,1,1
+Dubié   Jeanine,Blanchet   Christophe,1,1
+Dubié   Jeanine,Bouyx   Bertrand,1,1
+Dubié   Jeanine,Jerretie   Christophe,1,1
+Dubié   Jeanine,Mesnier   Thomas,1,1
+Dubié   Jeanine,Michel-Brassart   Monica,1,1
+Dubié   Jeanine,Moreau   Jean-Baptiste,1,1
+Dubié   Jeanine,Chassaing   Philippe,1,1
+Dubié   Jeanine,Gipson   Séverine,1,1
+Dubié   Jeanine,Cazeneuve   Jean-René,1,1
+Dubié   Jeanine,Ménard   Emmanuelle,0,1
+Dubié   Jeanine,David   Dominique,1,1
+Dubié   Jeanine,Le Bohec   Gaël,1,1
+Dubié   Jeanine,Labaronne   Daniel,1,1
+Dubié   Jeanine,Causse   Lionel,1,1
+Dubié   Jeanine,Amadou   Aude,1,1
+Dubié   Jeanine,Sorre   Bertrand,1,1
+Dubié   Jeanine,Magnier   Lise,1,1
+Dubié   Jeanine,Arend   Christophe,1,1
+Dubié   Jeanine,Pahun   Jimmy,1,1
+Dubié   Jeanine,Trisse   Nicole,1,1
+Dubié   Jeanine,Perrot   Patrice,1,1
+Dubié   Jeanine,Osson   Catherine,1,1
+Dubié   Jeanine,Cattelot   Anne-Laure,1,1
+Dubié   Jeanine,De Temmerman   Jennifer,1,1
+Dubié   Jeanine,Roussel   Fabien,0,1
+Dubié   Jeanine,Michels   Thierry,1,1
+Dubié   Jeanine,Lachaud   Bastien,0,1
+Dubié   Jeanine,Saint-Martin   Laurent,1,1
+Dubié   Jeanine,Holroyd   Alexandre,1,1
+Dubié   Jeanine,Rubin   Sabine,0,1
+Dubié   Jeanine,Peu   Stéphane,0,1
+Dubié   Jeanine,Ramadier   Alain,1,1
+Dubié   Jeanine,Riotton   Véronique,1,1
+Dubié   Jeanine,Lenne   Marion,1,1
+Dubié   Jeanine,Roseren   Xavier,1,1
+Dubié   Jeanine,Verdier-Jouclas   Marie-Christine,1,1
+Dubié   Jeanine,Peyron   Michèle,1,1
+Dubié   Jeanine,Florennes   Isabelle,1,1
+Dubié   Jeanine,Calvez   Céline,1,1
+Dubié   Jeanine,Gomez-Bassac   Valérie,1,1
+Dubié   Jeanine,Renson   Hugues,1,1
+Dubié   Jeanine,Piron   Béatrice,1,1
+Dubié   Jeanine,Raphan   Pierre-Alain,1,1
+Dubié   Jeanine,Vidal   Annie,1,1
+Dubié   Jeanine,Fiévet   Jean-Marie,1,1
+Dubié   Jeanine,Jumel   Sébastien,0,1
+Dubié   Jeanine,Dirx   Benjamin,1,1
+Dubié   Jeanine,de Courson   Charles,1,1
+Maillard   Sylvain,Delatte   Marc,1,1
+Maillard   Sylvain,Dufrègne   Jean-Paul,0,1
+Maillard   Sylvain,Peyrol   Bénédicte,1,1
+Maillard   Sylvain,Cordier   Pierre,0,1
+Maillard   Sylvain,Dombreval   Loïc,1,1
+Maillard   Sylvain,Ahamada   Saïd,1,1
+Maillard   Sylvain,Le Vigoureux   Fabrice,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Bouyx   Bertrand,1,1
+Maillard   Sylvain,Jerretie   Christophe,1,1
+Maillard   Sylvain,Mesnier   Thomas,1,1
+Maillard   Sylvain,Michel-Brassart   Monica,1,1
+Maillard   Sylvain,Moreau   Jean-Baptiste,1,1
+Maillard   Sylvain,Chassaing   Philippe,1,1
+Maillard   Sylvain,Gipson   Séverine,1,1
+Maillard   Sylvain,Cazeneuve   Jean-René,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,0,1
+Maillard   Sylvain,David   Dominique,1,1
+Maillard   Sylvain,Le Bohec   Gaël,1,1
+Maillard   Sylvain,Labaronne   Daniel,1,1
+Maillard   Sylvain,Causse   Lionel,1,1
+Maillard   Sylvain,Amadou   Aude,1,1
+Maillard   Sylvain,Sorre   Bertrand,1,1
+Maillard   Sylvain,Magnier   Lise,1,1
+Maillard   Sylvain,Arend   Christophe,1,1
+Maillard   Sylvain,Pahun   Jimmy,1,1
+Maillard   Sylvain,Trisse   Nicole,1,1
+Maillard   Sylvain,Perrot   Patrice,1,1
+Maillard   Sylvain,Osson   Catherine,1,1
+Maillard   Sylvain,Cattelot   Anne-Laure,1,1
+Maillard   Sylvain,De Temmerman   Jennifer,1,1
+Maillard   Sylvain,Roussel   Fabien,0,1
+Maillard   Sylvain,Michels   Thierry,1,1
+Maillard   Sylvain,Lachaud   Bastien,0,1
+Maillard   Sylvain,Saint-Martin   Laurent,1,1
+Maillard   Sylvain,Holroyd   Alexandre,1,1
+Maillard   Sylvain,Rubin   Sabine,0,1
+Maillard   Sylvain,Peu   Stéphane,0,1
+Maillard   Sylvain,Ramadier   Alain,1,1
+Maillard   Sylvain,Riotton   Véronique,1,1
+Maillard   Sylvain,Lenne   Marion,1,1
+Maillard   Sylvain,Roseren   Xavier,1,1
+Maillard   Sylvain,Verdier-Jouclas   Marie-Christine,1,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Gomez-Bassac   Valérie,1,1
+Maillard   Sylvain,Renson   Hugues,1,1
+Maillard   Sylvain,Piron   Béatrice,1,1
+Maillard   Sylvain,Raphan   Pierre-Alain,1,1
+Maillard   Sylvain,Vidal   Annie,1,1
+Maillard   Sylvain,Fiévet   Jean-Marie,1,1
+Maillard   Sylvain,Jumel   Sébastien,0,1
+Maillard   Sylvain,Dirx   Benjamin,1,1
+Maillard   Sylvain,de Courson   Charles,1,1
+Delatte   Marc,Dufrègne   Jean-Paul,0,1
+Delatte   Marc,Peyrol   Bénédicte,1,1
+Delatte   Marc,Cordier   Pierre,0,1
+Delatte   Marc,Dombreval   Loïc,1,1
+Delatte   Marc,Ahamada   Saïd,1,1
+Delatte   Marc,Le Vigoureux   Fabrice,1,1
+Delatte   Marc,Blanchet   Christophe,1,1
+Delatte   Marc,Bouyx   Bertrand,1,1
+Delatte   Marc,Jerretie   Christophe,1,1
+Delatte   Marc,Mesnier   Thomas,1,1
+Delatte   Marc,Michel-Brassart   Monica,1,1
+Delatte   Marc,Moreau   Jean-Baptiste,1,1
+Delatte   Marc,Chassaing   Philippe,1,1
+Delatte   Marc,Gipson   Séverine,1,1
+Delatte   Marc,Cazeneuve   Jean-René,1,1
+Delatte   Marc,Ménard   Emmanuelle,0,1
+Delatte   Marc,David   Dominique,1,1
+Delatte   Marc,Le Bohec   Gaël,1,1
+Delatte   Marc,Labaronne   Daniel,1,1
+Delatte   Marc,Causse   Lionel,1,1
+Delatte   Marc,Amadou   Aude,1,1
+Delatte   Marc,Sorre   Bertrand,1,1
+Delatte   Marc,Magnier   Lise,1,1
+Delatte   Marc,Arend   Christophe,1,1
+Delatte   Marc,Pahun   Jimmy,1,1
+Delatte   Marc,Trisse   Nicole,1,1
+Delatte   Marc,Perrot   Patrice,1,1
+Delatte   Marc,Osson   Catherine,1,1
+Delatte   Marc,Cattelot   Anne-Laure,1,1
+Delatte   Marc,De Temmerman   Jennifer,1,1
+Delatte   Marc,Roussel   Fabien,0,1
+Delatte   Marc,Michels   Thierry,1,1
+Delatte   Marc,Lachaud   Bastien,0,1
+Delatte   Marc,Saint-Martin   Laurent,1,1
+Delatte   Marc,Holroyd   Alexandre,1,1
+Delatte   Marc,Rubin   Sabine,0,1
+Delatte   Marc,Peu   Stéphane,0,1
+Delatte   Marc,Ramadier   Alain,1,1
+Delatte   Marc,Riotton   Véronique,1,1
+Delatte   Marc,Lenne   Marion,1,1
+Delatte   Marc,Roseren   Xavier,1,1
+Delatte   Marc,Verdier-Jouclas   Marie-Christine,1,1
+Delatte   Marc,Peyron   Michèle,1,1
+Delatte   Marc,Florennes   Isabelle,1,1
+Delatte   Marc,Calvez   Céline,1,1
+Delatte   Marc,Gomez-Bassac   Valérie,1,1
+Delatte   Marc,Renson   Hugues,1,1
+Delatte   Marc,Piron   Béatrice,1,1
+Delatte   Marc,Raphan   Pierre-Alain,1,1
+Delatte   Marc,Vidal   Annie,1,1
+Delatte   Marc,Fiévet   Jean-Marie,1,1
+Delatte   Marc,Jumel   Sébastien,0,1
+Delatte   Marc,Dirx   Benjamin,1,1
+Delatte   Marc,de Courson   Charles,1,1
+Dufrègne   Jean-Paul,Peyrol   Bénédicte,0,1
+Dufrègne   Jean-Paul,Cordier   Pierre,0,1
+Dufrègne   Jean-Paul,Dombreval   Loïc,0,1
+Dufrègne   Jean-Paul,Ahamada   Saïd,0,1
+Dufrègne   Jean-Paul,Le Vigoureux   Fabrice,0,1
+Dufrègne   Jean-Paul,Blanchet   Christophe,0,1
+Dufrègne   Jean-Paul,Bouyx   Bertrand,0,1
+Dufrègne   Jean-Paul,Jerretie   Christophe,0,1
+Dufrègne   Jean-Paul,Mesnier   Thomas,0,1
+Dufrègne   Jean-Paul,Michel-Brassart   Monica,0,1
+Dufrègne   Jean-Paul,Moreau   Jean-Baptiste,0,1
+Dufrègne   Jean-Paul,Chassaing   Philippe,0,1
+Dufrègne   Jean-Paul,Gipson   Séverine,0,1
+Dufrègne   Jean-Paul,Cazeneuve   Jean-René,0,1
+Dufrègne   Jean-Paul,Ménard   Emmanuelle,0,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Le Bohec   Gaël,0,1
+Dufrègne   Jean-Paul,Labaronne   Daniel,0,1
+Dufrègne   Jean-Paul,Causse   Lionel,0,1
+Dufrègne   Jean-Paul,Amadou   Aude,0,1
+Dufrègne   Jean-Paul,Sorre   Bertrand,0,1
+Dufrègne   Jean-Paul,Magnier   Lise,0,1
+Dufrègne   Jean-Paul,Arend   Christophe,0,1
+Dufrègne   Jean-Paul,Pahun   Jimmy,0,1
+Dufrègne   Jean-Paul,Trisse   Nicole,0,1
+Dufrègne   Jean-Paul,Perrot   Patrice,0,1
+Dufrègne   Jean-Paul,Osson   Catherine,0,1
+Dufrègne   Jean-Paul,Cattelot   Anne-Laure,0,1
+Dufrègne   Jean-Paul,De Temmerman   Jennifer,0,1
+Dufrègne   Jean-Paul,Roussel   Fabien,1,1
+Dufrègne   Jean-Paul,Michels   Thierry,0,1
+Dufrègne   Jean-Paul,Lachaud   Bastien,1,1
+Dufrègne   Jean-Paul,Saint-Martin   Laurent,0,1
+Dufrègne   Jean-Paul,Holroyd   Alexandre,0,1
+Dufrègne   Jean-Paul,Rubin   Sabine,1,1
+Dufrègne   Jean-Paul,Peu   Stéphane,1,1
+Dufrègne   Jean-Paul,Ramadier   Alain,0,1
+Dufrègne   Jean-Paul,Riotton   Véronique,0,1
+Dufrègne   Jean-Paul,Lenne   Marion,0,1
+Dufrègne   Jean-Paul,Roseren   Xavier,0,1
+Dufrègne   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Dufrègne   Jean-Paul,Peyron   Michèle,0,1
+Dufrègne   Jean-Paul,Florennes   Isabelle,0,1
+Dufrègne   Jean-Paul,Calvez   Céline,0,1
+Dufrègne   Jean-Paul,Gomez-Bassac   Valérie,0,1
+Dufrègne   Jean-Paul,Renson   Hugues,0,1
+Dufrègne   Jean-Paul,Piron   Béatrice,0,1
+Dufrègne   Jean-Paul,Raphan   Pierre-Alain,0,1
+Dufrègne   Jean-Paul,Vidal   Annie,0,1
+Dufrègne   Jean-Paul,Fiévet   Jean-Marie,0,1
+Dufrègne   Jean-Paul,Jumel   Sébastien,1,1
+Dufrègne   Jean-Paul,Dirx   Benjamin,0,1
+Dufrègne   Jean-Paul,de Courson   Charles,0,1
+Peyrol   Bénédicte,Cordier   Pierre,0,1
+Peyrol   Bénédicte,Dombreval   Loïc,1,1
+Peyrol   Bénédicte,Ahamada   Saïd,1,1
+Peyrol   Bénédicte,Le Vigoureux   Fabrice,1,1
+Peyrol   Bénédicte,Blanchet   Christophe,1,1
+Peyrol   Bénédicte,Bouyx   Bertrand,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,Mesnier   Thomas,1,1
+Peyrol   Bénédicte,Michel-Brassart   Monica,1,1
+Peyrol   Bénédicte,Moreau   Jean-Baptiste,1,1
+Peyrol   Bénédicte,Chassaing   Philippe,1,1
+Peyrol   Bénédicte,Gipson   Séverine,1,1
+Peyrol   Bénédicte,Cazeneuve   Jean-René,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,0,1
+Peyrol   Bénédicte,David   Dominique,1,1
+Peyrol   Bénédicte,Le Bohec   Gaël,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Causse   Lionel,1,1
+Peyrol   Bénédicte,Amadou   Aude,1,1
+Peyrol   Bénédicte,Sorre   Bertrand,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Arend   Christophe,1,1
+Peyrol   Bénédicte,Pahun   Jimmy,1,1
+Peyrol   Bénédicte,Trisse   Nicole,1,1
+Peyrol   Bénédicte,Perrot   Patrice,1,1
+Peyrol   Bénédicte,Osson   Catherine,1,1
+Peyrol   Bénédicte,Cattelot   Anne-Laure,1,1
+Peyrol   Bénédicte,De Temmerman   Jennifer,1,1
+Peyrol   Bénédicte,Roussel   Fabien,0,1
+Peyrol   Bénédicte,Michels   Thierry,1,1
+Peyrol   Bénédicte,Lachaud   Bastien,0,1
+Peyrol   Bénédicte,Saint-Martin   Laurent,1,1
+Peyrol   Bénédicte,Holroyd   Alexandre,1,1
+Peyrol   Bénédicte,Rubin   Sabine,0,1
+Peyrol   Bénédicte,Peu   Stéphane,0,1
+Peyrol   Bénédicte,Ramadier   Alain,1,1
+Peyrol   Bénédicte,Riotton   Véronique,1,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Roseren   Xavier,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Peyron   Michèle,1,1
+Peyrol   Bénédicte,Florennes   Isabelle,1,1
+Peyrol   Bénédicte,Calvez   Céline,1,1
+Peyrol   Bénédicte,Gomez-Bassac   Valérie,1,1
+Peyrol   Bénédicte,Renson   Hugues,1,1
+Peyrol   Bénédicte,Piron   Béatrice,1,1
+Peyrol   Bénédicte,Raphan   Pierre-Alain,1,1
+Peyrol   Bénédicte,Vidal   Annie,1,1
+Peyrol   Bénédicte,Fiévet   Jean-Marie,1,1
+Peyrol   Bénédicte,Jumel   Sébastien,0,1
+Peyrol   Bénédicte,Dirx   Benjamin,1,1
+Peyrol   Bénédicte,de Courson   Charles,1,1
+Cordier   Pierre,Dombreval   Loïc,0,1
+Cordier   Pierre,Ahamada   Saïd,0,1
+Cordier   Pierre,Le Vigoureux   Fabrice,0,1
+Cordier   Pierre,Blanchet   Christophe,0,1
+Cordier   Pierre,Bouyx   Bertrand,0,1
+Cordier   Pierre,Jerretie   Christophe,0,1
+Cordier   Pierre,Mesnier   Thomas,0,1
+Cordier   Pierre,Michel-Brassart   Monica,0,1
+Cordier   Pierre,Moreau   Jean-Baptiste,0,1
+Cordier   Pierre,Chassaing   Philippe,0,1
+Cordier   Pierre,Gipson   Séverine,0,1
+Cordier   Pierre,Cazeneuve   Jean-René,0,1
+Cordier   Pierre,Ménard   Emmanuelle,1,1
+Cordier   Pierre,David   Dominique,0,1
+Cordier   Pierre,Le Bohec   Gaël,0,1
+Cordier   Pierre,Labaronne   Daniel,0,1
+Cordier   Pierre,Causse   Lionel,0,1
+Cordier   Pierre,Amadou   Aude,0,1
+Cordier   Pierre,Sorre   Bertrand,0,1
+Cordier   Pierre,Magnier   Lise,0,1
+Cordier   Pierre,Arend   Christophe,0,1
+Cordier   Pierre,Pahun   Jimmy,0,1
+Cordier   Pierre,Trisse   Nicole,0,1
+Cordier   Pierre,Perrot   Patrice,0,1
+Cordier   Pierre,Osson   Catherine,0,1
+Cordier   Pierre,Cattelot   Anne-Laure,0,1
+Cordier   Pierre,De Temmerman   Jennifer,0,1
+Cordier   Pierre,Roussel   Fabien,0,1
+Cordier   Pierre,Michels   Thierry,0,1
+Cordier   Pierre,Lachaud   Bastien,0,1
+Cordier   Pierre,Saint-Martin   Laurent,0,1
+Cordier   Pierre,Holroyd   Alexandre,0,1
+Cordier   Pierre,Rubin   Sabine,0,1
+Cordier   Pierre,Peu   Stéphane,0,1
+Cordier   Pierre,Ramadier   Alain,0,1
+Cordier   Pierre,Riotton   Véronique,0,1
+Cordier   Pierre,Lenne   Marion,0,1
+Cordier   Pierre,Roseren   Xavier,0,1
+Cordier   Pierre,Verdier-Jouclas   Marie-Christine,0,1
+Cordier   Pierre,Peyron   Michèle,0,1
+Cordier   Pierre,Florennes   Isabelle,0,1
+Cordier   Pierre,Calvez   Céline,0,1
+Cordier   Pierre,Gomez-Bassac   Valérie,0,1
+Cordier   Pierre,Renson   Hugues,0,1
+Cordier   Pierre,Piron   Béatrice,0,1
+Cordier   Pierre,Raphan   Pierre-Alain,0,1
+Cordier   Pierre,Vidal   Annie,0,1
+Cordier   Pierre,Fiévet   Jean-Marie,0,1
+Cordier   Pierre,Jumel   Sébastien,0,1
+Cordier   Pierre,Dirx   Benjamin,0,1
+Cordier   Pierre,de Courson   Charles,0,1
+Dombreval   Loïc,Ahamada   Saïd,1,1
+Dombreval   Loïc,Le Vigoureux   Fabrice,1,1
+Dombreval   Loïc,Blanchet   Christophe,1,1
+Dombreval   Loïc,Bouyx   Bertrand,1,1
+Dombreval   Loïc,Jerretie   Christophe,1,1
+Dombreval   Loïc,Mesnier   Thomas,1,1
+Dombreval   Loïc,Michel-Brassart   Monica,1,1
+Dombreval   Loïc,Moreau   Jean-Baptiste,1,1
+Dombreval   Loïc,Chassaing   Philippe,1,1
+Dombreval   Loïc,Gipson   Séverine,1,1
+Dombreval   Loïc,Cazeneuve   Jean-René,1,1
+Dombreval   Loïc,Ménard   Emmanuelle,0,1
+Dombreval   Loïc,David   Dominique,1,1
+Dombreval   Loïc,Le Bohec   Gaël,1,1
+Dombreval   Loïc,Labaronne   Daniel,1,1
+Dombreval   Loïc,Causse   Lionel,1,1
+Dombreval   Loïc,Amadou   Aude,1,1
+Dombreval   Loïc,Sorre   Bertrand,1,1
+Dombreval   Loïc,Magnier   Lise,1,1
+Dombreval   Loïc,Arend   Christophe,1,1
+Dombreval   Loïc,Pahun   Jimmy,1,1
+Dombreval   Loïc,Trisse   Nicole,1,1
+Dombreval   Loïc,Perrot   Patrice,1,1
+Dombreval   Loïc,Osson   Catherine,1,1
+Dombreval   Loïc,Cattelot   Anne-Laure,1,1
+Dombreval   Loïc,De Temmerman   Jennifer,1,1
+Dombreval   Loïc,Roussel   Fabien,0,1
+Dombreval   Loïc,Michels   Thierry,1,1
+Dombreval   Loïc,Lachaud   Bastien,0,1
+Dombreval   Loïc,Saint-Martin   Laurent,1,1
+Dombreval   Loïc,Holroyd   Alexandre,1,1
+Dombreval   Loïc,Rubin   Sabine,0,1
+Dombreval   Loïc,Peu   Stéphane,0,1
+Dombreval   Loïc,Ramadier   Alain,1,1
+Dombreval   Loïc,Riotton   Véronique,1,1
+Dombreval   Loïc,Lenne   Marion,1,1
+Dombreval   Loïc,Roseren   Xavier,1,1
+Dombreval   Loïc,Verdier-Jouclas   Marie-Christine,1,1
+Dombreval   Loïc,Peyron   Michèle,1,1
+Dombreval   Loïc,Florennes   Isabelle,1,1
+Dombreval   Loïc,Calvez   Céline,1,1
+Dombreval   Loïc,Gomez-Bassac   Valérie,1,1
+Dombreval   Loïc,Renson   Hugues,1,1
+Dombreval   Loïc,Piron   Béatrice,1,1
+Dombreval   Loïc,Raphan   Pierre-Alain,1,1
+Dombreval   Loïc,Vidal   Annie,1,1
+Dombreval   Loïc,Fiévet   Jean-Marie,1,1
+Dombreval   Loïc,Jumel   Sébastien,0,1
+Dombreval   Loïc,Dirx   Benjamin,1,1
+Dombreval   Loïc,de Courson   Charles,1,1
+Ahamada   Saïd,Le Vigoureux   Fabrice,1,1
+Ahamada   Saïd,Blanchet   Christophe,1,1
+Ahamada   Saïd,Bouyx   Bertrand,1,1
+Ahamada   Saïd,Jerretie   Christophe,1,1
+Ahamada   Saïd,Mesnier   Thomas,1,1
+Ahamada   Saïd,Michel-Brassart   Monica,1,1
+Ahamada   Saïd,Moreau   Jean-Baptiste,1,1
+Ahamada   Saïd,Chassaing   Philippe,1,1
+Ahamada   Saïd,Gipson   Séverine,1,1
+Ahamada   Saïd,Cazeneuve   Jean-René,1,1
+Ahamada   Saïd,Ménard   Emmanuelle,0,1
+Ahamada   Saïd,David   Dominique,1,1
+Ahamada   Saïd,Le Bohec   Gaël,1,1
+Ahamada   Saïd,Labaronne   Daniel,1,1
+Ahamada   Saïd,Causse   Lionel,1,1
+Ahamada   Saïd,Amadou   Aude,1,1
+Ahamada   Saïd,Sorre   Bertrand,1,1
+Ahamada   Saïd,Magnier   Lise,1,1
+Ahamada   Saïd,Arend   Christophe,1,1
+Ahamada   Saïd,Pahun   Jimmy,1,1
+Ahamada   Saïd,Trisse   Nicole,1,1
+Ahamada   Saïd,Perrot   Patrice,1,1
+Ahamada   Saïd,Osson   Catherine,1,1
+Ahamada   Saïd,Cattelot   Anne-Laure,1,1
+Ahamada   Saïd,De Temmerman   Jennifer,1,1
+Ahamada   Saïd,Roussel   Fabien,0,1
+Ahamada   Saïd,Michels   Thierry,1,1
+Ahamada   Saïd,Lachaud   Bastien,0,1
+Ahamada   Saïd,Saint-Martin   Laurent,1,1
+Ahamada   Saïd,Holroyd   Alexandre,1,1
+Ahamada   Saïd,Rubin   Sabine,0,1
+Ahamada   Saïd,Peu   Stéphane,0,1
+Ahamada   Saïd,Ramadier   Alain,1,1
+Ahamada   Saïd,Riotton   Véronique,1,1
+Ahamada   Saïd,Lenne   Marion,1,1
+Ahamada   Saïd,Roseren   Xavier,1,1
+Ahamada   Saïd,Verdier-Jouclas   Marie-Christine,1,1
+Ahamada   Saïd,Peyron   Michèle,1,1
+Ahamada   Saïd,Florennes   Isabelle,1,1
+Ahamada   Saïd,Calvez   Céline,1,1
+Ahamada   Saïd,Gomez-Bassac   Valérie,1,1
+Ahamada   Saïd,Renson   Hugues,1,1
+Ahamada   Saïd,Piron   Béatrice,1,1
+Ahamada   Saïd,Raphan   Pierre-Alain,1,1
+Ahamada   Saïd,Vidal   Annie,1,1
+Ahamada   Saïd,Fiévet   Jean-Marie,1,1
+Ahamada   Saïd,Jumel   Sébastien,0,1
+Ahamada   Saïd,Dirx   Benjamin,1,1
+Ahamada   Saïd,de Courson   Charles,1,1
+Le Vigoureux   Fabrice,Blanchet   Christophe,1,1
+Le Vigoureux   Fabrice,Bouyx   Bertrand,1,1
+Le Vigoureux   Fabrice,Jerretie   Christophe,1,1
+Le Vigoureux   Fabrice,Mesnier   Thomas,1,1
+Le Vigoureux   Fabrice,Michel-Brassart   Monica,1,1
+Le Vigoureux   Fabrice,Moreau   Jean-Baptiste,1,1
+Le Vigoureux   Fabrice,Chassaing   Philippe,1,1
+Le Vigoureux   Fabrice,Gipson   Séverine,1,1
+Le Vigoureux   Fabrice,Cazeneuve   Jean-René,1,1
+Le Vigoureux   Fabrice,Ménard   Emmanuelle,0,1
+Le Vigoureux   Fabrice,David   Dominique,1,1
+Le Vigoureux   Fabrice,Le Bohec   Gaël,1,1
+Le Vigoureux   Fabrice,Labaronne   Daniel,1,1
+Le Vigoureux   Fabrice,Causse   Lionel,1,1
+Le Vigoureux   Fabrice,Amadou   Aude,1,1
+Le Vigoureux   Fabrice,Sorre   Bertrand,1,1
+Le Vigoureux   Fabrice,Magnier   Lise,1,1
+Le Vigoureux   Fabrice,Arend   Christophe,1,1
+Le Vigoureux   Fabrice,Pahun   Jimmy,1,1
+Le Vigoureux   Fabrice,Trisse   Nicole,1,1
+Le Vigoureux   Fabrice,Perrot   Patrice,1,1
+Le Vigoureux   Fabrice,Osson   Catherine,1,1
+Le Vigoureux   Fabrice,Cattelot   Anne-Laure,1,1
+Le Vigoureux   Fabrice,De Temmerman   Jennifer,1,1
+Le Vigoureux   Fabrice,Roussel   Fabien,0,1
+Le Vigoureux   Fabrice,Michels   Thierry,1,1
+Le Vigoureux   Fabrice,Lachaud   Bastien,0,1
+Le Vigoureux   Fabrice,Saint-Martin   Laurent,1,1
+Le Vigoureux   Fabrice,Holroyd   Alexandre,1,1
+Le Vigoureux   Fabrice,Rubin   Sabine,0,1
+Le Vigoureux   Fabrice,Peu   Stéphane,0,1
+Le Vigoureux   Fabrice,Ramadier   Alain,1,1
+Le Vigoureux   Fabrice,Riotton   Véronique,1,1
+Le Vigoureux   Fabrice,Lenne   Marion,1,1
+Le Vigoureux   Fabrice,Roseren   Xavier,1,1
+Le Vigoureux   Fabrice,Verdier-Jouclas   Marie-Christine,1,1
+Le Vigoureux   Fabrice,Peyron   Michèle,1,1
+Le Vigoureux   Fabrice,Florennes   Isabelle,1,1
+Le Vigoureux   Fabrice,Calvez   Céline,1,1
+Le Vigoureux   Fabrice,Gomez-Bassac   Valérie,1,1
+Le Vigoureux   Fabrice,Renson   Hugues,1,1
+Le Vigoureux   Fabrice,Piron   Béatrice,1,1
+Le Vigoureux   Fabrice,Raphan   Pierre-Alain,1,1
+Le Vigoureux   Fabrice,Vidal   Annie,1,1
+Le Vigoureux   Fabrice,Fiévet   Jean-Marie,1,1
+Le Vigoureux   Fabrice,Jumel   Sébastien,0,1
+Le Vigoureux   Fabrice,Dirx   Benjamin,1,1
+Le Vigoureux   Fabrice,de Courson   Charles,1,1
+Blanchet   Christophe,Bouyx   Bertrand,1,1
+Blanchet   Christophe,Jerretie   Christophe,1,1
+Blanchet   Christophe,Mesnier   Thomas,1,1
+Blanchet   Christophe,Michel-Brassart   Monica,1,1
+Blanchet   Christophe,Moreau   Jean-Baptiste,1,1
+Blanchet   Christophe,Chassaing   Philippe,1,1
+Blanchet   Christophe,Gipson   Séverine,1,1
+Blanchet   Christophe,Cazeneuve   Jean-René,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,0,1
+Blanchet   Christophe,David   Dominique,1,1
+Blanchet   Christophe,Le Bohec   Gaël,1,1
+Blanchet   Christophe,Labaronne   Daniel,1,1
+Blanchet   Christophe,Causse   Lionel,1,1
+Blanchet   Christophe,Amadou   Aude,1,1
+Blanchet   Christophe,Sorre   Bertrand,1,1
+Blanchet   Christophe,Magnier   Lise,1,1
+Blanchet   Christophe,Arend   Christophe,1,1
+Blanchet   Christophe,Pahun   Jimmy,1,1
+Blanchet   Christophe,Trisse   Nicole,1,1
+Blanchet   Christophe,Perrot   Patrice,1,1
+Blanchet   Christophe,Osson   Catherine,1,1
+Blanchet   Christophe,Cattelot   Anne-Laure,1,1
+Blanchet   Christophe,De Temmerman   Jennifer,1,1
+Blanchet   Christophe,Roussel   Fabien,0,1
+Blanchet   Christophe,Michels   Thierry,1,1
+Blanchet   Christophe,Lachaud   Bastien,0,1
+Blanchet   Christophe,Saint-Martin   Laurent,1,1
+Blanchet   Christophe,Holroyd   Alexandre,1,1
+Blanchet   Christophe,Rubin   Sabine,0,1
+Blanchet   Christophe,Peu   Stéphane,0,1
+Blanchet   Christophe,Ramadier   Alain,1,1
+Blanchet   Christophe,Riotton   Véronique,1,1
+Blanchet   Christophe,Lenne   Marion,1,1
+Blanchet   Christophe,Roseren   Xavier,1,1
+Blanchet   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Blanchet   Christophe,Peyron   Michèle,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Calvez   Céline,1,1
+Blanchet   Christophe,Gomez-Bassac   Valérie,1,1
+Blanchet   Christophe,Renson   Hugues,1,1
+Blanchet   Christophe,Piron   Béatrice,1,1
+Blanchet   Christophe,Raphan   Pierre-Alain,1,1
+Blanchet   Christophe,Vidal   Annie,1,1
+Blanchet   Christophe,Fiévet   Jean-Marie,1,1
+Blanchet   Christophe,Jumel   Sébastien,0,1
+Blanchet   Christophe,Dirx   Benjamin,1,1
+Blanchet   Christophe,de Courson   Charles,1,1
+Bouyx   Bertrand,Jerretie   Christophe,1,1
+Bouyx   Bertrand,Mesnier   Thomas,1,1
+Bouyx   Bertrand,Michel-Brassart   Monica,1,1
+Bouyx   Bertrand,Moreau   Jean-Baptiste,1,1
+Bouyx   Bertrand,Chassaing   Philippe,1,1
+Bouyx   Bertrand,Gipson   Séverine,1,1
+Bouyx   Bertrand,Cazeneuve   Jean-René,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,0,1
+Bouyx   Bertrand,David   Dominique,1,1
+Bouyx   Bertrand,Le Bohec   Gaël,1,1
+Bouyx   Bertrand,Labaronne   Daniel,1,1
+Bouyx   Bertrand,Causse   Lionel,1,1
+Bouyx   Bertrand,Amadou   Aude,1,1
+Bouyx   Bertrand,Sorre   Bertrand,1,1
+Bouyx   Bertrand,Magnier   Lise,1,1
+Bouyx   Bertrand,Arend   Christophe,1,1
+Bouyx   Bertrand,Pahun   Jimmy,1,1
+Bouyx   Bertrand,Trisse   Nicole,1,1
+Bouyx   Bertrand,Perrot   Patrice,1,1
+Bouyx   Bertrand,Osson   Catherine,1,1
+Bouyx   Bertrand,Cattelot   Anne-Laure,1,1
+Bouyx   Bertrand,De Temmerman   Jennifer,1,1
+Bouyx   Bertrand,Roussel   Fabien,0,1
+Bouyx   Bertrand,Michels   Thierry,1,1
+Bouyx   Bertrand,Lachaud   Bastien,0,1
+Bouyx   Bertrand,Saint-Martin   Laurent,1,1
+Bouyx   Bertrand,Holroyd   Alexandre,1,1
+Bouyx   Bertrand,Rubin   Sabine,0,1
+Bouyx   Bertrand,Peu   Stéphane,0,1
+Bouyx   Bertrand,Ramadier   Alain,1,1
+Bouyx   Bertrand,Riotton   Véronique,1,1
+Bouyx   Bertrand,Lenne   Marion,1,1
+Bouyx   Bertrand,Roseren   Xavier,1,1
+Bouyx   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Florennes   Isabelle,1,1
+Bouyx   Bertrand,Calvez   Céline,1,1
+Bouyx   Bertrand,Gomez-Bassac   Valérie,1,1
+Bouyx   Bertrand,Renson   Hugues,1,1
+Bouyx   Bertrand,Piron   Béatrice,1,1
+Bouyx   Bertrand,Raphan   Pierre-Alain,1,1
+Bouyx   Bertrand,Vidal   Annie,1,1
+Bouyx   Bertrand,Fiévet   Jean-Marie,1,1
+Bouyx   Bertrand,Jumel   Sébastien,0,1
+Bouyx   Bertrand,Dirx   Benjamin,1,1
+Bouyx   Bertrand,de Courson   Charles,1,1
+Jerretie   Christophe,Mesnier   Thomas,1,1
+Jerretie   Christophe,Michel-Brassart   Monica,1,1
+Jerretie   Christophe,Moreau   Jean-Baptiste,1,1
+Jerretie   Christophe,Chassaing   Philippe,1,1
+Jerretie   Christophe,Gipson   Séverine,1,1
+Jerretie   Christophe,Cazeneuve   Jean-René,1,1
+Jerretie   Christophe,Ménard   Emmanuelle,0,1
+Jerretie   Christophe,David   Dominique,1,1
+Jerretie   Christophe,Le Bohec   Gaël,1,1
+Jerretie   Christophe,Labaronne   Daniel,1,1
+Jerretie   Christophe,Causse   Lionel,1,1
+Jerretie   Christophe,Amadou   Aude,1,1
+Jerretie   Christophe,Sorre   Bertrand,1,1
+Jerretie   Christophe,Magnier   Lise,1,1
+Jerretie   Christophe,Arend   Christophe,1,1
+Jerretie   Christophe,Pahun   Jimmy,1,1
+Jerretie   Christophe,Trisse   Nicole,1,1
+Jerretie   Christophe,Perrot   Patrice,1,1
+Jerretie   Christophe,Osson   Catherine,1,1
+Jerretie   Christophe,Cattelot   Anne-Laure,1,1
+Jerretie   Christophe,De Temmerman   Jennifer,1,1
+Jerretie   Christophe,Roussel   Fabien,0,1
+Jerretie   Christophe,Michels   Thierry,1,1
+Jerretie   Christophe,Lachaud   Bastien,0,1
+Jerretie   Christophe,Saint-Martin   Laurent,1,1
+Jerretie   Christophe,Holroyd   Alexandre,1,1
+Jerretie   Christophe,Rubin   Sabine,0,1
+Jerretie   Christophe,Peu   Stéphane,0,1
+Jerretie   Christophe,Ramadier   Alain,1,1
+Jerretie   Christophe,Riotton   Véronique,1,1
+Jerretie   Christophe,Lenne   Marion,1,1
+Jerretie   Christophe,Roseren   Xavier,1,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Peyron   Michèle,1,1
+Jerretie   Christophe,Florennes   Isabelle,1,1
+Jerretie   Christophe,Calvez   Céline,1,1
+Jerretie   Christophe,Gomez-Bassac   Valérie,1,1
+Jerretie   Christophe,Renson   Hugues,1,1
+Jerretie   Christophe,Piron   Béatrice,1,1
+Jerretie   Christophe,Raphan   Pierre-Alain,1,1
+Jerretie   Christophe,Vidal   Annie,1,1
+Jerretie   Christophe,Fiévet   Jean-Marie,1,1
+Jerretie   Christophe,Jumel   Sébastien,0,1
+Jerretie   Christophe,Dirx   Benjamin,1,1
+Jerretie   Christophe,de Courson   Charles,1,1
+Mesnier   Thomas,Michel-Brassart   Monica,1,1
+Mesnier   Thomas,Moreau   Jean-Baptiste,1,1
+Mesnier   Thomas,Chassaing   Philippe,1,1
+Mesnier   Thomas,Gipson   Séverine,1,1
+Mesnier   Thomas,Cazeneuve   Jean-René,1,1
+Mesnier   Thomas,Ménard   Emmanuelle,0,1
+Mesnier   Thomas,David   Dominique,1,1
+Mesnier   Thomas,Le Bohec   Gaël,1,1
+Mesnier   Thomas,Labaronne   Daniel,1,1
+Mesnier   Thomas,Causse   Lionel,1,1
+Mesnier   Thomas,Amadou   Aude,1,1
+Mesnier   Thomas,Sorre   Bertrand,1,1
+Mesnier   Thomas,Magnier   Lise,1,1
+Mesnier   Thomas,Arend   Christophe,1,1
+Mesnier   Thomas,Pahun   Jimmy,1,1
+Mesnier   Thomas,Trisse   Nicole,1,1
+Mesnier   Thomas,Perrot   Patrice,1,1
+Mesnier   Thomas,Osson   Catherine,1,1
+Mesnier   Thomas,Cattelot   Anne-Laure,1,1
+Mesnier   Thomas,De Temmerman   Jennifer,1,1
+Mesnier   Thomas,Roussel   Fabien,0,1
+Mesnier   Thomas,Michels   Thierry,1,1
+Mesnier   Thomas,Lachaud   Bastien,0,1
+Mesnier   Thomas,Saint-Martin   Laurent,1,1
+Mesnier   Thomas,Holroyd   Alexandre,1,1
+Mesnier   Thomas,Rubin   Sabine,0,1
+Mesnier   Thomas,Peu   Stéphane,0,1
+Mesnier   Thomas,Ramadier   Alain,1,1
+Mesnier   Thomas,Riotton   Véronique,1,1
+Mesnier   Thomas,Lenne   Marion,1,1
+Mesnier   Thomas,Roseren   Xavier,1,1
+Mesnier   Thomas,Verdier-Jouclas   Marie-Christine,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Florennes   Isabelle,1,1
+Mesnier   Thomas,Calvez   Céline,1,1
+Mesnier   Thomas,Gomez-Bassac   Valérie,1,1
+Mesnier   Thomas,Renson   Hugues,1,1
+Mesnier   Thomas,Piron   Béatrice,1,1
+Mesnier   Thomas,Raphan   Pierre-Alain,1,1
+Mesnier   Thomas,Vidal   Annie,1,1
+Mesnier   Thomas,Fiévet   Jean-Marie,1,1
+Mesnier   Thomas,Jumel   Sébastien,0,1
+Mesnier   Thomas,Dirx   Benjamin,1,1
+Mesnier   Thomas,de Courson   Charles,1,1
+Michel-Brassart   Monica,Moreau   Jean-Baptiste,1,1
+Michel-Brassart   Monica,Chassaing   Philippe,1,1
+Michel-Brassart   Monica,Gipson   Séverine,1,1
+Michel-Brassart   Monica,Cazeneuve   Jean-René,1,1
+Michel-Brassart   Monica,Ménard   Emmanuelle,0,1
+Michel-Brassart   Monica,David   Dominique,1,1
+Michel-Brassart   Monica,Le Bohec   Gaël,1,1
+Michel-Brassart   Monica,Labaronne   Daniel,1,1
+Michel-Brassart   Monica,Causse   Lionel,1,1
+Michel-Brassart   Monica,Amadou   Aude,1,1
+Michel-Brassart   Monica,Sorre   Bertrand,1,1
+Michel-Brassart   Monica,Magnier   Lise,1,1
+Michel-Brassart   Monica,Arend   Christophe,1,1
+Michel-Brassart   Monica,Pahun   Jimmy,1,1
+Michel-Brassart   Monica,Trisse   Nicole,1,1
+Michel-Brassart   Monica,Perrot   Patrice,1,1
+Michel-Brassart   Monica,Osson   Catherine,1,1
+Michel-Brassart   Monica,Cattelot   Anne-Laure,1,1
+Michel-Brassart   Monica,De Temmerman   Jennifer,1,1
+Michel-Brassart   Monica,Roussel   Fabien,0,1
+Michel-Brassart   Monica,Michels   Thierry,1,1
+Michel-Brassart   Monica,Lachaud   Bastien,0,1
+Michel-Brassart   Monica,Saint-Martin   Laurent,1,1
+Michel-Brassart   Monica,Holroyd   Alexandre,1,1
+Michel-Brassart   Monica,Rubin   Sabine,0,1
+Michel-Brassart   Monica,Peu   Stéphane,0,1
+Michel-Brassart   Monica,Ramadier   Alain,1,1
+Michel-Brassart   Monica,Riotton   Véronique,1,1
+Michel-Brassart   Monica,Lenne   Marion,1,1
+Michel-Brassart   Monica,Roseren   Xavier,1,1
+Michel-Brassart   Monica,Verdier-Jouclas   Marie-Christine,1,1
+Michel-Brassart   Monica,Peyron   Michèle,1,1
+Michel-Brassart   Monica,Florennes   Isabelle,1,1
+Michel-Brassart   Monica,Calvez   Céline,1,1
+Michel-Brassart   Monica,Gomez-Bassac   Valérie,1,1
+Michel-Brassart   Monica,Renson   Hugues,1,1
+Michel-Brassart   Monica,Piron   Béatrice,1,1
+Michel-Brassart   Monica,Raphan   Pierre-Alain,1,1
+Michel-Brassart   Monica,Vidal   Annie,1,1
+Michel-Brassart   Monica,Fiévet   Jean-Marie,1,1
+Michel-Brassart   Monica,Jumel   Sébastien,0,1
+Michel-Brassart   Monica,Dirx   Benjamin,1,1
+Michel-Brassart   Monica,de Courson   Charles,1,1
+Moreau   Jean-Baptiste,Chassaing   Philippe,1,1
+Moreau   Jean-Baptiste,Gipson   Séverine,1,1
+Moreau   Jean-Baptiste,Cazeneuve   Jean-René,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,0,1
+Moreau   Jean-Baptiste,David   Dominique,1,1
+Moreau   Jean-Baptiste,Le Bohec   Gaël,1,1
+Moreau   Jean-Baptiste,Labaronne   Daniel,1,1
+Moreau   Jean-Baptiste,Causse   Lionel,1,1
+Moreau   Jean-Baptiste,Amadou   Aude,1,1
+Moreau   Jean-Baptiste,Sorre   Bertrand,1,1
+Moreau   Jean-Baptiste,Magnier   Lise,1,1
+Moreau   Jean-Baptiste,Arend   Christophe,1,1
+Moreau   Jean-Baptiste,Pahun   Jimmy,1,1
+Moreau   Jean-Baptiste,Trisse   Nicole,1,1
+Moreau   Jean-Baptiste,Perrot   Patrice,1,1
+Moreau   Jean-Baptiste,Osson   Catherine,1,1
+Moreau   Jean-Baptiste,Cattelot   Anne-Laure,1,1
+Moreau   Jean-Baptiste,De Temmerman   Jennifer,1,1
+Moreau   Jean-Baptiste,Roussel   Fabien,0,1
+Moreau   Jean-Baptiste,Michels   Thierry,1,1
+Moreau   Jean-Baptiste,Lachaud   Bastien,0,1
+Moreau   Jean-Baptiste,Saint-Martin   Laurent,1,1
+Moreau   Jean-Baptiste,Holroyd   Alexandre,1,1
+Moreau   Jean-Baptiste,Rubin   Sabine,0,1
+Moreau   Jean-Baptiste,Peu   Stéphane,0,1
+Moreau   Jean-Baptiste,Ramadier   Alain,1,1
+Moreau   Jean-Baptiste,Riotton   Véronique,1,1
+Moreau   Jean-Baptiste,Lenne   Marion,1,1
+Moreau   Jean-Baptiste,Roseren   Xavier,1,1
+Moreau   Jean-Baptiste,Verdier-Jouclas   Marie-Christine,1,1
+Moreau   Jean-Baptiste,Peyron   Michèle,1,1
+Moreau   Jean-Baptiste,Florennes   Isabelle,1,1
+Moreau   Jean-Baptiste,Calvez   Céline,1,1
+Moreau   Jean-Baptiste,Gomez-Bassac   Valérie,1,1
+Moreau   Jean-Baptiste,Renson   Hugues,1,1
+Moreau   Jean-Baptiste,Piron   Béatrice,1,1
+Moreau   Jean-Baptiste,Raphan   Pierre-Alain,1,1
+Moreau   Jean-Baptiste,Vidal   Annie,1,1
+Moreau   Jean-Baptiste,Fiévet   Jean-Marie,1,1
+Moreau   Jean-Baptiste,Jumel   Sébastien,0,1
+Moreau   Jean-Baptiste,Dirx   Benjamin,1,1
+Moreau   Jean-Baptiste,de Courson   Charles,1,1
+Chassaing   Philippe,Gipson   Séverine,1,1
+Chassaing   Philippe,Cazeneuve   Jean-René,1,1
+Chassaing   Philippe,Ménard   Emmanuelle,0,1
+Chassaing   Philippe,David   Dominique,1,1
+Chassaing   Philippe,Le Bohec   Gaël,1,1
+Chassaing   Philippe,Labaronne   Daniel,1,1
+Chassaing   Philippe,Causse   Lionel,1,1
+Chassaing   Philippe,Amadou   Aude,1,1
+Chassaing   Philippe,Sorre   Bertrand,1,1
+Chassaing   Philippe,Magnier   Lise,1,1
+Chassaing   Philippe,Arend   Christophe,1,1
+Chassaing   Philippe,Pahun   Jimmy,1,1
+Chassaing   Philippe,Trisse   Nicole,1,1
+Chassaing   Philippe,Perrot   Patrice,1,1
+Chassaing   Philippe,Osson   Catherine,1,1
+Chassaing   Philippe,Cattelot   Anne-Laure,1,1
+Chassaing   Philippe,De Temmerman   Jennifer,1,1
+Chassaing   Philippe,Roussel   Fabien,0,1
+Chassaing   Philippe,Michels   Thierry,1,1
+Chassaing   Philippe,Lachaud   Bastien,0,1
+Chassaing   Philippe,Saint-Martin   Laurent,1,1
+Chassaing   Philippe,Holroyd   Alexandre,1,1
+Chassaing   Philippe,Rubin   Sabine,0,1
+Chassaing   Philippe,Peu   Stéphane,0,1
+Chassaing   Philippe,Ramadier   Alain,1,1
+Chassaing   Philippe,Riotton   Véronique,1,1
+Chassaing   Philippe,Lenne   Marion,1,1
+Chassaing   Philippe,Roseren   Xavier,1,1
+Chassaing   Philippe,Verdier-Jouclas   Marie-Christine,1,1
+Chassaing   Philippe,Peyron   Michèle,1,1
+Chassaing   Philippe,Florennes   Isabelle,1,1
+Chassaing   Philippe,Calvez   Céline,1,1
+Chassaing   Philippe,Gomez-Bassac   Valérie,1,1
+Chassaing   Philippe,Renson   Hugues,1,1
+Chassaing   Philippe,Piron   Béatrice,1,1
+Chassaing   Philippe,Raphan   Pierre-Alain,1,1
+Chassaing   Philippe,Vidal   Annie,1,1
+Chassaing   Philippe,Fiévet   Jean-Marie,1,1
+Chassaing   Philippe,Jumel   Sébastien,0,1
+Chassaing   Philippe,Dirx   Benjamin,1,1
+Chassaing   Philippe,de Courson   Charles,1,1
+Gipson   Séverine,Cazeneuve   Jean-René,1,1
+Gipson   Séverine,Ménard   Emmanuelle,0,1
+Gipson   Séverine,David   Dominique,1,1
+Gipson   Séverine,Le Bohec   Gaël,1,1
+Gipson   Séverine,Labaronne   Daniel,1,1
+Gipson   Séverine,Causse   Lionel,1,1
+Gipson   Séverine,Amadou   Aude,1,1
+Gipson   Séverine,Sorre   Bertrand,1,1
+Gipson   Séverine,Magnier   Lise,1,1
+Gipson   Séverine,Arend   Christophe,1,1
+Gipson   Séverine,Pahun   Jimmy,1,1
+Gipson   Séverine,Trisse   Nicole,1,1
+Gipson   Séverine,Perrot   Patrice,1,1
+Gipson   Séverine,Osson   Catherine,1,1
+Gipson   Séverine,Cattelot   Anne-Laure,1,1
+Gipson   Séverine,De Temmerman   Jennifer,1,1
+Gipson   Séverine,Roussel   Fabien,0,1
+Gipson   Séverine,Michels   Thierry,1,1
+Gipson   Séverine,Lachaud   Bastien,0,1
+Gipson   Séverine,Saint-Martin   Laurent,1,1
+Gipson   Séverine,Holroyd   Alexandre,1,1
+Gipson   Séverine,Rubin   Sabine,0,1
+Gipson   Séverine,Peu   Stéphane,0,1
+Gipson   Séverine,Ramadier   Alain,1,1
+Gipson   Séverine,Riotton   Véronique,1,1
+Gipson   Séverine,Lenne   Marion,1,1
+Gipson   Séverine,Roseren   Xavier,1,1
+Gipson   Séverine,Verdier-Jouclas   Marie-Christine,1,1
+Gipson   Séverine,Peyron   Michèle,1,1
+Gipson   Séverine,Florennes   Isabelle,1,1
+Gipson   Séverine,Calvez   Céline,1,1
+Gipson   Séverine,Gomez-Bassac   Valérie,1,1
+Gipson   Séverine,Renson   Hugues,1,1
+Gipson   Séverine,Piron   Béatrice,1,1
+Gipson   Séverine,Raphan   Pierre-Alain,1,1
+Gipson   Séverine,Vidal   Annie,1,1
+Gipson   Séverine,Fiévet   Jean-Marie,1,1
+Gipson   Séverine,Jumel   Sébastien,0,1
+Gipson   Séverine,Dirx   Benjamin,1,1
+Gipson   Séverine,de Courson   Charles,1,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,0,1
+Cazeneuve   Jean-René,David   Dominique,1,1
+Cazeneuve   Jean-René,Le Bohec   Gaël,1,1
+Cazeneuve   Jean-René,Labaronne   Daniel,1,1
+Cazeneuve   Jean-René,Causse   Lionel,1,1
+Cazeneuve   Jean-René,Amadou   Aude,1,1
+Cazeneuve   Jean-René,Sorre   Bertrand,1,1
+Cazeneuve   Jean-René,Magnier   Lise,1,1
+Cazeneuve   Jean-René,Arend   Christophe,1,1
+Cazeneuve   Jean-René,Pahun   Jimmy,1,1
+Cazeneuve   Jean-René,Trisse   Nicole,1,1
+Cazeneuve   Jean-René,Perrot   Patrice,1,1
+Cazeneuve   Jean-René,Osson   Catherine,1,1
+Cazeneuve   Jean-René,Cattelot   Anne-Laure,1,1
+Cazeneuve   Jean-René,De Temmerman   Jennifer,1,1
+Cazeneuve   Jean-René,Roussel   Fabien,0,1
+Cazeneuve   Jean-René,Michels   Thierry,1,1
+Cazeneuve   Jean-René,Lachaud   Bastien,0,1
+Cazeneuve   Jean-René,Saint-Martin   Laurent,1,1
+Cazeneuve   Jean-René,Holroyd   Alexandre,1,1
+Cazeneuve   Jean-René,Rubin   Sabine,0,1
+Cazeneuve   Jean-René,Peu   Stéphane,0,1
+Cazeneuve   Jean-René,Ramadier   Alain,1,1
+Cazeneuve   Jean-René,Riotton   Véronique,1,1
+Cazeneuve   Jean-René,Lenne   Marion,1,1
+Cazeneuve   Jean-René,Roseren   Xavier,1,1
+Cazeneuve   Jean-René,Verdier-Jouclas   Marie-Christine,1,1
+Cazeneuve   Jean-René,Peyron   Michèle,1,1
+Cazeneuve   Jean-René,Florennes   Isabelle,1,1
+Cazeneuve   Jean-René,Calvez   Céline,1,1
+Cazeneuve   Jean-René,Gomez-Bassac   Valérie,1,1
+Cazeneuve   Jean-René,Renson   Hugues,1,1
+Cazeneuve   Jean-René,Piron   Béatrice,1,1
+Cazeneuve   Jean-René,Raphan   Pierre-Alain,1,1
+Cazeneuve   Jean-René,Vidal   Annie,1,1
+Cazeneuve   Jean-René,Fiévet   Jean-Marie,1,1
+Cazeneuve   Jean-René,Jumel   Sébastien,0,1
+Cazeneuve   Jean-René,Dirx   Benjamin,1,1
+Cazeneuve   Jean-René,de Courson   Charles,1,1
+Ménard   Emmanuelle,David   Dominique,0,1
+Ménard   Emmanuelle,Le Bohec   Gaël,0,1
+Ménard   Emmanuelle,Labaronne   Daniel,0,1
+Ménard   Emmanuelle,Causse   Lionel,0,1
+Ménard   Emmanuelle,Amadou   Aude,0,1
+Ménard   Emmanuelle,Sorre   Bertrand,0,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Arend   Christophe,0,1
+Ménard   Emmanuelle,Pahun   Jimmy,0,1
+Ménard   Emmanuelle,Trisse   Nicole,0,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Osson   Catherine,0,1
+Ménard   Emmanuelle,Cattelot   Anne-Laure,0,1
+Ménard   Emmanuelle,De Temmerman   Jennifer,0,1
+Ménard   Emmanuelle,Roussel   Fabien,0,1
+Ménard   Emmanuelle,Michels   Thierry,0,1
+Ménard   Emmanuelle,Lachaud   Bastien,0,1
+Ménard   Emmanuelle,Saint-Martin   Laurent,0,1
+Ménard   Emmanuelle,Holroyd   Alexandre,0,1
+Ménard   Emmanuelle,Rubin   Sabine,0,1
+Ménard   Emmanuelle,Peu   Stéphane,0,1
+Ménard   Emmanuelle,Ramadier   Alain,0,1
+Ménard   Emmanuelle,Riotton   Véronique,0,1
+Ménard   Emmanuelle,Lenne   Marion,0,1
+Ménard   Emmanuelle,Roseren   Xavier,0,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,0,1
+Ménard   Emmanuelle,Peyron   Michèle,0,1
+Ménard   Emmanuelle,Florennes   Isabelle,0,1
+Ménard   Emmanuelle,Calvez   Céline,0,1
+Ménard   Emmanuelle,Gomez-Bassac   Valérie,0,1
+Ménard   Emmanuelle,Renson   Hugues,0,1
+Ménard   Emmanuelle,Piron   Béatrice,0,1
+Ménard   Emmanuelle,Raphan   Pierre-Alain,0,1
+Ménard   Emmanuelle,Vidal   Annie,0,1
+Ménard   Emmanuelle,Fiévet   Jean-Marie,0,1
+Ménard   Emmanuelle,Jumel   Sébastien,0,1
+Ménard   Emmanuelle,Dirx   Benjamin,0,1
+Ménard   Emmanuelle,de Courson   Charles,0,1
+David   Dominique,Le Bohec   Gaël,1,1
+David   Dominique,Labaronne   Daniel,1,1
+David   Dominique,Causse   Lionel,1,1
+David   Dominique,Amadou   Aude,1,1
+David   Dominique,Sorre   Bertrand,1,1
+David   Dominique,Magnier   Lise,1,1
+David   Dominique,Arend   Christophe,1,1
+David   Dominique,Pahun   Jimmy,1,1
+David   Dominique,Trisse   Nicole,1,1
+David   Dominique,Perrot   Patrice,1,1
+David   Dominique,Osson   Catherine,1,1
+David   Dominique,Cattelot   Anne-Laure,1,1
+David   Dominique,De Temmerman   Jennifer,1,1
+David   Dominique,Roussel   Fabien,0,1
+David   Dominique,Michels   Thierry,1,1
+David   Dominique,Lachaud   Bastien,0,1
+David   Dominique,Saint-Martin   Laurent,1,1
+David   Dominique,Holroyd   Alexandre,1,1
+David   Dominique,Rubin   Sabine,0,1
+David   Dominique,Peu   Stéphane,0,1
+David   Dominique,Ramadier   Alain,1,1
+David   Dominique,Riotton   Véronique,1,1
+David   Dominique,Lenne   Marion,1,1
+David   Dominique,Roseren   Xavier,1,1
+David   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+David   Dominique,Peyron   Michèle,1,1
+David   Dominique,Florennes   Isabelle,1,1
+David   Dominique,Calvez   Céline,1,1
+David   Dominique,Gomez-Bassac   Valérie,1,1
+David   Dominique,Renson   Hugues,1,1
+David   Dominique,Piron   Béatrice,1,1
+David   Dominique,Raphan   Pierre-Alain,1,1
+David   Dominique,Vidal   Annie,1,1
+David   Dominique,Fiévet   Jean-Marie,1,1
+David   Dominique,Jumel   Sébastien,0,1
+David   Dominique,Dirx   Benjamin,1,1
+David   Dominique,de Courson   Charles,1,1
+Le Bohec   Gaël,Labaronne   Daniel,1,1
+Le Bohec   Gaël,Causse   Lionel,1,1
+Le Bohec   Gaël,Amadou   Aude,1,1
+Le Bohec   Gaël,Sorre   Bertrand,1,1
+Le Bohec   Gaël,Magnier   Lise,1,1
+Le Bohec   Gaël,Arend   Christophe,1,1
+Le Bohec   Gaël,Pahun   Jimmy,1,1
+Le Bohec   Gaël,Trisse   Nicole,1,1
+Le Bohec   Gaël,Perrot   Patrice,1,1
+Le Bohec   Gaël,Osson   Catherine,1,1
+Le Bohec   Gaël,Cattelot   Anne-Laure,1,1
+Le Bohec   Gaël,De Temmerman   Jennifer,1,1
+Le Bohec   Gaël,Roussel   Fabien,0,1
+Le Bohec   Gaël,Michels   Thierry,1,1
+Le Bohec   Gaël,Lachaud   Bastien,0,1
+Le Bohec   Gaël,Saint-Martin   Laurent,1,1
+Le Bohec   Gaël,Holroyd   Alexandre,1,1
+Le Bohec   Gaël,Rubin   Sabine,0,1
+Le Bohec   Gaël,Peu   Stéphane,0,1
+Le Bohec   Gaël,Ramadier   Alain,1,1
+Le Bohec   Gaël,Riotton   Véronique,1,1
+Le Bohec   Gaël,Lenne   Marion,1,1
+Le Bohec   Gaël,Roseren   Xavier,1,1
+Le Bohec   Gaël,Verdier-Jouclas   Marie-Christine,1,1
+Le Bohec   Gaël,Peyron   Michèle,1,1
+Le Bohec   Gaël,Florennes   Isabelle,1,1
+Le Bohec   Gaël,Calvez   Céline,1,1
+Le Bohec   Gaël,Gomez-Bassac   Valérie,1,1
+Le Bohec   Gaël,Renson   Hugues,1,1
+Le Bohec   Gaël,Piron   Béatrice,1,1
+Le Bohec   Gaël,Raphan   Pierre-Alain,1,1
+Le Bohec   Gaël,Vidal   Annie,1,1
+Le Bohec   Gaël,Fiévet   Jean-Marie,1,1
+Le Bohec   Gaël,Jumel   Sébastien,0,1
+Le Bohec   Gaël,Dirx   Benjamin,1,1
+Le Bohec   Gaël,de Courson   Charles,1,1
+Labaronne   Daniel,Causse   Lionel,1,1
+Labaronne   Daniel,Amadou   Aude,1,1
+Labaronne   Daniel,Sorre   Bertrand,1,1
+Labaronne   Daniel,Magnier   Lise,1,1
+Labaronne   Daniel,Arend   Christophe,1,1
+Labaronne   Daniel,Pahun   Jimmy,1,1
+Labaronne   Daniel,Trisse   Nicole,1,1
+Labaronne   Daniel,Perrot   Patrice,1,1
+Labaronne   Daniel,Osson   Catherine,1,1
+Labaronne   Daniel,Cattelot   Anne-Laure,1,1
+Labaronne   Daniel,De Temmerman   Jennifer,1,1
+Labaronne   Daniel,Roussel   Fabien,0,1
+Labaronne   Daniel,Michels   Thierry,1,1
+Labaronne   Daniel,Lachaud   Bastien,0,1
+Labaronne   Daniel,Saint-Martin   Laurent,1,1
+Labaronne   Daniel,Holroyd   Alexandre,1,1
+Labaronne   Daniel,Rubin   Sabine,0,1
+Labaronne   Daniel,Peu   Stéphane,0,1
+Labaronne   Daniel,Ramadier   Alain,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Roseren   Xavier,1,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Peyron   Michèle,1,1
+Labaronne   Daniel,Florennes   Isabelle,1,1
+Labaronne   Daniel,Calvez   Céline,1,1
+Labaronne   Daniel,Gomez-Bassac   Valérie,1,1
+Labaronne   Daniel,Renson   Hugues,1,1
+Labaronne   Daniel,Piron   Béatrice,1,1
+Labaronne   Daniel,Raphan   Pierre-Alain,1,1
+Labaronne   Daniel,Vidal   Annie,1,1
+Labaronne   Daniel,Fiévet   Jean-Marie,1,1
+Labaronne   Daniel,Jumel   Sébastien,0,1
+Labaronne   Daniel,Dirx   Benjamin,1,1
+Labaronne   Daniel,de Courson   Charles,1,1
+Causse   Lionel,Amadou   Aude,1,1
+Causse   Lionel,Sorre   Bertrand,1,1
+Causse   Lionel,Magnier   Lise,1,1
+Causse   Lionel,Arend   Christophe,1,1
+Causse   Lionel,Pahun   Jimmy,1,1
+Causse   Lionel,Trisse   Nicole,1,1
+Causse   Lionel,Perrot   Patrice,1,1
+Causse   Lionel,Osson   Catherine,1,1
+Causse   Lionel,Cattelot   Anne-Laure,1,1
+Causse   Lionel,De Temmerman   Jennifer,1,1
+Causse   Lionel,Roussel   Fabien,0,1
+Causse   Lionel,Michels   Thierry,1,1
+Causse   Lionel,Lachaud   Bastien,0,1
+Causse   Lionel,Saint-Martin   Laurent,1,1
+Causse   Lionel,Holroyd   Alexandre,1,1
+Causse   Lionel,Rubin   Sabine,0,1
+Causse   Lionel,Peu   Stéphane,0,1
+Causse   Lionel,Ramadier   Alain,1,1
+Causse   Lionel,Riotton   Véronique,1,1
+Causse   Lionel,Lenne   Marion,1,1
+Causse   Lionel,Roseren   Xavier,1,1
+Causse   Lionel,Verdier-Jouclas   Marie-Christine,1,1
+Causse   Lionel,Peyron   Michèle,1,1
+Causse   Lionel,Florennes   Isabelle,1,1
+Causse   Lionel,Calvez   Céline,1,1
+Causse   Lionel,Gomez-Bassac   Valérie,1,1
+Causse   Lionel,Renson   Hugues,1,1
+Causse   Lionel,Piron   Béatrice,1,1
+Causse   Lionel,Raphan   Pierre-Alain,1,1
+Causse   Lionel,Vidal   Annie,1,1
+Causse   Lionel,Fiévet   Jean-Marie,1,1
+Causse   Lionel,Jumel   Sébastien,0,1
+Causse   Lionel,Dirx   Benjamin,1,1
+Causse   Lionel,de Courson   Charles,1,1
+Amadou   Aude,Sorre   Bertrand,1,1
+Amadou   Aude,Magnier   Lise,1,1
+Amadou   Aude,Arend   Christophe,1,1
+Amadou   Aude,Pahun   Jimmy,1,1
+Amadou   Aude,Trisse   Nicole,1,1
+Amadou   Aude,Perrot   Patrice,1,1
+Amadou   Aude,Osson   Catherine,1,1
+Amadou   Aude,Cattelot   Anne-Laure,1,1
+Amadou   Aude,De Temmerman   Jennifer,1,1
+Amadou   Aude,Roussel   Fabien,0,1
+Amadou   Aude,Michels   Thierry,1,1
+Amadou   Aude,Lachaud   Bastien,0,1
+Amadou   Aude,Saint-Martin   Laurent,1,1
+Amadou   Aude,Holroyd   Alexandre,1,1
+Amadou   Aude,Rubin   Sabine,0,1
+Amadou   Aude,Peu   Stéphane,0,1
+Amadou   Aude,Ramadier   Alain,1,1
+Amadou   Aude,Riotton   Véronique,1,1
+Amadou   Aude,Lenne   Marion,1,1
+Amadou   Aude,Roseren   Xavier,1,1
+Amadou   Aude,Verdier-Jouclas   Marie-Christine,1,1
+Amadou   Aude,Peyron   Michèle,1,1
+Amadou   Aude,Florennes   Isabelle,1,1
+Amadou   Aude,Calvez   Céline,1,1
+Amadou   Aude,Gomez-Bassac   Valérie,1,1
+Amadou   Aude,Renson   Hugues,1,1
+Amadou   Aude,Piron   Béatrice,1,1
+Amadou   Aude,Raphan   Pierre-Alain,1,1
+Amadou   Aude,Vidal   Annie,1,1
+Amadou   Aude,Fiévet   Jean-Marie,1,1
+Amadou   Aude,Jumel   Sébastien,0,1
+Amadou   Aude,Dirx   Benjamin,1,1
+Amadou   Aude,de Courson   Charles,1,1
+Sorre   Bertrand,Magnier   Lise,1,1
+Sorre   Bertrand,Arend   Christophe,1,1
+Sorre   Bertrand,Pahun   Jimmy,1,1
+Sorre   Bertrand,Trisse   Nicole,1,1
+Sorre   Bertrand,Perrot   Patrice,1,1
+Sorre   Bertrand,Osson   Catherine,1,1
+Sorre   Bertrand,Cattelot   Anne-Laure,1,1
+Sorre   Bertrand,De Temmerman   Jennifer,1,1
+Sorre   Bertrand,Roussel   Fabien,0,1
+Sorre   Bertrand,Michels   Thierry,1,1
+Sorre   Bertrand,Lachaud   Bastien,0,1
+Sorre   Bertrand,Saint-Martin   Laurent,1,1
+Sorre   Bertrand,Holroyd   Alexandre,1,1
+Sorre   Bertrand,Rubin   Sabine,0,1
+Sorre   Bertrand,Peu   Stéphane,0,1
+Sorre   Bertrand,Ramadier   Alain,1,1
+Sorre   Bertrand,Riotton   Véronique,1,1
+Sorre   Bertrand,Lenne   Marion,1,1
+Sorre   Bertrand,Roseren   Xavier,1,1
+Sorre   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Sorre   Bertrand,Peyron   Michèle,1,1
+Sorre   Bertrand,Florennes   Isabelle,1,1
+Sorre   Bertrand,Calvez   Céline,1,1
+Sorre   Bertrand,Gomez-Bassac   Valérie,1,1
+Sorre   Bertrand,Renson   Hugues,1,1
+Sorre   Bertrand,Piron   Béatrice,1,1
+Sorre   Bertrand,Raphan   Pierre-Alain,1,1
+Sorre   Bertrand,Vidal   Annie,1,1
+Sorre   Bertrand,Fiévet   Jean-Marie,1,1
+Sorre   Bertrand,Jumel   Sébastien,0,1
+Sorre   Bertrand,Dirx   Benjamin,1,1
+Sorre   Bertrand,de Courson   Charles,1,1
+Magnier   Lise,Arend   Christophe,1,1
+Magnier   Lise,Pahun   Jimmy,1,1
+Magnier   Lise,Trisse   Nicole,1,1
+Magnier   Lise,Perrot   Patrice,1,1
+Magnier   Lise,Osson   Catherine,1,1
+Magnier   Lise,Cattelot   Anne-Laure,1,1
+Magnier   Lise,De Temmerman   Jennifer,1,1
+Magnier   Lise,Roussel   Fabien,0,1
+Magnier   Lise,Michels   Thierry,1,1
+Magnier   Lise,Lachaud   Bastien,0,1
+Magnier   Lise,Saint-Martin   Laurent,1,1
+Magnier   Lise,Holroyd   Alexandre,1,1
+Magnier   Lise,Rubin   Sabine,0,1
+Magnier   Lise,Peu   Stéphane,0,1
+Magnier   Lise,Ramadier   Alain,1,1
+Magnier   Lise,Riotton   Véronique,1,1
+Magnier   Lise,Lenne   Marion,1,1
+Magnier   Lise,Roseren   Xavier,1,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,1,1
+Magnier   Lise,Peyron   Michèle,1,1
+Magnier   Lise,Florennes   Isabelle,1,1
+Magnier   Lise,Calvez   Céline,1,1
+Magnier   Lise,Gomez-Bassac   Valérie,1,1
+Magnier   Lise,Renson   Hugues,1,1
+Magnier   Lise,Piron   Béatrice,1,1
+Magnier   Lise,Raphan   Pierre-Alain,1,1
+Magnier   Lise,Vidal   Annie,1,1
+Magnier   Lise,Fiévet   Jean-Marie,1,1
+Magnier   Lise,Jumel   Sébastien,0,1
+Magnier   Lise,Dirx   Benjamin,1,1
+Magnier   Lise,de Courson   Charles,1,1
+Arend   Christophe,Pahun   Jimmy,1,1
+Arend   Christophe,Trisse   Nicole,1,1
+Arend   Christophe,Perrot   Patrice,1,1
+Arend   Christophe,Osson   Catherine,1,1
+Arend   Christophe,Cattelot   Anne-Laure,1,1
+Arend   Christophe,De Temmerman   Jennifer,1,1
+Arend   Christophe,Roussel   Fabien,0,1
+Arend   Christophe,Michels   Thierry,1,1
+Arend   Christophe,Lachaud   Bastien,0,1
+Arend   Christophe,Saint-Martin   Laurent,1,1
+Arend   Christophe,Holroyd   Alexandre,1,1
+Arend   Christophe,Rubin   Sabine,0,1
+Arend   Christophe,Peu   Stéphane,0,1
+Arend   Christophe,Ramadier   Alain,1,1
+Arend   Christophe,Riotton   Véronique,1,1
+Arend   Christophe,Lenne   Marion,1,1
+Arend   Christophe,Roseren   Xavier,1,1
+Arend   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Arend   Christophe,Peyron   Michèle,1,1
+Arend   Christophe,Florennes   Isabelle,1,1
+Arend   Christophe,Calvez   Céline,1,1
+Arend   Christophe,Gomez-Bassac   Valérie,1,1
+Arend   Christophe,Renson   Hugues,1,1
+Arend   Christophe,Piron   Béatrice,1,1
+Arend   Christophe,Raphan   Pierre-Alain,1,1
+Arend   Christophe,Vidal   Annie,1,1
+Arend   Christophe,Fiévet   Jean-Marie,1,1
+Arend   Christophe,Jumel   Sébastien,0,1
+Arend   Christophe,Dirx   Benjamin,1,1
+Arend   Christophe,de Courson   Charles,1,1
+Pahun   Jimmy,Trisse   Nicole,1,1
+Pahun   Jimmy,Perrot   Patrice,1,1
+Pahun   Jimmy,Osson   Catherine,1,1
+Pahun   Jimmy,Cattelot   Anne-Laure,1,1
+Pahun   Jimmy,De Temmerman   Jennifer,1,1
+Pahun   Jimmy,Roussel   Fabien,0,1
+Pahun   Jimmy,Michels   Thierry,1,1
+Pahun   Jimmy,Lachaud   Bastien,0,1
+Pahun   Jimmy,Saint-Martin   Laurent,1,1
+Pahun   Jimmy,Holroyd   Alexandre,1,1
+Pahun   Jimmy,Rubin   Sabine,0,1
+Pahun   Jimmy,Peu   Stéphane,0,1
+Pahun   Jimmy,Ramadier   Alain,1,1
+Pahun   Jimmy,Riotton   Véronique,1,1
+Pahun   Jimmy,Lenne   Marion,1,1
+Pahun   Jimmy,Roseren   Xavier,1,1
+Pahun   Jimmy,Verdier-Jouclas   Marie-Christine,1,1
+Pahun   Jimmy,Peyron   Michèle,1,1
+Pahun   Jimmy,Florennes   Isabelle,1,1
+Pahun   Jimmy,Calvez   Céline,1,1
+Pahun   Jimmy,Gomez-Bassac   Valérie,1,1
+Pahun   Jimmy,Renson   Hugues,1,1
+Pahun   Jimmy,Piron   Béatrice,1,1
+Pahun   Jimmy,Raphan   Pierre-Alain,1,1
+Pahun   Jimmy,Vidal   Annie,1,1
+Pahun   Jimmy,Fiévet   Jean-Marie,1,1
+Pahun   Jimmy,Jumel   Sébastien,0,1
+Pahun   Jimmy,Dirx   Benjamin,1,1
+Pahun   Jimmy,de Courson   Charles,1,1
+Trisse   Nicole,Perrot   Patrice,1,1
+Trisse   Nicole,Osson   Catherine,1,1
+Trisse   Nicole,Cattelot   Anne-Laure,1,1
+Trisse   Nicole,De Temmerman   Jennifer,1,1
+Trisse   Nicole,Roussel   Fabien,0,1
+Trisse   Nicole,Michels   Thierry,1,1
+Trisse   Nicole,Lachaud   Bastien,0,1
+Trisse   Nicole,Saint-Martin   Laurent,1,1
+Trisse   Nicole,Holroyd   Alexandre,1,1
+Trisse   Nicole,Rubin   Sabine,0,1
+Trisse   Nicole,Peu   Stéphane,0,1
+Trisse   Nicole,Ramadier   Alain,1,1
+Trisse   Nicole,Riotton   Véronique,1,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Roseren   Xavier,1,1
+Trisse   Nicole,Verdier-Jouclas   Marie-Christine,1,1
+Trisse   Nicole,Peyron   Michèle,1,1
+Trisse   Nicole,Florennes   Isabelle,1,1
+Trisse   Nicole,Calvez   Céline,1,1
+Trisse   Nicole,Gomez-Bassac   Valérie,1,1
+Trisse   Nicole,Renson   Hugues,1,1
+Trisse   Nicole,Piron   Béatrice,1,1
+Trisse   Nicole,Raphan   Pierre-Alain,1,1
+Trisse   Nicole,Vidal   Annie,1,1
+Trisse   Nicole,Fiévet   Jean-Marie,1,1
+Trisse   Nicole,Jumel   Sébastien,0,1
+Trisse   Nicole,Dirx   Benjamin,1,1
+Trisse   Nicole,de Courson   Charles,1,1
+Perrot   Patrice,Osson   Catherine,1,1
+Perrot   Patrice,Cattelot   Anne-Laure,1,1
+Perrot   Patrice,De Temmerman   Jennifer,1,1
+Perrot   Patrice,Roussel   Fabien,0,1
+Perrot   Patrice,Michels   Thierry,1,1
+Perrot   Patrice,Lachaud   Bastien,0,1
+Perrot   Patrice,Saint-Martin   Laurent,1,1
+Perrot   Patrice,Holroyd   Alexandre,1,1
+Perrot   Patrice,Rubin   Sabine,0,1
+Perrot   Patrice,Peu   Stéphane,0,1
+Perrot   Patrice,Ramadier   Alain,1,1
+Perrot   Patrice,Riotton   Véronique,1,1
+Perrot   Patrice,Lenne   Marion,1,1
+Perrot   Patrice,Roseren   Xavier,1,1
+Perrot   Patrice,Verdier-Jouclas   Marie-Christine,1,1
+Perrot   Patrice,Peyron   Michèle,1,1
+Perrot   Patrice,Florennes   Isabelle,1,1
+Perrot   Patrice,Calvez   Céline,1,1
+Perrot   Patrice,Gomez-Bassac   Valérie,1,1
+Perrot   Patrice,Renson   Hugues,1,1
+Perrot   Patrice,Piron   Béatrice,1,1
+Perrot   Patrice,Raphan   Pierre-Alain,1,1
+Perrot   Patrice,Vidal   Annie,1,1
+Perrot   Patrice,Fiévet   Jean-Marie,1,1
+Perrot   Patrice,Jumel   Sébastien,0,1
+Perrot   Patrice,Dirx   Benjamin,1,1
+Perrot   Patrice,de Courson   Charles,1,1
+Osson   Catherine,Cattelot   Anne-Laure,1,1
+Osson   Catherine,De Temmerman   Jennifer,1,1
+Osson   Catherine,Roussel   Fabien,0,1
+Osson   Catherine,Michels   Thierry,1,1
+Osson   Catherine,Lachaud   Bastien,0,1
+Osson   Catherine,Saint-Martin   Laurent,1,1
+Osson   Catherine,Holroyd   Alexandre,1,1
+Osson   Catherine,Rubin   Sabine,0,1
+Osson   Catherine,Peu   Stéphane,0,1
+Osson   Catherine,Ramadier   Alain,1,1
+Osson   Catherine,Riotton   Véronique,1,1
+Osson   Catherine,Lenne   Marion,1,1
+Osson   Catherine,Roseren   Xavier,1,1
+Osson   Catherine,Verdier-Jouclas   Marie-Christine,1,1
+Osson   Catherine,Peyron   Michèle,1,1
+Osson   Catherine,Florennes   Isabelle,1,1
+Osson   Catherine,Calvez   Céline,1,1
+Osson   Catherine,Gomez-Bassac   Valérie,1,1
+Osson   Catherine,Renson   Hugues,1,1
+Osson   Catherine,Piron   Béatrice,1,1
+Osson   Catherine,Raphan   Pierre-Alain,1,1
+Osson   Catherine,Vidal   Annie,1,1
+Osson   Catherine,Fiévet   Jean-Marie,1,1
+Osson   Catherine,Jumel   Sébastien,0,1
+Osson   Catherine,Dirx   Benjamin,1,1
+Osson   Catherine,de Courson   Charles,1,1
+Cattelot   Anne-Laure,De Temmerman   Jennifer,1,1
+Cattelot   Anne-Laure,Roussel   Fabien,0,1
+Cattelot   Anne-Laure,Michels   Thierry,1,1
+Cattelot   Anne-Laure,Lachaud   Bastien,0,1
+Cattelot   Anne-Laure,Saint-Martin   Laurent,1,1
+Cattelot   Anne-Laure,Holroyd   Alexandre,1,1
+Cattelot   Anne-Laure,Rubin   Sabine,0,1
+Cattelot   Anne-Laure,Peu   Stéphane,0,1
+Cattelot   Anne-Laure,Ramadier   Alain,1,1
+Cattelot   Anne-Laure,Riotton   Véronique,1,1
+Cattelot   Anne-Laure,Lenne   Marion,1,1
+Cattelot   Anne-Laure,Roseren   Xavier,1,1
+Cattelot   Anne-Laure,Verdier-Jouclas   Marie-Christine,1,1
+Cattelot   Anne-Laure,Peyron   Michèle,1,1
+Cattelot   Anne-Laure,Florennes   Isabelle,1,1
+Cattelot   Anne-Laure,Calvez   Céline,1,1
+Cattelot   Anne-Laure,Gomez-Bassac   Valérie,1,1
+Cattelot   Anne-Laure,Renson   Hugues,1,1
+Cattelot   Anne-Laure,Piron   Béatrice,1,1
+Cattelot   Anne-Laure,Raphan   Pierre-Alain,1,1
+Cattelot   Anne-Laure,Vidal   Annie,1,1
+Cattelot   Anne-Laure,Fiévet   Jean-Marie,1,1
+Cattelot   Anne-Laure,Jumel   Sébastien,0,1
+Cattelot   Anne-Laure,Dirx   Benjamin,1,1
+Cattelot   Anne-Laure,de Courson   Charles,1,1
+De Temmerman   Jennifer,Roussel   Fabien,0,1
+De Temmerman   Jennifer,Michels   Thierry,1,1
+De Temmerman   Jennifer,Lachaud   Bastien,0,1
+De Temmerman   Jennifer,Saint-Martin   Laurent,1,1
+De Temmerman   Jennifer,Holroyd   Alexandre,1,1
+De Temmerman   Jennifer,Rubin   Sabine,0,1
+De Temmerman   Jennifer,Peu   Stéphane,0,1
+De Temmerman   Jennifer,Ramadier   Alain,1,1
+De Temmerman   Jennifer,Riotton   Véronique,1,1
+De Temmerman   Jennifer,Lenne   Marion,1,1
+De Temmerman   Jennifer,Roseren   Xavier,1,1
+De Temmerman   Jennifer,Verdier-Jouclas   Marie-Christine,1,1
+De Temmerman   Jennifer,Peyron   Michèle,1,1
+De Temmerman   Jennifer,Florennes   Isabelle,1,1
+De Temmerman   Jennifer,Calvez   Céline,1,1
+De Temmerman   Jennifer,Gomez-Bassac   Valérie,1,1
+De Temmerman   Jennifer,Renson   Hugues,1,1
+De Temmerman   Jennifer,Piron   Béatrice,1,1
+De Temmerman   Jennifer,Raphan   Pierre-Alain,1,1
+De Temmerman   Jennifer,Vidal   Annie,1,1
+De Temmerman   Jennifer,Fiévet   Jean-Marie,1,1
+De Temmerman   Jennifer,Jumel   Sébastien,0,1
+De Temmerman   Jennifer,Dirx   Benjamin,1,1
+De Temmerman   Jennifer,de Courson   Charles,1,1
+Roussel   Fabien,Michels   Thierry,0,1
+Roussel   Fabien,Lachaud   Bastien,1,1
+Roussel   Fabien,Saint-Martin   Laurent,0,1
+Roussel   Fabien,Holroyd   Alexandre,0,1
+Roussel   Fabien,Rubin   Sabine,1,1
+Roussel   Fabien,Peu   Stéphane,1,1
+Roussel   Fabien,Ramadier   Alain,0,1
+Roussel   Fabien,Riotton   Véronique,0,1
+Roussel   Fabien,Lenne   Marion,0,1
+Roussel   Fabien,Roseren   Xavier,0,1
+Roussel   Fabien,Verdier-Jouclas   Marie-Christine,0,1
+Roussel   Fabien,Peyron   Michèle,0,1
+Roussel   Fabien,Florennes   Isabelle,0,1
+Roussel   Fabien,Calvez   Céline,0,1
+Roussel   Fabien,Gomez-Bassac   Valérie,0,1
+Roussel   Fabien,Renson   Hugues,0,1
+Roussel   Fabien,Piron   Béatrice,0,1
+Roussel   Fabien,Raphan   Pierre-Alain,0,1
+Roussel   Fabien,Vidal   Annie,0,1
+Roussel   Fabien,Fiévet   Jean-Marie,0,1
+Roussel   Fabien,Jumel   Sébastien,1,1
+Roussel   Fabien,Dirx   Benjamin,0,1
+Roussel   Fabien,de Courson   Charles,0,1
+Michels   Thierry,Lachaud   Bastien,0,1
+Michels   Thierry,Saint-Martin   Laurent,1,1
+Michels   Thierry,Holroyd   Alexandre,1,1
+Michels   Thierry,Rubin   Sabine,0,1
+Michels   Thierry,Peu   Stéphane,0,1
+Michels   Thierry,Ramadier   Alain,1,1
+Michels   Thierry,Riotton   Véronique,1,1
+Michels   Thierry,Lenne   Marion,1,1
+Michels   Thierry,Roseren   Xavier,1,1
+Michels   Thierry,Verdier-Jouclas   Marie-Christine,1,1
+Michels   Thierry,Peyron   Michèle,1,1
+Michels   Thierry,Florennes   Isabelle,1,1
+Michels   Thierry,Calvez   Céline,1,1
+Michels   Thierry,Gomez-Bassac   Valérie,1,1
+Michels   Thierry,Renson   Hugues,1,1
+Michels   Thierry,Piron   Béatrice,1,1
+Michels   Thierry,Raphan   Pierre-Alain,1,1
+Michels   Thierry,Vidal   Annie,1,1
+Michels   Thierry,Fiévet   Jean-Marie,1,1
+Michels   Thierry,Jumel   Sébastien,0,1
+Michels   Thierry,Dirx   Benjamin,1,1
+Michels   Thierry,de Courson   Charles,1,1
+Lachaud   Bastien,Saint-Martin   Laurent,0,1
+Lachaud   Bastien,Holroyd   Alexandre,0,1
+Lachaud   Bastien,Rubin   Sabine,1,1
+Lachaud   Bastien,Peu   Stéphane,1,1
+Lachaud   Bastien,Ramadier   Alain,0,1
+Lachaud   Bastien,Riotton   Véronique,0,1
+Lachaud   Bastien,Lenne   Marion,0,1
+Lachaud   Bastien,Roseren   Xavier,0,1
+Lachaud   Bastien,Verdier-Jouclas   Marie-Christine,0,1
+Lachaud   Bastien,Peyron   Michèle,0,1
+Lachaud   Bastien,Florennes   Isabelle,0,1
+Lachaud   Bastien,Calvez   Céline,0,1
+Lachaud   Bastien,Gomez-Bassac   Valérie,0,1
+Lachaud   Bastien,Renson   Hugues,0,1
+Lachaud   Bastien,Piron   Béatrice,0,1
+Lachaud   Bastien,Raphan   Pierre-Alain,0,1
+Lachaud   Bastien,Vidal   Annie,0,1
+Lachaud   Bastien,Fiévet   Jean-Marie,0,1
+Lachaud   Bastien,Jumel   Sébastien,1,1
+Lachaud   Bastien,Dirx   Benjamin,0,1
+Lachaud   Bastien,de Courson   Charles,0,1
+Saint-Martin   Laurent,Holroyd   Alexandre,1,1
+Saint-Martin   Laurent,Rubin   Sabine,0,1
+Saint-Martin   Laurent,Peu   Stéphane,0,1
+Saint-Martin   Laurent,Ramadier   Alain,1,1
+Saint-Martin   Laurent,Riotton   Véronique,1,1
+Saint-Martin   Laurent,Lenne   Marion,1,1
+Saint-Martin   Laurent,Roseren   Xavier,1,1
+Saint-Martin   Laurent,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Martin   Laurent,Peyron   Michèle,1,1
+Saint-Martin   Laurent,Florennes   Isabelle,1,1
+Saint-Martin   Laurent,Calvez   Céline,1,1
+Saint-Martin   Laurent,Gomez-Bassac   Valérie,1,1
+Saint-Martin   Laurent,Renson   Hugues,1,1
+Saint-Martin   Laurent,Piron   Béatrice,1,1
+Saint-Martin   Laurent,Raphan   Pierre-Alain,1,1
+Saint-Martin   Laurent,Vidal   Annie,1,1
+Saint-Martin   Laurent,Fiévet   Jean-Marie,1,1
+Saint-Martin   Laurent,Jumel   Sébastien,0,1
+Saint-Martin   Laurent,Dirx   Benjamin,1,1
+Saint-Martin   Laurent,de Courson   Charles,1,1
+Holroyd   Alexandre,Rubin   Sabine,0,1
+Holroyd   Alexandre,Peu   Stéphane,0,1
+Holroyd   Alexandre,Ramadier   Alain,1,1
+Holroyd   Alexandre,Riotton   Véronique,1,1
+Holroyd   Alexandre,Lenne   Marion,1,1
+Holroyd   Alexandre,Roseren   Xavier,1,1
+Holroyd   Alexandre,Verdier-Jouclas   Marie-Christine,1,1
+Holroyd   Alexandre,Peyron   Michèle,1,1
+Holroyd   Alexandre,Florennes   Isabelle,1,1
+Holroyd   Alexandre,Calvez   Céline,1,1
+Holroyd   Alexandre,Gomez-Bassac   Valérie,1,1
+Holroyd   Alexandre,Renson   Hugues,1,1
+Holroyd   Alexandre,Piron   Béatrice,1,1
+Holroyd   Alexandre,Raphan   Pierre-Alain,1,1
+Holroyd   Alexandre,Vidal   Annie,1,1
+Holroyd   Alexandre,Fiévet   Jean-Marie,1,1
+Holroyd   Alexandre,Jumel   Sébastien,0,1
+Holroyd   Alexandre,Dirx   Benjamin,1,1
+Holroyd   Alexandre,de Courson   Charles,1,1
+Rubin   Sabine,Peu   Stéphane,1,1
+Rubin   Sabine,Ramadier   Alain,0,1
+Rubin   Sabine,Riotton   Véronique,0,1
+Rubin   Sabine,Lenne   Marion,0,1
+Rubin   Sabine,Roseren   Xavier,0,1
+Rubin   Sabine,Verdier-Jouclas   Marie-Christine,0,1
+Rubin   Sabine,Peyron   Michèle,0,1
+Rubin   Sabine,Florennes   Isabelle,0,1
+Rubin   Sabine,Calvez   Céline,0,1
+Rubin   Sabine,Gomez-Bassac   Valérie,0,1
+Rubin   Sabine,Renson   Hugues,0,1
+Rubin   Sabine,Piron   Béatrice,0,1
+Rubin   Sabine,Raphan   Pierre-Alain,0,1
+Rubin   Sabine,Vidal   Annie,0,1
+Rubin   Sabine,Fiévet   Jean-Marie,0,1
+Rubin   Sabine,Jumel   Sébastien,1,1
+Rubin   Sabine,Dirx   Benjamin,0,1
+Rubin   Sabine,de Courson   Charles,0,1
+Peu   Stéphane,Ramadier   Alain,0,1
+Peu   Stéphane,Riotton   Véronique,0,1
+Peu   Stéphane,Lenne   Marion,0,1
+Peu   Stéphane,Roseren   Xavier,0,1
+Peu   Stéphane,Verdier-Jouclas   Marie-Christine,0,1
+Peu   Stéphane,Peyron   Michèle,0,1
+Peu   Stéphane,Florennes   Isabelle,0,1
+Peu   Stéphane,Calvez   Céline,0,1
+Peu   Stéphane,Gomez-Bassac   Valérie,0,1
+Peu   Stéphane,Renson   Hugues,0,1
+Peu   Stéphane,Piron   Béatrice,0,1
+Peu   Stéphane,Raphan   Pierre-Alain,0,1
+Peu   Stéphane,Vidal   Annie,0,1
+Peu   Stéphane,Fiévet   Jean-Marie,0,1
+Peu   Stéphane,Jumel   Sébastien,1,1
+Peu   Stéphane,Dirx   Benjamin,0,1
+Peu   Stéphane,de Courson   Charles,0,1
+Ramadier   Alain,Riotton   Véronique,1,1
+Ramadier   Alain,Lenne   Marion,1,1
+Ramadier   Alain,Roseren   Xavier,1,1
+Ramadier   Alain,Verdier-Jouclas   Marie-Christine,1,1
+Ramadier   Alain,Peyron   Michèle,1,1
+Ramadier   Alain,Florennes   Isabelle,1,1
+Ramadier   Alain,Calvez   Céline,1,1
+Ramadier   Alain,Gomez-Bassac   Valérie,1,1
+Ramadier   Alain,Renson   Hugues,1,1
+Ramadier   Alain,Piron   Béatrice,1,1
+Ramadier   Alain,Raphan   Pierre-Alain,1,1
+Ramadier   Alain,Vidal   Annie,1,1
+Ramadier   Alain,Fiévet   Jean-Marie,1,1
+Ramadier   Alain,Jumel   Sébastien,0,1
+Ramadier   Alain,Dirx   Benjamin,1,1
+Ramadier   Alain,de Courson   Charles,1,1
+Riotton   Véronique,Lenne   Marion,1,1
+Riotton   Véronique,Roseren   Xavier,1,1
+Riotton   Véronique,Verdier-Jouclas   Marie-Christine,1,1
+Riotton   Véronique,Peyron   Michèle,1,1
+Riotton   Véronique,Florennes   Isabelle,1,1
+Riotton   Véronique,Calvez   Céline,1,1
+Riotton   Véronique,Gomez-Bassac   Valérie,1,1
+Riotton   Véronique,Renson   Hugues,1,1
+Riotton   Véronique,Piron   Béatrice,1,1
+Riotton   Véronique,Raphan   Pierre-Alain,1,1
+Riotton   Véronique,Vidal   Annie,1,1
+Riotton   Véronique,Fiévet   Jean-Marie,1,1
+Riotton   Véronique,Jumel   Sébastien,0,1
+Riotton   Véronique,Dirx   Benjamin,1,1
+Riotton   Véronique,de Courson   Charles,1,1
+Lenne   Marion,Roseren   Xavier,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Peyron   Michèle,1,1
+Lenne   Marion,Florennes   Isabelle,1,1
+Lenne   Marion,Calvez   Céline,1,1
+Lenne   Marion,Gomez-Bassac   Valérie,1,1
+Lenne   Marion,Renson   Hugues,1,1
+Lenne   Marion,Piron   Béatrice,1,1
+Lenne   Marion,Raphan   Pierre-Alain,1,1
+Lenne   Marion,Vidal   Annie,1,1
+Lenne   Marion,Fiévet   Jean-Marie,1,1
+Lenne   Marion,Jumel   Sébastien,0,1
+Lenne   Marion,Dirx   Benjamin,1,1
+Lenne   Marion,de Courson   Charles,1,1
+Roseren   Xavier,Verdier-Jouclas   Marie-Christine,1,1
+Roseren   Xavier,Peyron   Michèle,1,1
+Roseren   Xavier,Florennes   Isabelle,1,1
+Roseren   Xavier,Calvez   Céline,1,1
+Roseren   Xavier,Gomez-Bassac   Valérie,1,1
+Roseren   Xavier,Renson   Hugues,1,1
+Roseren   Xavier,Piron   Béatrice,1,1
+Roseren   Xavier,Raphan   Pierre-Alain,1,1
+Roseren   Xavier,Vidal   Annie,1,1
+Roseren   Xavier,Fiévet   Jean-Marie,1,1
+Roseren   Xavier,Jumel   Sébastien,0,1
+Roseren   Xavier,Dirx   Benjamin,1,1
+Roseren   Xavier,de Courson   Charles,1,1
+Verdier-Jouclas   Marie-Christine,Peyron   Michèle,1,1
+Verdier-Jouclas   Marie-Christine,Florennes   Isabelle,1,1
+Verdier-Jouclas   Marie-Christine,Calvez   Céline,1,1
+Verdier-Jouclas   Marie-Christine,Gomez-Bassac   Valérie,1,1
+Verdier-Jouclas   Marie-Christine,Renson   Hugues,1,1
+Verdier-Jouclas   Marie-Christine,Piron   Béatrice,1,1
+Verdier-Jouclas   Marie-Christine,Raphan   Pierre-Alain,1,1
+Verdier-Jouclas   Marie-Christine,Vidal   Annie,1,1
+Verdier-Jouclas   Marie-Christine,Fiévet   Jean-Marie,1,1
+Verdier-Jouclas   Marie-Christine,Jumel   Sébastien,0,1
+Verdier-Jouclas   Marie-Christine,Dirx   Benjamin,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,1,1
+Peyron   Michèle,Florennes   Isabelle,1,1
+Peyron   Michèle,Calvez   Céline,1,1
+Peyron   Michèle,Gomez-Bassac   Valérie,1,1
+Peyron   Michèle,Renson   Hugues,1,1
+Peyron   Michèle,Piron   Béatrice,1,1
+Peyron   Michèle,Raphan   Pierre-Alain,1,1
+Peyron   Michèle,Vidal   Annie,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Jumel   Sébastien,0,1
+Peyron   Michèle,Dirx   Benjamin,1,1
+Peyron   Michèle,de Courson   Charles,1,1
+Florennes   Isabelle,Calvez   Céline,1,1
+Florennes   Isabelle,Gomez-Bassac   Valérie,1,1
+Florennes   Isabelle,Renson   Hugues,1,1
+Florennes   Isabelle,Piron   Béatrice,1,1
+Florennes   Isabelle,Raphan   Pierre-Alain,1,1
+Florennes   Isabelle,Vidal   Annie,1,1
+Florennes   Isabelle,Fiévet   Jean-Marie,1,1
+Florennes   Isabelle,Jumel   Sébastien,0,1
+Florennes   Isabelle,Dirx   Benjamin,1,1
+Florennes   Isabelle,de Courson   Charles,1,1
+Calvez   Céline,Gomez-Bassac   Valérie,1,1
+Calvez   Céline,Renson   Hugues,1,1
+Calvez   Céline,Piron   Béatrice,1,1
+Calvez   Céline,Raphan   Pierre-Alain,1,1
+Calvez   Céline,Vidal   Annie,1,1
+Calvez   Céline,Fiévet   Jean-Marie,1,1
+Calvez   Céline,Jumel   Sébastien,0,1
+Calvez   Céline,Dirx   Benjamin,1,1
+Calvez   Céline,de Courson   Charles,1,1
+Gomez-Bassac   Valérie,Renson   Hugues,1,1
+Gomez-Bassac   Valérie,Piron   Béatrice,1,1
+Gomez-Bassac   Valérie,Raphan   Pierre-Alain,1,1
+Gomez-Bassac   Valérie,Vidal   Annie,1,1
+Gomez-Bassac   Valérie,Fiévet   Jean-Marie,1,1
+Gomez-Bassac   Valérie,Jumel   Sébastien,0,1
+Gomez-Bassac   Valérie,Dirx   Benjamin,1,1
+Gomez-Bassac   Valérie,de Courson   Charles,1,1
+Renson   Hugues,Piron   Béatrice,1,1
+Renson   Hugues,Raphan   Pierre-Alain,1,1
+Renson   Hugues,Vidal   Annie,1,1
+Renson   Hugues,Fiévet   Jean-Marie,1,1
+Renson   Hugues,Jumel   Sébastien,0,1
+Renson   Hugues,Dirx   Benjamin,1,1
+Renson   Hugues,de Courson   Charles,1,1
+Piron   Béatrice,Raphan   Pierre-Alain,1,1
+Piron   Béatrice,Vidal   Annie,1,1
+Piron   Béatrice,Fiévet   Jean-Marie,1,1
+Piron   Béatrice,Jumel   Sébastien,0,1
+Piron   Béatrice,Dirx   Benjamin,1,1
+Piron   Béatrice,de Courson   Charles,1,1
+Raphan   Pierre-Alain,Vidal   Annie,1,1
+Raphan   Pierre-Alain,Fiévet   Jean-Marie,1,1
+Raphan   Pierre-Alain,Jumel   Sébastien,0,1
+Raphan   Pierre-Alain,Dirx   Benjamin,1,1
+Raphan   Pierre-Alain,de Courson   Charles,1,1
+Vidal   Annie,Fiévet   Jean-Marie,1,1
+Vidal   Annie,Jumel   Sébastien,0,1
+Vidal   Annie,Dirx   Benjamin,1,1
+Vidal   Annie,de Courson   Charles,1,1
+Fiévet   Jean-Marie,Jumel   Sébastien,0,1
+Fiévet   Jean-Marie,Dirx   Benjamin,1,1
+Fiévet   Jean-Marie,de Courson   Charles,1,1
+Jumel   Sébastien,Dirx   Benjamin,0,1
+Jumel   Sébastien,de Courson   Charles,0,1
+Dirx   Benjamin,de Courson   Charles,1,1

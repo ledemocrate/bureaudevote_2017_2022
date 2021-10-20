@@ -1,0 +1,631 @@
+from,to,vote_commun,loi_commun
+Menuel   Gérard,Dalloz   Marie-Christine,0,1
+Menuel   Gérard,Pancher   Bertrand,0,1
+Menuel   Gérard,Pellois   Hervé,0,1
+Menuel   Gérard,Louwagie   Véronique,0,1
+Menuel   Gérard,Pires Beaune   Christine,0,1
+Menuel   Gérard,Bothorel   Éric,0,1
+Menuel   Gérard,Dupont   Stella,0,1
+Menuel   Gérard,Peyrol   Bénédicte,0,1
+Menuel   Gérard,Laqhila   Mohamed,0,1
+Menuel   Gérard,Jerretie   Christophe,0,1
+Menuel   Gérard,Kerlogot   Yannick,0,1
+Menuel   Gérard,Mörch   Sandrine,1,1
+Menuel   Gérard,Cazeneuve   Jean-René,0,1
+Menuel   Gérard,Ménard   Emmanuelle,0,1
+Menuel   Gérard,Labaronne   Daniel,0,1
+Menuel   Gérard,Motin   Cendra,0,1
+Menuel   Gérard,Vallaud   Boris,0,1
+Menuel   Gérard,Lauzzana   Michel,0,1
+Menuel   Gérard,Saint-Paul   Laetitia,0,1
+Menuel   Gérard,Masséglia   Denis,0,1
+Menuel   Gérard,Girardin   Éric,0,1
+Menuel   Gérard,Magnier   Lise,0,1
+Menuel   Gérard,Zannier   Hélène,0,1
+Menuel   Gérard,Petit   Valérie,1,1
+Menuel   Gérard,Goulet   Perrine,0,1
+Menuel   Gérard,Mattei   Jean-Paul,0,1
+Menuel   Gérard,Testé   Stéphane,0,1
+Menuel   Gérard,Manin   Josette,0,1
+Menuel   Gérard,Dumas   Frédérique,0,1
+Menuel   Gérard,Lardet   Frédérique,0,1
+Menuel   Gérard,Kuster   Brigitte,0,1
+Menuel   Gérard,Verdier-Jouclas   Marie-Christine,0,1
+Menuel   Gérard,Bourlanges   Jean-Louis,0,1
+Menuel   Gérard,Carrez   Gilles,0,1
+Menuel   Gérard,de Courson   Charles,0,1
+Dalloz   Marie-Christine,Pancher   Bertrand,1,1
+Dalloz   Marie-Christine,Pellois   Hervé,1,1
+Dalloz   Marie-Christine,Louwagie   Véronique,1,1
+Dalloz   Marie-Christine,Pires Beaune   Christine,0,1
+Dalloz   Marie-Christine,Bothorel   Éric,1,1
+Dalloz   Marie-Christine,Dupont   Stella,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Laqhila   Mohamed,1,1
+Dalloz   Marie-Christine,Jerretie   Christophe,1,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,1,1
+Dalloz   Marie-Christine,Mörch   Sandrine,0,1
+Dalloz   Marie-Christine,Cazeneuve   Jean-René,1,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Labaronne   Daniel,1,1
+Dalloz   Marie-Christine,Motin   Cendra,1,1
+Dalloz   Marie-Christine,Vallaud   Boris,0,1
+Dalloz   Marie-Christine,Lauzzana   Michel,1,1
+Dalloz   Marie-Christine,Saint-Paul   Laetitia,1,1
+Dalloz   Marie-Christine,Masséglia   Denis,1,1
+Dalloz   Marie-Christine,Girardin   Éric,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Zannier   Hélène,1,1
+Dalloz   Marie-Christine,Petit   Valérie,0,1
+Dalloz   Marie-Christine,Goulet   Perrine,1,1
+Dalloz   Marie-Christine,Mattei   Jean-Paul,0,1
+Dalloz   Marie-Christine,Testé   Stéphane,1,1
+Dalloz   Marie-Christine,Manin   Josette,0,1
+Dalloz   Marie-Christine,Dumas   Frédérique,1,1
+Dalloz   Marie-Christine,Lardet   Frédérique,1,1
+Dalloz   Marie-Christine,Kuster   Brigitte,1,1
+Dalloz   Marie-Christine,Verdier-Jouclas   Marie-Christine,1,1
+Dalloz   Marie-Christine,Bourlanges   Jean-Louis,1,1
+Dalloz   Marie-Christine,Carrez   Gilles,1,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Pancher   Bertrand,Pellois   Hervé,1,1
+Pancher   Bertrand,Louwagie   Véronique,1,1
+Pancher   Bertrand,Pires Beaune   Christine,0,1
+Pancher   Bertrand,Bothorel   Éric,1,1
+Pancher   Bertrand,Dupont   Stella,1,1
+Pancher   Bertrand,Peyrol   Bénédicte,1,1
+Pancher   Bertrand,Laqhila   Mohamed,1,1
+Pancher   Bertrand,Jerretie   Christophe,1,1
+Pancher   Bertrand,Kerlogot   Yannick,1,1
+Pancher   Bertrand,Mörch   Sandrine,0,1
+Pancher   Bertrand,Cazeneuve   Jean-René,1,1
+Pancher   Bertrand,Ménard   Emmanuelle,1,1
+Pancher   Bertrand,Labaronne   Daniel,1,1
+Pancher   Bertrand,Motin   Cendra,1,1
+Pancher   Bertrand,Vallaud   Boris,0,1
+Pancher   Bertrand,Lauzzana   Michel,1,1
+Pancher   Bertrand,Saint-Paul   Laetitia,1,1
+Pancher   Bertrand,Masséglia   Denis,1,1
+Pancher   Bertrand,Girardin   Éric,1,1
+Pancher   Bertrand,Magnier   Lise,1,1
+Pancher   Bertrand,Zannier   Hélène,1,1
+Pancher   Bertrand,Petit   Valérie,0,1
+Pancher   Bertrand,Goulet   Perrine,1,1
+Pancher   Bertrand,Mattei   Jean-Paul,0,1
+Pancher   Bertrand,Testé   Stéphane,1,1
+Pancher   Bertrand,Manin   Josette,0,1
+Pancher   Bertrand,Dumas   Frédérique,1,1
+Pancher   Bertrand,Lardet   Frédérique,1,1
+Pancher   Bertrand,Kuster   Brigitte,1,1
+Pancher   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Pancher   Bertrand,Bourlanges   Jean-Louis,1,1
+Pancher   Bertrand,Carrez   Gilles,1,1
+Pancher   Bertrand,de Courson   Charles,1,1
+Pellois   Hervé,Louwagie   Véronique,1,1
+Pellois   Hervé,Pires Beaune   Christine,0,1
+Pellois   Hervé,Bothorel   Éric,1,1
+Pellois   Hervé,Dupont   Stella,1,1
+Pellois   Hervé,Peyrol   Bénédicte,1,1
+Pellois   Hervé,Laqhila   Mohamed,1,1
+Pellois   Hervé,Jerretie   Christophe,1,1
+Pellois   Hervé,Kerlogot   Yannick,1,1
+Pellois   Hervé,Mörch   Sandrine,0,1
+Pellois   Hervé,Cazeneuve   Jean-René,1,1
+Pellois   Hervé,Ménard   Emmanuelle,1,1
+Pellois   Hervé,Labaronne   Daniel,1,1
+Pellois   Hervé,Motin   Cendra,1,1
+Pellois   Hervé,Vallaud   Boris,0,1
+Pellois   Hervé,Lauzzana   Michel,1,1
+Pellois   Hervé,Saint-Paul   Laetitia,1,1
+Pellois   Hervé,Masséglia   Denis,1,1
+Pellois   Hervé,Girardin   Éric,1,1
+Pellois   Hervé,Magnier   Lise,1,1
+Pellois   Hervé,Zannier   Hélène,1,1
+Pellois   Hervé,Petit   Valérie,0,1
+Pellois   Hervé,Goulet   Perrine,1,1
+Pellois   Hervé,Mattei   Jean-Paul,0,1
+Pellois   Hervé,Testé   Stéphane,1,1
+Pellois   Hervé,Manin   Josette,0,1
+Pellois   Hervé,Dumas   Frédérique,1,1
+Pellois   Hervé,Lardet   Frédérique,1,1
+Pellois   Hervé,Kuster   Brigitte,1,1
+Pellois   Hervé,Verdier-Jouclas   Marie-Christine,1,1
+Pellois   Hervé,Bourlanges   Jean-Louis,1,1
+Pellois   Hervé,Carrez   Gilles,1,1
+Pellois   Hervé,de Courson   Charles,1,1
+Louwagie   Véronique,Pires Beaune   Christine,0,1
+Louwagie   Véronique,Bothorel   Éric,1,1
+Louwagie   Véronique,Dupont   Stella,1,1
+Louwagie   Véronique,Peyrol   Bénédicte,1,1
+Louwagie   Véronique,Laqhila   Mohamed,1,1
+Louwagie   Véronique,Jerretie   Christophe,1,1
+Louwagie   Véronique,Kerlogot   Yannick,1,1
+Louwagie   Véronique,Mörch   Sandrine,0,1
+Louwagie   Véronique,Cazeneuve   Jean-René,1,1
+Louwagie   Véronique,Ménard   Emmanuelle,1,1
+Louwagie   Véronique,Labaronne   Daniel,1,1
+Louwagie   Véronique,Motin   Cendra,1,1
+Louwagie   Véronique,Vallaud   Boris,0,1
+Louwagie   Véronique,Lauzzana   Michel,1,1
+Louwagie   Véronique,Saint-Paul   Laetitia,1,1
+Louwagie   Véronique,Masséglia   Denis,1,1
+Louwagie   Véronique,Girardin   Éric,1,1
+Louwagie   Véronique,Magnier   Lise,1,1
+Louwagie   Véronique,Zannier   Hélène,1,1
+Louwagie   Véronique,Petit   Valérie,0,1
+Louwagie   Véronique,Goulet   Perrine,1,1
+Louwagie   Véronique,Mattei   Jean-Paul,0,1
+Louwagie   Véronique,Testé   Stéphane,1,1
+Louwagie   Véronique,Manin   Josette,0,1
+Louwagie   Véronique,Dumas   Frédérique,1,1
+Louwagie   Véronique,Lardet   Frédérique,1,1
+Louwagie   Véronique,Kuster   Brigitte,1,1
+Louwagie   Véronique,Verdier-Jouclas   Marie-Christine,1,1
+Louwagie   Véronique,Bourlanges   Jean-Louis,1,1
+Louwagie   Véronique,Carrez   Gilles,1,1
+Louwagie   Véronique,de Courson   Charles,1,1
+Pires Beaune   Christine,Bothorel   Éric,0,1
+Pires Beaune   Christine,Dupont   Stella,0,1
+Pires Beaune   Christine,Peyrol   Bénédicte,0,1
+Pires Beaune   Christine,Laqhila   Mohamed,0,1
+Pires Beaune   Christine,Jerretie   Christophe,0,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Mörch   Sandrine,0,1
+Pires Beaune   Christine,Cazeneuve   Jean-René,0,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Motin   Cendra,0,1
+Pires Beaune   Christine,Vallaud   Boris,1,1
+Pires Beaune   Christine,Lauzzana   Michel,0,1
+Pires Beaune   Christine,Saint-Paul   Laetitia,0,1
+Pires Beaune   Christine,Masséglia   Denis,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Magnier   Lise,0,1
+Pires Beaune   Christine,Zannier   Hélène,0,1
+Pires Beaune   Christine,Petit   Valérie,0,1
+Pires Beaune   Christine,Goulet   Perrine,0,1
+Pires Beaune   Christine,Mattei   Jean-Paul,1,1
+Pires Beaune   Christine,Testé   Stéphane,0,1
+Pires Beaune   Christine,Manin   Josette,1,1
+Pires Beaune   Christine,Dumas   Frédérique,0,1
+Pires Beaune   Christine,Lardet   Frédérique,0,1
+Pires Beaune   Christine,Kuster   Brigitte,0,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Bourlanges   Jean-Louis,0,1
+Pires Beaune   Christine,Carrez   Gilles,0,1
+Pires Beaune   Christine,de Courson   Charles,0,1
+Bothorel   Éric,Dupont   Stella,1,1
+Bothorel   Éric,Peyrol   Bénédicte,1,1
+Bothorel   Éric,Laqhila   Mohamed,1,1
+Bothorel   Éric,Jerretie   Christophe,1,1
+Bothorel   Éric,Kerlogot   Yannick,1,1
+Bothorel   Éric,Mörch   Sandrine,0,1
+Bothorel   Éric,Cazeneuve   Jean-René,1,1
+Bothorel   Éric,Ménard   Emmanuelle,1,1
+Bothorel   Éric,Labaronne   Daniel,1,1
+Bothorel   Éric,Motin   Cendra,1,1
+Bothorel   Éric,Vallaud   Boris,0,1
+Bothorel   Éric,Lauzzana   Michel,1,1
+Bothorel   Éric,Saint-Paul   Laetitia,1,1
+Bothorel   Éric,Masséglia   Denis,1,1
+Bothorel   Éric,Girardin   Éric,1,1
+Bothorel   Éric,Magnier   Lise,1,1
+Bothorel   Éric,Zannier   Hélène,1,1
+Bothorel   Éric,Petit   Valérie,0,1
+Bothorel   Éric,Goulet   Perrine,1,1
+Bothorel   Éric,Mattei   Jean-Paul,0,1
+Bothorel   Éric,Testé   Stéphane,1,1
+Bothorel   Éric,Manin   Josette,0,1
+Bothorel   Éric,Dumas   Frédérique,1,1
+Bothorel   Éric,Lardet   Frédérique,1,1
+Bothorel   Éric,Kuster   Brigitte,1,1
+Bothorel   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Bothorel   Éric,Bourlanges   Jean-Louis,1,1
+Bothorel   Éric,Carrez   Gilles,1,1
+Bothorel   Éric,de Courson   Charles,1,1
+Dupont   Stella,Peyrol   Bénédicte,1,1
+Dupont   Stella,Laqhila   Mohamed,1,1
+Dupont   Stella,Jerretie   Christophe,1,1
+Dupont   Stella,Kerlogot   Yannick,1,1
+Dupont   Stella,Mörch   Sandrine,0,1
+Dupont   Stella,Cazeneuve   Jean-René,1,1
+Dupont   Stella,Ménard   Emmanuelle,1,1
+Dupont   Stella,Labaronne   Daniel,1,1
+Dupont   Stella,Motin   Cendra,1,1
+Dupont   Stella,Vallaud   Boris,0,1
+Dupont   Stella,Lauzzana   Michel,1,1
+Dupont   Stella,Saint-Paul   Laetitia,1,1
+Dupont   Stella,Masséglia   Denis,1,1
+Dupont   Stella,Girardin   Éric,1,1
+Dupont   Stella,Magnier   Lise,1,1
+Dupont   Stella,Zannier   Hélène,1,1
+Dupont   Stella,Petit   Valérie,0,1
+Dupont   Stella,Goulet   Perrine,1,1
+Dupont   Stella,Mattei   Jean-Paul,0,1
+Dupont   Stella,Testé   Stéphane,1,1
+Dupont   Stella,Manin   Josette,0,1
+Dupont   Stella,Dumas   Frédérique,1,1
+Dupont   Stella,Lardet   Frédérique,1,1
+Dupont   Stella,Kuster   Brigitte,1,1
+Dupont   Stella,Verdier-Jouclas   Marie-Christine,1,1
+Dupont   Stella,Bourlanges   Jean-Louis,1,1
+Dupont   Stella,Carrez   Gilles,1,1
+Dupont   Stella,de Courson   Charles,1,1
+Peyrol   Bénédicte,Laqhila   Mohamed,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Mörch   Sandrine,0,1
+Peyrol   Bénédicte,Cazeneuve   Jean-René,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Vallaud   Boris,0,1
+Peyrol   Bénédicte,Lauzzana   Michel,1,1
+Peyrol   Bénédicte,Saint-Paul   Laetitia,1,1
+Peyrol   Bénédicte,Masséglia   Denis,1,1
+Peyrol   Bénédicte,Girardin   Éric,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Zannier   Hélène,1,1
+Peyrol   Bénédicte,Petit   Valérie,0,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Mattei   Jean-Paul,0,1
+Peyrol   Bénédicte,Testé   Stéphane,1,1
+Peyrol   Bénédicte,Manin   Josette,0,1
+Peyrol   Bénédicte,Dumas   Frédérique,1,1
+Peyrol   Bénédicte,Lardet   Frédérique,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Peyrol   Bénédicte,Bourlanges   Jean-Louis,1,1
+Peyrol   Bénédicte,Carrez   Gilles,1,1
+Peyrol   Bénédicte,de Courson   Charles,1,1
+Laqhila   Mohamed,Jerretie   Christophe,1,1
+Laqhila   Mohamed,Kerlogot   Yannick,1,1
+Laqhila   Mohamed,Mörch   Sandrine,0,1
+Laqhila   Mohamed,Cazeneuve   Jean-René,1,1
+Laqhila   Mohamed,Ménard   Emmanuelle,1,1
+Laqhila   Mohamed,Labaronne   Daniel,1,1
+Laqhila   Mohamed,Motin   Cendra,1,1
+Laqhila   Mohamed,Vallaud   Boris,0,1
+Laqhila   Mohamed,Lauzzana   Michel,1,1
+Laqhila   Mohamed,Saint-Paul   Laetitia,1,1
+Laqhila   Mohamed,Masséglia   Denis,1,1
+Laqhila   Mohamed,Girardin   Éric,1,1
+Laqhila   Mohamed,Magnier   Lise,1,1
+Laqhila   Mohamed,Zannier   Hélène,1,1
+Laqhila   Mohamed,Petit   Valérie,0,1
+Laqhila   Mohamed,Goulet   Perrine,1,1
+Laqhila   Mohamed,Mattei   Jean-Paul,0,1
+Laqhila   Mohamed,Testé   Stéphane,1,1
+Laqhila   Mohamed,Manin   Josette,0,1
+Laqhila   Mohamed,Dumas   Frédérique,1,1
+Laqhila   Mohamed,Lardet   Frédérique,1,1
+Laqhila   Mohamed,Kuster   Brigitte,1,1
+Laqhila   Mohamed,Verdier-Jouclas   Marie-Christine,1,1
+Laqhila   Mohamed,Bourlanges   Jean-Louis,1,1
+Laqhila   Mohamed,Carrez   Gilles,1,1
+Laqhila   Mohamed,de Courson   Charles,1,1
+Jerretie   Christophe,Kerlogot   Yannick,1,1
+Jerretie   Christophe,Mörch   Sandrine,0,1
+Jerretie   Christophe,Cazeneuve   Jean-René,1,1
+Jerretie   Christophe,Ménard   Emmanuelle,1,1
+Jerretie   Christophe,Labaronne   Daniel,1,1
+Jerretie   Christophe,Motin   Cendra,1,1
+Jerretie   Christophe,Vallaud   Boris,0,1
+Jerretie   Christophe,Lauzzana   Michel,1,1
+Jerretie   Christophe,Saint-Paul   Laetitia,1,1
+Jerretie   Christophe,Masséglia   Denis,1,1
+Jerretie   Christophe,Girardin   Éric,1,1
+Jerretie   Christophe,Magnier   Lise,1,1
+Jerretie   Christophe,Zannier   Hélène,1,1
+Jerretie   Christophe,Petit   Valérie,0,1
+Jerretie   Christophe,Goulet   Perrine,1,1
+Jerretie   Christophe,Mattei   Jean-Paul,0,1
+Jerretie   Christophe,Testé   Stéphane,1,1
+Jerretie   Christophe,Manin   Josette,0,1
+Jerretie   Christophe,Dumas   Frédérique,1,1
+Jerretie   Christophe,Lardet   Frédérique,1,1
+Jerretie   Christophe,Kuster   Brigitte,1,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Bourlanges   Jean-Louis,1,1
+Jerretie   Christophe,Carrez   Gilles,1,1
+Jerretie   Christophe,de Courson   Charles,1,1
+Kerlogot   Yannick,Mörch   Sandrine,0,1
+Kerlogot   Yannick,Cazeneuve   Jean-René,1,1
+Kerlogot   Yannick,Ménard   Emmanuelle,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Motin   Cendra,1,1
+Kerlogot   Yannick,Vallaud   Boris,0,1
+Kerlogot   Yannick,Lauzzana   Michel,1,1
+Kerlogot   Yannick,Saint-Paul   Laetitia,1,1
+Kerlogot   Yannick,Masséglia   Denis,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Magnier   Lise,1,1
+Kerlogot   Yannick,Zannier   Hélène,1,1
+Kerlogot   Yannick,Petit   Valérie,0,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Mattei   Jean-Paul,0,1
+Kerlogot   Yannick,Testé   Stéphane,1,1
+Kerlogot   Yannick,Manin   Josette,0,1
+Kerlogot   Yannick,Dumas   Frédérique,1,1
+Kerlogot   Yannick,Lardet   Frédérique,1,1
+Kerlogot   Yannick,Kuster   Brigitte,1,1
+Kerlogot   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kerlogot   Yannick,Bourlanges   Jean-Louis,1,1
+Kerlogot   Yannick,Carrez   Gilles,1,1
+Kerlogot   Yannick,de Courson   Charles,1,1
+Mörch   Sandrine,Cazeneuve   Jean-René,0,1
+Mörch   Sandrine,Ménard   Emmanuelle,0,1
+Mörch   Sandrine,Labaronne   Daniel,0,1
+Mörch   Sandrine,Motin   Cendra,0,1
+Mörch   Sandrine,Vallaud   Boris,0,1
+Mörch   Sandrine,Lauzzana   Michel,0,1
+Mörch   Sandrine,Saint-Paul   Laetitia,0,1
+Mörch   Sandrine,Masséglia   Denis,0,1
+Mörch   Sandrine,Girardin   Éric,0,1
+Mörch   Sandrine,Magnier   Lise,0,1
+Mörch   Sandrine,Zannier   Hélène,0,1
+Mörch   Sandrine,Petit   Valérie,1,1
+Mörch   Sandrine,Goulet   Perrine,0,1
+Mörch   Sandrine,Mattei   Jean-Paul,0,1
+Mörch   Sandrine,Testé   Stéphane,0,1
+Mörch   Sandrine,Manin   Josette,0,1
+Mörch   Sandrine,Dumas   Frédérique,0,1
+Mörch   Sandrine,Lardet   Frédérique,0,1
+Mörch   Sandrine,Kuster   Brigitte,0,1
+Mörch   Sandrine,Verdier-Jouclas   Marie-Christine,0,1
+Mörch   Sandrine,Bourlanges   Jean-Louis,0,1
+Mörch   Sandrine,Carrez   Gilles,0,1
+Mörch   Sandrine,de Courson   Charles,0,1
+Cazeneuve   Jean-René,Ménard   Emmanuelle,1,1
+Cazeneuve   Jean-René,Labaronne   Daniel,1,1
+Cazeneuve   Jean-René,Motin   Cendra,1,1
+Cazeneuve   Jean-René,Vallaud   Boris,0,1
+Cazeneuve   Jean-René,Lauzzana   Michel,1,1
+Cazeneuve   Jean-René,Saint-Paul   Laetitia,1,1
+Cazeneuve   Jean-René,Masséglia   Denis,1,1
+Cazeneuve   Jean-René,Girardin   Éric,1,1
+Cazeneuve   Jean-René,Magnier   Lise,1,1
+Cazeneuve   Jean-René,Zannier   Hélène,1,1
+Cazeneuve   Jean-René,Petit   Valérie,0,1
+Cazeneuve   Jean-René,Goulet   Perrine,1,1
+Cazeneuve   Jean-René,Mattei   Jean-Paul,0,1
+Cazeneuve   Jean-René,Testé   Stéphane,1,1
+Cazeneuve   Jean-René,Manin   Josette,0,1
+Cazeneuve   Jean-René,Dumas   Frédérique,1,1
+Cazeneuve   Jean-René,Lardet   Frédérique,1,1
+Cazeneuve   Jean-René,Kuster   Brigitte,1,1
+Cazeneuve   Jean-René,Verdier-Jouclas   Marie-Christine,1,1
+Cazeneuve   Jean-René,Bourlanges   Jean-Louis,1,1
+Cazeneuve   Jean-René,Carrez   Gilles,1,1
+Cazeneuve   Jean-René,de Courson   Charles,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,1,1
+Ménard   Emmanuelle,Motin   Cendra,1,1
+Ménard   Emmanuelle,Vallaud   Boris,0,1
+Ménard   Emmanuelle,Lauzzana   Michel,1,1
+Ménard   Emmanuelle,Saint-Paul   Laetitia,1,1
+Ménard   Emmanuelle,Masséglia   Denis,1,1
+Ménard   Emmanuelle,Girardin   Éric,1,1
+Ménard   Emmanuelle,Magnier   Lise,1,1
+Ménard   Emmanuelle,Zannier   Hélène,1,1
+Ménard   Emmanuelle,Petit   Valérie,0,1
+Ménard   Emmanuelle,Goulet   Perrine,1,1
+Ménard   Emmanuelle,Mattei   Jean-Paul,0,1
+Ménard   Emmanuelle,Testé   Stéphane,1,1
+Ménard   Emmanuelle,Manin   Josette,0,1
+Ménard   Emmanuelle,Dumas   Frédérique,1,1
+Ménard   Emmanuelle,Lardet   Frédérique,1,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Verdier-Jouclas   Marie-Christine,1,1
+Ménard   Emmanuelle,Bourlanges   Jean-Louis,1,1
+Ménard   Emmanuelle,Carrez   Gilles,1,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+Labaronne   Daniel,Motin   Cendra,1,1
+Labaronne   Daniel,Vallaud   Boris,0,1
+Labaronne   Daniel,Lauzzana   Michel,1,1
+Labaronne   Daniel,Saint-Paul   Laetitia,1,1
+Labaronne   Daniel,Masséglia   Denis,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Magnier   Lise,1,1
+Labaronne   Daniel,Zannier   Hélène,1,1
+Labaronne   Daniel,Petit   Valérie,0,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Mattei   Jean-Paul,0,1
+Labaronne   Daniel,Testé   Stéphane,1,1
+Labaronne   Daniel,Manin   Josette,0,1
+Labaronne   Daniel,Dumas   Frédérique,1,1
+Labaronne   Daniel,Lardet   Frédérique,1,1
+Labaronne   Daniel,Kuster   Brigitte,1,1
+Labaronne   Daniel,Verdier-Jouclas   Marie-Christine,1,1
+Labaronne   Daniel,Bourlanges   Jean-Louis,1,1
+Labaronne   Daniel,Carrez   Gilles,1,1
+Labaronne   Daniel,de Courson   Charles,1,1
+Motin   Cendra,Vallaud   Boris,0,1
+Motin   Cendra,Lauzzana   Michel,1,1
+Motin   Cendra,Saint-Paul   Laetitia,1,1
+Motin   Cendra,Masséglia   Denis,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Magnier   Lise,1,1
+Motin   Cendra,Zannier   Hélène,1,1
+Motin   Cendra,Petit   Valérie,0,1
+Motin   Cendra,Goulet   Perrine,1,1
+Motin   Cendra,Mattei   Jean-Paul,0,1
+Motin   Cendra,Testé   Stéphane,1,1
+Motin   Cendra,Manin   Josette,0,1
+Motin   Cendra,Dumas   Frédérique,1,1
+Motin   Cendra,Lardet   Frédérique,1,1
+Motin   Cendra,Kuster   Brigitte,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Bourlanges   Jean-Louis,1,1
+Motin   Cendra,Carrez   Gilles,1,1
+Motin   Cendra,de Courson   Charles,1,1
+Vallaud   Boris,Lauzzana   Michel,0,1
+Vallaud   Boris,Saint-Paul   Laetitia,0,1
+Vallaud   Boris,Masséglia   Denis,0,1
+Vallaud   Boris,Girardin   Éric,0,1
+Vallaud   Boris,Magnier   Lise,0,1
+Vallaud   Boris,Zannier   Hélène,0,1
+Vallaud   Boris,Petit   Valérie,0,1
+Vallaud   Boris,Goulet   Perrine,0,1
+Vallaud   Boris,Mattei   Jean-Paul,1,1
+Vallaud   Boris,Testé   Stéphane,0,1
+Vallaud   Boris,Manin   Josette,1,1
+Vallaud   Boris,Dumas   Frédérique,0,1
+Vallaud   Boris,Lardet   Frédérique,0,1
+Vallaud   Boris,Kuster   Brigitte,0,1
+Vallaud   Boris,Verdier-Jouclas   Marie-Christine,0,1
+Vallaud   Boris,Bourlanges   Jean-Louis,0,1
+Vallaud   Boris,Carrez   Gilles,0,1
+Vallaud   Boris,de Courson   Charles,0,1
+Lauzzana   Michel,Saint-Paul   Laetitia,1,1
+Lauzzana   Michel,Masséglia   Denis,1,1
+Lauzzana   Michel,Girardin   Éric,1,1
+Lauzzana   Michel,Magnier   Lise,1,1
+Lauzzana   Michel,Zannier   Hélène,1,1
+Lauzzana   Michel,Petit   Valérie,0,1
+Lauzzana   Michel,Goulet   Perrine,1,1
+Lauzzana   Michel,Mattei   Jean-Paul,0,1
+Lauzzana   Michel,Testé   Stéphane,1,1
+Lauzzana   Michel,Manin   Josette,0,1
+Lauzzana   Michel,Dumas   Frédérique,1,1
+Lauzzana   Michel,Lardet   Frédérique,1,1
+Lauzzana   Michel,Kuster   Brigitte,1,1
+Lauzzana   Michel,Verdier-Jouclas   Marie-Christine,1,1
+Lauzzana   Michel,Bourlanges   Jean-Louis,1,1
+Lauzzana   Michel,Carrez   Gilles,1,1
+Lauzzana   Michel,de Courson   Charles,1,1
+Saint-Paul   Laetitia,Masséglia   Denis,1,1
+Saint-Paul   Laetitia,Girardin   Éric,1,1
+Saint-Paul   Laetitia,Magnier   Lise,1,1
+Saint-Paul   Laetitia,Zannier   Hélène,1,1
+Saint-Paul   Laetitia,Petit   Valérie,0,1
+Saint-Paul   Laetitia,Goulet   Perrine,1,1
+Saint-Paul   Laetitia,Mattei   Jean-Paul,0,1
+Saint-Paul   Laetitia,Testé   Stéphane,1,1
+Saint-Paul   Laetitia,Manin   Josette,0,1
+Saint-Paul   Laetitia,Dumas   Frédérique,1,1
+Saint-Paul   Laetitia,Lardet   Frédérique,1,1
+Saint-Paul   Laetitia,Kuster   Brigitte,1,1
+Saint-Paul   Laetitia,Verdier-Jouclas   Marie-Christine,1,1
+Saint-Paul   Laetitia,Bourlanges   Jean-Louis,1,1
+Saint-Paul   Laetitia,Carrez   Gilles,1,1
+Saint-Paul   Laetitia,de Courson   Charles,1,1
+Masséglia   Denis,Girardin   Éric,1,1
+Masséglia   Denis,Magnier   Lise,1,1
+Masséglia   Denis,Zannier   Hélène,1,1
+Masséglia   Denis,Petit   Valérie,0,1
+Masséglia   Denis,Goulet   Perrine,1,1
+Masséglia   Denis,Mattei   Jean-Paul,0,1
+Masséglia   Denis,Testé   Stéphane,1,1
+Masséglia   Denis,Manin   Josette,0,1
+Masséglia   Denis,Dumas   Frédérique,1,1
+Masséglia   Denis,Lardet   Frédérique,1,1
+Masséglia   Denis,Kuster   Brigitte,1,1
+Masséglia   Denis,Verdier-Jouclas   Marie-Christine,1,1
+Masséglia   Denis,Bourlanges   Jean-Louis,1,1
+Masséglia   Denis,Carrez   Gilles,1,1
+Masséglia   Denis,de Courson   Charles,1,1
+Girardin   Éric,Magnier   Lise,1,1
+Girardin   Éric,Zannier   Hélène,1,1
+Girardin   Éric,Petit   Valérie,0,1
+Girardin   Éric,Goulet   Perrine,1,1
+Girardin   Éric,Mattei   Jean-Paul,0,1
+Girardin   Éric,Testé   Stéphane,1,1
+Girardin   Éric,Manin   Josette,0,1
+Girardin   Éric,Dumas   Frédérique,1,1
+Girardin   Éric,Lardet   Frédérique,1,1
+Girardin   Éric,Kuster   Brigitte,1,1
+Girardin   Éric,Verdier-Jouclas   Marie-Christine,1,1
+Girardin   Éric,Bourlanges   Jean-Louis,1,1
+Girardin   Éric,Carrez   Gilles,1,1
+Girardin   Éric,de Courson   Charles,1,1
+Magnier   Lise,Zannier   Hélène,1,1
+Magnier   Lise,Petit   Valérie,0,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Mattei   Jean-Paul,0,1
+Magnier   Lise,Testé   Stéphane,1,1
+Magnier   Lise,Manin   Josette,0,1
+Magnier   Lise,Dumas   Frédérique,1,1
+Magnier   Lise,Lardet   Frédérique,1,1
+Magnier   Lise,Kuster   Brigitte,1,1
+Magnier   Lise,Verdier-Jouclas   Marie-Christine,1,1
+Magnier   Lise,Bourlanges   Jean-Louis,1,1
+Magnier   Lise,Carrez   Gilles,1,1
+Magnier   Lise,de Courson   Charles,1,1
+Zannier   Hélène,Petit   Valérie,0,1
+Zannier   Hélène,Goulet   Perrine,1,1
+Zannier   Hélène,Mattei   Jean-Paul,0,1
+Zannier   Hélène,Testé   Stéphane,1,1
+Zannier   Hélène,Manin   Josette,0,1
+Zannier   Hélène,Dumas   Frédérique,1,1
+Zannier   Hélène,Lardet   Frédérique,1,1
+Zannier   Hélène,Kuster   Brigitte,1,1
+Zannier   Hélène,Verdier-Jouclas   Marie-Christine,1,1
+Zannier   Hélène,Bourlanges   Jean-Louis,1,1
+Zannier   Hélène,Carrez   Gilles,1,1
+Zannier   Hélène,de Courson   Charles,1,1
+Petit   Valérie,Goulet   Perrine,0,1
+Petit   Valérie,Mattei   Jean-Paul,0,1
+Petit   Valérie,Testé   Stéphane,0,1
+Petit   Valérie,Manin   Josette,0,1
+Petit   Valérie,Dumas   Frédérique,0,1
+Petit   Valérie,Lardet   Frédérique,0,1
+Petit   Valérie,Kuster   Brigitte,0,1
+Petit   Valérie,Verdier-Jouclas   Marie-Christine,0,1
+Petit   Valérie,Bourlanges   Jean-Louis,0,1
+Petit   Valérie,Carrez   Gilles,0,1
+Petit   Valérie,de Courson   Charles,0,1
+Goulet   Perrine,Mattei   Jean-Paul,0,1
+Goulet   Perrine,Testé   Stéphane,1,1
+Goulet   Perrine,Manin   Josette,0,1
+Goulet   Perrine,Dumas   Frédérique,1,1
+Goulet   Perrine,Lardet   Frédérique,1,1
+Goulet   Perrine,Kuster   Brigitte,1,1
+Goulet   Perrine,Verdier-Jouclas   Marie-Christine,1,1
+Goulet   Perrine,Bourlanges   Jean-Louis,1,1
+Goulet   Perrine,Carrez   Gilles,1,1
+Goulet   Perrine,de Courson   Charles,1,1
+Mattei   Jean-Paul,Testé   Stéphane,0,1
+Mattei   Jean-Paul,Manin   Josette,1,1
+Mattei   Jean-Paul,Dumas   Frédérique,0,1
+Mattei   Jean-Paul,Lardet   Frédérique,0,1
+Mattei   Jean-Paul,Kuster   Brigitte,0,1
+Mattei   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Mattei   Jean-Paul,Bourlanges   Jean-Louis,0,1
+Mattei   Jean-Paul,Carrez   Gilles,0,1
+Mattei   Jean-Paul,de Courson   Charles,0,1
+Testé   Stéphane,Manin   Josette,0,1
+Testé   Stéphane,Dumas   Frédérique,1,1
+Testé   Stéphane,Lardet   Frédérique,1,1
+Testé   Stéphane,Kuster   Brigitte,1,1
+Testé   Stéphane,Verdier-Jouclas   Marie-Christine,1,1
+Testé   Stéphane,Bourlanges   Jean-Louis,1,1
+Testé   Stéphane,Carrez   Gilles,1,1
+Testé   Stéphane,de Courson   Charles,1,1
+Manin   Josette,Dumas   Frédérique,0,1
+Manin   Josette,Lardet   Frédérique,0,1
+Manin   Josette,Kuster   Brigitte,0,1
+Manin   Josette,Verdier-Jouclas   Marie-Christine,0,1
+Manin   Josette,Bourlanges   Jean-Louis,0,1
+Manin   Josette,Carrez   Gilles,0,1
+Manin   Josette,de Courson   Charles,0,1
+Dumas   Frédérique,Lardet   Frédérique,1,1
+Dumas   Frédérique,Kuster   Brigitte,1,1
+Dumas   Frédérique,Verdier-Jouclas   Marie-Christine,1,1
+Dumas   Frédérique,Bourlanges   Jean-Louis,1,1
+Dumas   Frédérique,Carrez   Gilles,1,1
+Dumas   Frédérique,de Courson   Charles,1,1
+Lardet   Frédérique,Kuster   Brigitte,1,1
+Lardet   Frédérique,Verdier-Jouclas   Marie-Christine,1,1
+Lardet   Frédérique,Bourlanges   Jean-Louis,1,1
+Lardet   Frédérique,Carrez   Gilles,1,1
+Lardet   Frédérique,de Courson   Charles,1,1
+Kuster   Brigitte,Verdier-Jouclas   Marie-Christine,1,1
+Kuster   Brigitte,Bourlanges   Jean-Louis,1,1
+Kuster   Brigitte,Carrez   Gilles,1,1
+Kuster   Brigitte,de Courson   Charles,1,1
+Verdier-Jouclas   Marie-Christine,Bourlanges   Jean-Louis,1,1
+Verdier-Jouclas   Marie-Christine,Carrez   Gilles,1,1
+Verdier-Jouclas   Marie-Christine,de Courson   Charles,1,1
+Bourlanges   Jean-Louis,Carrez   Gilles,1,1
+Bourlanges   Jean-Louis,de Courson   Charles,1,1
+Carrez   Gilles,de Courson   Charles,1,1

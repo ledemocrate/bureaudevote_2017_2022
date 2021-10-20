@@ -1,0 +1,56 @@
+from,to,vote_commun,loi_commun
+Blanchet   Christophe,Sommer   Denis,1,1
+Blanchet   Christophe,Dubost   Coralie,1,1
+Blanchet   Christophe,Motin   Cendra,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Girardin   Éric,1,1
+Blanchet   Christophe,Le Peih   Nicole,1,1
+Blanchet   Christophe,Lescure   Roland,1,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Marilossian   Jacques,1,1
+Blanchet   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Sommer   Denis,Dubost   Coralie,1,1
+Sommer   Denis,Motin   Cendra,1,1
+Sommer   Denis,Bolo   Philippe,1,1
+Sommer   Denis,Girardin   Éric,1,1
+Sommer   Denis,Le Peih   Nicole,1,1
+Sommer   Denis,Lescure   Roland,1,1
+Sommer   Denis,Gouffier-Cha   Guillaume,1,1
+Sommer   Denis,Marilossian   Jacques,1,1
+Sommer   Denis,Beaudouin-Hubiere   Sophie,1,1
+Dubost   Coralie,Motin   Cendra,1,1
+Dubost   Coralie,Bolo   Philippe,1,1
+Dubost   Coralie,Girardin   Éric,1,1
+Dubost   Coralie,Le Peih   Nicole,1,1
+Dubost   Coralie,Lescure   Roland,1,1
+Dubost   Coralie,Gouffier-Cha   Guillaume,1,1
+Dubost   Coralie,Marilossian   Jacques,1,1
+Dubost   Coralie,Beaudouin-Hubiere   Sophie,1,1
+Motin   Cendra,Bolo   Philippe,1,1
+Motin   Cendra,Girardin   Éric,1,1
+Motin   Cendra,Le Peih   Nicole,1,1
+Motin   Cendra,Lescure   Roland,1,1
+Motin   Cendra,Gouffier-Cha   Guillaume,1,1
+Motin   Cendra,Marilossian   Jacques,1,1
+Motin   Cendra,Beaudouin-Hubiere   Sophie,1,1
+Bolo   Philippe,Girardin   Éric,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Gouffier-Cha   Guillaume,1,1
+Bolo   Philippe,Marilossian   Jacques,1,1
+Bolo   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Girardin   Éric,Le Peih   Nicole,1,1
+Girardin   Éric,Lescure   Roland,1,1
+Girardin   Éric,Gouffier-Cha   Guillaume,1,1
+Girardin   Éric,Marilossian   Jacques,1,1
+Girardin   Éric,Beaudouin-Hubiere   Sophie,1,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Gouffier-Cha   Guillaume,1,1
+Le Peih   Nicole,Marilossian   Jacques,1,1
+Le Peih   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Lescure   Roland,Gouffier-Cha   Guillaume,1,1
+Lescure   Roland,Marilossian   Jacques,1,1
+Lescure   Roland,Beaudouin-Hubiere   Sophie,1,1
+Gouffier-Cha   Guillaume,Marilossian   Jacques,1,1
+Gouffier-Cha   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Marilossian   Jacques,Beaudouin-Hubiere   Sophie,1,1

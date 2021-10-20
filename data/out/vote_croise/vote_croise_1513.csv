@@ -1,0 +1,3241 @@
+from,to,vote_commun,loi_commun
+Jacob   Christian,Bony   Jean-Yves,1,1
+Jacob   Christian,Chassaigne   André,1,1
+Jacob   Christian,Woerth   Éric,1,1
+Jacob   Christian,Pancher   Bertrand,1,1
+Jacob   Christian,Pinel   Sylvia,1,1
+Jacob   Christian,Victory   Michèle,1,1
+Jacob   Christian,Le Grip   Constance,1,1
+Jacob   Christian,Villiers   André,1,1
+Jacob   Christian,Pellois   Hervé,1,1
+Jacob   Christian,Dubié   Jeanine,1,1
+Jacob   Christian,Aviragnet   Joël,1,1
+Jacob   Christian,Sage   Maina,1,1
+Jacob   Christian,Claireaux   Stéphane,1,1
+Jacob   Christian,Maillard   Sylvain,1,1
+Jacob   Christian,Givernet   Olga,1,1
+Jacob   Christian,Robert   Mireille,1,1
+Jacob   Christian,Blanchet   Christophe,1,1
+Jacob   Christian,Bouyx   Bertrand,1,1
+Jacob   Christian,Mesnier   Thomas,1,1
+Jacob   Christian,Moreau   Jean-Baptiste,1,1
+Jacob   Christian,Chassaing   Philippe,1,1
+Jacob   Christian,Kasbarian   Guillaume,1,1
+Jacob   Christian,Le Meur   Annaïg,1,1
+Jacob   Christian,Mörch   Sandrine,1,1
+Jacob   Christian,Berta   Philippe,1,1
+Jacob   Christian,Toutut-Picard   Élisabeth,1,1
+Jacob   Christian,Ménard   Emmanuelle,1,1
+Jacob   Christian,Eliaou   Jean-François,1,1
+Jacob   Christian,Cloarec-Le Nabour   Christine,1,1
+Jacob   Christian,Démoulin   Nicolas,1,1
+Jacob   Christian,Limon   Monique,1,1
+Jacob   Christian,Jacquier-Laforge   Élodie,1,1
+Jacob   Christian,Lainé   Fabien,1,1
+Jacob   Christian,Causse   Lionel,1,1
+Jacob   Christian,Borowczyk   Julien,1,1
+Jacob   Christian,Lauzzana   Michel,1,1
+Jacob   Christian,Dufeu   Audrey,1,1
+Jacob   Christian,Dubré-Chirat   Nicole,1,1
+Jacob   Christian,Bolo   Philippe,1,1
+Jacob   Christian,Sorre   Bertrand,1,1
+Jacob   Christian,Bannier   Géraldine,1,1
+Jacob   Christian,Pahun   Jimmy,1,1
+Jacob   Christian,Le Peih   Nicole,1,1
+Jacob   Christian,Jacques   Jean-Michel,1,1
+Jacob   Christian,Trisse   Nicole,1,1
+Jacob   Christian,Perrot   Patrice,1,1
+Jacob   Christian,Cattelot   Anne-Laure,1,1
+Jacob   Christian,Potterie   Benoit,1,1
+Jacob   Christian,Duvergé   Bruno,1,1
+Jacob   Christian,Descamps   Béatrice,1,1
+Jacob   Christian,Michels   Thierry,1,1
+Jacob   Christian,Lasserre   Florence,1,1
+Jacob   Christian,Testé   Stéphane,1,1
+Jacob   Christian,Descrozaille   Frédéric,1,1
+Jacob   Christian,Lazaar   Fiona,1,1
+Jacob   Christian,Benin   Justine,1,1
+Jacob   Christian,Genetet   Anne,1,1
+Jacob   Christian,Corbière   Alexis,1,1
+Jacob   Christian,Gouffier-Cha   Guillaume,1,1
+Jacob   Christian,Schellenberger   Raphaël,1,1
+Jacob   Christian,Mignola   Patrick,1,1
+Jacob   Christian,Roseren   Xavier,1,1
+Jacob   Christian,Kuster   Brigitte,1,1
+Jacob   Christian,Luquet   Aude,1,1
+Jacob   Christian,Rossi   Laurianne,1,1
+Jacob   Christian,Lemoine   Patricia,1,1
+Jacob   Christian,Peyron   Michèle,1,1
+Jacob   Christian,Florennes   Isabelle,1,1
+Jacob   Christian,Calvez   Céline,1,1
+Jacob   Christian,Lebec   Marie,1,1
+Jacob   Christian,Faucillon   Elsa,1,1
+Jacob   Christian,de Vaucouleurs   Michèle,1,1
+Jacob   Christian,Millienne   Bruno,1,1
+Jacob   Christian,Bergé   Aurore,1,1
+Jacob   Christian,Granjus   Florence,1,1
+Jacob   Christian,Vidal   Annie,1,1
+Jacob   Christian,Sylla   Sira,1,1
+Jacob   Christian,Fiévet   Jean-Marie,1,1
+Jacob   Christian,Fugit   Jean-Luc,1,1
+Jacob   Christian,Rebeyrotte   Rémy,1,1
+Bony   Jean-Yves,Chassaigne   André,1,1
+Bony   Jean-Yves,Woerth   Éric,1,1
+Bony   Jean-Yves,Pancher   Bertrand,1,1
+Bony   Jean-Yves,Pinel   Sylvia,1,1
+Bony   Jean-Yves,Victory   Michèle,1,1
+Bony   Jean-Yves,Le Grip   Constance,1,1
+Bony   Jean-Yves,Villiers   André,1,1
+Bony   Jean-Yves,Pellois   Hervé,1,1
+Bony   Jean-Yves,Dubié   Jeanine,1,1
+Bony   Jean-Yves,Aviragnet   Joël,1,1
+Bony   Jean-Yves,Sage   Maina,1,1
+Bony   Jean-Yves,Claireaux   Stéphane,1,1
+Bony   Jean-Yves,Maillard   Sylvain,1,1
+Bony   Jean-Yves,Givernet   Olga,1,1
+Bony   Jean-Yves,Robert   Mireille,1,1
+Bony   Jean-Yves,Blanchet   Christophe,1,1
+Bony   Jean-Yves,Bouyx   Bertrand,1,1
+Bony   Jean-Yves,Mesnier   Thomas,1,1
+Bony   Jean-Yves,Moreau   Jean-Baptiste,1,1
+Bony   Jean-Yves,Chassaing   Philippe,1,1
+Bony   Jean-Yves,Kasbarian   Guillaume,1,1
+Bony   Jean-Yves,Le Meur   Annaïg,1,1
+Bony   Jean-Yves,Mörch   Sandrine,1,1
+Bony   Jean-Yves,Berta   Philippe,1,1
+Bony   Jean-Yves,Toutut-Picard   Élisabeth,1,1
+Bony   Jean-Yves,Ménard   Emmanuelle,1,1
+Bony   Jean-Yves,Eliaou   Jean-François,1,1
+Bony   Jean-Yves,Cloarec-Le Nabour   Christine,1,1
+Bony   Jean-Yves,Démoulin   Nicolas,1,1
+Bony   Jean-Yves,Limon   Monique,1,1
+Bony   Jean-Yves,Jacquier-Laforge   Élodie,1,1
+Bony   Jean-Yves,Lainé   Fabien,1,1
+Bony   Jean-Yves,Causse   Lionel,1,1
+Bony   Jean-Yves,Borowczyk   Julien,1,1
+Bony   Jean-Yves,Lauzzana   Michel,1,1
+Bony   Jean-Yves,Dufeu   Audrey,1,1
+Bony   Jean-Yves,Dubré-Chirat   Nicole,1,1
+Bony   Jean-Yves,Bolo   Philippe,1,1
+Bony   Jean-Yves,Sorre   Bertrand,1,1
+Bony   Jean-Yves,Bannier   Géraldine,1,1
+Bony   Jean-Yves,Pahun   Jimmy,1,1
+Bony   Jean-Yves,Le Peih   Nicole,1,1
+Bony   Jean-Yves,Jacques   Jean-Michel,1,1
+Bony   Jean-Yves,Trisse   Nicole,1,1
+Bony   Jean-Yves,Perrot   Patrice,1,1
+Bony   Jean-Yves,Cattelot   Anne-Laure,1,1
+Bony   Jean-Yves,Potterie   Benoit,1,1
+Bony   Jean-Yves,Duvergé   Bruno,1,1
+Bony   Jean-Yves,Descamps   Béatrice,1,1
+Bony   Jean-Yves,Michels   Thierry,1,1
+Bony   Jean-Yves,Lasserre   Florence,1,1
+Bony   Jean-Yves,Testé   Stéphane,1,1
+Bony   Jean-Yves,Descrozaille   Frédéric,1,1
+Bony   Jean-Yves,Lazaar   Fiona,1,1
+Bony   Jean-Yves,Benin   Justine,1,1
+Bony   Jean-Yves,Genetet   Anne,1,1
+Bony   Jean-Yves,Corbière   Alexis,1,1
+Bony   Jean-Yves,Gouffier-Cha   Guillaume,1,1
+Bony   Jean-Yves,Schellenberger   Raphaël,1,1
+Bony   Jean-Yves,Mignola   Patrick,1,1
+Bony   Jean-Yves,Roseren   Xavier,1,1
+Bony   Jean-Yves,Kuster   Brigitte,1,1
+Bony   Jean-Yves,Luquet   Aude,1,1
+Bony   Jean-Yves,Rossi   Laurianne,1,1
+Bony   Jean-Yves,Lemoine   Patricia,1,1
+Bony   Jean-Yves,Peyron   Michèle,1,1
+Bony   Jean-Yves,Florennes   Isabelle,1,1
+Bony   Jean-Yves,Calvez   Céline,1,1
+Bony   Jean-Yves,Lebec   Marie,1,1
+Bony   Jean-Yves,Faucillon   Elsa,1,1
+Bony   Jean-Yves,de Vaucouleurs   Michèle,1,1
+Bony   Jean-Yves,Millienne   Bruno,1,1
+Bony   Jean-Yves,Bergé   Aurore,1,1
+Bony   Jean-Yves,Granjus   Florence,1,1
+Bony   Jean-Yves,Vidal   Annie,1,1
+Bony   Jean-Yves,Sylla   Sira,1,1
+Bony   Jean-Yves,Fiévet   Jean-Marie,1,1
+Bony   Jean-Yves,Fugit   Jean-Luc,1,1
+Bony   Jean-Yves,Rebeyrotte   Rémy,1,1
+Chassaigne   André,Woerth   Éric,1,1
+Chassaigne   André,Pancher   Bertrand,1,1
+Chassaigne   André,Pinel   Sylvia,1,1
+Chassaigne   André,Victory   Michèle,1,1
+Chassaigne   André,Le Grip   Constance,1,1
+Chassaigne   André,Villiers   André,1,1
+Chassaigne   André,Pellois   Hervé,1,1
+Chassaigne   André,Dubié   Jeanine,1,1
+Chassaigne   André,Aviragnet   Joël,1,1
+Chassaigne   André,Sage   Maina,1,1
+Chassaigne   André,Claireaux   Stéphane,1,1
+Chassaigne   André,Maillard   Sylvain,1,1
+Chassaigne   André,Givernet   Olga,1,1
+Chassaigne   André,Robert   Mireille,1,1
+Chassaigne   André,Blanchet   Christophe,1,1
+Chassaigne   André,Bouyx   Bertrand,1,1
+Chassaigne   André,Mesnier   Thomas,1,1
+Chassaigne   André,Moreau   Jean-Baptiste,1,1
+Chassaigne   André,Chassaing   Philippe,1,1
+Chassaigne   André,Kasbarian   Guillaume,1,1
+Chassaigne   André,Le Meur   Annaïg,1,1
+Chassaigne   André,Mörch   Sandrine,1,1
+Chassaigne   André,Berta   Philippe,1,1
+Chassaigne   André,Toutut-Picard   Élisabeth,1,1
+Chassaigne   André,Ménard   Emmanuelle,1,1
+Chassaigne   André,Eliaou   Jean-François,1,1
+Chassaigne   André,Cloarec-Le Nabour   Christine,1,1
+Chassaigne   André,Démoulin   Nicolas,1,1
+Chassaigne   André,Limon   Monique,1,1
+Chassaigne   André,Jacquier-Laforge   Élodie,1,1
+Chassaigne   André,Lainé   Fabien,1,1
+Chassaigne   André,Causse   Lionel,1,1
+Chassaigne   André,Borowczyk   Julien,1,1
+Chassaigne   André,Lauzzana   Michel,1,1
+Chassaigne   André,Dufeu   Audrey,1,1
+Chassaigne   André,Dubré-Chirat   Nicole,1,1
+Chassaigne   André,Bolo   Philippe,1,1
+Chassaigne   André,Sorre   Bertrand,1,1
+Chassaigne   André,Bannier   Géraldine,1,1
+Chassaigne   André,Pahun   Jimmy,1,1
+Chassaigne   André,Le Peih   Nicole,1,1
+Chassaigne   André,Jacques   Jean-Michel,1,1
+Chassaigne   André,Trisse   Nicole,1,1
+Chassaigne   André,Perrot   Patrice,1,1
+Chassaigne   André,Cattelot   Anne-Laure,1,1
+Chassaigne   André,Potterie   Benoit,1,1
+Chassaigne   André,Duvergé   Bruno,1,1
+Chassaigne   André,Descamps   Béatrice,1,1
+Chassaigne   André,Michels   Thierry,1,1
+Chassaigne   André,Lasserre   Florence,1,1
+Chassaigne   André,Testé   Stéphane,1,1
+Chassaigne   André,Descrozaille   Frédéric,1,1
+Chassaigne   André,Lazaar   Fiona,1,1
+Chassaigne   André,Benin   Justine,1,1
+Chassaigne   André,Genetet   Anne,1,1
+Chassaigne   André,Corbière   Alexis,1,1
+Chassaigne   André,Gouffier-Cha   Guillaume,1,1
+Chassaigne   André,Schellenberger   Raphaël,1,1
+Chassaigne   André,Mignola   Patrick,1,1
+Chassaigne   André,Roseren   Xavier,1,1
+Chassaigne   André,Kuster   Brigitte,1,1
+Chassaigne   André,Luquet   Aude,1,1
+Chassaigne   André,Rossi   Laurianne,1,1
+Chassaigne   André,Lemoine   Patricia,1,1
+Chassaigne   André,Peyron   Michèle,1,1
+Chassaigne   André,Florennes   Isabelle,1,1
+Chassaigne   André,Calvez   Céline,1,1
+Chassaigne   André,Lebec   Marie,1,1
+Chassaigne   André,Faucillon   Elsa,1,1
+Chassaigne   André,de Vaucouleurs   Michèle,1,1
+Chassaigne   André,Millienne   Bruno,1,1
+Chassaigne   André,Bergé   Aurore,1,1
+Chassaigne   André,Granjus   Florence,1,1
+Chassaigne   André,Vidal   Annie,1,1
+Chassaigne   André,Sylla   Sira,1,1
+Chassaigne   André,Fiévet   Jean-Marie,1,1
+Chassaigne   André,Fugit   Jean-Luc,1,1
+Chassaigne   André,Rebeyrotte   Rémy,1,1
+Woerth   Éric,Pancher   Bertrand,1,1
+Woerth   Éric,Pinel   Sylvia,1,1
+Woerth   Éric,Victory   Michèle,1,1
+Woerth   Éric,Le Grip   Constance,1,1
+Woerth   Éric,Villiers   André,1,1
+Woerth   Éric,Pellois   Hervé,1,1
+Woerth   Éric,Dubié   Jeanine,1,1
+Woerth   Éric,Aviragnet   Joël,1,1
+Woerth   Éric,Sage   Maina,1,1
+Woerth   Éric,Claireaux   Stéphane,1,1
+Woerth   Éric,Maillard   Sylvain,1,1
+Woerth   Éric,Givernet   Olga,1,1
+Woerth   Éric,Robert   Mireille,1,1
+Woerth   Éric,Blanchet   Christophe,1,1
+Woerth   Éric,Bouyx   Bertrand,1,1
+Woerth   Éric,Mesnier   Thomas,1,1
+Woerth   Éric,Moreau   Jean-Baptiste,1,1
+Woerth   Éric,Chassaing   Philippe,1,1
+Woerth   Éric,Kasbarian   Guillaume,1,1
+Woerth   Éric,Le Meur   Annaïg,1,1
+Woerth   Éric,Mörch   Sandrine,1,1
+Woerth   Éric,Berta   Philippe,1,1
+Woerth   Éric,Toutut-Picard   Élisabeth,1,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Eliaou   Jean-François,1,1
+Woerth   Éric,Cloarec-Le Nabour   Christine,1,1
+Woerth   Éric,Démoulin   Nicolas,1,1
+Woerth   Éric,Limon   Monique,1,1
+Woerth   Éric,Jacquier-Laforge   Élodie,1,1
+Woerth   Éric,Lainé   Fabien,1,1
+Woerth   Éric,Causse   Lionel,1,1
+Woerth   Éric,Borowczyk   Julien,1,1
+Woerth   Éric,Lauzzana   Michel,1,1
+Woerth   Éric,Dufeu   Audrey,1,1
+Woerth   Éric,Dubré-Chirat   Nicole,1,1
+Woerth   Éric,Bolo   Philippe,1,1
+Woerth   Éric,Sorre   Bertrand,1,1
+Woerth   Éric,Bannier   Géraldine,1,1
+Woerth   Éric,Pahun   Jimmy,1,1
+Woerth   Éric,Le Peih   Nicole,1,1
+Woerth   Éric,Jacques   Jean-Michel,1,1
+Woerth   Éric,Trisse   Nicole,1,1
+Woerth   Éric,Perrot   Patrice,1,1
+Woerth   Éric,Cattelot   Anne-Laure,1,1
+Woerth   Éric,Potterie   Benoit,1,1
+Woerth   Éric,Duvergé   Bruno,1,1
+Woerth   Éric,Descamps   Béatrice,1,1
+Woerth   Éric,Michels   Thierry,1,1
+Woerth   Éric,Lasserre   Florence,1,1
+Woerth   Éric,Testé   Stéphane,1,1
+Woerth   Éric,Descrozaille   Frédéric,1,1
+Woerth   Éric,Lazaar   Fiona,1,1
+Woerth   Éric,Benin   Justine,1,1
+Woerth   Éric,Genetet   Anne,1,1
+Woerth   Éric,Corbière   Alexis,1,1
+Woerth   Éric,Gouffier-Cha   Guillaume,1,1
+Woerth   Éric,Schellenberger   Raphaël,1,1
+Woerth   Éric,Mignola   Patrick,1,1
+Woerth   Éric,Roseren   Xavier,1,1
+Woerth   Éric,Kuster   Brigitte,1,1
+Woerth   Éric,Luquet   Aude,1,1
+Woerth   Éric,Rossi   Laurianne,1,1
+Woerth   Éric,Lemoine   Patricia,1,1
+Woerth   Éric,Peyron   Michèle,1,1
+Woerth   Éric,Florennes   Isabelle,1,1
+Woerth   Éric,Calvez   Céline,1,1
+Woerth   Éric,Lebec   Marie,1,1
+Woerth   Éric,Faucillon   Elsa,1,1
+Woerth   Éric,de Vaucouleurs   Michèle,1,1
+Woerth   Éric,Millienne   Bruno,1,1
+Woerth   Éric,Bergé   Aurore,1,1
+Woerth   Éric,Granjus   Florence,1,1
+Woerth   Éric,Vidal   Annie,1,1
+Woerth   Éric,Sylla   Sira,1,1
+Woerth   Éric,Fiévet   Jean-Marie,1,1
+Woerth   Éric,Fugit   Jean-Luc,1,1
+Woerth   Éric,Rebeyrotte   Rémy,1,1
+Pancher   Bertrand,Pinel   Sylvia,1,1
+Pancher   Bertrand,Victory   Michèle,1,1
+Pancher   Bertrand,Le Grip   Constance,1,1
+Pancher   Bertrand,Villiers   André,1,1
+Pancher   Bertrand,Pellois   Hervé,1,1
+Pancher   Bertrand,Dubié   Jeanine,1,1
+Pancher   Bertrand,Aviragnet   Joël,1,1
+Pancher   Bertrand,Sage   Maina,1,1
+Pancher   Bertrand,Claireaux   Stéphane,1,1
+Pancher   Bertrand,Maillard   Sylvain,1,1
+Pancher   Bertrand,Givernet   Olga,1,1
+Pancher   Bertrand,Robert   Mireille,1,1
+Pancher   Bertrand,Blanchet   Christophe,1,1
+Pancher   Bertrand,Bouyx   Bertrand,1,1
+Pancher   Bertrand,Mesnier   Thomas,1,1
+Pancher   Bertrand,Moreau   Jean-Baptiste,1,1
+Pancher   Bertrand,Chassaing   Philippe,1,1
+Pancher   Bertrand,Kasbarian   Guillaume,1,1
+Pancher   Bertrand,Le Meur   Annaïg,1,1
+Pancher   Bertrand,Mörch   Sandrine,1,1
+Pancher   Bertrand,Berta   Philippe,1,1
+Pancher   Bertrand,Toutut-Picard   Élisabeth,1,1
+Pancher   Bertrand,Ménard   Emmanuelle,1,1
+Pancher   Bertrand,Eliaou   Jean-François,1,1
+Pancher   Bertrand,Cloarec-Le Nabour   Christine,1,1
+Pancher   Bertrand,Démoulin   Nicolas,1,1
+Pancher   Bertrand,Limon   Monique,1,1
+Pancher   Bertrand,Jacquier-Laforge   Élodie,1,1
+Pancher   Bertrand,Lainé   Fabien,1,1
+Pancher   Bertrand,Causse   Lionel,1,1
+Pancher   Bertrand,Borowczyk   Julien,1,1
+Pancher   Bertrand,Lauzzana   Michel,1,1
+Pancher   Bertrand,Dufeu   Audrey,1,1
+Pancher   Bertrand,Dubré-Chirat   Nicole,1,1
+Pancher   Bertrand,Bolo   Philippe,1,1
+Pancher   Bertrand,Sorre   Bertrand,1,1
+Pancher   Bertrand,Bannier   Géraldine,1,1
+Pancher   Bertrand,Pahun   Jimmy,1,1
+Pancher   Bertrand,Le Peih   Nicole,1,1
+Pancher   Bertrand,Jacques   Jean-Michel,1,1
+Pancher   Bertrand,Trisse   Nicole,1,1
+Pancher   Bertrand,Perrot   Patrice,1,1
+Pancher   Bertrand,Cattelot   Anne-Laure,1,1
+Pancher   Bertrand,Potterie   Benoit,1,1
+Pancher   Bertrand,Duvergé   Bruno,1,1
+Pancher   Bertrand,Descamps   Béatrice,1,1
+Pancher   Bertrand,Michels   Thierry,1,1
+Pancher   Bertrand,Lasserre   Florence,1,1
+Pancher   Bertrand,Testé   Stéphane,1,1
+Pancher   Bertrand,Descrozaille   Frédéric,1,1
+Pancher   Bertrand,Lazaar   Fiona,1,1
+Pancher   Bertrand,Benin   Justine,1,1
+Pancher   Bertrand,Genetet   Anne,1,1
+Pancher   Bertrand,Corbière   Alexis,1,1
+Pancher   Bertrand,Gouffier-Cha   Guillaume,1,1
+Pancher   Bertrand,Schellenberger   Raphaël,1,1
+Pancher   Bertrand,Mignola   Patrick,1,1
+Pancher   Bertrand,Roseren   Xavier,1,1
+Pancher   Bertrand,Kuster   Brigitte,1,1
+Pancher   Bertrand,Luquet   Aude,1,1
+Pancher   Bertrand,Rossi   Laurianne,1,1
+Pancher   Bertrand,Lemoine   Patricia,1,1
+Pancher   Bertrand,Peyron   Michèle,1,1
+Pancher   Bertrand,Florennes   Isabelle,1,1
+Pancher   Bertrand,Calvez   Céline,1,1
+Pancher   Bertrand,Lebec   Marie,1,1
+Pancher   Bertrand,Faucillon   Elsa,1,1
+Pancher   Bertrand,de Vaucouleurs   Michèle,1,1
+Pancher   Bertrand,Millienne   Bruno,1,1
+Pancher   Bertrand,Bergé   Aurore,1,1
+Pancher   Bertrand,Granjus   Florence,1,1
+Pancher   Bertrand,Vidal   Annie,1,1
+Pancher   Bertrand,Sylla   Sira,1,1
+Pancher   Bertrand,Fiévet   Jean-Marie,1,1
+Pancher   Bertrand,Fugit   Jean-Luc,1,1
+Pancher   Bertrand,Rebeyrotte   Rémy,1,1
+Pinel   Sylvia,Victory   Michèle,1,1
+Pinel   Sylvia,Le Grip   Constance,1,1
+Pinel   Sylvia,Villiers   André,1,1
+Pinel   Sylvia,Pellois   Hervé,1,1
+Pinel   Sylvia,Dubié   Jeanine,1,1
+Pinel   Sylvia,Aviragnet   Joël,1,1
+Pinel   Sylvia,Sage   Maina,1,1
+Pinel   Sylvia,Claireaux   Stéphane,1,1
+Pinel   Sylvia,Maillard   Sylvain,1,1
+Pinel   Sylvia,Givernet   Olga,1,1
+Pinel   Sylvia,Robert   Mireille,1,1
+Pinel   Sylvia,Blanchet   Christophe,1,1
+Pinel   Sylvia,Bouyx   Bertrand,1,1
+Pinel   Sylvia,Mesnier   Thomas,1,1
+Pinel   Sylvia,Moreau   Jean-Baptiste,1,1
+Pinel   Sylvia,Chassaing   Philippe,1,1
+Pinel   Sylvia,Kasbarian   Guillaume,1,1
+Pinel   Sylvia,Le Meur   Annaïg,1,1
+Pinel   Sylvia,Mörch   Sandrine,1,1
+Pinel   Sylvia,Berta   Philippe,1,1
+Pinel   Sylvia,Toutut-Picard   Élisabeth,1,1
+Pinel   Sylvia,Ménard   Emmanuelle,1,1
+Pinel   Sylvia,Eliaou   Jean-François,1,1
+Pinel   Sylvia,Cloarec-Le Nabour   Christine,1,1
+Pinel   Sylvia,Démoulin   Nicolas,1,1
+Pinel   Sylvia,Limon   Monique,1,1
+Pinel   Sylvia,Jacquier-Laforge   Élodie,1,1
+Pinel   Sylvia,Lainé   Fabien,1,1
+Pinel   Sylvia,Causse   Lionel,1,1
+Pinel   Sylvia,Borowczyk   Julien,1,1
+Pinel   Sylvia,Lauzzana   Michel,1,1
+Pinel   Sylvia,Dufeu   Audrey,1,1
+Pinel   Sylvia,Dubré-Chirat   Nicole,1,1
+Pinel   Sylvia,Bolo   Philippe,1,1
+Pinel   Sylvia,Sorre   Bertrand,1,1
+Pinel   Sylvia,Bannier   Géraldine,1,1
+Pinel   Sylvia,Pahun   Jimmy,1,1
+Pinel   Sylvia,Le Peih   Nicole,1,1
+Pinel   Sylvia,Jacques   Jean-Michel,1,1
+Pinel   Sylvia,Trisse   Nicole,1,1
+Pinel   Sylvia,Perrot   Patrice,1,1
+Pinel   Sylvia,Cattelot   Anne-Laure,1,1
+Pinel   Sylvia,Potterie   Benoit,1,1
+Pinel   Sylvia,Duvergé   Bruno,1,1
+Pinel   Sylvia,Descamps   Béatrice,1,1
+Pinel   Sylvia,Michels   Thierry,1,1
+Pinel   Sylvia,Lasserre   Florence,1,1
+Pinel   Sylvia,Testé   Stéphane,1,1
+Pinel   Sylvia,Descrozaille   Frédéric,1,1
+Pinel   Sylvia,Lazaar   Fiona,1,1
+Pinel   Sylvia,Benin   Justine,1,1
+Pinel   Sylvia,Genetet   Anne,1,1
+Pinel   Sylvia,Corbière   Alexis,1,1
+Pinel   Sylvia,Gouffier-Cha   Guillaume,1,1
+Pinel   Sylvia,Schellenberger   Raphaël,1,1
+Pinel   Sylvia,Mignola   Patrick,1,1
+Pinel   Sylvia,Roseren   Xavier,1,1
+Pinel   Sylvia,Kuster   Brigitte,1,1
+Pinel   Sylvia,Luquet   Aude,1,1
+Pinel   Sylvia,Rossi   Laurianne,1,1
+Pinel   Sylvia,Lemoine   Patricia,1,1
+Pinel   Sylvia,Peyron   Michèle,1,1
+Pinel   Sylvia,Florennes   Isabelle,1,1
+Pinel   Sylvia,Calvez   Céline,1,1
+Pinel   Sylvia,Lebec   Marie,1,1
+Pinel   Sylvia,Faucillon   Elsa,1,1
+Pinel   Sylvia,de Vaucouleurs   Michèle,1,1
+Pinel   Sylvia,Millienne   Bruno,1,1
+Pinel   Sylvia,Bergé   Aurore,1,1
+Pinel   Sylvia,Granjus   Florence,1,1
+Pinel   Sylvia,Vidal   Annie,1,1
+Pinel   Sylvia,Sylla   Sira,1,1
+Pinel   Sylvia,Fiévet   Jean-Marie,1,1
+Pinel   Sylvia,Fugit   Jean-Luc,1,1
+Pinel   Sylvia,Rebeyrotte   Rémy,1,1
+Victory   Michèle,Le Grip   Constance,1,1
+Victory   Michèle,Villiers   André,1,1
+Victory   Michèle,Pellois   Hervé,1,1
+Victory   Michèle,Dubié   Jeanine,1,1
+Victory   Michèle,Aviragnet   Joël,1,1
+Victory   Michèle,Sage   Maina,1,1
+Victory   Michèle,Claireaux   Stéphane,1,1
+Victory   Michèle,Maillard   Sylvain,1,1
+Victory   Michèle,Givernet   Olga,1,1
+Victory   Michèle,Robert   Mireille,1,1
+Victory   Michèle,Blanchet   Christophe,1,1
+Victory   Michèle,Bouyx   Bertrand,1,1
+Victory   Michèle,Mesnier   Thomas,1,1
+Victory   Michèle,Moreau   Jean-Baptiste,1,1
+Victory   Michèle,Chassaing   Philippe,1,1
+Victory   Michèle,Kasbarian   Guillaume,1,1
+Victory   Michèle,Le Meur   Annaïg,1,1
+Victory   Michèle,Mörch   Sandrine,1,1
+Victory   Michèle,Berta   Philippe,1,1
+Victory   Michèle,Toutut-Picard   Élisabeth,1,1
+Victory   Michèle,Ménard   Emmanuelle,1,1
+Victory   Michèle,Eliaou   Jean-François,1,1
+Victory   Michèle,Cloarec-Le Nabour   Christine,1,1
+Victory   Michèle,Démoulin   Nicolas,1,1
+Victory   Michèle,Limon   Monique,1,1
+Victory   Michèle,Jacquier-Laforge   Élodie,1,1
+Victory   Michèle,Lainé   Fabien,1,1
+Victory   Michèle,Causse   Lionel,1,1
+Victory   Michèle,Borowczyk   Julien,1,1
+Victory   Michèle,Lauzzana   Michel,1,1
+Victory   Michèle,Dufeu   Audrey,1,1
+Victory   Michèle,Dubré-Chirat   Nicole,1,1
+Victory   Michèle,Bolo   Philippe,1,1
+Victory   Michèle,Sorre   Bertrand,1,1
+Victory   Michèle,Bannier   Géraldine,1,1
+Victory   Michèle,Pahun   Jimmy,1,1
+Victory   Michèle,Le Peih   Nicole,1,1
+Victory   Michèle,Jacques   Jean-Michel,1,1
+Victory   Michèle,Trisse   Nicole,1,1
+Victory   Michèle,Perrot   Patrice,1,1
+Victory   Michèle,Cattelot   Anne-Laure,1,1
+Victory   Michèle,Potterie   Benoit,1,1
+Victory   Michèle,Duvergé   Bruno,1,1
+Victory   Michèle,Descamps   Béatrice,1,1
+Victory   Michèle,Michels   Thierry,1,1
+Victory   Michèle,Lasserre   Florence,1,1
+Victory   Michèle,Testé   Stéphane,1,1
+Victory   Michèle,Descrozaille   Frédéric,1,1
+Victory   Michèle,Lazaar   Fiona,1,1
+Victory   Michèle,Benin   Justine,1,1
+Victory   Michèle,Genetet   Anne,1,1
+Victory   Michèle,Corbière   Alexis,1,1
+Victory   Michèle,Gouffier-Cha   Guillaume,1,1
+Victory   Michèle,Schellenberger   Raphaël,1,1
+Victory   Michèle,Mignola   Patrick,1,1
+Victory   Michèle,Roseren   Xavier,1,1
+Victory   Michèle,Kuster   Brigitte,1,1
+Victory   Michèle,Luquet   Aude,1,1
+Victory   Michèle,Rossi   Laurianne,1,1
+Victory   Michèle,Lemoine   Patricia,1,1
+Victory   Michèle,Peyron   Michèle,1,1
+Victory   Michèle,Florennes   Isabelle,1,1
+Victory   Michèle,Calvez   Céline,1,1
+Victory   Michèle,Lebec   Marie,1,1
+Victory   Michèle,Faucillon   Elsa,1,1
+Victory   Michèle,de Vaucouleurs   Michèle,1,1
+Victory   Michèle,Millienne   Bruno,1,1
+Victory   Michèle,Bergé   Aurore,1,1
+Victory   Michèle,Granjus   Florence,1,1
+Victory   Michèle,Vidal   Annie,1,1
+Victory   Michèle,Sylla   Sira,1,1
+Victory   Michèle,Fiévet   Jean-Marie,1,1
+Victory   Michèle,Fugit   Jean-Luc,1,1
+Victory   Michèle,Rebeyrotte   Rémy,1,1
+Le Grip   Constance,Villiers   André,1,1
+Le Grip   Constance,Pellois   Hervé,1,1
+Le Grip   Constance,Dubié   Jeanine,1,1
+Le Grip   Constance,Aviragnet   Joël,1,1
+Le Grip   Constance,Sage   Maina,1,1
+Le Grip   Constance,Claireaux   Stéphane,1,1
+Le Grip   Constance,Maillard   Sylvain,1,1
+Le Grip   Constance,Givernet   Olga,1,1
+Le Grip   Constance,Robert   Mireille,1,1
+Le Grip   Constance,Blanchet   Christophe,1,1
+Le Grip   Constance,Bouyx   Bertrand,1,1
+Le Grip   Constance,Mesnier   Thomas,1,1
+Le Grip   Constance,Moreau   Jean-Baptiste,1,1
+Le Grip   Constance,Chassaing   Philippe,1,1
+Le Grip   Constance,Kasbarian   Guillaume,1,1
+Le Grip   Constance,Le Meur   Annaïg,1,1
+Le Grip   Constance,Mörch   Sandrine,1,1
+Le Grip   Constance,Berta   Philippe,1,1
+Le Grip   Constance,Toutut-Picard   Élisabeth,1,1
+Le Grip   Constance,Ménard   Emmanuelle,1,1
+Le Grip   Constance,Eliaou   Jean-François,1,1
+Le Grip   Constance,Cloarec-Le Nabour   Christine,1,1
+Le Grip   Constance,Démoulin   Nicolas,1,1
+Le Grip   Constance,Limon   Monique,1,1
+Le Grip   Constance,Jacquier-Laforge   Élodie,1,1
+Le Grip   Constance,Lainé   Fabien,1,1
+Le Grip   Constance,Causse   Lionel,1,1
+Le Grip   Constance,Borowczyk   Julien,1,1
+Le Grip   Constance,Lauzzana   Michel,1,1
+Le Grip   Constance,Dufeu   Audrey,1,1
+Le Grip   Constance,Dubré-Chirat   Nicole,1,1
+Le Grip   Constance,Bolo   Philippe,1,1
+Le Grip   Constance,Sorre   Bertrand,1,1
+Le Grip   Constance,Bannier   Géraldine,1,1
+Le Grip   Constance,Pahun   Jimmy,1,1
+Le Grip   Constance,Le Peih   Nicole,1,1
+Le Grip   Constance,Jacques   Jean-Michel,1,1
+Le Grip   Constance,Trisse   Nicole,1,1
+Le Grip   Constance,Perrot   Patrice,1,1
+Le Grip   Constance,Cattelot   Anne-Laure,1,1
+Le Grip   Constance,Potterie   Benoit,1,1
+Le Grip   Constance,Duvergé   Bruno,1,1
+Le Grip   Constance,Descamps   Béatrice,1,1
+Le Grip   Constance,Michels   Thierry,1,1
+Le Grip   Constance,Lasserre   Florence,1,1
+Le Grip   Constance,Testé   Stéphane,1,1
+Le Grip   Constance,Descrozaille   Frédéric,1,1
+Le Grip   Constance,Lazaar   Fiona,1,1
+Le Grip   Constance,Benin   Justine,1,1
+Le Grip   Constance,Genetet   Anne,1,1
+Le Grip   Constance,Corbière   Alexis,1,1
+Le Grip   Constance,Gouffier-Cha   Guillaume,1,1
+Le Grip   Constance,Schellenberger   Raphaël,1,1
+Le Grip   Constance,Mignola   Patrick,1,1
+Le Grip   Constance,Roseren   Xavier,1,1
+Le Grip   Constance,Kuster   Brigitte,1,1
+Le Grip   Constance,Luquet   Aude,1,1
+Le Grip   Constance,Rossi   Laurianne,1,1
+Le Grip   Constance,Lemoine   Patricia,1,1
+Le Grip   Constance,Peyron   Michèle,1,1
+Le Grip   Constance,Florennes   Isabelle,1,1
+Le Grip   Constance,Calvez   Céline,1,1
+Le Grip   Constance,Lebec   Marie,1,1
+Le Grip   Constance,Faucillon   Elsa,1,1
+Le Grip   Constance,de Vaucouleurs   Michèle,1,1
+Le Grip   Constance,Millienne   Bruno,1,1
+Le Grip   Constance,Bergé   Aurore,1,1
+Le Grip   Constance,Granjus   Florence,1,1
+Le Grip   Constance,Vidal   Annie,1,1
+Le Grip   Constance,Sylla   Sira,1,1
+Le Grip   Constance,Fiévet   Jean-Marie,1,1
+Le Grip   Constance,Fugit   Jean-Luc,1,1
+Le Grip   Constance,Rebeyrotte   Rémy,1,1
+Villiers   André,Pellois   Hervé,1,1
+Villiers   André,Dubié   Jeanine,1,1
+Villiers   André,Aviragnet   Joël,1,1
+Villiers   André,Sage   Maina,1,1
+Villiers   André,Claireaux   Stéphane,1,1
+Villiers   André,Maillard   Sylvain,1,1
+Villiers   André,Givernet   Olga,1,1
+Villiers   André,Robert   Mireille,1,1
+Villiers   André,Blanchet   Christophe,1,1
+Villiers   André,Bouyx   Bertrand,1,1
+Villiers   André,Mesnier   Thomas,1,1
+Villiers   André,Moreau   Jean-Baptiste,1,1
+Villiers   André,Chassaing   Philippe,1,1
+Villiers   André,Kasbarian   Guillaume,1,1
+Villiers   André,Le Meur   Annaïg,1,1
+Villiers   André,Mörch   Sandrine,1,1
+Villiers   André,Berta   Philippe,1,1
+Villiers   André,Toutut-Picard   Élisabeth,1,1
+Villiers   André,Ménard   Emmanuelle,1,1
+Villiers   André,Eliaou   Jean-François,1,1
+Villiers   André,Cloarec-Le Nabour   Christine,1,1
+Villiers   André,Démoulin   Nicolas,1,1
+Villiers   André,Limon   Monique,1,1
+Villiers   André,Jacquier-Laforge   Élodie,1,1
+Villiers   André,Lainé   Fabien,1,1
+Villiers   André,Causse   Lionel,1,1
+Villiers   André,Borowczyk   Julien,1,1
+Villiers   André,Lauzzana   Michel,1,1
+Villiers   André,Dufeu   Audrey,1,1
+Villiers   André,Dubré-Chirat   Nicole,1,1
+Villiers   André,Bolo   Philippe,1,1
+Villiers   André,Sorre   Bertrand,1,1
+Villiers   André,Bannier   Géraldine,1,1
+Villiers   André,Pahun   Jimmy,1,1
+Villiers   André,Le Peih   Nicole,1,1
+Villiers   André,Jacques   Jean-Michel,1,1
+Villiers   André,Trisse   Nicole,1,1
+Villiers   André,Perrot   Patrice,1,1
+Villiers   André,Cattelot   Anne-Laure,1,1
+Villiers   André,Potterie   Benoit,1,1
+Villiers   André,Duvergé   Bruno,1,1
+Villiers   André,Descamps   Béatrice,1,1
+Villiers   André,Michels   Thierry,1,1
+Villiers   André,Lasserre   Florence,1,1
+Villiers   André,Testé   Stéphane,1,1
+Villiers   André,Descrozaille   Frédéric,1,1
+Villiers   André,Lazaar   Fiona,1,1
+Villiers   André,Benin   Justine,1,1
+Villiers   André,Genetet   Anne,1,1
+Villiers   André,Corbière   Alexis,1,1
+Villiers   André,Gouffier-Cha   Guillaume,1,1
+Villiers   André,Schellenberger   Raphaël,1,1
+Villiers   André,Mignola   Patrick,1,1
+Villiers   André,Roseren   Xavier,1,1
+Villiers   André,Kuster   Brigitte,1,1
+Villiers   André,Luquet   Aude,1,1
+Villiers   André,Rossi   Laurianne,1,1
+Villiers   André,Lemoine   Patricia,1,1
+Villiers   André,Peyron   Michèle,1,1
+Villiers   André,Florennes   Isabelle,1,1
+Villiers   André,Calvez   Céline,1,1
+Villiers   André,Lebec   Marie,1,1
+Villiers   André,Faucillon   Elsa,1,1
+Villiers   André,de Vaucouleurs   Michèle,1,1
+Villiers   André,Millienne   Bruno,1,1
+Villiers   André,Bergé   Aurore,1,1
+Villiers   André,Granjus   Florence,1,1
+Villiers   André,Vidal   Annie,1,1
+Villiers   André,Sylla   Sira,1,1
+Villiers   André,Fiévet   Jean-Marie,1,1
+Villiers   André,Fugit   Jean-Luc,1,1
+Villiers   André,Rebeyrotte   Rémy,1,1
+Pellois   Hervé,Dubié   Jeanine,1,1
+Pellois   Hervé,Aviragnet   Joël,1,1
+Pellois   Hervé,Sage   Maina,1,1
+Pellois   Hervé,Claireaux   Stéphane,1,1
+Pellois   Hervé,Maillard   Sylvain,1,1
+Pellois   Hervé,Givernet   Olga,1,1
+Pellois   Hervé,Robert   Mireille,1,1
+Pellois   Hervé,Blanchet   Christophe,1,1
+Pellois   Hervé,Bouyx   Bertrand,1,1
+Pellois   Hervé,Mesnier   Thomas,1,1
+Pellois   Hervé,Moreau   Jean-Baptiste,1,1
+Pellois   Hervé,Chassaing   Philippe,1,1
+Pellois   Hervé,Kasbarian   Guillaume,1,1
+Pellois   Hervé,Le Meur   Annaïg,1,1
+Pellois   Hervé,Mörch   Sandrine,1,1
+Pellois   Hervé,Berta   Philippe,1,1
+Pellois   Hervé,Toutut-Picard   Élisabeth,1,1
+Pellois   Hervé,Ménard   Emmanuelle,1,1
+Pellois   Hervé,Eliaou   Jean-François,1,1
+Pellois   Hervé,Cloarec-Le Nabour   Christine,1,1
+Pellois   Hervé,Démoulin   Nicolas,1,1
+Pellois   Hervé,Limon   Monique,1,1
+Pellois   Hervé,Jacquier-Laforge   Élodie,1,1
+Pellois   Hervé,Lainé   Fabien,1,1
+Pellois   Hervé,Causse   Lionel,1,1
+Pellois   Hervé,Borowczyk   Julien,1,1
+Pellois   Hervé,Lauzzana   Michel,1,1
+Pellois   Hervé,Dufeu   Audrey,1,1
+Pellois   Hervé,Dubré-Chirat   Nicole,1,1
+Pellois   Hervé,Bolo   Philippe,1,1
+Pellois   Hervé,Sorre   Bertrand,1,1
+Pellois   Hervé,Bannier   Géraldine,1,1
+Pellois   Hervé,Pahun   Jimmy,1,1
+Pellois   Hervé,Le Peih   Nicole,1,1
+Pellois   Hervé,Jacques   Jean-Michel,1,1
+Pellois   Hervé,Trisse   Nicole,1,1
+Pellois   Hervé,Perrot   Patrice,1,1
+Pellois   Hervé,Cattelot   Anne-Laure,1,1
+Pellois   Hervé,Potterie   Benoit,1,1
+Pellois   Hervé,Duvergé   Bruno,1,1
+Pellois   Hervé,Descamps   Béatrice,1,1
+Pellois   Hervé,Michels   Thierry,1,1
+Pellois   Hervé,Lasserre   Florence,1,1
+Pellois   Hervé,Testé   Stéphane,1,1
+Pellois   Hervé,Descrozaille   Frédéric,1,1
+Pellois   Hervé,Lazaar   Fiona,1,1
+Pellois   Hervé,Benin   Justine,1,1
+Pellois   Hervé,Genetet   Anne,1,1
+Pellois   Hervé,Corbière   Alexis,1,1
+Pellois   Hervé,Gouffier-Cha   Guillaume,1,1
+Pellois   Hervé,Schellenberger   Raphaël,1,1
+Pellois   Hervé,Mignola   Patrick,1,1
+Pellois   Hervé,Roseren   Xavier,1,1
+Pellois   Hervé,Kuster   Brigitte,1,1
+Pellois   Hervé,Luquet   Aude,1,1
+Pellois   Hervé,Rossi   Laurianne,1,1
+Pellois   Hervé,Lemoine   Patricia,1,1
+Pellois   Hervé,Peyron   Michèle,1,1
+Pellois   Hervé,Florennes   Isabelle,1,1
+Pellois   Hervé,Calvez   Céline,1,1
+Pellois   Hervé,Lebec   Marie,1,1
+Pellois   Hervé,Faucillon   Elsa,1,1
+Pellois   Hervé,de Vaucouleurs   Michèle,1,1
+Pellois   Hervé,Millienne   Bruno,1,1
+Pellois   Hervé,Bergé   Aurore,1,1
+Pellois   Hervé,Granjus   Florence,1,1
+Pellois   Hervé,Vidal   Annie,1,1
+Pellois   Hervé,Sylla   Sira,1,1
+Pellois   Hervé,Fiévet   Jean-Marie,1,1
+Pellois   Hervé,Fugit   Jean-Luc,1,1
+Pellois   Hervé,Rebeyrotte   Rémy,1,1
+Dubié   Jeanine,Aviragnet   Joël,1,1
+Dubié   Jeanine,Sage   Maina,1,1
+Dubié   Jeanine,Claireaux   Stéphane,1,1
+Dubié   Jeanine,Maillard   Sylvain,1,1
+Dubié   Jeanine,Givernet   Olga,1,1
+Dubié   Jeanine,Robert   Mireille,1,1
+Dubié   Jeanine,Blanchet   Christophe,1,1
+Dubié   Jeanine,Bouyx   Bertrand,1,1
+Dubié   Jeanine,Mesnier   Thomas,1,1
+Dubié   Jeanine,Moreau   Jean-Baptiste,1,1
+Dubié   Jeanine,Chassaing   Philippe,1,1
+Dubié   Jeanine,Kasbarian   Guillaume,1,1
+Dubié   Jeanine,Le Meur   Annaïg,1,1
+Dubié   Jeanine,Mörch   Sandrine,1,1
+Dubié   Jeanine,Berta   Philippe,1,1
+Dubié   Jeanine,Toutut-Picard   Élisabeth,1,1
+Dubié   Jeanine,Ménard   Emmanuelle,1,1
+Dubié   Jeanine,Eliaou   Jean-François,1,1
+Dubié   Jeanine,Cloarec-Le Nabour   Christine,1,1
+Dubié   Jeanine,Démoulin   Nicolas,1,1
+Dubié   Jeanine,Limon   Monique,1,1
+Dubié   Jeanine,Jacquier-Laforge   Élodie,1,1
+Dubié   Jeanine,Lainé   Fabien,1,1
+Dubié   Jeanine,Causse   Lionel,1,1
+Dubié   Jeanine,Borowczyk   Julien,1,1
+Dubié   Jeanine,Lauzzana   Michel,1,1
+Dubié   Jeanine,Dufeu   Audrey,1,1
+Dubié   Jeanine,Dubré-Chirat   Nicole,1,1
+Dubié   Jeanine,Bolo   Philippe,1,1
+Dubié   Jeanine,Sorre   Bertrand,1,1
+Dubié   Jeanine,Bannier   Géraldine,1,1
+Dubié   Jeanine,Pahun   Jimmy,1,1
+Dubié   Jeanine,Le Peih   Nicole,1,1
+Dubié   Jeanine,Jacques   Jean-Michel,1,1
+Dubié   Jeanine,Trisse   Nicole,1,1
+Dubié   Jeanine,Perrot   Patrice,1,1
+Dubié   Jeanine,Cattelot   Anne-Laure,1,1
+Dubié   Jeanine,Potterie   Benoit,1,1
+Dubié   Jeanine,Duvergé   Bruno,1,1
+Dubié   Jeanine,Descamps   Béatrice,1,1
+Dubié   Jeanine,Michels   Thierry,1,1
+Dubié   Jeanine,Lasserre   Florence,1,1
+Dubié   Jeanine,Testé   Stéphane,1,1
+Dubié   Jeanine,Descrozaille   Frédéric,1,1
+Dubié   Jeanine,Lazaar   Fiona,1,1
+Dubié   Jeanine,Benin   Justine,1,1
+Dubié   Jeanine,Genetet   Anne,1,1
+Dubié   Jeanine,Corbière   Alexis,1,1
+Dubié   Jeanine,Gouffier-Cha   Guillaume,1,1
+Dubié   Jeanine,Schellenberger   Raphaël,1,1
+Dubié   Jeanine,Mignola   Patrick,1,1
+Dubié   Jeanine,Roseren   Xavier,1,1
+Dubié   Jeanine,Kuster   Brigitte,1,1
+Dubié   Jeanine,Luquet   Aude,1,1
+Dubié   Jeanine,Rossi   Laurianne,1,1
+Dubié   Jeanine,Lemoine   Patricia,1,1
+Dubié   Jeanine,Peyron   Michèle,1,1
+Dubié   Jeanine,Florennes   Isabelle,1,1
+Dubié   Jeanine,Calvez   Céline,1,1
+Dubié   Jeanine,Lebec   Marie,1,1
+Dubié   Jeanine,Faucillon   Elsa,1,1
+Dubié   Jeanine,de Vaucouleurs   Michèle,1,1
+Dubié   Jeanine,Millienne   Bruno,1,1
+Dubié   Jeanine,Bergé   Aurore,1,1
+Dubié   Jeanine,Granjus   Florence,1,1
+Dubié   Jeanine,Vidal   Annie,1,1
+Dubié   Jeanine,Sylla   Sira,1,1
+Dubié   Jeanine,Fiévet   Jean-Marie,1,1
+Dubié   Jeanine,Fugit   Jean-Luc,1,1
+Dubié   Jeanine,Rebeyrotte   Rémy,1,1
+Aviragnet   Joël,Sage   Maina,1,1
+Aviragnet   Joël,Claireaux   Stéphane,1,1
+Aviragnet   Joël,Maillard   Sylvain,1,1
+Aviragnet   Joël,Givernet   Olga,1,1
+Aviragnet   Joël,Robert   Mireille,1,1
+Aviragnet   Joël,Blanchet   Christophe,1,1
+Aviragnet   Joël,Bouyx   Bertrand,1,1
+Aviragnet   Joël,Mesnier   Thomas,1,1
+Aviragnet   Joël,Moreau   Jean-Baptiste,1,1
+Aviragnet   Joël,Chassaing   Philippe,1,1
+Aviragnet   Joël,Kasbarian   Guillaume,1,1
+Aviragnet   Joël,Le Meur   Annaïg,1,1
+Aviragnet   Joël,Mörch   Sandrine,1,1
+Aviragnet   Joël,Berta   Philippe,1,1
+Aviragnet   Joël,Toutut-Picard   Élisabeth,1,1
+Aviragnet   Joël,Ménard   Emmanuelle,1,1
+Aviragnet   Joël,Eliaou   Jean-François,1,1
+Aviragnet   Joël,Cloarec-Le Nabour   Christine,1,1
+Aviragnet   Joël,Démoulin   Nicolas,1,1
+Aviragnet   Joël,Limon   Monique,1,1
+Aviragnet   Joël,Jacquier-Laforge   Élodie,1,1
+Aviragnet   Joël,Lainé   Fabien,1,1
+Aviragnet   Joël,Causse   Lionel,1,1
+Aviragnet   Joël,Borowczyk   Julien,1,1
+Aviragnet   Joël,Lauzzana   Michel,1,1
+Aviragnet   Joël,Dufeu   Audrey,1,1
+Aviragnet   Joël,Dubré-Chirat   Nicole,1,1
+Aviragnet   Joël,Bolo   Philippe,1,1
+Aviragnet   Joël,Sorre   Bertrand,1,1
+Aviragnet   Joël,Bannier   Géraldine,1,1
+Aviragnet   Joël,Pahun   Jimmy,1,1
+Aviragnet   Joël,Le Peih   Nicole,1,1
+Aviragnet   Joël,Jacques   Jean-Michel,1,1
+Aviragnet   Joël,Trisse   Nicole,1,1
+Aviragnet   Joël,Perrot   Patrice,1,1
+Aviragnet   Joël,Cattelot   Anne-Laure,1,1
+Aviragnet   Joël,Potterie   Benoit,1,1
+Aviragnet   Joël,Duvergé   Bruno,1,1
+Aviragnet   Joël,Descamps   Béatrice,1,1
+Aviragnet   Joël,Michels   Thierry,1,1
+Aviragnet   Joël,Lasserre   Florence,1,1
+Aviragnet   Joël,Testé   Stéphane,1,1
+Aviragnet   Joël,Descrozaille   Frédéric,1,1
+Aviragnet   Joël,Lazaar   Fiona,1,1
+Aviragnet   Joël,Benin   Justine,1,1
+Aviragnet   Joël,Genetet   Anne,1,1
+Aviragnet   Joël,Corbière   Alexis,1,1
+Aviragnet   Joël,Gouffier-Cha   Guillaume,1,1
+Aviragnet   Joël,Schellenberger   Raphaël,1,1
+Aviragnet   Joël,Mignola   Patrick,1,1
+Aviragnet   Joël,Roseren   Xavier,1,1
+Aviragnet   Joël,Kuster   Brigitte,1,1
+Aviragnet   Joël,Luquet   Aude,1,1
+Aviragnet   Joël,Rossi   Laurianne,1,1
+Aviragnet   Joël,Lemoine   Patricia,1,1
+Aviragnet   Joël,Peyron   Michèle,1,1
+Aviragnet   Joël,Florennes   Isabelle,1,1
+Aviragnet   Joël,Calvez   Céline,1,1
+Aviragnet   Joël,Lebec   Marie,1,1
+Aviragnet   Joël,Faucillon   Elsa,1,1
+Aviragnet   Joël,de Vaucouleurs   Michèle,1,1
+Aviragnet   Joël,Millienne   Bruno,1,1
+Aviragnet   Joël,Bergé   Aurore,1,1
+Aviragnet   Joël,Granjus   Florence,1,1
+Aviragnet   Joël,Vidal   Annie,1,1
+Aviragnet   Joël,Sylla   Sira,1,1
+Aviragnet   Joël,Fiévet   Jean-Marie,1,1
+Aviragnet   Joël,Fugit   Jean-Luc,1,1
+Aviragnet   Joël,Rebeyrotte   Rémy,1,1
+Sage   Maina,Claireaux   Stéphane,1,1
+Sage   Maina,Maillard   Sylvain,1,1
+Sage   Maina,Givernet   Olga,1,1
+Sage   Maina,Robert   Mireille,1,1
+Sage   Maina,Blanchet   Christophe,1,1
+Sage   Maina,Bouyx   Bertrand,1,1
+Sage   Maina,Mesnier   Thomas,1,1
+Sage   Maina,Moreau   Jean-Baptiste,1,1
+Sage   Maina,Chassaing   Philippe,1,1
+Sage   Maina,Kasbarian   Guillaume,1,1
+Sage   Maina,Le Meur   Annaïg,1,1
+Sage   Maina,Mörch   Sandrine,1,1
+Sage   Maina,Berta   Philippe,1,1
+Sage   Maina,Toutut-Picard   Élisabeth,1,1
+Sage   Maina,Ménard   Emmanuelle,1,1
+Sage   Maina,Eliaou   Jean-François,1,1
+Sage   Maina,Cloarec-Le Nabour   Christine,1,1
+Sage   Maina,Démoulin   Nicolas,1,1
+Sage   Maina,Limon   Monique,1,1
+Sage   Maina,Jacquier-Laforge   Élodie,1,1
+Sage   Maina,Lainé   Fabien,1,1
+Sage   Maina,Causse   Lionel,1,1
+Sage   Maina,Borowczyk   Julien,1,1
+Sage   Maina,Lauzzana   Michel,1,1
+Sage   Maina,Dufeu   Audrey,1,1
+Sage   Maina,Dubré-Chirat   Nicole,1,1
+Sage   Maina,Bolo   Philippe,1,1
+Sage   Maina,Sorre   Bertrand,1,1
+Sage   Maina,Bannier   Géraldine,1,1
+Sage   Maina,Pahun   Jimmy,1,1
+Sage   Maina,Le Peih   Nicole,1,1
+Sage   Maina,Jacques   Jean-Michel,1,1
+Sage   Maina,Trisse   Nicole,1,1
+Sage   Maina,Perrot   Patrice,1,1
+Sage   Maina,Cattelot   Anne-Laure,1,1
+Sage   Maina,Potterie   Benoit,1,1
+Sage   Maina,Duvergé   Bruno,1,1
+Sage   Maina,Descamps   Béatrice,1,1
+Sage   Maina,Michels   Thierry,1,1
+Sage   Maina,Lasserre   Florence,1,1
+Sage   Maina,Testé   Stéphane,1,1
+Sage   Maina,Descrozaille   Frédéric,1,1
+Sage   Maina,Lazaar   Fiona,1,1
+Sage   Maina,Benin   Justine,1,1
+Sage   Maina,Genetet   Anne,1,1
+Sage   Maina,Corbière   Alexis,1,1
+Sage   Maina,Gouffier-Cha   Guillaume,1,1
+Sage   Maina,Schellenberger   Raphaël,1,1
+Sage   Maina,Mignola   Patrick,1,1
+Sage   Maina,Roseren   Xavier,1,1
+Sage   Maina,Kuster   Brigitte,1,1
+Sage   Maina,Luquet   Aude,1,1
+Sage   Maina,Rossi   Laurianne,1,1
+Sage   Maina,Lemoine   Patricia,1,1
+Sage   Maina,Peyron   Michèle,1,1
+Sage   Maina,Florennes   Isabelle,1,1
+Sage   Maina,Calvez   Céline,1,1
+Sage   Maina,Lebec   Marie,1,1
+Sage   Maina,Faucillon   Elsa,1,1
+Sage   Maina,de Vaucouleurs   Michèle,1,1
+Sage   Maina,Millienne   Bruno,1,1
+Sage   Maina,Bergé   Aurore,1,1
+Sage   Maina,Granjus   Florence,1,1
+Sage   Maina,Vidal   Annie,1,1
+Sage   Maina,Sylla   Sira,1,1
+Sage   Maina,Fiévet   Jean-Marie,1,1
+Sage   Maina,Fugit   Jean-Luc,1,1
+Sage   Maina,Rebeyrotte   Rémy,1,1
+Claireaux   Stéphane,Maillard   Sylvain,1,1
+Claireaux   Stéphane,Givernet   Olga,1,1
+Claireaux   Stéphane,Robert   Mireille,1,1
+Claireaux   Stéphane,Blanchet   Christophe,1,1
+Claireaux   Stéphane,Bouyx   Bertrand,1,1
+Claireaux   Stéphane,Mesnier   Thomas,1,1
+Claireaux   Stéphane,Moreau   Jean-Baptiste,1,1
+Claireaux   Stéphane,Chassaing   Philippe,1,1
+Claireaux   Stéphane,Kasbarian   Guillaume,1,1
+Claireaux   Stéphane,Le Meur   Annaïg,1,1
+Claireaux   Stéphane,Mörch   Sandrine,1,1
+Claireaux   Stéphane,Berta   Philippe,1,1
+Claireaux   Stéphane,Toutut-Picard   Élisabeth,1,1
+Claireaux   Stéphane,Ménard   Emmanuelle,1,1
+Claireaux   Stéphane,Eliaou   Jean-François,1,1
+Claireaux   Stéphane,Cloarec-Le Nabour   Christine,1,1
+Claireaux   Stéphane,Démoulin   Nicolas,1,1
+Claireaux   Stéphane,Limon   Monique,1,1
+Claireaux   Stéphane,Jacquier-Laforge   Élodie,1,1
+Claireaux   Stéphane,Lainé   Fabien,1,1
+Claireaux   Stéphane,Causse   Lionel,1,1
+Claireaux   Stéphane,Borowczyk   Julien,1,1
+Claireaux   Stéphane,Lauzzana   Michel,1,1
+Claireaux   Stéphane,Dufeu   Audrey,1,1
+Claireaux   Stéphane,Dubré-Chirat   Nicole,1,1
+Claireaux   Stéphane,Bolo   Philippe,1,1
+Claireaux   Stéphane,Sorre   Bertrand,1,1
+Claireaux   Stéphane,Bannier   Géraldine,1,1
+Claireaux   Stéphane,Pahun   Jimmy,1,1
+Claireaux   Stéphane,Le Peih   Nicole,1,1
+Claireaux   Stéphane,Jacques   Jean-Michel,1,1
+Claireaux   Stéphane,Trisse   Nicole,1,1
+Claireaux   Stéphane,Perrot   Patrice,1,1
+Claireaux   Stéphane,Cattelot   Anne-Laure,1,1
+Claireaux   Stéphane,Potterie   Benoit,1,1
+Claireaux   Stéphane,Duvergé   Bruno,1,1
+Claireaux   Stéphane,Descamps   Béatrice,1,1
+Claireaux   Stéphane,Michels   Thierry,1,1
+Claireaux   Stéphane,Lasserre   Florence,1,1
+Claireaux   Stéphane,Testé   Stéphane,1,1
+Claireaux   Stéphane,Descrozaille   Frédéric,1,1
+Claireaux   Stéphane,Lazaar   Fiona,1,1
+Claireaux   Stéphane,Benin   Justine,1,1
+Claireaux   Stéphane,Genetet   Anne,1,1
+Claireaux   Stéphane,Corbière   Alexis,1,1
+Claireaux   Stéphane,Gouffier-Cha   Guillaume,1,1
+Claireaux   Stéphane,Schellenberger   Raphaël,1,1
+Claireaux   Stéphane,Mignola   Patrick,1,1
+Claireaux   Stéphane,Roseren   Xavier,1,1
+Claireaux   Stéphane,Kuster   Brigitte,1,1
+Claireaux   Stéphane,Luquet   Aude,1,1
+Claireaux   Stéphane,Rossi   Laurianne,1,1
+Claireaux   Stéphane,Lemoine   Patricia,1,1
+Claireaux   Stéphane,Peyron   Michèle,1,1
+Claireaux   Stéphane,Florennes   Isabelle,1,1
+Claireaux   Stéphane,Calvez   Céline,1,1
+Claireaux   Stéphane,Lebec   Marie,1,1
+Claireaux   Stéphane,Faucillon   Elsa,1,1
+Claireaux   Stéphane,de Vaucouleurs   Michèle,1,1
+Claireaux   Stéphane,Millienne   Bruno,1,1
+Claireaux   Stéphane,Bergé   Aurore,1,1
+Claireaux   Stéphane,Granjus   Florence,1,1
+Claireaux   Stéphane,Vidal   Annie,1,1
+Claireaux   Stéphane,Sylla   Sira,1,1
+Claireaux   Stéphane,Fiévet   Jean-Marie,1,1
+Claireaux   Stéphane,Fugit   Jean-Luc,1,1
+Claireaux   Stéphane,Rebeyrotte   Rémy,1,1
+Maillard   Sylvain,Givernet   Olga,1,1
+Maillard   Sylvain,Robert   Mireille,1,1
+Maillard   Sylvain,Blanchet   Christophe,1,1
+Maillard   Sylvain,Bouyx   Bertrand,1,1
+Maillard   Sylvain,Mesnier   Thomas,1,1
+Maillard   Sylvain,Moreau   Jean-Baptiste,1,1
+Maillard   Sylvain,Chassaing   Philippe,1,1
+Maillard   Sylvain,Kasbarian   Guillaume,1,1
+Maillard   Sylvain,Le Meur   Annaïg,1,1
+Maillard   Sylvain,Mörch   Sandrine,1,1
+Maillard   Sylvain,Berta   Philippe,1,1
+Maillard   Sylvain,Toutut-Picard   Élisabeth,1,1
+Maillard   Sylvain,Ménard   Emmanuelle,1,1
+Maillard   Sylvain,Eliaou   Jean-François,1,1
+Maillard   Sylvain,Cloarec-Le Nabour   Christine,1,1
+Maillard   Sylvain,Démoulin   Nicolas,1,1
+Maillard   Sylvain,Limon   Monique,1,1
+Maillard   Sylvain,Jacquier-Laforge   Élodie,1,1
+Maillard   Sylvain,Lainé   Fabien,1,1
+Maillard   Sylvain,Causse   Lionel,1,1
+Maillard   Sylvain,Borowczyk   Julien,1,1
+Maillard   Sylvain,Lauzzana   Michel,1,1
+Maillard   Sylvain,Dufeu   Audrey,1,1
+Maillard   Sylvain,Dubré-Chirat   Nicole,1,1
+Maillard   Sylvain,Bolo   Philippe,1,1
+Maillard   Sylvain,Sorre   Bertrand,1,1
+Maillard   Sylvain,Bannier   Géraldine,1,1
+Maillard   Sylvain,Pahun   Jimmy,1,1
+Maillard   Sylvain,Le Peih   Nicole,1,1
+Maillard   Sylvain,Jacques   Jean-Michel,1,1
+Maillard   Sylvain,Trisse   Nicole,1,1
+Maillard   Sylvain,Perrot   Patrice,1,1
+Maillard   Sylvain,Cattelot   Anne-Laure,1,1
+Maillard   Sylvain,Potterie   Benoit,1,1
+Maillard   Sylvain,Duvergé   Bruno,1,1
+Maillard   Sylvain,Descamps   Béatrice,1,1
+Maillard   Sylvain,Michels   Thierry,1,1
+Maillard   Sylvain,Lasserre   Florence,1,1
+Maillard   Sylvain,Testé   Stéphane,1,1
+Maillard   Sylvain,Descrozaille   Frédéric,1,1
+Maillard   Sylvain,Lazaar   Fiona,1,1
+Maillard   Sylvain,Benin   Justine,1,1
+Maillard   Sylvain,Genetet   Anne,1,1
+Maillard   Sylvain,Corbière   Alexis,1,1
+Maillard   Sylvain,Gouffier-Cha   Guillaume,1,1
+Maillard   Sylvain,Schellenberger   Raphaël,1,1
+Maillard   Sylvain,Mignola   Patrick,1,1
+Maillard   Sylvain,Roseren   Xavier,1,1
+Maillard   Sylvain,Kuster   Brigitte,1,1
+Maillard   Sylvain,Luquet   Aude,1,1
+Maillard   Sylvain,Rossi   Laurianne,1,1
+Maillard   Sylvain,Lemoine   Patricia,1,1
+Maillard   Sylvain,Peyron   Michèle,1,1
+Maillard   Sylvain,Florennes   Isabelle,1,1
+Maillard   Sylvain,Calvez   Céline,1,1
+Maillard   Sylvain,Lebec   Marie,1,1
+Maillard   Sylvain,Faucillon   Elsa,1,1
+Maillard   Sylvain,de Vaucouleurs   Michèle,1,1
+Maillard   Sylvain,Millienne   Bruno,1,1
+Maillard   Sylvain,Bergé   Aurore,1,1
+Maillard   Sylvain,Granjus   Florence,1,1
+Maillard   Sylvain,Vidal   Annie,1,1
+Maillard   Sylvain,Sylla   Sira,1,1
+Maillard   Sylvain,Fiévet   Jean-Marie,1,1
+Maillard   Sylvain,Fugit   Jean-Luc,1,1
+Maillard   Sylvain,Rebeyrotte   Rémy,1,1
+Givernet   Olga,Robert   Mireille,1,1
+Givernet   Olga,Blanchet   Christophe,1,1
+Givernet   Olga,Bouyx   Bertrand,1,1
+Givernet   Olga,Mesnier   Thomas,1,1
+Givernet   Olga,Moreau   Jean-Baptiste,1,1
+Givernet   Olga,Chassaing   Philippe,1,1
+Givernet   Olga,Kasbarian   Guillaume,1,1
+Givernet   Olga,Le Meur   Annaïg,1,1
+Givernet   Olga,Mörch   Sandrine,1,1
+Givernet   Olga,Berta   Philippe,1,1
+Givernet   Olga,Toutut-Picard   Élisabeth,1,1
+Givernet   Olga,Ménard   Emmanuelle,1,1
+Givernet   Olga,Eliaou   Jean-François,1,1
+Givernet   Olga,Cloarec-Le Nabour   Christine,1,1
+Givernet   Olga,Démoulin   Nicolas,1,1
+Givernet   Olga,Limon   Monique,1,1
+Givernet   Olga,Jacquier-Laforge   Élodie,1,1
+Givernet   Olga,Lainé   Fabien,1,1
+Givernet   Olga,Causse   Lionel,1,1
+Givernet   Olga,Borowczyk   Julien,1,1
+Givernet   Olga,Lauzzana   Michel,1,1
+Givernet   Olga,Dufeu   Audrey,1,1
+Givernet   Olga,Dubré-Chirat   Nicole,1,1
+Givernet   Olga,Bolo   Philippe,1,1
+Givernet   Olga,Sorre   Bertrand,1,1
+Givernet   Olga,Bannier   Géraldine,1,1
+Givernet   Olga,Pahun   Jimmy,1,1
+Givernet   Olga,Le Peih   Nicole,1,1
+Givernet   Olga,Jacques   Jean-Michel,1,1
+Givernet   Olga,Trisse   Nicole,1,1
+Givernet   Olga,Perrot   Patrice,1,1
+Givernet   Olga,Cattelot   Anne-Laure,1,1
+Givernet   Olga,Potterie   Benoit,1,1
+Givernet   Olga,Duvergé   Bruno,1,1
+Givernet   Olga,Descamps   Béatrice,1,1
+Givernet   Olga,Michels   Thierry,1,1
+Givernet   Olga,Lasserre   Florence,1,1
+Givernet   Olga,Testé   Stéphane,1,1
+Givernet   Olga,Descrozaille   Frédéric,1,1
+Givernet   Olga,Lazaar   Fiona,1,1
+Givernet   Olga,Benin   Justine,1,1
+Givernet   Olga,Genetet   Anne,1,1
+Givernet   Olga,Corbière   Alexis,1,1
+Givernet   Olga,Gouffier-Cha   Guillaume,1,1
+Givernet   Olga,Schellenberger   Raphaël,1,1
+Givernet   Olga,Mignola   Patrick,1,1
+Givernet   Olga,Roseren   Xavier,1,1
+Givernet   Olga,Kuster   Brigitte,1,1
+Givernet   Olga,Luquet   Aude,1,1
+Givernet   Olga,Rossi   Laurianne,1,1
+Givernet   Olga,Lemoine   Patricia,1,1
+Givernet   Olga,Peyron   Michèle,1,1
+Givernet   Olga,Florennes   Isabelle,1,1
+Givernet   Olga,Calvez   Céline,1,1
+Givernet   Olga,Lebec   Marie,1,1
+Givernet   Olga,Faucillon   Elsa,1,1
+Givernet   Olga,de Vaucouleurs   Michèle,1,1
+Givernet   Olga,Millienne   Bruno,1,1
+Givernet   Olga,Bergé   Aurore,1,1
+Givernet   Olga,Granjus   Florence,1,1
+Givernet   Olga,Vidal   Annie,1,1
+Givernet   Olga,Sylla   Sira,1,1
+Givernet   Olga,Fiévet   Jean-Marie,1,1
+Givernet   Olga,Fugit   Jean-Luc,1,1
+Givernet   Olga,Rebeyrotte   Rémy,1,1
+Robert   Mireille,Blanchet   Christophe,1,1
+Robert   Mireille,Bouyx   Bertrand,1,1
+Robert   Mireille,Mesnier   Thomas,1,1
+Robert   Mireille,Moreau   Jean-Baptiste,1,1
+Robert   Mireille,Chassaing   Philippe,1,1
+Robert   Mireille,Kasbarian   Guillaume,1,1
+Robert   Mireille,Le Meur   Annaïg,1,1
+Robert   Mireille,Mörch   Sandrine,1,1
+Robert   Mireille,Berta   Philippe,1,1
+Robert   Mireille,Toutut-Picard   Élisabeth,1,1
+Robert   Mireille,Ménard   Emmanuelle,1,1
+Robert   Mireille,Eliaou   Jean-François,1,1
+Robert   Mireille,Cloarec-Le Nabour   Christine,1,1
+Robert   Mireille,Démoulin   Nicolas,1,1
+Robert   Mireille,Limon   Monique,1,1
+Robert   Mireille,Jacquier-Laforge   Élodie,1,1
+Robert   Mireille,Lainé   Fabien,1,1
+Robert   Mireille,Causse   Lionel,1,1
+Robert   Mireille,Borowczyk   Julien,1,1
+Robert   Mireille,Lauzzana   Michel,1,1
+Robert   Mireille,Dufeu   Audrey,1,1
+Robert   Mireille,Dubré-Chirat   Nicole,1,1
+Robert   Mireille,Bolo   Philippe,1,1
+Robert   Mireille,Sorre   Bertrand,1,1
+Robert   Mireille,Bannier   Géraldine,1,1
+Robert   Mireille,Pahun   Jimmy,1,1
+Robert   Mireille,Le Peih   Nicole,1,1
+Robert   Mireille,Jacques   Jean-Michel,1,1
+Robert   Mireille,Trisse   Nicole,1,1
+Robert   Mireille,Perrot   Patrice,1,1
+Robert   Mireille,Cattelot   Anne-Laure,1,1
+Robert   Mireille,Potterie   Benoit,1,1
+Robert   Mireille,Duvergé   Bruno,1,1
+Robert   Mireille,Descamps   Béatrice,1,1
+Robert   Mireille,Michels   Thierry,1,1
+Robert   Mireille,Lasserre   Florence,1,1
+Robert   Mireille,Testé   Stéphane,1,1
+Robert   Mireille,Descrozaille   Frédéric,1,1
+Robert   Mireille,Lazaar   Fiona,1,1
+Robert   Mireille,Benin   Justine,1,1
+Robert   Mireille,Genetet   Anne,1,1
+Robert   Mireille,Corbière   Alexis,1,1
+Robert   Mireille,Gouffier-Cha   Guillaume,1,1
+Robert   Mireille,Schellenberger   Raphaël,1,1
+Robert   Mireille,Mignola   Patrick,1,1
+Robert   Mireille,Roseren   Xavier,1,1
+Robert   Mireille,Kuster   Brigitte,1,1
+Robert   Mireille,Luquet   Aude,1,1
+Robert   Mireille,Rossi   Laurianne,1,1
+Robert   Mireille,Lemoine   Patricia,1,1
+Robert   Mireille,Peyron   Michèle,1,1
+Robert   Mireille,Florennes   Isabelle,1,1
+Robert   Mireille,Calvez   Céline,1,1
+Robert   Mireille,Lebec   Marie,1,1
+Robert   Mireille,Faucillon   Elsa,1,1
+Robert   Mireille,de Vaucouleurs   Michèle,1,1
+Robert   Mireille,Millienne   Bruno,1,1
+Robert   Mireille,Bergé   Aurore,1,1
+Robert   Mireille,Granjus   Florence,1,1
+Robert   Mireille,Vidal   Annie,1,1
+Robert   Mireille,Sylla   Sira,1,1
+Robert   Mireille,Fiévet   Jean-Marie,1,1
+Robert   Mireille,Fugit   Jean-Luc,1,1
+Robert   Mireille,Rebeyrotte   Rémy,1,1
+Blanchet   Christophe,Bouyx   Bertrand,1,1
+Blanchet   Christophe,Mesnier   Thomas,1,1
+Blanchet   Christophe,Moreau   Jean-Baptiste,1,1
+Blanchet   Christophe,Chassaing   Philippe,1,1
+Blanchet   Christophe,Kasbarian   Guillaume,1,1
+Blanchet   Christophe,Le Meur   Annaïg,1,1
+Blanchet   Christophe,Mörch   Sandrine,1,1
+Blanchet   Christophe,Berta   Philippe,1,1
+Blanchet   Christophe,Toutut-Picard   Élisabeth,1,1
+Blanchet   Christophe,Ménard   Emmanuelle,1,1
+Blanchet   Christophe,Eliaou   Jean-François,1,1
+Blanchet   Christophe,Cloarec-Le Nabour   Christine,1,1
+Blanchet   Christophe,Démoulin   Nicolas,1,1
+Blanchet   Christophe,Limon   Monique,1,1
+Blanchet   Christophe,Jacquier-Laforge   Élodie,1,1
+Blanchet   Christophe,Lainé   Fabien,1,1
+Blanchet   Christophe,Causse   Lionel,1,1
+Blanchet   Christophe,Borowczyk   Julien,1,1
+Blanchet   Christophe,Lauzzana   Michel,1,1
+Blanchet   Christophe,Dufeu   Audrey,1,1
+Blanchet   Christophe,Dubré-Chirat   Nicole,1,1
+Blanchet   Christophe,Bolo   Philippe,1,1
+Blanchet   Christophe,Sorre   Bertrand,1,1
+Blanchet   Christophe,Bannier   Géraldine,1,1
+Blanchet   Christophe,Pahun   Jimmy,1,1
+Blanchet   Christophe,Le Peih   Nicole,1,1
+Blanchet   Christophe,Jacques   Jean-Michel,1,1
+Blanchet   Christophe,Trisse   Nicole,1,1
+Blanchet   Christophe,Perrot   Patrice,1,1
+Blanchet   Christophe,Cattelot   Anne-Laure,1,1
+Blanchet   Christophe,Potterie   Benoit,1,1
+Blanchet   Christophe,Duvergé   Bruno,1,1
+Blanchet   Christophe,Descamps   Béatrice,1,1
+Blanchet   Christophe,Michels   Thierry,1,1
+Blanchet   Christophe,Lasserre   Florence,1,1
+Blanchet   Christophe,Testé   Stéphane,1,1
+Blanchet   Christophe,Descrozaille   Frédéric,1,1
+Blanchet   Christophe,Lazaar   Fiona,1,1
+Blanchet   Christophe,Benin   Justine,1,1
+Blanchet   Christophe,Genetet   Anne,1,1
+Blanchet   Christophe,Corbière   Alexis,1,1
+Blanchet   Christophe,Gouffier-Cha   Guillaume,1,1
+Blanchet   Christophe,Schellenberger   Raphaël,1,1
+Blanchet   Christophe,Mignola   Patrick,1,1
+Blanchet   Christophe,Roseren   Xavier,1,1
+Blanchet   Christophe,Kuster   Brigitte,1,1
+Blanchet   Christophe,Luquet   Aude,1,1
+Blanchet   Christophe,Rossi   Laurianne,1,1
+Blanchet   Christophe,Lemoine   Patricia,1,1
+Blanchet   Christophe,Peyron   Michèle,1,1
+Blanchet   Christophe,Florennes   Isabelle,1,1
+Blanchet   Christophe,Calvez   Céline,1,1
+Blanchet   Christophe,Lebec   Marie,1,1
+Blanchet   Christophe,Faucillon   Elsa,1,1
+Blanchet   Christophe,de Vaucouleurs   Michèle,1,1
+Blanchet   Christophe,Millienne   Bruno,1,1
+Blanchet   Christophe,Bergé   Aurore,1,1
+Blanchet   Christophe,Granjus   Florence,1,1
+Blanchet   Christophe,Vidal   Annie,1,1
+Blanchet   Christophe,Sylla   Sira,1,1
+Blanchet   Christophe,Fiévet   Jean-Marie,1,1
+Blanchet   Christophe,Fugit   Jean-Luc,1,1
+Blanchet   Christophe,Rebeyrotte   Rémy,1,1
+Bouyx   Bertrand,Mesnier   Thomas,1,1
+Bouyx   Bertrand,Moreau   Jean-Baptiste,1,1
+Bouyx   Bertrand,Chassaing   Philippe,1,1
+Bouyx   Bertrand,Kasbarian   Guillaume,1,1
+Bouyx   Bertrand,Le Meur   Annaïg,1,1
+Bouyx   Bertrand,Mörch   Sandrine,1,1
+Bouyx   Bertrand,Berta   Philippe,1,1
+Bouyx   Bertrand,Toutut-Picard   Élisabeth,1,1
+Bouyx   Bertrand,Ménard   Emmanuelle,1,1
+Bouyx   Bertrand,Eliaou   Jean-François,1,1
+Bouyx   Bertrand,Cloarec-Le Nabour   Christine,1,1
+Bouyx   Bertrand,Démoulin   Nicolas,1,1
+Bouyx   Bertrand,Limon   Monique,1,1
+Bouyx   Bertrand,Jacquier-Laforge   Élodie,1,1
+Bouyx   Bertrand,Lainé   Fabien,1,1
+Bouyx   Bertrand,Causse   Lionel,1,1
+Bouyx   Bertrand,Borowczyk   Julien,1,1
+Bouyx   Bertrand,Lauzzana   Michel,1,1
+Bouyx   Bertrand,Dufeu   Audrey,1,1
+Bouyx   Bertrand,Dubré-Chirat   Nicole,1,1
+Bouyx   Bertrand,Bolo   Philippe,1,1
+Bouyx   Bertrand,Sorre   Bertrand,1,1
+Bouyx   Bertrand,Bannier   Géraldine,1,1
+Bouyx   Bertrand,Pahun   Jimmy,1,1
+Bouyx   Bertrand,Le Peih   Nicole,1,1
+Bouyx   Bertrand,Jacques   Jean-Michel,1,1
+Bouyx   Bertrand,Trisse   Nicole,1,1
+Bouyx   Bertrand,Perrot   Patrice,1,1
+Bouyx   Bertrand,Cattelot   Anne-Laure,1,1
+Bouyx   Bertrand,Potterie   Benoit,1,1
+Bouyx   Bertrand,Duvergé   Bruno,1,1
+Bouyx   Bertrand,Descamps   Béatrice,1,1
+Bouyx   Bertrand,Michels   Thierry,1,1
+Bouyx   Bertrand,Lasserre   Florence,1,1
+Bouyx   Bertrand,Testé   Stéphane,1,1
+Bouyx   Bertrand,Descrozaille   Frédéric,1,1
+Bouyx   Bertrand,Lazaar   Fiona,1,1
+Bouyx   Bertrand,Benin   Justine,1,1
+Bouyx   Bertrand,Genetet   Anne,1,1
+Bouyx   Bertrand,Corbière   Alexis,1,1
+Bouyx   Bertrand,Gouffier-Cha   Guillaume,1,1
+Bouyx   Bertrand,Schellenberger   Raphaël,1,1
+Bouyx   Bertrand,Mignola   Patrick,1,1
+Bouyx   Bertrand,Roseren   Xavier,1,1
+Bouyx   Bertrand,Kuster   Brigitte,1,1
+Bouyx   Bertrand,Luquet   Aude,1,1
+Bouyx   Bertrand,Rossi   Laurianne,1,1
+Bouyx   Bertrand,Lemoine   Patricia,1,1
+Bouyx   Bertrand,Peyron   Michèle,1,1
+Bouyx   Bertrand,Florennes   Isabelle,1,1
+Bouyx   Bertrand,Calvez   Céline,1,1
+Bouyx   Bertrand,Lebec   Marie,1,1
+Bouyx   Bertrand,Faucillon   Elsa,1,1
+Bouyx   Bertrand,de Vaucouleurs   Michèle,1,1
+Bouyx   Bertrand,Millienne   Bruno,1,1
+Bouyx   Bertrand,Bergé   Aurore,1,1
+Bouyx   Bertrand,Granjus   Florence,1,1
+Bouyx   Bertrand,Vidal   Annie,1,1
+Bouyx   Bertrand,Sylla   Sira,1,1
+Bouyx   Bertrand,Fiévet   Jean-Marie,1,1
+Bouyx   Bertrand,Fugit   Jean-Luc,1,1
+Bouyx   Bertrand,Rebeyrotte   Rémy,1,1
+Mesnier   Thomas,Moreau   Jean-Baptiste,1,1
+Mesnier   Thomas,Chassaing   Philippe,1,1
+Mesnier   Thomas,Kasbarian   Guillaume,1,1
+Mesnier   Thomas,Le Meur   Annaïg,1,1
+Mesnier   Thomas,Mörch   Sandrine,1,1
+Mesnier   Thomas,Berta   Philippe,1,1
+Mesnier   Thomas,Toutut-Picard   Élisabeth,1,1
+Mesnier   Thomas,Ménard   Emmanuelle,1,1
+Mesnier   Thomas,Eliaou   Jean-François,1,1
+Mesnier   Thomas,Cloarec-Le Nabour   Christine,1,1
+Mesnier   Thomas,Démoulin   Nicolas,1,1
+Mesnier   Thomas,Limon   Monique,1,1
+Mesnier   Thomas,Jacquier-Laforge   Élodie,1,1
+Mesnier   Thomas,Lainé   Fabien,1,1
+Mesnier   Thomas,Causse   Lionel,1,1
+Mesnier   Thomas,Borowczyk   Julien,1,1
+Mesnier   Thomas,Lauzzana   Michel,1,1
+Mesnier   Thomas,Dufeu   Audrey,1,1
+Mesnier   Thomas,Dubré-Chirat   Nicole,1,1
+Mesnier   Thomas,Bolo   Philippe,1,1
+Mesnier   Thomas,Sorre   Bertrand,1,1
+Mesnier   Thomas,Bannier   Géraldine,1,1
+Mesnier   Thomas,Pahun   Jimmy,1,1
+Mesnier   Thomas,Le Peih   Nicole,1,1
+Mesnier   Thomas,Jacques   Jean-Michel,1,1
+Mesnier   Thomas,Trisse   Nicole,1,1
+Mesnier   Thomas,Perrot   Patrice,1,1
+Mesnier   Thomas,Cattelot   Anne-Laure,1,1
+Mesnier   Thomas,Potterie   Benoit,1,1
+Mesnier   Thomas,Duvergé   Bruno,1,1
+Mesnier   Thomas,Descamps   Béatrice,1,1
+Mesnier   Thomas,Michels   Thierry,1,1
+Mesnier   Thomas,Lasserre   Florence,1,1
+Mesnier   Thomas,Testé   Stéphane,1,1
+Mesnier   Thomas,Descrozaille   Frédéric,1,1
+Mesnier   Thomas,Lazaar   Fiona,1,1
+Mesnier   Thomas,Benin   Justine,1,1
+Mesnier   Thomas,Genetet   Anne,1,1
+Mesnier   Thomas,Corbière   Alexis,1,1
+Mesnier   Thomas,Gouffier-Cha   Guillaume,1,1
+Mesnier   Thomas,Schellenberger   Raphaël,1,1
+Mesnier   Thomas,Mignola   Patrick,1,1
+Mesnier   Thomas,Roseren   Xavier,1,1
+Mesnier   Thomas,Kuster   Brigitte,1,1
+Mesnier   Thomas,Luquet   Aude,1,1
+Mesnier   Thomas,Rossi   Laurianne,1,1
+Mesnier   Thomas,Lemoine   Patricia,1,1
+Mesnier   Thomas,Peyron   Michèle,1,1
+Mesnier   Thomas,Florennes   Isabelle,1,1
+Mesnier   Thomas,Calvez   Céline,1,1
+Mesnier   Thomas,Lebec   Marie,1,1
+Mesnier   Thomas,Faucillon   Elsa,1,1
+Mesnier   Thomas,de Vaucouleurs   Michèle,1,1
+Mesnier   Thomas,Millienne   Bruno,1,1
+Mesnier   Thomas,Bergé   Aurore,1,1
+Mesnier   Thomas,Granjus   Florence,1,1
+Mesnier   Thomas,Vidal   Annie,1,1
+Mesnier   Thomas,Sylla   Sira,1,1
+Mesnier   Thomas,Fiévet   Jean-Marie,1,1
+Mesnier   Thomas,Fugit   Jean-Luc,1,1
+Mesnier   Thomas,Rebeyrotte   Rémy,1,1
+Moreau   Jean-Baptiste,Chassaing   Philippe,1,1
+Moreau   Jean-Baptiste,Kasbarian   Guillaume,1,1
+Moreau   Jean-Baptiste,Le Meur   Annaïg,1,1
+Moreau   Jean-Baptiste,Mörch   Sandrine,1,1
+Moreau   Jean-Baptiste,Berta   Philippe,1,1
+Moreau   Jean-Baptiste,Toutut-Picard   Élisabeth,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,1,1
+Moreau   Jean-Baptiste,Eliaou   Jean-François,1,1
+Moreau   Jean-Baptiste,Cloarec-Le Nabour   Christine,1,1
+Moreau   Jean-Baptiste,Démoulin   Nicolas,1,1
+Moreau   Jean-Baptiste,Limon   Monique,1,1
+Moreau   Jean-Baptiste,Jacquier-Laforge   Élodie,1,1
+Moreau   Jean-Baptiste,Lainé   Fabien,1,1
+Moreau   Jean-Baptiste,Causse   Lionel,1,1
+Moreau   Jean-Baptiste,Borowczyk   Julien,1,1
+Moreau   Jean-Baptiste,Lauzzana   Michel,1,1
+Moreau   Jean-Baptiste,Dufeu   Audrey,1,1
+Moreau   Jean-Baptiste,Dubré-Chirat   Nicole,1,1
+Moreau   Jean-Baptiste,Bolo   Philippe,1,1
+Moreau   Jean-Baptiste,Sorre   Bertrand,1,1
+Moreau   Jean-Baptiste,Bannier   Géraldine,1,1
+Moreau   Jean-Baptiste,Pahun   Jimmy,1,1
+Moreau   Jean-Baptiste,Le Peih   Nicole,1,1
+Moreau   Jean-Baptiste,Jacques   Jean-Michel,1,1
+Moreau   Jean-Baptiste,Trisse   Nicole,1,1
+Moreau   Jean-Baptiste,Perrot   Patrice,1,1
+Moreau   Jean-Baptiste,Cattelot   Anne-Laure,1,1
+Moreau   Jean-Baptiste,Potterie   Benoit,1,1
+Moreau   Jean-Baptiste,Duvergé   Bruno,1,1
+Moreau   Jean-Baptiste,Descamps   Béatrice,1,1
+Moreau   Jean-Baptiste,Michels   Thierry,1,1
+Moreau   Jean-Baptiste,Lasserre   Florence,1,1
+Moreau   Jean-Baptiste,Testé   Stéphane,1,1
+Moreau   Jean-Baptiste,Descrozaille   Frédéric,1,1
+Moreau   Jean-Baptiste,Lazaar   Fiona,1,1
+Moreau   Jean-Baptiste,Benin   Justine,1,1
+Moreau   Jean-Baptiste,Genetet   Anne,1,1
+Moreau   Jean-Baptiste,Corbière   Alexis,1,1
+Moreau   Jean-Baptiste,Gouffier-Cha   Guillaume,1,1
+Moreau   Jean-Baptiste,Schellenberger   Raphaël,1,1
+Moreau   Jean-Baptiste,Mignola   Patrick,1,1
+Moreau   Jean-Baptiste,Roseren   Xavier,1,1
+Moreau   Jean-Baptiste,Kuster   Brigitte,1,1
+Moreau   Jean-Baptiste,Luquet   Aude,1,1
+Moreau   Jean-Baptiste,Rossi   Laurianne,1,1
+Moreau   Jean-Baptiste,Lemoine   Patricia,1,1
+Moreau   Jean-Baptiste,Peyron   Michèle,1,1
+Moreau   Jean-Baptiste,Florennes   Isabelle,1,1
+Moreau   Jean-Baptiste,Calvez   Céline,1,1
+Moreau   Jean-Baptiste,Lebec   Marie,1,1
+Moreau   Jean-Baptiste,Faucillon   Elsa,1,1
+Moreau   Jean-Baptiste,de Vaucouleurs   Michèle,1,1
+Moreau   Jean-Baptiste,Millienne   Bruno,1,1
+Moreau   Jean-Baptiste,Bergé   Aurore,1,1
+Moreau   Jean-Baptiste,Granjus   Florence,1,1
+Moreau   Jean-Baptiste,Vidal   Annie,1,1
+Moreau   Jean-Baptiste,Sylla   Sira,1,1
+Moreau   Jean-Baptiste,Fiévet   Jean-Marie,1,1
+Moreau   Jean-Baptiste,Fugit   Jean-Luc,1,1
+Moreau   Jean-Baptiste,Rebeyrotte   Rémy,1,1
+Chassaing   Philippe,Kasbarian   Guillaume,1,1
+Chassaing   Philippe,Le Meur   Annaïg,1,1
+Chassaing   Philippe,Mörch   Sandrine,1,1
+Chassaing   Philippe,Berta   Philippe,1,1
+Chassaing   Philippe,Toutut-Picard   Élisabeth,1,1
+Chassaing   Philippe,Ménard   Emmanuelle,1,1
+Chassaing   Philippe,Eliaou   Jean-François,1,1
+Chassaing   Philippe,Cloarec-Le Nabour   Christine,1,1
+Chassaing   Philippe,Démoulin   Nicolas,1,1
+Chassaing   Philippe,Limon   Monique,1,1
+Chassaing   Philippe,Jacquier-Laforge   Élodie,1,1
+Chassaing   Philippe,Lainé   Fabien,1,1
+Chassaing   Philippe,Causse   Lionel,1,1
+Chassaing   Philippe,Borowczyk   Julien,1,1
+Chassaing   Philippe,Lauzzana   Michel,1,1
+Chassaing   Philippe,Dufeu   Audrey,1,1
+Chassaing   Philippe,Dubré-Chirat   Nicole,1,1
+Chassaing   Philippe,Bolo   Philippe,1,1
+Chassaing   Philippe,Sorre   Bertrand,1,1
+Chassaing   Philippe,Bannier   Géraldine,1,1
+Chassaing   Philippe,Pahun   Jimmy,1,1
+Chassaing   Philippe,Le Peih   Nicole,1,1
+Chassaing   Philippe,Jacques   Jean-Michel,1,1
+Chassaing   Philippe,Trisse   Nicole,1,1
+Chassaing   Philippe,Perrot   Patrice,1,1
+Chassaing   Philippe,Cattelot   Anne-Laure,1,1
+Chassaing   Philippe,Potterie   Benoit,1,1
+Chassaing   Philippe,Duvergé   Bruno,1,1
+Chassaing   Philippe,Descamps   Béatrice,1,1
+Chassaing   Philippe,Michels   Thierry,1,1
+Chassaing   Philippe,Lasserre   Florence,1,1
+Chassaing   Philippe,Testé   Stéphane,1,1
+Chassaing   Philippe,Descrozaille   Frédéric,1,1
+Chassaing   Philippe,Lazaar   Fiona,1,1
+Chassaing   Philippe,Benin   Justine,1,1
+Chassaing   Philippe,Genetet   Anne,1,1
+Chassaing   Philippe,Corbière   Alexis,1,1
+Chassaing   Philippe,Gouffier-Cha   Guillaume,1,1
+Chassaing   Philippe,Schellenberger   Raphaël,1,1
+Chassaing   Philippe,Mignola   Patrick,1,1
+Chassaing   Philippe,Roseren   Xavier,1,1
+Chassaing   Philippe,Kuster   Brigitte,1,1
+Chassaing   Philippe,Luquet   Aude,1,1
+Chassaing   Philippe,Rossi   Laurianne,1,1
+Chassaing   Philippe,Lemoine   Patricia,1,1
+Chassaing   Philippe,Peyron   Michèle,1,1
+Chassaing   Philippe,Florennes   Isabelle,1,1
+Chassaing   Philippe,Calvez   Céline,1,1
+Chassaing   Philippe,Lebec   Marie,1,1
+Chassaing   Philippe,Faucillon   Elsa,1,1
+Chassaing   Philippe,de Vaucouleurs   Michèle,1,1
+Chassaing   Philippe,Millienne   Bruno,1,1
+Chassaing   Philippe,Bergé   Aurore,1,1
+Chassaing   Philippe,Granjus   Florence,1,1
+Chassaing   Philippe,Vidal   Annie,1,1
+Chassaing   Philippe,Sylla   Sira,1,1
+Chassaing   Philippe,Fiévet   Jean-Marie,1,1
+Chassaing   Philippe,Fugit   Jean-Luc,1,1
+Chassaing   Philippe,Rebeyrotte   Rémy,1,1
+Kasbarian   Guillaume,Le Meur   Annaïg,1,1
+Kasbarian   Guillaume,Mörch   Sandrine,1,1
+Kasbarian   Guillaume,Berta   Philippe,1,1
+Kasbarian   Guillaume,Toutut-Picard   Élisabeth,1,1
+Kasbarian   Guillaume,Ménard   Emmanuelle,1,1
+Kasbarian   Guillaume,Eliaou   Jean-François,1,1
+Kasbarian   Guillaume,Cloarec-Le Nabour   Christine,1,1
+Kasbarian   Guillaume,Démoulin   Nicolas,1,1
+Kasbarian   Guillaume,Limon   Monique,1,1
+Kasbarian   Guillaume,Jacquier-Laforge   Élodie,1,1
+Kasbarian   Guillaume,Lainé   Fabien,1,1
+Kasbarian   Guillaume,Causse   Lionel,1,1
+Kasbarian   Guillaume,Borowczyk   Julien,1,1
+Kasbarian   Guillaume,Lauzzana   Michel,1,1
+Kasbarian   Guillaume,Dufeu   Audrey,1,1
+Kasbarian   Guillaume,Dubré-Chirat   Nicole,1,1
+Kasbarian   Guillaume,Bolo   Philippe,1,1
+Kasbarian   Guillaume,Sorre   Bertrand,1,1
+Kasbarian   Guillaume,Bannier   Géraldine,1,1
+Kasbarian   Guillaume,Pahun   Jimmy,1,1
+Kasbarian   Guillaume,Le Peih   Nicole,1,1
+Kasbarian   Guillaume,Jacques   Jean-Michel,1,1
+Kasbarian   Guillaume,Trisse   Nicole,1,1
+Kasbarian   Guillaume,Perrot   Patrice,1,1
+Kasbarian   Guillaume,Cattelot   Anne-Laure,1,1
+Kasbarian   Guillaume,Potterie   Benoit,1,1
+Kasbarian   Guillaume,Duvergé   Bruno,1,1
+Kasbarian   Guillaume,Descamps   Béatrice,1,1
+Kasbarian   Guillaume,Michels   Thierry,1,1
+Kasbarian   Guillaume,Lasserre   Florence,1,1
+Kasbarian   Guillaume,Testé   Stéphane,1,1
+Kasbarian   Guillaume,Descrozaille   Frédéric,1,1
+Kasbarian   Guillaume,Lazaar   Fiona,1,1
+Kasbarian   Guillaume,Benin   Justine,1,1
+Kasbarian   Guillaume,Genetet   Anne,1,1
+Kasbarian   Guillaume,Corbière   Alexis,1,1
+Kasbarian   Guillaume,Gouffier-Cha   Guillaume,1,1
+Kasbarian   Guillaume,Schellenberger   Raphaël,1,1
+Kasbarian   Guillaume,Mignola   Patrick,1,1
+Kasbarian   Guillaume,Roseren   Xavier,1,1
+Kasbarian   Guillaume,Kuster   Brigitte,1,1
+Kasbarian   Guillaume,Luquet   Aude,1,1
+Kasbarian   Guillaume,Rossi   Laurianne,1,1
+Kasbarian   Guillaume,Lemoine   Patricia,1,1
+Kasbarian   Guillaume,Peyron   Michèle,1,1
+Kasbarian   Guillaume,Florennes   Isabelle,1,1
+Kasbarian   Guillaume,Calvez   Céline,1,1
+Kasbarian   Guillaume,Lebec   Marie,1,1
+Kasbarian   Guillaume,Faucillon   Elsa,1,1
+Kasbarian   Guillaume,de Vaucouleurs   Michèle,1,1
+Kasbarian   Guillaume,Millienne   Bruno,1,1
+Kasbarian   Guillaume,Bergé   Aurore,1,1
+Kasbarian   Guillaume,Granjus   Florence,1,1
+Kasbarian   Guillaume,Vidal   Annie,1,1
+Kasbarian   Guillaume,Sylla   Sira,1,1
+Kasbarian   Guillaume,Fiévet   Jean-Marie,1,1
+Kasbarian   Guillaume,Fugit   Jean-Luc,1,1
+Kasbarian   Guillaume,Rebeyrotte   Rémy,1,1
+Le Meur   Annaïg,Mörch   Sandrine,1,1
+Le Meur   Annaïg,Berta   Philippe,1,1
+Le Meur   Annaïg,Toutut-Picard   Élisabeth,1,1
+Le Meur   Annaïg,Ménard   Emmanuelle,1,1
+Le Meur   Annaïg,Eliaou   Jean-François,1,1
+Le Meur   Annaïg,Cloarec-Le Nabour   Christine,1,1
+Le Meur   Annaïg,Démoulin   Nicolas,1,1
+Le Meur   Annaïg,Limon   Monique,1,1
+Le Meur   Annaïg,Jacquier-Laforge   Élodie,1,1
+Le Meur   Annaïg,Lainé   Fabien,1,1
+Le Meur   Annaïg,Causse   Lionel,1,1
+Le Meur   Annaïg,Borowczyk   Julien,1,1
+Le Meur   Annaïg,Lauzzana   Michel,1,1
+Le Meur   Annaïg,Dufeu   Audrey,1,1
+Le Meur   Annaïg,Dubré-Chirat   Nicole,1,1
+Le Meur   Annaïg,Bolo   Philippe,1,1
+Le Meur   Annaïg,Sorre   Bertrand,1,1
+Le Meur   Annaïg,Bannier   Géraldine,1,1
+Le Meur   Annaïg,Pahun   Jimmy,1,1
+Le Meur   Annaïg,Le Peih   Nicole,1,1
+Le Meur   Annaïg,Jacques   Jean-Michel,1,1
+Le Meur   Annaïg,Trisse   Nicole,1,1
+Le Meur   Annaïg,Perrot   Patrice,1,1
+Le Meur   Annaïg,Cattelot   Anne-Laure,1,1
+Le Meur   Annaïg,Potterie   Benoit,1,1
+Le Meur   Annaïg,Duvergé   Bruno,1,1
+Le Meur   Annaïg,Descamps   Béatrice,1,1
+Le Meur   Annaïg,Michels   Thierry,1,1
+Le Meur   Annaïg,Lasserre   Florence,1,1
+Le Meur   Annaïg,Testé   Stéphane,1,1
+Le Meur   Annaïg,Descrozaille   Frédéric,1,1
+Le Meur   Annaïg,Lazaar   Fiona,1,1
+Le Meur   Annaïg,Benin   Justine,1,1
+Le Meur   Annaïg,Genetet   Anne,1,1
+Le Meur   Annaïg,Corbière   Alexis,1,1
+Le Meur   Annaïg,Gouffier-Cha   Guillaume,1,1
+Le Meur   Annaïg,Schellenberger   Raphaël,1,1
+Le Meur   Annaïg,Mignola   Patrick,1,1
+Le Meur   Annaïg,Roseren   Xavier,1,1
+Le Meur   Annaïg,Kuster   Brigitte,1,1
+Le Meur   Annaïg,Luquet   Aude,1,1
+Le Meur   Annaïg,Rossi   Laurianne,1,1
+Le Meur   Annaïg,Lemoine   Patricia,1,1
+Le Meur   Annaïg,Peyron   Michèle,1,1
+Le Meur   Annaïg,Florennes   Isabelle,1,1
+Le Meur   Annaïg,Calvez   Céline,1,1
+Le Meur   Annaïg,Lebec   Marie,1,1
+Le Meur   Annaïg,Faucillon   Elsa,1,1
+Le Meur   Annaïg,de Vaucouleurs   Michèle,1,1
+Le Meur   Annaïg,Millienne   Bruno,1,1
+Le Meur   Annaïg,Bergé   Aurore,1,1
+Le Meur   Annaïg,Granjus   Florence,1,1
+Le Meur   Annaïg,Vidal   Annie,1,1
+Le Meur   Annaïg,Sylla   Sira,1,1
+Le Meur   Annaïg,Fiévet   Jean-Marie,1,1
+Le Meur   Annaïg,Fugit   Jean-Luc,1,1
+Le Meur   Annaïg,Rebeyrotte   Rémy,1,1
+Mörch   Sandrine,Berta   Philippe,1,1
+Mörch   Sandrine,Toutut-Picard   Élisabeth,1,1
+Mörch   Sandrine,Ménard   Emmanuelle,1,1
+Mörch   Sandrine,Eliaou   Jean-François,1,1
+Mörch   Sandrine,Cloarec-Le Nabour   Christine,1,1
+Mörch   Sandrine,Démoulin   Nicolas,1,1
+Mörch   Sandrine,Limon   Monique,1,1
+Mörch   Sandrine,Jacquier-Laforge   Élodie,1,1
+Mörch   Sandrine,Lainé   Fabien,1,1
+Mörch   Sandrine,Causse   Lionel,1,1
+Mörch   Sandrine,Borowczyk   Julien,1,1
+Mörch   Sandrine,Lauzzana   Michel,1,1
+Mörch   Sandrine,Dufeu   Audrey,1,1
+Mörch   Sandrine,Dubré-Chirat   Nicole,1,1
+Mörch   Sandrine,Bolo   Philippe,1,1
+Mörch   Sandrine,Sorre   Bertrand,1,1
+Mörch   Sandrine,Bannier   Géraldine,1,1
+Mörch   Sandrine,Pahun   Jimmy,1,1
+Mörch   Sandrine,Le Peih   Nicole,1,1
+Mörch   Sandrine,Jacques   Jean-Michel,1,1
+Mörch   Sandrine,Trisse   Nicole,1,1
+Mörch   Sandrine,Perrot   Patrice,1,1
+Mörch   Sandrine,Cattelot   Anne-Laure,1,1
+Mörch   Sandrine,Potterie   Benoit,1,1
+Mörch   Sandrine,Duvergé   Bruno,1,1
+Mörch   Sandrine,Descamps   Béatrice,1,1
+Mörch   Sandrine,Michels   Thierry,1,1
+Mörch   Sandrine,Lasserre   Florence,1,1
+Mörch   Sandrine,Testé   Stéphane,1,1
+Mörch   Sandrine,Descrozaille   Frédéric,1,1
+Mörch   Sandrine,Lazaar   Fiona,1,1
+Mörch   Sandrine,Benin   Justine,1,1
+Mörch   Sandrine,Genetet   Anne,1,1
+Mörch   Sandrine,Corbière   Alexis,1,1
+Mörch   Sandrine,Gouffier-Cha   Guillaume,1,1
+Mörch   Sandrine,Schellenberger   Raphaël,1,1
+Mörch   Sandrine,Mignola   Patrick,1,1
+Mörch   Sandrine,Roseren   Xavier,1,1
+Mörch   Sandrine,Kuster   Brigitte,1,1
+Mörch   Sandrine,Luquet   Aude,1,1
+Mörch   Sandrine,Rossi   Laurianne,1,1
+Mörch   Sandrine,Lemoine   Patricia,1,1
+Mörch   Sandrine,Peyron   Michèle,1,1
+Mörch   Sandrine,Florennes   Isabelle,1,1
+Mörch   Sandrine,Calvez   Céline,1,1
+Mörch   Sandrine,Lebec   Marie,1,1
+Mörch   Sandrine,Faucillon   Elsa,1,1
+Mörch   Sandrine,de Vaucouleurs   Michèle,1,1
+Mörch   Sandrine,Millienne   Bruno,1,1
+Mörch   Sandrine,Bergé   Aurore,1,1
+Mörch   Sandrine,Granjus   Florence,1,1
+Mörch   Sandrine,Vidal   Annie,1,1
+Mörch   Sandrine,Sylla   Sira,1,1
+Mörch   Sandrine,Fiévet   Jean-Marie,1,1
+Mörch   Sandrine,Fugit   Jean-Luc,1,1
+Mörch   Sandrine,Rebeyrotte   Rémy,1,1
+Berta   Philippe,Toutut-Picard   Élisabeth,1,1
+Berta   Philippe,Ménard   Emmanuelle,1,1
+Berta   Philippe,Eliaou   Jean-François,1,1
+Berta   Philippe,Cloarec-Le Nabour   Christine,1,1
+Berta   Philippe,Démoulin   Nicolas,1,1
+Berta   Philippe,Limon   Monique,1,1
+Berta   Philippe,Jacquier-Laforge   Élodie,1,1
+Berta   Philippe,Lainé   Fabien,1,1
+Berta   Philippe,Causse   Lionel,1,1
+Berta   Philippe,Borowczyk   Julien,1,1
+Berta   Philippe,Lauzzana   Michel,1,1
+Berta   Philippe,Dufeu   Audrey,1,1
+Berta   Philippe,Dubré-Chirat   Nicole,1,1
+Berta   Philippe,Bolo   Philippe,1,1
+Berta   Philippe,Sorre   Bertrand,1,1
+Berta   Philippe,Bannier   Géraldine,1,1
+Berta   Philippe,Pahun   Jimmy,1,1
+Berta   Philippe,Le Peih   Nicole,1,1
+Berta   Philippe,Jacques   Jean-Michel,1,1
+Berta   Philippe,Trisse   Nicole,1,1
+Berta   Philippe,Perrot   Patrice,1,1
+Berta   Philippe,Cattelot   Anne-Laure,1,1
+Berta   Philippe,Potterie   Benoit,1,1
+Berta   Philippe,Duvergé   Bruno,1,1
+Berta   Philippe,Descamps   Béatrice,1,1
+Berta   Philippe,Michels   Thierry,1,1
+Berta   Philippe,Lasserre   Florence,1,1
+Berta   Philippe,Testé   Stéphane,1,1
+Berta   Philippe,Descrozaille   Frédéric,1,1
+Berta   Philippe,Lazaar   Fiona,1,1
+Berta   Philippe,Benin   Justine,1,1
+Berta   Philippe,Genetet   Anne,1,1
+Berta   Philippe,Corbière   Alexis,1,1
+Berta   Philippe,Gouffier-Cha   Guillaume,1,1
+Berta   Philippe,Schellenberger   Raphaël,1,1
+Berta   Philippe,Mignola   Patrick,1,1
+Berta   Philippe,Roseren   Xavier,1,1
+Berta   Philippe,Kuster   Brigitte,1,1
+Berta   Philippe,Luquet   Aude,1,1
+Berta   Philippe,Rossi   Laurianne,1,1
+Berta   Philippe,Lemoine   Patricia,1,1
+Berta   Philippe,Peyron   Michèle,1,1
+Berta   Philippe,Florennes   Isabelle,1,1
+Berta   Philippe,Calvez   Céline,1,1
+Berta   Philippe,Lebec   Marie,1,1
+Berta   Philippe,Faucillon   Elsa,1,1
+Berta   Philippe,de Vaucouleurs   Michèle,1,1
+Berta   Philippe,Millienne   Bruno,1,1
+Berta   Philippe,Bergé   Aurore,1,1
+Berta   Philippe,Granjus   Florence,1,1
+Berta   Philippe,Vidal   Annie,1,1
+Berta   Philippe,Sylla   Sira,1,1
+Berta   Philippe,Fiévet   Jean-Marie,1,1
+Berta   Philippe,Fugit   Jean-Luc,1,1
+Berta   Philippe,Rebeyrotte   Rémy,1,1
+Toutut-Picard   Élisabeth,Ménard   Emmanuelle,1,1
+Toutut-Picard   Élisabeth,Eliaou   Jean-François,1,1
+Toutut-Picard   Élisabeth,Cloarec-Le Nabour   Christine,1,1
+Toutut-Picard   Élisabeth,Démoulin   Nicolas,1,1
+Toutut-Picard   Élisabeth,Limon   Monique,1,1
+Toutut-Picard   Élisabeth,Jacquier-Laforge   Élodie,1,1
+Toutut-Picard   Élisabeth,Lainé   Fabien,1,1
+Toutut-Picard   Élisabeth,Causse   Lionel,1,1
+Toutut-Picard   Élisabeth,Borowczyk   Julien,1,1
+Toutut-Picard   Élisabeth,Lauzzana   Michel,1,1
+Toutut-Picard   Élisabeth,Dufeu   Audrey,1,1
+Toutut-Picard   Élisabeth,Dubré-Chirat   Nicole,1,1
+Toutut-Picard   Élisabeth,Bolo   Philippe,1,1
+Toutut-Picard   Élisabeth,Sorre   Bertrand,1,1
+Toutut-Picard   Élisabeth,Bannier   Géraldine,1,1
+Toutut-Picard   Élisabeth,Pahun   Jimmy,1,1
+Toutut-Picard   Élisabeth,Le Peih   Nicole,1,1
+Toutut-Picard   Élisabeth,Jacques   Jean-Michel,1,1
+Toutut-Picard   Élisabeth,Trisse   Nicole,1,1
+Toutut-Picard   Élisabeth,Perrot   Patrice,1,1
+Toutut-Picard   Élisabeth,Cattelot   Anne-Laure,1,1
+Toutut-Picard   Élisabeth,Potterie   Benoit,1,1
+Toutut-Picard   Élisabeth,Duvergé   Bruno,1,1
+Toutut-Picard   Élisabeth,Descamps   Béatrice,1,1
+Toutut-Picard   Élisabeth,Michels   Thierry,1,1
+Toutut-Picard   Élisabeth,Lasserre   Florence,1,1
+Toutut-Picard   Élisabeth,Testé   Stéphane,1,1
+Toutut-Picard   Élisabeth,Descrozaille   Frédéric,1,1
+Toutut-Picard   Élisabeth,Lazaar   Fiona,1,1
+Toutut-Picard   Élisabeth,Benin   Justine,1,1
+Toutut-Picard   Élisabeth,Genetet   Anne,1,1
+Toutut-Picard   Élisabeth,Corbière   Alexis,1,1
+Toutut-Picard   Élisabeth,Gouffier-Cha   Guillaume,1,1
+Toutut-Picard   Élisabeth,Schellenberger   Raphaël,1,1
+Toutut-Picard   Élisabeth,Mignola   Patrick,1,1
+Toutut-Picard   Élisabeth,Roseren   Xavier,1,1
+Toutut-Picard   Élisabeth,Kuster   Brigitte,1,1
+Toutut-Picard   Élisabeth,Luquet   Aude,1,1
+Toutut-Picard   Élisabeth,Rossi   Laurianne,1,1
+Toutut-Picard   Élisabeth,Lemoine   Patricia,1,1
+Toutut-Picard   Élisabeth,Peyron   Michèle,1,1
+Toutut-Picard   Élisabeth,Florennes   Isabelle,1,1
+Toutut-Picard   Élisabeth,Calvez   Céline,1,1
+Toutut-Picard   Élisabeth,Lebec   Marie,1,1
+Toutut-Picard   Élisabeth,Faucillon   Elsa,1,1
+Toutut-Picard   Élisabeth,de Vaucouleurs   Michèle,1,1
+Toutut-Picard   Élisabeth,Millienne   Bruno,1,1
+Toutut-Picard   Élisabeth,Bergé   Aurore,1,1
+Toutut-Picard   Élisabeth,Granjus   Florence,1,1
+Toutut-Picard   Élisabeth,Vidal   Annie,1,1
+Toutut-Picard   Élisabeth,Sylla   Sira,1,1
+Toutut-Picard   Élisabeth,Fiévet   Jean-Marie,1,1
+Toutut-Picard   Élisabeth,Fugit   Jean-Luc,1,1
+Toutut-Picard   Élisabeth,Rebeyrotte   Rémy,1,1
+Ménard   Emmanuelle,Eliaou   Jean-François,1,1
+Ménard   Emmanuelle,Cloarec-Le Nabour   Christine,1,1
+Ménard   Emmanuelle,Démoulin   Nicolas,1,1
+Ménard   Emmanuelle,Limon   Monique,1,1
+Ménard   Emmanuelle,Jacquier-Laforge   Élodie,1,1
+Ménard   Emmanuelle,Lainé   Fabien,1,1
+Ménard   Emmanuelle,Causse   Lionel,1,1
+Ménard   Emmanuelle,Borowczyk   Julien,1,1
+Ménard   Emmanuelle,Lauzzana   Michel,1,1
+Ménard   Emmanuelle,Dufeu   Audrey,1,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,1,1
+Ménard   Emmanuelle,Bolo   Philippe,1,1
+Ménard   Emmanuelle,Sorre   Bertrand,1,1
+Ménard   Emmanuelle,Bannier   Géraldine,1,1
+Ménard   Emmanuelle,Pahun   Jimmy,1,1
+Ménard   Emmanuelle,Le Peih   Nicole,1,1
+Ménard   Emmanuelle,Jacques   Jean-Michel,1,1
+Ménard   Emmanuelle,Trisse   Nicole,1,1
+Ménard   Emmanuelle,Perrot   Patrice,1,1
+Ménard   Emmanuelle,Cattelot   Anne-Laure,1,1
+Ménard   Emmanuelle,Potterie   Benoit,1,1
+Ménard   Emmanuelle,Duvergé   Bruno,1,1
+Ménard   Emmanuelle,Descamps   Béatrice,1,1
+Ménard   Emmanuelle,Michels   Thierry,1,1
+Ménard   Emmanuelle,Lasserre   Florence,1,1
+Ménard   Emmanuelle,Testé   Stéphane,1,1
+Ménard   Emmanuelle,Descrozaille   Frédéric,1,1
+Ménard   Emmanuelle,Lazaar   Fiona,1,1
+Ménard   Emmanuelle,Benin   Justine,1,1
+Ménard   Emmanuelle,Genetet   Anne,1,1
+Ménard   Emmanuelle,Corbière   Alexis,1,1
+Ménard   Emmanuelle,Gouffier-Cha   Guillaume,1,1
+Ménard   Emmanuelle,Schellenberger   Raphaël,1,1
+Ménard   Emmanuelle,Mignola   Patrick,1,1
+Ménard   Emmanuelle,Roseren   Xavier,1,1
+Ménard   Emmanuelle,Kuster   Brigitte,1,1
+Ménard   Emmanuelle,Luquet   Aude,1,1
+Ménard   Emmanuelle,Rossi   Laurianne,1,1
+Ménard   Emmanuelle,Lemoine   Patricia,1,1
+Ménard   Emmanuelle,Peyron   Michèle,1,1
+Ménard   Emmanuelle,Florennes   Isabelle,1,1
+Ménard   Emmanuelle,Calvez   Céline,1,1
+Ménard   Emmanuelle,Lebec   Marie,1,1
+Ménard   Emmanuelle,Faucillon   Elsa,1,1
+Ménard   Emmanuelle,de Vaucouleurs   Michèle,1,1
+Ménard   Emmanuelle,Millienne   Bruno,1,1
+Ménard   Emmanuelle,Bergé   Aurore,1,1
+Ménard   Emmanuelle,Granjus   Florence,1,1
+Ménard   Emmanuelle,Vidal   Annie,1,1
+Ménard   Emmanuelle,Sylla   Sira,1,1
+Ménard   Emmanuelle,Fiévet   Jean-Marie,1,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Rebeyrotte   Rémy,1,1
+Eliaou   Jean-François,Cloarec-Le Nabour   Christine,1,1
+Eliaou   Jean-François,Démoulin   Nicolas,1,1
+Eliaou   Jean-François,Limon   Monique,1,1
+Eliaou   Jean-François,Jacquier-Laforge   Élodie,1,1
+Eliaou   Jean-François,Lainé   Fabien,1,1
+Eliaou   Jean-François,Causse   Lionel,1,1
+Eliaou   Jean-François,Borowczyk   Julien,1,1
+Eliaou   Jean-François,Lauzzana   Michel,1,1
+Eliaou   Jean-François,Dufeu   Audrey,1,1
+Eliaou   Jean-François,Dubré-Chirat   Nicole,1,1
+Eliaou   Jean-François,Bolo   Philippe,1,1
+Eliaou   Jean-François,Sorre   Bertrand,1,1
+Eliaou   Jean-François,Bannier   Géraldine,1,1
+Eliaou   Jean-François,Pahun   Jimmy,1,1
+Eliaou   Jean-François,Le Peih   Nicole,1,1
+Eliaou   Jean-François,Jacques   Jean-Michel,1,1
+Eliaou   Jean-François,Trisse   Nicole,1,1
+Eliaou   Jean-François,Perrot   Patrice,1,1
+Eliaou   Jean-François,Cattelot   Anne-Laure,1,1
+Eliaou   Jean-François,Potterie   Benoit,1,1
+Eliaou   Jean-François,Duvergé   Bruno,1,1
+Eliaou   Jean-François,Descamps   Béatrice,1,1
+Eliaou   Jean-François,Michels   Thierry,1,1
+Eliaou   Jean-François,Lasserre   Florence,1,1
+Eliaou   Jean-François,Testé   Stéphane,1,1
+Eliaou   Jean-François,Descrozaille   Frédéric,1,1
+Eliaou   Jean-François,Lazaar   Fiona,1,1
+Eliaou   Jean-François,Benin   Justine,1,1
+Eliaou   Jean-François,Genetet   Anne,1,1
+Eliaou   Jean-François,Corbière   Alexis,1,1
+Eliaou   Jean-François,Gouffier-Cha   Guillaume,1,1
+Eliaou   Jean-François,Schellenberger   Raphaël,1,1
+Eliaou   Jean-François,Mignola   Patrick,1,1
+Eliaou   Jean-François,Roseren   Xavier,1,1
+Eliaou   Jean-François,Kuster   Brigitte,1,1
+Eliaou   Jean-François,Luquet   Aude,1,1
+Eliaou   Jean-François,Rossi   Laurianne,1,1
+Eliaou   Jean-François,Lemoine   Patricia,1,1
+Eliaou   Jean-François,Peyron   Michèle,1,1
+Eliaou   Jean-François,Florennes   Isabelle,1,1
+Eliaou   Jean-François,Calvez   Céline,1,1
+Eliaou   Jean-François,Lebec   Marie,1,1
+Eliaou   Jean-François,Faucillon   Elsa,1,1
+Eliaou   Jean-François,de Vaucouleurs   Michèle,1,1
+Eliaou   Jean-François,Millienne   Bruno,1,1
+Eliaou   Jean-François,Bergé   Aurore,1,1
+Eliaou   Jean-François,Granjus   Florence,1,1
+Eliaou   Jean-François,Vidal   Annie,1,1
+Eliaou   Jean-François,Sylla   Sira,1,1
+Eliaou   Jean-François,Fiévet   Jean-Marie,1,1
+Eliaou   Jean-François,Fugit   Jean-Luc,1,1
+Eliaou   Jean-François,Rebeyrotte   Rémy,1,1
+Cloarec-Le Nabour   Christine,Démoulin   Nicolas,1,1
+Cloarec-Le Nabour   Christine,Limon   Monique,1,1
+Cloarec-Le Nabour   Christine,Jacquier-Laforge   Élodie,1,1
+Cloarec-Le Nabour   Christine,Lainé   Fabien,1,1
+Cloarec-Le Nabour   Christine,Causse   Lionel,1,1
+Cloarec-Le Nabour   Christine,Borowczyk   Julien,1,1
+Cloarec-Le Nabour   Christine,Lauzzana   Michel,1,1
+Cloarec-Le Nabour   Christine,Dufeu   Audrey,1,1
+Cloarec-Le Nabour   Christine,Dubré-Chirat   Nicole,1,1
+Cloarec-Le Nabour   Christine,Bolo   Philippe,1,1
+Cloarec-Le Nabour   Christine,Sorre   Bertrand,1,1
+Cloarec-Le Nabour   Christine,Bannier   Géraldine,1,1
+Cloarec-Le Nabour   Christine,Pahun   Jimmy,1,1
+Cloarec-Le Nabour   Christine,Le Peih   Nicole,1,1
+Cloarec-Le Nabour   Christine,Jacques   Jean-Michel,1,1
+Cloarec-Le Nabour   Christine,Trisse   Nicole,1,1
+Cloarec-Le Nabour   Christine,Perrot   Patrice,1,1
+Cloarec-Le Nabour   Christine,Cattelot   Anne-Laure,1,1
+Cloarec-Le Nabour   Christine,Potterie   Benoit,1,1
+Cloarec-Le Nabour   Christine,Duvergé   Bruno,1,1
+Cloarec-Le Nabour   Christine,Descamps   Béatrice,1,1
+Cloarec-Le Nabour   Christine,Michels   Thierry,1,1
+Cloarec-Le Nabour   Christine,Lasserre   Florence,1,1
+Cloarec-Le Nabour   Christine,Testé   Stéphane,1,1
+Cloarec-Le Nabour   Christine,Descrozaille   Frédéric,1,1
+Cloarec-Le Nabour   Christine,Lazaar   Fiona,1,1
+Cloarec-Le Nabour   Christine,Benin   Justine,1,1
+Cloarec-Le Nabour   Christine,Genetet   Anne,1,1
+Cloarec-Le Nabour   Christine,Corbière   Alexis,1,1
+Cloarec-Le Nabour   Christine,Gouffier-Cha   Guillaume,1,1
+Cloarec-Le Nabour   Christine,Schellenberger   Raphaël,1,1
+Cloarec-Le Nabour   Christine,Mignola   Patrick,1,1
+Cloarec-Le Nabour   Christine,Roseren   Xavier,1,1
+Cloarec-Le Nabour   Christine,Kuster   Brigitte,1,1
+Cloarec-Le Nabour   Christine,Luquet   Aude,1,1
+Cloarec-Le Nabour   Christine,Rossi   Laurianne,1,1
+Cloarec-Le Nabour   Christine,Lemoine   Patricia,1,1
+Cloarec-Le Nabour   Christine,Peyron   Michèle,1,1
+Cloarec-Le Nabour   Christine,Florennes   Isabelle,1,1
+Cloarec-Le Nabour   Christine,Calvez   Céline,1,1
+Cloarec-Le Nabour   Christine,Lebec   Marie,1,1
+Cloarec-Le Nabour   Christine,Faucillon   Elsa,1,1
+Cloarec-Le Nabour   Christine,de Vaucouleurs   Michèle,1,1
+Cloarec-Le Nabour   Christine,Millienne   Bruno,1,1
+Cloarec-Le Nabour   Christine,Bergé   Aurore,1,1
+Cloarec-Le Nabour   Christine,Granjus   Florence,1,1
+Cloarec-Le Nabour   Christine,Vidal   Annie,1,1
+Cloarec-Le Nabour   Christine,Sylla   Sira,1,1
+Cloarec-Le Nabour   Christine,Fiévet   Jean-Marie,1,1
+Cloarec-Le Nabour   Christine,Fugit   Jean-Luc,1,1
+Cloarec-Le Nabour   Christine,Rebeyrotte   Rémy,1,1
+Démoulin   Nicolas,Limon   Monique,1,1
+Démoulin   Nicolas,Jacquier-Laforge   Élodie,1,1
+Démoulin   Nicolas,Lainé   Fabien,1,1
+Démoulin   Nicolas,Causse   Lionel,1,1
+Démoulin   Nicolas,Borowczyk   Julien,1,1
+Démoulin   Nicolas,Lauzzana   Michel,1,1
+Démoulin   Nicolas,Dufeu   Audrey,1,1
+Démoulin   Nicolas,Dubré-Chirat   Nicole,1,1
+Démoulin   Nicolas,Bolo   Philippe,1,1
+Démoulin   Nicolas,Sorre   Bertrand,1,1
+Démoulin   Nicolas,Bannier   Géraldine,1,1
+Démoulin   Nicolas,Pahun   Jimmy,1,1
+Démoulin   Nicolas,Le Peih   Nicole,1,1
+Démoulin   Nicolas,Jacques   Jean-Michel,1,1
+Démoulin   Nicolas,Trisse   Nicole,1,1
+Démoulin   Nicolas,Perrot   Patrice,1,1
+Démoulin   Nicolas,Cattelot   Anne-Laure,1,1
+Démoulin   Nicolas,Potterie   Benoit,1,1
+Démoulin   Nicolas,Duvergé   Bruno,1,1
+Démoulin   Nicolas,Descamps   Béatrice,1,1
+Démoulin   Nicolas,Michels   Thierry,1,1
+Démoulin   Nicolas,Lasserre   Florence,1,1
+Démoulin   Nicolas,Testé   Stéphane,1,1
+Démoulin   Nicolas,Descrozaille   Frédéric,1,1
+Démoulin   Nicolas,Lazaar   Fiona,1,1
+Démoulin   Nicolas,Benin   Justine,1,1
+Démoulin   Nicolas,Genetet   Anne,1,1
+Démoulin   Nicolas,Corbière   Alexis,1,1
+Démoulin   Nicolas,Gouffier-Cha   Guillaume,1,1
+Démoulin   Nicolas,Schellenberger   Raphaël,1,1
+Démoulin   Nicolas,Mignola   Patrick,1,1
+Démoulin   Nicolas,Roseren   Xavier,1,1
+Démoulin   Nicolas,Kuster   Brigitte,1,1
+Démoulin   Nicolas,Luquet   Aude,1,1
+Démoulin   Nicolas,Rossi   Laurianne,1,1
+Démoulin   Nicolas,Lemoine   Patricia,1,1
+Démoulin   Nicolas,Peyron   Michèle,1,1
+Démoulin   Nicolas,Florennes   Isabelle,1,1
+Démoulin   Nicolas,Calvez   Céline,1,1
+Démoulin   Nicolas,Lebec   Marie,1,1
+Démoulin   Nicolas,Faucillon   Elsa,1,1
+Démoulin   Nicolas,de Vaucouleurs   Michèle,1,1
+Démoulin   Nicolas,Millienne   Bruno,1,1
+Démoulin   Nicolas,Bergé   Aurore,1,1
+Démoulin   Nicolas,Granjus   Florence,1,1
+Démoulin   Nicolas,Vidal   Annie,1,1
+Démoulin   Nicolas,Sylla   Sira,1,1
+Démoulin   Nicolas,Fiévet   Jean-Marie,1,1
+Démoulin   Nicolas,Fugit   Jean-Luc,1,1
+Démoulin   Nicolas,Rebeyrotte   Rémy,1,1
+Limon   Monique,Jacquier-Laforge   Élodie,1,1
+Limon   Monique,Lainé   Fabien,1,1
+Limon   Monique,Causse   Lionel,1,1
+Limon   Monique,Borowczyk   Julien,1,1
+Limon   Monique,Lauzzana   Michel,1,1
+Limon   Monique,Dufeu   Audrey,1,1
+Limon   Monique,Dubré-Chirat   Nicole,1,1
+Limon   Monique,Bolo   Philippe,1,1
+Limon   Monique,Sorre   Bertrand,1,1
+Limon   Monique,Bannier   Géraldine,1,1
+Limon   Monique,Pahun   Jimmy,1,1
+Limon   Monique,Le Peih   Nicole,1,1
+Limon   Monique,Jacques   Jean-Michel,1,1
+Limon   Monique,Trisse   Nicole,1,1
+Limon   Monique,Perrot   Patrice,1,1
+Limon   Monique,Cattelot   Anne-Laure,1,1
+Limon   Monique,Potterie   Benoit,1,1
+Limon   Monique,Duvergé   Bruno,1,1
+Limon   Monique,Descamps   Béatrice,1,1
+Limon   Monique,Michels   Thierry,1,1
+Limon   Monique,Lasserre   Florence,1,1
+Limon   Monique,Testé   Stéphane,1,1
+Limon   Monique,Descrozaille   Frédéric,1,1
+Limon   Monique,Lazaar   Fiona,1,1
+Limon   Monique,Benin   Justine,1,1
+Limon   Monique,Genetet   Anne,1,1
+Limon   Monique,Corbière   Alexis,1,1
+Limon   Monique,Gouffier-Cha   Guillaume,1,1
+Limon   Monique,Schellenberger   Raphaël,1,1
+Limon   Monique,Mignola   Patrick,1,1
+Limon   Monique,Roseren   Xavier,1,1
+Limon   Monique,Kuster   Brigitte,1,1
+Limon   Monique,Luquet   Aude,1,1
+Limon   Monique,Rossi   Laurianne,1,1
+Limon   Monique,Lemoine   Patricia,1,1
+Limon   Monique,Peyron   Michèle,1,1
+Limon   Monique,Florennes   Isabelle,1,1
+Limon   Monique,Calvez   Céline,1,1
+Limon   Monique,Lebec   Marie,1,1
+Limon   Monique,Faucillon   Elsa,1,1
+Limon   Monique,de Vaucouleurs   Michèle,1,1
+Limon   Monique,Millienne   Bruno,1,1
+Limon   Monique,Bergé   Aurore,1,1
+Limon   Monique,Granjus   Florence,1,1
+Limon   Monique,Vidal   Annie,1,1
+Limon   Monique,Sylla   Sira,1,1
+Limon   Monique,Fiévet   Jean-Marie,1,1
+Limon   Monique,Fugit   Jean-Luc,1,1
+Limon   Monique,Rebeyrotte   Rémy,1,1
+Jacquier-Laforge   Élodie,Lainé   Fabien,1,1
+Jacquier-Laforge   Élodie,Causse   Lionel,1,1
+Jacquier-Laforge   Élodie,Borowczyk   Julien,1,1
+Jacquier-Laforge   Élodie,Lauzzana   Michel,1,1
+Jacquier-Laforge   Élodie,Dufeu   Audrey,1,1
+Jacquier-Laforge   Élodie,Dubré-Chirat   Nicole,1,1
+Jacquier-Laforge   Élodie,Bolo   Philippe,1,1
+Jacquier-Laforge   Élodie,Sorre   Bertrand,1,1
+Jacquier-Laforge   Élodie,Bannier   Géraldine,1,1
+Jacquier-Laforge   Élodie,Pahun   Jimmy,1,1
+Jacquier-Laforge   Élodie,Le Peih   Nicole,1,1
+Jacquier-Laforge   Élodie,Jacques   Jean-Michel,1,1
+Jacquier-Laforge   Élodie,Trisse   Nicole,1,1
+Jacquier-Laforge   Élodie,Perrot   Patrice,1,1
+Jacquier-Laforge   Élodie,Cattelot   Anne-Laure,1,1
+Jacquier-Laforge   Élodie,Potterie   Benoit,1,1
+Jacquier-Laforge   Élodie,Duvergé   Bruno,1,1
+Jacquier-Laforge   Élodie,Descamps   Béatrice,1,1
+Jacquier-Laforge   Élodie,Michels   Thierry,1,1
+Jacquier-Laforge   Élodie,Lasserre   Florence,1,1
+Jacquier-Laforge   Élodie,Testé   Stéphane,1,1
+Jacquier-Laforge   Élodie,Descrozaille   Frédéric,1,1
+Jacquier-Laforge   Élodie,Lazaar   Fiona,1,1
+Jacquier-Laforge   Élodie,Benin   Justine,1,1
+Jacquier-Laforge   Élodie,Genetet   Anne,1,1
+Jacquier-Laforge   Élodie,Corbière   Alexis,1,1
+Jacquier-Laforge   Élodie,Gouffier-Cha   Guillaume,1,1
+Jacquier-Laforge   Élodie,Schellenberger   Raphaël,1,1
+Jacquier-Laforge   Élodie,Mignola   Patrick,1,1
+Jacquier-Laforge   Élodie,Roseren   Xavier,1,1
+Jacquier-Laforge   Élodie,Kuster   Brigitte,1,1
+Jacquier-Laforge   Élodie,Luquet   Aude,1,1
+Jacquier-Laforge   Élodie,Rossi   Laurianne,1,1
+Jacquier-Laforge   Élodie,Lemoine   Patricia,1,1
+Jacquier-Laforge   Élodie,Peyron   Michèle,1,1
+Jacquier-Laforge   Élodie,Florennes   Isabelle,1,1
+Jacquier-Laforge   Élodie,Calvez   Céline,1,1
+Jacquier-Laforge   Élodie,Lebec   Marie,1,1
+Jacquier-Laforge   Élodie,Faucillon   Elsa,1,1
+Jacquier-Laforge   Élodie,de Vaucouleurs   Michèle,1,1
+Jacquier-Laforge   Élodie,Millienne   Bruno,1,1
+Jacquier-Laforge   Élodie,Bergé   Aurore,1,1
+Jacquier-Laforge   Élodie,Granjus   Florence,1,1
+Jacquier-Laforge   Élodie,Vidal   Annie,1,1
+Jacquier-Laforge   Élodie,Sylla   Sira,1,1
+Jacquier-Laforge   Élodie,Fiévet   Jean-Marie,1,1
+Jacquier-Laforge   Élodie,Fugit   Jean-Luc,1,1
+Jacquier-Laforge   Élodie,Rebeyrotte   Rémy,1,1
+Lainé   Fabien,Causse   Lionel,1,1
+Lainé   Fabien,Borowczyk   Julien,1,1
+Lainé   Fabien,Lauzzana   Michel,1,1
+Lainé   Fabien,Dufeu   Audrey,1,1
+Lainé   Fabien,Dubré-Chirat   Nicole,1,1
+Lainé   Fabien,Bolo   Philippe,1,1
+Lainé   Fabien,Sorre   Bertrand,1,1
+Lainé   Fabien,Bannier   Géraldine,1,1
+Lainé   Fabien,Pahun   Jimmy,1,1
+Lainé   Fabien,Le Peih   Nicole,1,1
+Lainé   Fabien,Jacques   Jean-Michel,1,1
+Lainé   Fabien,Trisse   Nicole,1,1
+Lainé   Fabien,Perrot   Patrice,1,1
+Lainé   Fabien,Cattelot   Anne-Laure,1,1
+Lainé   Fabien,Potterie   Benoit,1,1
+Lainé   Fabien,Duvergé   Bruno,1,1
+Lainé   Fabien,Descamps   Béatrice,1,1
+Lainé   Fabien,Michels   Thierry,1,1
+Lainé   Fabien,Lasserre   Florence,1,1
+Lainé   Fabien,Testé   Stéphane,1,1
+Lainé   Fabien,Descrozaille   Frédéric,1,1
+Lainé   Fabien,Lazaar   Fiona,1,1
+Lainé   Fabien,Benin   Justine,1,1
+Lainé   Fabien,Genetet   Anne,1,1
+Lainé   Fabien,Corbière   Alexis,1,1
+Lainé   Fabien,Gouffier-Cha   Guillaume,1,1
+Lainé   Fabien,Schellenberger   Raphaël,1,1
+Lainé   Fabien,Mignola   Patrick,1,1
+Lainé   Fabien,Roseren   Xavier,1,1
+Lainé   Fabien,Kuster   Brigitte,1,1
+Lainé   Fabien,Luquet   Aude,1,1
+Lainé   Fabien,Rossi   Laurianne,1,1
+Lainé   Fabien,Lemoine   Patricia,1,1
+Lainé   Fabien,Peyron   Michèle,1,1
+Lainé   Fabien,Florennes   Isabelle,1,1
+Lainé   Fabien,Calvez   Céline,1,1
+Lainé   Fabien,Lebec   Marie,1,1
+Lainé   Fabien,Faucillon   Elsa,1,1
+Lainé   Fabien,de Vaucouleurs   Michèle,1,1
+Lainé   Fabien,Millienne   Bruno,1,1
+Lainé   Fabien,Bergé   Aurore,1,1
+Lainé   Fabien,Granjus   Florence,1,1
+Lainé   Fabien,Vidal   Annie,1,1
+Lainé   Fabien,Sylla   Sira,1,1
+Lainé   Fabien,Fiévet   Jean-Marie,1,1
+Lainé   Fabien,Fugit   Jean-Luc,1,1
+Lainé   Fabien,Rebeyrotte   Rémy,1,1
+Causse   Lionel,Borowczyk   Julien,1,1
+Causse   Lionel,Lauzzana   Michel,1,1
+Causse   Lionel,Dufeu   Audrey,1,1
+Causse   Lionel,Dubré-Chirat   Nicole,1,1
+Causse   Lionel,Bolo   Philippe,1,1
+Causse   Lionel,Sorre   Bertrand,1,1
+Causse   Lionel,Bannier   Géraldine,1,1
+Causse   Lionel,Pahun   Jimmy,1,1
+Causse   Lionel,Le Peih   Nicole,1,1
+Causse   Lionel,Jacques   Jean-Michel,1,1
+Causse   Lionel,Trisse   Nicole,1,1
+Causse   Lionel,Perrot   Patrice,1,1
+Causse   Lionel,Cattelot   Anne-Laure,1,1
+Causse   Lionel,Potterie   Benoit,1,1
+Causse   Lionel,Duvergé   Bruno,1,1
+Causse   Lionel,Descamps   Béatrice,1,1
+Causse   Lionel,Michels   Thierry,1,1
+Causse   Lionel,Lasserre   Florence,1,1
+Causse   Lionel,Testé   Stéphane,1,1
+Causse   Lionel,Descrozaille   Frédéric,1,1
+Causse   Lionel,Lazaar   Fiona,1,1
+Causse   Lionel,Benin   Justine,1,1
+Causse   Lionel,Genetet   Anne,1,1
+Causse   Lionel,Corbière   Alexis,1,1
+Causse   Lionel,Gouffier-Cha   Guillaume,1,1
+Causse   Lionel,Schellenberger   Raphaël,1,1
+Causse   Lionel,Mignola   Patrick,1,1
+Causse   Lionel,Roseren   Xavier,1,1
+Causse   Lionel,Kuster   Brigitte,1,1
+Causse   Lionel,Luquet   Aude,1,1
+Causse   Lionel,Rossi   Laurianne,1,1
+Causse   Lionel,Lemoine   Patricia,1,1
+Causse   Lionel,Peyron   Michèle,1,1
+Causse   Lionel,Florennes   Isabelle,1,1
+Causse   Lionel,Calvez   Céline,1,1
+Causse   Lionel,Lebec   Marie,1,1
+Causse   Lionel,Faucillon   Elsa,1,1
+Causse   Lionel,de Vaucouleurs   Michèle,1,1
+Causse   Lionel,Millienne   Bruno,1,1
+Causse   Lionel,Bergé   Aurore,1,1
+Causse   Lionel,Granjus   Florence,1,1
+Causse   Lionel,Vidal   Annie,1,1
+Causse   Lionel,Sylla   Sira,1,1
+Causse   Lionel,Fiévet   Jean-Marie,1,1
+Causse   Lionel,Fugit   Jean-Luc,1,1
+Causse   Lionel,Rebeyrotte   Rémy,1,1
+Borowczyk   Julien,Lauzzana   Michel,1,1
+Borowczyk   Julien,Dufeu   Audrey,1,1
+Borowczyk   Julien,Dubré-Chirat   Nicole,1,1
+Borowczyk   Julien,Bolo   Philippe,1,1
+Borowczyk   Julien,Sorre   Bertrand,1,1
+Borowczyk   Julien,Bannier   Géraldine,1,1
+Borowczyk   Julien,Pahun   Jimmy,1,1
+Borowczyk   Julien,Le Peih   Nicole,1,1
+Borowczyk   Julien,Jacques   Jean-Michel,1,1
+Borowczyk   Julien,Trisse   Nicole,1,1
+Borowczyk   Julien,Perrot   Patrice,1,1
+Borowczyk   Julien,Cattelot   Anne-Laure,1,1
+Borowczyk   Julien,Potterie   Benoit,1,1
+Borowczyk   Julien,Duvergé   Bruno,1,1
+Borowczyk   Julien,Descamps   Béatrice,1,1
+Borowczyk   Julien,Michels   Thierry,1,1
+Borowczyk   Julien,Lasserre   Florence,1,1
+Borowczyk   Julien,Testé   Stéphane,1,1
+Borowczyk   Julien,Descrozaille   Frédéric,1,1
+Borowczyk   Julien,Lazaar   Fiona,1,1
+Borowczyk   Julien,Benin   Justine,1,1
+Borowczyk   Julien,Genetet   Anne,1,1
+Borowczyk   Julien,Corbière   Alexis,1,1
+Borowczyk   Julien,Gouffier-Cha   Guillaume,1,1
+Borowczyk   Julien,Schellenberger   Raphaël,1,1
+Borowczyk   Julien,Mignola   Patrick,1,1
+Borowczyk   Julien,Roseren   Xavier,1,1
+Borowczyk   Julien,Kuster   Brigitte,1,1
+Borowczyk   Julien,Luquet   Aude,1,1
+Borowczyk   Julien,Rossi   Laurianne,1,1
+Borowczyk   Julien,Lemoine   Patricia,1,1
+Borowczyk   Julien,Peyron   Michèle,1,1
+Borowczyk   Julien,Florennes   Isabelle,1,1
+Borowczyk   Julien,Calvez   Céline,1,1
+Borowczyk   Julien,Lebec   Marie,1,1
+Borowczyk   Julien,Faucillon   Elsa,1,1
+Borowczyk   Julien,de Vaucouleurs   Michèle,1,1
+Borowczyk   Julien,Millienne   Bruno,1,1
+Borowczyk   Julien,Bergé   Aurore,1,1
+Borowczyk   Julien,Granjus   Florence,1,1
+Borowczyk   Julien,Vidal   Annie,1,1
+Borowczyk   Julien,Sylla   Sira,1,1
+Borowczyk   Julien,Fiévet   Jean-Marie,1,1
+Borowczyk   Julien,Fugit   Jean-Luc,1,1
+Borowczyk   Julien,Rebeyrotte   Rémy,1,1
+Lauzzana   Michel,Dufeu   Audrey,1,1
+Lauzzana   Michel,Dubré-Chirat   Nicole,1,1
+Lauzzana   Michel,Bolo   Philippe,1,1
+Lauzzana   Michel,Sorre   Bertrand,1,1
+Lauzzana   Michel,Bannier   Géraldine,1,1
+Lauzzana   Michel,Pahun   Jimmy,1,1
+Lauzzana   Michel,Le Peih   Nicole,1,1
+Lauzzana   Michel,Jacques   Jean-Michel,1,1
+Lauzzana   Michel,Trisse   Nicole,1,1
+Lauzzana   Michel,Perrot   Patrice,1,1
+Lauzzana   Michel,Cattelot   Anne-Laure,1,1
+Lauzzana   Michel,Potterie   Benoit,1,1
+Lauzzana   Michel,Duvergé   Bruno,1,1
+Lauzzana   Michel,Descamps   Béatrice,1,1
+Lauzzana   Michel,Michels   Thierry,1,1
+Lauzzana   Michel,Lasserre   Florence,1,1
+Lauzzana   Michel,Testé   Stéphane,1,1
+Lauzzana   Michel,Descrozaille   Frédéric,1,1
+Lauzzana   Michel,Lazaar   Fiona,1,1
+Lauzzana   Michel,Benin   Justine,1,1
+Lauzzana   Michel,Genetet   Anne,1,1
+Lauzzana   Michel,Corbière   Alexis,1,1
+Lauzzana   Michel,Gouffier-Cha   Guillaume,1,1
+Lauzzana   Michel,Schellenberger   Raphaël,1,1
+Lauzzana   Michel,Mignola   Patrick,1,1
+Lauzzana   Michel,Roseren   Xavier,1,1
+Lauzzana   Michel,Kuster   Brigitte,1,1
+Lauzzana   Michel,Luquet   Aude,1,1
+Lauzzana   Michel,Rossi   Laurianne,1,1
+Lauzzana   Michel,Lemoine   Patricia,1,1
+Lauzzana   Michel,Peyron   Michèle,1,1
+Lauzzana   Michel,Florennes   Isabelle,1,1
+Lauzzana   Michel,Calvez   Céline,1,1
+Lauzzana   Michel,Lebec   Marie,1,1
+Lauzzana   Michel,Faucillon   Elsa,1,1
+Lauzzana   Michel,de Vaucouleurs   Michèle,1,1
+Lauzzana   Michel,Millienne   Bruno,1,1
+Lauzzana   Michel,Bergé   Aurore,1,1
+Lauzzana   Michel,Granjus   Florence,1,1
+Lauzzana   Michel,Vidal   Annie,1,1
+Lauzzana   Michel,Sylla   Sira,1,1
+Lauzzana   Michel,Fiévet   Jean-Marie,1,1
+Lauzzana   Michel,Fugit   Jean-Luc,1,1
+Lauzzana   Michel,Rebeyrotte   Rémy,1,1
+Dufeu   Audrey,Dubré-Chirat   Nicole,1,1
+Dufeu   Audrey,Bolo   Philippe,1,1
+Dufeu   Audrey,Sorre   Bertrand,1,1
+Dufeu   Audrey,Bannier   Géraldine,1,1
+Dufeu   Audrey,Pahun   Jimmy,1,1
+Dufeu   Audrey,Le Peih   Nicole,1,1
+Dufeu   Audrey,Jacques   Jean-Michel,1,1
+Dufeu   Audrey,Trisse   Nicole,1,1
+Dufeu   Audrey,Perrot   Patrice,1,1
+Dufeu   Audrey,Cattelot   Anne-Laure,1,1
+Dufeu   Audrey,Potterie   Benoit,1,1
+Dufeu   Audrey,Duvergé   Bruno,1,1
+Dufeu   Audrey,Descamps   Béatrice,1,1
+Dufeu   Audrey,Michels   Thierry,1,1
+Dufeu   Audrey,Lasserre   Florence,1,1
+Dufeu   Audrey,Testé   Stéphane,1,1
+Dufeu   Audrey,Descrozaille   Frédéric,1,1
+Dufeu   Audrey,Lazaar   Fiona,1,1
+Dufeu   Audrey,Benin   Justine,1,1
+Dufeu   Audrey,Genetet   Anne,1,1
+Dufeu   Audrey,Corbière   Alexis,1,1
+Dufeu   Audrey,Gouffier-Cha   Guillaume,1,1
+Dufeu   Audrey,Schellenberger   Raphaël,1,1
+Dufeu   Audrey,Mignola   Patrick,1,1
+Dufeu   Audrey,Roseren   Xavier,1,1
+Dufeu   Audrey,Kuster   Brigitte,1,1
+Dufeu   Audrey,Luquet   Aude,1,1
+Dufeu   Audrey,Rossi   Laurianne,1,1
+Dufeu   Audrey,Lemoine   Patricia,1,1
+Dufeu   Audrey,Peyron   Michèle,1,1
+Dufeu   Audrey,Florennes   Isabelle,1,1
+Dufeu   Audrey,Calvez   Céline,1,1
+Dufeu   Audrey,Lebec   Marie,1,1
+Dufeu   Audrey,Faucillon   Elsa,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,1,1
+Dufeu   Audrey,Millienne   Bruno,1,1
+Dufeu   Audrey,Bergé   Aurore,1,1
+Dufeu   Audrey,Granjus   Florence,1,1
+Dufeu   Audrey,Vidal   Annie,1,1
+Dufeu   Audrey,Sylla   Sira,1,1
+Dufeu   Audrey,Fiévet   Jean-Marie,1,1
+Dufeu   Audrey,Fugit   Jean-Luc,1,1
+Dufeu   Audrey,Rebeyrotte   Rémy,1,1
+Dubré-Chirat   Nicole,Bolo   Philippe,1,1
+Dubré-Chirat   Nicole,Sorre   Bertrand,1,1
+Dubré-Chirat   Nicole,Bannier   Géraldine,1,1
+Dubré-Chirat   Nicole,Pahun   Jimmy,1,1
+Dubré-Chirat   Nicole,Le Peih   Nicole,1,1
+Dubré-Chirat   Nicole,Jacques   Jean-Michel,1,1
+Dubré-Chirat   Nicole,Trisse   Nicole,1,1
+Dubré-Chirat   Nicole,Perrot   Patrice,1,1
+Dubré-Chirat   Nicole,Cattelot   Anne-Laure,1,1
+Dubré-Chirat   Nicole,Potterie   Benoit,1,1
+Dubré-Chirat   Nicole,Duvergé   Bruno,1,1
+Dubré-Chirat   Nicole,Descamps   Béatrice,1,1
+Dubré-Chirat   Nicole,Michels   Thierry,1,1
+Dubré-Chirat   Nicole,Lasserre   Florence,1,1
+Dubré-Chirat   Nicole,Testé   Stéphane,1,1
+Dubré-Chirat   Nicole,Descrozaille   Frédéric,1,1
+Dubré-Chirat   Nicole,Lazaar   Fiona,1,1
+Dubré-Chirat   Nicole,Benin   Justine,1,1
+Dubré-Chirat   Nicole,Genetet   Anne,1,1
+Dubré-Chirat   Nicole,Corbière   Alexis,1,1
+Dubré-Chirat   Nicole,Gouffier-Cha   Guillaume,1,1
+Dubré-Chirat   Nicole,Schellenberger   Raphaël,1,1
+Dubré-Chirat   Nicole,Mignola   Patrick,1,1
+Dubré-Chirat   Nicole,Roseren   Xavier,1,1
+Dubré-Chirat   Nicole,Kuster   Brigitte,1,1
+Dubré-Chirat   Nicole,Luquet   Aude,1,1
+Dubré-Chirat   Nicole,Rossi   Laurianne,1,1
+Dubré-Chirat   Nicole,Lemoine   Patricia,1,1
+Dubré-Chirat   Nicole,Peyron   Michèle,1,1
+Dubré-Chirat   Nicole,Florennes   Isabelle,1,1
+Dubré-Chirat   Nicole,Calvez   Céline,1,1
+Dubré-Chirat   Nicole,Lebec   Marie,1,1
+Dubré-Chirat   Nicole,Faucillon   Elsa,1,1
+Dubré-Chirat   Nicole,de Vaucouleurs   Michèle,1,1
+Dubré-Chirat   Nicole,Millienne   Bruno,1,1
+Dubré-Chirat   Nicole,Bergé   Aurore,1,1
+Dubré-Chirat   Nicole,Granjus   Florence,1,1
+Dubré-Chirat   Nicole,Vidal   Annie,1,1
+Dubré-Chirat   Nicole,Sylla   Sira,1,1
+Dubré-Chirat   Nicole,Fiévet   Jean-Marie,1,1
+Dubré-Chirat   Nicole,Fugit   Jean-Luc,1,1
+Dubré-Chirat   Nicole,Rebeyrotte   Rémy,1,1
+Bolo   Philippe,Sorre   Bertrand,1,1
+Bolo   Philippe,Bannier   Géraldine,1,1
+Bolo   Philippe,Pahun   Jimmy,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Jacques   Jean-Michel,1,1
+Bolo   Philippe,Trisse   Nicole,1,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Cattelot   Anne-Laure,1,1
+Bolo   Philippe,Potterie   Benoit,1,1
+Bolo   Philippe,Duvergé   Bruno,1,1
+Bolo   Philippe,Descamps   Béatrice,1,1
+Bolo   Philippe,Michels   Thierry,1,1
+Bolo   Philippe,Lasserre   Florence,1,1
+Bolo   Philippe,Testé   Stéphane,1,1
+Bolo   Philippe,Descrozaille   Frédéric,1,1
+Bolo   Philippe,Lazaar   Fiona,1,1
+Bolo   Philippe,Benin   Justine,1,1
+Bolo   Philippe,Genetet   Anne,1,1
+Bolo   Philippe,Corbière   Alexis,1,1
+Bolo   Philippe,Gouffier-Cha   Guillaume,1,1
+Bolo   Philippe,Schellenberger   Raphaël,1,1
+Bolo   Philippe,Mignola   Patrick,1,1
+Bolo   Philippe,Roseren   Xavier,1,1
+Bolo   Philippe,Kuster   Brigitte,1,1
+Bolo   Philippe,Luquet   Aude,1,1
+Bolo   Philippe,Rossi   Laurianne,1,1
+Bolo   Philippe,Lemoine   Patricia,1,1
+Bolo   Philippe,Peyron   Michèle,1,1
+Bolo   Philippe,Florennes   Isabelle,1,1
+Bolo   Philippe,Calvez   Céline,1,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,Faucillon   Elsa,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Millienne   Bruno,1,1
+Bolo   Philippe,Bergé   Aurore,1,1
+Bolo   Philippe,Granjus   Florence,1,1
+Bolo   Philippe,Vidal   Annie,1,1
+Bolo   Philippe,Sylla   Sira,1,1
+Bolo   Philippe,Fiévet   Jean-Marie,1,1
+Bolo   Philippe,Fugit   Jean-Luc,1,1
+Bolo   Philippe,Rebeyrotte   Rémy,1,1
+Sorre   Bertrand,Bannier   Géraldine,1,1
+Sorre   Bertrand,Pahun   Jimmy,1,1
+Sorre   Bertrand,Le Peih   Nicole,1,1
+Sorre   Bertrand,Jacques   Jean-Michel,1,1
+Sorre   Bertrand,Trisse   Nicole,1,1
+Sorre   Bertrand,Perrot   Patrice,1,1
+Sorre   Bertrand,Cattelot   Anne-Laure,1,1
+Sorre   Bertrand,Potterie   Benoit,1,1
+Sorre   Bertrand,Duvergé   Bruno,1,1
+Sorre   Bertrand,Descamps   Béatrice,1,1
+Sorre   Bertrand,Michels   Thierry,1,1
+Sorre   Bertrand,Lasserre   Florence,1,1
+Sorre   Bertrand,Testé   Stéphane,1,1
+Sorre   Bertrand,Descrozaille   Frédéric,1,1
+Sorre   Bertrand,Lazaar   Fiona,1,1
+Sorre   Bertrand,Benin   Justine,1,1
+Sorre   Bertrand,Genetet   Anne,1,1
+Sorre   Bertrand,Corbière   Alexis,1,1
+Sorre   Bertrand,Gouffier-Cha   Guillaume,1,1
+Sorre   Bertrand,Schellenberger   Raphaël,1,1
+Sorre   Bertrand,Mignola   Patrick,1,1
+Sorre   Bertrand,Roseren   Xavier,1,1
+Sorre   Bertrand,Kuster   Brigitte,1,1
+Sorre   Bertrand,Luquet   Aude,1,1
+Sorre   Bertrand,Rossi   Laurianne,1,1
+Sorre   Bertrand,Lemoine   Patricia,1,1
+Sorre   Bertrand,Peyron   Michèle,1,1
+Sorre   Bertrand,Florennes   Isabelle,1,1
+Sorre   Bertrand,Calvez   Céline,1,1
+Sorre   Bertrand,Lebec   Marie,1,1
+Sorre   Bertrand,Faucillon   Elsa,1,1
+Sorre   Bertrand,de Vaucouleurs   Michèle,1,1
+Sorre   Bertrand,Millienne   Bruno,1,1
+Sorre   Bertrand,Bergé   Aurore,1,1
+Sorre   Bertrand,Granjus   Florence,1,1
+Sorre   Bertrand,Vidal   Annie,1,1
+Sorre   Bertrand,Sylla   Sira,1,1
+Sorre   Bertrand,Fiévet   Jean-Marie,1,1
+Sorre   Bertrand,Fugit   Jean-Luc,1,1
+Sorre   Bertrand,Rebeyrotte   Rémy,1,1
+Bannier   Géraldine,Pahun   Jimmy,1,1
+Bannier   Géraldine,Le Peih   Nicole,1,1
+Bannier   Géraldine,Jacques   Jean-Michel,1,1
+Bannier   Géraldine,Trisse   Nicole,1,1
+Bannier   Géraldine,Perrot   Patrice,1,1
+Bannier   Géraldine,Cattelot   Anne-Laure,1,1
+Bannier   Géraldine,Potterie   Benoit,1,1
+Bannier   Géraldine,Duvergé   Bruno,1,1
+Bannier   Géraldine,Descamps   Béatrice,1,1
+Bannier   Géraldine,Michels   Thierry,1,1
+Bannier   Géraldine,Lasserre   Florence,1,1
+Bannier   Géraldine,Testé   Stéphane,1,1
+Bannier   Géraldine,Descrozaille   Frédéric,1,1
+Bannier   Géraldine,Lazaar   Fiona,1,1
+Bannier   Géraldine,Benin   Justine,1,1
+Bannier   Géraldine,Genetet   Anne,1,1
+Bannier   Géraldine,Corbière   Alexis,1,1
+Bannier   Géraldine,Gouffier-Cha   Guillaume,1,1
+Bannier   Géraldine,Schellenberger   Raphaël,1,1
+Bannier   Géraldine,Mignola   Patrick,1,1
+Bannier   Géraldine,Roseren   Xavier,1,1
+Bannier   Géraldine,Kuster   Brigitte,1,1
+Bannier   Géraldine,Luquet   Aude,1,1
+Bannier   Géraldine,Rossi   Laurianne,1,1
+Bannier   Géraldine,Lemoine   Patricia,1,1
+Bannier   Géraldine,Peyron   Michèle,1,1
+Bannier   Géraldine,Florennes   Isabelle,1,1
+Bannier   Géraldine,Calvez   Céline,1,1
+Bannier   Géraldine,Lebec   Marie,1,1
+Bannier   Géraldine,Faucillon   Elsa,1,1
+Bannier   Géraldine,de Vaucouleurs   Michèle,1,1
+Bannier   Géraldine,Millienne   Bruno,1,1
+Bannier   Géraldine,Bergé   Aurore,1,1
+Bannier   Géraldine,Granjus   Florence,1,1
+Bannier   Géraldine,Vidal   Annie,1,1
+Bannier   Géraldine,Sylla   Sira,1,1
+Bannier   Géraldine,Fiévet   Jean-Marie,1,1
+Bannier   Géraldine,Fugit   Jean-Luc,1,1
+Bannier   Géraldine,Rebeyrotte   Rémy,1,1
+Pahun   Jimmy,Le Peih   Nicole,1,1
+Pahun   Jimmy,Jacques   Jean-Michel,1,1
+Pahun   Jimmy,Trisse   Nicole,1,1
+Pahun   Jimmy,Perrot   Patrice,1,1
+Pahun   Jimmy,Cattelot   Anne-Laure,1,1
+Pahun   Jimmy,Potterie   Benoit,1,1
+Pahun   Jimmy,Duvergé   Bruno,1,1
+Pahun   Jimmy,Descamps   Béatrice,1,1
+Pahun   Jimmy,Michels   Thierry,1,1
+Pahun   Jimmy,Lasserre   Florence,1,1
+Pahun   Jimmy,Testé   Stéphane,1,1
+Pahun   Jimmy,Descrozaille   Frédéric,1,1
+Pahun   Jimmy,Lazaar   Fiona,1,1
+Pahun   Jimmy,Benin   Justine,1,1
+Pahun   Jimmy,Genetet   Anne,1,1
+Pahun   Jimmy,Corbière   Alexis,1,1
+Pahun   Jimmy,Gouffier-Cha   Guillaume,1,1
+Pahun   Jimmy,Schellenberger   Raphaël,1,1
+Pahun   Jimmy,Mignola   Patrick,1,1
+Pahun   Jimmy,Roseren   Xavier,1,1
+Pahun   Jimmy,Kuster   Brigitte,1,1
+Pahun   Jimmy,Luquet   Aude,1,1
+Pahun   Jimmy,Rossi   Laurianne,1,1
+Pahun   Jimmy,Lemoine   Patricia,1,1
+Pahun   Jimmy,Peyron   Michèle,1,1
+Pahun   Jimmy,Florennes   Isabelle,1,1
+Pahun   Jimmy,Calvez   Céline,1,1
+Pahun   Jimmy,Lebec   Marie,1,1
+Pahun   Jimmy,Faucillon   Elsa,1,1
+Pahun   Jimmy,de Vaucouleurs   Michèle,1,1
+Pahun   Jimmy,Millienne   Bruno,1,1
+Pahun   Jimmy,Bergé   Aurore,1,1
+Pahun   Jimmy,Granjus   Florence,1,1
+Pahun   Jimmy,Vidal   Annie,1,1
+Pahun   Jimmy,Sylla   Sira,1,1
+Pahun   Jimmy,Fiévet   Jean-Marie,1,1
+Pahun   Jimmy,Fugit   Jean-Luc,1,1
+Pahun   Jimmy,Rebeyrotte   Rémy,1,1
+Le Peih   Nicole,Jacques   Jean-Michel,1,1
+Le Peih   Nicole,Trisse   Nicole,1,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Cattelot   Anne-Laure,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Duvergé   Bruno,1,1
+Le Peih   Nicole,Descamps   Béatrice,1,1
+Le Peih   Nicole,Michels   Thierry,1,1
+Le Peih   Nicole,Lasserre   Florence,1,1
+Le Peih   Nicole,Testé   Stéphane,1,1
+Le Peih   Nicole,Descrozaille   Frédéric,1,1
+Le Peih   Nicole,Lazaar   Fiona,1,1
+Le Peih   Nicole,Benin   Justine,1,1
+Le Peih   Nicole,Genetet   Anne,1,1
+Le Peih   Nicole,Corbière   Alexis,1,1
+Le Peih   Nicole,Gouffier-Cha   Guillaume,1,1
+Le Peih   Nicole,Schellenberger   Raphaël,1,1
+Le Peih   Nicole,Mignola   Patrick,1,1
+Le Peih   Nicole,Roseren   Xavier,1,1
+Le Peih   Nicole,Kuster   Brigitte,1,1
+Le Peih   Nicole,Luquet   Aude,1,1
+Le Peih   Nicole,Rossi   Laurianne,1,1
+Le Peih   Nicole,Lemoine   Patricia,1,1
+Le Peih   Nicole,Peyron   Michèle,1,1
+Le Peih   Nicole,Florennes   Isabelle,1,1
+Le Peih   Nicole,Calvez   Céline,1,1
+Le Peih   Nicole,Lebec   Marie,1,1
+Le Peih   Nicole,Faucillon   Elsa,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Millienne   Bruno,1,1
+Le Peih   Nicole,Bergé   Aurore,1,1
+Le Peih   Nicole,Granjus   Florence,1,1
+Le Peih   Nicole,Vidal   Annie,1,1
+Le Peih   Nicole,Sylla   Sira,1,1
+Le Peih   Nicole,Fiévet   Jean-Marie,1,1
+Le Peih   Nicole,Fugit   Jean-Luc,1,1
+Le Peih   Nicole,Rebeyrotte   Rémy,1,1
+Jacques   Jean-Michel,Trisse   Nicole,1,1
+Jacques   Jean-Michel,Perrot   Patrice,1,1
+Jacques   Jean-Michel,Cattelot   Anne-Laure,1,1
+Jacques   Jean-Michel,Potterie   Benoit,1,1
+Jacques   Jean-Michel,Duvergé   Bruno,1,1
+Jacques   Jean-Michel,Descamps   Béatrice,1,1
+Jacques   Jean-Michel,Michels   Thierry,1,1
+Jacques   Jean-Michel,Lasserre   Florence,1,1
+Jacques   Jean-Michel,Testé   Stéphane,1,1
+Jacques   Jean-Michel,Descrozaille   Frédéric,1,1
+Jacques   Jean-Michel,Lazaar   Fiona,1,1
+Jacques   Jean-Michel,Benin   Justine,1,1
+Jacques   Jean-Michel,Genetet   Anne,1,1
+Jacques   Jean-Michel,Corbière   Alexis,1,1
+Jacques   Jean-Michel,Gouffier-Cha   Guillaume,1,1
+Jacques   Jean-Michel,Schellenberger   Raphaël,1,1
+Jacques   Jean-Michel,Mignola   Patrick,1,1
+Jacques   Jean-Michel,Roseren   Xavier,1,1
+Jacques   Jean-Michel,Kuster   Brigitte,1,1
+Jacques   Jean-Michel,Luquet   Aude,1,1
+Jacques   Jean-Michel,Rossi   Laurianne,1,1
+Jacques   Jean-Michel,Lemoine   Patricia,1,1
+Jacques   Jean-Michel,Peyron   Michèle,1,1
+Jacques   Jean-Michel,Florennes   Isabelle,1,1
+Jacques   Jean-Michel,Calvez   Céline,1,1
+Jacques   Jean-Michel,Lebec   Marie,1,1
+Jacques   Jean-Michel,Faucillon   Elsa,1,1
+Jacques   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Jacques   Jean-Michel,Millienne   Bruno,1,1
+Jacques   Jean-Michel,Bergé   Aurore,1,1
+Jacques   Jean-Michel,Granjus   Florence,1,1
+Jacques   Jean-Michel,Vidal   Annie,1,1
+Jacques   Jean-Michel,Sylla   Sira,1,1
+Jacques   Jean-Michel,Fiévet   Jean-Marie,1,1
+Jacques   Jean-Michel,Fugit   Jean-Luc,1,1
+Jacques   Jean-Michel,Rebeyrotte   Rémy,1,1
+Trisse   Nicole,Perrot   Patrice,1,1
+Trisse   Nicole,Cattelot   Anne-Laure,1,1
+Trisse   Nicole,Potterie   Benoit,1,1
+Trisse   Nicole,Duvergé   Bruno,1,1
+Trisse   Nicole,Descamps   Béatrice,1,1
+Trisse   Nicole,Michels   Thierry,1,1
+Trisse   Nicole,Lasserre   Florence,1,1
+Trisse   Nicole,Testé   Stéphane,1,1
+Trisse   Nicole,Descrozaille   Frédéric,1,1
+Trisse   Nicole,Lazaar   Fiona,1,1
+Trisse   Nicole,Benin   Justine,1,1
+Trisse   Nicole,Genetet   Anne,1,1
+Trisse   Nicole,Corbière   Alexis,1,1
+Trisse   Nicole,Gouffier-Cha   Guillaume,1,1
+Trisse   Nicole,Schellenberger   Raphaël,1,1
+Trisse   Nicole,Mignola   Patrick,1,1
+Trisse   Nicole,Roseren   Xavier,1,1
+Trisse   Nicole,Kuster   Brigitte,1,1
+Trisse   Nicole,Luquet   Aude,1,1
+Trisse   Nicole,Rossi   Laurianne,1,1
+Trisse   Nicole,Lemoine   Patricia,1,1
+Trisse   Nicole,Peyron   Michèle,1,1
+Trisse   Nicole,Florennes   Isabelle,1,1
+Trisse   Nicole,Calvez   Céline,1,1
+Trisse   Nicole,Lebec   Marie,1,1
+Trisse   Nicole,Faucillon   Elsa,1,1
+Trisse   Nicole,de Vaucouleurs   Michèle,1,1
+Trisse   Nicole,Millienne   Bruno,1,1
+Trisse   Nicole,Bergé   Aurore,1,1
+Trisse   Nicole,Granjus   Florence,1,1
+Trisse   Nicole,Vidal   Annie,1,1
+Trisse   Nicole,Sylla   Sira,1,1
+Trisse   Nicole,Fiévet   Jean-Marie,1,1
+Trisse   Nicole,Fugit   Jean-Luc,1,1
+Trisse   Nicole,Rebeyrotte   Rémy,1,1
+Perrot   Patrice,Cattelot   Anne-Laure,1,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Duvergé   Bruno,1,1
+Perrot   Patrice,Descamps   Béatrice,1,1
+Perrot   Patrice,Michels   Thierry,1,1
+Perrot   Patrice,Lasserre   Florence,1,1
+Perrot   Patrice,Testé   Stéphane,1,1
+Perrot   Patrice,Descrozaille   Frédéric,1,1
+Perrot   Patrice,Lazaar   Fiona,1,1
+Perrot   Patrice,Benin   Justine,1,1
+Perrot   Patrice,Genetet   Anne,1,1
+Perrot   Patrice,Corbière   Alexis,1,1
+Perrot   Patrice,Gouffier-Cha   Guillaume,1,1
+Perrot   Patrice,Schellenberger   Raphaël,1,1
+Perrot   Patrice,Mignola   Patrick,1,1
+Perrot   Patrice,Roseren   Xavier,1,1
+Perrot   Patrice,Kuster   Brigitte,1,1
+Perrot   Patrice,Luquet   Aude,1,1
+Perrot   Patrice,Rossi   Laurianne,1,1
+Perrot   Patrice,Lemoine   Patricia,1,1
+Perrot   Patrice,Peyron   Michèle,1,1
+Perrot   Patrice,Florennes   Isabelle,1,1
+Perrot   Patrice,Calvez   Céline,1,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,Faucillon   Elsa,1,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Millienne   Bruno,1,1
+Perrot   Patrice,Bergé   Aurore,1,1
+Perrot   Patrice,Granjus   Florence,1,1
+Perrot   Patrice,Vidal   Annie,1,1
+Perrot   Patrice,Sylla   Sira,1,1
+Perrot   Patrice,Fiévet   Jean-Marie,1,1
+Perrot   Patrice,Fugit   Jean-Luc,1,1
+Perrot   Patrice,Rebeyrotte   Rémy,1,1
+Cattelot   Anne-Laure,Potterie   Benoit,1,1
+Cattelot   Anne-Laure,Duvergé   Bruno,1,1
+Cattelot   Anne-Laure,Descamps   Béatrice,1,1
+Cattelot   Anne-Laure,Michels   Thierry,1,1
+Cattelot   Anne-Laure,Lasserre   Florence,1,1
+Cattelot   Anne-Laure,Testé   Stéphane,1,1
+Cattelot   Anne-Laure,Descrozaille   Frédéric,1,1
+Cattelot   Anne-Laure,Lazaar   Fiona,1,1
+Cattelot   Anne-Laure,Benin   Justine,1,1
+Cattelot   Anne-Laure,Genetet   Anne,1,1
+Cattelot   Anne-Laure,Corbière   Alexis,1,1
+Cattelot   Anne-Laure,Gouffier-Cha   Guillaume,1,1
+Cattelot   Anne-Laure,Schellenberger   Raphaël,1,1
+Cattelot   Anne-Laure,Mignola   Patrick,1,1
+Cattelot   Anne-Laure,Roseren   Xavier,1,1
+Cattelot   Anne-Laure,Kuster   Brigitte,1,1
+Cattelot   Anne-Laure,Luquet   Aude,1,1
+Cattelot   Anne-Laure,Rossi   Laurianne,1,1
+Cattelot   Anne-Laure,Lemoine   Patricia,1,1
+Cattelot   Anne-Laure,Peyron   Michèle,1,1
+Cattelot   Anne-Laure,Florennes   Isabelle,1,1
+Cattelot   Anne-Laure,Calvez   Céline,1,1
+Cattelot   Anne-Laure,Lebec   Marie,1,1
+Cattelot   Anne-Laure,Faucillon   Elsa,1,1
+Cattelot   Anne-Laure,de Vaucouleurs   Michèle,1,1
+Cattelot   Anne-Laure,Millienne   Bruno,1,1
+Cattelot   Anne-Laure,Bergé   Aurore,1,1
+Cattelot   Anne-Laure,Granjus   Florence,1,1
+Cattelot   Anne-Laure,Vidal   Annie,1,1
+Cattelot   Anne-Laure,Sylla   Sira,1,1
+Cattelot   Anne-Laure,Fiévet   Jean-Marie,1,1
+Cattelot   Anne-Laure,Fugit   Jean-Luc,1,1
+Cattelot   Anne-Laure,Rebeyrotte   Rémy,1,1
+Potterie   Benoit,Duvergé   Bruno,1,1
+Potterie   Benoit,Descamps   Béatrice,1,1
+Potterie   Benoit,Michels   Thierry,1,1
+Potterie   Benoit,Lasserre   Florence,1,1
+Potterie   Benoit,Testé   Stéphane,1,1
+Potterie   Benoit,Descrozaille   Frédéric,1,1
+Potterie   Benoit,Lazaar   Fiona,1,1
+Potterie   Benoit,Benin   Justine,1,1
+Potterie   Benoit,Genetet   Anne,1,1
+Potterie   Benoit,Corbière   Alexis,1,1
+Potterie   Benoit,Gouffier-Cha   Guillaume,1,1
+Potterie   Benoit,Schellenberger   Raphaël,1,1
+Potterie   Benoit,Mignola   Patrick,1,1
+Potterie   Benoit,Roseren   Xavier,1,1
+Potterie   Benoit,Kuster   Brigitte,1,1
+Potterie   Benoit,Luquet   Aude,1,1
+Potterie   Benoit,Rossi   Laurianne,1,1
+Potterie   Benoit,Lemoine   Patricia,1,1
+Potterie   Benoit,Peyron   Michèle,1,1
+Potterie   Benoit,Florennes   Isabelle,1,1
+Potterie   Benoit,Calvez   Céline,1,1
+Potterie   Benoit,Lebec   Marie,1,1
+Potterie   Benoit,Faucillon   Elsa,1,1
+Potterie   Benoit,de Vaucouleurs   Michèle,1,1
+Potterie   Benoit,Millienne   Bruno,1,1
+Potterie   Benoit,Bergé   Aurore,1,1
+Potterie   Benoit,Granjus   Florence,1,1
+Potterie   Benoit,Vidal   Annie,1,1
+Potterie   Benoit,Sylla   Sira,1,1
+Potterie   Benoit,Fiévet   Jean-Marie,1,1
+Potterie   Benoit,Fugit   Jean-Luc,1,1
+Potterie   Benoit,Rebeyrotte   Rémy,1,1
+Duvergé   Bruno,Descamps   Béatrice,1,1
+Duvergé   Bruno,Michels   Thierry,1,1
+Duvergé   Bruno,Lasserre   Florence,1,1
+Duvergé   Bruno,Testé   Stéphane,1,1
+Duvergé   Bruno,Descrozaille   Frédéric,1,1
+Duvergé   Bruno,Lazaar   Fiona,1,1
+Duvergé   Bruno,Benin   Justine,1,1
+Duvergé   Bruno,Genetet   Anne,1,1
+Duvergé   Bruno,Corbière   Alexis,1,1
+Duvergé   Bruno,Gouffier-Cha   Guillaume,1,1
+Duvergé   Bruno,Schellenberger   Raphaël,1,1
+Duvergé   Bruno,Mignola   Patrick,1,1
+Duvergé   Bruno,Roseren   Xavier,1,1
+Duvergé   Bruno,Kuster   Brigitte,1,1
+Duvergé   Bruno,Luquet   Aude,1,1
+Duvergé   Bruno,Rossi   Laurianne,1,1
+Duvergé   Bruno,Lemoine   Patricia,1,1
+Duvergé   Bruno,Peyron   Michèle,1,1
+Duvergé   Bruno,Florennes   Isabelle,1,1
+Duvergé   Bruno,Calvez   Céline,1,1
+Duvergé   Bruno,Lebec   Marie,1,1
+Duvergé   Bruno,Faucillon   Elsa,1,1
+Duvergé   Bruno,de Vaucouleurs   Michèle,1,1
+Duvergé   Bruno,Millienne   Bruno,1,1
+Duvergé   Bruno,Bergé   Aurore,1,1
+Duvergé   Bruno,Granjus   Florence,1,1
+Duvergé   Bruno,Vidal   Annie,1,1
+Duvergé   Bruno,Sylla   Sira,1,1
+Duvergé   Bruno,Fiévet   Jean-Marie,1,1
+Duvergé   Bruno,Fugit   Jean-Luc,1,1
+Duvergé   Bruno,Rebeyrotte   Rémy,1,1
+Descamps   Béatrice,Michels   Thierry,1,1
+Descamps   Béatrice,Lasserre   Florence,1,1
+Descamps   Béatrice,Testé   Stéphane,1,1
+Descamps   Béatrice,Descrozaille   Frédéric,1,1
+Descamps   Béatrice,Lazaar   Fiona,1,1
+Descamps   Béatrice,Benin   Justine,1,1
+Descamps   Béatrice,Genetet   Anne,1,1
+Descamps   Béatrice,Corbière   Alexis,1,1
+Descamps   Béatrice,Gouffier-Cha   Guillaume,1,1
+Descamps   Béatrice,Schellenberger   Raphaël,1,1
+Descamps   Béatrice,Mignola   Patrick,1,1
+Descamps   Béatrice,Roseren   Xavier,1,1
+Descamps   Béatrice,Kuster   Brigitte,1,1
+Descamps   Béatrice,Luquet   Aude,1,1
+Descamps   Béatrice,Rossi   Laurianne,1,1
+Descamps   Béatrice,Lemoine   Patricia,1,1
+Descamps   Béatrice,Peyron   Michèle,1,1
+Descamps   Béatrice,Florennes   Isabelle,1,1
+Descamps   Béatrice,Calvez   Céline,1,1
+Descamps   Béatrice,Lebec   Marie,1,1
+Descamps   Béatrice,Faucillon   Elsa,1,1
+Descamps   Béatrice,de Vaucouleurs   Michèle,1,1
+Descamps   Béatrice,Millienne   Bruno,1,1
+Descamps   Béatrice,Bergé   Aurore,1,1
+Descamps   Béatrice,Granjus   Florence,1,1
+Descamps   Béatrice,Vidal   Annie,1,1
+Descamps   Béatrice,Sylla   Sira,1,1
+Descamps   Béatrice,Fiévet   Jean-Marie,1,1
+Descamps   Béatrice,Fugit   Jean-Luc,1,1
+Descamps   Béatrice,Rebeyrotte   Rémy,1,1
+Michels   Thierry,Lasserre   Florence,1,1
+Michels   Thierry,Testé   Stéphane,1,1
+Michels   Thierry,Descrozaille   Frédéric,1,1
+Michels   Thierry,Lazaar   Fiona,1,1
+Michels   Thierry,Benin   Justine,1,1
+Michels   Thierry,Genetet   Anne,1,1
+Michels   Thierry,Corbière   Alexis,1,1
+Michels   Thierry,Gouffier-Cha   Guillaume,1,1
+Michels   Thierry,Schellenberger   Raphaël,1,1
+Michels   Thierry,Mignola   Patrick,1,1
+Michels   Thierry,Roseren   Xavier,1,1
+Michels   Thierry,Kuster   Brigitte,1,1
+Michels   Thierry,Luquet   Aude,1,1
+Michels   Thierry,Rossi   Laurianne,1,1
+Michels   Thierry,Lemoine   Patricia,1,1
+Michels   Thierry,Peyron   Michèle,1,1
+Michels   Thierry,Florennes   Isabelle,1,1
+Michels   Thierry,Calvez   Céline,1,1
+Michels   Thierry,Lebec   Marie,1,1
+Michels   Thierry,Faucillon   Elsa,1,1
+Michels   Thierry,de Vaucouleurs   Michèle,1,1
+Michels   Thierry,Millienne   Bruno,1,1
+Michels   Thierry,Bergé   Aurore,1,1
+Michels   Thierry,Granjus   Florence,1,1
+Michels   Thierry,Vidal   Annie,1,1
+Michels   Thierry,Sylla   Sira,1,1
+Michels   Thierry,Fiévet   Jean-Marie,1,1
+Michels   Thierry,Fugit   Jean-Luc,1,1
+Michels   Thierry,Rebeyrotte   Rémy,1,1
+Lasserre   Florence,Testé   Stéphane,1,1
+Lasserre   Florence,Descrozaille   Frédéric,1,1
+Lasserre   Florence,Lazaar   Fiona,1,1
+Lasserre   Florence,Benin   Justine,1,1
+Lasserre   Florence,Genetet   Anne,1,1
+Lasserre   Florence,Corbière   Alexis,1,1
+Lasserre   Florence,Gouffier-Cha   Guillaume,1,1
+Lasserre   Florence,Schellenberger   Raphaël,1,1
+Lasserre   Florence,Mignola   Patrick,1,1
+Lasserre   Florence,Roseren   Xavier,1,1
+Lasserre   Florence,Kuster   Brigitte,1,1
+Lasserre   Florence,Luquet   Aude,1,1
+Lasserre   Florence,Rossi   Laurianne,1,1
+Lasserre   Florence,Lemoine   Patricia,1,1
+Lasserre   Florence,Peyron   Michèle,1,1
+Lasserre   Florence,Florennes   Isabelle,1,1
+Lasserre   Florence,Calvez   Céline,1,1
+Lasserre   Florence,Lebec   Marie,1,1
+Lasserre   Florence,Faucillon   Elsa,1,1
+Lasserre   Florence,de Vaucouleurs   Michèle,1,1
+Lasserre   Florence,Millienne   Bruno,1,1
+Lasserre   Florence,Bergé   Aurore,1,1
+Lasserre   Florence,Granjus   Florence,1,1
+Lasserre   Florence,Vidal   Annie,1,1
+Lasserre   Florence,Sylla   Sira,1,1
+Lasserre   Florence,Fiévet   Jean-Marie,1,1
+Lasserre   Florence,Fugit   Jean-Luc,1,1
+Lasserre   Florence,Rebeyrotte   Rémy,1,1
+Testé   Stéphane,Descrozaille   Frédéric,1,1
+Testé   Stéphane,Lazaar   Fiona,1,1
+Testé   Stéphane,Benin   Justine,1,1
+Testé   Stéphane,Genetet   Anne,1,1
+Testé   Stéphane,Corbière   Alexis,1,1
+Testé   Stéphane,Gouffier-Cha   Guillaume,1,1
+Testé   Stéphane,Schellenberger   Raphaël,1,1
+Testé   Stéphane,Mignola   Patrick,1,1
+Testé   Stéphane,Roseren   Xavier,1,1
+Testé   Stéphane,Kuster   Brigitte,1,1
+Testé   Stéphane,Luquet   Aude,1,1
+Testé   Stéphane,Rossi   Laurianne,1,1
+Testé   Stéphane,Lemoine   Patricia,1,1
+Testé   Stéphane,Peyron   Michèle,1,1
+Testé   Stéphane,Florennes   Isabelle,1,1
+Testé   Stéphane,Calvez   Céline,1,1
+Testé   Stéphane,Lebec   Marie,1,1
+Testé   Stéphane,Faucillon   Elsa,1,1
+Testé   Stéphane,de Vaucouleurs   Michèle,1,1
+Testé   Stéphane,Millienne   Bruno,1,1
+Testé   Stéphane,Bergé   Aurore,1,1
+Testé   Stéphane,Granjus   Florence,1,1
+Testé   Stéphane,Vidal   Annie,1,1
+Testé   Stéphane,Sylla   Sira,1,1
+Testé   Stéphane,Fiévet   Jean-Marie,1,1
+Testé   Stéphane,Fugit   Jean-Luc,1,1
+Testé   Stéphane,Rebeyrotte   Rémy,1,1
+Descrozaille   Frédéric,Lazaar   Fiona,1,1
+Descrozaille   Frédéric,Benin   Justine,1,1
+Descrozaille   Frédéric,Genetet   Anne,1,1
+Descrozaille   Frédéric,Corbière   Alexis,1,1
+Descrozaille   Frédéric,Gouffier-Cha   Guillaume,1,1
+Descrozaille   Frédéric,Schellenberger   Raphaël,1,1
+Descrozaille   Frédéric,Mignola   Patrick,1,1
+Descrozaille   Frédéric,Roseren   Xavier,1,1
+Descrozaille   Frédéric,Kuster   Brigitte,1,1
+Descrozaille   Frédéric,Luquet   Aude,1,1
+Descrozaille   Frédéric,Rossi   Laurianne,1,1
+Descrozaille   Frédéric,Lemoine   Patricia,1,1
+Descrozaille   Frédéric,Peyron   Michèle,1,1
+Descrozaille   Frédéric,Florennes   Isabelle,1,1
+Descrozaille   Frédéric,Calvez   Céline,1,1
+Descrozaille   Frédéric,Lebec   Marie,1,1
+Descrozaille   Frédéric,Faucillon   Elsa,1,1
+Descrozaille   Frédéric,de Vaucouleurs   Michèle,1,1
+Descrozaille   Frédéric,Millienne   Bruno,1,1
+Descrozaille   Frédéric,Bergé   Aurore,1,1
+Descrozaille   Frédéric,Granjus   Florence,1,1
+Descrozaille   Frédéric,Vidal   Annie,1,1
+Descrozaille   Frédéric,Sylla   Sira,1,1
+Descrozaille   Frédéric,Fiévet   Jean-Marie,1,1
+Descrozaille   Frédéric,Fugit   Jean-Luc,1,1
+Descrozaille   Frédéric,Rebeyrotte   Rémy,1,1
+Lazaar   Fiona,Benin   Justine,1,1
+Lazaar   Fiona,Genetet   Anne,1,1
+Lazaar   Fiona,Corbière   Alexis,1,1
+Lazaar   Fiona,Gouffier-Cha   Guillaume,1,1
+Lazaar   Fiona,Schellenberger   Raphaël,1,1
+Lazaar   Fiona,Mignola   Patrick,1,1
+Lazaar   Fiona,Roseren   Xavier,1,1
+Lazaar   Fiona,Kuster   Brigitte,1,1
+Lazaar   Fiona,Luquet   Aude,1,1
+Lazaar   Fiona,Rossi   Laurianne,1,1
+Lazaar   Fiona,Lemoine   Patricia,1,1
+Lazaar   Fiona,Peyron   Michèle,1,1
+Lazaar   Fiona,Florennes   Isabelle,1,1
+Lazaar   Fiona,Calvez   Céline,1,1
+Lazaar   Fiona,Lebec   Marie,1,1
+Lazaar   Fiona,Faucillon   Elsa,1,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,1,1
+Lazaar   Fiona,Millienne   Bruno,1,1
+Lazaar   Fiona,Bergé   Aurore,1,1
+Lazaar   Fiona,Granjus   Florence,1,1
+Lazaar   Fiona,Vidal   Annie,1,1
+Lazaar   Fiona,Sylla   Sira,1,1
+Lazaar   Fiona,Fiévet   Jean-Marie,1,1
+Lazaar   Fiona,Fugit   Jean-Luc,1,1
+Lazaar   Fiona,Rebeyrotte   Rémy,1,1
+Benin   Justine,Genetet   Anne,1,1
+Benin   Justine,Corbière   Alexis,1,1
+Benin   Justine,Gouffier-Cha   Guillaume,1,1
+Benin   Justine,Schellenberger   Raphaël,1,1
+Benin   Justine,Mignola   Patrick,1,1
+Benin   Justine,Roseren   Xavier,1,1
+Benin   Justine,Kuster   Brigitte,1,1
+Benin   Justine,Luquet   Aude,1,1
+Benin   Justine,Rossi   Laurianne,1,1
+Benin   Justine,Lemoine   Patricia,1,1
+Benin   Justine,Peyron   Michèle,1,1
+Benin   Justine,Florennes   Isabelle,1,1
+Benin   Justine,Calvez   Céline,1,1
+Benin   Justine,Lebec   Marie,1,1
+Benin   Justine,Faucillon   Elsa,1,1
+Benin   Justine,de Vaucouleurs   Michèle,1,1
+Benin   Justine,Millienne   Bruno,1,1
+Benin   Justine,Bergé   Aurore,1,1
+Benin   Justine,Granjus   Florence,1,1
+Benin   Justine,Vidal   Annie,1,1
+Benin   Justine,Sylla   Sira,1,1
+Benin   Justine,Fiévet   Jean-Marie,1,1
+Benin   Justine,Fugit   Jean-Luc,1,1
+Benin   Justine,Rebeyrotte   Rémy,1,1
+Genetet   Anne,Corbière   Alexis,1,1
+Genetet   Anne,Gouffier-Cha   Guillaume,1,1
+Genetet   Anne,Schellenberger   Raphaël,1,1
+Genetet   Anne,Mignola   Patrick,1,1
+Genetet   Anne,Roseren   Xavier,1,1
+Genetet   Anne,Kuster   Brigitte,1,1
+Genetet   Anne,Luquet   Aude,1,1
+Genetet   Anne,Rossi   Laurianne,1,1
+Genetet   Anne,Lemoine   Patricia,1,1
+Genetet   Anne,Peyron   Michèle,1,1
+Genetet   Anne,Florennes   Isabelle,1,1
+Genetet   Anne,Calvez   Céline,1,1
+Genetet   Anne,Lebec   Marie,1,1
+Genetet   Anne,Faucillon   Elsa,1,1
+Genetet   Anne,de Vaucouleurs   Michèle,1,1
+Genetet   Anne,Millienne   Bruno,1,1
+Genetet   Anne,Bergé   Aurore,1,1
+Genetet   Anne,Granjus   Florence,1,1
+Genetet   Anne,Vidal   Annie,1,1
+Genetet   Anne,Sylla   Sira,1,1
+Genetet   Anne,Fiévet   Jean-Marie,1,1
+Genetet   Anne,Fugit   Jean-Luc,1,1
+Genetet   Anne,Rebeyrotte   Rémy,1,1
+Corbière   Alexis,Gouffier-Cha   Guillaume,1,1
+Corbière   Alexis,Schellenberger   Raphaël,1,1
+Corbière   Alexis,Mignola   Patrick,1,1
+Corbière   Alexis,Roseren   Xavier,1,1
+Corbière   Alexis,Kuster   Brigitte,1,1
+Corbière   Alexis,Luquet   Aude,1,1
+Corbière   Alexis,Rossi   Laurianne,1,1
+Corbière   Alexis,Lemoine   Patricia,1,1
+Corbière   Alexis,Peyron   Michèle,1,1
+Corbière   Alexis,Florennes   Isabelle,1,1
+Corbière   Alexis,Calvez   Céline,1,1
+Corbière   Alexis,Lebec   Marie,1,1
+Corbière   Alexis,Faucillon   Elsa,1,1
+Corbière   Alexis,de Vaucouleurs   Michèle,1,1
+Corbière   Alexis,Millienne   Bruno,1,1
+Corbière   Alexis,Bergé   Aurore,1,1
+Corbière   Alexis,Granjus   Florence,1,1
+Corbière   Alexis,Vidal   Annie,1,1
+Corbière   Alexis,Sylla   Sira,1,1
+Corbière   Alexis,Fiévet   Jean-Marie,1,1
+Corbière   Alexis,Fugit   Jean-Luc,1,1
+Corbière   Alexis,Rebeyrotte   Rémy,1,1
+Gouffier-Cha   Guillaume,Schellenberger   Raphaël,1,1
+Gouffier-Cha   Guillaume,Mignola   Patrick,1,1
+Gouffier-Cha   Guillaume,Roseren   Xavier,1,1
+Gouffier-Cha   Guillaume,Kuster   Brigitte,1,1
+Gouffier-Cha   Guillaume,Luquet   Aude,1,1
+Gouffier-Cha   Guillaume,Rossi   Laurianne,1,1
+Gouffier-Cha   Guillaume,Lemoine   Patricia,1,1
+Gouffier-Cha   Guillaume,Peyron   Michèle,1,1
+Gouffier-Cha   Guillaume,Florennes   Isabelle,1,1
+Gouffier-Cha   Guillaume,Calvez   Céline,1,1
+Gouffier-Cha   Guillaume,Lebec   Marie,1,1
+Gouffier-Cha   Guillaume,Faucillon   Elsa,1,1
+Gouffier-Cha   Guillaume,de Vaucouleurs   Michèle,1,1
+Gouffier-Cha   Guillaume,Millienne   Bruno,1,1
+Gouffier-Cha   Guillaume,Bergé   Aurore,1,1
+Gouffier-Cha   Guillaume,Granjus   Florence,1,1
+Gouffier-Cha   Guillaume,Vidal   Annie,1,1
+Gouffier-Cha   Guillaume,Sylla   Sira,1,1
+Gouffier-Cha   Guillaume,Fiévet   Jean-Marie,1,1
+Gouffier-Cha   Guillaume,Fugit   Jean-Luc,1,1
+Gouffier-Cha   Guillaume,Rebeyrotte   Rémy,1,1
+Schellenberger   Raphaël,Mignola   Patrick,1,1
+Schellenberger   Raphaël,Roseren   Xavier,1,1
+Schellenberger   Raphaël,Kuster   Brigitte,1,1
+Schellenberger   Raphaël,Luquet   Aude,1,1
+Schellenberger   Raphaël,Rossi   Laurianne,1,1
+Schellenberger   Raphaël,Lemoine   Patricia,1,1
+Schellenberger   Raphaël,Peyron   Michèle,1,1
+Schellenberger   Raphaël,Florennes   Isabelle,1,1
+Schellenberger   Raphaël,Calvez   Céline,1,1
+Schellenberger   Raphaël,Lebec   Marie,1,1
+Schellenberger   Raphaël,Faucillon   Elsa,1,1
+Schellenberger   Raphaël,de Vaucouleurs   Michèle,1,1
+Schellenberger   Raphaël,Millienne   Bruno,1,1
+Schellenberger   Raphaël,Bergé   Aurore,1,1
+Schellenberger   Raphaël,Granjus   Florence,1,1
+Schellenberger   Raphaël,Vidal   Annie,1,1
+Schellenberger   Raphaël,Sylla   Sira,1,1
+Schellenberger   Raphaël,Fiévet   Jean-Marie,1,1
+Schellenberger   Raphaël,Fugit   Jean-Luc,1,1
+Schellenberger   Raphaël,Rebeyrotte   Rémy,1,1
+Mignola   Patrick,Roseren   Xavier,1,1
+Mignola   Patrick,Kuster   Brigitte,1,1
+Mignola   Patrick,Luquet   Aude,1,1
+Mignola   Patrick,Rossi   Laurianne,1,1
+Mignola   Patrick,Lemoine   Patricia,1,1
+Mignola   Patrick,Peyron   Michèle,1,1
+Mignola   Patrick,Florennes   Isabelle,1,1
+Mignola   Patrick,Calvez   Céline,1,1
+Mignola   Patrick,Lebec   Marie,1,1
+Mignola   Patrick,Faucillon   Elsa,1,1
+Mignola   Patrick,de Vaucouleurs   Michèle,1,1
+Mignola   Patrick,Millienne   Bruno,1,1
+Mignola   Patrick,Bergé   Aurore,1,1
+Mignola   Patrick,Granjus   Florence,1,1
+Mignola   Patrick,Vidal   Annie,1,1
+Mignola   Patrick,Sylla   Sira,1,1
+Mignola   Patrick,Fiévet   Jean-Marie,1,1
+Mignola   Patrick,Fugit   Jean-Luc,1,1
+Mignola   Patrick,Rebeyrotte   Rémy,1,1
+Roseren   Xavier,Kuster   Brigitte,1,1
+Roseren   Xavier,Luquet   Aude,1,1
+Roseren   Xavier,Rossi   Laurianne,1,1
+Roseren   Xavier,Lemoine   Patricia,1,1
+Roseren   Xavier,Peyron   Michèle,1,1
+Roseren   Xavier,Florennes   Isabelle,1,1
+Roseren   Xavier,Calvez   Céline,1,1
+Roseren   Xavier,Lebec   Marie,1,1
+Roseren   Xavier,Faucillon   Elsa,1,1
+Roseren   Xavier,de Vaucouleurs   Michèle,1,1
+Roseren   Xavier,Millienne   Bruno,1,1
+Roseren   Xavier,Bergé   Aurore,1,1
+Roseren   Xavier,Granjus   Florence,1,1
+Roseren   Xavier,Vidal   Annie,1,1
+Roseren   Xavier,Sylla   Sira,1,1
+Roseren   Xavier,Fiévet   Jean-Marie,1,1
+Roseren   Xavier,Fugit   Jean-Luc,1,1
+Roseren   Xavier,Rebeyrotte   Rémy,1,1
+Kuster   Brigitte,Luquet   Aude,1,1
+Kuster   Brigitte,Rossi   Laurianne,1,1
+Kuster   Brigitte,Lemoine   Patricia,1,1
+Kuster   Brigitte,Peyron   Michèle,1,1
+Kuster   Brigitte,Florennes   Isabelle,1,1
+Kuster   Brigitte,Calvez   Céline,1,1
+Kuster   Brigitte,Lebec   Marie,1,1
+Kuster   Brigitte,Faucillon   Elsa,1,1
+Kuster   Brigitte,de Vaucouleurs   Michèle,1,1
+Kuster   Brigitte,Millienne   Bruno,1,1
+Kuster   Brigitte,Bergé   Aurore,1,1
+Kuster   Brigitte,Granjus   Florence,1,1
+Kuster   Brigitte,Vidal   Annie,1,1
+Kuster   Brigitte,Sylla   Sira,1,1
+Kuster   Brigitte,Fiévet   Jean-Marie,1,1
+Kuster   Brigitte,Fugit   Jean-Luc,1,1
+Kuster   Brigitte,Rebeyrotte   Rémy,1,1
+Luquet   Aude,Rossi   Laurianne,1,1
+Luquet   Aude,Lemoine   Patricia,1,1
+Luquet   Aude,Peyron   Michèle,1,1
+Luquet   Aude,Florennes   Isabelle,1,1
+Luquet   Aude,Calvez   Céline,1,1
+Luquet   Aude,Lebec   Marie,1,1
+Luquet   Aude,Faucillon   Elsa,1,1
+Luquet   Aude,de Vaucouleurs   Michèle,1,1
+Luquet   Aude,Millienne   Bruno,1,1
+Luquet   Aude,Bergé   Aurore,1,1
+Luquet   Aude,Granjus   Florence,1,1
+Luquet   Aude,Vidal   Annie,1,1
+Luquet   Aude,Sylla   Sira,1,1
+Luquet   Aude,Fiévet   Jean-Marie,1,1
+Luquet   Aude,Fugit   Jean-Luc,1,1
+Luquet   Aude,Rebeyrotte   Rémy,1,1
+Rossi   Laurianne,Lemoine   Patricia,1,1
+Rossi   Laurianne,Peyron   Michèle,1,1
+Rossi   Laurianne,Florennes   Isabelle,1,1
+Rossi   Laurianne,Calvez   Céline,1,1
+Rossi   Laurianne,Lebec   Marie,1,1
+Rossi   Laurianne,Faucillon   Elsa,1,1
+Rossi   Laurianne,de Vaucouleurs   Michèle,1,1
+Rossi   Laurianne,Millienne   Bruno,1,1
+Rossi   Laurianne,Bergé   Aurore,1,1
+Rossi   Laurianne,Granjus   Florence,1,1
+Rossi   Laurianne,Vidal   Annie,1,1
+Rossi   Laurianne,Sylla   Sira,1,1
+Rossi   Laurianne,Fiévet   Jean-Marie,1,1
+Rossi   Laurianne,Fugit   Jean-Luc,1,1
+Rossi   Laurianne,Rebeyrotte   Rémy,1,1
+Lemoine   Patricia,Peyron   Michèle,1,1
+Lemoine   Patricia,Florennes   Isabelle,1,1
+Lemoine   Patricia,Calvez   Céline,1,1
+Lemoine   Patricia,Lebec   Marie,1,1
+Lemoine   Patricia,Faucillon   Elsa,1,1
+Lemoine   Patricia,de Vaucouleurs   Michèle,1,1
+Lemoine   Patricia,Millienne   Bruno,1,1
+Lemoine   Patricia,Bergé   Aurore,1,1
+Lemoine   Patricia,Granjus   Florence,1,1
+Lemoine   Patricia,Vidal   Annie,1,1
+Lemoine   Patricia,Sylla   Sira,1,1
+Lemoine   Patricia,Fiévet   Jean-Marie,1,1
+Lemoine   Patricia,Fugit   Jean-Luc,1,1
+Lemoine   Patricia,Rebeyrotte   Rémy,1,1
+Peyron   Michèle,Florennes   Isabelle,1,1
+Peyron   Michèle,Calvez   Céline,1,1
+Peyron   Michèle,Lebec   Marie,1,1
+Peyron   Michèle,Faucillon   Elsa,1,1
+Peyron   Michèle,de Vaucouleurs   Michèle,1,1
+Peyron   Michèle,Millienne   Bruno,1,1
+Peyron   Michèle,Bergé   Aurore,1,1
+Peyron   Michèle,Granjus   Florence,1,1
+Peyron   Michèle,Vidal   Annie,1,1
+Peyron   Michèle,Sylla   Sira,1,1
+Peyron   Michèle,Fiévet   Jean-Marie,1,1
+Peyron   Michèle,Fugit   Jean-Luc,1,1
+Peyron   Michèle,Rebeyrotte   Rémy,1,1
+Florennes   Isabelle,Calvez   Céline,1,1
+Florennes   Isabelle,Lebec   Marie,1,1
+Florennes   Isabelle,Faucillon   Elsa,1,1
+Florennes   Isabelle,de Vaucouleurs   Michèle,1,1
+Florennes   Isabelle,Millienne   Bruno,1,1
+Florennes   Isabelle,Bergé   Aurore,1,1
+Florennes   Isabelle,Granjus   Florence,1,1
+Florennes   Isabelle,Vidal   Annie,1,1
+Florennes   Isabelle,Sylla   Sira,1,1
+Florennes   Isabelle,Fiévet   Jean-Marie,1,1
+Florennes   Isabelle,Fugit   Jean-Luc,1,1
+Florennes   Isabelle,Rebeyrotte   Rémy,1,1
+Calvez   Céline,Lebec   Marie,1,1
+Calvez   Céline,Faucillon   Elsa,1,1
+Calvez   Céline,de Vaucouleurs   Michèle,1,1
+Calvez   Céline,Millienne   Bruno,1,1
+Calvez   Céline,Bergé   Aurore,1,1
+Calvez   Céline,Granjus   Florence,1,1
+Calvez   Céline,Vidal   Annie,1,1
+Calvez   Céline,Sylla   Sira,1,1
+Calvez   Céline,Fiévet   Jean-Marie,1,1
+Calvez   Céline,Fugit   Jean-Luc,1,1
+Calvez   Céline,Rebeyrotte   Rémy,1,1
+Lebec   Marie,Faucillon   Elsa,1,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Millienne   Bruno,1,1
+Lebec   Marie,Bergé   Aurore,1,1
+Lebec   Marie,Granjus   Florence,1,1
+Lebec   Marie,Vidal   Annie,1,1
+Lebec   Marie,Sylla   Sira,1,1
+Lebec   Marie,Fiévet   Jean-Marie,1,1
+Lebec   Marie,Fugit   Jean-Luc,1,1
+Lebec   Marie,Rebeyrotte   Rémy,1,1
+Faucillon   Elsa,de Vaucouleurs   Michèle,1,1
+Faucillon   Elsa,Millienne   Bruno,1,1
+Faucillon   Elsa,Bergé   Aurore,1,1
+Faucillon   Elsa,Granjus   Florence,1,1
+Faucillon   Elsa,Vidal   Annie,1,1
+Faucillon   Elsa,Sylla   Sira,1,1
+Faucillon   Elsa,Fiévet   Jean-Marie,1,1
+Faucillon   Elsa,Fugit   Jean-Luc,1,1
+Faucillon   Elsa,Rebeyrotte   Rémy,1,1
+de Vaucouleurs   Michèle,Millienne   Bruno,1,1
+de Vaucouleurs   Michèle,Bergé   Aurore,1,1
+de Vaucouleurs   Michèle,Granjus   Florence,1,1
+de Vaucouleurs   Michèle,Vidal   Annie,1,1
+de Vaucouleurs   Michèle,Sylla   Sira,1,1
+de Vaucouleurs   Michèle,Fiévet   Jean-Marie,1,1
+de Vaucouleurs   Michèle,Fugit   Jean-Luc,1,1
+de Vaucouleurs   Michèle,Rebeyrotte   Rémy,1,1
+Millienne   Bruno,Bergé   Aurore,1,1
+Millienne   Bruno,Granjus   Florence,1,1
+Millienne   Bruno,Vidal   Annie,1,1
+Millienne   Bruno,Sylla   Sira,1,1
+Millienne   Bruno,Fiévet   Jean-Marie,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Rebeyrotte   Rémy,1,1
+Bergé   Aurore,Granjus   Florence,1,1
+Bergé   Aurore,Vidal   Annie,1,1
+Bergé   Aurore,Sylla   Sira,1,1
+Bergé   Aurore,Fiévet   Jean-Marie,1,1
+Bergé   Aurore,Fugit   Jean-Luc,1,1
+Bergé   Aurore,Rebeyrotte   Rémy,1,1
+Granjus   Florence,Vidal   Annie,1,1
+Granjus   Florence,Sylla   Sira,1,1
+Granjus   Florence,Fiévet   Jean-Marie,1,1
+Granjus   Florence,Fugit   Jean-Luc,1,1
+Granjus   Florence,Rebeyrotte   Rémy,1,1
+Vidal   Annie,Sylla   Sira,1,1
+Vidal   Annie,Fiévet   Jean-Marie,1,1
+Vidal   Annie,Fugit   Jean-Luc,1,1
+Vidal   Annie,Rebeyrotte   Rémy,1,1
+Sylla   Sira,Fiévet   Jean-Marie,1,1
+Sylla   Sira,Fugit   Jean-Luc,1,1
+Sylla   Sira,Rebeyrotte   Rémy,1,1
+Fiévet   Jean-Marie,Fugit   Jean-Luc,1,1
+Fiévet   Jean-Marie,Rebeyrotte   Rémy,1,1
+Fugit   Jean-Luc,Rebeyrotte   Rémy,1,1

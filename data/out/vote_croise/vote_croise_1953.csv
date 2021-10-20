@@ -1,0 +1,301 @@
+from,to,vote_commun,loi_commun
+Pancher   Bertrand,Lecoq   Jean-Paul,1,1
+Pancher   Bertrand,Lambert   François-Michel,1,1
+Pancher   Bertrand,Zulesi   Jean-Marc,1,1
+Pancher   Bertrand,Marsaud   Sandra,1,1
+Pancher   Bertrand,de Courson   Yolaine,1,1
+Pancher   Bertrand,Le Gac   Didier,1,1
+Pancher   Bertrand,Couillard   Bérangère,1,1
+Pancher   Bertrand,Panonacle   Sophie,1,1
+Pancher   Bertrand,Abadie   Caroline,1,1
+Pancher   Bertrand,Girardin   Éric,1,1
+Pancher   Bertrand,Cattelot   Anne-Laure,1,1
+Pancher   Bertrand,Park   Zivka,1,1
+Pancher   Bertrand,Manin   Josette,1,1
+Pancher   Bertrand,Forteza   Paula,1,1
+Pancher   Bertrand,Charrière   Sylvie,1,1
+Pancher   Bertrand,Pichereau   Damien,1,1
+Pancher   Bertrand,Lenne   Marion,1,1
+Pancher   Bertrand,Kerbarh   Stéphanie,1,1
+Pancher   Bertrand,Luquet   Aude,1,1
+Pancher   Bertrand,Rossi   Laurianne,1,1
+Pancher   Bertrand,Millienne   Bruno,1,1
+Pancher   Bertrand,Buchou   Stéphane,1,1
+Pancher   Bertrand,Fugit   Jean-Luc,1,1
+Pancher   Bertrand,Ali   Ramlati,1,1
+Lecoq   Jean-Paul,Lambert   François-Michel,1,1
+Lecoq   Jean-Paul,Zulesi   Jean-Marc,1,1
+Lecoq   Jean-Paul,Marsaud   Sandra,1,1
+Lecoq   Jean-Paul,de Courson   Yolaine,1,1
+Lecoq   Jean-Paul,Le Gac   Didier,1,1
+Lecoq   Jean-Paul,Couillard   Bérangère,1,1
+Lecoq   Jean-Paul,Panonacle   Sophie,1,1
+Lecoq   Jean-Paul,Abadie   Caroline,1,1
+Lecoq   Jean-Paul,Girardin   Éric,1,1
+Lecoq   Jean-Paul,Cattelot   Anne-Laure,1,1
+Lecoq   Jean-Paul,Park   Zivka,1,1
+Lecoq   Jean-Paul,Manin   Josette,1,1
+Lecoq   Jean-Paul,Forteza   Paula,1,1
+Lecoq   Jean-Paul,Charrière   Sylvie,1,1
+Lecoq   Jean-Paul,Pichereau   Damien,1,1
+Lecoq   Jean-Paul,Lenne   Marion,1,1
+Lecoq   Jean-Paul,Kerbarh   Stéphanie,1,1
+Lecoq   Jean-Paul,Luquet   Aude,1,1
+Lecoq   Jean-Paul,Rossi   Laurianne,1,1
+Lecoq   Jean-Paul,Millienne   Bruno,1,1
+Lecoq   Jean-Paul,Buchou   Stéphane,1,1
+Lecoq   Jean-Paul,Fugit   Jean-Luc,1,1
+Lecoq   Jean-Paul,Ali   Ramlati,1,1
+Lambert   François-Michel,Zulesi   Jean-Marc,1,1
+Lambert   François-Michel,Marsaud   Sandra,1,1
+Lambert   François-Michel,de Courson   Yolaine,1,1
+Lambert   François-Michel,Le Gac   Didier,1,1
+Lambert   François-Michel,Couillard   Bérangère,1,1
+Lambert   François-Michel,Panonacle   Sophie,1,1
+Lambert   François-Michel,Abadie   Caroline,1,1
+Lambert   François-Michel,Girardin   Éric,1,1
+Lambert   François-Michel,Cattelot   Anne-Laure,1,1
+Lambert   François-Michel,Park   Zivka,1,1
+Lambert   François-Michel,Manin   Josette,1,1
+Lambert   François-Michel,Forteza   Paula,1,1
+Lambert   François-Michel,Charrière   Sylvie,1,1
+Lambert   François-Michel,Pichereau   Damien,1,1
+Lambert   François-Michel,Lenne   Marion,1,1
+Lambert   François-Michel,Kerbarh   Stéphanie,1,1
+Lambert   François-Michel,Luquet   Aude,1,1
+Lambert   François-Michel,Rossi   Laurianne,1,1
+Lambert   François-Michel,Millienne   Bruno,1,1
+Lambert   François-Michel,Buchou   Stéphane,1,1
+Lambert   François-Michel,Fugit   Jean-Luc,1,1
+Lambert   François-Michel,Ali   Ramlati,1,1
+Zulesi   Jean-Marc,Marsaud   Sandra,1,1
+Zulesi   Jean-Marc,de Courson   Yolaine,1,1
+Zulesi   Jean-Marc,Le Gac   Didier,1,1
+Zulesi   Jean-Marc,Couillard   Bérangère,1,1
+Zulesi   Jean-Marc,Panonacle   Sophie,1,1
+Zulesi   Jean-Marc,Abadie   Caroline,1,1
+Zulesi   Jean-Marc,Girardin   Éric,1,1
+Zulesi   Jean-Marc,Cattelot   Anne-Laure,1,1
+Zulesi   Jean-Marc,Park   Zivka,1,1
+Zulesi   Jean-Marc,Manin   Josette,1,1
+Zulesi   Jean-Marc,Forteza   Paula,1,1
+Zulesi   Jean-Marc,Charrière   Sylvie,1,1
+Zulesi   Jean-Marc,Pichereau   Damien,1,1
+Zulesi   Jean-Marc,Lenne   Marion,1,1
+Zulesi   Jean-Marc,Kerbarh   Stéphanie,1,1
+Zulesi   Jean-Marc,Luquet   Aude,1,1
+Zulesi   Jean-Marc,Rossi   Laurianne,1,1
+Zulesi   Jean-Marc,Millienne   Bruno,1,1
+Zulesi   Jean-Marc,Buchou   Stéphane,1,1
+Zulesi   Jean-Marc,Fugit   Jean-Luc,1,1
+Zulesi   Jean-Marc,Ali   Ramlati,1,1
+Marsaud   Sandra,de Courson   Yolaine,1,1
+Marsaud   Sandra,Le Gac   Didier,1,1
+Marsaud   Sandra,Couillard   Bérangère,1,1
+Marsaud   Sandra,Panonacle   Sophie,1,1
+Marsaud   Sandra,Abadie   Caroline,1,1
+Marsaud   Sandra,Girardin   Éric,1,1
+Marsaud   Sandra,Cattelot   Anne-Laure,1,1
+Marsaud   Sandra,Park   Zivka,1,1
+Marsaud   Sandra,Manin   Josette,1,1
+Marsaud   Sandra,Forteza   Paula,1,1
+Marsaud   Sandra,Charrière   Sylvie,1,1
+Marsaud   Sandra,Pichereau   Damien,1,1
+Marsaud   Sandra,Lenne   Marion,1,1
+Marsaud   Sandra,Kerbarh   Stéphanie,1,1
+Marsaud   Sandra,Luquet   Aude,1,1
+Marsaud   Sandra,Rossi   Laurianne,1,1
+Marsaud   Sandra,Millienne   Bruno,1,1
+Marsaud   Sandra,Buchou   Stéphane,1,1
+Marsaud   Sandra,Fugit   Jean-Luc,1,1
+Marsaud   Sandra,Ali   Ramlati,1,1
+de Courson   Yolaine,Le Gac   Didier,1,1
+de Courson   Yolaine,Couillard   Bérangère,1,1
+de Courson   Yolaine,Panonacle   Sophie,1,1
+de Courson   Yolaine,Abadie   Caroline,1,1
+de Courson   Yolaine,Girardin   Éric,1,1
+de Courson   Yolaine,Cattelot   Anne-Laure,1,1
+de Courson   Yolaine,Park   Zivka,1,1
+de Courson   Yolaine,Manin   Josette,1,1
+de Courson   Yolaine,Forteza   Paula,1,1
+de Courson   Yolaine,Charrière   Sylvie,1,1
+de Courson   Yolaine,Pichereau   Damien,1,1
+de Courson   Yolaine,Lenne   Marion,1,1
+de Courson   Yolaine,Kerbarh   Stéphanie,1,1
+de Courson   Yolaine,Luquet   Aude,1,1
+de Courson   Yolaine,Rossi   Laurianne,1,1
+de Courson   Yolaine,Millienne   Bruno,1,1
+de Courson   Yolaine,Buchou   Stéphane,1,1
+de Courson   Yolaine,Fugit   Jean-Luc,1,1
+de Courson   Yolaine,Ali   Ramlati,1,1
+Le Gac   Didier,Couillard   Bérangère,1,1
+Le Gac   Didier,Panonacle   Sophie,1,1
+Le Gac   Didier,Abadie   Caroline,1,1
+Le Gac   Didier,Girardin   Éric,1,1
+Le Gac   Didier,Cattelot   Anne-Laure,1,1
+Le Gac   Didier,Park   Zivka,1,1
+Le Gac   Didier,Manin   Josette,1,1
+Le Gac   Didier,Forteza   Paula,1,1
+Le Gac   Didier,Charrière   Sylvie,1,1
+Le Gac   Didier,Pichereau   Damien,1,1
+Le Gac   Didier,Lenne   Marion,1,1
+Le Gac   Didier,Kerbarh   Stéphanie,1,1
+Le Gac   Didier,Luquet   Aude,1,1
+Le Gac   Didier,Rossi   Laurianne,1,1
+Le Gac   Didier,Millienne   Bruno,1,1
+Le Gac   Didier,Buchou   Stéphane,1,1
+Le Gac   Didier,Fugit   Jean-Luc,1,1
+Le Gac   Didier,Ali   Ramlati,1,1
+Couillard   Bérangère,Panonacle   Sophie,1,1
+Couillard   Bérangère,Abadie   Caroline,1,1
+Couillard   Bérangère,Girardin   Éric,1,1
+Couillard   Bérangère,Cattelot   Anne-Laure,1,1
+Couillard   Bérangère,Park   Zivka,1,1
+Couillard   Bérangère,Manin   Josette,1,1
+Couillard   Bérangère,Forteza   Paula,1,1
+Couillard   Bérangère,Charrière   Sylvie,1,1
+Couillard   Bérangère,Pichereau   Damien,1,1
+Couillard   Bérangère,Lenne   Marion,1,1
+Couillard   Bérangère,Kerbarh   Stéphanie,1,1
+Couillard   Bérangère,Luquet   Aude,1,1
+Couillard   Bérangère,Rossi   Laurianne,1,1
+Couillard   Bérangère,Millienne   Bruno,1,1
+Couillard   Bérangère,Buchou   Stéphane,1,1
+Couillard   Bérangère,Fugit   Jean-Luc,1,1
+Couillard   Bérangère,Ali   Ramlati,1,1
+Panonacle   Sophie,Abadie   Caroline,1,1
+Panonacle   Sophie,Girardin   Éric,1,1
+Panonacle   Sophie,Cattelot   Anne-Laure,1,1
+Panonacle   Sophie,Park   Zivka,1,1
+Panonacle   Sophie,Manin   Josette,1,1
+Panonacle   Sophie,Forteza   Paula,1,1
+Panonacle   Sophie,Charrière   Sylvie,1,1
+Panonacle   Sophie,Pichereau   Damien,1,1
+Panonacle   Sophie,Lenne   Marion,1,1
+Panonacle   Sophie,Kerbarh   Stéphanie,1,1
+Panonacle   Sophie,Luquet   Aude,1,1
+Panonacle   Sophie,Rossi   Laurianne,1,1
+Panonacle   Sophie,Millienne   Bruno,1,1
+Panonacle   Sophie,Buchou   Stéphane,1,1
+Panonacle   Sophie,Fugit   Jean-Luc,1,1
+Panonacle   Sophie,Ali   Ramlati,1,1
+Abadie   Caroline,Girardin   Éric,1,1
+Abadie   Caroline,Cattelot   Anne-Laure,1,1
+Abadie   Caroline,Park   Zivka,1,1
+Abadie   Caroline,Manin   Josette,1,1
+Abadie   Caroline,Forteza   Paula,1,1
+Abadie   Caroline,Charrière   Sylvie,1,1
+Abadie   Caroline,Pichereau   Damien,1,1
+Abadie   Caroline,Lenne   Marion,1,1
+Abadie   Caroline,Kerbarh   Stéphanie,1,1
+Abadie   Caroline,Luquet   Aude,1,1
+Abadie   Caroline,Rossi   Laurianne,1,1
+Abadie   Caroline,Millienne   Bruno,1,1
+Abadie   Caroline,Buchou   Stéphane,1,1
+Abadie   Caroline,Fugit   Jean-Luc,1,1
+Abadie   Caroline,Ali   Ramlati,1,1
+Girardin   Éric,Cattelot   Anne-Laure,1,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Manin   Josette,1,1
+Girardin   Éric,Forteza   Paula,1,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Pichereau   Damien,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Kerbarh   Stéphanie,1,1
+Girardin   Éric,Luquet   Aude,1,1
+Girardin   Éric,Rossi   Laurianne,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Buchou   Stéphane,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Girardin   Éric,Ali   Ramlati,1,1
+Cattelot   Anne-Laure,Park   Zivka,1,1
+Cattelot   Anne-Laure,Manin   Josette,1,1
+Cattelot   Anne-Laure,Forteza   Paula,1,1
+Cattelot   Anne-Laure,Charrière   Sylvie,1,1
+Cattelot   Anne-Laure,Pichereau   Damien,1,1
+Cattelot   Anne-Laure,Lenne   Marion,1,1
+Cattelot   Anne-Laure,Kerbarh   Stéphanie,1,1
+Cattelot   Anne-Laure,Luquet   Aude,1,1
+Cattelot   Anne-Laure,Rossi   Laurianne,1,1
+Cattelot   Anne-Laure,Millienne   Bruno,1,1
+Cattelot   Anne-Laure,Buchou   Stéphane,1,1
+Cattelot   Anne-Laure,Fugit   Jean-Luc,1,1
+Cattelot   Anne-Laure,Ali   Ramlati,1,1
+Park   Zivka,Manin   Josette,1,1
+Park   Zivka,Forteza   Paula,1,1
+Park   Zivka,Charrière   Sylvie,1,1
+Park   Zivka,Pichereau   Damien,1,1
+Park   Zivka,Lenne   Marion,1,1
+Park   Zivka,Kerbarh   Stéphanie,1,1
+Park   Zivka,Luquet   Aude,1,1
+Park   Zivka,Rossi   Laurianne,1,1
+Park   Zivka,Millienne   Bruno,1,1
+Park   Zivka,Buchou   Stéphane,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Park   Zivka,Ali   Ramlati,1,1
+Manin   Josette,Forteza   Paula,1,1
+Manin   Josette,Charrière   Sylvie,1,1
+Manin   Josette,Pichereau   Damien,1,1
+Manin   Josette,Lenne   Marion,1,1
+Manin   Josette,Kerbarh   Stéphanie,1,1
+Manin   Josette,Luquet   Aude,1,1
+Manin   Josette,Rossi   Laurianne,1,1
+Manin   Josette,Millienne   Bruno,1,1
+Manin   Josette,Buchou   Stéphane,1,1
+Manin   Josette,Fugit   Jean-Luc,1,1
+Manin   Josette,Ali   Ramlati,1,1
+Forteza   Paula,Charrière   Sylvie,1,1
+Forteza   Paula,Pichereau   Damien,1,1
+Forteza   Paula,Lenne   Marion,1,1
+Forteza   Paula,Kerbarh   Stéphanie,1,1
+Forteza   Paula,Luquet   Aude,1,1
+Forteza   Paula,Rossi   Laurianne,1,1
+Forteza   Paula,Millienne   Bruno,1,1
+Forteza   Paula,Buchou   Stéphane,1,1
+Forteza   Paula,Fugit   Jean-Luc,1,1
+Forteza   Paula,Ali   Ramlati,1,1
+Charrière   Sylvie,Pichereau   Damien,1,1
+Charrière   Sylvie,Lenne   Marion,1,1
+Charrière   Sylvie,Kerbarh   Stéphanie,1,1
+Charrière   Sylvie,Luquet   Aude,1,1
+Charrière   Sylvie,Rossi   Laurianne,1,1
+Charrière   Sylvie,Millienne   Bruno,1,1
+Charrière   Sylvie,Buchou   Stéphane,1,1
+Charrière   Sylvie,Fugit   Jean-Luc,1,1
+Charrière   Sylvie,Ali   Ramlati,1,1
+Pichereau   Damien,Lenne   Marion,1,1
+Pichereau   Damien,Kerbarh   Stéphanie,1,1
+Pichereau   Damien,Luquet   Aude,1,1
+Pichereau   Damien,Rossi   Laurianne,1,1
+Pichereau   Damien,Millienne   Bruno,1,1
+Pichereau   Damien,Buchou   Stéphane,1,1
+Pichereau   Damien,Fugit   Jean-Luc,1,1
+Pichereau   Damien,Ali   Ramlati,1,1
+Lenne   Marion,Kerbarh   Stéphanie,1,1
+Lenne   Marion,Luquet   Aude,1,1
+Lenne   Marion,Rossi   Laurianne,1,1
+Lenne   Marion,Millienne   Bruno,1,1
+Lenne   Marion,Buchou   Stéphane,1,1
+Lenne   Marion,Fugit   Jean-Luc,1,1
+Lenne   Marion,Ali   Ramlati,1,1
+Kerbarh   Stéphanie,Luquet   Aude,1,1
+Kerbarh   Stéphanie,Rossi   Laurianne,1,1
+Kerbarh   Stéphanie,Millienne   Bruno,1,1
+Kerbarh   Stéphanie,Buchou   Stéphane,1,1
+Kerbarh   Stéphanie,Fugit   Jean-Luc,1,1
+Kerbarh   Stéphanie,Ali   Ramlati,1,1
+Luquet   Aude,Rossi   Laurianne,1,1
+Luquet   Aude,Millienne   Bruno,1,1
+Luquet   Aude,Buchou   Stéphane,1,1
+Luquet   Aude,Fugit   Jean-Luc,1,1
+Luquet   Aude,Ali   Ramlati,1,1
+Rossi   Laurianne,Millienne   Bruno,1,1
+Rossi   Laurianne,Buchou   Stéphane,1,1
+Rossi   Laurianne,Fugit   Jean-Luc,1,1
+Rossi   Laurianne,Ali   Ramlati,1,1
+Millienne   Bruno,Buchou   Stéphane,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Ali   Ramlati,1,1
+Buchou   Stéphane,Fugit   Jean-Luc,1,1
+Buchou   Stéphane,Ali   Ramlati,1,1
+Fugit   Jean-Luc,Ali   Ramlati,1,1

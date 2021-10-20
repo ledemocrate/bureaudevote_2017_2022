@@ -1,0 +1,352 @@
+from,to,vote_commun,loi_commun
+David   Alain,Fanget   Michel,1,1
+David   Alain,Hutin   Christian,1,1
+David   Alain,Lecoq   Jean-Paul,0,1
+David   Alain,Battistel   Marie-Noëlle,1,1
+David   Alain,Potier   Dominique,1,1
+David   Alain,Pires Beaune   Christine,1,1
+David   Alain,Charvier   Fannette,1,1
+David   Alain,Khattabi   Fadila,1,1
+David   Alain,Joncour   Bruno,1,1
+David   Alain,Kerlogot   Yannick,1,1
+David   Alain,Chapelier   Annie,1,1
+David   Alain,Prud'homme   Loïc,0,1
+David   Alain,Krimi   Sonia,1,1
+David   Alain,Girardin   Éric,1,1
+David   Alain,Fiat   Caroline,0,1
+David   Alain,Jacques   Jean-Michel,1,1
+David   Alain,Trisse   Nicole,1,1
+David   Alain,Di Pompeo   Christophe,1,1
+David   Alain,Liso   Brigitte,1,1
+David   Alain,Thomas   Valérie,1,1
+David   Alain,Lakrafi   Amélia,1,1
+David   Alain,Genetet   Anne,1,1
+David   Alain,Lenne   Marion,1,1
+David   Alain,Kokouendo   Rodrigue,1,1
+David   Alain,Leguille-Balloy   Martine,1,1
+David   Alain,Thiébaut   Vincent,1,1
+Fanget   Michel,Hutin   Christian,1,1
+Fanget   Michel,Lecoq   Jean-Paul,0,1
+Fanget   Michel,Battistel   Marie-Noëlle,1,1
+Fanget   Michel,Potier   Dominique,1,1
+Fanget   Michel,Pires Beaune   Christine,1,1
+Fanget   Michel,Charvier   Fannette,1,1
+Fanget   Michel,Khattabi   Fadila,1,1
+Fanget   Michel,Joncour   Bruno,1,1
+Fanget   Michel,Kerlogot   Yannick,1,1
+Fanget   Michel,Chapelier   Annie,1,1
+Fanget   Michel,Prud'homme   Loïc,0,1
+Fanget   Michel,Krimi   Sonia,1,1
+Fanget   Michel,Girardin   Éric,1,1
+Fanget   Michel,Fiat   Caroline,0,1
+Fanget   Michel,Jacques   Jean-Michel,1,1
+Fanget   Michel,Trisse   Nicole,1,1
+Fanget   Michel,Di Pompeo   Christophe,1,1
+Fanget   Michel,Liso   Brigitte,1,1
+Fanget   Michel,Thomas   Valérie,1,1
+Fanget   Michel,Lakrafi   Amélia,1,1
+Fanget   Michel,Genetet   Anne,1,1
+Fanget   Michel,Lenne   Marion,1,1
+Fanget   Michel,Kokouendo   Rodrigue,1,1
+Fanget   Michel,Leguille-Balloy   Martine,1,1
+Fanget   Michel,Thiébaut   Vincent,1,1
+Hutin   Christian,Lecoq   Jean-Paul,0,1
+Hutin   Christian,Battistel   Marie-Noëlle,1,1
+Hutin   Christian,Potier   Dominique,1,1
+Hutin   Christian,Pires Beaune   Christine,1,1
+Hutin   Christian,Charvier   Fannette,1,1
+Hutin   Christian,Khattabi   Fadila,1,1
+Hutin   Christian,Joncour   Bruno,1,1
+Hutin   Christian,Kerlogot   Yannick,1,1
+Hutin   Christian,Chapelier   Annie,1,1
+Hutin   Christian,Prud'homme   Loïc,0,1
+Hutin   Christian,Krimi   Sonia,1,1
+Hutin   Christian,Girardin   Éric,1,1
+Hutin   Christian,Fiat   Caroline,0,1
+Hutin   Christian,Jacques   Jean-Michel,1,1
+Hutin   Christian,Trisse   Nicole,1,1
+Hutin   Christian,Di Pompeo   Christophe,1,1
+Hutin   Christian,Liso   Brigitte,1,1
+Hutin   Christian,Thomas   Valérie,1,1
+Hutin   Christian,Lakrafi   Amélia,1,1
+Hutin   Christian,Genetet   Anne,1,1
+Hutin   Christian,Lenne   Marion,1,1
+Hutin   Christian,Kokouendo   Rodrigue,1,1
+Hutin   Christian,Leguille-Balloy   Martine,1,1
+Hutin   Christian,Thiébaut   Vincent,1,1
+Lecoq   Jean-Paul,Battistel   Marie-Noëlle,0,1
+Lecoq   Jean-Paul,Potier   Dominique,0,1
+Lecoq   Jean-Paul,Pires Beaune   Christine,0,1
+Lecoq   Jean-Paul,Charvier   Fannette,0,1
+Lecoq   Jean-Paul,Khattabi   Fadila,0,1
+Lecoq   Jean-Paul,Joncour   Bruno,0,1
+Lecoq   Jean-Paul,Kerlogot   Yannick,0,1
+Lecoq   Jean-Paul,Chapelier   Annie,0,1
+Lecoq   Jean-Paul,Prud'homme   Loïc,1,1
+Lecoq   Jean-Paul,Krimi   Sonia,0,1
+Lecoq   Jean-Paul,Girardin   Éric,0,1
+Lecoq   Jean-Paul,Fiat   Caroline,1,1
+Lecoq   Jean-Paul,Jacques   Jean-Michel,0,1
+Lecoq   Jean-Paul,Trisse   Nicole,0,1
+Lecoq   Jean-Paul,Di Pompeo   Christophe,0,1
+Lecoq   Jean-Paul,Liso   Brigitte,0,1
+Lecoq   Jean-Paul,Thomas   Valérie,0,1
+Lecoq   Jean-Paul,Lakrafi   Amélia,0,1
+Lecoq   Jean-Paul,Genetet   Anne,0,1
+Lecoq   Jean-Paul,Lenne   Marion,0,1
+Lecoq   Jean-Paul,Kokouendo   Rodrigue,0,1
+Lecoq   Jean-Paul,Leguille-Balloy   Martine,0,1
+Lecoq   Jean-Paul,Thiébaut   Vincent,0,1
+Battistel   Marie-Noëlle,Potier   Dominique,1,1
+Battistel   Marie-Noëlle,Pires Beaune   Christine,1,1
+Battistel   Marie-Noëlle,Charvier   Fannette,1,1
+Battistel   Marie-Noëlle,Khattabi   Fadila,1,1
+Battistel   Marie-Noëlle,Joncour   Bruno,1,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,1,1
+Battistel   Marie-Noëlle,Chapelier   Annie,1,1
+Battistel   Marie-Noëlle,Prud'homme   Loïc,0,1
+Battistel   Marie-Noëlle,Krimi   Sonia,1,1
+Battistel   Marie-Noëlle,Girardin   Éric,1,1
+Battistel   Marie-Noëlle,Fiat   Caroline,0,1
+Battistel   Marie-Noëlle,Jacques   Jean-Michel,1,1
+Battistel   Marie-Noëlle,Trisse   Nicole,1,1
+Battistel   Marie-Noëlle,Di Pompeo   Christophe,1,1
+Battistel   Marie-Noëlle,Liso   Brigitte,1,1
+Battistel   Marie-Noëlle,Thomas   Valérie,1,1
+Battistel   Marie-Noëlle,Lakrafi   Amélia,1,1
+Battistel   Marie-Noëlle,Genetet   Anne,1,1
+Battistel   Marie-Noëlle,Lenne   Marion,1,1
+Battistel   Marie-Noëlle,Kokouendo   Rodrigue,1,1
+Battistel   Marie-Noëlle,Leguille-Balloy   Martine,1,1
+Battistel   Marie-Noëlle,Thiébaut   Vincent,1,1
+Potier   Dominique,Pires Beaune   Christine,1,1
+Potier   Dominique,Charvier   Fannette,1,1
+Potier   Dominique,Khattabi   Fadila,1,1
+Potier   Dominique,Joncour   Bruno,1,1
+Potier   Dominique,Kerlogot   Yannick,1,1
+Potier   Dominique,Chapelier   Annie,1,1
+Potier   Dominique,Prud'homme   Loïc,0,1
+Potier   Dominique,Krimi   Sonia,1,1
+Potier   Dominique,Girardin   Éric,1,1
+Potier   Dominique,Fiat   Caroline,0,1
+Potier   Dominique,Jacques   Jean-Michel,1,1
+Potier   Dominique,Trisse   Nicole,1,1
+Potier   Dominique,Di Pompeo   Christophe,1,1
+Potier   Dominique,Liso   Brigitte,1,1
+Potier   Dominique,Thomas   Valérie,1,1
+Potier   Dominique,Lakrafi   Amélia,1,1
+Potier   Dominique,Genetet   Anne,1,1
+Potier   Dominique,Lenne   Marion,1,1
+Potier   Dominique,Kokouendo   Rodrigue,1,1
+Potier   Dominique,Leguille-Balloy   Martine,1,1
+Potier   Dominique,Thiébaut   Vincent,1,1
+Pires Beaune   Christine,Charvier   Fannette,1,1
+Pires Beaune   Christine,Khattabi   Fadila,1,1
+Pires Beaune   Christine,Joncour   Bruno,1,1
+Pires Beaune   Christine,Kerlogot   Yannick,1,1
+Pires Beaune   Christine,Chapelier   Annie,1,1
+Pires Beaune   Christine,Prud'homme   Loïc,0,1
+Pires Beaune   Christine,Krimi   Sonia,1,1
+Pires Beaune   Christine,Girardin   Éric,1,1
+Pires Beaune   Christine,Fiat   Caroline,0,1
+Pires Beaune   Christine,Jacques   Jean-Michel,1,1
+Pires Beaune   Christine,Trisse   Nicole,1,1
+Pires Beaune   Christine,Di Pompeo   Christophe,1,1
+Pires Beaune   Christine,Liso   Brigitte,1,1
+Pires Beaune   Christine,Thomas   Valérie,1,1
+Pires Beaune   Christine,Lakrafi   Amélia,1,1
+Pires Beaune   Christine,Genetet   Anne,1,1
+Pires Beaune   Christine,Lenne   Marion,1,1
+Pires Beaune   Christine,Kokouendo   Rodrigue,1,1
+Pires Beaune   Christine,Leguille-Balloy   Martine,1,1
+Pires Beaune   Christine,Thiébaut   Vincent,1,1
+Charvier   Fannette,Khattabi   Fadila,1,1
+Charvier   Fannette,Joncour   Bruno,1,1
+Charvier   Fannette,Kerlogot   Yannick,1,1
+Charvier   Fannette,Chapelier   Annie,1,1
+Charvier   Fannette,Prud'homme   Loïc,0,1
+Charvier   Fannette,Krimi   Sonia,1,1
+Charvier   Fannette,Girardin   Éric,1,1
+Charvier   Fannette,Fiat   Caroline,0,1
+Charvier   Fannette,Jacques   Jean-Michel,1,1
+Charvier   Fannette,Trisse   Nicole,1,1
+Charvier   Fannette,Di Pompeo   Christophe,1,1
+Charvier   Fannette,Liso   Brigitte,1,1
+Charvier   Fannette,Thomas   Valérie,1,1
+Charvier   Fannette,Lakrafi   Amélia,1,1
+Charvier   Fannette,Genetet   Anne,1,1
+Charvier   Fannette,Lenne   Marion,1,1
+Charvier   Fannette,Kokouendo   Rodrigue,1,1
+Charvier   Fannette,Leguille-Balloy   Martine,1,1
+Charvier   Fannette,Thiébaut   Vincent,1,1
+Khattabi   Fadila,Joncour   Bruno,1,1
+Khattabi   Fadila,Kerlogot   Yannick,1,1
+Khattabi   Fadila,Chapelier   Annie,1,1
+Khattabi   Fadila,Prud'homme   Loïc,0,1
+Khattabi   Fadila,Krimi   Sonia,1,1
+Khattabi   Fadila,Girardin   Éric,1,1
+Khattabi   Fadila,Fiat   Caroline,0,1
+Khattabi   Fadila,Jacques   Jean-Michel,1,1
+Khattabi   Fadila,Trisse   Nicole,1,1
+Khattabi   Fadila,Di Pompeo   Christophe,1,1
+Khattabi   Fadila,Liso   Brigitte,1,1
+Khattabi   Fadila,Thomas   Valérie,1,1
+Khattabi   Fadila,Lakrafi   Amélia,1,1
+Khattabi   Fadila,Genetet   Anne,1,1
+Khattabi   Fadila,Lenne   Marion,1,1
+Khattabi   Fadila,Kokouendo   Rodrigue,1,1
+Khattabi   Fadila,Leguille-Balloy   Martine,1,1
+Khattabi   Fadila,Thiébaut   Vincent,1,1
+Joncour   Bruno,Kerlogot   Yannick,1,1
+Joncour   Bruno,Chapelier   Annie,1,1
+Joncour   Bruno,Prud'homme   Loïc,0,1
+Joncour   Bruno,Krimi   Sonia,1,1
+Joncour   Bruno,Girardin   Éric,1,1
+Joncour   Bruno,Fiat   Caroline,0,1
+Joncour   Bruno,Jacques   Jean-Michel,1,1
+Joncour   Bruno,Trisse   Nicole,1,1
+Joncour   Bruno,Di Pompeo   Christophe,1,1
+Joncour   Bruno,Liso   Brigitte,1,1
+Joncour   Bruno,Thomas   Valérie,1,1
+Joncour   Bruno,Lakrafi   Amélia,1,1
+Joncour   Bruno,Genetet   Anne,1,1
+Joncour   Bruno,Lenne   Marion,1,1
+Joncour   Bruno,Kokouendo   Rodrigue,1,1
+Joncour   Bruno,Leguille-Balloy   Martine,1,1
+Joncour   Bruno,Thiébaut   Vincent,1,1
+Kerlogot   Yannick,Chapelier   Annie,1,1
+Kerlogot   Yannick,Prud'homme   Loïc,0,1
+Kerlogot   Yannick,Krimi   Sonia,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Fiat   Caroline,0,1
+Kerlogot   Yannick,Jacques   Jean-Michel,1,1
+Kerlogot   Yannick,Trisse   Nicole,1,1
+Kerlogot   Yannick,Di Pompeo   Christophe,1,1
+Kerlogot   Yannick,Liso   Brigitte,1,1
+Kerlogot   Yannick,Thomas   Valérie,1,1
+Kerlogot   Yannick,Lakrafi   Amélia,1,1
+Kerlogot   Yannick,Genetet   Anne,1,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Kokouendo   Rodrigue,1,1
+Kerlogot   Yannick,Leguille-Balloy   Martine,1,1
+Kerlogot   Yannick,Thiébaut   Vincent,1,1
+Chapelier   Annie,Prud'homme   Loïc,0,1
+Chapelier   Annie,Krimi   Sonia,1,1
+Chapelier   Annie,Girardin   Éric,1,1
+Chapelier   Annie,Fiat   Caroline,0,1
+Chapelier   Annie,Jacques   Jean-Michel,1,1
+Chapelier   Annie,Trisse   Nicole,1,1
+Chapelier   Annie,Di Pompeo   Christophe,1,1
+Chapelier   Annie,Liso   Brigitte,1,1
+Chapelier   Annie,Thomas   Valérie,1,1
+Chapelier   Annie,Lakrafi   Amélia,1,1
+Chapelier   Annie,Genetet   Anne,1,1
+Chapelier   Annie,Lenne   Marion,1,1
+Chapelier   Annie,Kokouendo   Rodrigue,1,1
+Chapelier   Annie,Leguille-Balloy   Martine,1,1
+Chapelier   Annie,Thiébaut   Vincent,1,1
+Prud'homme   Loïc,Krimi   Sonia,0,1
+Prud'homme   Loïc,Girardin   Éric,0,1
+Prud'homme   Loïc,Fiat   Caroline,1,1
+Prud'homme   Loïc,Jacques   Jean-Michel,0,1
+Prud'homme   Loïc,Trisse   Nicole,0,1
+Prud'homme   Loïc,Di Pompeo   Christophe,0,1
+Prud'homme   Loïc,Liso   Brigitte,0,1
+Prud'homme   Loïc,Thomas   Valérie,0,1
+Prud'homme   Loïc,Lakrafi   Amélia,0,1
+Prud'homme   Loïc,Genetet   Anne,0,1
+Prud'homme   Loïc,Lenne   Marion,0,1
+Prud'homme   Loïc,Kokouendo   Rodrigue,0,1
+Prud'homme   Loïc,Leguille-Balloy   Martine,0,1
+Prud'homme   Loïc,Thiébaut   Vincent,0,1
+Krimi   Sonia,Girardin   Éric,1,1
+Krimi   Sonia,Fiat   Caroline,0,1
+Krimi   Sonia,Jacques   Jean-Michel,1,1
+Krimi   Sonia,Trisse   Nicole,1,1
+Krimi   Sonia,Di Pompeo   Christophe,1,1
+Krimi   Sonia,Liso   Brigitte,1,1
+Krimi   Sonia,Thomas   Valérie,1,1
+Krimi   Sonia,Lakrafi   Amélia,1,1
+Krimi   Sonia,Genetet   Anne,1,1
+Krimi   Sonia,Lenne   Marion,1,1
+Krimi   Sonia,Kokouendo   Rodrigue,1,1
+Krimi   Sonia,Leguille-Balloy   Martine,1,1
+Krimi   Sonia,Thiébaut   Vincent,1,1
+Girardin   Éric,Fiat   Caroline,0,1
+Girardin   Éric,Jacques   Jean-Michel,1,1
+Girardin   Éric,Trisse   Nicole,1,1
+Girardin   Éric,Di Pompeo   Christophe,1,1
+Girardin   Éric,Liso   Brigitte,1,1
+Girardin   Éric,Thomas   Valérie,1,1
+Girardin   Éric,Lakrafi   Amélia,1,1
+Girardin   Éric,Genetet   Anne,1,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Kokouendo   Rodrigue,1,1
+Girardin   Éric,Leguille-Balloy   Martine,1,1
+Girardin   Éric,Thiébaut   Vincent,1,1
+Fiat   Caroline,Jacques   Jean-Michel,0,1
+Fiat   Caroline,Trisse   Nicole,0,1
+Fiat   Caroline,Di Pompeo   Christophe,0,1
+Fiat   Caroline,Liso   Brigitte,0,1
+Fiat   Caroline,Thomas   Valérie,0,1
+Fiat   Caroline,Lakrafi   Amélia,0,1
+Fiat   Caroline,Genetet   Anne,0,1
+Fiat   Caroline,Lenne   Marion,0,1
+Fiat   Caroline,Kokouendo   Rodrigue,0,1
+Fiat   Caroline,Leguille-Balloy   Martine,0,1
+Fiat   Caroline,Thiébaut   Vincent,0,1
+Jacques   Jean-Michel,Trisse   Nicole,1,1
+Jacques   Jean-Michel,Di Pompeo   Christophe,1,1
+Jacques   Jean-Michel,Liso   Brigitte,1,1
+Jacques   Jean-Michel,Thomas   Valérie,1,1
+Jacques   Jean-Michel,Lakrafi   Amélia,1,1
+Jacques   Jean-Michel,Genetet   Anne,1,1
+Jacques   Jean-Michel,Lenne   Marion,1,1
+Jacques   Jean-Michel,Kokouendo   Rodrigue,1,1
+Jacques   Jean-Michel,Leguille-Balloy   Martine,1,1
+Jacques   Jean-Michel,Thiébaut   Vincent,1,1
+Trisse   Nicole,Di Pompeo   Christophe,1,1
+Trisse   Nicole,Liso   Brigitte,1,1
+Trisse   Nicole,Thomas   Valérie,1,1
+Trisse   Nicole,Lakrafi   Amélia,1,1
+Trisse   Nicole,Genetet   Anne,1,1
+Trisse   Nicole,Lenne   Marion,1,1
+Trisse   Nicole,Kokouendo   Rodrigue,1,1
+Trisse   Nicole,Leguille-Balloy   Martine,1,1
+Trisse   Nicole,Thiébaut   Vincent,1,1
+Di Pompeo   Christophe,Liso   Brigitte,1,1
+Di Pompeo   Christophe,Thomas   Valérie,1,1
+Di Pompeo   Christophe,Lakrafi   Amélia,1,1
+Di Pompeo   Christophe,Genetet   Anne,1,1
+Di Pompeo   Christophe,Lenne   Marion,1,1
+Di Pompeo   Christophe,Kokouendo   Rodrigue,1,1
+Di Pompeo   Christophe,Leguille-Balloy   Martine,1,1
+Di Pompeo   Christophe,Thiébaut   Vincent,1,1
+Liso   Brigitte,Thomas   Valérie,1,1
+Liso   Brigitte,Lakrafi   Amélia,1,1
+Liso   Brigitte,Genetet   Anne,1,1
+Liso   Brigitte,Lenne   Marion,1,1
+Liso   Brigitte,Kokouendo   Rodrigue,1,1
+Liso   Brigitte,Leguille-Balloy   Martine,1,1
+Liso   Brigitte,Thiébaut   Vincent,1,1
+Thomas   Valérie,Lakrafi   Amélia,1,1
+Thomas   Valérie,Genetet   Anne,1,1
+Thomas   Valérie,Lenne   Marion,1,1
+Thomas   Valérie,Kokouendo   Rodrigue,1,1
+Thomas   Valérie,Leguille-Balloy   Martine,1,1
+Thomas   Valérie,Thiébaut   Vincent,1,1
+Lakrafi   Amélia,Genetet   Anne,1,1
+Lakrafi   Amélia,Lenne   Marion,1,1
+Lakrafi   Amélia,Kokouendo   Rodrigue,1,1
+Lakrafi   Amélia,Leguille-Balloy   Martine,1,1
+Lakrafi   Amélia,Thiébaut   Vincent,1,1
+Genetet   Anne,Lenne   Marion,1,1
+Genetet   Anne,Kokouendo   Rodrigue,1,1
+Genetet   Anne,Leguille-Balloy   Martine,1,1
+Genetet   Anne,Thiébaut   Vincent,1,1
+Lenne   Marion,Kokouendo   Rodrigue,1,1
+Lenne   Marion,Leguille-Balloy   Martine,1,1
+Lenne   Marion,Thiébaut   Vincent,1,1
+Kokouendo   Rodrigue,Leguille-Balloy   Martine,1,1
+Kokouendo   Rodrigue,Thiébaut   Vincent,1,1
+Leguille-Balloy   Martine,Thiébaut   Vincent,1,1

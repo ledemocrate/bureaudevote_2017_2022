@@ -1,0 +1,667 @@
+from,to,vote_commun,loi_commun
+Mélenchon   Jean-Luc,Pont   Jean-Pierre,0,1
+Mélenchon   Jean-Luc,Sermier   Jean-Marie,1,1
+Mélenchon   Jean-Luc,Descoeur   Vincent,1,1
+Mélenchon   Jean-Luc,Gomès   Philippe,0,1
+Mélenchon   Jean-Luc,Sage   Maina,0,1
+Mélenchon   Jean-Luc,Perea   Alain,0,1
+Mélenchon   Jean-Luc,Marsaud   Sandra,0,1
+Mélenchon   Jean-Luc,Castellani   Michel,1,1
+Mélenchon   Jean-Luc,Martin   Didier,0,1
+Mélenchon   Jean-Luc,Colombani   Paul-André,1,1
+Mélenchon   Jean-Luc,Le Meur   Annaïg,0,1
+Mélenchon   Jean-Luc,Cazeneuve   Jean-René,0,1
+Mélenchon   Jean-Luc,Panonacle   Sophie,0,1
+Mélenchon   Jean-Luc,Hammerer   Véronique,0,1
+Mélenchon   Jean-Luc,Causse   Lionel,0,1
+Mélenchon   Jean-Luc,Mis   Jean-Michel,0,1
+Mélenchon   Jean-Luc,Kuric   Aina,0,1
+Mélenchon   Jean-Luc,Paluszkiewicz   Xavier,0,1
+Mélenchon   Jean-Luc,Lasserre   Florence,0,1
+Mélenchon   Jean-Luc,Mbaye   Jean François,0,1
+Mélenchon   Jean-Luc,Panot   Mathilde,1,1
+Mélenchon   Jean-Luc,Manin   Josette,0,1
+Mélenchon   Jean-Luc,Dumas   Frédérique,0,1
+Mélenchon   Jean-Luc,Petit   Maud,0,1
+Mélenchon   Jean-Luc,Gaillot   Albane,0,1
+Mélenchon   Jean-Luc,Ramadier   Alain,1,1
+Mélenchon   Jean-Luc,Le Gendre   Gilles,0,1
+Mélenchon   Jean-Luc,Kerbarh   Stéphanie,0,1
+Mélenchon   Jean-Luc,Rupin   Pacôme,0,1
+Mélenchon   Jean-Luc,Kokouendo   Rodrigue,0,1
+Mélenchon   Jean-Luc,Baichère   Didier,0,1
+Mélenchon   Jean-Luc,Raphan   Pierre-Alain,0,1
+Mélenchon   Jean-Luc,Leguille-Balloy   Martine,0,1
+Mélenchon   Jean-Luc,Leclabart   Jean-Claude,0,1
+Mélenchon   Jean-Luc,Wonner   Martine,0,1
+Mélenchon   Jean-Luc,Thiébaut   Vincent,0,1
+Pont   Jean-Pierre,Sermier   Jean-Marie,0,1
+Pont   Jean-Pierre,Descoeur   Vincent,0,1
+Pont   Jean-Pierre,Gomès   Philippe,1,1
+Pont   Jean-Pierre,Sage   Maina,1,1
+Pont   Jean-Pierre,Perea   Alain,1,1
+Pont   Jean-Pierre,Marsaud   Sandra,1,1
+Pont   Jean-Pierre,Castellani   Michel,0,1
+Pont   Jean-Pierre,Martin   Didier,1,1
+Pont   Jean-Pierre,Colombani   Paul-André,0,1
+Pont   Jean-Pierre,Le Meur   Annaïg,1,1
+Pont   Jean-Pierre,Cazeneuve   Jean-René,1,1
+Pont   Jean-Pierre,Panonacle   Sophie,1,1
+Pont   Jean-Pierre,Hammerer   Véronique,1,1
+Pont   Jean-Pierre,Causse   Lionel,1,1
+Pont   Jean-Pierre,Mis   Jean-Michel,1,1
+Pont   Jean-Pierre,Kuric   Aina,1,1
+Pont   Jean-Pierre,Paluszkiewicz   Xavier,1,1
+Pont   Jean-Pierre,Lasserre   Florence,1,1
+Pont   Jean-Pierre,Mbaye   Jean François,1,1
+Pont   Jean-Pierre,Panot   Mathilde,0,1
+Pont   Jean-Pierre,Manin   Josette,1,1
+Pont   Jean-Pierre,Dumas   Frédérique,1,1
+Pont   Jean-Pierre,Petit   Maud,1,1
+Pont   Jean-Pierre,Gaillot   Albane,1,1
+Pont   Jean-Pierre,Ramadier   Alain,0,1
+Pont   Jean-Pierre,Le Gendre   Gilles,1,1
+Pont   Jean-Pierre,Kerbarh   Stéphanie,1,1
+Pont   Jean-Pierre,Rupin   Pacôme,1,1
+Pont   Jean-Pierre,Kokouendo   Rodrigue,1,1
+Pont   Jean-Pierre,Baichère   Didier,1,1
+Pont   Jean-Pierre,Raphan   Pierre-Alain,1,1
+Pont   Jean-Pierre,Leguille-Balloy   Martine,1,1
+Pont   Jean-Pierre,Leclabart   Jean-Claude,1,1
+Pont   Jean-Pierre,Wonner   Martine,1,1
+Pont   Jean-Pierre,Thiébaut   Vincent,1,1
+Sermier   Jean-Marie,Descoeur   Vincent,1,1
+Sermier   Jean-Marie,Gomès   Philippe,0,1
+Sermier   Jean-Marie,Sage   Maina,0,1
+Sermier   Jean-Marie,Perea   Alain,0,1
+Sermier   Jean-Marie,Marsaud   Sandra,0,1
+Sermier   Jean-Marie,Castellani   Michel,1,1
+Sermier   Jean-Marie,Martin   Didier,0,1
+Sermier   Jean-Marie,Colombani   Paul-André,1,1
+Sermier   Jean-Marie,Le Meur   Annaïg,0,1
+Sermier   Jean-Marie,Cazeneuve   Jean-René,0,1
+Sermier   Jean-Marie,Panonacle   Sophie,0,1
+Sermier   Jean-Marie,Hammerer   Véronique,0,1
+Sermier   Jean-Marie,Causse   Lionel,0,1
+Sermier   Jean-Marie,Mis   Jean-Michel,0,1
+Sermier   Jean-Marie,Kuric   Aina,0,1
+Sermier   Jean-Marie,Paluszkiewicz   Xavier,0,1
+Sermier   Jean-Marie,Lasserre   Florence,0,1
+Sermier   Jean-Marie,Mbaye   Jean François,0,1
+Sermier   Jean-Marie,Panot   Mathilde,1,1
+Sermier   Jean-Marie,Manin   Josette,0,1
+Sermier   Jean-Marie,Dumas   Frédérique,0,1
+Sermier   Jean-Marie,Petit   Maud,0,1
+Sermier   Jean-Marie,Gaillot   Albane,0,1
+Sermier   Jean-Marie,Ramadier   Alain,1,1
+Sermier   Jean-Marie,Le Gendre   Gilles,0,1
+Sermier   Jean-Marie,Kerbarh   Stéphanie,0,1
+Sermier   Jean-Marie,Rupin   Pacôme,0,1
+Sermier   Jean-Marie,Kokouendo   Rodrigue,0,1
+Sermier   Jean-Marie,Baichère   Didier,0,1
+Sermier   Jean-Marie,Raphan   Pierre-Alain,0,1
+Sermier   Jean-Marie,Leguille-Balloy   Martine,0,1
+Sermier   Jean-Marie,Leclabart   Jean-Claude,0,1
+Sermier   Jean-Marie,Wonner   Martine,0,1
+Sermier   Jean-Marie,Thiébaut   Vincent,0,1
+Descoeur   Vincent,Gomès   Philippe,0,1
+Descoeur   Vincent,Sage   Maina,0,1
+Descoeur   Vincent,Perea   Alain,0,1
+Descoeur   Vincent,Marsaud   Sandra,0,1
+Descoeur   Vincent,Castellani   Michel,1,1
+Descoeur   Vincent,Martin   Didier,0,1
+Descoeur   Vincent,Colombani   Paul-André,1,1
+Descoeur   Vincent,Le Meur   Annaïg,0,1
+Descoeur   Vincent,Cazeneuve   Jean-René,0,1
+Descoeur   Vincent,Panonacle   Sophie,0,1
+Descoeur   Vincent,Hammerer   Véronique,0,1
+Descoeur   Vincent,Causse   Lionel,0,1
+Descoeur   Vincent,Mis   Jean-Michel,0,1
+Descoeur   Vincent,Kuric   Aina,0,1
+Descoeur   Vincent,Paluszkiewicz   Xavier,0,1
+Descoeur   Vincent,Lasserre   Florence,0,1
+Descoeur   Vincent,Mbaye   Jean François,0,1
+Descoeur   Vincent,Panot   Mathilde,1,1
+Descoeur   Vincent,Manin   Josette,0,1
+Descoeur   Vincent,Dumas   Frédérique,0,1
+Descoeur   Vincent,Petit   Maud,0,1
+Descoeur   Vincent,Gaillot   Albane,0,1
+Descoeur   Vincent,Ramadier   Alain,1,1
+Descoeur   Vincent,Le Gendre   Gilles,0,1
+Descoeur   Vincent,Kerbarh   Stéphanie,0,1
+Descoeur   Vincent,Rupin   Pacôme,0,1
+Descoeur   Vincent,Kokouendo   Rodrigue,0,1
+Descoeur   Vincent,Baichère   Didier,0,1
+Descoeur   Vincent,Raphan   Pierre-Alain,0,1
+Descoeur   Vincent,Leguille-Balloy   Martine,0,1
+Descoeur   Vincent,Leclabart   Jean-Claude,0,1
+Descoeur   Vincent,Wonner   Martine,0,1
+Descoeur   Vincent,Thiébaut   Vincent,0,1
+Gomès   Philippe,Sage   Maina,1,1
+Gomès   Philippe,Perea   Alain,1,1
+Gomès   Philippe,Marsaud   Sandra,1,1
+Gomès   Philippe,Castellani   Michel,0,1
+Gomès   Philippe,Martin   Didier,1,1
+Gomès   Philippe,Colombani   Paul-André,0,1
+Gomès   Philippe,Le Meur   Annaïg,1,1
+Gomès   Philippe,Cazeneuve   Jean-René,1,1
+Gomès   Philippe,Panonacle   Sophie,1,1
+Gomès   Philippe,Hammerer   Véronique,1,1
+Gomès   Philippe,Causse   Lionel,1,1
+Gomès   Philippe,Mis   Jean-Michel,1,1
+Gomès   Philippe,Kuric   Aina,1,1
+Gomès   Philippe,Paluszkiewicz   Xavier,1,1
+Gomès   Philippe,Lasserre   Florence,1,1
+Gomès   Philippe,Mbaye   Jean François,1,1
+Gomès   Philippe,Panot   Mathilde,0,1
+Gomès   Philippe,Manin   Josette,1,1
+Gomès   Philippe,Dumas   Frédérique,1,1
+Gomès   Philippe,Petit   Maud,1,1
+Gomès   Philippe,Gaillot   Albane,1,1
+Gomès   Philippe,Ramadier   Alain,0,1
+Gomès   Philippe,Le Gendre   Gilles,1,1
+Gomès   Philippe,Kerbarh   Stéphanie,1,1
+Gomès   Philippe,Rupin   Pacôme,1,1
+Gomès   Philippe,Kokouendo   Rodrigue,1,1
+Gomès   Philippe,Baichère   Didier,1,1
+Gomès   Philippe,Raphan   Pierre-Alain,1,1
+Gomès   Philippe,Leguille-Balloy   Martine,1,1
+Gomès   Philippe,Leclabart   Jean-Claude,1,1
+Gomès   Philippe,Wonner   Martine,1,1
+Gomès   Philippe,Thiébaut   Vincent,1,1
+Sage   Maina,Perea   Alain,1,1
+Sage   Maina,Marsaud   Sandra,1,1
+Sage   Maina,Castellani   Michel,0,1
+Sage   Maina,Martin   Didier,1,1
+Sage   Maina,Colombani   Paul-André,0,1
+Sage   Maina,Le Meur   Annaïg,1,1
+Sage   Maina,Cazeneuve   Jean-René,1,1
+Sage   Maina,Panonacle   Sophie,1,1
+Sage   Maina,Hammerer   Véronique,1,1
+Sage   Maina,Causse   Lionel,1,1
+Sage   Maina,Mis   Jean-Michel,1,1
+Sage   Maina,Kuric   Aina,1,1
+Sage   Maina,Paluszkiewicz   Xavier,1,1
+Sage   Maina,Lasserre   Florence,1,1
+Sage   Maina,Mbaye   Jean François,1,1
+Sage   Maina,Panot   Mathilde,0,1
+Sage   Maina,Manin   Josette,1,1
+Sage   Maina,Dumas   Frédérique,1,1
+Sage   Maina,Petit   Maud,1,1
+Sage   Maina,Gaillot   Albane,1,1
+Sage   Maina,Ramadier   Alain,0,1
+Sage   Maina,Le Gendre   Gilles,1,1
+Sage   Maina,Kerbarh   Stéphanie,1,1
+Sage   Maina,Rupin   Pacôme,1,1
+Sage   Maina,Kokouendo   Rodrigue,1,1
+Sage   Maina,Baichère   Didier,1,1
+Sage   Maina,Raphan   Pierre-Alain,1,1
+Sage   Maina,Leguille-Balloy   Martine,1,1
+Sage   Maina,Leclabart   Jean-Claude,1,1
+Sage   Maina,Wonner   Martine,1,1
+Sage   Maina,Thiébaut   Vincent,1,1
+Perea   Alain,Marsaud   Sandra,1,1
+Perea   Alain,Castellani   Michel,0,1
+Perea   Alain,Martin   Didier,1,1
+Perea   Alain,Colombani   Paul-André,0,1
+Perea   Alain,Le Meur   Annaïg,1,1
+Perea   Alain,Cazeneuve   Jean-René,1,1
+Perea   Alain,Panonacle   Sophie,1,1
+Perea   Alain,Hammerer   Véronique,1,1
+Perea   Alain,Causse   Lionel,1,1
+Perea   Alain,Mis   Jean-Michel,1,1
+Perea   Alain,Kuric   Aina,1,1
+Perea   Alain,Paluszkiewicz   Xavier,1,1
+Perea   Alain,Lasserre   Florence,1,1
+Perea   Alain,Mbaye   Jean François,1,1
+Perea   Alain,Panot   Mathilde,0,1
+Perea   Alain,Manin   Josette,1,1
+Perea   Alain,Dumas   Frédérique,1,1
+Perea   Alain,Petit   Maud,1,1
+Perea   Alain,Gaillot   Albane,1,1
+Perea   Alain,Ramadier   Alain,0,1
+Perea   Alain,Le Gendre   Gilles,1,1
+Perea   Alain,Kerbarh   Stéphanie,1,1
+Perea   Alain,Rupin   Pacôme,1,1
+Perea   Alain,Kokouendo   Rodrigue,1,1
+Perea   Alain,Baichère   Didier,1,1
+Perea   Alain,Raphan   Pierre-Alain,1,1
+Perea   Alain,Leguille-Balloy   Martine,1,1
+Perea   Alain,Leclabart   Jean-Claude,1,1
+Perea   Alain,Wonner   Martine,1,1
+Perea   Alain,Thiébaut   Vincent,1,1
+Marsaud   Sandra,Castellani   Michel,0,1
+Marsaud   Sandra,Martin   Didier,1,1
+Marsaud   Sandra,Colombani   Paul-André,0,1
+Marsaud   Sandra,Le Meur   Annaïg,1,1
+Marsaud   Sandra,Cazeneuve   Jean-René,1,1
+Marsaud   Sandra,Panonacle   Sophie,1,1
+Marsaud   Sandra,Hammerer   Véronique,1,1
+Marsaud   Sandra,Causse   Lionel,1,1
+Marsaud   Sandra,Mis   Jean-Michel,1,1
+Marsaud   Sandra,Kuric   Aina,1,1
+Marsaud   Sandra,Paluszkiewicz   Xavier,1,1
+Marsaud   Sandra,Lasserre   Florence,1,1
+Marsaud   Sandra,Mbaye   Jean François,1,1
+Marsaud   Sandra,Panot   Mathilde,0,1
+Marsaud   Sandra,Manin   Josette,1,1
+Marsaud   Sandra,Dumas   Frédérique,1,1
+Marsaud   Sandra,Petit   Maud,1,1
+Marsaud   Sandra,Gaillot   Albane,1,1
+Marsaud   Sandra,Ramadier   Alain,0,1
+Marsaud   Sandra,Le Gendre   Gilles,1,1
+Marsaud   Sandra,Kerbarh   Stéphanie,1,1
+Marsaud   Sandra,Rupin   Pacôme,1,1
+Marsaud   Sandra,Kokouendo   Rodrigue,1,1
+Marsaud   Sandra,Baichère   Didier,1,1
+Marsaud   Sandra,Raphan   Pierre-Alain,1,1
+Marsaud   Sandra,Leguille-Balloy   Martine,1,1
+Marsaud   Sandra,Leclabart   Jean-Claude,1,1
+Marsaud   Sandra,Wonner   Martine,1,1
+Marsaud   Sandra,Thiébaut   Vincent,1,1
+Castellani   Michel,Martin   Didier,0,1
+Castellani   Michel,Colombani   Paul-André,1,1
+Castellani   Michel,Le Meur   Annaïg,0,1
+Castellani   Michel,Cazeneuve   Jean-René,0,1
+Castellani   Michel,Panonacle   Sophie,0,1
+Castellani   Michel,Hammerer   Véronique,0,1
+Castellani   Michel,Causse   Lionel,0,1
+Castellani   Michel,Mis   Jean-Michel,0,1
+Castellani   Michel,Kuric   Aina,0,1
+Castellani   Michel,Paluszkiewicz   Xavier,0,1
+Castellani   Michel,Lasserre   Florence,0,1
+Castellani   Michel,Mbaye   Jean François,0,1
+Castellani   Michel,Panot   Mathilde,1,1
+Castellani   Michel,Manin   Josette,0,1
+Castellani   Michel,Dumas   Frédérique,0,1
+Castellani   Michel,Petit   Maud,0,1
+Castellani   Michel,Gaillot   Albane,0,1
+Castellani   Michel,Ramadier   Alain,1,1
+Castellani   Michel,Le Gendre   Gilles,0,1
+Castellani   Michel,Kerbarh   Stéphanie,0,1
+Castellani   Michel,Rupin   Pacôme,0,1
+Castellani   Michel,Kokouendo   Rodrigue,0,1
+Castellani   Michel,Baichère   Didier,0,1
+Castellani   Michel,Raphan   Pierre-Alain,0,1
+Castellani   Michel,Leguille-Balloy   Martine,0,1
+Castellani   Michel,Leclabart   Jean-Claude,0,1
+Castellani   Michel,Wonner   Martine,0,1
+Castellani   Michel,Thiébaut   Vincent,0,1
+Martin   Didier,Colombani   Paul-André,0,1
+Martin   Didier,Le Meur   Annaïg,1,1
+Martin   Didier,Cazeneuve   Jean-René,1,1
+Martin   Didier,Panonacle   Sophie,1,1
+Martin   Didier,Hammerer   Véronique,1,1
+Martin   Didier,Causse   Lionel,1,1
+Martin   Didier,Mis   Jean-Michel,1,1
+Martin   Didier,Kuric   Aina,1,1
+Martin   Didier,Paluszkiewicz   Xavier,1,1
+Martin   Didier,Lasserre   Florence,1,1
+Martin   Didier,Mbaye   Jean François,1,1
+Martin   Didier,Panot   Mathilde,0,1
+Martin   Didier,Manin   Josette,1,1
+Martin   Didier,Dumas   Frédérique,1,1
+Martin   Didier,Petit   Maud,1,1
+Martin   Didier,Gaillot   Albane,1,1
+Martin   Didier,Ramadier   Alain,0,1
+Martin   Didier,Le Gendre   Gilles,1,1
+Martin   Didier,Kerbarh   Stéphanie,1,1
+Martin   Didier,Rupin   Pacôme,1,1
+Martin   Didier,Kokouendo   Rodrigue,1,1
+Martin   Didier,Baichère   Didier,1,1
+Martin   Didier,Raphan   Pierre-Alain,1,1
+Martin   Didier,Leguille-Balloy   Martine,1,1
+Martin   Didier,Leclabart   Jean-Claude,1,1
+Martin   Didier,Wonner   Martine,1,1
+Martin   Didier,Thiébaut   Vincent,1,1
+Colombani   Paul-André,Le Meur   Annaïg,0,1
+Colombani   Paul-André,Cazeneuve   Jean-René,0,1
+Colombani   Paul-André,Panonacle   Sophie,0,1
+Colombani   Paul-André,Hammerer   Véronique,0,1
+Colombani   Paul-André,Causse   Lionel,0,1
+Colombani   Paul-André,Mis   Jean-Michel,0,1
+Colombani   Paul-André,Kuric   Aina,0,1
+Colombani   Paul-André,Paluszkiewicz   Xavier,0,1
+Colombani   Paul-André,Lasserre   Florence,0,1
+Colombani   Paul-André,Mbaye   Jean François,0,1
+Colombani   Paul-André,Panot   Mathilde,1,1
+Colombani   Paul-André,Manin   Josette,0,1
+Colombani   Paul-André,Dumas   Frédérique,0,1
+Colombani   Paul-André,Petit   Maud,0,1
+Colombani   Paul-André,Gaillot   Albane,0,1
+Colombani   Paul-André,Ramadier   Alain,1,1
+Colombani   Paul-André,Le Gendre   Gilles,0,1
+Colombani   Paul-André,Kerbarh   Stéphanie,0,1
+Colombani   Paul-André,Rupin   Pacôme,0,1
+Colombani   Paul-André,Kokouendo   Rodrigue,0,1
+Colombani   Paul-André,Baichère   Didier,0,1
+Colombani   Paul-André,Raphan   Pierre-Alain,0,1
+Colombani   Paul-André,Leguille-Balloy   Martine,0,1
+Colombani   Paul-André,Leclabart   Jean-Claude,0,1
+Colombani   Paul-André,Wonner   Martine,0,1
+Colombani   Paul-André,Thiébaut   Vincent,0,1
+Le Meur   Annaïg,Cazeneuve   Jean-René,1,1
+Le Meur   Annaïg,Panonacle   Sophie,1,1
+Le Meur   Annaïg,Hammerer   Véronique,1,1
+Le Meur   Annaïg,Causse   Lionel,1,1
+Le Meur   Annaïg,Mis   Jean-Michel,1,1
+Le Meur   Annaïg,Kuric   Aina,1,1
+Le Meur   Annaïg,Paluszkiewicz   Xavier,1,1
+Le Meur   Annaïg,Lasserre   Florence,1,1
+Le Meur   Annaïg,Mbaye   Jean François,1,1
+Le Meur   Annaïg,Panot   Mathilde,0,1
+Le Meur   Annaïg,Manin   Josette,1,1
+Le Meur   Annaïg,Dumas   Frédérique,1,1
+Le Meur   Annaïg,Petit   Maud,1,1
+Le Meur   Annaïg,Gaillot   Albane,1,1
+Le Meur   Annaïg,Ramadier   Alain,0,1
+Le Meur   Annaïg,Le Gendre   Gilles,1,1
+Le Meur   Annaïg,Kerbarh   Stéphanie,1,1
+Le Meur   Annaïg,Rupin   Pacôme,1,1
+Le Meur   Annaïg,Kokouendo   Rodrigue,1,1
+Le Meur   Annaïg,Baichère   Didier,1,1
+Le Meur   Annaïg,Raphan   Pierre-Alain,1,1
+Le Meur   Annaïg,Leguille-Balloy   Martine,1,1
+Le Meur   Annaïg,Leclabart   Jean-Claude,1,1
+Le Meur   Annaïg,Wonner   Martine,1,1
+Le Meur   Annaïg,Thiébaut   Vincent,1,1
+Cazeneuve   Jean-René,Panonacle   Sophie,1,1
+Cazeneuve   Jean-René,Hammerer   Véronique,1,1
+Cazeneuve   Jean-René,Causse   Lionel,1,1
+Cazeneuve   Jean-René,Mis   Jean-Michel,1,1
+Cazeneuve   Jean-René,Kuric   Aina,1,1
+Cazeneuve   Jean-René,Paluszkiewicz   Xavier,1,1
+Cazeneuve   Jean-René,Lasserre   Florence,1,1
+Cazeneuve   Jean-René,Mbaye   Jean François,1,1
+Cazeneuve   Jean-René,Panot   Mathilde,0,1
+Cazeneuve   Jean-René,Manin   Josette,1,1
+Cazeneuve   Jean-René,Dumas   Frédérique,1,1
+Cazeneuve   Jean-René,Petit   Maud,1,1
+Cazeneuve   Jean-René,Gaillot   Albane,1,1
+Cazeneuve   Jean-René,Ramadier   Alain,0,1
+Cazeneuve   Jean-René,Le Gendre   Gilles,1,1
+Cazeneuve   Jean-René,Kerbarh   Stéphanie,1,1
+Cazeneuve   Jean-René,Rupin   Pacôme,1,1
+Cazeneuve   Jean-René,Kokouendo   Rodrigue,1,1
+Cazeneuve   Jean-René,Baichère   Didier,1,1
+Cazeneuve   Jean-René,Raphan   Pierre-Alain,1,1
+Cazeneuve   Jean-René,Leguille-Balloy   Martine,1,1
+Cazeneuve   Jean-René,Leclabart   Jean-Claude,1,1
+Cazeneuve   Jean-René,Wonner   Martine,1,1
+Cazeneuve   Jean-René,Thiébaut   Vincent,1,1
+Panonacle   Sophie,Hammerer   Véronique,1,1
+Panonacle   Sophie,Causse   Lionel,1,1
+Panonacle   Sophie,Mis   Jean-Michel,1,1
+Panonacle   Sophie,Kuric   Aina,1,1
+Panonacle   Sophie,Paluszkiewicz   Xavier,1,1
+Panonacle   Sophie,Lasserre   Florence,1,1
+Panonacle   Sophie,Mbaye   Jean François,1,1
+Panonacle   Sophie,Panot   Mathilde,0,1
+Panonacle   Sophie,Manin   Josette,1,1
+Panonacle   Sophie,Dumas   Frédérique,1,1
+Panonacle   Sophie,Petit   Maud,1,1
+Panonacle   Sophie,Gaillot   Albane,1,1
+Panonacle   Sophie,Ramadier   Alain,0,1
+Panonacle   Sophie,Le Gendre   Gilles,1,1
+Panonacle   Sophie,Kerbarh   Stéphanie,1,1
+Panonacle   Sophie,Rupin   Pacôme,1,1
+Panonacle   Sophie,Kokouendo   Rodrigue,1,1
+Panonacle   Sophie,Baichère   Didier,1,1
+Panonacle   Sophie,Raphan   Pierre-Alain,1,1
+Panonacle   Sophie,Leguille-Balloy   Martine,1,1
+Panonacle   Sophie,Leclabart   Jean-Claude,1,1
+Panonacle   Sophie,Wonner   Martine,1,1
+Panonacle   Sophie,Thiébaut   Vincent,1,1
+Hammerer   Véronique,Causse   Lionel,1,1
+Hammerer   Véronique,Mis   Jean-Michel,1,1
+Hammerer   Véronique,Kuric   Aina,1,1
+Hammerer   Véronique,Paluszkiewicz   Xavier,1,1
+Hammerer   Véronique,Lasserre   Florence,1,1
+Hammerer   Véronique,Mbaye   Jean François,1,1
+Hammerer   Véronique,Panot   Mathilde,0,1
+Hammerer   Véronique,Manin   Josette,1,1
+Hammerer   Véronique,Dumas   Frédérique,1,1
+Hammerer   Véronique,Petit   Maud,1,1
+Hammerer   Véronique,Gaillot   Albane,1,1
+Hammerer   Véronique,Ramadier   Alain,0,1
+Hammerer   Véronique,Le Gendre   Gilles,1,1
+Hammerer   Véronique,Kerbarh   Stéphanie,1,1
+Hammerer   Véronique,Rupin   Pacôme,1,1
+Hammerer   Véronique,Kokouendo   Rodrigue,1,1
+Hammerer   Véronique,Baichère   Didier,1,1
+Hammerer   Véronique,Raphan   Pierre-Alain,1,1
+Hammerer   Véronique,Leguille-Balloy   Martine,1,1
+Hammerer   Véronique,Leclabart   Jean-Claude,1,1
+Hammerer   Véronique,Wonner   Martine,1,1
+Hammerer   Véronique,Thiébaut   Vincent,1,1
+Causse   Lionel,Mis   Jean-Michel,1,1
+Causse   Lionel,Kuric   Aina,1,1
+Causse   Lionel,Paluszkiewicz   Xavier,1,1
+Causse   Lionel,Lasserre   Florence,1,1
+Causse   Lionel,Mbaye   Jean François,1,1
+Causse   Lionel,Panot   Mathilde,0,1
+Causse   Lionel,Manin   Josette,1,1
+Causse   Lionel,Dumas   Frédérique,1,1
+Causse   Lionel,Petit   Maud,1,1
+Causse   Lionel,Gaillot   Albane,1,1
+Causse   Lionel,Ramadier   Alain,0,1
+Causse   Lionel,Le Gendre   Gilles,1,1
+Causse   Lionel,Kerbarh   Stéphanie,1,1
+Causse   Lionel,Rupin   Pacôme,1,1
+Causse   Lionel,Kokouendo   Rodrigue,1,1
+Causse   Lionel,Baichère   Didier,1,1
+Causse   Lionel,Raphan   Pierre-Alain,1,1
+Causse   Lionel,Leguille-Balloy   Martine,1,1
+Causse   Lionel,Leclabart   Jean-Claude,1,1
+Causse   Lionel,Wonner   Martine,1,1
+Causse   Lionel,Thiébaut   Vincent,1,1
+Mis   Jean-Michel,Kuric   Aina,1,1
+Mis   Jean-Michel,Paluszkiewicz   Xavier,1,1
+Mis   Jean-Michel,Lasserre   Florence,1,1
+Mis   Jean-Michel,Mbaye   Jean François,1,1
+Mis   Jean-Michel,Panot   Mathilde,0,1
+Mis   Jean-Michel,Manin   Josette,1,1
+Mis   Jean-Michel,Dumas   Frédérique,1,1
+Mis   Jean-Michel,Petit   Maud,1,1
+Mis   Jean-Michel,Gaillot   Albane,1,1
+Mis   Jean-Michel,Ramadier   Alain,0,1
+Mis   Jean-Michel,Le Gendre   Gilles,1,1
+Mis   Jean-Michel,Kerbarh   Stéphanie,1,1
+Mis   Jean-Michel,Rupin   Pacôme,1,1
+Mis   Jean-Michel,Kokouendo   Rodrigue,1,1
+Mis   Jean-Michel,Baichère   Didier,1,1
+Mis   Jean-Michel,Raphan   Pierre-Alain,1,1
+Mis   Jean-Michel,Leguille-Balloy   Martine,1,1
+Mis   Jean-Michel,Leclabart   Jean-Claude,1,1
+Mis   Jean-Michel,Wonner   Martine,1,1
+Mis   Jean-Michel,Thiébaut   Vincent,1,1
+Kuric   Aina,Paluszkiewicz   Xavier,1,1
+Kuric   Aina,Lasserre   Florence,1,1
+Kuric   Aina,Mbaye   Jean François,1,1
+Kuric   Aina,Panot   Mathilde,0,1
+Kuric   Aina,Manin   Josette,1,1
+Kuric   Aina,Dumas   Frédérique,1,1
+Kuric   Aina,Petit   Maud,1,1
+Kuric   Aina,Gaillot   Albane,1,1
+Kuric   Aina,Ramadier   Alain,0,1
+Kuric   Aina,Le Gendre   Gilles,1,1
+Kuric   Aina,Kerbarh   Stéphanie,1,1
+Kuric   Aina,Rupin   Pacôme,1,1
+Kuric   Aina,Kokouendo   Rodrigue,1,1
+Kuric   Aina,Baichère   Didier,1,1
+Kuric   Aina,Raphan   Pierre-Alain,1,1
+Kuric   Aina,Leguille-Balloy   Martine,1,1
+Kuric   Aina,Leclabart   Jean-Claude,1,1
+Kuric   Aina,Wonner   Martine,1,1
+Kuric   Aina,Thiébaut   Vincent,1,1
+Paluszkiewicz   Xavier,Lasserre   Florence,1,1
+Paluszkiewicz   Xavier,Mbaye   Jean François,1,1
+Paluszkiewicz   Xavier,Panot   Mathilde,0,1
+Paluszkiewicz   Xavier,Manin   Josette,1,1
+Paluszkiewicz   Xavier,Dumas   Frédérique,1,1
+Paluszkiewicz   Xavier,Petit   Maud,1,1
+Paluszkiewicz   Xavier,Gaillot   Albane,1,1
+Paluszkiewicz   Xavier,Ramadier   Alain,0,1
+Paluszkiewicz   Xavier,Le Gendre   Gilles,1,1
+Paluszkiewicz   Xavier,Kerbarh   Stéphanie,1,1
+Paluszkiewicz   Xavier,Rupin   Pacôme,1,1
+Paluszkiewicz   Xavier,Kokouendo   Rodrigue,1,1
+Paluszkiewicz   Xavier,Baichère   Didier,1,1
+Paluszkiewicz   Xavier,Raphan   Pierre-Alain,1,1
+Paluszkiewicz   Xavier,Leguille-Balloy   Martine,1,1
+Paluszkiewicz   Xavier,Leclabart   Jean-Claude,1,1
+Paluszkiewicz   Xavier,Wonner   Martine,1,1
+Paluszkiewicz   Xavier,Thiébaut   Vincent,1,1
+Lasserre   Florence,Mbaye   Jean François,1,1
+Lasserre   Florence,Panot   Mathilde,0,1
+Lasserre   Florence,Manin   Josette,1,1
+Lasserre   Florence,Dumas   Frédérique,1,1
+Lasserre   Florence,Petit   Maud,1,1
+Lasserre   Florence,Gaillot   Albane,1,1
+Lasserre   Florence,Ramadier   Alain,0,1
+Lasserre   Florence,Le Gendre   Gilles,1,1
+Lasserre   Florence,Kerbarh   Stéphanie,1,1
+Lasserre   Florence,Rupin   Pacôme,1,1
+Lasserre   Florence,Kokouendo   Rodrigue,1,1
+Lasserre   Florence,Baichère   Didier,1,1
+Lasserre   Florence,Raphan   Pierre-Alain,1,1
+Lasserre   Florence,Leguille-Balloy   Martine,1,1
+Lasserre   Florence,Leclabart   Jean-Claude,1,1
+Lasserre   Florence,Wonner   Martine,1,1
+Lasserre   Florence,Thiébaut   Vincent,1,1
+Mbaye   Jean François,Panot   Mathilde,0,1
+Mbaye   Jean François,Manin   Josette,1,1
+Mbaye   Jean François,Dumas   Frédérique,1,1
+Mbaye   Jean François,Petit   Maud,1,1
+Mbaye   Jean François,Gaillot   Albane,1,1
+Mbaye   Jean François,Ramadier   Alain,0,1
+Mbaye   Jean François,Le Gendre   Gilles,1,1
+Mbaye   Jean François,Kerbarh   Stéphanie,1,1
+Mbaye   Jean François,Rupin   Pacôme,1,1
+Mbaye   Jean François,Kokouendo   Rodrigue,1,1
+Mbaye   Jean François,Baichère   Didier,1,1
+Mbaye   Jean François,Raphan   Pierre-Alain,1,1
+Mbaye   Jean François,Leguille-Balloy   Martine,1,1
+Mbaye   Jean François,Leclabart   Jean-Claude,1,1
+Mbaye   Jean François,Wonner   Martine,1,1
+Mbaye   Jean François,Thiébaut   Vincent,1,1
+Panot   Mathilde,Manin   Josette,0,1
+Panot   Mathilde,Dumas   Frédérique,0,1
+Panot   Mathilde,Petit   Maud,0,1
+Panot   Mathilde,Gaillot   Albane,0,1
+Panot   Mathilde,Ramadier   Alain,1,1
+Panot   Mathilde,Le Gendre   Gilles,0,1
+Panot   Mathilde,Kerbarh   Stéphanie,0,1
+Panot   Mathilde,Rupin   Pacôme,0,1
+Panot   Mathilde,Kokouendo   Rodrigue,0,1
+Panot   Mathilde,Baichère   Didier,0,1
+Panot   Mathilde,Raphan   Pierre-Alain,0,1
+Panot   Mathilde,Leguille-Balloy   Martine,0,1
+Panot   Mathilde,Leclabart   Jean-Claude,0,1
+Panot   Mathilde,Wonner   Martine,0,1
+Panot   Mathilde,Thiébaut   Vincent,0,1
+Manin   Josette,Dumas   Frédérique,1,1
+Manin   Josette,Petit   Maud,1,1
+Manin   Josette,Gaillot   Albane,1,1
+Manin   Josette,Ramadier   Alain,0,1
+Manin   Josette,Le Gendre   Gilles,1,1
+Manin   Josette,Kerbarh   Stéphanie,1,1
+Manin   Josette,Rupin   Pacôme,1,1
+Manin   Josette,Kokouendo   Rodrigue,1,1
+Manin   Josette,Baichère   Didier,1,1
+Manin   Josette,Raphan   Pierre-Alain,1,1
+Manin   Josette,Leguille-Balloy   Martine,1,1
+Manin   Josette,Leclabart   Jean-Claude,1,1
+Manin   Josette,Wonner   Martine,1,1
+Manin   Josette,Thiébaut   Vincent,1,1
+Dumas   Frédérique,Petit   Maud,1,1
+Dumas   Frédérique,Gaillot   Albane,1,1
+Dumas   Frédérique,Ramadier   Alain,0,1
+Dumas   Frédérique,Le Gendre   Gilles,1,1
+Dumas   Frédérique,Kerbarh   Stéphanie,1,1
+Dumas   Frédérique,Rupin   Pacôme,1,1
+Dumas   Frédérique,Kokouendo   Rodrigue,1,1
+Dumas   Frédérique,Baichère   Didier,1,1
+Dumas   Frédérique,Raphan   Pierre-Alain,1,1
+Dumas   Frédérique,Leguille-Balloy   Martine,1,1
+Dumas   Frédérique,Leclabart   Jean-Claude,1,1
+Dumas   Frédérique,Wonner   Martine,1,1
+Dumas   Frédérique,Thiébaut   Vincent,1,1
+Petit   Maud,Gaillot   Albane,1,1
+Petit   Maud,Ramadier   Alain,0,1
+Petit   Maud,Le Gendre   Gilles,1,1
+Petit   Maud,Kerbarh   Stéphanie,1,1
+Petit   Maud,Rupin   Pacôme,1,1
+Petit   Maud,Kokouendo   Rodrigue,1,1
+Petit   Maud,Baichère   Didier,1,1
+Petit   Maud,Raphan   Pierre-Alain,1,1
+Petit   Maud,Leguille-Balloy   Martine,1,1
+Petit   Maud,Leclabart   Jean-Claude,1,1
+Petit   Maud,Wonner   Martine,1,1
+Petit   Maud,Thiébaut   Vincent,1,1
+Gaillot   Albane,Ramadier   Alain,0,1
+Gaillot   Albane,Le Gendre   Gilles,1,1
+Gaillot   Albane,Kerbarh   Stéphanie,1,1
+Gaillot   Albane,Rupin   Pacôme,1,1
+Gaillot   Albane,Kokouendo   Rodrigue,1,1
+Gaillot   Albane,Baichère   Didier,1,1
+Gaillot   Albane,Raphan   Pierre-Alain,1,1
+Gaillot   Albane,Leguille-Balloy   Martine,1,1
+Gaillot   Albane,Leclabart   Jean-Claude,1,1
+Gaillot   Albane,Wonner   Martine,1,1
+Gaillot   Albane,Thiébaut   Vincent,1,1
+Ramadier   Alain,Le Gendre   Gilles,0,1
+Ramadier   Alain,Kerbarh   Stéphanie,0,1
+Ramadier   Alain,Rupin   Pacôme,0,1
+Ramadier   Alain,Kokouendo   Rodrigue,0,1
+Ramadier   Alain,Baichère   Didier,0,1
+Ramadier   Alain,Raphan   Pierre-Alain,0,1
+Ramadier   Alain,Leguille-Balloy   Martine,0,1
+Ramadier   Alain,Leclabart   Jean-Claude,0,1
+Ramadier   Alain,Wonner   Martine,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Le Gendre   Gilles,Kerbarh   Stéphanie,1,1
+Le Gendre   Gilles,Rupin   Pacôme,1,1
+Le Gendre   Gilles,Kokouendo   Rodrigue,1,1
+Le Gendre   Gilles,Baichère   Didier,1,1
+Le Gendre   Gilles,Raphan   Pierre-Alain,1,1
+Le Gendre   Gilles,Leguille-Balloy   Martine,1,1
+Le Gendre   Gilles,Leclabart   Jean-Claude,1,1
+Le Gendre   Gilles,Wonner   Martine,1,1
+Le Gendre   Gilles,Thiébaut   Vincent,1,1
+Kerbarh   Stéphanie,Rupin   Pacôme,1,1
+Kerbarh   Stéphanie,Kokouendo   Rodrigue,1,1
+Kerbarh   Stéphanie,Baichère   Didier,1,1
+Kerbarh   Stéphanie,Raphan   Pierre-Alain,1,1
+Kerbarh   Stéphanie,Leguille-Balloy   Martine,1,1
+Kerbarh   Stéphanie,Leclabart   Jean-Claude,1,1
+Kerbarh   Stéphanie,Wonner   Martine,1,1
+Kerbarh   Stéphanie,Thiébaut   Vincent,1,1
+Rupin   Pacôme,Kokouendo   Rodrigue,1,1
+Rupin   Pacôme,Baichère   Didier,1,1
+Rupin   Pacôme,Raphan   Pierre-Alain,1,1
+Rupin   Pacôme,Leguille-Balloy   Martine,1,1
+Rupin   Pacôme,Leclabart   Jean-Claude,1,1
+Rupin   Pacôme,Wonner   Martine,1,1
+Rupin   Pacôme,Thiébaut   Vincent,1,1
+Kokouendo   Rodrigue,Baichère   Didier,1,1
+Kokouendo   Rodrigue,Raphan   Pierre-Alain,1,1
+Kokouendo   Rodrigue,Leguille-Balloy   Martine,1,1
+Kokouendo   Rodrigue,Leclabart   Jean-Claude,1,1
+Kokouendo   Rodrigue,Wonner   Martine,1,1
+Kokouendo   Rodrigue,Thiébaut   Vincent,1,1
+Baichère   Didier,Raphan   Pierre-Alain,1,1
+Baichère   Didier,Leguille-Balloy   Martine,1,1
+Baichère   Didier,Leclabart   Jean-Claude,1,1
+Baichère   Didier,Wonner   Martine,1,1
+Baichère   Didier,Thiébaut   Vincent,1,1
+Raphan   Pierre-Alain,Leguille-Balloy   Martine,1,1
+Raphan   Pierre-Alain,Leclabart   Jean-Claude,1,1
+Raphan   Pierre-Alain,Wonner   Martine,1,1
+Raphan   Pierre-Alain,Thiébaut   Vincent,1,1
+Leguille-Balloy   Martine,Leclabart   Jean-Claude,1,1
+Leguille-Balloy   Martine,Wonner   Martine,1,1
+Leguille-Balloy   Martine,Thiébaut   Vincent,1,1
+Leclabart   Jean-Claude,Wonner   Martine,1,1
+Leclabart   Jean-Claude,Thiébaut   Vincent,1,1
+Wonner   Martine,Thiébaut   Vincent,1,1

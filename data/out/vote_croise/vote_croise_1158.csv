@@ -1,0 +1,562 @@
+from,to,vote_commun,loi_commun
+Diard   Éric,Woerth   Éric,1,1
+Diard   Éric,Dalloz   Marie-Christine,1,1
+Diard   Éric,Bricout   Jean-Louis,0,1
+Diard   Éric,Alauzet   Éric,1,1
+Diard   Éric,Pires Beaune   Christine,0,1
+Diard   Éric,Mazars   Stéphane,1,1
+Diard   Éric,Boyer   Pascale,1,1
+Diard   Éric,Peyrol   Bénédicte,1,1
+Diard   Éric,Bagarry   Delphine,1,1
+Diard   Éric,Dharréville   Pierre,0,1
+Diard   Éric,Kerlogot   Yannick,1,1
+Diard   Éric,Clapot   Mireille,1,1
+Diard   Éric,Tanguy   Liliana,1,1
+Diard   Éric,Ménard   Emmanuelle,1,1
+Diard   Éric,Labaronne   Daniel,1,1
+Diard   Éric,Masséglia   Denis,1,1
+Diard   Éric,Dubré-Chirat   Nicole,1,1
+Diard   Éric,Girardin   Éric,1,1
+Diard   Éric,Magnier   Lise,1,1
+Diard   Éric,Cariou   Émilie,1,1
+Diard   Éric,Goulet   Perrine,1,1
+Diard   Éric,Roussel   Fabien,0,1
+Diard   Éric,Sempastous   Jean-Bernard,1,1
+Diard   Éric,Dunoyer   Philippe,1,1
+Diard   Éric,Holroyd   Alexandre,1,1
+Diard   Éric,Coquerel   Éric,0,1
+Diard   Éric,Charrière   Sylvie,1,1
+Diard   Éric,Rubin   Sabine,0,1
+Diard   Éric,Lenne   Marion,1,1
+Diard   Éric,Terlier   Jean,1,1
+Diard   Éric,Bourlanges   Jean-Louis,1,1
+Diard   Éric,Pouzyreff   Natalia,1,1
+Diard   Éric,de Courson   Charles,1,1
+Woerth   Éric,Dalloz   Marie-Christine,1,1
+Woerth   Éric,Bricout   Jean-Louis,0,1
+Woerth   Éric,Alauzet   Éric,1,1
+Woerth   Éric,Pires Beaune   Christine,0,1
+Woerth   Éric,Mazars   Stéphane,1,1
+Woerth   Éric,Boyer   Pascale,1,1
+Woerth   Éric,Peyrol   Bénédicte,1,1
+Woerth   Éric,Bagarry   Delphine,1,1
+Woerth   Éric,Dharréville   Pierre,0,1
+Woerth   Éric,Kerlogot   Yannick,1,1
+Woerth   Éric,Clapot   Mireille,1,1
+Woerth   Éric,Tanguy   Liliana,1,1
+Woerth   Éric,Ménard   Emmanuelle,1,1
+Woerth   Éric,Labaronne   Daniel,1,1
+Woerth   Éric,Masséglia   Denis,1,1
+Woerth   Éric,Dubré-Chirat   Nicole,1,1
+Woerth   Éric,Girardin   Éric,1,1
+Woerth   Éric,Magnier   Lise,1,1
+Woerth   Éric,Cariou   Émilie,1,1
+Woerth   Éric,Goulet   Perrine,1,1
+Woerth   Éric,Roussel   Fabien,0,1
+Woerth   Éric,Sempastous   Jean-Bernard,1,1
+Woerth   Éric,Dunoyer   Philippe,1,1
+Woerth   Éric,Holroyd   Alexandre,1,1
+Woerth   Éric,Coquerel   Éric,0,1
+Woerth   Éric,Charrière   Sylvie,1,1
+Woerth   Éric,Rubin   Sabine,0,1
+Woerth   Éric,Lenne   Marion,1,1
+Woerth   Éric,Terlier   Jean,1,1
+Woerth   Éric,Bourlanges   Jean-Louis,1,1
+Woerth   Éric,Pouzyreff   Natalia,1,1
+Woerth   Éric,de Courson   Charles,1,1
+Dalloz   Marie-Christine,Bricout   Jean-Louis,0,1
+Dalloz   Marie-Christine,Alauzet   Éric,1,1
+Dalloz   Marie-Christine,Pires Beaune   Christine,0,1
+Dalloz   Marie-Christine,Mazars   Stéphane,1,1
+Dalloz   Marie-Christine,Boyer   Pascale,1,1
+Dalloz   Marie-Christine,Peyrol   Bénédicte,1,1
+Dalloz   Marie-Christine,Bagarry   Delphine,1,1
+Dalloz   Marie-Christine,Dharréville   Pierre,0,1
+Dalloz   Marie-Christine,Kerlogot   Yannick,1,1
+Dalloz   Marie-Christine,Clapot   Mireille,1,1
+Dalloz   Marie-Christine,Tanguy   Liliana,1,1
+Dalloz   Marie-Christine,Ménard   Emmanuelle,1,1
+Dalloz   Marie-Christine,Labaronne   Daniel,1,1
+Dalloz   Marie-Christine,Masséglia   Denis,1,1
+Dalloz   Marie-Christine,Dubré-Chirat   Nicole,1,1
+Dalloz   Marie-Christine,Girardin   Éric,1,1
+Dalloz   Marie-Christine,Magnier   Lise,1,1
+Dalloz   Marie-Christine,Cariou   Émilie,1,1
+Dalloz   Marie-Christine,Goulet   Perrine,1,1
+Dalloz   Marie-Christine,Roussel   Fabien,0,1
+Dalloz   Marie-Christine,Sempastous   Jean-Bernard,1,1
+Dalloz   Marie-Christine,Dunoyer   Philippe,1,1
+Dalloz   Marie-Christine,Holroyd   Alexandre,1,1
+Dalloz   Marie-Christine,Coquerel   Éric,0,1
+Dalloz   Marie-Christine,Charrière   Sylvie,1,1
+Dalloz   Marie-Christine,Rubin   Sabine,0,1
+Dalloz   Marie-Christine,Lenne   Marion,1,1
+Dalloz   Marie-Christine,Terlier   Jean,1,1
+Dalloz   Marie-Christine,Bourlanges   Jean-Louis,1,1
+Dalloz   Marie-Christine,Pouzyreff   Natalia,1,1
+Dalloz   Marie-Christine,de Courson   Charles,1,1
+Bricout   Jean-Louis,Alauzet   Éric,0,1
+Bricout   Jean-Louis,Pires Beaune   Christine,1,1
+Bricout   Jean-Louis,Mazars   Stéphane,0,1
+Bricout   Jean-Louis,Boyer   Pascale,0,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Bagarry   Delphine,0,1
+Bricout   Jean-Louis,Dharréville   Pierre,1,1
+Bricout   Jean-Louis,Kerlogot   Yannick,0,1
+Bricout   Jean-Louis,Clapot   Mireille,0,1
+Bricout   Jean-Louis,Tanguy   Liliana,0,1
+Bricout   Jean-Louis,Ménard   Emmanuelle,0,1
+Bricout   Jean-Louis,Labaronne   Daniel,0,1
+Bricout   Jean-Louis,Masséglia   Denis,0,1
+Bricout   Jean-Louis,Dubré-Chirat   Nicole,0,1
+Bricout   Jean-Louis,Girardin   Éric,0,1
+Bricout   Jean-Louis,Magnier   Lise,0,1
+Bricout   Jean-Louis,Cariou   Émilie,0,1
+Bricout   Jean-Louis,Goulet   Perrine,0,1
+Bricout   Jean-Louis,Roussel   Fabien,1,1
+Bricout   Jean-Louis,Sempastous   Jean-Bernard,0,1
+Bricout   Jean-Louis,Dunoyer   Philippe,0,1
+Bricout   Jean-Louis,Holroyd   Alexandre,0,1
+Bricout   Jean-Louis,Coquerel   Éric,1,1
+Bricout   Jean-Louis,Charrière   Sylvie,0,1
+Bricout   Jean-Louis,Rubin   Sabine,1,1
+Bricout   Jean-Louis,Lenne   Marion,0,1
+Bricout   Jean-Louis,Terlier   Jean,0,1
+Bricout   Jean-Louis,Bourlanges   Jean-Louis,0,1
+Bricout   Jean-Louis,Pouzyreff   Natalia,0,1
+Bricout   Jean-Louis,de Courson   Charles,0,1
+Alauzet   Éric,Pires Beaune   Christine,0,1
+Alauzet   Éric,Mazars   Stéphane,1,1
+Alauzet   Éric,Boyer   Pascale,1,1
+Alauzet   Éric,Peyrol   Bénédicte,1,1
+Alauzet   Éric,Bagarry   Delphine,1,1
+Alauzet   Éric,Dharréville   Pierre,0,1
+Alauzet   Éric,Kerlogot   Yannick,1,1
+Alauzet   Éric,Clapot   Mireille,1,1
+Alauzet   Éric,Tanguy   Liliana,1,1
+Alauzet   Éric,Ménard   Emmanuelle,1,1
+Alauzet   Éric,Labaronne   Daniel,1,1
+Alauzet   Éric,Masséglia   Denis,1,1
+Alauzet   Éric,Dubré-Chirat   Nicole,1,1
+Alauzet   Éric,Girardin   Éric,1,1
+Alauzet   Éric,Magnier   Lise,1,1
+Alauzet   Éric,Cariou   Émilie,1,1
+Alauzet   Éric,Goulet   Perrine,1,1
+Alauzet   Éric,Roussel   Fabien,0,1
+Alauzet   Éric,Sempastous   Jean-Bernard,1,1
+Alauzet   Éric,Dunoyer   Philippe,1,1
+Alauzet   Éric,Holroyd   Alexandre,1,1
+Alauzet   Éric,Coquerel   Éric,0,1
+Alauzet   Éric,Charrière   Sylvie,1,1
+Alauzet   Éric,Rubin   Sabine,0,1
+Alauzet   Éric,Lenne   Marion,1,1
+Alauzet   Éric,Terlier   Jean,1,1
+Alauzet   Éric,Bourlanges   Jean-Louis,1,1
+Alauzet   Éric,Pouzyreff   Natalia,1,1
+Alauzet   Éric,de Courson   Charles,1,1
+Pires Beaune   Christine,Mazars   Stéphane,0,1
+Pires Beaune   Christine,Boyer   Pascale,0,1
+Pires Beaune   Christine,Peyrol   Bénédicte,0,1
+Pires Beaune   Christine,Bagarry   Delphine,0,1
+Pires Beaune   Christine,Dharréville   Pierre,1,1
+Pires Beaune   Christine,Kerlogot   Yannick,0,1
+Pires Beaune   Christine,Clapot   Mireille,0,1
+Pires Beaune   Christine,Tanguy   Liliana,0,1
+Pires Beaune   Christine,Ménard   Emmanuelle,0,1
+Pires Beaune   Christine,Labaronne   Daniel,0,1
+Pires Beaune   Christine,Masséglia   Denis,0,1
+Pires Beaune   Christine,Dubré-Chirat   Nicole,0,1
+Pires Beaune   Christine,Girardin   Éric,0,1
+Pires Beaune   Christine,Magnier   Lise,0,1
+Pires Beaune   Christine,Cariou   Émilie,0,1
+Pires Beaune   Christine,Goulet   Perrine,0,1
+Pires Beaune   Christine,Roussel   Fabien,1,1
+Pires Beaune   Christine,Sempastous   Jean-Bernard,0,1
+Pires Beaune   Christine,Dunoyer   Philippe,0,1
+Pires Beaune   Christine,Holroyd   Alexandre,0,1
+Pires Beaune   Christine,Coquerel   Éric,1,1
+Pires Beaune   Christine,Charrière   Sylvie,0,1
+Pires Beaune   Christine,Rubin   Sabine,1,1
+Pires Beaune   Christine,Lenne   Marion,0,1
+Pires Beaune   Christine,Terlier   Jean,0,1
+Pires Beaune   Christine,Bourlanges   Jean-Louis,0,1
+Pires Beaune   Christine,Pouzyreff   Natalia,0,1
+Pires Beaune   Christine,de Courson   Charles,0,1
+Mazars   Stéphane,Boyer   Pascale,1,1
+Mazars   Stéphane,Peyrol   Bénédicte,1,1
+Mazars   Stéphane,Bagarry   Delphine,1,1
+Mazars   Stéphane,Dharréville   Pierre,0,1
+Mazars   Stéphane,Kerlogot   Yannick,1,1
+Mazars   Stéphane,Clapot   Mireille,1,1
+Mazars   Stéphane,Tanguy   Liliana,1,1
+Mazars   Stéphane,Ménard   Emmanuelle,1,1
+Mazars   Stéphane,Labaronne   Daniel,1,1
+Mazars   Stéphane,Masséglia   Denis,1,1
+Mazars   Stéphane,Dubré-Chirat   Nicole,1,1
+Mazars   Stéphane,Girardin   Éric,1,1
+Mazars   Stéphane,Magnier   Lise,1,1
+Mazars   Stéphane,Cariou   Émilie,1,1
+Mazars   Stéphane,Goulet   Perrine,1,1
+Mazars   Stéphane,Roussel   Fabien,0,1
+Mazars   Stéphane,Sempastous   Jean-Bernard,1,1
+Mazars   Stéphane,Dunoyer   Philippe,1,1
+Mazars   Stéphane,Holroyd   Alexandre,1,1
+Mazars   Stéphane,Coquerel   Éric,0,1
+Mazars   Stéphane,Charrière   Sylvie,1,1
+Mazars   Stéphane,Rubin   Sabine,0,1
+Mazars   Stéphane,Lenne   Marion,1,1
+Mazars   Stéphane,Terlier   Jean,1,1
+Mazars   Stéphane,Bourlanges   Jean-Louis,1,1
+Mazars   Stéphane,Pouzyreff   Natalia,1,1
+Mazars   Stéphane,de Courson   Charles,1,1
+Boyer   Pascale,Peyrol   Bénédicte,1,1
+Boyer   Pascale,Bagarry   Delphine,1,1
+Boyer   Pascale,Dharréville   Pierre,0,1
+Boyer   Pascale,Kerlogot   Yannick,1,1
+Boyer   Pascale,Clapot   Mireille,1,1
+Boyer   Pascale,Tanguy   Liliana,1,1
+Boyer   Pascale,Ménard   Emmanuelle,1,1
+Boyer   Pascale,Labaronne   Daniel,1,1
+Boyer   Pascale,Masséglia   Denis,1,1
+Boyer   Pascale,Dubré-Chirat   Nicole,1,1
+Boyer   Pascale,Girardin   Éric,1,1
+Boyer   Pascale,Magnier   Lise,1,1
+Boyer   Pascale,Cariou   Émilie,1,1
+Boyer   Pascale,Goulet   Perrine,1,1
+Boyer   Pascale,Roussel   Fabien,0,1
+Boyer   Pascale,Sempastous   Jean-Bernard,1,1
+Boyer   Pascale,Dunoyer   Philippe,1,1
+Boyer   Pascale,Holroyd   Alexandre,1,1
+Boyer   Pascale,Coquerel   Éric,0,1
+Boyer   Pascale,Charrière   Sylvie,1,1
+Boyer   Pascale,Rubin   Sabine,0,1
+Boyer   Pascale,Lenne   Marion,1,1
+Boyer   Pascale,Terlier   Jean,1,1
+Boyer   Pascale,Bourlanges   Jean-Louis,1,1
+Boyer   Pascale,Pouzyreff   Natalia,1,1
+Boyer   Pascale,de Courson   Charles,1,1
+Peyrol   Bénédicte,Bagarry   Delphine,1,1
+Peyrol   Bénédicte,Dharréville   Pierre,0,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Clapot   Mireille,1,1
+Peyrol   Bénédicte,Tanguy   Liliana,1,1
+Peyrol   Bénédicte,Ménard   Emmanuelle,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Masséglia   Denis,1,1
+Peyrol   Bénédicte,Dubré-Chirat   Nicole,1,1
+Peyrol   Bénédicte,Girardin   Éric,1,1
+Peyrol   Bénédicte,Magnier   Lise,1,1
+Peyrol   Bénédicte,Cariou   Émilie,1,1
+Peyrol   Bénédicte,Goulet   Perrine,1,1
+Peyrol   Bénédicte,Roussel   Fabien,0,1
+Peyrol   Bénédicte,Sempastous   Jean-Bernard,1,1
+Peyrol   Bénédicte,Dunoyer   Philippe,1,1
+Peyrol   Bénédicte,Holroyd   Alexandre,1,1
+Peyrol   Bénédicte,Coquerel   Éric,0,1
+Peyrol   Bénédicte,Charrière   Sylvie,1,1
+Peyrol   Bénédicte,Rubin   Sabine,0,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Terlier   Jean,1,1
+Peyrol   Bénédicte,Bourlanges   Jean-Louis,1,1
+Peyrol   Bénédicte,Pouzyreff   Natalia,1,1
+Peyrol   Bénédicte,de Courson   Charles,1,1
+Bagarry   Delphine,Dharréville   Pierre,0,1
+Bagarry   Delphine,Kerlogot   Yannick,1,1
+Bagarry   Delphine,Clapot   Mireille,1,1
+Bagarry   Delphine,Tanguy   Liliana,1,1
+Bagarry   Delphine,Ménard   Emmanuelle,1,1
+Bagarry   Delphine,Labaronne   Daniel,1,1
+Bagarry   Delphine,Masséglia   Denis,1,1
+Bagarry   Delphine,Dubré-Chirat   Nicole,1,1
+Bagarry   Delphine,Girardin   Éric,1,1
+Bagarry   Delphine,Magnier   Lise,1,1
+Bagarry   Delphine,Cariou   Émilie,1,1
+Bagarry   Delphine,Goulet   Perrine,1,1
+Bagarry   Delphine,Roussel   Fabien,0,1
+Bagarry   Delphine,Sempastous   Jean-Bernard,1,1
+Bagarry   Delphine,Dunoyer   Philippe,1,1
+Bagarry   Delphine,Holroyd   Alexandre,1,1
+Bagarry   Delphine,Coquerel   Éric,0,1
+Bagarry   Delphine,Charrière   Sylvie,1,1
+Bagarry   Delphine,Rubin   Sabine,0,1
+Bagarry   Delphine,Lenne   Marion,1,1
+Bagarry   Delphine,Terlier   Jean,1,1
+Bagarry   Delphine,Bourlanges   Jean-Louis,1,1
+Bagarry   Delphine,Pouzyreff   Natalia,1,1
+Bagarry   Delphine,de Courson   Charles,1,1
+Dharréville   Pierre,Kerlogot   Yannick,0,1
+Dharréville   Pierre,Clapot   Mireille,0,1
+Dharréville   Pierre,Tanguy   Liliana,0,1
+Dharréville   Pierre,Ménard   Emmanuelle,0,1
+Dharréville   Pierre,Labaronne   Daniel,0,1
+Dharréville   Pierre,Masséglia   Denis,0,1
+Dharréville   Pierre,Dubré-Chirat   Nicole,0,1
+Dharréville   Pierre,Girardin   Éric,0,1
+Dharréville   Pierre,Magnier   Lise,0,1
+Dharréville   Pierre,Cariou   Émilie,0,1
+Dharréville   Pierre,Goulet   Perrine,0,1
+Dharréville   Pierre,Roussel   Fabien,1,1
+Dharréville   Pierre,Sempastous   Jean-Bernard,0,1
+Dharréville   Pierre,Dunoyer   Philippe,0,1
+Dharréville   Pierre,Holroyd   Alexandre,0,1
+Dharréville   Pierre,Coquerel   Éric,1,1
+Dharréville   Pierre,Charrière   Sylvie,0,1
+Dharréville   Pierre,Rubin   Sabine,1,1
+Dharréville   Pierre,Lenne   Marion,0,1
+Dharréville   Pierre,Terlier   Jean,0,1
+Dharréville   Pierre,Bourlanges   Jean-Louis,0,1
+Dharréville   Pierre,Pouzyreff   Natalia,0,1
+Dharréville   Pierre,de Courson   Charles,0,1
+Kerlogot   Yannick,Clapot   Mireille,1,1
+Kerlogot   Yannick,Tanguy   Liliana,1,1
+Kerlogot   Yannick,Ménard   Emmanuelle,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Masséglia   Denis,1,1
+Kerlogot   Yannick,Dubré-Chirat   Nicole,1,1
+Kerlogot   Yannick,Girardin   Éric,1,1
+Kerlogot   Yannick,Magnier   Lise,1,1
+Kerlogot   Yannick,Cariou   Émilie,1,1
+Kerlogot   Yannick,Goulet   Perrine,1,1
+Kerlogot   Yannick,Roussel   Fabien,0,1
+Kerlogot   Yannick,Sempastous   Jean-Bernard,1,1
+Kerlogot   Yannick,Dunoyer   Philippe,1,1
+Kerlogot   Yannick,Holroyd   Alexandre,1,1
+Kerlogot   Yannick,Coquerel   Éric,0,1
+Kerlogot   Yannick,Charrière   Sylvie,1,1
+Kerlogot   Yannick,Rubin   Sabine,0,1
+Kerlogot   Yannick,Lenne   Marion,1,1
+Kerlogot   Yannick,Terlier   Jean,1,1
+Kerlogot   Yannick,Bourlanges   Jean-Louis,1,1
+Kerlogot   Yannick,Pouzyreff   Natalia,1,1
+Kerlogot   Yannick,de Courson   Charles,1,1
+Clapot   Mireille,Tanguy   Liliana,1,1
+Clapot   Mireille,Ménard   Emmanuelle,1,1
+Clapot   Mireille,Labaronne   Daniel,1,1
+Clapot   Mireille,Masséglia   Denis,1,1
+Clapot   Mireille,Dubré-Chirat   Nicole,1,1
+Clapot   Mireille,Girardin   Éric,1,1
+Clapot   Mireille,Magnier   Lise,1,1
+Clapot   Mireille,Cariou   Émilie,1,1
+Clapot   Mireille,Goulet   Perrine,1,1
+Clapot   Mireille,Roussel   Fabien,0,1
+Clapot   Mireille,Sempastous   Jean-Bernard,1,1
+Clapot   Mireille,Dunoyer   Philippe,1,1
+Clapot   Mireille,Holroyd   Alexandre,1,1
+Clapot   Mireille,Coquerel   Éric,0,1
+Clapot   Mireille,Charrière   Sylvie,1,1
+Clapot   Mireille,Rubin   Sabine,0,1
+Clapot   Mireille,Lenne   Marion,1,1
+Clapot   Mireille,Terlier   Jean,1,1
+Clapot   Mireille,Bourlanges   Jean-Louis,1,1
+Clapot   Mireille,Pouzyreff   Natalia,1,1
+Clapot   Mireille,de Courson   Charles,1,1
+Tanguy   Liliana,Ménard   Emmanuelle,1,1
+Tanguy   Liliana,Labaronne   Daniel,1,1
+Tanguy   Liliana,Masséglia   Denis,1,1
+Tanguy   Liliana,Dubré-Chirat   Nicole,1,1
+Tanguy   Liliana,Girardin   Éric,1,1
+Tanguy   Liliana,Magnier   Lise,1,1
+Tanguy   Liliana,Cariou   Émilie,1,1
+Tanguy   Liliana,Goulet   Perrine,1,1
+Tanguy   Liliana,Roussel   Fabien,0,1
+Tanguy   Liliana,Sempastous   Jean-Bernard,1,1
+Tanguy   Liliana,Dunoyer   Philippe,1,1
+Tanguy   Liliana,Holroyd   Alexandre,1,1
+Tanguy   Liliana,Coquerel   Éric,0,1
+Tanguy   Liliana,Charrière   Sylvie,1,1
+Tanguy   Liliana,Rubin   Sabine,0,1
+Tanguy   Liliana,Lenne   Marion,1,1
+Tanguy   Liliana,Terlier   Jean,1,1
+Tanguy   Liliana,Bourlanges   Jean-Louis,1,1
+Tanguy   Liliana,Pouzyreff   Natalia,1,1
+Tanguy   Liliana,de Courson   Charles,1,1
+Ménard   Emmanuelle,Labaronne   Daniel,1,1
+Ménard   Emmanuelle,Masséglia   Denis,1,1
+Ménard   Emmanuelle,Dubré-Chirat   Nicole,1,1
+Ménard   Emmanuelle,Girardin   Éric,1,1
+Ménard   Emmanuelle,Magnier   Lise,1,1
+Ménard   Emmanuelle,Cariou   Émilie,1,1
+Ménard   Emmanuelle,Goulet   Perrine,1,1
+Ménard   Emmanuelle,Roussel   Fabien,0,1
+Ménard   Emmanuelle,Sempastous   Jean-Bernard,1,1
+Ménard   Emmanuelle,Dunoyer   Philippe,1,1
+Ménard   Emmanuelle,Holroyd   Alexandre,1,1
+Ménard   Emmanuelle,Coquerel   Éric,0,1
+Ménard   Emmanuelle,Charrière   Sylvie,1,1
+Ménard   Emmanuelle,Rubin   Sabine,0,1
+Ménard   Emmanuelle,Lenne   Marion,1,1
+Ménard   Emmanuelle,Terlier   Jean,1,1
+Ménard   Emmanuelle,Bourlanges   Jean-Louis,1,1
+Ménard   Emmanuelle,Pouzyreff   Natalia,1,1
+Ménard   Emmanuelle,de Courson   Charles,1,1
+Labaronne   Daniel,Masséglia   Denis,1,1
+Labaronne   Daniel,Dubré-Chirat   Nicole,1,1
+Labaronne   Daniel,Girardin   Éric,1,1
+Labaronne   Daniel,Magnier   Lise,1,1
+Labaronne   Daniel,Cariou   Émilie,1,1
+Labaronne   Daniel,Goulet   Perrine,1,1
+Labaronne   Daniel,Roussel   Fabien,0,1
+Labaronne   Daniel,Sempastous   Jean-Bernard,1,1
+Labaronne   Daniel,Dunoyer   Philippe,1,1
+Labaronne   Daniel,Holroyd   Alexandre,1,1
+Labaronne   Daniel,Coquerel   Éric,0,1
+Labaronne   Daniel,Charrière   Sylvie,1,1
+Labaronne   Daniel,Rubin   Sabine,0,1
+Labaronne   Daniel,Lenne   Marion,1,1
+Labaronne   Daniel,Terlier   Jean,1,1
+Labaronne   Daniel,Bourlanges   Jean-Louis,1,1
+Labaronne   Daniel,Pouzyreff   Natalia,1,1
+Labaronne   Daniel,de Courson   Charles,1,1
+Masséglia   Denis,Dubré-Chirat   Nicole,1,1
+Masséglia   Denis,Girardin   Éric,1,1
+Masséglia   Denis,Magnier   Lise,1,1
+Masséglia   Denis,Cariou   Émilie,1,1
+Masséglia   Denis,Goulet   Perrine,1,1
+Masséglia   Denis,Roussel   Fabien,0,1
+Masséglia   Denis,Sempastous   Jean-Bernard,1,1
+Masséglia   Denis,Dunoyer   Philippe,1,1
+Masséglia   Denis,Holroyd   Alexandre,1,1
+Masséglia   Denis,Coquerel   Éric,0,1
+Masséglia   Denis,Charrière   Sylvie,1,1
+Masséglia   Denis,Rubin   Sabine,0,1
+Masséglia   Denis,Lenne   Marion,1,1
+Masséglia   Denis,Terlier   Jean,1,1
+Masséglia   Denis,Bourlanges   Jean-Louis,1,1
+Masséglia   Denis,Pouzyreff   Natalia,1,1
+Masséglia   Denis,de Courson   Charles,1,1
+Dubré-Chirat   Nicole,Girardin   Éric,1,1
+Dubré-Chirat   Nicole,Magnier   Lise,1,1
+Dubré-Chirat   Nicole,Cariou   Émilie,1,1
+Dubré-Chirat   Nicole,Goulet   Perrine,1,1
+Dubré-Chirat   Nicole,Roussel   Fabien,0,1
+Dubré-Chirat   Nicole,Sempastous   Jean-Bernard,1,1
+Dubré-Chirat   Nicole,Dunoyer   Philippe,1,1
+Dubré-Chirat   Nicole,Holroyd   Alexandre,1,1
+Dubré-Chirat   Nicole,Coquerel   Éric,0,1
+Dubré-Chirat   Nicole,Charrière   Sylvie,1,1
+Dubré-Chirat   Nicole,Rubin   Sabine,0,1
+Dubré-Chirat   Nicole,Lenne   Marion,1,1
+Dubré-Chirat   Nicole,Terlier   Jean,1,1
+Dubré-Chirat   Nicole,Bourlanges   Jean-Louis,1,1
+Dubré-Chirat   Nicole,Pouzyreff   Natalia,1,1
+Dubré-Chirat   Nicole,de Courson   Charles,1,1
+Girardin   Éric,Magnier   Lise,1,1
+Girardin   Éric,Cariou   Émilie,1,1
+Girardin   Éric,Goulet   Perrine,1,1
+Girardin   Éric,Roussel   Fabien,0,1
+Girardin   Éric,Sempastous   Jean-Bernard,1,1
+Girardin   Éric,Dunoyer   Philippe,1,1
+Girardin   Éric,Holroyd   Alexandre,1,1
+Girardin   Éric,Coquerel   Éric,0,1
+Girardin   Éric,Charrière   Sylvie,1,1
+Girardin   Éric,Rubin   Sabine,0,1
+Girardin   Éric,Lenne   Marion,1,1
+Girardin   Éric,Terlier   Jean,1,1
+Girardin   Éric,Bourlanges   Jean-Louis,1,1
+Girardin   Éric,Pouzyreff   Natalia,1,1
+Girardin   Éric,de Courson   Charles,1,1
+Magnier   Lise,Cariou   Émilie,1,1
+Magnier   Lise,Goulet   Perrine,1,1
+Magnier   Lise,Roussel   Fabien,0,1
+Magnier   Lise,Sempastous   Jean-Bernard,1,1
+Magnier   Lise,Dunoyer   Philippe,1,1
+Magnier   Lise,Holroyd   Alexandre,1,1
+Magnier   Lise,Coquerel   Éric,0,1
+Magnier   Lise,Charrière   Sylvie,1,1
+Magnier   Lise,Rubin   Sabine,0,1
+Magnier   Lise,Lenne   Marion,1,1
+Magnier   Lise,Terlier   Jean,1,1
+Magnier   Lise,Bourlanges   Jean-Louis,1,1
+Magnier   Lise,Pouzyreff   Natalia,1,1
+Magnier   Lise,de Courson   Charles,1,1
+Cariou   Émilie,Goulet   Perrine,1,1
+Cariou   Émilie,Roussel   Fabien,0,1
+Cariou   Émilie,Sempastous   Jean-Bernard,1,1
+Cariou   Émilie,Dunoyer   Philippe,1,1
+Cariou   Émilie,Holroyd   Alexandre,1,1
+Cariou   Émilie,Coquerel   Éric,0,1
+Cariou   Émilie,Charrière   Sylvie,1,1
+Cariou   Émilie,Rubin   Sabine,0,1
+Cariou   Émilie,Lenne   Marion,1,1
+Cariou   Émilie,Terlier   Jean,1,1
+Cariou   Émilie,Bourlanges   Jean-Louis,1,1
+Cariou   Émilie,Pouzyreff   Natalia,1,1
+Cariou   Émilie,de Courson   Charles,1,1
+Goulet   Perrine,Roussel   Fabien,0,1
+Goulet   Perrine,Sempastous   Jean-Bernard,1,1
+Goulet   Perrine,Dunoyer   Philippe,1,1
+Goulet   Perrine,Holroyd   Alexandre,1,1
+Goulet   Perrine,Coquerel   Éric,0,1
+Goulet   Perrine,Charrière   Sylvie,1,1
+Goulet   Perrine,Rubin   Sabine,0,1
+Goulet   Perrine,Lenne   Marion,1,1
+Goulet   Perrine,Terlier   Jean,1,1
+Goulet   Perrine,Bourlanges   Jean-Louis,1,1
+Goulet   Perrine,Pouzyreff   Natalia,1,1
+Goulet   Perrine,de Courson   Charles,1,1
+Roussel   Fabien,Sempastous   Jean-Bernard,0,1
+Roussel   Fabien,Dunoyer   Philippe,0,1
+Roussel   Fabien,Holroyd   Alexandre,0,1
+Roussel   Fabien,Coquerel   Éric,1,1
+Roussel   Fabien,Charrière   Sylvie,0,1
+Roussel   Fabien,Rubin   Sabine,1,1
+Roussel   Fabien,Lenne   Marion,0,1
+Roussel   Fabien,Terlier   Jean,0,1
+Roussel   Fabien,Bourlanges   Jean-Louis,0,1
+Roussel   Fabien,Pouzyreff   Natalia,0,1
+Roussel   Fabien,de Courson   Charles,0,1
+Sempastous   Jean-Bernard,Dunoyer   Philippe,1,1
+Sempastous   Jean-Bernard,Holroyd   Alexandre,1,1
+Sempastous   Jean-Bernard,Coquerel   Éric,0,1
+Sempastous   Jean-Bernard,Charrière   Sylvie,1,1
+Sempastous   Jean-Bernard,Rubin   Sabine,0,1
+Sempastous   Jean-Bernard,Lenne   Marion,1,1
+Sempastous   Jean-Bernard,Terlier   Jean,1,1
+Sempastous   Jean-Bernard,Bourlanges   Jean-Louis,1,1
+Sempastous   Jean-Bernard,Pouzyreff   Natalia,1,1
+Sempastous   Jean-Bernard,de Courson   Charles,1,1
+Dunoyer   Philippe,Holroyd   Alexandre,1,1
+Dunoyer   Philippe,Coquerel   Éric,0,1
+Dunoyer   Philippe,Charrière   Sylvie,1,1
+Dunoyer   Philippe,Rubin   Sabine,0,1
+Dunoyer   Philippe,Lenne   Marion,1,1
+Dunoyer   Philippe,Terlier   Jean,1,1
+Dunoyer   Philippe,Bourlanges   Jean-Louis,1,1
+Dunoyer   Philippe,Pouzyreff   Natalia,1,1
+Dunoyer   Philippe,de Courson   Charles,1,1
+Holroyd   Alexandre,Coquerel   Éric,0,1
+Holroyd   Alexandre,Charrière   Sylvie,1,1
+Holroyd   Alexandre,Rubin   Sabine,0,1
+Holroyd   Alexandre,Lenne   Marion,1,1
+Holroyd   Alexandre,Terlier   Jean,1,1
+Holroyd   Alexandre,Bourlanges   Jean-Louis,1,1
+Holroyd   Alexandre,Pouzyreff   Natalia,1,1
+Holroyd   Alexandre,de Courson   Charles,1,1
+Coquerel   Éric,Charrière   Sylvie,0,1
+Coquerel   Éric,Rubin   Sabine,1,1
+Coquerel   Éric,Lenne   Marion,0,1
+Coquerel   Éric,Terlier   Jean,0,1
+Coquerel   Éric,Bourlanges   Jean-Louis,0,1
+Coquerel   Éric,Pouzyreff   Natalia,0,1
+Coquerel   Éric,de Courson   Charles,0,1
+Charrière   Sylvie,Rubin   Sabine,0,1
+Charrière   Sylvie,Lenne   Marion,1,1
+Charrière   Sylvie,Terlier   Jean,1,1
+Charrière   Sylvie,Bourlanges   Jean-Louis,1,1
+Charrière   Sylvie,Pouzyreff   Natalia,1,1
+Charrière   Sylvie,de Courson   Charles,1,1
+Rubin   Sabine,Lenne   Marion,0,1
+Rubin   Sabine,Terlier   Jean,0,1
+Rubin   Sabine,Bourlanges   Jean-Louis,0,1
+Rubin   Sabine,Pouzyreff   Natalia,0,1
+Rubin   Sabine,de Courson   Charles,0,1
+Lenne   Marion,Terlier   Jean,1,1
+Lenne   Marion,Bourlanges   Jean-Louis,1,1
+Lenne   Marion,Pouzyreff   Natalia,1,1
+Lenne   Marion,de Courson   Charles,1,1
+Terlier   Jean,Bourlanges   Jean-Louis,1,1
+Terlier   Jean,Pouzyreff   Natalia,1,1
+Terlier   Jean,de Courson   Charles,1,1
+Bourlanges   Jean-Louis,Pouzyreff   Natalia,1,1
+Bourlanges   Jean-Louis,de Courson   Charles,1,1
+Pouzyreff   Natalia,de Courson   Charles,1,1

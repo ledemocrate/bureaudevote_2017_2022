@@ -1,0 +1,529 @@
+from,to,vote_commun,loi_commun
+Mélenchon   Jean-Luc,Chassaigne   André,1,1
+Mélenchon   Jean-Luc,Benoit   Thierry,0,1
+Mélenchon   Jean-Luc,Batho   Delphine,1,1
+Mélenchon   Jean-Luc,Dombreval   Loïc,0,1
+Mélenchon   Jean-Luc,Petel   Anne-Laurence,0,1
+Mélenchon   Jean-Luc,Martin   Didier,0,1
+Mélenchon   Jean-Luc,Moreau   Jean-Baptiste,0,1
+Mélenchon   Jean-Luc,de Lavergne   Célia,0,1
+Mélenchon   Jean-Luc,Melchior   Graziella,0,1
+Mélenchon   Jean-Luc,Kasbarian   Guillaume,0,1
+Mélenchon   Jean-Luc,Le Feur   Sandrine,0,1
+Mélenchon   Jean-Luc,Toutut-Picard   Élisabeth,0,1
+Mélenchon   Jean-Luc,Ménard   Emmanuelle,1,1
+Mélenchon   Jean-Luc,Dubos   Christelle,0,1
+Mélenchon   Jean-Luc,Maillart-Méhaignerie   Laurence,0,1
+Mélenchon   Jean-Luc,Colboc   Fabienne,0,1
+Mélenchon   Jean-Luc,Limon   Monique,0,1
+Mélenchon   Jean-Luc,Beauvais   Valérie,0,1
+Mélenchon   Jean-Luc,Girardin   Éric,0,1
+Mélenchon   Jean-Luc,Magnier   Lise,0,1
+Mélenchon   Jean-Luc,Le Peih   Nicole,0,1
+Mélenchon   Jean-Luc,Perrot   Patrice,0,1
+Mélenchon   Jean-Luc,Potterie   Benoit,0,1
+Mélenchon   Jean-Luc,Lachaud   Bastien,1,1
+Mélenchon   Jean-Luc,Panot   Mathilde,1,1
+Mélenchon   Jean-Luc,Park   Zivka,0,1
+Mélenchon   Jean-Luc,Petit   Maud,0,1
+Mélenchon   Jean-Luc,Millienne   Bruno,0,1
+Mélenchon   Jean-Luc,Buchou   Stéphane,0,1
+Mélenchon   Jean-Luc,Ruffin   François,1,1
+Mélenchon   Jean-Luc,Leclabart   Jean-Claude,0,1
+Mélenchon   Jean-Luc,Fugit   Jean-Luc,0,1
+Chassaigne   André,Benoit   Thierry,0,1
+Chassaigne   André,Batho   Delphine,1,1
+Chassaigne   André,Dombreval   Loïc,0,1
+Chassaigne   André,Petel   Anne-Laurence,0,1
+Chassaigne   André,Martin   Didier,0,1
+Chassaigne   André,Moreau   Jean-Baptiste,0,1
+Chassaigne   André,de Lavergne   Célia,0,1
+Chassaigne   André,Melchior   Graziella,0,1
+Chassaigne   André,Kasbarian   Guillaume,0,1
+Chassaigne   André,Le Feur   Sandrine,0,1
+Chassaigne   André,Toutut-Picard   Élisabeth,0,1
+Chassaigne   André,Ménard   Emmanuelle,1,1
+Chassaigne   André,Dubos   Christelle,0,1
+Chassaigne   André,Maillart-Méhaignerie   Laurence,0,1
+Chassaigne   André,Colboc   Fabienne,0,1
+Chassaigne   André,Limon   Monique,0,1
+Chassaigne   André,Beauvais   Valérie,0,1
+Chassaigne   André,Girardin   Éric,0,1
+Chassaigne   André,Magnier   Lise,0,1
+Chassaigne   André,Le Peih   Nicole,0,1
+Chassaigne   André,Perrot   Patrice,0,1
+Chassaigne   André,Potterie   Benoit,0,1
+Chassaigne   André,Lachaud   Bastien,1,1
+Chassaigne   André,Panot   Mathilde,1,1
+Chassaigne   André,Park   Zivka,0,1
+Chassaigne   André,Petit   Maud,0,1
+Chassaigne   André,Millienne   Bruno,0,1
+Chassaigne   André,Buchou   Stéphane,0,1
+Chassaigne   André,Ruffin   François,1,1
+Chassaigne   André,Leclabart   Jean-Claude,0,1
+Chassaigne   André,Fugit   Jean-Luc,0,1
+Benoit   Thierry,Batho   Delphine,0,1
+Benoit   Thierry,Dombreval   Loïc,1,1
+Benoit   Thierry,Petel   Anne-Laurence,1,1
+Benoit   Thierry,Martin   Didier,1,1
+Benoit   Thierry,Moreau   Jean-Baptiste,1,1
+Benoit   Thierry,de Lavergne   Célia,1,1
+Benoit   Thierry,Melchior   Graziella,1,1
+Benoit   Thierry,Kasbarian   Guillaume,1,1
+Benoit   Thierry,Le Feur   Sandrine,1,1
+Benoit   Thierry,Toutut-Picard   Élisabeth,1,1
+Benoit   Thierry,Ménard   Emmanuelle,0,1
+Benoit   Thierry,Dubos   Christelle,1,1
+Benoit   Thierry,Maillart-Méhaignerie   Laurence,1,1
+Benoit   Thierry,Colboc   Fabienne,1,1
+Benoit   Thierry,Limon   Monique,1,1
+Benoit   Thierry,Beauvais   Valérie,1,1
+Benoit   Thierry,Girardin   Éric,1,1
+Benoit   Thierry,Magnier   Lise,1,1
+Benoit   Thierry,Le Peih   Nicole,1,1
+Benoit   Thierry,Perrot   Patrice,1,1
+Benoit   Thierry,Potterie   Benoit,1,1
+Benoit   Thierry,Lachaud   Bastien,0,1
+Benoit   Thierry,Panot   Mathilde,0,1
+Benoit   Thierry,Park   Zivka,1,1
+Benoit   Thierry,Petit   Maud,1,1
+Benoit   Thierry,Millienne   Bruno,1,1
+Benoit   Thierry,Buchou   Stéphane,1,1
+Benoit   Thierry,Ruffin   François,0,1
+Benoit   Thierry,Leclabart   Jean-Claude,1,1
+Benoit   Thierry,Fugit   Jean-Luc,1,1
+Batho   Delphine,Dombreval   Loïc,0,1
+Batho   Delphine,Petel   Anne-Laurence,0,1
+Batho   Delphine,Martin   Didier,0,1
+Batho   Delphine,Moreau   Jean-Baptiste,0,1
+Batho   Delphine,de Lavergne   Célia,0,1
+Batho   Delphine,Melchior   Graziella,0,1
+Batho   Delphine,Kasbarian   Guillaume,0,1
+Batho   Delphine,Le Feur   Sandrine,0,1
+Batho   Delphine,Toutut-Picard   Élisabeth,0,1
+Batho   Delphine,Ménard   Emmanuelle,1,1
+Batho   Delphine,Dubos   Christelle,0,1
+Batho   Delphine,Maillart-Méhaignerie   Laurence,0,1
+Batho   Delphine,Colboc   Fabienne,0,1
+Batho   Delphine,Limon   Monique,0,1
+Batho   Delphine,Beauvais   Valérie,0,1
+Batho   Delphine,Girardin   Éric,0,1
+Batho   Delphine,Magnier   Lise,0,1
+Batho   Delphine,Le Peih   Nicole,0,1
+Batho   Delphine,Perrot   Patrice,0,1
+Batho   Delphine,Potterie   Benoit,0,1
+Batho   Delphine,Lachaud   Bastien,1,1
+Batho   Delphine,Panot   Mathilde,1,1
+Batho   Delphine,Park   Zivka,0,1
+Batho   Delphine,Petit   Maud,0,1
+Batho   Delphine,Millienne   Bruno,0,1
+Batho   Delphine,Buchou   Stéphane,0,1
+Batho   Delphine,Ruffin   François,1,1
+Batho   Delphine,Leclabart   Jean-Claude,0,1
+Batho   Delphine,Fugit   Jean-Luc,0,1
+Dombreval   Loïc,Petel   Anne-Laurence,1,1
+Dombreval   Loïc,Martin   Didier,1,1
+Dombreval   Loïc,Moreau   Jean-Baptiste,1,1
+Dombreval   Loïc,de Lavergne   Célia,1,1
+Dombreval   Loïc,Melchior   Graziella,1,1
+Dombreval   Loïc,Kasbarian   Guillaume,1,1
+Dombreval   Loïc,Le Feur   Sandrine,1,1
+Dombreval   Loïc,Toutut-Picard   Élisabeth,1,1
+Dombreval   Loïc,Ménard   Emmanuelle,0,1
+Dombreval   Loïc,Dubos   Christelle,1,1
+Dombreval   Loïc,Maillart-Méhaignerie   Laurence,1,1
+Dombreval   Loïc,Colboc   Fabienne,1,1
+Dombreval   Loïc,Limon   Monique,1,1
+Dombreval   Loïc,Beauvais   Valérie,1,1
+Dombreval   Loïc,Girardin   Éric,1,1
+Dombreval   Loïc,Magnier   Lise,1,1
+Dombreval   Loïc,Le Peih   Nicole,1,1
+Dombreval   Loïc,Perrot   Patrice,1,1
+Dombreval   Loïc,Potterie   Benoit,1,1
+Dombreval   Loïc,Lachaud   Bastien,0,1
+Dombreval   Loïc,Panot   Mathilde,0,1
+Dombreval   Loïc,Park   Zivka,1,1
+Dombreval   Loïc,Petit   Maud,1,1
+Dombreval   Loïc,Millienne   Bruno,1,1
+Dombreval   Loïc,Buchou   Stéphane,1,1
+Dombreval   Loïc,Ruffin   François,0,1
+Dombreval   Loïc,Leclabart   Jean-Claude,1,1
+Dombreval   Loïc,Fugit   Jean-Luc,1,1
+Petel   Anne-Laurence,Martin   Didier,1,1
+Petel   Anne-Laurence,Moreau   Jean-Baptiste,1,1
+Petel   Anne-Laurence,de Lavergne   Célia,1,1
+Petel   Anne-Laurence,Melchior   Graziella,1,1
+Petel   Anne-Laurence,Kasbarian   Guillaume,1,1
+Petel   Anne-Laurence,Le Feur   Sandrine,1,1
+Petel   Anne-Laurence,Toutut-Picard   Élisabeth,1,1
+Petel   Anne-Laurence,Ménard   Emmanuelle,0,1
+Petel   Anne-Laurence,Dubos   Christelle,1,1
+Petel   Anne-Laurence,Maillart-Méhaignerie   Laurence,1,1
+Petel   Anne-Laurence,Colboc   Fabienne,1,1
+Petel   Anne-Laurence,Limon   Monique,1,1
+Petel   Anne-Laurence,Beauvais   Valérie,1,1
+Petel   Anne-Laurence,Girardin   Éric,1,1
+Petel   Anne-Laurence,Magnier   Lise,1,1
+Petel   Anne-Laurence,Le Peih   Nicole,1,1
+Petel   Anne-Laurence,Perrot   Patrice,1,1
+Petel   Anne-Laurence,Potterie   Benoit,1,1
+Petel   Anne-Laurence,Lachaud   Bastien,0,1
+Petel   Anne-Laurence,Panot   Mathilde,0,1
+Petel   Anne-Laurence,Park   Zivka,1,1
+Petel   Anne-Laurence,Petit   Maud,1,1
+Petel   Anne-Laurence,Millienne   Bruno,1,1
+Petel   Anne-Laurence,Buchou   Stéphane,1,1
+Petel   Anne-Laurence,Ruffin   François,0,1
+Petel   Anne-Laurence,Leclabart   Jean-Claude,1,1
+Petel   Anne-Laurence,Fugit   Jean-Luc,1,1
+Martin   Didier,Moreau   Jean-Baptiste,1,1
+Martin   Didier,de Lavergne   Célia,1,1
+Martin   Didier,Melchior   Graziella,1,1
+Martin   Didier,Kasbarian   Guillaume,1,1
+Martin   Didier,Le Feur   Sandrine,1,1
+Martin   Didier,Toutut-Picard   Élisabeth,1,1
+Martin   Didier,Ménard   Emmanuelle,0,1
+Martin   Didier,Dubos   Christelle,1,1
+Martin   Didier,Maillart-Méhaignerie   Laurence,1,1
+Martin   Didier,Colboc   Fabienne,1,1
+Martin   Didier,Limon   Monique,1,1
+Martin   Didier,Beauvais   Valérie,1,1
+Martin   Didier,Girardin   Éric,1,1
+Martin   Didier,Magnier   Lise,1,1
+Martin   Didier,Le Peih   Nicole,1,1
+Martin   Didier,Perrot   Patrice,1,1
+Martin   Didier,Potterie   Benoit,1,1
+Martin   Didier,Lachaud   Bastien,0,1
+Martin   Didier,Panot   Mathilde,0,1
+Martin   Didier,Park   Zivka,1,1
+Martin   Didier,Petit   Maud,1,1
+Martin   Didier,Millienne   Bruno,1,1
+Martin   Didier,Buchou   Stéphane,1,1
+Martin   Didier,Ruffin   François,0,1
+Martin   Didier,Leclabart   Jean-Claude,1,1
+Martin   Didier,Fugit   Jean-Luc,1,1
+Moreau   Jean-Baptiste,de Lavergne   Célia,1,1
+Moreau   Jean-Baptiste,Melchior   Graziella,1,1
+Moreau   Jean-Baptiste,Kasbarian   Guillaume,1,1
+Moreau   Jean-Baptiste,Le Feur   Sandrine,1,1
+Moreau   Jean-Baptiste,Toutut-Picard   Élisabeth,1,1
+Moreau   Jean-Baptiste,Ménard   Emmanuelle,0,1
+Moreau   Jean-Baptiste,Dubos   Christelle,1,1
+Moreau   Jean-Baptiste,Maillart-Méhaignerie   Laurence,1,1
+Moreau   Jean-Baptiste,Colboc   Fabienne,1,1
+Moreau   Jean-Baptiste,Limon   Monique,1,1
+Moreau   Jean-Baptiste,Beauvais   Valérie,1,1
+Moreau   Jean-Baptiste,Girardin   Éric,1,1
+Moreau   Jean-Baptiste,Magnier   Lise,1,1
+Moreau   Jean-Baptiste,Le Peih   Nicole,1,1
+Moreau   Jean-Baptiste,Perrot   Patrice,1,1
+Moreau   Jean-Baptiste,Potterie   Benoit,1,1
+Moreau   Jean-Baptiste,Lachaud   Bastien,0,1
+Moreau   Jean-Baptiste,Panot   Mathilde,0,1
+Moreau   Jean-Baptiste,Park   Zivka,1,1
+Moreau   Jean-Baptiste,Petit   Maud,1,1
+Moreau   Jean-Baptiste,Millienne   Bruno,1,1
+Moreau   Jean-Baptiste,Buchou   Stéphane,1,1
+Moreau   Jean-Baptiste,Ruffin   François,0,1
+Moreau   Jean-Baptiste,Leclabart   Jean-Claude,1,1
+Moreau   Jean-Baptiste,Fugit   Jean-Luc,1,1
+de Lavergne   Célia,Melchior   Graziella,1,1
+de Lavergne   Célia,Kasbarian   Guillaume,1,1
+de Lavergne   Célia,Le Feur   Sandrine,1,1
+de Lavergne   Célia,Toutut-Picard   Élisabeth,1,1
+de Lavergne   Célia,Ménard   Emmanuelle,0,1
+de Lavergne   Célia,Dubos   Christelle,1,1
+de Lavergne   Célia,Maillart-Méhaignerie   Laurence,1,1
+de Lavergne   Célia,Colboc   Fabienne,1,1
+de Lavergne   Célia,Limon   Monique,1,1
+de Lavergne   Célia,Beauvais   Valérie,1,1
+de Lavergne   Célia,Girardin   Éric,1,1
+de Lavergne   Célia,Magnier   Lise,1,1
+de Lavergne   Célia,Le Peih   Nicole,1,1
+de Lavergne   Célia,Perrot   Patrice,1,1
+de Lavergne   Célia,Potterie   Benoit,1,1
+de Lavergne   Célia,Lachaud   Bastien,0,1
+de Lavergne   Célia,Panot   Mathilde,0,1
+de Lavergne   Célia,Park   Zivka,1,1
+de Lavergne   Célia,Petit   Maud,1,1
+de Lavergne   Célia,Millienne   Bruno,1,1
+de Lavergne   Célia,Buchou   Stéphane,1,1
+de Lavergne   Célia,Ruffin   François,0,1
+de Lavergne   Célia,Leclabart   Jean-Claude,1,1
+de Lavergne   Célia,Fugit   Jean-Luc,1,1
+Melchior   Graziella,Kasbarian   Guillaume,1,1
+Melchior   Graziella,Le Feur   Sandrine,1,1
+Melchior   Graziella,Toutut-Picard   Élisabeth,1,1
+Melchior   Graziella,Ménard   Emmanuelle,0,1
+Melchior   Graziella,Dubos   Christelle,1,1
+Melchior   Graziella,Maillart-Méhaignerie   Laurence,1,1
+Melchior   Graziella,Colboc   Fabienne,1,1
+Melchior   Graziella,Limon   Monique,1,1
+Melchior   Graziella,Beauvais   Valérie,1,1
+Melchior   Graziella,Girardin   Éric,1,1
+Melchior   Graziella,Magnier   Lise,1,1
+Melchior   Graziella,Le Peih   Nicole,1,1
+Melchior   Graziella,Perrot   Patrice,1,1
+Melchior   Graziella,Potterie   Benoit,1,1
+Melchior   Graziella,Lachaud   Bastien,0,1
+Melchior   Graziella,Panot   Mathilde,0,1
+Melchior   Graziella,Park   Zivka,1,1
+Melchior   Graziella,Petit   Maud,1,1
+Melchior   Graziella,Millienne   Bruno,1,1
+Melchior   Graziella,Buchou   Stéphane,1,1
+Melchior   Graziella,Ruffin   François,0,1
+Melchior   Graziella,Leclabart   Jean-Claude,1,1
+Melchior   Graziella,Fugit   Jean-Luc,1,1
+Kasbarian   Guillaume,Le Feur   Sandrine,1,1
+Kasbarian   Guillaume,Toutut-Picard   Élisabeth,1,1
+Kasbarian   Guillaume,Ménard   Emmanuelle,0,1
+Kasbarian   Guillaume,Dubos   Christelle,1,1
+Kasbarian   Guillaume,Maillart-Méhaignerie   Laurence,1,1
+Kasbarian   Guillaume,Colboc   Fabienne,1,1
+Kasbarian   Guillaume,Limon   Monique,1,1
+Kasbarian   Guillaume,Beauvais   Valérie,1,1
+Kasbarian   Guillaume,Girardin   Éric,1,1
+Kasbarian   Guillaume,Magnier   Lise,1,1
+Kasbarian   Guillaume,Le Peih   Nicole,1,1
+Kasbarian   Guillaume,Perrot   Patrice,1,1
+Kasbarian   Guillaume,Potterie   Benoit,1,1
+Kasbarian   Guillaume,Lachaud   Bastien,0,1
+Kasbarian   Guillaume,Panot   Mathilde,0,1
+Kasbarian   Guillaume,Park   Zivka,1,1
+Kasbarian   Guillaume,Petit   Maud,1,1
+Kasbarian   Guillaume,Millienne   Bruno,1,1
+Kasbarian   Guillaume,Buchou   Stéphane,1,1
+Kasbarian   Guillaume,Ruffin   François,0,1
+Kasbarian   Guillaume,Leclabart   Jean-Claude,1,1
+Kasbarian   Guillaume,Fugit   Jean-Luc,1,1
+Le Feur   Sandrine,Toutut-Picard   Élisabeth,1,1
+Le Feur   Sandrine,Ménard   Emmanuelle,0,1
+Le Feur   Sandrine,Dubos   Christelle,1,1
+Le Feur   Sandrine,Maillart-Méhaignerie   Laurence,1,1
+Le Feur   Sandrine,Colboc   Fabienne,1,1
+Le Feur   Sandrine,Limon   Monique,1,1
+Le Feur   Sandrine,Beauvais   Valérie,1,1
+Le Feur   Sandrine,Girardin   Éric,1,1
+Le Feur   Sandrine,Magnier   Lise,1,1
+Le Feur   Sandrine,Le Peih   Nicole,1,1
+Le Feur   Sandrine,Perrot   Patrice,1,1
+Le Feur   Sandrine,Potterie   Benoit,1,1
+Le Feur   Sandrine,Lachaud   Bastien,0,1
+Le Feur   Sandrine,Panot   Mathilde,0,1
+Le Feur   Sandrine,Park   Zivka,1,1
+Le Feur   Sandrine,Petit   Maud,1,1
+Le Feur   Sandrine,Millienne   Bruno,1,1
+Le Feur   Sandrine,Buchou   Stéphane,1,1
+Le Feur   Sandrine,Ruffin   François,0,1
+Le Feur   Sandrine,Leclabart   Jean-Claude,1,1
+Le Feur   Sandrine,Fugit   Jean-Luc,1,1
+Toutut-Picard   Élisabeth,Ménard   Emmanuelle,0,1
+Toutut-Picard   Élisabeth,Dubos   Christelle,1,1
+Toutut-Picard   Élisabeth,Maillart-Méhaignerie   Laurence,1,1
+Toutut-Picard   Élisabeth,Colboc   Fabienne,1,1
+Toutut-Picard   Élisabeth,Limon   Monique,1,1
+Toutut-Picard   Élisabeth,Beauvais   Valérie,1,1
+Toutut-Picard   Élisabeth,Girardin   Éric,1,1
+Toutut-Picard   Élisabeth,Magnier   Lise,1,1
+Toutut-Picard   Élisabeth,Le Peih   Nicole,1,1
+Toutut-Picard   Élisabeth,Perrot   Patrice,1,1
+Toutut-Picard   Élisabeth,Potterie   Benoit,1,1
+Toutut-Picard   Élisabeth,Lachaud   Bastien,0,1
+Toutut-Picard   Élisabeth,Panot   Mathilde,0,1
+Toutut-Picard   Élisabeth,Park   Zivka,1,1
+Toutut-Picard   Élisabeth,Petit   Maud,1,1
+Toutut-Picard   Élisabeth,Millienne   Bruno,1,1
+Toutut-Picard   Élisabeth,Buchou   Stéphane,1,1
+Toutut-Picard   Élisabeth,Ruffin   François,0,1
+Toutut-Picard   Élisabeth,Leclabart   Jean-Claude,1,1
+Toutut-Picard   Élisabeth,Fugit   Jean-Luc,1,1
+Ménard   Emmanuelle,Dubos   Christelle,0,1
+Ménard   Emmanuelle,Maillart-Méhaignerie   Laurence,0,1
+Ménard   Emmanuelle,Colboc   Fabienne,0,1
+Ménard   Emmanuelle,Limon   Monique,0,1
+Ménard   Emmanuelle,Beauvais   Valérie,0,1
+Ménard   Emmanuelle,Girardin   Éric,0,1
+Ménard   Emmanuelle,Magnier   Lise,0,1
+Ménard   Emmanuelle,Le Peih   Nicole,0,1
+Ménard   Emmanuelle,Perrot   Patrice,0,1
+Ménard   Emmanuelle,Potterie   Benoit,0,1
+Ménard   Emmanuelle,Lachaud   Bastien,1,1
+Ménard   Emmanuelle,Panot   Mathilde,1,1
+Ménard   Emmanuelle,Park   Zivka,0,1
+Ménard   Emmanuelle,Petit   Maud,0,1
+Ménard   Emmanuelle,Millienne   Bruno,0,1
+Ménard   Emmanuelle,Buchou   Stéphane,0,1
+Ménard   Emmanuelle,Ruffin   François,1,1
+Ménard   Emmanuelle,Leclabart   Jean-Claude,0,1
+Ménard   Emmanuelle,Fugit   Jean-Luc,0,1
+Dubos   Christelle,Maillart-Méhaignerie   Laurence,1,1
+Dubos   Christelle,Colboc   Fabienne,1,1
+Dubos   Christelle,Limon   Monique,1,1
+Dubos   Christelle,Beauvais   Valérie,1,1
+Dubos   Christelle,Girardin   Éric,1,1
+Dubos   Christelle,Magnier   Lise,1,1
+Dubos   Christelle,Le Peih   Nicole,1,1
+Dubos   Christelle,Perrot   Patrice,1,1
+Dubos   Christelle,Potterie   Benoit,1,1
+Dubos   Christelle,Lachaud   Bastien,0,1
+Dubos   Christelle,Panot   Mathilde,0,1
+Dubos   Christelle,Park   Zivka,1,1
+Dubos   Christelle,Petit   Maud,1,1
+Dubos   Christelle,Millienne   Bruno,1,1
+Dubos   Christelle,Buchou   Stéphane,1,1
+Dubos   Christelle,Ruffin   François,0,1
+Dubos   Christelle,Leclabart   Jean-Claude,1,1
+Dubos   Christelle,Fugit   Jean-Luc,1,1
+Maillart-Méhaignerie   Laurence,Colboc   Fabienne,1,1
+Maillart-Méhaignerie   Laurence,Limon   Monique,1,1
+Maillart-Méhaignerie   Laurence,Beauvais   Valérie,1,1
+Maillart-Méhaignerie   Laurence,Girardin   Éric,1,1
+Maillart-Méhaignerie   Laurence,Magnier   Lise,1,1
+Maillart-Méhaignerie   Laurence,Le Peih   Nicole,1,1
+Maillart-Méhaignerie   Laurence,Perrot   Patrice,1,1
+Maillart-Méhaignerie   Laurence,Potterie   Benoit,1,1
+Maillart-Méhaignerie   Laurence,Lachaud   Bastien,0,1
+Maillart-Méhaignerie   Laurence,Panot   Mathilde,0,1
+Maillart-Méhaignerie   Laurence,Park   Zivka,1,1
+Maillart-Méhaignerie   Laurence,Petit   Maud,1,1
+Maillart-Méhaignerie   Laurence,Millienne   Bruno,1,1
+Maillart-Méhaignerie   Laurence,Buchou   Stéphane,1,1
+Maillart-Méhaignerie   Laurence,Ruffin   François,0,1
+Maillart-Méhaignerie   Laurence,Leclabart   Jean-Claude,1,1
+Maillart-Méhaignerie   Laurence,Fugit   Jean-Luc,1,1
+Colboc   Fabienne,Limon   Monique,1,1
+Colboc   Fabienne,Beauvais   Valérie,1,1
+Colboc   Fabienne,Girardin   Éric,1,1
+Colboc   Fabienne,Magnier   Lise,1,1
+Colboc   Fabienne,Le Peih   Nicole,1,1
+Colboc   Fabienne,Perrot   Patrice,1,1
+Colboc   Fabienne,Potterie   Benoit,1,1
+Colboc   Fabienne,Lachaud   Bastien,0,1
+Colboc   Fabienne,Panot   Mathilde,0,1
+Colboc   Fabienne,Park   Zivka,1,1
+Colboc   Fabienne,Petit   Maud,1,1
+Colboc   Fabienne,Millienne   Bruno,1,1
+Colboc   Fabienne,Buchou   Stéphane,1,1
+Colboc   Fabienne,Ruffin   François,0,1
+Colboc   Fabienne,Leclabart   Jean-Claude,1,1
+Colboc   Fabienne,Fugit   Jean-Luc,1,1
+Limon   Monique,Beauvais   Valérie,1,1
+Limon   Monique,Girardin   Éric,1,1
+Limon   Monique,Magnier   Lise,1,1
+Limon   Monique,Le Peih   Nicole,1,1
+Limon   Monique,Perrot   Patrice,1,1
+Limon   Monique,Potterie   Benoit,1,1
+Limon   Monique,Lachaud   Bastien,0,1
+Limon   Monique,Panot   Mathilde,0,1
+Limon   Monique,Park   Zivka,1,1
+Limon   Monique,Petit   Maud,1,1
+Limon   Monique,Millienne   Bruno,1,1
+Limon   Monique,Buchou   Stéphane,1,1
+Limon   Monique,Ruffin   François,0,1
+Limon   Monique,Leclabart   Jean-Claude,1,1
+Limon   Monique,Fugit   Jean-Luc,1,1
+Beauvais   Valérie,Girardin   Éric,1,1
+Beauvais   Valérie,Magnier   Lise,1,1
+Beauvais   Valérie,Le Peih   Nicole,1,1
+Beauvais   Valérie,Perrot   Patrice,1,1
+Beauvais   Valérie,Potterie   Benoit,1,1
+Beauvais   Valérie,Lachaud   Bastien,0,1
+Beauvais   Valérie,Panot   Mathilde,0,1
+Beauvais   Valérie,Park   Zivka,1,1
+Beauvais   Valérie,Petit   Maud,1,1
+Beauvais   Valérie,Millienne   Bruno,1,1
+Beauvais   Valérie,Buchou   Stéphane,1,1
+Beauvais   Valérie,Ruffin   François,0,1
+Beauvais   Valérie,Leclabart   Jean-Claude,1,1
+Beauvais   Valérie,Fugit   Jean-Luc,1,1
+Girardin   Éric,Magnier   Lise,1,1
+Girardin   Éric,Le Peih   Nicole,1,1
+Girardin   Éric,Perrot   Patrice,1,1
+Girardin   Éric,Potterie   Benoit,1,1
+Girardin   Éric,Lachaud   Bastien,0,1
+Girardin   Éric,Panot   Mathilde,0,1
+Girardin   Éric,Park   Zivka,1,1
+Girardin   Éric,Petit   Maud,1,1
+Girardin   Éric,Millienne   Bruno,1,1
+Girardin   Éric,Buchou   Stéphane,1,1
+Girardin   Éric,Ruffin   François,0,1
+Girardin   Éric,Leclabart   Jean-Claude,1,1
+Girardin   Éric,Fugit   Jean-Luc,1,1
+Magnier   Lise,Le Peih   Nicole,1,1
+Magnier   Lise,Perrot   Patrice,1,1
+Magnier   Lise,Potterie   Benoit,1,1
+Magnier   Lise,Lachaud   Bastien,0,1
+Magnier   Lise,Panot   Mathilde,0,1
+Magnier   Lise,Park   Zivka,1,1
+Magnier   Lise,Petit   Maud,1,1
+Magnier   Lise,Millienne   Bruno,1,1
+Magnier   Lise,Buchou   Stéphane,1,1
+Magnier   Lise,Ruffin   François,0,1
+Magnier   Lise,Leclabart   Jean-Claude,1,1
+Magnier   Lise,Fugit   Jean-Luc,1,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Potterie   Benoit,1,1
+Le Peih   Nicole,Lachaud   Bastien,0,1
+Le Peih   Nicole,Panot   Mathilde,0,1
+Le Peih   Nicole,Park   Zivka,1,1
+Le Peih   Nicole,Petit   Maud,1,1
+Le Peih   Nicole,Millienne   Bruno,1,1
+Le Peih   Nicole,Buchou   Stéphane,1,1
+Le Peih   Nicole,Ruffin   François,0,1
+Le Peih   Nicole,Leclabart   Jean-Claude,1,1
+Le Peih   Nicole,Fugit   Jean-Luc,1,1
+Perrot   Patrice,Potterie   Benoit,1,1
+Perrot   Patrice,Lachaud   Bastien,0,1
+Perrot   Patrice,Panot   Mathilde,0,1
+Perrot   Patrice,Park   Zivka,1,1
+Perrot   Patrice,Petit   Maud,1,1
+Perrot   Patrice,Millienne   Bruno,1,1
+Perrot   Patrice,Buchou   Stéphane,1,1
+Perrot   Patrice,Ruffin   François,0,1
+Perrot   Patrice,Leclabart   Jean-Claude,1,1
+Perrot   Patrice,Fugit   Jean-Luc,1,1
+Potterie   Benoit,Lachaud   Bastien,0,1
+Potterie   Benoit,Panot   Mathilde,0,1
+Potterie   Benoit,Park   Zivka,1,1
+Potterie   Benoit,Petit   Maud,1,1
+Potterie   Benoit,Millienne   Bruno,1,1
+Potterie   Benoit,Buchou   Stéphane,1,1
+Potterie   Benoit,Ruffin   François,0,1
+Potterie   Benoit,Leclabart   Jean-Claude,1,1
+Potterie   Benoit,Fugit   Jean-Luc,1,1
+Lachaud   Bastien,Panot   Mathilde,1,1
+Lachaud   Bastien,Park   Zivka,0,1
+Lachaud   Bastien,Petit   Maud,0,1
+Lachaud   Bastien,Millienne   Bruno,0,1
+Lachaud   Bastien,Buchou   Stéphane,0,1
+Lachaud   Bastien,Ruffin   François,1,1
+Lachaud   Bastien,Leclabart   Jean-Claude,0,1
+Lachaud   Bastien,Fugit   Jean-Luc,0,1
+Panot   Mathilde,Park   Zivka,0,1
+Panot   Mathilde,Petit   Maud,0,1
+Panot   Mathilde,Millienne   Bruno,0,1
+Panot   Mathilde,Buchou   Stéphane,0,1
+Panot   Mathilde,Ruffin   François,1,1
+Panot   Mathilde,Leclabart   Jean-Claude,0,1
+Panot   Mathilde,Fugit   Jean-Luc,0,1
+Park   Zivka,Petit   Maud,1,1
+Park   Zivka,Millienne   Bruno,1,1
+Park   Zivka,Buchou   Stéphane,1,1
+Park   Zivka,Ruffin   François,0,1
+Park   Zivka,Leclabart   Jean-Claude,1,1
+Park   Zivka,Fugit   Jean-Luc,1,1
+Petit   Maud,Millienne   Bruno,1,1
+Petit   Maud,Buchou   Stéphane,1,1
+Petit   Maud,Ruffin   François,0,1
+Petit   Maud,Leclabart   Jean-Claude,1,1
+Petit   Maud,Fugit   Jean-Luc,1,1
+Millienne   Bruno,Buchou   Stéphane,1,1
+Millienne   Bruno,Ruffin   François,0,1
+Millienne   Bruno,Leclabart   Jean-Claude,1,1
+Millienne   Bruno,Fugit   Jean-Luc,1,1
+Buchou   Stéphane,Ruffin   François,0,1
+Buchou   Stéphane,Leclabart   Jean-Claude,1,1
+Buchou   Stéphane,Fugit   Jean-Luc,1,1
+Ruffin   François,Leclabart   Jean-Claude,0,1
+Ruffin   François,Fugit   Jean-Luc,0,1
+Leclabart   Jean-Claude,Fugit   Jean-Luc,1,1

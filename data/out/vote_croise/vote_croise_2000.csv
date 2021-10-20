@@ -1,0 +1,904 @@
+from,to,vote_commun,loi_commun
+Herth   Antoine,Battistel   Marie-Noëlle,0,1
+Herth   Antoine,Aubert   Julien,0,1
+Herth   Antoine,Peyrol   Bénédicte,0,1
+Herth   Antoine,Marsaud   Sandra,0,1
+Herth   Antoine,Kerlogot   Yannick,0,1
+Herth   Antoine,Moreau   Jean-Baptiste,0,1
+Herth   Antoine,Kasbarian   Guillaume,0,1
+Herth   Antoine,Le Feur   Sandrine,0,1
+Herth   Antoine,Cellier   Anthony,0,1
+Herth   Antoine,Colas-Roy   Jean-Charles,0,1
+Herth   Antoine,Chalumeau   Philippe,0,1
+Herth   Antoine,Labaronne   Daniel,0,1
+Herth   Antoine,Causse   Lionel,0,1
+Herth   Antoine,Mis   Jean-Michel,0,1
+Herth   Antoine,Sarles   Nathalie,0,1
+Herth   Antoine,Tiegna   Huguette,0,1
+Herth   Antoine,Dufeu   Audrey,0,1
+Herth   Antoine,Bolo   Philippe,0,1
+Herth   Antoine,Arend   Christophe,0,1
+Herth   Antoine,Pahun   Jimmy,0,1
+Herth   Antoine,Le Peih   Nicole,0,1
+Herth   Antoine,Belhaddad   Belkhir,0,1
+Herth   Antoine,Perrot   Patrice,0,1
+Herth   Antoine,Vatin   Pierre,0,1
+Herth   Antoine,Lazaar   Fiona,0,1
+Herth   Antoine,Lescure   Roland,0,1
+Herth   Antoine,Petit   Frédéric,1,1
+Herth   Antoine,Ramadier   Alain,0,1
+Herth   Antoine,Fontenel-Personne   Pascale,0,1
+Herth   Antoine,Riotton   Véronique,0,1
+Herth   Antoine,Kuster   Brigitte,0,1
+Herth   Antoine,Lebec   Marie,0,1
+Herth   Antoine,de Vaucouleurs   Michèle,0,1
+Herth   Antoine,Latombe   Philippe,0,1
+Herth   Antoine,Adam   Damien,0,1
+Herth   Antoine,Granjus   Florence,0,1
+Herth   Antoine,Hennion   Christine,0,1
+Herth   Antoine,Wulfranc   Hubert,1,1
+Herth   Antoine,Ruffin   François,0,1
+Herth   Antoine,Beaudouin-Hubiere   Sophie,0,1
+Herth   Antoine,Thiébaut   Vincent,0,1
+Herth   Antoine,Chouat   Francis,0,1
+Battistel   Marie-Noëlle,Aubert   Julien,0,1
+Battistel   Marie-Noëlle,Peyrol   Bénédicte,1,1
+Battistel   Marie-Noëlle,Marsaud   Sandra,1,1
+Battistel   Marie-Noëlle,Kerlogot   Yannick,1,1
+Battistel   Marie-Noëlle,Moreau   Jean-Baptiste,1,1
+Battistel   Marie-Noëlle,Kasbarian   Guillaume,1,1
+Battistel   Marie-Noëlle,Le Feur   Sandrine,1,1
+Battistel   Marie-Noëlle,Cellier   Anthony,1,1
+Battistel   Marie-Noëlle,Colas-Roy   Jean-Charles,1,1
+Battistel   Marie-Noëlle,Chalumeau   Philippe,1,1
+Battistel   Marie-Noëlle,Labaronne   Daniel,1,1
+Battistel   Marie-Noëlle,Causse   Lionel,1,1
+Battistel   Marie-Noëlle,Mis   Jean-Michel,1,1
+Battistel   Marie-Noëlle,Sarles   Nathalie,1,1
+Battistel   Marie-Noëlle,Tiegna   Huguette,1,1
+Battistel   Marie-Noëlle,Dufeu   Audrey,1,1
+Battistel   Marie-Noëlle,Bolo   Philippe,1,1
+Battistel   Marie-Noëlle,Arend   Christophe,1,1
+Battistel   Marie-Noëlle,Pahun   Jimmy,1,1
+Battistel   Marie-Noëlle,Le Peih   Nicole,1,1
+Battistel   Marie-Noëlle,Belhaddad   Belkhir,1,1
+Battistel   Marie-Noëlle,Perrot   Patrice,1,1
+Battistel   Marie-Noëlle,Vatin   Pierre,0,1
+Battistel   Marie-Noëlle,Lazaar   Fiona,1,1
+Battistel   Marie-Noëlle,Lescure   Roland,1,1
+Battistel   Marie-Noëlle,Petit   Frédéric,0,1
+Battistel   Marie-Noëlle,Ramadier   Alain,0,1
+Battistel   Marie-Noëlle,Fontenel-Personne   Pascale,1,1
+Battistel   Marie-Noëlle,Riotton   Véronique,1,1
+Battistel   Marie-Noëlle,Kuster   Brigitte,0,1
+Battistel   Marie-Noëlle,Lebec   Marie,1,1
+Battistel   Marie-Noëlle,de Vaucouleurs   Michèle,1,1
+Battistel   Marie-Noëlle,Latombe   Philippe,1,1
+Battistel   Marie-Noëlle,Adam   Damien,1,1
+Battistel   Marie-Noëlle,Granjus   Florence,1,1
+Battistel   Marie-Noëlle,Hennion   Christine,1,1
+Battistel   Marie-Noëlle,Wulfranc   Hubert,0,1
+Battistel   Marie-Noëlle,Ruffin   François,1,1
+Battistel   Marie-Noëlle,Beaudouin-Hubiere   Sophie,1,1
+Battistel   Marie-Noëlle,Thiébaut   Vincent,1,1
+Battistel   Marie-Noëlle,Chouat   Francis,1,1
+Aubert   Julien,Peyrol   Bénédicte,0,1
+Aubert   Julien,Marsaud   Sandra,0,1
+Aubert   Julien,Kerlogot   Yannick,0,1
+Aubert   Julien,Moreau   Jean-Baptiste,0,1
+Aubert   Julien,Kasbarian   Guillaume,0,1
+Aubert   Julien,Le Feur   Sandrine,0,1
+Aubert   Julien,Cellier   Anthony,0,1
+Aubert   Julien,Colas-Roy   Jean-Charles,0,1
+Aubert   Julien,Chalumeau   Philippe,0,1
+Aubert   Julien,Labaronne   Daniel,0,1
+Aubert   Julien,Causse   Lionel,0,1
+Aubert   Julien,Mis   Jean-Michel,0,1
+Aubert   Julien,Sarles   Nathalie,0,1
+Aubert   Julien,Tiegna   Huguette,0,1
+Aubert   Julien,Dufeu   Audrey,0,1
+Aubert   Julien,Bolo   Philippe,0,1
+Aubert   Julien,Arend   Christophe,0,1
+Aubert   Julien,Pahun   Jimmy,0,1
+Aubert   Julien,Le Peih   Nicole,0,1
+Aubert   Julien,Belhaddad   Belkhir,0,1
+Aubert   Julien,Perrot   Patrice,0,1
+Aubert   Julien,Vatin   Pierre,1,1
+Aubert   Julien,Lazaar   Fiona,0,1
+Aubert   Julien,Lescure   Roland,0,1
+Aubert   Julien,Petit   Frédéric,0,1
+Aubert   Julien,Ramadier   Alain,1,1
+Aubert   Julien,Fontenel-Personne   Pascale,0,1
+Aubert   Julien,Riotton   Véronique,0,1
+Aubert   Julien,Kuster   Brigitte,1,1
+Aubert   Julien,Lebec   Marie,0,1
+Aubert   Julien,de Vaucouleurs   Michèle,0,1
+Aubert   Julien,Latombe   Philippe,0,1
+Aubert   Julien,Adam   Damien,0,1
+Aubert   Julien,Granjus   Florence,0,1
+Aubert   Julien,Hennion   Christine,0,1
+Aubert   Julien,Wulfranc   Hubert,0,1
+Aubert   Julien,Ruffin   François,0,1
+Aubert   Julien,Beaudouin-Hubiere   Sophie,0,1
+Aubert   Julien,Thiébaut   Vincent,0,1
+Aubert   Julien,Chouat   Francis,0,1
+Peyrol   Bénédicte,Marsaud   Sandra,1,1
+Peyrol   Bénédicte,Kerlogot   Yannick,1,1
+Peyrol   Bénédicte,Moreau   Jean-Baptiste,1,1
+Peyrol   Bénédicte,Kasbarian   Guillaume,1,1
+Peyrol   Bénédicte,Le Feur   Sandrine,1,1
+Peyrol   Bénédicte,Cellier   Anthony,1,1
+Peyrol   Bénédicte,Colas-Roy   Jean-Charles,1,1
+Peyrol   Bénédicte,Chalumeau   Philippe,1,1
+Peyrol   Bénédicte,Labaronne   Daniel,1,1
+Peyrol   Bénédicte,Causse   Lionel,1,1
+Peyrol   Bénédicte,Mis   Jean-Michel,1,1
+Peyrol   Bénédicte,Sarles   Nathalie,1,1
+Peyrol   Bénédicte,Tiegna   Huguette,1,1
+Peyrol   Bénédicte,Dufeu   Audrey,1,1
+Peyrol   Bénédicte,Bolo   Philippe,1,1
+Peyrol   Bénédicte,Arend   Christophe,1,1
+Peyrol   Bénédicte,Pahun   Jimmy,1,1
+Peyrol   Bénédicte,Le Peih   Nicole,1,1
+Peyrol   Bénédicte,Belhaddad   Belkhir,1,1
+Peyrol   Bénédicte,Perrot   Patrice,1,1
+Peyrol   Bénédicte,Vatin   Pierre,0,1
+Peyrol   Bénédicte,Lazaar   Fiona,1,1
+Peyrol   Bénédicte,Lescure   Roland,1,1
+Peyrol   Bénédicte,Petit   Frédéric,0,1
+Peyrol   Bénédicte,Ramadier   Alain,0,1
+Peyrol   Bénédicte,Fontenel-Personne   Pascale,1,1
+Peyrol   Bénédicte,Riotton   Véronique,1,1
+Peyrol   Bénédicte,Kuster   Brigitte,0,1
+Peyrol   Bénédicte,Lebec   Marie,1,1
+Peyrol   Bénédicte,de Vaucouleurs   Michèle,1,1
+Peyrol   Bénédicte,Latombe   Philippe,1,1
+Peyrol   Bénédicte,Adam   Damien,1,1
+Peyrol   Bénédicte,Granjus   Florence,1,1
+Peyrol   Bénédicte,Hennion   Christine,1,1
+Peyrol   Bénédicte,Wulfranc   Hubert,0,1
+Peyrol   Bénédicte,Ruffin   François,1,1
+Peyrol   Bénédicte,Beaudouin-Hubiere   Sophie,1,1
+Peyrol   Bénédicte,Thiébaut   Vincent,1,1
+Peyrol   Bénédicte,Chouat   Francis,1,1
+Marsaud   Sandra,Kerlogot   Yannick,1,1
+Marsaud   Sandra,Moreau   Jean-Baptiste,1,1
+Marsaud   Sandra,Kasbarian   Guillaume,1,1
+Marsaud   Sandra,Le Feur   Sandrine,1,1
+Marsaud   Sandra,Cellier   Anthony,1,1
+Marsaud   Sandra,Colas-Roy   Jean-Charles,1,1
+Marsaud   Sandra,Chalumeau   Philippe,1,1
+Marsaud   Sandra,Labaronne   Daniel,1,1
+Marsaud   Sandra,Causse   Lionel,1,1
+Marsaud   Sandra,Mis   Jean-Michel,1,1
+Marsaud   Sandra,Sarles   Nathalie,1,1
+Marsaud   Sandra,Tiegna   Huguette,1,1
+Marsaud   Sandra,Dufeu   Audrey,1,1
+Marsaud   Sandra,Bolo   Philippe,1,1
+Marsaud   Sandra,Arend   Christophe,1,1
+Marsaud   Sandra,Pahun   Jimmy,1,1
+Marsaud   Sandra,Le Peih   Nicole,1,1
+Marsaud   Sandra,Belhaddad   Belkhir,1,1
+Marsaud   Sandra,Perrot   Patrice,1,1
+Marsaud   Sandra,Vatin   Pierre,0,1
+Marsaud   Sandra,Lazaar   Fiona,1,1
+Marsaud   Sandra,Lescure   Roland,1,1
+Marsaud   Sandra,Petit   Frédéric,0,1
+Marsaud   Sandra,Ramadier   Alain,0,1
+Marsaud   Sandra,Fontenel-Personne   Pascale,1,1
+Marsaud   Sandra,Riotton   Véronique,1,1
+Marsaud   Sandra,Kuster   Brigitte,0,1
+Marsaud   Sandra,Lebec   Marie,1,1
+Marsaud   Sandra,de Vaucouleurs   Michèle,1,1
+Marsaud   Sandra,Latombe   Philippe,1,1
+Marsaud   Sandra,Adam   Damien,1,1
+Marsaud   Sandra,Granjus   Florence,1,1
+Marsaud   Sandra,Hennion   Christine,1,1
+Marsaud   Sandra,Wulfranc   Hubert,0,1
+Marsaud   Sandra,Ruffin   François,1,1
+Marsaud   Sandra,Beaudouin-Hubiere   Sophie,1,1
+Marsaud   Sandra,Thiébaut   Vincent,1,1
+Marsaud   Sandra,Chouat   Francis,1,1
+Kerlogot   Yannick,Moreau   Jean-Baptiste,1,1
+Kerlogot   Yannick,Kasbarian   Guillaume,1,1
+Kerlogot   Yannick,Le Feur   Sandrine,1,1
+Kerlogot   Yannick,Cellier   Anthony,1,1
+Kerlogot   Yannick,Colas-Roy   Jean-Charles,1,1
+Kerlogot   Yannick,Chalumeau   Philippe,1,1
+Kerlogot   Yannick,Labaronne   Daniel,1,1
+Kerlogot   Yannick,Causse   Lionel,1,1
+Kerlogot   Yannick,Mis   Jean-Michel,1,1
+Kerlogot   Yannick,Sarles   Nathalie,1,1
+Kerlogot   Yannick,Tiegna   Huguette,1,1
+Kerlogot   Yannick,Dufeu   Audrey,1,1
+Kerlogot   Yannick,Bolo   Philippe,1,1
+Kerlogot   Yannick,Arend   Christophe,1,1
+Kerlogot   Yannick,Pahun   Jimmy,1,1
+Kerlogot   Yannick,Le Peih   Nicole,1,1
+Kerlogot   Yannick,Belhaddad   Belkhir,1,1
+Kerlogot   Yannick,Perrot   Patrice,1,1
+Kerlogot   Yannick,Vatin   Pierre,0,1
+Kerlogot   Yannick,Lazaar   Fiona,1,1
+Kerlogot   Yannick,Lescure   Roland,1,1
+Kerlogot   Yannick,Petit   Frédéric,0,1
+Kerlogot   Yannick,Ramadier   Alain,0,1
+Kerlogot   Yannick,Fontenel-Personne   Pascale,1,1
+Kerlogot   Yannick,Riotton   Véronique,1,1
+Kerlogot   Yannick,Kuster   Brigitte,0,1
+Kerlogot   Yannick,Lebec   Marie,1,1
+Kerlogot   Yannick,de Vaucouleurs   Michèle,1,1
+Kerlogot   Yannick,Latombe   Philippe,1,1
+Kerlogot   Yannick,Adam   Damien,1,1
+Kerlogot   Yannick,Granjus   Florence,1,1
+Kerlogot   Yannick,Hennion   Christine,1,1
+Kerlogot   Yannick,Wulfranc   Hubert,0,1
+Kerlogot   Yannick,Ruffin   François,1,1
+Kerlogot   Yannick,Beaudouin-Hubiere   Sophie,1,1
+Kerlogot   Yannick,Thiébaut   Vincent,1,1
+Kerlogot   Yannick,Chouat   Francis,1,1
+Moreau   Jean-Baptiste,Kasbarian   Guillaume,1,1
+Moreau   Jean-Baptiste,Le Feur   Sandrine,1,1
+Moreau   Jean-Baptiste,Cellier   Anthony,1,1
+Moreau   Jean-Baptiste,Colas-Roy   Jean-Charles,1,1
+Moreau   Jean-Baptiste,Chalumeau   Philippe,1,1
+Moreau   Jean-Baptiste,Labaronne   Daniel,1,1
+Moreau   Jean-Baptiste,Causse   Lionel,1,1
+Moreau   Jean-Baptiste,Mis   Jean-Michel,1,1
+Moreau   Jean-Baptiste,Sarles   Nathalie,1,1
+Moreau   Jean-Baptiste,Tiegna   Huguette,1,1
+Moreau   Jean-Baptiste,Dufeu   Audrey,1,1
+Moreau   Jean-Baptiste,Bolo   Philippe,1,1
+Moreau   Jean-Baptiste,Arend   Christophe,1,1
+Moreau   Jean-Baptiste,Pahun   Jimmy,1,1
+Moreau   Jean-Baptiste,Le Peih   Nicole,1,1
+Moreau   Jean-Baptiste,Belhaddad   Belkhir,1,1
+Moreau   Jean-Baptiste,Perrot   Patrice,1,1
+Moreau   Jean-Baptiste,Vatin   Pierre,0,1
+Moreau   Jean-Baptiste,Lazaar   Fiona,1,1
+Moreau   Jean-Baptiste,Lescure   Roland,1,1
+Moreau   Jean-Baptiste,Petit   Frédéric,0,1
+Moreau   Jean-Baptiste,Ramadier   Alain,0,1
+Moreau   Jean-Baptiste,Fontenel-Personne   Pascale,1,1
+Moreau   Jean-Baptiste,Riotton   Véronique,1,1
+Moreau   Jean-Baptiste,Kuster   Brigitte,0,1
+Moreau   Jean-Baptiste,Lebec   Marie,1,1
+Moreau   Jean-Baptiste,de Vaucouleurs   Michèle,1,1
+Moreau   Jean-Baptiste,Latombe   Philippe,1,1
+Moreau   Jean-Baptiste,Adam   Damien,1,1
+Moreau   Jean-Baptiste,Granjus   Florence,1,1
+Moreau   Jean-Baptiste,Hennion   Christine,1,1
+Moreau   Jean-Baptiste,Wulfranc   Hubert,0,1
+Moreau   Jean-Baptiste,Ruffin   François,1,1
+Moreau   Jean-Baptiste,Beaudouin-Hubiere   Sophie,1,1
+Moreau   Jean-Baptiste,Thiébaut   Vincent,1,1
+Moreau   Jean-Baptiste,Chouat   Francis,1,1
+Kasbarian   Guillaume,Le Feur   Sandrine,1,1
+Kasbarian   Guillaume,Cellier   Anthony,1,1
+Kasbarian   Guillaume,Colas-Roy   Jean-Charles,1,1
+Kasbarian   Guillaume,Chalumeau   Philippe,1,1
+Kasbarian   Guillaume,Labaronne   Daniel,1,1
+Kasbarian   Guillaume,Causse   Lionel,1,1
+Kasbarian   Guillaume,Mis   Jean-Michel,1,1
+Kasbarian   Guillaume,Sarles   Nathalie,1,1
+Kasbarian   Guillaume,Tiegna   Huguette,1,1
+Kasbarian   Guillaume,Dufeu   Audrey,1,1
+Kasbarian   Guillaume,Bolo   Philippe,1,1
+Kasbarian   Guillaume,Arend   Christophe,1,1
+Kasbarian   Guillaume,Pahun   Jimmy,1,1
+Kasbarian   Guillaume,Le Peih   Nicole,1,1
+Kasbarian   Guillaume,Belhaddad   Belkhir,1,1
+Kasbarian   Guillaume,Perrot   Patrice,1,1
+Kasbarian   Guillaume,Vatin   Pierre,0,1
+Kasbarian   Guillaume,Lazaar   Fiona,1,1
+Kasbarian   Guillaume,Lescure   Roland,1,1
+Kasbarian   Guillaume,Petit   Frédéric,0,1
+Kasbarian   Guillaume,Ramadier   Alain,0,1
+Kasbarian   Guillaume,Fontenel-Personne   Pascale,1,1
+Kasbarian   Guillaume,Riotton   Véronique,1,1
+Kasbarian   Guillaume,Kuster   Brigitte,0,1
+Kasbarian   Guillaume,Lebec   Marie,1,1
+Kasbarian   Guillaume,de Vaucouleurs   Michèle,1,1
+Kasbarian   Guillaume,Latombe   Philippe,1,1
+Kasbarian   Guillaume,Adam   Damien,1,1
+Kasbarian   Guillaume,Granjus   Florence,1,1
+Kasbarian   Guillaume,Hennion   Christine,1,1
+Kasbarian   Guillaume,Wulfranc   Hubert,0,1
+Kasbarian   Guillaume,Ruffin   François,1,1
+Kasbarian   Guillaume,Beaudouin-Hubiere   Sophie,1,1
+Kasbarian   Guillaume,Thiébaut   Vincent,1,1
+Kasbarian   Guillaume,Chouat   Francis,1,1
+Le Feur   Sandrine,Cellier   Anthony,1,1
+Le Feur   Sandrine,Colas-Roy   Jean-Charles,1,1
+Le Feur   Sandrine,Chalumeau   Philippe,1,1
+Le Feur   Sandrine,Labaronne   Daniel,1,1
+Le Feur   Sandrine,Causse   Lionel,1,1
+Le Feur   Sandrine,Mis   Jean-Michel,1,1
+Le Feur   Sandrine,Sarles   Nathalie,1,1
+Le Feur   Sandrine,Tiegna   Huguette,1,1
+Le Feur   Sandrine,Dufeu   Audrey,1,1
+Le Feur   Sandrine,Bolo   Philippe,1,1
+Le Feur   Sandrine,Arend   Christophe,1,1
+Le Feur   Sandrine,Pahun   Jimmy,1,1
+Le Feur   Sandrine,Le Peih   Nicole,1,1
+Le Feur   Sandrine,Belhaddad   Belkhir,1,1
+Le Feur   Sandrine,Perrot   Patrice,1,1
+Le Feur   Sandrine,Vatin   Pierre,0,1
+Le Feur   Sandrine,Lazaar   Fiona,1,1
+Le Feur   Sandrine,Lescure   Roland,1,1
+Le Feur   Sandrine,Petit   Frédéric,0,1
+Le Feur   Sandrine,Ramadier   Alain,0,1
+Le Feur   Sandrine,Fontenel-Personne   Pascale,1,1
+Le Feur   Sandrine,Riotton   Véronique,1,1
+Le Feur   Sandrine,Kuster   Brigitte,0,1
+Le Feur   Sandrine,Lebec   Marie,1,1
+Le Feur   Sandrine,de Vaucouleurs   Michèle,1,1
+Le Feur   Sandrine,Latombe   Philippe,1,1
+Le Feur   Sandrine,Adam   Damien,1,1
+Le Feur   Sandrine,Granjus   Florence,1,1
+Le Feur   Sandrine,Hennion   Christine,1,1
+Le Feur   Sandrine,Wulfranc   Hubert,0,1
+Le Feur   Sandrine,Ruffin   François,1,1
+Le Feur   Sandrine,Beaudouin-Hubiere   Sophie,1,1
+Le Feur   Sandrine,Thiébaut   Vincent,1,1
+Le Feur   Sandrine,Chouat   Francis,1,1
+Cellier   Anthony,Colas-Roy   Jean-Charles,1,1
+Cellier   Anthony,Chalumeau   Philippe,1,1
+Cellier   Anthony,Labaronne   Daniel,1,1
+Cellier   Anthony,Causse   Lionel,1,1
+Cellier   Anthony,Mis   Jean-Michel,1,1
+Cellier   Anthony,Sarles   Nathalie,1,1
+Cellier   Anthony,Tiegna   Huguette,1,1
+Cellier   Anthony,Dufeu   Audrey,1,1
+Cellier   Anthony,Bolo   Philippe,1,1
+Cellier   Anthony,Arend   Christophe,1,1
+Cellier   Anthony,Pahun   Jimmy,1,1
+Cellier   Anthony,Le Peih   Nicole,1,1
+Cellier   Anthony,Belhaddad   Belkhir,1,1
+Cellier   Anthony,Perrot   Patrice,1,1
+Cellier   Anthony,Vatin   Pierre,0,1
+Cellier   Anthony,Lazaar   Fiona,1,1
+Cellier   Anthony,Lescure   Roland,1,1
+Cellier   Anthony,Petit   Frédéric,0,1
+Cellier   Anthony,Ramadier   Alain,0,1
+Cellier   Anthony,Fontenel-Personne   Pascale,1,1
+Cellier   Anthony,Riotton   Véronique,1,1
+Cellier   Anthony,Kuster   Brigitte,0,1
+Cellier   Anthony,Lebec   Marie,1,1
+Cellier   Anthony,de Vaucouleurs   Michèle,1,1
+Cellier   Anthony,Latombe   Philippe,1,1
+Cellier   Anthony,Adam   Damien,1,1
+Cellier   Anthony,Granjus   Florence,1,1
+Cellier   Anthony,Hennion   Christine,1,1
+Cellier   Anthony,Wulfranc   Hubert,0,1
+Cellier   Anthony,Ruffin   François,1,1
+Cellier   Anthony,Beaudouin-Hubiere   Sophie,1,1
+Cellier   Anthony,Thiébaut   Vincent,1,1
+Cellier   Anthony,Chouat   Francis,1,1
+Colas-Roy   Jean-Charles,Chalumeau   Philippe,1,1
+Colas-Roy   Jean-Charles,Labaronne   Daniel,1,1
+Colas-Roy   Jean-Charles,Causse   Lionel,1,1
+Colas-Roy   Jean-Charles,Mis   Jean-Michel,1,1
+Colas-Roy   Jean-Charles,Sarles   Nathalie,1,1
+Colas-Roy   Jean-Charles,Tiegna   Huguette,1,1
+Colas-Roy   Jean-Charles,Dufeu   Audrey,1,1
+Colas-Roy   Jean-Charles,Bolo   Philippe,1,1
+Colas-Roy   Jean-Charles,Arend   Christophe,1,1
+Colas-Roy   Jean-Charles,Pahun   Jimmy,1,1
+Colas-Roy   Jean-Charles,Le Peih   Nicole,1,1
+Colas-Roy   Jean-Charles,Belhaddad   Belkhir,1,1
+Colas-Roy   Jean-Charles,Perrot   Patrice,1,1
+Colas-Roy   Jean-Charles,Vatin   Pierre,0,1
+Colas-Roy   Jean-Charles,Lazaar   Fiona,1,1
+Colas-Roy   Jean-Charles,Lescure   Roland,1,1
+Colas-Roy   Jean-Charles,Petit   Frédéric,0,1
+Colas-Roy   Jean-Charles,Ramadier   Alain,0,1
+Colas-Roy   Jean-Charles,Fontenel-Personne   Pascale,1,1
+Colas-Roy   Jean-Charles,Riotton   Véronique,1,1
+Colas-Roy   Jean-Charles,Kuster   Brigitte,0,1
+Colas-Roy   Jean-Charles,Lebec   Marie,1,1
+Colas-Roy   Jean-Charles,de Vaucouleurs   Michèle,1,1
+Colas-Roy   Jean-Charles,Latombe   Philippe,1,1
+Colas-Roy   Jean-Charles,Adam   Damien,1,1
+Colas-Roy   Jean-Charles,Granjus   Florence,1,1
+Colas-Roy   Jean-Charles,Hennion   Christine,1,1
+Colas-Roy   Jean-Charles,Wulfranc   Hubert,0,1
+Colas-Roy   Jean-Charles,Ruffin   François,1,1
+Colas-Roy   Jean-Charles,Beaudouin-Hubiere   Sophie,1,1
+Colas-Roy   Jean-Charles,Thiébaut   Vincent,1,1
+Colas-Roy   Jean-Charles,Chouat   Francis,1,1
+Chalumeau   Philippe,Labaronne   Daniel,1,1
+Chalumeau   Philippe,Causse   Lionel,1,1
+Chalumeau   Philippe,Mis   Jean-Michel,1,1
+Chalumeau   Philippe,Sarles   Nathalie,1,1
+Chalumeau   Philippe,Tiegna   Huguette,1,1
+Chalumeau   Philippe,Dufeu   Audrey,1,1
+Chalumeau   Philippe,Bolo   Philippe,1,1
+Chalumeau   Philippe,Arend   Christophe,1,1
+Chalumeau   Philippe,Pahun   Jimmy,1,1
+Chalumeau   Philippe,Le Peih   Nicole,1,1
+Chalumeau   Philippe,Belhaddad   Belkhir,1,1
+Chalumeau   Philippe,Perrot   Patrice,1,1
+Chalumeau   Philippe,Vatin   Pierre,0,1
+Chalumeau   Philippe,Lazaar   Fiona,1,1
+Chalumeau   Philippe,Lescure   Roland,1,1
+Chalumeau   Philippe,Petit   Frédéric,0,1
+Chalumeau   Philippe,Ramadier   Alain,0,1
+Chalumeau   Philippe,Fontenel-Personne   Pascale,1,1
+Chalumeau   Philippe,Riotton   Véronique,1,1
+Chalumeau   Philippe,Kuster   Brigitte,0,1
+Chalumeau   Philippe,Lebec   Marie,1,1
+Chalumeau   Philippe,de Vaucouleurs   Michèle,1,1
+Chalumeau   Philippe,Latombe   Philippe,1,1
+Chalumeau   Philippe,Adam   Damien,1,1
+Chalumeau   Philippe,Granjus   Florence,1,1
+Chalumeau   Philippe,Hennion   Christine,1,1
+Chalumeau   Philippe,Wulfranc   Hubert,0,1
+Chalumeau   Philippe,Ruffin   François,1,1
+Chalumeau   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Chalumeau   Philippe,Thiébaut   Vincent,1,1
+Chalumeau   Philippe,Chouat   Francis,1,1
+Labaronne   Daniel,Causse   Lionel,1,1
+Labaronne   Daniel,Mis   Jean-Michel,1,1
+Labaronne   Daniel,Sarles   Nathalie,1,1
+Labaronne   Daniel,Tiegna   Huguette,1,1
+Labaronne   Daniel,Dufeu   Audrey,1,1
+Labaronne   Daniel,Bolo   Philippe,1,1
+Labaronne   Daniel,Arend   Christophe,1,1
+Labaronne   Daniel,Pahun   Jimmy,1,1
+Labaronne   Daniel,Le Peih   Nicole,1,1
+Labaronne   Daniel,Belhaddad   Belkhir,1,1
+Labaronne   Daniel,Perrot   Patrice,1,1
+Labaronne   Daniel,Vatin   Pierre,0,1
+Labaronne   Daniel,Lazaar   Fiona,1,1
+Labaronne   Daniel,Lescure   Roland,1,1
+Labaronne   Daniel,Petit   Frédéric,0,1
+Labaronne   Daniel,Ramadier   Alain,0,1
+Labaronne   Daniel,Fontenel-Personne   Pascale,1,1
+Labaronne   Daniel,Riotton   Véronique,1,1
+Labaronne   Daniel,Kuster   Brigitte,0,1
+Labaronne   Daniel,Lebec   Marie,1,1
+Labaronne   Daniel,de Vaucouleurs   Michèle,1,1
+Labaronne   Daniel,Latombe   Philippe,1,1
+Labaronne   Daniel,Adam   Damien,1,1
+Labaronne   Daniel,Granjus   Florence,1,1
+Labaronne   Daniel,Hennion   Christine,1,1
+Labaronne   Daniel,Wulfranc   Hubert,0,1
+Labaronne   Daniel,Ruffin   François,1,1
+Labaronne   Daniel,Beaudouin-Hubiere   Sophie,1,1
+Labaronne   Daniel,Thiébaut   Vincent,1,1
+Labaronne   Daniel,Chouat   Francis,1,1
+Causse   Lionel,Mis   Jean-Michel,1,1
+Causse   Lionel,Sarles   Nathalie,1,1
+Causse   Lionel,Tiegna   Huguette,1,1
+Causse   Lionel,Dufeu   Audrey,1,1
+Causse   Lionel,Bolo   Philippe,1,1
+Causse   Lionel,Arend   Christophe,1,1
+Causse   Lionel,Pahun   Jimmy,1,1
+Causse   Lionel,Le Peih   Nicole,1,1
+Causse   Lionel,Belhaddad   Belkhir,1,1
+Causse   Lionel,Perrot   Patrice,1,1
+Causse   Lionel,Vatin   Pierre,0,1
+Causse   Lionel,Lazaar   Fiona,1,1
+Causse   Lionel,Lescure   Roland,1,1
+Causse   Lionel,Petit   Frédéric,0,1
+Causse   Lionel,Ramadier   Alain,0,1
+Causse   Lionel,Fontenel-Personne   Pascale,1,1
+Causse   Lionel,Riotton   Véronique,1,1
+Causse   Lionel,Kuster   Brigitte,0,1
+Causse   Lionel,Lebec   Marie,1,1
+Causse   Lionel,de Vaucouleurs   Michèle,1,1
+Causse   Lionel,Latombe   Philippe,1,1
+Causse   Lionel,Adam   Damien,1,1
+Causse   Lionel,Granjus   Florence,1,1
+Causse   Lionel,Hennion   Christine,1,1
+Causse   Lionel,Wulfranc   Hubert,0,1
+Causse   Lionel,Ruffin   François,1,1
+Causse   Lionel,Beaudouin-Hubiere   Sophie,1,1
+Causse   Lionel,Thiébaut   Vincent,1,1
+Causse   Lionel,Chouat   Francis,1,1
+Mis   Jean-Michel,Sarles   Nathalie,1,1
+Mis   Jean-Michel,Tiegna   Huguette,1,1
+Mis   Jean-Michel,Dufeu   Audrey,1,1
+Mis   Jean-Michel,Bolo   Philippe,1,1
+Mis   Jean-Michel,Arend   Christophe,1,1
+Mis   Jean-Michel,Pahun   Jimmy,1,1
+Mis   Jean-Michel,Le Peih   Nicole,1,1
+Mis   Jean-Michel,Belhaddad   Belkhir,1,1
+Mis   Jean-Michel,Perrot   Patrice,1,1
+Mis   Jean-Michel,Vatin   Pierre,0,1
+Mis   Jean-Michel,Lazaar   Fiona,1,1
+Mis   Jean-Michel,Lescure   Roland,1,1
+Mis   Jean-Michel,Petit   Frédéric,0,1
+Mis   Jean-Michel,Ramadier   Alain,0,1
+Mis   Jean-Michel,Fontenel-Personne   Pascale,1,1
+Mis   Jean-Michel,Riotton   Véronique,1,1
+Mis   Jean-Michel,Kuster   Brigitte,0,1
+Mis   Jean-Michel,Lebec   Marie,1,1
+Mis   Jean-Michel,de Vaucouleurs   Michèle,1,1
+Mis   Jean-Michel,Latombe   Philippe,1,1
+Mis   Jean-Michel,Adam   Damien,1,1
+Mis   Jean-Michel,Granjus   Florence,1,1
+Mis   Jean-Michel,Hennion   Christine,1,1
+Mis   Jean-Michel,Wulfranc   Hubert,0,1
+Mis   Jean-Michel,Ruffin   François,1,1
+Mis   Jean-Michel,Beaudouin-Hubiere   Sophie,1,1
+Mis   Jean-Michel,Thiébaut   Vincent,1,1
+Mis   Jean-Michel,Chouat   Francis,1,1
+Sarles   Nathalie,Tiegna   Huguette,1,1
+Sarles   Nathalie,Dufeu   Audrey,1,1
+Sarles   Nathalie,Bolo   Philippe,1,1
+Sarles   Nathalie,Arend   Christophe,1,1
+Sarles   Nathalie,Pahun   Jimmy,1,1
+Sarles   Nathalie,Le Peih   Nicole,1,1
+Sarles   Nathalie,Belhaddad   Belkhir,1,1
+Sarles   Nathalie,Perrot   Patrice,1,1
+Sarles   Nathalie,Vatin   Pierre,0,1
+Sarles   Nathalie,Lazaar   Fiona,1,1
+Sarles   Nathalie,Lescure   Roland,1,1
+Sarles   Nathalie,Petit   Frédéric,0,1
+Sarles   Nathalie,Ramadier   Alain,0,1
+Sarles   Nathalie,Fontenel-Personne   Pascale,1,1
+Sarles   Nathalie,Riotton   Véronique,1,1
+Sarles   Nathalie,Kuster   Brigitte,0,1
+Sarles   Nathalie,Lebec   Marie,1,1
+Sarles   Nathalie,de Vaucouleurs   Michèle,1,1
+Sarles   Nathalie,Latombe   Philippe,1,1
+Sarles   Nathalie,Adam   Damien,1,1
+Sarles   Nathalie,Granjus   Florence,1,1
+Sarles   Nathalie,Hennion   Christine,1,1
+Sarles   Nathalie,Wulfranc   Hubert,0,1
+Sarles   Nathalie,Ruffin   François,1,1
+Sarles   Nathalie,Beaudouin-Hubiere   Sophie,1,1
+Sarles   Nathalie,Thiébaut   Vincent,1,1
+Sarles   Nathalie,Chouat   Francis,1,1
+Tiegna   Huguette,Dufeu   Audrey,1,1
+Tiegna   Huguette,Bolo   Philippe,1,1
+Tiegna   Huguette,Arend   Christophe,1,1
+Tiegna   Huguette,Pahun   Jimmy,1,1
+Tiegna   Huguette,Le Peih   Nicole,1,1
+Tiegna   Huguette,Belhaddad   Belkhir,1,1
+Tiegna   Huguette,Perrot   Patrice,1,1
+Tiegna   Huguette,Vatin   Pierre,0,1
+Tiegna   Huguette,Lazaar   Fiona,1,1
+Tiegna   Huguette,Lescure   Roland,1,1
+Tiegna   Huguette,Petit   Frédéric,0,1
+Tiegna   Huguette,Ramadier   Alain,0,1
+Tiegna   Huguette,Fontenel-Personne   Pascale,1,1
+Tiegna   Huguette,Riotton   Véronique,1,1
+Tiegna   Huguette,Kuster   Brigitte,0,1
+Tiegna   Huguette,Lebec   Marie,1,1
+Tiegna   Huguette,de Vaucouleurs   Michèle,1,1
+Tiegna   Huguette,Latombe   Philippe,1,1
+Tiegna   Huguette,Adam   Damien,1,1
+Tiegna   Huguette,Granjus   Florence,1,1
+Tiegna   Huguette,Hennion   Christine,1,1
+Tiegna   Huguette,Wulfranc   Hubert,0,1
+Tiegna   Huguette,Ruffin   François,1,1
+Tiegna   Huguette,Beaudouin-Hubiere   Sophie,1,1
+Tiegna   Huguette,Thiébaut   Vincent,1,1
+Tiegna   Huguette,Chouat   Francis,1,1
+Dufeu   Audrey,Bolo   Philippe,1,1
+Dufeu   Audrey,Arend   Christophe,1,1
+Dufeu   Audrey,Pahun   Jimmy,1,1
+Dufeu   Audrey,Le Peih   Nicole,1,1
+Dufeu   Audrey,Belhaddad   Belkhir,1,1
+Dufeu   Audrey,Perrot   Patrice,1,1
+Dufeu   Audrey,Vatin   Pierre,0,1
+Dufeu   Audrey,Lazaar   Fiona,1,1
+Dufeu   Audrey,Lescure   Roland,1,1
+Dufeu   Audrey,Petit   Frédéric,0,1
+Dufeu   Audrey,Ramadier   Alain,0,1
+Dufeu   Audrey,Fontenel-Personne   Pascale,1,1
+Dufeu   Audrey,Riotton   Véronique,1,1
+Dufeu   Audrey,Kuster   Brigitte,0,1
+Dufeu   Audrey,Lebec   Marie,1,1
+Dufeu   Audrey,de Vaucouleurs   Michèle,1,1
+Dufeu   Audrey,Latombe   Philippe,1,1
+Dufeu   Audrey,Adam   Damien,1,1
+Dufeu   Audrey,Granjus   Florence,1,1
+Dufeu   Audrey,Hennion   Christine,1,1
+Dufeu   Audrey,Wulfranc   Hubert,0,1
+Dufeu   Audrey,Ruffin   François,1,1
+Dufeu   Audrey,Beaudouin-Hubiere   Sophie,1,1
+Dufeu   Audrey,Thiébaut   Vincent,1,1
+Dufeu   Audrey,Chouat   Francis,1,1
+Bolo   Philippe,Arend   Christophe,1,1
+Bolo   Philippe,Pahun   Jimmy,1,1
+Bolo   Philippe,Le Peih   Nicole,1,1
+Bolo   Philippe,Belhaddad   Belkhir,1,1
+Bolo   Philippe,Perrot   Patrice,1,1
+Bolo   Philippe,Vatin   Pierre,0,1
+Bolo   Philippe,Lazaar   Fiona,1,1
+Bolo   Philippe,Lescure   Roland,1,1
+Bolo   Philippe,Petit   Frédéric,0,1
+Bolo   Philippe,Ramadier   Alain,0,1
+Bolo   Philippe,Fontenel-Personne   Pascale,1,1
+Bolo   Philippe,Riotton   Véronique,1,1
+Bolo   Philippe,Kuster   Brigitte,0,1
+Bolo   Philippe,Lebec   Marie,1,1
+Bolo   Philippe,de Vaucouleurs   Michèle,1,1
+Bolo   Philippe,Latombe   Philippe,1,1
+Bolo   Philippe,Adam   Damien,1,1
+Bolo   Philippe,Granjus   Florence,1,1
+Bolo   Philippe,Hennion   Christine,1,1
+Bolo   Philippe,Wulfranc   Hubert,0,1
+Bolo   Philippe,Ruffin   François,1,1
+Bolo   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Bolo   Philippe,Thiébaut   Vincent,1,1
+Bolo   Philippe,Chouat   Francis,1,1
+Arend   Christophe,Pahun   Jimmy,1,1
+Arend   Christophe,Le Peih   Nicole,1,1
+Arend   Christophe,Belhaddad   Belkhir,1,1
+Arend   Christophe,Perrot   Patrice,1,1
+Arend   Christophe,Vatin   Pierre,0,1
+Arend   Christophe,Lazaar   Fiona,1,1
+Arend   Christophe,Lescure   Roland,1,1
+Arend   Christophe,Petit   Frédéric,0,1
+Arend   Christophe,Ramadier   Alain,0,1
+Arend   Christophe,Fontenel-Personne   Pascale,1,1
+Arend   Christophe,Riotton   Véronique,1,1
+Arend   Christophe,Kuster   Brigitte,0,1
+Arend   Christophe,Lebec   Marie,1,1
+Arend   Christophe,de Vaucouleurs   Michèle,1,1
+Arend   Christophe,Latombe   Philippe,1,1
+Arend   Christophe,Adam   Damien,1,1
+Arend   Christophe,Granjus   Florence,1,1
+Arend   Christophe,Hennion   Christine,1,1
+Arend   Christophe,Wulfranc   Hubert,0,1
+Arend   Christophe,Ruffin   François,1,1
+Arend   Christophe,Beaudouin-Hubiere   Sophie,1,1
+Arend   Christophe,Thiébaut   Vincent,1,1
+Arend   Christophe,Chouat   Francis,1,1
+Pahun   Jimmy,Le Peih   Nicole,1,1
+Pahun   Jimmy,Belhaddad   Belkhir,1,1
+Pahun   Jimmy,Perrot   Patrice,1,1
+Pahun   Jimmy,Vatin   Pierre,0,1
+Pahun   Jimmy,Lazaar   Fiona,1,1
+Pahun   Jimmy,Lescure   Roland,1,1
+Pahun   Jimmy,Petit   Frédéric,0,1
+Pahun   Jimmy,Ramadier   Alain,0,1
+Pahun   Jimmy,Fontenel-Personne   Pascale,1,1
+Pahun   Jimmy,Riotton   Véronique,1,1
+Pahun   Jimmy,Kuster   Brigitte,0,1
+Pahun   Jimmy,Lebec   Marie,1,1
+Pahun   Jimmy,de Vaucouleurs   Michèle,1,1
+Pahun   Jimmy,Latombe   Philippe,1,1
+Pahun   Jimmy,Adam   Damien,1,1
+Pahun   Jimmy,Granjus   Florence,1,1
+Pahun   Jimmy,Hennion   Christine,1,1
+Pahun   Jimmy,Wulfranc   Hubert,0,1
+Pahun   Jimmy,Ruffin   François,1,1
+Pahun   Jimmy,Beaudouin-Hubiere   Sophie,1,1
+Pahun   Jimmy,Thiébaut   Vincent,1,1
+Pahun   Jimmy,Chouat   Francis,1,1
+Le Peih   Nicole,Belhaddad   Belkhir,1,1
+Le Peih   Nicole,Perrot   Patrice,1,1
+Le Peih   Nicole,Vatin   Pierre,0,1
+Le Peih   Nicole,Lazaar   Fiona,1,1
+Le Peih   Nicole,Lescure   Roland,1,1
+Le Peih   Nicole,Petit   Frédéric,0,1
+Le Peih   Nicole,Ramadier   Alain,0,1
+Le Peih   Nicole,Fontenel-Personne   Pascale,1,1
+Le Peih   Nicole,Riotton   Véronique,1,1
+Le Peih   Nicole,Kuster   Brigitte,0,1
+Le Peih   Nicole,Lebec   Marie,1,1
+Le Peih   Nicole,de Vaucouleurs   Michèle,1,1
+Le Peih   Nicole,Latombe   Philippe,1,1
+Le Peih   Nicole,Adam   Damien,1,1
+Le Peih   Nicole,Granjus   Florence,1,1
+Le Peih   Nicole,Hennion   Christine,1,1
+Le Peih   Nicole,Wulfranc   Hubert,0,1
+Le Peih   Nicole,Ruffin   François,1,1
+Le Peih   Nicole,Beaudouin-Hubiere   Sophie,1,1
+Le Peih   Nicole,Thiébaut   Vincent,1,1
+Le Peih   Nicole,Chouat   Francis,1,1
+Belhaddad   Belkhir,Perrot   Patrice,1,1
+Belhaddad   Belkhir,Vatin   Pierre,0,1
+Belhaddad   Belkhir,Lazaar   Fiona,1,1
+Belhaddad   Belkhir,Lescure   Roland,1,1
+Belhaddad   Belkhir,Petit   Frédéric,0,1
+Belhaddad   Belkhir,Ramadier   Alain,0,1
+Belhaddad   Belkhir,Fontenel-Personne   Pascale,1,1
+Belhaddad   Belkhir,Riotton   Véronique,1,1
+Belhaddad   Belkhir,Kuster   Brigitte,0,1
+Belhaddad   Belkhir,Lebec   Marie,1,1
+Belhaddad   Belkhir,de Vaucouleurs   Michèle,1,1
+Belhaddad   Belkhir,Latombe   Philippe,1,1
+Belhaddad   Belkhir,Adam   Damien,1,1
+Belhaddad   Belkhir,Granjus   Florence,1,1
+Belhaddad   Belkhir,Hennion   Christine,1,1
+Belhaddad   Belkhir,Wulfranc   Hubert,0,1
+Belhaddad   Belkhir,Ruffin   François,1,1
+Belhaddad   Belkhir,Beaudouin-Hubiere   Sophie,1,1
+Belhaddad   Belkhir,Thiébaut   Vincent,1,1
+Belhaddad   Belkhir,Chouat   Francis,1,1
+Perrot   Patrice,Vatin   Pierre,0,1
+Perrot   Patrice,Lazaar   Fiona,1,1
+Perrot   Patrice,Lescure   Roland,1,1
+Perrot   Patrice,Petit   Frédéric,0,1
+Perrot   Patrice,Ramadier   Alain,0,1
+Perrot   Patrice,Fontenel-Personne   Pascale,1,1
+Perrot   Patrice,Riotton   Véronique,1,1
+Perrot   Patrice,Kuster   Brigitte,0,1
+Perrot   Patrice,Lebec   Marie,1,1
+Perrot   Patrice,de Vaucouleurs   Michèle,1,1
+Perrot   Patrice,Latombe   Philippe,1,1
+Perrot   Patrice,Adam   Damien,1,1
+Perrot   Patrice,Granjus   Florence,1,1
+Perrot   Patrice,Hennion   Christine,1,1
+Perrot   Patrice,Wulfranc   Hubert,0,1
+Perrot   Patrice,Ruffin   François,1,1
+Perrot   Patrice,Beaudouin-Hubiere   Sophie,1,1
+Perrot   Patrice,Thiébaut   Vincent,1,1
+Perrot   Patrice,Chouat   Francis,1,1
+Vatin   Pierre,Lazaar   Fiona,0,1
+Vatin   Pierre,Lescure   Roland,0,1
+Vatin   Pierre,Petit   Frédéric,0,1
+Vatin   Pierre,Ramadier   Alain,1,1
+Vatin   Pierre,Fontenel-Personne   Pascale,0,1
+Vatin   Pierre,Riotton   Véronique,0,1
+Vatin   Pierre,Kuster   Brigitte,1,1
+Vatin   Pierre,Lebec   Marie,0,1
+Vatin   Pierre,de Vaucouleurs   Michèle,0,1
+Vatin   Pierre,Latombe   Philippe,0,1
+Vatin   Pierre,Adam   Damien,0,1
+Vatin   Pierre,Granjus   Florence,0,1
+Vatin   Pierre,Hennion   Christine,0,1
+Vatin   Pierre,Wulfranc   Hubert,0,1
+Vatin   Pierre,Ruffin   François,0,1
+Vatin   Pierre,Beaudouin-Hubiere   Sophie,0,1
+Vatin   Pierre,Thiébaut   Vincent,0,1
+Vatin   Pierre,Chouat   Francis,0,1
+Lazaar   Fiona,Lescure   Roland,1,1
+Lazaar   Fiona,Petit   Frédéric,0,1
+Lazaar   Fiona,Ramadier   Alain,0,1
+Lazaar   Fiona,Fontenel-Personne   Pascale,1,1
+Lazaar   Fiona,Riotton   Véronique,1,1
+Lazaar   Fiona,Kuster   Brigitte,0,1
+Lazaar   Fiona,Lebec   Marie,1,1
+Lazaar   Fiona,de Vaucouleurs   Michèle,1,1
+Lazaar   Fiona,Latombe   Philippe,1,1
+Lazaar   Fiona,Adam   Damien,1,1
+Lazaar   Fiona,Granjus   Florence,1,1
+Lazaar   Fiona,Hennion   Christine,1,1
+Lazaar   Fiona,Wulfranc   Hubert,0,1
+Lazaar   Fiona,Ruffin   François,1,1
+Lazaar   Fiona,Beaudouin-Hubiere   Sophie,1,1
+Lazaar   Fiona,Thiébaut   Vincent,1,1
+Lazaar   Fiona,Chouat   Francis,1,1
+Lescure   Roland,Petit   Frédéric,0,1
+Lescure   Roland,Ramadier   Alain,0,1
+Lescure   Roland,Fontenel-Personne   Pascale,1,1
+Lescure   Roland,Riotton   Véronique,1,1
+Lescure   Roland,Kuster   Brigitte,0,1
+Lescure   Roland,Lebec   Marie,1,1
+Lescure   Roland,de Vaucouleurs   Michèle,1,1
+Lescure   Roland,Latombe   Philippe,1,1
+Lescure   Roland,Adam   Damien,1,1
+Lescure   Roland,Granjus   Florence,1,1
+Lescure   Roland,Hennion   Christine,1,1
+Lescure   Roland,Wulfranc   Hubert,0,1
+Lescure   Roland,Ruffin   François,1,1
+Lescure   Roland,Beaudouin-Hubiere   Sophie,1,1
+Lescure   Roland,Thiébaut   Vincent,1,1
+Lescure   Roland,Chouat   Francis,1,1
+Petit   Frédéric,Ramadier   Alain,0,1
+Petit   Frédéric,Fontenel-Personne   Pascale,0,1
+Petit   Frédéric,Riotton   Véronique,0,1
+Petit   Frédéric,Kuster   Brigitte,0,1
+Petit   Frédéric,Lebec   Marie,0,1
+Petit   Frédéric,de Vaucouleurs   Michèle,0,1
+Petit   Frédéric,Latombe   Philippe,0,1
+Petit   Frédéric,Adam   Damien,0,1
+Petit   Frédéric,Granjus   Florence,0,1
+Petit   Frédéric,Hennion   Christine,0,1
+Petit   Frédéric,Wulfranc   Hubert,1,1
+Petit   Frédéric,Ruffin   François,0,1
+Petit   Frédéric,Beaudouin-Hubiere   Sophie,0,1
+Petit   Frédéric,Thiébaut   Vincent,0,1
+Petit   Frédéric,Chouat   Francis,0,1
+Ramadier   Alain,Fontenel-Personne   Pascale,0,1
+Ramadier   Alain,Riotton   Véronique,0,1
+Ramadier   Alain,Kuster   Brigitte,1,1
+Ramadier   Alain,Lebec   Marie,0,1
+Ramadier   Alain,de Vaucouleurs   Michèle,0,1
+Ramadier   Alain,Latombe   Philippe,0,1
+Ramadier   Alain,Adam   Damien,0,1
+Ramadier   Alain,Granjus   Florence,0,1
+Ramadier   Alain,Hennion   Christine,0,1
+Ramadier   Alain,Wulfranc   Hubert,0,1
+Ramadier   Alain,Ruffin   François,0,1
+Ramadier   Alain,Beaudouin-Hubiere   Sophie,0,1
+Ramadier   Alain,Thiébaut   Vincent,0,1
+Ramadier   Alain,Chouat   Francis,0,1
+Fontenel-Personne   Pascale,Riotton   Véronique,1,1
+Fontenel-Personne   Pascale,Kuster   Brigitte,0,1
+Fontenel-Personne   Pascale,Lebec   Marie,1,1
+Fontenel-Personne   Pascale,de Vaucouleurs   Michèle,1,1
+Fontenel-Personne   Pascale,Latombe   Philippe,1,1
+Fontenel-Personne   Pascale,Adam   Damien,1,1
+Fontenel-Personne   Pascale,Granjus   Florence,1,1
+Fontenel-Personne   Pascale,Hennion   Christine,1,1
+Fontenel-Personne   Pascale,Wulfranc   Hubert,0,1
+Fontenel-Personne   Pascale,Ruffin   François,1,1
+Fontenel-Personne   Pascale,Beaudouin-Hubiere   Sophie,1,1
+Fontenel-Personne   Pascale,Thiébaut   Vincent,1,1
+Fontenel-Personne   Pascale,Chouat   Francis,1,1
+Riotton   Véronique,Kuster   Brigitte,0,1
+Riotton   Véronique,Lebec   Marie,1,1
+Riotton   Véronique,de Vaucouleurs   Michèle,1,1
+Riotton   Véronique,Latombe   Philippe,1,1
+Riotton   Véronique,Adam   Damien,1,1
+Riotton   Véronique,Granjus   Florence,1,1
+Riotton   Véronique,Hennion   Christine,1,1
+Riotton   Véronique,Wulfranc   Hubert,0,1
+Riotton   Véronique,Ruffin   François,1,1
+Riotton   Véronique,Beaudouin-Hubiere   Sophie,1,1
+Riotton   Véronique,Thiébaut   Vincent,1,1
+Riotton   Véronique,Chouat   Francis,1,1
+Kuster   Brigitte,Lebec   Marie,0,1
+Kuster   Brigitte,de Vaucouleurs   Michèle,0,1
+Kuster   Brigitte,Latombe   Philippe,0,1
+Kuster   Brigitte,Adam   Damien,0,1
+Kuster   Brigitte,Granjus   Florence,0,1
+Kuster   Brigitte,Hennion   Christine,0,1
+Kuster   Brigitte,Wulfranc   Hubert,0,1
+Kuster   Brigitte,Ruffin   François,0,1
+Kuster   Brigitte,Beaudouin-Hubiere   Sophie,0,1
+Kuster   Brigitte,Thiébaut   Vincent,0,1
+Kuster   Brigitte,Chouat   Francis,0,1
+Lebec   Marie,de Vaucouleurs   Michèle,1,1
+Lebec   Marie,Latombe   Philippe,1,1
+Lebec   Marie,Adam   Damien,1,1
+Lebec   Marie,Granjus   Florence,1,1
+Lebec   Marie,Hennion   Christine,1,1
+Lebec   Marie,Wulfranc   Hubert,0,1
+Lebec   Marie,Ruffin   François,1,1
+Lebec   Marie,Beaudouin-Hubiere   Sophie,1,1
+Lebec   Marie,Thiébaut   Vincent,1,1
+Lebec   Marie,Chouat   Francis,1,1
+de Vaucouleurs   Michèle,Latombe   Philippe,1,1
+de Vaucouleurs   Michèle,Adam   Damien,1,1
+de Vaucouleurs   Michèle,Granjus   Florence,1,1
+de Vaucouleurs   Michèle,Hennion   Christine,1,1
+de Vaucouleurs   Michèle,Wulfranc   Hubert,0,1
+de Vaucouleurs   Michèle,Ruffin   François,1,1
+de Vaucouleurs   Michèle,Beaudouin-Hubiere   Sophie,1,1
+de Vaucouleurs   Michèle,Thiébaut   Vincent,1,1
+de Vaucouleurs   Michèle,Chouat   Francis,1,1
+Latombe   Philippe,Adam   Damien,1,1
+Latombe   Philippe,Granjus   Florence,1,1
+Latombe   Philippe,Hennion   Christine,1,1
+Latombe   Philippe,Wulfranc   Hubert,0,1
+Latombe   Philippe,Ruffin   François,1,1
+Latombe   Philippe,Beaudouin-Hubiere   Sophie,1,1
+Latombe   Philippe,Thiébaut   Vincent,1,1
+Latombe   Philippe,Chouat   Francis,1,1
+Adam   Damien,Granjus   Florence,1,1
+Adam   Damien,Hennion   Christine,1,1
+Adam   Damien,Wulfranc   Hubert,0,1
+Adam   Damien,Ruffin   François,1,1
+Adam   Damien,Beaudouin-Hubiere   Sophie,1,1
+Adam   Damien,Thiébaut   Vincent,1,1
+Adam   Damien,Chouat   Francis,1,1
+Granjus   Florence,Hennion   Christine,1,1
+Granjus   Florence,Wulfranc   Hubert,0,1
+Granjus   Florence,Ruffin   François,1,1
+Granjus   Florence,Beaudouin-Hubiere   Sophie,1,1
+Granjus   Florence,Thiébaut   Vincent,1,1
+Granjus   Florence,Chouat   Francis,1,1
+Hennion   Christine,Wulfranc   Hubert,0,1
+Hennion   Christine,Ruffin   François,1,1
+Hennion   Christine,Beaudouin-Hubiere   Sophie,1,1
+Hennion   Christine,Thiébaut   Vincent,1,1
+Hennion   Christine,Chouat   Francis,1,1
+Wulfranc   Hubert,Ruffin   François,0,1
+Wulfranc   Hubert,Beaudouin-Hubiere   Sophie,0,1
+Wulfranc   Hubert,Thiébaut   Vincent,0,1
+Wulfranc   Hubert,Chouat   Francis,0,1
+Ruffin   François,Beaudouin-Hubiere   Sophie,1,1
+Ruffin   François,Thiébaut   Vincent,1,1
+Ruffin   François,Chouat   Francis,1,1
+Beaudouin-Hubiere   Sophie,Thiébaut   Vincent,1,1
+Beaudouin-Hubiere   Sophie,Chouat   Francis,1,1
+Thiébaut   Vincent,Chouat   Francis,1,1

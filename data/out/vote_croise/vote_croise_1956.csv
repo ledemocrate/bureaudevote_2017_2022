@@ -1,0 +1,211 @@
+from,to,vote_commun,loi_commun
+Lassalle   Jean,Cinieri   Dino,0,1
+Lassalle   Jean,Benoit   Thierry,1,1
+Lassalle   Jean,Bricout   Jean-Louis,1,1
+Lassalle   Jean,Pires Beaune   Christine,1,1
+Lassalle   Jean,Dufrègne   Jean-Paul,1,1
+Lassalle   Jean,Peyrol   Bénédicte,0,1
+Lassalle   Jean,Dharréville   Pierre,1,1
+Lassalle   Jean,Bouyx   Bertrand,0,1
+Lassalle   Jean,Jerretie   Christophe,0,1
+Lassalle   Jean,Dubois   Jacqueline,0,1
+Lassalle   Jean,Charvier   Fannette,0,1
+Lassalle   Jean,David   Dominique,0,1
+Lassalle   Jean,Motin   Cendra,0,1
+Lassalle   Jean,Haury   Yannick,0,1
+Lassalle   Jean,Kuric   Aina,0,1
+Lassalle   Jean,Roussel   Fabien,1,1
+Lassalle   Jean,Rubin   Sabine,1,1
+Lassalle   Jean,Vuilletet   Guillaume,0,1
+Lassalle   Jean,Lenne   Marion,0,1
+Lassalle   Jean,Verdier-Jouclas   Marie-Christine,0,1
+Cinieri   Dino,Benoit   Thierry,0,1
+Cinieri   Dino,Bricout   Jean-Louis,0,1
+Cinieri   Dino,Pires Beaune   Christine,0,1
+Cinieri   Dino,Dufrègne   Jean-Paul,0,1
+Cinieri   Dino,Peyrol   Bénédicte,1,1
+Cinieri   Dino,Dharréville   Pierre,0,1
+Cinieri   Dino,Bouyx   Bertrand,1,1
+Cinieri   Dino,Jerretie   Christophe,1,1
+Cinieri   Dino,Dubois   Jacqueline,1,1
+Cinieri   Dino,Charvier   Fannette,1,1
+Cinieri   Dino,David   Dominique,1,1
+Cinieri   Dino,Motin   Cendra,1,1
+Cinieri   Dino,Haury   Yannick,1,1
+Cinieri   Dino,Kuric   Aina,1,1
+Cinieri   Dino,Roussel   Fabien,0,1
+Cinieri   Dino,Rubin   Sabine,0,1
+Cinieri   Dino,Vuilletet   Guillaume,1,1
+Cinieri   Dino,Lenne   Marion,1,1
+Cinieri   Dino,Verdier-Jouclas   Marie-Christine,1,1
+Benoit   Thierry,Bricout   Jean-Louis,1,1
+Benoit   Thierry,Pires Beaune   Christine,1,1
+Benoit   Thierry,Dufrègne   Jean-Paul,1,1
+Benoit   Thierry,Peyrol   Bénédicte,0,1
+Benoit   Thierry,Dharréville   Pierre,1,1
+Benoit   Thierry,Bouyx   Bertrand,0,1
+Benoit   Thierry,Jerretie   Christophe,0,1
+Benoit   Thierry,Dubois   Jacqueline,0,1
+Benoit   Thierry,Charvier   Fannette,0,1
+Benoit   Thierry,David   Dominique,0,1
+Benoit   Thierry,Motin   Cendra,0,1
+Benoit   Thierry,Haury   Yannick,0,1
+Benoit   Thierry,Kuric   Aina,0,1
+Benoit   Thierry,Roussel   Fabien,1,1
+Benoit   Thierry,Rubin   Sabine,1,1
+Benoit   Thierry,Vuilletet   Guillaume,0,1
+Benoit   Thierry,Lenne   Marion,0,1
+Benoit   Thierry,Verdier-Jouclas   Marie-Christine,0,1
+Bricout   Jean-Louis,Pires Beaune   Christine,1,1
+Bricout   Jean-Louis,Dufrègne   Jean-Paul,1,1
+Bricout   Jean-Louis,Peyrol   Bénédicte,0,1
+Bricout   Jean-Louis,Dharréville   Pierre,1,1
+Bricout   Jean-Louis,Bouyx   Bertrand,0,1
+Bricout   Jean-Louis,Jerretie   Christophe,0,1
+Bricout   Jean-Louis,Dubois   Jacqueline,0,1
+Bricout   Jean-Louis,Charvier   Fannette,0,1
+Bricout   Jean-Louis,David   Dominique,0,1
+Bricout   Jean-Louis,Motin   Cendra,0,1
+Bricout   Jean-Louis,Haury   Yannick,0,1
+Bricout   Jean-Louis,Kuric   Aina,0,1
+Bricout   Jean-Louis,Roussel   Fabien,1,1
+Bricout   Jean-Louis,Rubin   Sabine,1,1
+Bricout   Jean-Louis,Vuilletet   Guillaume,0,1
+Bricout   Jean-Louis,Lenne   Marion,0,1
+Bricout   Jean-Louis,Verdier-Jouclas   Marie-Christine,0,1
+Pires Beaune   Christine,Dufrègne   Jean-Paul,1,1
+Pires Beaune   Christine,Peyrol   Bénédicte,0,1
+Pires Beaune   Christine,Dharréville   Pierre,1,1
+Pires Beaune   Christine,Bouyx   Bertrand,0,1
+Pires Beaune   Christine,Jerretie   Christophe,0,1
+Pires Beaune   Christine,Dubois   Jacqueline,0,1
+Pires Beaune   Christine,Charvier   Fannette,0,1
+Pires Beaune   Christine,David   Dominique,0,1
+Pires Beaune   Christine,Motin   Cendra,0,1
+Pires Beaune   Christine,Haury   Yannick,0,1
+Pires Beaune   Christine,Kuric   Aina,0,1
+Pires Beaune   Christine,Roussel   Fabien,1,1
+Pires Beaune   Christine,Rubin   Sabine,1,1
+Pires Beaune   Christine,Vuilletet   Guillaume,0,1
+Pires Beaune   Christine,Lenne   Marion,0,1
+Pires Beaune   Christine,Verdier-Jouclas   Marie-Christine,0,1
+Dufrègne   Jean-Paul,Peyrol   Bénédicte,0,1
+Dufrègne   Jean-Paul,Dharréville   Pierre,1,1
+Dufrègne   Jean-Paul,Bouyx   Bertrand,0,1
+Dufrègne   Jean-Paul,Jerretie   Christophe,0,1
+Dufrègne   Jean-Paul,Dubois   Jacqueline,0,1
+Dufrègne   Jean-Paul,Charvier   Fannette,0,1
+Dufrègne   Jean-Paul,David   Dominique,0,1
+Dufrègne   Jean-Paul,Motin   Cendra,0,1
+Dufrègne   Jean-Paul,Haury   Yannick,0,1
+Dufrègne   Jean-Paul,Kuric   Aina,0,1
+Dufrègne   Jean-Paul,Roussel   Fabien,1,1
+Dufrègne   Jean-Paul,Rubin   Sabine,1,1
+Dufrègne   Jean-Paul,Vuilletet   Guillaume,0,1
+Dufrègne   Jean-Paul,Lenne   Marion,0,1
+Dufrègne   Jean-Paul,Verdier-Jouclas   Marie-Christine,0,1
+Peyrol   Bénédicte,Dharréville   Pierre,0,1
+Peyrol   Bénédicte,Bouyx   Bertrand,1,1
+Peyrol   Bénédicte,Jerretie   Christophe,1,1
+Peyrol   Bénédicte,Dubois   Jacqueline,1,1
+Peyrol   Bénédicte,Charvier   Fannette,1,1
+Peyrol   Bénédicte,David   Dominique,1,1
+Peyrol   Bénédicte,Motin   Cendra,1,1
+Peyrol   Bénédicte,Haury   Yannick,1,1
+Peyrol   Bénédicte,Kuric   Aina,1,1
+Peyrol   Bénédicte,Roussel   Fabien,0,1
+Peyrol   Bénédicte,Rubin   Sabine,0,1
+Peyrol   Bénédicte,Vuilletet   Guillaume,1,1
+Peyrol   Bénédicte,Lenne   Marion,1,1
+Peyrol   Bénédicte,Verdier-Jouclas   Marie-Christine,1,1
+Dharréville   Pierre,Bouyx   Bertrand,0,1
+Dharréville   Pierre,Jerretie   Christophe,0,1
+Dharréville   Pierre,Dubois   Jacqueline,0,1
+Dharréville   Pierre,Charvier   Fannette,0,1
+Dharréville   Pierre,David   Dominique,0,1
+Dharréville   Pierre,Motin   Cendra,0,1
+Dharréville   Pierre,Haury   Yannick,0,1
+Dharréville   Pierre,Kuric   Aina,0,1
+Dharréville   Pierre,Roussel   Fabien,1,1
+Dharréville   Pierre,Rubin   Sabine,1,1
+Dharréville   Pierre,Vuilletet   Guillaume,0,1
+Dharréville   Pierre,Lenne   Marion,0,1
+Dharréville   Pierre,Verdier-Jouclas   Marie-Christine,0,1
+Bouyx   Bertrand,Jerretie   Christophe,1,1
+Bouyx   Bertrand,Dubois   Jacqueline,1,1
+Bouyx   Bertrand,Charvier   Fannette,1,1
+Bouyx   Bertrand,David   Dominique,1,1
+Bouyx   Bertrand,Motin   Cendra,1,1
+Bouyx   Bertrand,Haury   Yannick,1,1
+Bouyx   Bertrand,Kuric   Aina,1,1
+Bouyx   Bertrand,Roussel   Fabien,0,1
+Bouyx   Bertrand,Rubin   Sabine,0,1
+Bouyx   Bertrand,Vuilletet   Guillaume,1,1
+Bouyx   Bertrand,Lenne   Marion,1,1
+Bouyx   Bertrand,Verdier-Jouclas   Marie-Christine,1,1
+Jerretie   Christophe,Dubois   Jacqueline,1,1
+Jerretie   Christophe,Charvier   Fannette,1,1
+Jerretie   Christophe,David   Dominique,1,1
+Jerretie   Christophe,Motin   Cendra,1,1
+Jerretie   Christophe,Haury   Yannick,1,1
+Jerretie   Christophe,Kuric   Aina,1,1
+Jerretie   Christophe,Roussel   Fabien,0,1
+Jerretie   Christophe,Rubin   Sabine,0,1
+Jerretie   Christophe,Vuilletet   Guillaume,1,1
+Jerretie   Christophe,Lenne   Marion,1,1
+Jerretie   Christophe,Verdier-Jouclas   Marie-Christine,1,1
+Dubois   Jacqueline,Charvier   Fannette,1,1
+Dubois   Jacqueline,David   Dominique,1,1
+Dubois   Jacqueline,Motin   Cendra,1,1
+Dubois   Jacqueline,Haury   Yannick,1,1
+Dubois   Jacqueline,Kuric   Aina,1,1
+Dubois   Jacqueline,Roussel   Fabien,0,1
+Dubois   Jacqueline,Rubin   Sabine,0,1
+Dubois   Jacqueline,Vuilletet   Guillaume,1,1
+Dubois   Jacqueline,Lenne   Marion,1,1
+Dubois   Jacqueline,Verdier-Jouclas   Marie-Christine,1,1
+Charvier   Fannette,David   Dominique,1,1
+Charvier   Fannette,Motin   Cendra,1,1
+Charvier   Fannette,Haury   Yannick,1,1
+Charvier   Fannette,Kuric   Aina,1,1
+Charvier   Fannette,Roussel   Fabien,0,1
+Charvier   Fannette,Rubin   Sabine,0,1
+Charvier   Fannette,Vuilletet   Guillaume,1,1
+Charvier   Fannette,Lenne   Marion,1,1
+Charvier   Fannette,Verdier-Jouclas   Marie-Christine,1,1
+David   Dominique,Motin   Cendra,1,1
+David   Dominique,Haury   Yannick,1,1
+David   Dominique,Kuric   Aina,1,1
+David   Dominique,Roussel   Fabien,0,1
+David   Dominique,Rubin   Sabine,0,1
+David   Dominique,Vuilletet   Guillaume,1,1
+David   Dominique,Lenne   Marion,1,1
+David   Dominique,Verdier-Jouclas   Marie-Christine,1,1
+Motin   Cendra,Haury   Yannick,1,1
+Motin   Cendra,Kuric   Aina,1,1
+Motin   Cendra,Roussel   Fabien,0,1
+Motin   Cendra,Rubin   Sabine,0,1
+Motin   Cendra,Vuilletet   Guillaume,1,1
+Motin   Cendra,Lenne   Marion,1,1
+Motin   Cendra,Verdier-Jouclas   Marie-Christine,1,1
+Haury   Yannick,Kuric   Aina,1,1
+Haury   Yannick,Roussel   Fabien,0,1
+Haury   Yannick,Rubin   Sabine,0,1
+Haury   Yannick,Vuilletet   Guillaume,1,1
+Haury   Yannick,Lenne   Marion,1,1
+Haury   Yannick,Verdier-Jouclas   Marie-Christine,1,1
+Kuric   Aina,Roussel   Fabien,0,1
+Kuric   Aina,Rubin   Sabine,0,1
+Kuric   Aina,Vuilletet   Guillaume,1,1
+Kuric   Aina,Lenne   Marion,1,1
+Kuric   Aina,Verdier-Jouclas   Marie-Christine,1,1
+Roussel   Fabien,Rubin   Sabine,1,1
+Roussel   Fabien,Vuilletet   Guillaume,0,1
+Roussel   Fabien,Lenne   Marion,0,1
+Roussel   Fabien,Verdier-Jouclas   Marie-Christine,0,1
+Rubin   Sabine,Vuilletet   Guillaume,0,1
+Rubin   Sabine,Lenne   Marion,0,1
+Rubin   Sabine,Verdier-Jouclas   Marie-Christine,0,1
+Vuilletet   Guillaume,Lenne   Marion,1,1
+Vuilletet   Guillaume,Verdier-Jouclas   Marie-Christine,1,1
+Lenne   Marion,Verdier-Jouclas   Marie-Christine,1,1
