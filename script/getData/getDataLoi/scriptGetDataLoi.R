@@ -8,12 +8,13 @@ library(rvest) #Pour le web scrapping
 library(stringr) #Pour la manipulation textuelle
 library(tidyverse) #Couteau suisse
 library(purrr) #Pour certaine fonction
+library(data.table)
 
 # Récupération du lien amendement/loi sur le site :
 # https://www2.assemblee-nationale.fr/scrutins/liste/(offset)/{sequence_offset}/(legislature)/15/(type)/SOR/(idDossier)/TOUS
 
 # Vérifié manuellement que la sequence_offset prend bien en compte l'ensemble des pages
-sequence_offset <- c(1,c(1:37)*100)
+sequence_offset <- c(1,c(1:42)*100)
 
 #Fonction permettant de récupérer les données d'une page
 function_get_url_dosier_scrutin <- function(url){
@@ -121,15 +122,15 @@ if(!is_empty(url_dossier_associe3)){
 }
 
 
-variable1 <- rep(1,56)
-variable2 <- rep(2,56)
-variable3 <- rep(3,56)
-variable4 <- rep(4,56)
-variable5 <- rep(5,56)
-variable6 <- rep(6,56)
+variable1 <- rep(1,100)
+variable2 <- rep(2,100)
+variable3 <- rep(3,100)
+variable4 <- rep(4,100)
+variable5 <- rep(5,100)
+variable6 <- rep(6,100)
 
 
-for(i in 2:35){
+for(i in 2:100){
   variable1[i] <- variable1[i-1]+6
   variable2[i] <- variable2[i-1]+6
   variable3[i] <- variable3[i-1]+6
@@ -155,12 +156,15 @@ dossier_scrutin <- unique(rbind(dossier_scrutin,scrutin_dossier_data))
 #Fonction permettant de récupérer l'adresse du texte initale de loi à partir de l'adresse du dossier associé
 fonction_url_texte_loi <- function(url){
   print(url)
-  resume_loi_url <- read_html(url) %>% html_nodes("a")%>% 
+  resume_loi_url <- read_html(url) %>% 
+    html_nodes("a")%>% 
     html_attr('href') %>%
     as_tibble() %>%
-    mutate_at("value", str_match, pattern="https://www.assemblee-nationale.fr/15/propositions/.*$|https://www.assemblee-nationale.fr/15/projets/.*$") %>%
+    mutate_at("value", str_match, pattern="/dyn/15/textes/.*_proposition-loi$|/dyn/15/textes/.*_proposition-resolution$|/dyn/15/textes/.*_projet-loi$") %>%
     na.omit() %>%
-    unique() 
+    filter(value == max(value)) %>%
+    mutate(value = paste0("https://www.assemblee-nationale.fr",value)) %>%
+    unique()
   
   resume_loi_url <- resume_loi_url[1,1]
   resume_loi_url <- data.frame(url,resume_loi_url)
@@ -229,18 +233,28 @@ data_loi <- merge(data_loi,url_texte_loi_JO,by="url_dossier_associe",all.x = TRU
                                                  ,"etape=15-AN1-DEPOT")
                                                  ,"https:www.assemblee-nationale.fr/dyn/14/dossiers/")
                                                  ,"[[:punct:]]", " ")) %>%
+  mutate(nom_pdf = paste0(str_remove(texte_loi,"https://www.assemblee-nationale.fr/dyn/15/textes/"),".pdf")) %>%
   rename(uid_loi  = scrutin_numero)
 
+fonction_telechargement_pdf <- function(url){
+    print(url)
+    download.file(paste0(url,".pdf"),  paste0(getwd(), "/", str_remove(url,"https://www.assemblee-nationale.fr/dyn/15/textes/")))
+  }
+fonction_telechargement_pdf <- possibly(fonction_telechargement_pdf, otherwise = FALSE)
 
+setwd("C:/User/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_pdf_loi")
+lapply(unique(data_loi$texte_loi),fonction_telechargement_pdf)
+  
 nom_loi <- as.data.frame(unique(data_loi$nom_loi))
 names(nom_loi)[1] <- "nom_loi"
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/data_loi/")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_loi/")
 write_csv(nom_loi,"nom_loi.csv")
 write_csv(data_loi,"data_loi.csv")
 
-###### Sous réserve d'avoir vote_final
+###### Sous réserve d'avoir vote_final, si non il faut aller le chercher
 rm(list = c("depute_plus","test","url_texte_loi","url_texte_loi_JO","vote","vote_final_v1"))
 
 data_democratie <- merge(vote_final ,data_loi,by="uid_loi",all.x = TRUE)
-save.image("/home/gollentw/Documents/ScriptR/projetDemocratie/projetDemocratie.RData")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_democratie/")
+fwrite(data_democratie,"data_democratie.csv")

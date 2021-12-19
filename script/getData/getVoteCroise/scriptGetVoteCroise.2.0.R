@@ -6,7 +6,7 @@ library(tidyverse)
 library(data.table)
 library(igraph)
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/final")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_final/")
 list.files()
 
 vote_final <- read.csv("vote_final.csv" )[,-1]
@@ -48,7 +48,6 @@ fonction_vote_croise <- function(loi_uid){
   
 }
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/vote_croise")
-
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_vote_croise/")
 lapply(loi_seq,fonction_vote_croise)
 

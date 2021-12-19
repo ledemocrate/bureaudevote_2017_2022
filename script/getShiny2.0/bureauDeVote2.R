@@ -21,13 +21,13 @@ drive_auth(path = ".secrets")
 gm_auth_configure(path = "sendMail.json")
 gs4_auth(path = ".secrets")
 
-responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1HFwLfwCCC5Bv7jt5JChnR2wiOO2-cd7PMUMkLXpGbh8/edit?usp=sharing")%>%
+responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing")%>%
   mutate(Naissance = as.Date(as.integer(Naissance),origin="1970-01-01"))
 
-departement <- read.csv("departements-france.csv") %>%
+departement <- read.csv("data/data_departement/departements-france.csv") %>%
   select(nom_departement)
 
-fichier <- str_remove(list.files(paste0(getwd(),"/data_resume_vie_publique")),".rmd")
+fichier <- str_remove(list.files(paste0("data/data_resume_vie_publique")),".rmd")
 
 fieldsEmargement <- c("Mail","Nom","Prenom","Departement","Naissance")
 fieldsMandatoryEmargement <- c("Mail","Nom","Prenom","Departement")
@@ -59,27 +59,27 @@ majorite <- function() {
 
 saveDataEmargement <- function(data) {
   data <- data %>% as.list() %>% data.frame()
-  sheet_append("https://docs.google.com/spreadsheets/d/1HFwLfwCCC5Bv7jt5JChnR2wiOO2-cd7PMUMkLXpGbh8/edit?usp=sharing", data)
+  sheet_append("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing", data)
   
   
 }
 
 loadDataEmargement <- function() {
   
-  responses_bis <-read_sheet("https://docs.google.com/spreadsheets/d/1HFwLfwCCC5Bv7jt5JChnR2wiOO2-cd7PMUMkLXpGbh8/edit?usp=sharing")%>%
+  responses_bis <-read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing")%>%
     mutate(Naissance = as.Date(as.integer(Naissance),origin="1970-01-01"))
-
+  
 }
 
 saveDataVote <- function(data) {
   data <- data %>% as.list() %>% data.frame()
-  sheet_append("https://docs.google.com/spreadsheets/d/19j0z8Q8s-erOy5eH4zjzPNPvCmd5UkQr5i8f738dfy0/edit?usp=sharing", data)
+  sheet_append("https://docs.google.com/spreadsheets/d/1CZ_-vixtmkbdnq_TuMPQSyaQ-vzxugYqxWXJnVtl2Hs/edit?usp=sharing", data)
 } 
 
 loadDataVote <- function() {
   
-  responses <-read_sheet("https://docs.google.com/spreadsheets/d/19j0z8Q8s-erOy5eH4zjzPNPvCmd5UkQr5i8f738dfy0/edit?usp=sharing")
-
+  responses <-read_sheet("https://docs.google.com/spreadsheets/d/1CZ_-vixtmkbdnq_TuMPQSyaQ-vzxugYqxWXJnVtl2Hs/edit?usp=sharing")
+  
 }
 
 
@@ -146,7 +146,7 @@ ui <- fluidPage(
 
 server <- function(input, output,session) {
   
- 
+  
   observe({
     # check if all mandatory fields have a value
     mandatoryFilled <-
@@ -161,12 +161,12 @@ server <- function(input, output,session) {
       mandatoryFilled[1] <- FALSE
     }
     mandatoryFilled <- all(mandatoryFilled)
-  
+    
     # enable/disable the submit button
     shinyjs::toggleState(id = "submit", condition = mandatoryFilled)
   })
   
-  responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1HFwLfwCCC5Bv7jt5JChnR2wiOO2-cd7PMUMkLXpGbh8/edit?usp=sharing")%>%
+  responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing")%>%
     mutate(Naissance = as.Date(as.integer(Naissance),origin="1970-01-01"))
   
   observe({
@@ -200,12 +200,12 @@ server <- function(input, output,session) {
   iv$add_rule("Naissance", majorite())
   iv$add_rule("Naissance", sv_required())
   iv$add_rule("Departement", sv_required())
-
+  
   iv$enable()
   
   ######### Emargement partie
   output$presentation <- renderUI({
-    HTML(markdown::markdownToHTML(knit("presentation.rmd",quiet = TRUE)))})
+    HTML(markdown::markdownToHTML(knit("data/fichier_presentation/presentation.rmd",quiet = TRUE)))})
   
   formData_Emargement <- reactive({
     data <- c(sapply(fieldsEmargement, function(x) input[[x]]),
@@ -242,7 +242,7 @@ server <- function(input, output,session) {
   observeEvent(input$button, {
     toggle('text_div')
     output$markdown <- renderUI({
-      HTML(markdown::markdownToHTML(knit(paste0(getwd(),"/data_resume_vie_publique/",input$file1,".rmd"), quiet = TRUE)))
+      HTML(markdown::markdownToHTML(knit(paste0("data/data_resume_vie_publique/",input$file1,".rmd"), quiet = TRUE)))
     })})
   
   formData <- reactive({

@@ -18,7 +18,7 @@ getwd()
 
 #CHARGEMENT DES DONNEES VOTE
 # Endroit ou vous mettez les fichiers json en telechargeant sous le lien 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/data_vote/")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_vote")
 #Endroit ou telecharger les données
 url <- "http://data.assemblee-nationale.fr/static/openData/repository/15/loi/scrutins/Scrutins_XV.json.zip"
 download.file(url, destfile = basename(url))
@@ -27,7 +27,7 @@ unzip("Scrutins_XV.json.zip")
 #L'archive ne nous sert plus à grand chose
 file.remove("Scrutins_XV.json.zip")
 #On se place là où les données sont (càd un niveau inférieur)
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/data_vote/json")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_vote/json")
 #On recupere la liste des fichiers
 liste_vote <- list.files()
 #Fonction visant pour chaque fichier de la liste a recuperer les informations
@@ -71,15 +71,9 @@ vote <- bind_rows(vote)
 #On verifie la coherence 
 head(vote,1000)
 
-
-test <- vote[,-1] %>%
-  pivot_wider(
-    names_from = uid_loi,
-    values_from = vote_code
-  )
 #CHARGEMENT DES DONNEES DEPUTE
 # Endroit ou vous mettez le fichier csv en telechargeant sous le lien 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/data_depute/")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_depute/")
 
 #Endroit ou telecharger les données
 url <- "https://www.data.gouv.fr/fr/datasets/r/092bd7bb-1543-405b-b53c-932ebb49bb8e"
@@ -109,5 +103,5 @@ vote_final <- merge(vote, depute_plus, by = "depute_code")  %>%
 #On garde en mémoire le fichier
 
 rm(list=c("depute_plus","vote","depute_plus_file","liste_vote","url","read_data"))
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/final")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_final")
 write.csv(vote_final,"vote_final.csv")

@@ -5,7 +5,7 @@
 library(tidyverse) 
 library(data.table)
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/vote_croise")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_vote_croise")
 
 liste_vote_croise <- list.files()
 liste_vote_croise
@@ -27,7 +27,7 @@ edge <- graph %>%
 
 rm(list=c("graph"))
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/final")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_final")
 list.files()
 
 vote_final <- read.csv("vote_final.csv" )[,-1]
@@ -60,7 +60,7 @@ edge <- edge %>%
 node <- node %>%
   select(-n)
 
-setwd("/home/gollentw/Documents/ScriptR/projetDemocratie/data/out/graph")
+setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_graph")
 
 fwrite(edge,"edge.csv")
 fwrite(node,"node.csv")

@@ -1,4 +1,0 @@
-df1 <- df %>%
-  pivot_longer(-ID, names_to = "Category", values_to = "Country") %>%
-  xtabs(~ID + Country, data = ., sparse = FALSE) %>% 
-  crossprod(., .) 
