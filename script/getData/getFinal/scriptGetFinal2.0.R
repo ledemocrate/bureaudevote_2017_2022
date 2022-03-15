@@ -185,6 +185,7 @@ vote_final_v2 <- vote_final_v2 %>%
 
 
 fwrite(vote_final_v2,"vote_final_v2.csv",sep=";",col.names =TRUE)
+vote_final_v2 <- fread(paste0(path,"/data/data_final/vote_final_v2.csv"))
 ############# TROP COUTEUX
 
 
@@ -208,12 +209,11 @@ file_js = geojson_sf(list.files()[1]) %>%
 vote_final_v2$circo <- as.numeric(vote_final_v2$circo )
 vote_final_v3 <- inner_join(vote_final_v2,file_js,by=c("departementCode","circo"))
 
-test <- st_as_sf(vote_final_v2 %>%
-  filter(uid_loi=='1504') %>%
+test <- st_as_sf(vote_final_v3 %>%
+  filter(uid_loi=='1505') %>%
   mutate(geometry = st_sfc(geometry))%>%
   select(vote_code,departementCode,geometry))
 
-setwd(paste0(path,"/data/data_final"))
-fwrite(vote_final_v3,"vote_final_v3.csv",sep=";",col.names =TRUE)
 
 plot(test["vote_code"])
+sf <- geojson_sf(file_js)
