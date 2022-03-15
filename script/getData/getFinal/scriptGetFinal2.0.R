@@ -185,7 +185,6 @@ vote_final_v2 <- vote_final_v2 %>%
 
 
 fwrite(vote_final_v2,"vote_final_v2.csv",sep=";",col.names =TRUE)
-vote_final_v2 <- fread(paste0(path,"/data/data_final/vote_final_v2.csv"))
 ############# TROP COUTEUX
 
 
@@ -214,5 +213,7 @@ test <- st_as_sf(vote_final_v2 %>%
   mutate(geometry = st_sfc(geometry))%>%
   select(vote_code,departementCode,geometry))
 
+setwd(paste0(path,"/data/data_final"))
+fwrite(vote_final_v3,"vote_final_v3.csv",sep=";",col.names =TRUE)
 
 plot(test["vote_code"])
