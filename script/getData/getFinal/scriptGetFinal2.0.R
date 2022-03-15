@@ -206,7 +206,7 @@ file_js = geojson_sf(list.files()[1]) %>%
   rename(circo = num_circ,departementCode =code_dpt )%>%
   mutate(circo = as.numeric(circo))
 vote_final_v2$circo <- as.numeric(vote_final_v2$circo )
-vote_final_v2 <- inner_join(vote_final_v2,file_js,by=c("departementCode","circo"))
+vote_final_v3 <- inner_join(vote_final_v2,file_js,by=c("departementCode","circo"))
 
 test <- st_as_sf(vote_final_v2 %>%
   filter(uid_loi=='1504') %>%
