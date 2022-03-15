@@ -185,11 +185,11 @@ vote_final_v2 <- vote_final_v2 %>%
 
 
 fwrite(vote_final_v2,"vote_final_v2.csv",sep=";",col.names =TRUE)
-
+vote_final_v2 <- fread(paste0(path,"/data/data_final/vote_final_v2.csv"))
 ############# TROP COUTEUX
 
 
-setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_circo")
+setwd(paste0(path,"/data/data_circo"))
 download.file("https://www.data.gouv.fr/fr/datasets/r/efa8c2e6-b8f7-4594-ad01-10b46b06b56a", 
               destfile = basename("https://www.data.gouv.fr/fr/datasets/r/efa8c2e6-b8f7-4594-ad01-10b46b06b56a"))
 
@@ -199,26 +199,20 @@ library(geojsonR)
 library(geojsonsf)
 library(rio)
 library(sf)
-
-states <- st_as_sf(map("state", plot = FALSE, fill = TRUE))
-head(states)
-circo <- fromJSON(list.files()[1], flatten=TRUE)
-circo <- circo[["features"]]
-circo <- circo %>%
-  filter(str_detect(properties.code_dpt,"Z")==FALSE)%>%
-  select(properties.code_dpt,properties.num_circ,geometry.coordinates)%>%
-  rename(departementCode = properties.code_dpt ,circo = properties.num_circ,area=geometry.coordinates )%>%
-  mutate(circo = as.numeric(circo),departementCode = as.character(departementCode)) 
-
-
-vote_final_v2 <- left_join(vote_final_v2,circo,by=c("departementCode","circo"))
-vote_final_v2$area <- as.character(vote_final_v2$area)
-setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/")
-terst <-st_as_sf(circo)
-
+library(sp)
 
 file_js = geojson_sf(list.files()[1]) %>%
   filter(str_detect(code_dpt,"Z")==FALSE)%>%
-  select(code_dpt,geometry)
-plot(file_js)
-sf <- geojson_sf(file_js)
+  select(num_circ,code_dpt,geometry)%>%
+  rename(circo = num_circ,departementCode =code_dpt )%>%
+  mutate(circo = as.numeric(circo))
+vote_final_v2$circo <- as.numeric(vote_final_v2$circo )
+vote_final_v2 <- inner_join(vote_final_v2,file_js,by=c("departementCode","circo"))
+
+test <- st_as_sf(vote_final_v2 %>%
+  filter(uid_loi=='1504') %>%
+  mutate(geometry = st_sfc(geometry))%>%
+  select(vote_code,departementCode,geometry))
+
+
+plot(test["vote_code"])
