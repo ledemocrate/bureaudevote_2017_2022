@@ -9,149 +9,78 @@ library(stringr) #Pour la manipulation textuelle
 library(tidyverse) #Couteau suisse
 library(purrr) #Pour certaine fonction
 library(data.table)
+library(jsonlite)  # Pour ouvrir fichier json
+
+extract_num <- function(x) {as.numeric(gsub("[^0-9.-]+", "", as.character(x)))} 
+#Permet d'éviter le warning deprecated lorsque utilisation de extract_numeric
+
+path <- "C:/Users/Quentin GOLLENTZ/Documents/PROJET PERSO/bureaudevote/"
+
+setwd(paste0(path,"data/data_vote/json"))
+#On recupere la liste des fichiers
+liste_vote <- list.files()
+
+#Fonction visant pour chaque fichier de la liste a recuperer les informations
+read_data <- function(liste){
+  #On lit le fichier de la liste
+  vote <- fromJSON(liste, flatten=TRUE)
+  
+  #On replique pour chaque vote les informations de la loi pour laquelle il vote
+  scrutin_numero <- vote[["scrutin"]][["numero"]]
+  titre <- vote[["scrutin"]][["titre"]]
+  date_vote <- vote[["scrutin"]][["dateScrutin"]]
+  
+  data <- data.frame(scrutin_numero,titre,date_vote)
+  return(data)
+}
+#Application de la fonction pour chaque fichier de la liste
+titre_vote <- lapply(liste_vote, read_data)
+
+#Creation d'un data.frame
+titre_vote <- bind_rows(titre_vote)
 
 # Récupération du lien amendement/loi sur le site :
 # https://www2.assemblee-nationale.fr/scrutins/liste/(offset)/{sequence_offset}/(legislature)/15/(type)/SOR/(idDossier)/TOUS
 
 # Vérifié manuellement que la sequence_offset prend bien en compte l'ensemble des pages
-sequence_offset <- c(1,c(1:42)*100)
-
+sequence_offset <- c("",c(1:44)*100)
 #Fonction permettant de récupérer les données d'une page
 function_get_url_dosier_scrutin <- function(url){
   print(url)
   url_prov <- paste0("https://www2.assemblee-nationale.fr/scrutins/liste/(offset)/",
                      url,
-                     "/(legislature)/15/(type)/SOR/(idDossier)/TOUS")
+                     "/(legislature)/15/(type)/TOUS/(idDossier)/TOUS")
   scrutins <- read_html(url_prov)
-  
-  prov<- scrutins %>% html_nodes("td")%>% 
-    html_text2()
-  prov <- prov[-c(1:3)]
   
   url_dossier_associe_prov<- scrutins %>% html_nodes("a")%>% 
     html_attr('href') 
-  url_dossier_associe <- c()
   
-  url_dossier_associe1 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/dyn/15/dossiers/")]
-  if(!is_empty(url_dossier_associe1)){
-    url_dossier_associe1 <- paste0(url_dossier_associe1,"?etape=15-AN1-DEPOT",sep="")
-    url_dossier_associe <- c(url_dossier_associe,url_dossier_associe1)
+  prov <- str_detect(as.character(url_dossier_associe_prov),"/scrutins/detail.")
+  prov_prov <- rep(FALSE,length(prov))
+  for (i in 1:length(prov)-1){
+    if(prov[i+1]==TRUE){
+      prov_prov[i]<-TRUE}
   }
   
-  url_dossier_associe2 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/dyn/14/dossiers/")]
-  if(!is_empty(url_dossier_associe2)){
-    url_dossier_associe1 <- paste0(url_dossier_associe2,"?etape=15-AN1-DEPOT",sep="")
-    url_dossier_associe <- c(url_dossier_associe,url_dossier_associe2)
-  }
+  prov_2 <- str_detect(as.character(url_dossier_associe_prov),"/scrutins/detail.")
   
-  url_dossier_associe3 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/15/dossiers/")]
-  if(!is_empty(url_dossier_associe3)){
-    url_dossier_associe1 <- paste0(url_dossier_associe3,"?etape=15-AN1-DEPOT",sep="")
-    url_dossier_associe <- c(url_dossier_associe,url_dossier_associe3)
-  }
+  url_dossier_associe <- url_dossier_associe_prov[prov_prov]
+  url_dossier_associe[str_detect(url_dossier_associe, "/scrutins/detail.")] <- ""
+  extract_numeric
+  scrutin_numero<-str_remove(extract_num(url_dossier_associe_prov[prov_2]),"15")
   
-  
-  variable1 <- rep(1,100)
-  variable2 <- rep(2,100)
-  variable3 <- rep(3,100)
-  variable4 <- rep(4,100)
-  variable5 <- rep(5,100)
-  variable6 <- rep(6,100)
-  
-  
-  for(i in 2:100){
-    variable1[i] <- variable1[i-1]+6
-    variable2[i] <- variable2[i-1]+6
-    variable3[i] <- variable3[i-1]+6
-    variable4[i] <- variable4[i-1]+6
-    variable5[i] <- variable5[i-1]+6
-    variable6[i] <- variable6[i-1]+6
-    
-  }
-  
-  
-  scrutin_numero <- prov[variable1]
-  date_scrutin <- prov[variable2]
-  resume_legislatif_associe <- prov[variable3]
-  
-  
-  scrutin_dossier_data_prov <- data.frame(scrutin_numero,date_scrutin,resume_legislatif_associe)
-  scrutin_dossier_data_prov <- scrutin_dossier_data_prov[str_detect(scrutin_dossier_data_prov$resume_legislatif_associe,"dossier"),]
-  
-  scrutin_dossier_data <- data.frame(scrutin_dossier_data_prov,url_dossier_associe)
+  scrutin_dossier_data <- data.frame(scrutin_numero,url_dossier_associe)
   return(scrutin_dossier_data)
 }
 #Application de la fonction pour chaque page
 dossier_scrutin <- lapply(sequence_offset,function_get_url_dosier_scrutin)
 #Création d'un data.frame
-dossier_scrutin <- bind_rows(dossier_scrutin)
+dossier_scrutin <- unique(bind_rows(dossier_scrutin))
 #On s'assure du type de certaine variable
 dossier_scrutin$url_dossier_associe <- as.character(dossier_scrutin$url_dossier_associe)
 head(dossier_scrutin)
 
-##########################Exception a la page 3800################################
-url_prov <- paste0("https://www2.assemblee-nationale.fr/scrutins/liste/(offset)/",
-                   "3800",
-                   "/(legislature)/15/(type)/SOR/(idDossier)/TOUS")
-scrutins <- read_html(url_prov)
-
-prov<- scrutins %>% html_nodes("td")%>% 
-  html_text2()
-prov <- prov[-c(1:3)]
-
-url_dossier_associe_prov<- scrutins %>% html_nodes("a")%>% 
-  html_attr('href') 
-url_dossier_associe <- c()
-
-url_dossier_associe1 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/dyn/15/dossiers/")]
-if(!is_empty(url_dossier_associe1)){
-  url_dossier_associe1 <- paste0(url_dossier_associe1,"?etape=15-AN1-DEPOT",sep="")
-  url_dossier_associe <- c(url_dossier_associe,url_dossier_associe1)
-}
-
-url_dossier_associe2 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/dyn/14/dossiers/")]
-if(!is_empty(url_dossier_associe2)){
-  url_dossier_associe1 <- paste0(url_dossier_associe2,"?etape=15-AN1-DEPOT",sep="")
-  url_dossier_associe <- c(url_dossier_associe,url_dossier_associe2)
-}
-
-url_dossier_associe3 <- url_dossier_associe_prov[str_detect(url_dossier_associe_prov, "^https://www.assemblee-nationale.fr/15/dossiers/")]
-if(!is_empty(url_dossier_associe3)){
-  url_dossier_associe1 <- paste0(url_dossier_associe3,"?etape=15-AN1-DEPOT",sep="")
-  url_dossier_associe <- c(url_dossier_associe,url_dossier_associe3)
-}
-
-
-variable1 <- rep(1,100)
-variable2 <- rep(2,100)
-variable3 <- rep(3,100)
-variable4 <- rep(4,100)
-variable5 <- rep(5,100)
-variable6 <- rep(6,100)
-
-
-for(i in 2:100){
-  variable1[i] <- variable1[i-1]+6
-  variable2[i] <- variable2[i-1]+6
-  variable3[i] <- variable3[i-1]+6
-  variable4[i] <- variable4[i-1]+6
-  variable5[i] <- variable5[i-1]+6
-  variable6[i] <- variable6[i-1]+6
-  
-}
-
-
-scrutin_numero <- prov[variable1]
-date_scrutin <- prov[variable2]
-resume_legislatif_associe <- prov[variable3]
-
-
-scrutin_dossier_data_prov <- data.frame(scrutin_numero,date_scrutin,resume_legislatif_associe)
-scrutin_dossier_data_prov <- scrutin_dossier_data_prov[str_detect(scrutin_dossier_data_prov$resume_legislatif_associe,"dossier"),]
-
-scrutin_dossier_data <- data.frame(scrutin_dossier_data_prov,url_dossier_associe)
-#######################
-dossier_scrutin <- unique(rbind(dossier_scrutin,scrutin_dossier_data))
+dossier_scrutin <- left_join(titre_vote,dossier_scrutin, by = "scrutin_numero")
 
 #Fonction permettant de récupérer l'adresse du texte initale de loi à partir de l'adresse du dossier associé
 fonction_url_texte_loi <- function(url){
@@ -217,44 +146,65 @@ names(url_texte_loi)[1] <- "url_dossier_associe"
 names(url_texte_loi)[2] <- "texte_loi"
 names(url_texte_loi_JO)[1] <- "url_dossier_associe"
 names(url_texte_loi_JO)[2] <- "texte_loi_JO"
-  
-data_loi <- merge(dossier_scrutin,url_texte_loi,by="url_dossier_associe",all.x = TRUE)
-data_loi <- merge(data_loi,url_texte_loi_JO,by="url_dossier_associe",all.x = TRUE) %>%
+
+data_loi <- left_join(dossier_scrutin,url_texte_loi,by="url_dossier_associe")
+data_loi <- left_join(data_loi,url_texte_loi_JO,by="url_dossier_associe") %>%
   mutate(nom_loi = str_replace_all(
-                   str_remove(
-                   str_remove(
-                   str_remove(
-                   str_remove(
-                   str_remove(
-                   str_remove(url_dossier_associe,"https://www.assemblee-nationale.fr/15/dossiers/")
-                                                 ,"https://www.assemblee-nationale.fr/dyn/14/dossiers/")
-                                                 ,".asp")
-                                                 ,"https://www.assemblee-nationale.fr/dyn/15/dossiers/")
-                                                 ,"etape=15-AN1-DEPOT")
-                                                 ,"https:www.assemblee-nationale.fr/dyn/14/dossiers/")
-                                                 ,"[[:punct:]]", " ")) %>%
-  mutate(nom_pdf = paste0(str_remove(texte_loi,"https://www.assemblee-nationale.fr/dyn/15/textes/"),".pdf")) %>%
-  rename(uid_loi  = scrutin_numero)
+    str_remove(
+      str_remove(
+        str_remove(
+          str_remove(
+            str_remove(
+              str_remove(url_dossier_associe,"https://www.assemblee-nationale.fr/15/dossiers/")
+              ,"https://www.assemblee-nationale.fr/dyn/14/dossiers/")
+            ,".asp")
+          ,"https://www.assemblee-nationale.fr/dyn/15/dossiers/")
+        ,"etape=15-AN1-DEPOT")
+      ,"https:www.assemblee-nationale.fr/dyn/14/dossiers/")
+    ,"[[:punct:]]", " ")) %>%
+  rename(uid_loi  = scrutin_numero) %>%
+  select(uid_loi,nom_loi,date_vote,titre,url_dossier_associe,texte_loi,texte_loi_JO) %>%
+  mutate(type_texte = case_when(str_detect(titre,"declaration")~ 4,
+                                str_detect(titre,"amendement")~ 3,
+                                str_detect(titre,"article")~ 2,
+                                str_detect(titre,"ensemble")~ 1,
+                                str_detect(titre,"motion")~ 0))
+nom_loi <- unique(data.frame(data_loi$nom_loi,data_loi$texte_loi_JO,data_loi$url_dossier_associe)) %>%
+  rename(nom_loi=data_loi.nom_loi,url_dossier_associe=data_loi.url_dossier_associe,texte_loi_JO=data_loi.texte_loi_JO) %>%
+  mutate(Statut = case_when(!is.na(texte_loi_JO)~1))
 
-fonction_telechargement_pdf <- function(url){
-    print(url)
-    download.file(paste0(url,".pdf"),  paste0(getwd(), "/", str_remove(url,"https://www.assemblee-nationale.fr/dyn/15/textes/")))
-  }
-fonction_telechargement_pdf <- possibly(fonction_telechargement_pdf, otherwise = FALSE)
-
-setwd("C:/User/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_pdf_loi")
-lapply(unique(data_loi$texte_loi),fonction_telechargement_pdf)
-  
-nom_loi <- as.data.frame(unique(data_loi$nom_loi))
 names(nom_loi)[1] <- "nom_loi"
 
-setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_loi/")
-write_csv(nom_loi,"nom_loi.csv")
-write_csv(data_loi,"data_loi.csv")
+setwd(paste0(path,"/data/data_loi/"))
 
-###### Sous réserve d'avoir vote_final, si non il faut aller le chercher
-rm(list = c("depute_plus","test","url_texte_loi","url_texte_loi_JO","vote","vote_final_v1"))
+fwrite(nom_loi,paste0("nom_loi","_",Sys.Date(),".csv"),sep=";",col.names = TRUE)
+nom_loi_originel <- read.csv("nom_loi.csv",header=TRUE,sep=";")
+update <- nom_loi[!unique(str_trim(nom_loi$nom_loi)) %in% str_trim(nom_loi_originel$nom_loi),]
+fwrite(update,"update.csv",sep=";",col.names = TRUE)
+nom_loi_final <- bind_rows(nom_loi_originel,update)
+fwrite(nom_loi_final,"nom_loi.csv",sep=";",col.names = TRUE)
 
-data_democratie <- merge(vote_final ,data_loi,by="uid_loi",all.x = TRUE)
-setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_democratie/")
-fwrite(data_democratie,"data_democratie.csv")
+setwd(paste0(path,"/data/data_final/"))
+
+vote_final_v2 <- fread("vote_final_v2.csv")
+
+###### Sous réserve d'avoir nom_loi avec statut de la loi si rejete alors 0 si non 1
+setwd(paste0(path,"/data/data_loi/"))
+nom_loi <- read.csv("nom_loi.csv",sep=";")
+
+data_loi <-unique(data_loi %>%
+                    select(uid_loi,nom_loi,date_vote,titre,type_texte))
+
+data_loi$uid_loi <-as.character(data_loi$uid_loi)
+data_loi <- left_join(data_loi,nom_loi,by="nom_loi")
+
+fwrite(data_loi,"data_loi.csv",sep=";",col.names = TRUE)
+
+data_loi$uid_loi <-as.numeric(data_loi$uid_loi )
+data_democratie <- left_join(vote_final_v2 ,data_loi,by="uid_loi") %>%
+  select(-date_vote.y)%>%
+  rename(date_vote=date_vote.x)
+
+setwd(paste0(path,"/data/data_democratie/"))
+fwrite(data_democratie,"data_democratie.csv",sep=";",col.names = TRUE)
+

@@ -129,7 +129,7 @@ vote_final <- left_join(vote, depute_plus, by = "depute_code")  %>%
 
 rm(list=c("depute_plus","vote","depute_plus_file","liste_vote","url","read_data"))
 setwd(paste0(path,"/data/data_final"))
-fwrite(vote_final,"vote_final.csv",sep=";",col.names =TRUE)
+fwrite(vote_final,"vote_final.csv",sep=";",col.names =TRUE,)
 
 #######
 
@@ -206,14 +206,16 @@ file_js = geojson_sf(list.files()[1]) %>%
   select(num_circ,code_dpt,geometry)%>%
   rename(circo = num_circ,departementCode =code_dpt )%>%
   mutate(circo = as.numeric(circo))
+
 vote_final_v2$circo <- as.numeric(vote_final_v2$circo )
 vote_final_v3 <- inner_join(vote_final_v2,file_js,by=c("departementCode","circo"))
 
 test <- st_as_sf(vote_final_v3 %>%
-  filter(uid_loi=='1505') %>%
+  filter(uid_loi=='1544') %>%
   mutate(geometry = st_sfc(geometry))%>%
   select(vote_code,departementCode,geometry))
 
-
 plot(test["vote_code"])
-sf <- geojson_sf(file_js)
+
+setwd(paste0(path,"/data/data_final"))
+fwrite(vote_final_v3,"vote_final_v3.csv",sep=";",col.names =TRUE)

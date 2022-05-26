@@ -5,13 +5,17 @@
 library(tidyverse) 
 library(data.table)
 
-setwd("C:/Users/GoldentzGrahamz/OneDrive/Documents/GitHub/bureaudevote/data/data_vote_croise")
+path <- "C:/Users/Quentin GOLLENTZ/Documents/PROJET PERSO/bureaudevote/"
+
+setwd(paste0(path,"/data/data_vote_croise"))
 
 liste_vote_croise <- list.files()
 liste_vote_croise
 
 fonction_create_graph_data <- function(vote_croise){
   vote_final_read <- fread(vote_croise)
+  vote_final_read <- vote_final_read %>%
+    mutate(nom_loi)
   return(list(vote_final_read))
 }
 

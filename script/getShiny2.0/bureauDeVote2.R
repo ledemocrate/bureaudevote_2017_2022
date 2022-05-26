@@ -16,9 +16,12 @@ library(sodium)
 library(markdown)
 library(knitr)
 
+library(plotly)
+
+
 options(gargle_oauth_cache = ".secrets")
 drive_auth(path = ".secrets")
-gm_auth_configure(path = "sendMail.json")
+gm_auth_configure(path = "data/sendMail.json")
 gs4_auth(path = ".secrets")
 
 responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing")%>%
@@ -27,7 +30,8 @@ responses_bis <- read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKS
 departement <- read.csv("data/data_departement/departements-france.csv") %>%
   select(nom_departement)
 
-fichier <- str_remove(list.files(paste0("data/data_resume_vie_publique")),".rmd")
+data_democratie<- read.csv("data/data_democratie/data_democratie_2.csv")
+fichier <-unique(data_democratie$nom_loi)
 
 fieldsEmargement <- c("Mail","Nom","Prenom","Departement","Naissance")
 fieldsMandatoryEmargement <- c("Mail","Nom","Prenom","Departement")
@@ -60,15 +64,11 @@ majorite <- function() {
 saveDataEmargement <- function(data) {
   data <- data %>% as.list() %>% data.frame()
   sheet_append("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing", data)
-  
-  
 }
 
 loadDataEmargement <- function() {
-  
   responses_bis <-read_sheet("https://docs.google.com/spreadsheets/d/1clKV4cJdlKSFodG3zkxS0Y_wKfZaMY_urXc0aEHuEb8/edit?usp=sharing")%>%
     mutate(Naissance = as.Date(as.integer(Naissance),origin="1970-01-01"))
-  
 }
 
 saveDataVote <- function(data) {
@@ -77,9 +77,7 @@ saveDataVote <- function(data) {
 } 
 
 loadDataVote <- function() {
-  
   responses <-read_sheet("https://docs.google.com/spreadsheets/d/1CZ_-vixtmkbdnq_TuMPQSyaQ-vzxugYqxWXJnVtl2Hs/edit?usp=sharing")
-  
 }
 
 
@@ -136,6 +134,7 @@ ui <- fluidPage(
                           actionButton("submit", "Submit", class = "btn-primary")),
                         mainPanel(
                           h3("Contenue de la loi"),
+                          plotlyOutput('statistique_loi'),
                           actionButton("button", "Voir plus"),
                           hidden(
                             div(id='text_div',
@@ -238,6 +237,29 @@ server <- function(input, output,session) {
   })     
   
   ######### Vote parte
+  
+  dat <- reactive({
+    test <- data_democratie %>%
+      filter(nom_loi== input$file1) %>%
+      select(date_vote,uid_loi,titre,type_texte,nb_pour,nb_contre)%>%
+      unique()%>%
+      arrange(uid_loi)
+    
+    sequence <- seq(1,nrow(test))
+    
+    test <-  test %>%
+      mutate(Ordre = sequence)  %>%
+      pivot_longer( cols = starts_with("nb"),
+                    names_to = "Position",
+                    values_to = "Nombre")
+    test
+  })
+  
+  output$statistique_loi<-renderPlotly(
+    ggplotly(ggplot(dat(), aes(fill=Position, y=Nombre, x=Ordre,label=date_vote,label_2=uid_loi,label_3=titre,label_4=type_texte)) + 
+               geom_bar(position="stack", stat="identity") +
+               ylim(0,570)+
+               ggtitle("Distribution des votes relatifs à un texte de loi"),tooltip = c("date_vote","uid_loi","titre","type_texte")))
   
   observeEvent(input$button, {
     toggle('text_div')
