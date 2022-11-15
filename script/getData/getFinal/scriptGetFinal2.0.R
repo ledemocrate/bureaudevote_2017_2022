@@ -2,7 +2,7 @@
 # Analyse des données de vote de l'assemblée française
 ######################################################
 
-#INTEGRATION DES DONNEES VOTE(Json) & Deputés(Csv)
+#INTEGRATION DES DONNEES VOTES(Json) & Deputés(Csv)
 
 #LIBRAIRIE UTILISEE
 library(jsonlite)  # Pour ouvrir fichier json
